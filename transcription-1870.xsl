@@ -141,6 +141,12 @@
 		</div>
 	</xsl:template>
 
+	<xsl:template match="div/div">
+		<br/><br/><div class="{concat(name(), ' ', translate(@rend, '-', ''))}">
+			<xsl:apply-templates/>
+		</div>
+	</xsl:template>
+
 	<xsl:template match="lb">
 		<xsl:variable name="class">
 			<xsl:if test="@rend">

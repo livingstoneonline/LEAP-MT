@@ -570,7 +570,7 @@ p{
 /* 11. Lists and Tables */
 .list{
 	display:block;
-	margin-top:12px;
+	/*margin-top:12px;*/
 }
 table{
 	font-size:1em; /*85%;*//*Changed for 1870 Field Diary*/
