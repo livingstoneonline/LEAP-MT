@@ -23,7 +23,8 @@ Table of Contents
 /* 1. Textual divisions */
 
 body{
-	background:white;/*#d3c2a8;*/ /*#e7d5bd*/
+	background:#e2e3e1;/*#d3c2a8;*/ /*#e7d5bd*/
+	padding-left:40px;
 }
 div.transcription{
 	margin-left:auto;
@@ -50,6 +51,9 @@ div.transcription{
 	min-width:29em;
 	white-space:normal;
 }
+.div{
+	margin-top:-1.2em;
+}
 div.text{
 }
 div.body{
@@ -60,8 +64,7 @@ div.body{
 .back{
 	display:block;
 }
-.div{
-}
+
 
 /* 1.5. Title section */
 
@@ -234,7 +237,7 @@ p.right .linenumber{
 .line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:19em !important;
+	width:12em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;
@@ -262,7 +265,7 @@ p.right .linenumber{
 .halfline{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:16.5em !important;
+	width:10.5em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;
@@ -272,7 +275,7 @@ p.right .linenumber{
 .quarterline{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:11em !important;
+	width:9em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;
@@ -282,7 +285,7 @@ p.right .linenumber{
 .second-line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:19em !important;
+	width:12em !important;
 	margin-left:0;
 	text-align:left;
 	margin-top:-1em;
@@ -294,13 +297,16 @@ p.right .linenumber{
 .third-line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:19em !important;
+	width:12em !important;
 	margin-left:0;
 	text-align:left;
 	margin-top:1.5em;
 	height:0;
 	border:0;
 	border-top:1px solid #58484b;
+}
+.first-double{
+	margin-top:1.5em;
 }
 
 /* 5. p, ab, note, fw */
@@ -348,6 +354,12 @@ p{
 }
 .fw.catch.right{
 	text-indent:0;
+}
+.note.marginleft{
+	margin-left:-3.6em !important;
+	text-indent:0;	
+	float:left;
+	text-align:center;
 }
 
 /* 6. Additions and Deletions */
@@ -530,7 +542,7 @@ p{
 	color:black;
 }
 .blue{
-	color:blue;
+	color:#55759e;/*#507ca5;*/
 }
 .brown{
 	color:brown;

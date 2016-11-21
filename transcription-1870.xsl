@@ -139,7 +139,6 @@
 		<div class="{concat(name(), ' ', translate(@rend, '-', ''))}">
 			<xsl:apply-templates/>
 		</div>
-		<br/>
 	</xsl:template>
 
 	<xsl:template match="lb">
@@ -879,7 +878,7 @@
 	<xsl:template match="milestone">
 		<xsl:choose>
 			<xsl:when test="@rend='double-line'">
-				<hr class="{concat(name(), ' ', 'line')}"/><br/>
+				<hr class="{concat(name(), ' ', 'line', ' ', 'first-double')}"/><br/>
 				<hr class="{concat(name(), ' ', 'second-line')}"/>
 			</xsl:when>
 			<xsl:when test="@rend='triple-line'">
