@@ -571,16 +571,19 @@ p{
 	display:inline-block;
 	/*margin-top:12px;*/
 }
-table{
+.table,
+.cell{
 	display:inline-block;
 	font-size:1em; /*85%;*//*Changed for 1870 Field Diary*/
 	border-style:none;
 	margin-right: 2em; /*Needed so that the text doesn't run up against the right edge in the viewer.*/
-	color:#58484b; /*Added color for 1870 Field Diary*/
 }
-tr,
-td{
-	border-style:none;
+.row{
+	float:right;
+}
+.cell.right{
+	text-indent:0;
+	margin-left:4em;
 }
 
 

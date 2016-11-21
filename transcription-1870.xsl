@@ -1267,21 +1267,23 @@
 
 	<!-- Beginning of elements that go with table -->
 	<xsl:template match="table">
-		<table>
-			<xsl:apply-templates/>
-			<!-- select="@*|node()" -->
-		</table>
+		<table class="{concat(name(), ' ', translate(@rend, '-', ''))}"><xsl:apply-templates/><!-- select="@*|node()" --></table>
 	</xsl:template>
 
 	<xsl:template match="row">
-		<tr>
-			<xsl:apply-templates/>
-			<!-- select="@*|node()" -->
-		</tr>
+		<tr class="{concat(name(), ' ', translate(@rend, '-', ''))}"><xsl:apply-templates/><!-- select="@*|node()" --></tr>
 	</xsl:template>
 
 	<xsl:template match="cell">
-		<td> &#x00A0;<xsl:apply-templates/>&#x00A0;<!-- select="@*|node()" --> </td>
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}"><xsl:apply-templates/><!-- select="@*|node()" --></span>
+	</xsl:template>
+
+	<xsl:template match="cell[@rend='center']">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">&#x00A0;<xsl:apply-templates/><!-- select="@*|node()" --></span>
+	</xsl:template>
+
+	<xsl:template match="cell[@rend='right']">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">&#x00A0;<xsl:apply-templates/><!-- select="@*|node()" --></span>
 	</xsl:template>
 	<!-- End of elements that go with table -->
 
