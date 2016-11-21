@@ -571,18 +571,16 @@ p{
 	display:inline-block;
 	/*margin-top:12px;*/
 }
-.table,
 .cell{
+	max-width:1%;
+	min-width:1%;
+	text-align:left;
 	display:inline-block;
-	font-size:1em; /*85%;*//*Changed for 1870 Field Diary*/
-	border-style:none;
-	margin-right: 2em; /*Needed so that the text doesn't run up against the right edge in the viewer.*/
-}
-.row{
-	float:right;
 }
 .cell.right{
-	text-indent:0;
+	margin-left:7em;
+}
+.cell.right.cell-after-center{
 	margin-left:4em;
 }
 

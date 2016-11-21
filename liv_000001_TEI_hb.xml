@@ -1863,11 +1863,11 @@
 
 	<pb facs="liv_000001_0083" n="0083"/>
 <!-- The table at the top of this page continues from 0084. How do we mark this connection? AW -->
-<lb/><table><row><cell rend="left">mill -</cell><cell rend="right">2<space extent="3" unit="chars"/></cell></row>
+<lb/><table><row><cell rend="left">mill -</cell><cell rend="right">2</cell></row>
 
 <lb/><row><cell rend="left">Big beads 500</cell><cell rend="right">2 50</cell></row>
 
-<lb/><row><cell rend="left">Buffalo house</cell><cell rend="right"><hi rend="underline">35<space extent="3" unit="chars"/></hi></cell></row>
+<lb/><row><cell rend="left">Buffalo house</cell><cell rend="right"><hi rend="underline">35</hi></cell></row>
 
 <lb/><row><cell rend="left">soap - 1 box</cell><cell rend="right"><hi rend="underline">2.50</hi></cell></row></table>
 
@@ -1926,18 +1926,17 @@
 
 <lb/><row><cell rend="left">2 guns</cell><cell rend="right">6</cell></row>
 
-<lb/><row><cell rend="right"><milestone unit="section" rend="half-line"/></cell></row>
+<lb/><milestone unit="section" rend="half-line"/>
 
-<lb/><row><cell rend="right">100</cell></row><!-- Is this the way to capture the fact that this row sums up what came before? AW -->
+<lb/><row><cell rend="left"><term type="animal"><choice><sic>Buggalo</sic><corr>Buffalo</corr></choice></term></cell><cell rend="right">100</cell></row>
 
-<lb/><row><cell rend="left"><term type="animal"><choice><sic>Buggalo</sic><corr>Buffalo</corr></choice></term> <lb/>food</cell><cell rend="right">86.57</cell></row>
+<lb/><row><cell rend="left">food</cell><cell rend="right">86.57</cell></row>
 
 <lb/><row><cell rend="left">presents</cell><cell rend="right">22.50</cell></row>
 
-<lb/><row><cell rend="left"><term type="occupation">porters</term> -</cell><cell rend="right">200</cell></row>
+<lb/><row><cell rend="left"><term type="occupation">porters</term></cell><cell rend="right">-- 200</cell></row>
 
 <lb/><row><cell rend="left">food of <choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice></cell><cell rend="right">7</cell></row></table>
-
 
 	<pb facs="liv_000001_0085" n="0085"/>
 <lb/><figure><figDesc>Calculations related to payments to <persName>Salim</persName> for <term type="animal">camels</term>, <term type="animal">donkeys</term>, and guns.</figDesc></figure>

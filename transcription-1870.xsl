@@ -862,7 +862,7 @@
 
 	<!-- For "lb" see above -->
 
-	<xsl:template match="list">
+	<xsl:template match="list|table">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}"><xsl:apply-templates/></span>
 	</xsl:template>
 
@@ -872,8 +872,16 @@
 		</span>
 	</xsl:template>
 
-	<xsl:template match="list/item">
+	<xsl:template match="list/item|cell">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">
+			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
+
+
+
+	<xsl:template match="cell[@rend='right'][preceding-sibling::cell[@rend='center']]" priority="10">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'cell-after-center')}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
@@ -1264,28 +1272,6 @@
 	</xsl:template>-->
 
 	<!-- For "surface" see above -->
-
-	<!-- Beginning of elements that go with table -->
-	<xsl:template match="table">
-		<table class="{concat(name(), ' ', translate(@rend, '-', ''))}"><xsl:apply-templates/><!-- select="@*|node()" --></table>
-	</xsl:template>
-
-	<xsl:template match="row">
-		<tr class="{concat(name(), ' ', translate(@rend, '-', ''))}"><xsl:apply-templates/><!-- select="@*|node()" --></tr>
-	</xsl:template>
-
-	<xsl:template match="cell">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}"><xsl:apply-templates/><!-- select="@*|node()" --></span>
-	</xsl:template>
-
-	<xsl:template match="cell[@rend='center']">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">&#x00A0;<xsl:apply-templates/><!-- select="@*|node()" --></span>
-	</xsl:template>
-
-	<xsl:template match="cell[@rend='right']">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">&#x00A0;<xsl:apply-templates/><!-- select="@*|node()" --></span>
-	</xsl:template>
-	<!-- End of elements that go with table -->
 
 	<!-- For "TEI" see above -->
 
