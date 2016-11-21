@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="justin-transcription-1870.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000001">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Field Diary I</title>
+                <title type="alternative">Field Diary I, 4 August 1865 - 31 March 1866</title>
+                <author>David Livingstone</author>
+                <principal>Adrian S. Wisnicki</principal>
+                <principal>Christopher Lawrence</principal>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Transcription</resp>
+                    <resp>TEI Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+					<resp>Proofing</resp>
+					<resp>Encoding Review</resp>
+                </respStmt>
+				<respStmt xml:id="CL">
+					<name>Christopher Lawrence</name>
+					<resp>Final proofing</resp>
+				</respStmt>
+                <respStmt xml:id="MW">
+                    <name>Megan Ward</name>
+                    <resp>Transcription</resp>
+                    <resp>TEI Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+					<resp>Proofing</resp>
+                </respStmt>
+                <respStmt xml:id="HB">
+                    <name>Heather F. Ball</name>
+                    <resp>Transcription</resp>
+                    <resp>TEI Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+					<resp>Proofing</resp>
+					<resp>Quality Control and Integration</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription</resp>
+                    <resp>TEI Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+					<resp>Proofing</resp>
+                </respStmt>
+                <respStmt xml:id="AA">
+                    <name>Angela Aliff</name>
+                    <resp>Transcription</resp>
+                    <resp>TEI Encoding</resp>
+					<resp>Proofing</resp>
+                </respStmt>
+                <respStmt xml:id="AK">
+                    <name>Ashanka Kumari</name>
+                    <resp>Transcription</resp>
+                    <resp>TEI Encoding</resp>
+					<resp>Proofing</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>University of Maryland Libraries</publisher>
+                <pubPlace>College Park, MD, USA</pubPlace>
+                <date>2014</date>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License</ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Blantyre</settlement>
+                        <repository>David Livingstone Centre</repository>
+                        <idno type="shelfmark">Cat 1123</idno>
+                        <altIdentifier>
+                            <idno type="ccnumber">Field Diaries, 014</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="U"><label>Unknown Hand</label> This hand is unknown
+                                but thought not David Livingstone's.</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+                <bibl type="sourceMetadata">
+                    <title>Field Diary I</title>
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1865-08-04" to="1866-03-31">4 August 1865 - 31 March 1866</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage><!-- Heather, the other languages found in the various transcription sections need to be added here. Put English first, then the other languages in alphabetical order using the @ident value. AW -->
+                <language ident="en">English</language>
+                <language ident="ajw">Ajawa</language>
+                <language ident="ar">Arabic</language>
+				<language ident="fr">French</language>
+                <language ident="hi">Hindi</language>
+				<language ident="la">Latin</language>
+				<language ident="swh">Swahili</language>
+				<language ident="und">Undetermined</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <!-- Heather, the <change> below is just an example. All the <change> elements from the various transcription sections need to be integrated here and placed in chronological order, starting with the most recent. In addition, you need to regularize the text of what each person does, so that it matches the standardized text I've put in the <resp> statements further above. AW -->
+			<!-- Final corrections -->
+			<change when="2015-12-15" who="#HB">Final corrections/TEI incorporations</change>
+			<change when="2014-11-22" who="#AW">Further corrections</change>
+        	<change when="2014-10-31" who="#HB">Implement TEI manual changes</change>
+			<change when="2014-08-21" who="#CL">Final proofing</change>
+			<!-- Penultimate review -->
+        	<change when="2014-06-03" who="#AW">Editorial Decisions</change>
+            <!-- Integration -->
+        	<change when="2014-05-27" who="#HB">Quality Control and Integration; Editorial Decisions</change>
+        	<!-- _0001 -->
+            <change when="2014-05-13" who="#AW">Encoding Review</change>
+            <change when="2014-05-07" who="#MW">Proofing</change>
+            <change when="2014-04-29" who="#AW">Transcription and TEI Encoding</change>
+            <!-- _0008 -->
+            <change when="2014-05-13" who="#AW">Encoding Review</change>
+            <change when="2014-05-07" who="#MW">Proofing</change>
+            <change when="2014-05-05" who="#AW">Coding review</change>
+            <change when="2014-05-01" who="#AA">Transcription and TEI Encoding</change>
+            <!-- _0027 -->
+            <change when="2014-05-14" who="#AW">Encoding Review</change>
+            <change when="2014-05-08" who="#KS">Proofing</change>
+        	<change when="2014-04-29" who="#MW">Transcription and TEI Encoding</change>
+            <!-- _0048 -->
+            <change when="2014-05-15" who="#AW">Encoding Review</change>
+			<change when="2014-05-08" who="#AK">Proofing</change>
+        	<change when="2014-04-29" who="#KS">Transcription and TEI Encoding</change>
+            <!-- _0068 -->
+            <change when="2014-05-15" who="#AW">Proofing</change>
+			<change when="2014-05-10" who="#AK">Proofing</change>
+			<change when="2014-05-09" who="#AW">Proofing</change>
+            <change when="2014-05-03" who="#AK">Transcription and TEI Encoding</change>
+            <!-- _0088 -->
+            <change when="2014-05-18" who="#HB">Proofing</change>
+            <change when="2014-05-03" who="#AW">Transcription and TEI Encoding</change>
+            
+       </revisionDesc>
+    </teiHeader>
+
+<!-- Heather, I think that at the beginning of each transcription section that you add, you should copy the initials of the people that worked on that section from the file name, as in the example I give below. That way we'll retain that record, which would otherwise be lost through integration. Also, when you integrate the sections, please leave in all the green comments, except for the comments I specifically make to you, which can be removed. However, leave in the comments from me to you that appear above. AW -->
+
+    <text>
+
+	<!-- aw, mw, aw -->
+
+	<gb/>
+<!-- Heather, note the addition of the <gb/> and, of course, later when the text goes upside-down. I hope this makes sense. Each of these is a gathering, so both should be marked. AW -->
+
+
+		
+		<body>
+			<div>
+
+    <pb facs="liv_000001_0004" n="0004"/>
+<lb/><p><del type="strikethrough" rend="red">Any word will do</del>
+<lb/><del type="strikethrough"><add hand="#U2" rend="red">Any word</add></del>
+<lb/><add hand="#U2" rend="red">Imagine this is a longer passage with just one <del type="strikethrough" hand="#DL">deletion</del> in it</add>
+</p>
+
+			</div></body>
+
+  </text>
+</TEI>
