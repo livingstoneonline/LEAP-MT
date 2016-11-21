@@ -158,11 +158,6 @@ hr.title-section{
 	margin-top:2em;
 	margin-bottom:-.9em;
 }
-.pb-title:hover,
-.pb-title-notop:hover{
-	color:#AAA;
-	cursor:pointer
-}
 .pb-title-notop{
 	display:block;
 	color:#428bca;
@@ -171,6 +166,11 @@ hr.title-section{
 	margin-top:.5em;
 	margin-bottom:-.9em;    
 	text-indent:0 !important;
+}
+.pb-title:hover,
+.pb-title-notop:hover{
+	color:#AAA;
+	cursor:pointer
 }
 .pb-title:first-of-type {
   margin-top: 0;

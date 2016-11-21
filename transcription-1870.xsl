@@ -300,16 +300,6 @@
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
-	
-	<!-- <xsl:template match="p[following-sibling::pb/addSpan]" priority="10">
-		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place)}"><xsl:apply-templates/></span>
-	</xsl:template> -->
-	
-	<xsl:template match="pb[preceding-sibling::p[1]]|p/pb">
-		<br/><br/><span class="pb-title-notop">
-			<xsl:value-of select="@n"/>
-		</span>
-	</xsl:template>
 
 	<xsl:variable name="ailment" select="doc('ailment.xml')"/>
 	<xsl:template match="term[@type='ailment']">
@@ -980,6 +970,12 @@
 
 	<xsl:template match="pb">
 		<br/><span class="pb-title">
+			<xsl:value-of select="@n"/>
+		</span>
+	</xsl:template>
+
+	<xsl:template match="pb[preceding-sibling::p[1]]|p/pb">
+		<br/><br/><span class="pb-title-notop">
 			<xsl:value-of select="@n"/>
 		</span>
 	</xsl:template>
