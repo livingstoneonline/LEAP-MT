@@ -856,23 +856,28 @@
 		</xsl:element>
 	</xsl:template>
 
-<xsl:template match="idno[@type='LEAP-ID']">
+	<xsl:template match="idno[@type='LEAP-ID']">
 		<span class="idno"><xsl:apply-templates/></span>
-	</xsl:template>
-
-	<xsl:template match="list/item">
-		<span class="listitem" title="item">
-			<xsl:apply-templates/>
-		</span>
 	</xsl:template>
 
 	<!-- For "lb" see above -->
 
 	<xsl:template match="list">
-		<span class="list" title="list">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}"><xsl:apply-templates/></span>
+	</xsl:template>
+
+	<xsl:template match="list/head">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
+
+	<xsl:template match="list/item">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">
+			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
+
 
 	<xsl:template match="metamark"><span class="metamark italic" title="Editorial symbol, mark, or unusual character"
 		>#</span></xsl:template>

@@ -337,7 +337,6 @@ p{
 .ab.center{
 }
 .head{
-	font-weight:300;
 }
 .note{
 	display:inline;
@@ -569,10 +568,11 @@ p{
 
 /* 11. Lists and Tables */
 .list{
-	display:block;
+	display:inline-block;
 	/*margin-top:12px;*/
 }
 table{
+	display:inline-block;
 	font-size:1em; /*85%;*//*Changed for 1870 Field Diary*/
 	border-style:none;
 	margin-right: 2em; /*Needed so that the text doesn't run up against the right edge in the viewer.*/
