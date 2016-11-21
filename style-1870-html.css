@@ -158,9 +158,19 @@ hr.title-section{
 	margin-top:2em;
 	margin-bottom:-.9em;
 }
-.pb-title:hover{
+.pb-title:hover,
+.pb-title-notop:hover{
 	color:#AAA;
 	cursor:pointer
+}
+.pb-title-notop{
+	display:block;
+	color:#428bca;
+	/*text-decoration:underline;*/
+	font-size:90%;
+	margin-top:.5em;
+	margin-bottom:-.9em;    
+	text-indent:0 !important;
 }
 .pb-title:first-of-type {
   margin-top: 0;
@@ -168,6 +178,9 @@ hr.title-section{
 p span.pb-title{
 	margin-left:0;
 	text-indent:0;
+}
+.p.pb-title{
+    margin-top:2em;
 }
 .del-pb{
 }
@@ -221,7 +234,7 @@ p.right .linenumber{
 .line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:22em !important;
+	width:19em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;
@@ -249,7 +262,7 @@ p.right .linenumber{
 .halfline{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:17.5em !important;
+	width:16.5em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;
@@ -269,7 +282,7 @@ p.right .linenumber{
 .second-line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:22em !important;
+	width:19em !important;
 	margin-left:0;
 	text-align:left;
 	margin-top:-1em;
@@ -281,7 +294,7 @@ p.right .linenumber{
 .third-line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:22em !important;
+	width:19em !important;
 	margin-left:0;
 	text-align:left;
 	margin-top:1.5em;

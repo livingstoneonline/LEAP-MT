@@ -132,7 +132,7 @@
 	<xsl:template match="text|body|front|back">
 		<div class="{concat(name(), ' ', translate(@rend, '-', ''))}">
 			<xsl:apply-templates/>
-		</div>
+		</div><br/>
 	</xsl:template>
 
 	<xsl:template match="div">
@@ -298,6 +298,16 @@
 		<br/>
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">
 			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
+	
+	<!-- <xsl:template match="p[following-sibling::pb/addSpan]" priority="10">
+		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place)}"><xsl:apply-templates/></span>
+	</xsl:template> -->
+	
+	<xsl:template match="pb[preceding-sibling::p[1]]|p/pb">
+		<br/><br/><span class="pb-title-notop">
+			<xsl:value-of select="@n"/>
 		</span>
 	</xsl:template>
 
@@ -969,7 +979,7 @@
 	</xsl:template>
 
 	<xsl:template match="pb">
-		<span class="pb-title">
+		<br/><span class="pb-title">
 			<xsl:value-of select="@n"/>
 		</span>
 	</xsl:template>
