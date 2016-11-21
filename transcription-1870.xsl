@@ -18,7 +18,7 @@
 	</xd:doc>
 	
 	<xsl:output method="xml" indent="no"/>
-	<!-- It's necessary that this be "no" or otherwise extra space is kicked in when there are two <span>s in a row. It also appearst to solve other minor formatting issues -->
+	<!-- It's necessary that this be "no" or otherwise extra space is kicked in when there are two <span>s in a row. It also appearst to solve other minor formatting issues --><!-- Adrian -->
 
 	<!-- Incoming parameters -->
 	<xsl:param name="page" select="'0001'"/>
