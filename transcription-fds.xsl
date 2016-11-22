@@ -166,11 +166,11 @@
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
-	
-	<xsl:template match="div/list[1]">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'div-list')}">
+
+	<xsl:template match="div[preceding-sibling::div][child::pb[1]]">
+		<br/><div class="{concat(name(), ' ', translate(@rend, '-', ''))}">
 			<xsl:apply-templates/>
-		</span>
+		</div>
 	</xsl:template>
 
 	<xsl:template match="lb">

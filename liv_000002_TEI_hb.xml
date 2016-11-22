@@ -339,7 +339,7 @@
 		</div>
 		
 		<div rend="blue">    
-<lb/><p><date when="1866-04-09">9<hi rend="sup underline">th</hi> <add place="below">^</add> <add place="above">April</add></date> the country rather
+<lb/><p rend="no-indent"><date when="1866-04-09">9<hi rend="sup underline">th</hi> <add place="below">^</add> <add place="above">April</add></date> the country rather
 <lb/>curious in being
 <lb/>without stones on 
 <lb/>surface - deep rich
@@ -433,13 +433,13 @@
 <lb/><p rend="no-indent">At <placeName><settlement type="village">Nuri</settlement></placeName><!-- Narri in printed source. CL --> on <date when="1866-04-10">10<hi rend="sup underline">th</hi> April
 <lb/>1866</date> <!--<choice><abbr>ob<hi rend="sup">d</hi></abbr><expan>observed</expan></choice> <choice><abbr>alt n</abbr><expan>altitutde north</expan></choice> Argus
 <lb rend="right"/>Index Error 0"--></p>
-<figure rend="blue black"><figDesc>Geographical calculations.</figDesc></figure>
+<lb/><figure rend="blue black"><figDesc>Geographical calculations.</figDesc></figure>
 		</div>
     
         <div rend="gray">
     <pb facs="liv_000002_0016" n="0016"/>
 
-<lb/><p><persName>Ishmael</persName> <term type="ailment">fever</term> &amp; <term type="ailment">vomiting</term>
+<lb/><p rend="no-indent"><persName>Ishmael</persName> <term type="ailment">fever</term> &amp; <term type="ailment">vomiting</term>
 
 <lb/><choice><abbr>R</abbr><expan>Prescribed</expan></choice> <term type="medicament"><choice><abbr>cal</abbr><expan>calomel</expan></choice></term> &amp; <w><subst><del>qu</del><add place="over-text">ar</add></subst>omatic</w> <choice><abbr>p.</abbr><expan>purging</expan></choice> <w>stopp<gap extent="2" unit="chars" agent="blot"/><supplied>ed</supplied></w>
 
@@ -455,7 +455,7 @@
 
 <lb/><term type="medicament">morphia</term></p>
 
-<lb/><p><persName><w><subst><del>G</del><add place="over-text">J</add></subst>ainach</w></persName> <choice><sic>Gun</sic><corr>Gum</corr></choice> much <supplied cert="medium">pus</supplied>
+<lb/><p rend="no-indent"><persName><w><subst><del>G</del><add place="over-text">J</add></subst>ainach</w></persName> <choice><sic>Gun</sic><corr>Gum</corr></choice> much <supplied cert="medium">pus</supplied>
 
 <lb/>got <choice><sic>cul</sic><corr cert="medium">cut</corr></choice> &amp; <term type="medicament">quinine</term>
 
@@ -483,7 +483,7 @@
 <!-- Heather, you were heoric in transcribing the foregoing page. AW -->
             
     <pb facs="liv_000002_0017" n="0017"/>
-<lb/><p><persName>Shah Malim</persName> = <term type="ailment">headache</term> &amp;
+<lb/><p rend="no-indent"><persName>Shah Malim</persName> = <term type="ailment">headache</term> &amp;
 
 <lb/><term type="ailment">fever</term> <choice><sic>pil</sic><corr>pill</corr></choice> <term type="medicament"><choice><abbr>cal.</abbr><expan>calomel</expan></choice></term> &amp; <term type="medicament"><choice><abbr>jal.</abbr><expan>jalap</expan></choice></term> Recovered</p>
 
@@ -514,8 +514,8 @@
 <!-- What happened to Livingstone's writing on these two pages? It's barely legible. AW -->
 
     <pb facs="liv_000002_0018" n="0018"/>
-<table><row><cell rend="left">
-<lb/><list rend="gray"><item>✓ <foreign xml:lang="und">Somari</foreign> <add place="inline">15</add></item>
+
+<lb/><list rend="gray"><item>✓ <foreign xml:lang="und">Somari</foreign> <add place="inline">15</add> <note place="marginright">Men of <placeName><settlement type="village">Nuri</settlement></placeName> on <lb/><date when="1866-04-11">11<hi rend="sup underline">th</hi> April</date></note></item> 
 <lb/><item>✓ <persName>Rupimi</persName> <add place="inline">13</add></item>     
 <lb/><item>✓ <persName>Boamusa</persName> <add place="inline">10</add></item> 
 <lb/><item>✓ <persName>Monyesa</persName> <add place="inline">8</add></item> 
@@ -533,10 +533,6 @@
 <lb/><item>✓ <persName><w>Sa<subst><del>h</del><add place="over-text">d</add></subst>ke</w></persName> <add place="inline">4</add></item>
 <lb/><item>✓ <persName>Bahari</persName> <add place="inline">5</add></item> 
 <lb/><item>✓ <persName>Stomali</persName> <add place="inline">6</add></item></list> 
-</cell>
-<cell rend="right">
-<lb/><p>Men of <placeName><settlement type="village">Nuri</settlement></placeName> on
-<lb/><date when="1866-04-11">11<hi rend="sup underline">th</hi> April</date></p></cell></row></table>
         </div>
 			    
 		<div rend="blue">
@@ -627,7 +623,7 @@
 <lb/>thickness - One species
 <lb/>is a flattened ribbon
 <lb/>of about 2 inches thick
-<lb/>by <choice><orig>ₑ⁄₄</orig><reg>1/4</reg></choice> to <choice><orig>½</orig><reg>1/2</reg></choice> an inch thick
+<lb/>by <choice><orig>¼</orig><reg>1/4</reg></choice> to <choice><orig>½</orig><reg>1/2</reg></choice> an inch thick
 <lb/>along the middle of its
 <lb/>flattened sides every
 <lb/>few inches rises a
@@ -636,10 +632,10 @@
 		    
     <pb facs="liv_000002_0023" n="0023"/>
 <lb/><figure><figDesc>Drawing of plants.</figDesc></figure>
-<lb rend="right"/><p>It turns
+<lb rend="right"/><p rend="no-indent">It turns
 <lb rend="right"/>on itself
 <lb rend="right"/>at <choice><sic>sharpp</sic><corr>sharp</corr></choice>
-<lb/>angles and hangs
+<lb/><space extent="1" unit="words"/>angles and hangs
 <lb/>from tree to tree and its
 <lb/>tangled limbs straggle
 <lb/>out <subst><del>at</del><add place="over-text">on</add></subst> every side like
@@ -684,7 +680,7 @@
     
 	<pb facs="liv_000002_0025" n="0025"/>
 <lb/>tough</p>
-<lb/><p>Another <figure rend="right"><figDesc>Drawing of two thorny branches.</figDesc></figure>
+<lb/><p rend="no-indent">Another <figure rend="right"><figDesc>Drawing of two thorny branches.</figDesc></figure>
 <lb/>The woods are still - few
 <lb/>new <term type="animal">birds</term> appear - this
 <lb/>is probably owing to the 
@@ -785,7 +781,7 @@
 <lb break="no"/>-ertion</w>	in all - The
 <lb/><term type="people"><choice><sic>chinese</sic><corr>Chinese</corr></choice></term> may be
 <lb/>exceptions to this -</p>
-<lb/><p> <space extent="4" unit="chars"/><orgName><term type="occupation"><choice><sic>Sepoys</sic><corr>Sepoys'</corr></choice></term></orgName> <term type="plant_foodstuff">rice</term> done
+<lb/><p><orgName><term type="occupation"><choice><sic>Sepoys</sic><corr>Sepoys'</corr></choice></term></orgName> <term type="plant_foodstuff">rice</term> done
 <lb/>last night - say they
 <lb/>came not to eat
 <lb/>but to die with me
@@ -883,7 +879,7 @@
 <lb/>and his wife cleaned them
 <lb/>for us - The <orgName><term type="occupation">Sepoys</term></orgName> have
 <lb/>too much luggage - both
-<term type="animal">buffaloes</term> &amp; <term type="animal">donkeys</term> are
+<lb/><term type="animal">buffaloes</term> &amp; <term type="animal">donkeys</term> are
 <lb/>distressed by <w>t<gap extent="2" unit="chars" agent="fading"/><supplied cert="high">he</supplied></w> miles to
 	
 	<pb facs="liv_000002_0034" n="0034"/>
@@ -1061,9 +1057,10 @@
 <lb/>torrent there - The features
 <lb/>of these men are rounded
 <lb/>like the <term type="tribe">Batoka</term> - faces
-<lb/>deeply tattooed - <w>an<gap agent="blot" extent="1" unit="chars"/><supplied cert="high">d</supplied></w>
-<lb/><figure><figDesc>Drawing of a face with the outline of tattoos; drawing of a cross.</figDesc></figure> <hi rend="right">all front</hi>
-<lb rend="right"/>part of bodies
+<lb/>deeply tattooed - <w>an<gap agent="blot" extent="1" unit="chars"/><supplied cert="high">d</supplied></w> 
+<lb/><seg rend="center">all front</seg>
+<lb/><seg rend="center">part of bodies</seg>
+<lb/><figure><figDesc>Drawing of a face with the outline of tattoos; drawing of a cross.</figDesc></figure>
 	
 	<pb facs="liv_000002_0042" n="0042"/>
 <lb/>when saluting they catch
@@ -1098,8 +1095,9 @@
 <lb/>He was the instigator of
 <lb/>the attack on us in our
 <lb/>former visit and to
-<lb/>him I gave cloth to <add place="below">prevent a collision <lb/>said nothing to him -</add></p>
-<lb/><p rend="no-indent"><date when="1866-04-23">23<hi rend="sup underline">d</hi></date>	
+<lb/>him I gave cloth to</p> 
+<lb/><p rend="no-indent"><space extent="1" unit="words"/><add place="inspace">prevent a collision</add>
+<lb/><date when="1866-04-23">23<hi rend="sup underline">d</hi></date> <add place="inpsace">said nothing to him -</add> 	
 <lb/><term type="animal"><foreign xml:lang="und">Juvi</foreign></term> = <term type="animal">leopard</term> - <w>Th<subst><del>ey</del><add place="over-text">e</add></subst></w>
 <lb/><term type="tribe">Makonde</term> take off skin
 <lb/>and burn body in fire
@@ -1142,7 +1140,7 @@
 <lb/>out of spirits - I <w>sus<supplied>-</supplied>
 <lb break="no"/>-pect</w> the work as the
 <lb/>cause</p>
-<lb/><p>A <term type="occupation">carrier</term> stole the
+<lb/><p>a <term type="occupation">carrier</term> stole the
 <lb/>shirt &amp; powder of a
 <lb/><orgName><placeName><geogName type="island">Johanna</geogName></placeName> man</orgName> - <persName>Ali</persName>
 <lb/>went off by night
@@ -1214,7 +1212,7 @@
 <lb/>the hills for there
 <lb/>the gardens are
 <lb/>situated -</p>
-<lb/><metamark/><p>a kind of <term type="plant_foodstuff">potato</term>
+<lb/><p rend="no-indent"><metamark/> <space extent="2" unit="chars"/>a kind of <term type="plant_foodstuff">potato</term>
 <lb/>first seen by me
 <lb/>at <placeName><settlement type="village">Nambwe</settlement></placeName> &amp; all
 <lb/>called <foreign xml:lang="und"><w>M<subst><del>amt</del><add place="over-text">and</add></subst>are</w></foreign></p>
@@ -1255,7 +1253,7 @@
 <lb/><placeName><geogName type="river">Rovuma</geogName></placeName> called <placeName><geogName type="valley">Narri</geogName></placeName>
 <lb/>and there resolve to
 <lb/>wait on the .</p>
-<lb/><p><date when="1866-04-26">26<hi rend="sup underline">th</hi>April 1866</date> and
+<lb/><p><date when="1866-04-26">26<hi rend="sup underline">th</hi> April 1866</date> and
 <lb/>purchase food as there
 <lb/>is much hunger in front
 <lb/>in consequence of the
@@ -1267,7 +1265,7 @@
 <lb/>women very naked</p>
 
 	<pb facs="liv_000002_0051" n="0051"/>
-<lb/><p>Took <choice><abbr>obs<hi rend="sup">ns</hi></abbr><expan>observations</expan></choice> <hi rend="underline">ʘ</hi> Time &amp; <choice><abbr>alt</abbr><expan>altitutde</expan></choice>
+<lb/><p rend="no-indent">Took <choice><abbr>obs<hi rend="sup">ns</hi></abbr><expan>observations</expan></choice> <hi rend="underline">ʘ</hi> Time &amp; <choice><abbr>alt</abbr><expan>altitutde</expan></choice>
 <lb/><choice><abbr>Mer.</abbr><expan>Meridian</expan></choice> <choice><abbr>Lat.</abbr><expan>latitude</expan></choice> 10° 54' 48" S
 <lb/>purchase plenty of
 <lb/><term type="foodstuff">meal</term> - one <term type="animal">camel</term>
@@ -1298,7 +1296,7 @@
 <lb/><space extent="1" unit="words"/>left with him</item></list>
 	</div>
 	<div rend="blue">
-<lb/><milestone unit="section" rend="line"/>
+<milestone unit="section" rend="line"/>
 <lb/><p rend="no-indent"><date when="1866-04-28">28<hi rend="sup underline">th</hi>April</date> <placeName><settlement type="village"><choice><abbr><sic>vil.</sic></abbr><expan><corr>Village</corr></expan></choice> <choice><sic>ilaha</sic><corr>Ilaha</corr></choice></settlement></placeName> 
 <lb/>We passed end of hills
 <lb/>on North apparently
@@ -1333,7 +1331,7 @@
 <lb/>gravel &amp; <unclear cert="low">shimpall</unclear>
 	
 	<pb facs="liv_000002_0054" n="0054"/>
-<lb/>A gap in the Southern
+<lb/>a gap in the Southern
 <lb/>table land gives passage
 <lb/>to a river arising in
 <lb/>a lakelet which may
@@ -1397,7 +1395,7 @@
 <lb/>my <unclear cert="high">prayers</unclear></p>				
 				
 	<pb facs="liv_000002_0057" n="0057"/>
-<lb/><p><date when="1866-04-29">29<hi rend ="sup underline">th</hi> April 1866</date>. <choice><sic>at</sic><corr>At</corr></choice>	
+<lb/><p rend="no-indent"><date when="1866-04-29">29<hi rend ="sup underline">th</hi> April 1866</date>. <choice><sic>at</sic><corr>At</corr></choice>	
 <lb/><placeName><settlement type="village">Nachuchu</settlement></placeName>. After
 <lb/>worship tried to say
 <lb/>a few words to the
@@ -1437,14 +1435,15 @@
 <lb/>Leaves in pairs
 <lb/>glossy green with
 <lb/>the veins a little
-<lb/><space extent="4" unit="chars"/>raised on face <!-- Adrian, should I leave these space tags as-is, or remove/replace with better tags? HB -->
-<lb/><space extent="6" unit="words"/>&amp; back - The
-<lb/><space extent="4" unit="words"/>bark light ash
-<lb/><space extent="6" unit="words"/>colour - tree
-<lb/><space extent="7" unit="words"/>large - small
-<lb/><space extent="6" unit="words"/>branches
-<lb/><space extent="7" unit="words"/>diverge from
-<lb/><space extent="10" unit="words"/>same points
+<lb/><space extent="3" unit="chars"/>raised on face <!-- Adrian, should I leave these space tags as-is, or remove/replace with better tags? HB -->
+<lb/><space extent="5" unit="chars"/>&amp; back - The
+<lb/><space extent="3" unit="chars"/>bark light ash
+<lb/><space extent="5" unit="chars"/>colour - tree
+<lb/><space extent="6" unit="chars"/>large - small
+<lb/><space extent="3" unit="chars"/>branches
+<lb/><space extent="4" unit="chars"/>diverge from
+<lb/><space extent="7" unit="chars"/>same points
+<lb/><figure><figDesc>Drawing of <term type="plant">gum copal tree</term> leaves on the branch.</figDesc></figure>
 
 	<pb facs="liv_000002_0060" n="0060"/>
 <lb/>The gum is digged
@@ -1596,7 +1595,7 @@
 <lb/>copal yielding tree</term> - 
 <lb/>and many <term type="plant_foodstuff">Malole fruits</term>
 <lb/>were on the ground -</p>
-<lb/><p><choice><sic>came</sic><corr>Came</corr></choice> to <placeName><settlement type="village">Ntande village</settlement></placeName>
+<lb/><p rend="no-indent"><choice><sic>came</sic><corr>Came</corr></choice> to <placeName><settlement type="village">Ntande village</settlement></placeName>
 <lb/>a strong stockade was
 <lb/>round it for fear of
 <lb/>the <term type="tribe">Mabiha</term> who come
@@ -1625,7 +1624,7 @@
 <lb/>who can hit when
 <lb/>unjustly attacked - never
 <lb/>was a murderous <w>assa<supplied>-</supplied>
-<lb break="no"/>-ult</w> more unprovoked <subst><del><gap extent="1" unit="words"/></del><add place="over-text">than</add></subst> <add place="above">this</add>
+<lb break="no"/>-ult</w> more unprovoked <subst><del><gap extent="1" unit="words" agent="illegible"/></del><add place="over-text">than</add></subst> <add place="above">this</add>
 
 	<pb facs="liv_000002_0068" n="0068"/>
 <lb/>all look on the <term type="people">English</term>
@@ -1944,7 +1943,7 @@
 <lb/>ill - drowsy looking 
 <lb/>&amp; eyes bleared - one
 <lb/>eye of <term type="animal">cow</term> dimmed</p>
-<lb/><p><hi rend="double-underline"><date when="1866-05-06">6<hi rend="sup underline">th</hi> May 1866</date></hi> our
+<lb/><p rend="no-indent"><hi rend="double-underline"><date when="1866-05-06">6<hi rend="sup underline">th</hi> May 1866</date></hi> our
 <lb/>course has been <w>ex-
 <lb break="no"/>-cessively</w> crooked
 <lb/>in fact from <choice><abbr>vil.</abbr><expan>village</expan></choice>
@@ -1961,7 +1960,7 @@
 <lb/>This is not the <unclear cert="medium"><term type="foodstuff">beer</term></unclear> time</p>
 
 	<pb facs="liv_000002_0083" n="0083"/>
-<lb/><p>At service a man
+<lb/><p rend="no-indent">At service a man
 <lb/>began to talk &amp; when I
 <lb/>told him we were
 <lb/>"<foreign xml:lang="und">soma Mungu</foreign>" praying
@@ -1969,8 +1968,9 @@
 <lb/>silent <date when="1866-05-07">7 May 1866</date></p>
 	</div>
 	<div rend="gray">
-<lb/><p><date when="1866-05-07">7<hi rend="sup underline">th</hi></date> <term type="animal">Camel</term> &amp; <term type="animal">buffalo</term> died
-<lb/>this morning - <add place="below marginright"><lb/>begin again <lb/>on <date when="1866-05-10">10<hi rend="sup">th</hi></date></add></p> <!-- Is this the proper place for the additional text? HB -->
+<lb/><p rend="no-indent"><date when="1866-05-07">7<hi rend="sup underline">th</hi></date> <term type="animal">Camel</term> &amp; <term type="animal">buffalo</term> died
+<lb/>this morning - 
+<lb/><add rend="right"><lb/>begin again <lb/>on <date when="1866-05-10">10<hi rend="sup">th</hi></date></add></p> <!-- Is this the proper place for the additional text? HB -->
 <lb/><list><head><term type="occupation">carriers</term> -</head>
 <lb/><item>✓ <del type="strikethrough"><persName>Itonga</persName></del> luggage</item>
 <lb/><item>✓ <del type="strikethrough"><persName>Karihenge</persName> food</del> powder</item>

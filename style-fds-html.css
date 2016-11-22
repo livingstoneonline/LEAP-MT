@@ -360,6 +360,12 @@ p{
 	float:left;
 	text-align:center;
 }
+.note.marginright{
+	margin-right:-3.6em !important;
+	text-indent:0;	
+	float:right;
+	margin-top:-1.4em;
+}
 
 /* 6. Additions and Deletions */
 
@@ -571,9 +577,6 @@ p{
 	display:inline-block;
 	/*margin-top:12px;*/
 	text-indent:0em;
-}
-.div-list{
-    margin-top:.8em;
 }
 .cell{
 	max-width:1%;
