@@ -152,6 +152,12 @@
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
+	
+	<xsl:template match="div/list[1]">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'div-list')}">
+			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
 
 	<xsl:template match="lb">
 		<xsl:variable name="class">
