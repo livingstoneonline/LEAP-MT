@@ -135,6 +135,12 @@
 		</div><br/>
 	</xsl:template>
 
+	<xsl:template match="body[following-sibling::back]" priority="10">
+		<div class="{concat(name(), ' ', translate(@rend, '-', ''))}">
+			<xsl:apply-templates/>
+		</div>
+	</xsl:template>
+
 	<xsl:template match="div">
 		<div class="{concat(name(), ' ', translate(@rend, '-', ''))}">
 			<xsl:apply-templates/>
@@ -894,14 +900,11 @@
 		</span>
 	</xsl:template>
 
-
-
 	<xsl:template match="cell[@rend='right'][preceding-sibling::cell[@rend='center']]" priority="10">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'cell-after-center')}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
-
 
 	<xsl:template match="metamark"><span class="metamark italic" title="Editorial symbol, mark, or unusual character"
 		>#</span></xsl:template>

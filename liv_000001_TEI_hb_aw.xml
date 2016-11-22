@@ -193,29 +193,29 @@
 			<div rend="blue">
 
     <pb facs="liv_000001_0004" n="0004"/>
-<lb/><addSpan spanTo="#addFr-1" hand="#U"/><p><foreign xml:lang="fr">À Monsieur</foreign> <!-- Not sure why this page is coded as addSpan as not added to text after the fact but part of text itself? (or am I reading the definition incorrectly?) HB 2014-05-27 --><!-- I'm treating this as an addition to DL's diary by someone else and so timing doesn't matter. The point is it's a span of text, rather than a short addition, not by DL. AW -->
+<lb/><addSpan spanTo="#addFr-1" hand="#U"/><p rend="no-indent"><foreign xml:lang="fr">À Monsieur</foreign> <!-- Not sure why this page is coded as addSpan as not added to text after the fact but part of text itself? (or am I reading the definition incorrectly?) HB 2014-05-27 --><!-- I'm treating this as an addition to DL's diary by someone else and so timing doesn't matter. The point is it's a span of text, rather than a short addition, not by DL. AW -->
 <lb/><persName>Monsieur <w>Ca<add place="above">i</add>lliatte</w></persName>
 <lb/><placeName><settlement type="city">Marsauceux</settlement></placeName>
 <lb/>pres <placeName><settlement>Dreux</settlement></placeName><!-- commune -->
 <lb/><placeName><region>Eure et Loir</region></placeName></p><anchor xml:id="addFr-1"/>
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p><persName><foreign xml:lang="fr"><choice><sic>Monsier</sic><corr>Monsieur</corr></choice></foreign> <choice><sic>Calliatte</sic><corr>Cailliatte</corr></choice></persName>
+<lb/><p rend="no-indent"><persName><foreign xml:lang="fr"><choice><sic>Monsier</sic><corr>Monsieur</corr></choice></foreign> <choice><sic>Calliatte</sic><corr>Cailliatte</corr></choice></persName>
 <lb/><placeName><settlement type="city">Marsauceux</settlement></placeName>
 <lb/>Pres <placeName><settlement>Dreux</settlement></placeName><!-- commune -->
 <lb/><placeName><region><hi rend="underline">Eure</hi> et Loir</region></placeName></p>
 
 	<pb facs="liv_000001_0005" n="0005"/>
-<lb/><addSpan spanTo="#addFr-2"/><delSpan spanTo="#delFr-1"/><p><foreign xml:lang="fr">À</foreign> <persName><foreign xml:lang="fr">Madame</foreign> Hocidi</persName>
+<lb/><addSpan spanTo="#addFr-2"/><delSpan spanTo="#delFr-1"/><p rend="no-indent"><foreign xml:lang="fr">À</foreign> <persName><foreign xml:lang="fr">Madame</foreign> Hocidi</persName>
 <lb/><foreign xml:lang="fr">du</foreign> <persName><foreign xml:lang="fr">Docteur</foreign> Livingstone</persName></p><anchor xml:id="delFr-1"/>
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p><foreign xml:lang="fr">À</foreign> <persName><foreign xml:lang="fr">Madame</foreign> Hocidi</persName>
+<lb/><p rend="no-indent"><foreign xml:lang="fr">À</foreign> <persName><foreign xml:lang="fr">Madame</foreign> Hocidi</persName>
 <lb/><foreign xml:lang="fr">chez</foreign> <persName><foreign xml:lang="fr"><choice><abbr>M.</abbr><expan>Monseiur</expan></choice></foreign> <unclear cert="high">Frédine</unclear> de
 <lb/><unclear cert="medium">Comisets</unclear></persName></p>
 <lb/><p><placeName><settlement type="city">Le Havre</settlement></placeName>
 <lb/><foreign xml:lang="fr">du</foreign> <persName><foreign xml:lang="fr">Docteur</foreign> Livingstone</persName>
 <lb/><placeName>Hotel des Deux Mondes</placeName>
 <lb/><space extent="1" unit="words"/><placeName><settlement type="city">Paris</settlement></placeName></p>
-<lb/><p><foreign xml:lang="fr">"Nous <unclear cert="medium">sommes</unclear> à <placeName><settlement type="city">Marsauceux</settlement></placeName>
+<lb/><p rend="no-indent"><foreign xml:lang="fr">"Nous <unclear cert="medium">sommes</unclear> à <placeName><settlement type="city">Marsauceux</settlement></placeName>
 <lb/>Mercredi à onze heures
 <lb/>et demi</foreign> -" </p><anchor xml:id="addFr-2"/>
 <lb/><p>In answer to the above <persName>M<hi rend="sup underline">rs</hi>
@@ -225,7 +225,7 @@
 <lb/>on <date when="1865-08-18">18<hi rend="sup underline">th</hi></date> God bless her</p>
 
 	<pb facs="liv_000001_0006" n="0006"/>
-<lb/><p>£1300 per ton
+<lb/><p rend="no-indent">£1300 per ton
 <lb/>185 for ivory - The
 <lb/>largest price given</p>
 <lb/><milestone unit="section" rend="line"/> 
@@ -1971,7 +1971,8 @@
 
 	<div rend="gray">
 	<pb facs="liv_000001_0087" n="0087"/> 
-<lb/><figure rend="left"><figDesc>The upper left-hand part of this page has an illustration of a genealogical chart.</figDesc></figure> <list rend="right"><item>cousins are <foreign xml:lang="und">Bari</foreign>
+<lb/><figure><!-- rend="left" --><figDesc>The upper left-hand part of this page has an illustration of a genealogical chart.</figDesc></figure> 
+<lb/><list><!-- rend="right" --><item>cousins are <foreign xml:lang="und">Bari</foreign>
 <lb/>&amp; not <choice><sic>marrigiable</sic><corr>marriageable</corr></choice></item>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><item><foreign xml:lang="und"><w>neic<subst><del>he</del><add place="over-text">es</add></subst></w></foreign> not <w><choice><sic>marriagi</sic><corr>marriage</corr></choice><supplied>-</supplied>
@@ -1989,8 +1990,14 @@
 <!-- aw, hb -->
 	    
               <div rend="blue">
-	
+
 	<pb facs="liv_000001_0088" n="0088"/>
+	
+	<pb facs="liv_000001_0089" n="0089"/>
+
+
+	<pb facs="liv_000001_0090" n="0090"/>
+
 <!-- When we are transcribing pages with dense coding, as below, we should use extra spacing to make reading easier. AW -->
               	
 <lb/><list><item><persName>Amoda</persName> <date when="1866-02-10">10 <choice><abbr>Feb<hi rend="sup">y</hi></abbr><expan>February</expan></choice></date> <choice><abbr>Rs</abbr><expan>Rupees</expan></choice> 10
@@ -2025,14 +2032,14 @@
 
 <lb/><item>eight <orgName><placeName><geogName type="island">Johanna</geogName></placeName> men</orgName>
 
-<lb/>Jumpers <hi rend="right">6/</hi></item>
+<lb/>Jumpers <space extent="2" unit="words"/>6/</item>
 
 <lb/><item><orgName><placeName><settlement type="city">Nassick</settlement></placeName> boys</orgName> each 6/</item>
 
 <lb/><item><unclear cert="high">Paid fine</unclear> by <orgName><placeName><geogName type="island">Johanna</geogName></placeName> man</orgName> <space extent="1" unit="chars"/>2/</item></list>
 
 
-	<pb facs="liv_000001_0089" n="0089"/>
+	<pb facs="liv_000001_0091" n="0091"/>
 <lb/><list><item>Paid to <persName>Theodor Schulby</persName> <gap agent="blot" extent="2" unit="chars"/>
 	
 <lb/>at <placeName><geogName type="island">Zanzibar</geogName></placeName> £27-4
@@ -2043,7 +2050,7 @@
 
 <lb/><item><date when="1866-02-10">10<hi rend="sup underline">th</hi> <choice><abbr>Feb<hi rend="sup">y</hi></abbr><expan>February</expan></choice> 1866</date>
 
-<lb/>Paid <orgName><term type="occupation">Havildar</term></orgName> <list><item>for 3 days
+<lb/><list><item>Paid <orgName><term type="occupation">Havildar</term></orgName></item> <item>for 3 days
 
 <lb/>for grass to <choice><abbr>D<hi rend="sup underline">o</hi></abbr><expan>Ditto</expan></choice> &amp; <term type="animal">mules</term> <choice><abbr>R</abbr><expan>Rupees</expan></choice> 2</item>
 
@@ -2052,14 +2059,16 @@
 <lb/><item>for feed of <term type="animal">cattle</term> <space extent="1" unit="chars"/><choice><abbr>R</abbr><expan>Rupees</expan></choice> 5</item>
 </list></item></list>
 
-<lb/><space dim="vertical" extent="3" unit="lines"/><figure><figDesc>Insect that appears to be a <term type="insect">butterfly</term> pressed into the diary.</figDesc></figure>
+<lb/><space dim="vertical" extent="3" unit="lines"/>
+
+<lb/><figure><figDesc>Insect that appears to be a <term type="insect">butterfly</term> pressed into the diary.</figDesc></figure>
 
 <lb/><space dim="vertical" extent="4" unit="lines"/>
 
 		</div>
 
 	<div rend="gray">
-	<pb facs="liv_000001_0090" n="0090"/>
+	<pb facs="liv_000001_0092" n="0092"/>
 <lb/><p rend="no-indent"><persName>Hamid bin Sulayyam</persName>
 <lb/><orgName><choice><sic>arab</sic><corr>Arab</corr></choice></orgName> of the <foreign xml:lang="ar">Dhow</foreign> on <placeName><geogName type="lake">Lake
 <lb/>Tanganyika</geogName></placeName></p>
@@ -2080,7 +2089,7 @@
 	</div>
 
 	<div rend="blue">
-	<pb facs="liv_000001_0091" n="0091"/>
+	<pb facs="liv_000001_0093" n="0093"/>
 <lb/><list><item><foreign xml:lang="und"><hi rend="underline">Morofi</hi></foreign> = <term type="animal">sawfish</term> is said
 <lb/>to eat <foreign xml:lang="und"><hi rend="underline">Mabande</hi></foreign> a <choice><sic>spears</sic><corr>spear</corr></choice>
 <lb/>of grass growing in wet
@@ -2101,15 +2110,15 @@
 <lb/><item><foreign xml:lang="und">zikombo</foreign> other side or
 <lb/>country</item></list>
 
-	<pb facs="liv_000001_0092" n="0092"/>
-<lb/><p><date when="1865-12-26">26 <choice><abbr>Dec<hi rend="sup underline">r</hi></abbr><expan>December</expan></choice> 1865</date> Sent off
-<lb/>to ship by <persName>Dubash</persName>
+	<pb facs="liv_000001_0094" n="0094"/>
+<lb/><p rend="no-indent"><date when="1865-12-26">26 <choice><abbr>Dec<hi rend="sup underline">r</hi></abbr><expan>December</expan></choice> 1865</date> Sent off
+<lb/>to ship by <persName>Dubash</persName></p>
 <lb/><list><item>10 Loads of calico</item>
 <lb/><item>8 --- <space extent="2" unit="chars"/>of coloured and
 <lb/><space extent="2" unit="words"/>woolen cloths</item>
 <lb/><item>18 boxes provisions</item>
 <lb/><milestone unit="section" rend="quarter-line"/>
-<lb/><item>36 in all</item></list></p>
+<lb/><item>36 in all</item></list>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><list><item><w>1<subst><del>0</del><add place="over-text">1</add></subst></w> bags of beads sent</item>
 <lb/><item>3 -- <space extent="2" unit="chars"/>shot -</item>
@@ -2117,7 +2126,7 @@
 <lb/><milestone unit="section" rend="line"/>
 <lb/><figure rend="gray"><figDesc>A series of calculations, including geometric calculations.</figDesc></figure>
 
-	<pb facs="liv_000001_0093" n="0093"/>
+	<pb facs="liv_000001_0095" n="0095"/>
 <lb/><list><item><list><item><choice><abbr>N<hi rend="sup underline">o</hi></abbr><expan>Number</expan></choice> 3 remains</item>
 <lb/><item>2<hi rend="sup">d</hi> <choice><abbr>N</abbr><expan>Number</expan></choice> 1 goes -</item> <item><unclear cert="high">medium</unclear>
 <lb/>box -</item> <item>Revolver</item>
@@ -2131,14 +2140,11 @@
 <lb/><item>11 saws</item>
 <lb/><item>4 axes</item>
 <lb/><item>1 wooden box -</item> <item>books</item></list></item></list>
-	</div>
-    <div rend="gray">
 <lb/><milestone unit="section" rend="double-line"/>
-<lb/><figure><figDesc>Calculations, including geometric calculations.</figDesc></figure>
-	</div>
+<lb/><figure rend="gray"><figDesc>Calculations, including geometric calculations.</figDesc></figure>
 
-	<div rend="blue">
-	<pb facs="liv_000001_0094" n="0094"/>
+	
+	<pb facs="liv_000001_0096" n="0096"/>
 <lb/><list><item><choice><abbr>N<hi rend="sup">o</hi></abbr><expan>Number</expan></choice> 2 to go to <placeName><geogName type="island">Zanzibar</geogName></placeName></item>
 <lb/><item>travelling clothes</item>
 <lb/><item>&amp; some books - <unclear cert="medium"><foreign xml:lang="und">mbane</foreign></unclear>
@@ -2159,8 +2165,8 @@
 <lb/><item>Foolscap paper =</item> <item>piece of
 <lb/>red striped stuff =</item> <item>shawl</item></list>
 
-	<pb facs="liv_000001_0095" n="0095"/>
-<lb/><p><list><item><choice><abbr>N<hi rend="sup">o</hi></abbr><expan>Number</expan></choice> 4 box to be left
+	<pb facs="liv_000001_0097" n="0097"/>
+<lb/><list><item><choice><abbr>N<hi rend="sup">o</hi></abbr><expan>Number</expan></choice> 4 box to be left
 <lb/>at <persName>M<hi rend="sup">s</hi> Tracey</persName>'s contains
 <lb/><list><item>Uniform -</item> <item>black dress</item>
 <lb/><item>coat &amp; Trowsers -</item> <item>New <!-- Does trowsers have to be corrected to trousers, or is it British English? HB 2014-05-18 --><!-- Leave as is. Just checked OED and this form was still in use in the c19. AW -->
@@ -2170,10 +2176,10 @@
 <lb/><list><item>Uniform hat -</item> <item>paper</item>
 <lb/><item>flannel &amp; other shirts</item>
 <lb/><item>stockings -</item> <item>boots 1 <choice><abbr>p<hi rend="sup">r</hi></abbr><expan>pair</expan></choice></item>
-<lb/><item>microscope box</item></list></item></list></p>
+<lb/><item>microscope box</item></list></item></list>
 <lb/><space dim="vertical" extent="7" unit="lines"/>
 
-	<pb facs="liv_000001_0096" n="0096"/>
+	<pb facs="liv_000001_0098" n="0098"/>
 <lb/><p rend="no-indent"><date when="1865-11-08">8<hi rend="sup underline">th</hi></date> Paid <orgName>Livery Company</orgName> <!-- Does this get an orgName tag as it's a company, or too broad for it? HB 2014-05-30 --><!-- orgName is fine here. AW -->
 <lb/>for buggy hire <choice><abbr>R.</abbr><expan>Rupees</expan></choice> 24</p>
 <lb/><milestone unit="section" rend="line"/>
@@ -2183,19 +2189,19 @@
 <lb/>of <term type="animal">serpents</term></p>
 <lb/><p>In <placeName><country>India</country></placeName> = <foreign xml:lang="und">Saadi</foreign></p>
 <lb/><milestone unit="section" rend="line"/>
-<lb/><list><item><bibl><choice><sic><persName>Ben Habib</persName>s</sic><corr><persName>Ben Habib</persName>'s</corr></choice> Journal</bibl>
+<lb/><list><item><space extent="1" unit="words"/><bibl><choice><sic><persName>Ben Habib</persName>s</sic><corr><persName>Ben Habib</persName>'s</corr></choice> Journal</bibl>
 <lb/>mentions <placeName><geogName type="river">Umarungu
 <lb/><choice><abbr>R.</abbr><expan>River</expan></choice></geogName></placeName> flowing into <choice><abbr>S.</abbr><expan>Southern</expan></choice> End of
 <lb/>Lake = He went to <placeName><settlement type="village">Peto</settlement></placeName> -</item>
 <lb/><item><placeName><settlement type="village">Karembo</settlement></placeName> = <placeName><settlement type="village">Makunga
 <lb/>Karunguesi</settlement></placeName> =</item>
-<lb/><item><persName>Charéka</persName> name of <foreign xml:lang="und"><term type="occupation">Cazembe</term></foreign></item>
+<lb/><item><space extent="2" unit="chars"/><persName>Charéka</persName> name of <foreign xml:lang="und"><term type="occupation">Cazembe</term></foreign></item>
 <lb/><item><placeName><geogName type="river"><choice><abbr>R.</abbr><expan>River</expan></choice> Ragira</geogName></placeName> flows past
 <lb/><placeName><region>Katanga</region></placeName> &amp; joins <placeName><geogName type="river">Luapula</geogName></placeName></item>
 <lb/><item>country <placeName><region>Buira</region></placeName> =
 <lb/><term type="tribe">Makololo</term> <placeName><region>Ujenje</region></placeName></item></list>
 
-	<pb facs="liv_000001_0097" n="0097"/>
+	<pb facs="liv_000001_0099" n="0099"/>
 <lb/><p rend="no-indent"><persName>Speke</persName> says page 165 of
 <lb/>His <bibl>Journal</bibl> - <supplied cert="high">"</supplied>On starting
 <lb/>to the rescue, my companion
@@ -2216,9 +2222,9 @@
 <lb/>promising not so to do</p>
 <lb/><p rend="right"><persName><choice><abbr>DL</abbr><expan>David Livingstone</expan></choice></persName></p>
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p><foreign xml:lang="und">Nsango</foreign> Divination</p>
+<lb/><p rend="no-indent"><foreign xml:lang="und">Nsango</foreign> Divination</p>
 
-	<pb facs="liv_000001_0098" n="0098"/>
+	<pb facs="liv_000001_0100" n="0100"/>
 <lb/><list><head>native measures</head>
 <lb/><item><foreign xml:lang="und">Gora</foreign> = 15 cloths of 4 cubits <add place="below">each</add></item>
 <lb/><item>(<foreign xml:lang="und">Kinike</foreign> Indigo dyed stuff)</item>
@@ -2241,37 +2247,38 @@
 <lb/>the return Journey -" <w>foot<supplied>-</supplied>
 <lb break="no"/>note</w> page 199 <persName>Speke</persName>'s <bibl>Journal</bibl></p>
 
-	<pb facs="liv_000001_0099" n="0099"/>
-<lb/><list><item><add place="above"><date when="1865-11-07"><w><subst><del>4</del><add place="over-text">7</add></subst></w> <choice><abbr>Nov<hi rend="sup underline">r</hi></abbr><expan>November</expan></choice></date></add> <list><item>Paid for 800 pages
+	<pb facs="liv_000001_0101" n="0101"/>
+<lb/><p rend="no-indent"><add place="inspace" rend="small"><date when="1865-11-07"><w><subst><del>4</del><add place="over-text">7</add></subst></w> <choice><abbr>Nov<hi rend="sup underline">r</hi></abbr><expan>November</expan></choice></date></add></p>
+<lb/><list><item>Paid for 800 pages
 <lb/>of map blanks 10 <choice><abbr>Rs</abbr><expan>Rupees</expan></choice> 8</item>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><item>Drew to self 20 Rupees</item>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><item>Paid for calico 259-8
-<lb/>Rupees - to <orgName><persName>Nicol</persName> &amp; Co</orgName></item></list></item>
-<lb/><item><date when="1865-12-02">2 <choice><abbr>Dec<hi rend="sup underline">r</hi></abbr><expan>December</expan></choice></date> <list><item>To <choice><abbr>D<hi rend="sup underline">o</hi></abbr><expan>Ditto</expan></choice> <choice><abbr>R</abbr><expan>Rupees</expan></choice> 260</item>
+<lb/>Rupees - to <orgName><persName>Nicol</persName> &amp; Co</orgName></item></list>
+<lb/><list><item><date when="1865-12-02">2 <choice><abbr>Dec<hi rend="sup underline">r</hi></abbr><expan>December</expan></choice></date></item> <item>To <choice><abbr>D<hi rend="sup underline">o</hi></abbr><expan>Ditto</expan></choice> <choice><abbr>R</abbr><expan>Rupees</expan></choice> 260</item>
 <lb/><item>-- <space extent="1" unit="words"/>-- <space extent="3" unit="words"/> <w><subst><del>5</del><add><choice><abbr>R</abbr><expan>Rupees</expan></choice></add></subst>34</w></item>
 <lb/><item>To <orgName><persName>Nicol</persName> &amp; Co</orgName> calico <space extent="1" unit="chars"/>500 <choice><abbr>Rs</abbr><expan>Rupees</expan></choice></item>
-<lb/><item>Sundries <space extent="1" unit="chars"/>--- <space extent="1" unit="words"/>10</item>
+<lb/><item>Sundries <space extent="4" unit="chars"/>--- <space extent="1" unit="chars"/>10</item>
 <lb/><item>- <space extent="3" unit="words"/>---- 10</item>
-<lb/><item>- <space extent="3" unit="words"/>--- <space extent="1" unit="chars"/>10</item>
+<lb/><item>- <space extent="3" unit="words"/>--- 10</item>
 <lb/><item>self - <space extent="4" unit="words"/>24</item>
 <lb/><item><space extent="2" unit="chars"/>watches repair 19</item>
 <lb/><item>Paid to <persName><term type="occupation"><w><subst><del>Col</del><add>Major</add></subst></w></term> Muler</persName>
 <lb/>for shoes 24 pai<supplied cert="high">r</supplied> <choice><abbr>R</abbr><expan>Rupees</expan></choice> 120</item>
-<lb/><item>for Tin <space extent="2" unit="words"/> <choice><abbr>R:</abbr><expan>Rupees</expan></choice> 5</item></list></item>
-<lb/><item><date when="1865-12-08"><choice><abbr>Dec</abbr><expan>December</expan></choice> 8<hi rend="sup underline">th</hi></date> <list><item>Drew <date when="1865-12-01"><choice><abbr>Currt</abbr><expan>Current</expan></choice></date> <w><subst><del>1</del><add>2</add></subst>100</w> <choice><abbr>R</abbr><expan>Rupees</expan></choice></item> <!-- Not sure if this is '2x' or '4' HB 2014-05-19 --><!-- Looks to me like 2 written over 1. AW -->
-<lb/><item>Sundries <space extent="1" unit="words"/><choice><abbr>R</abbr><expan>Rupees</expan></choice> 46-13 2</item></list></item></list>
-
-
-	<pb facs="liv_000001_0100" n="0100"/>
-<lb/><figure rend="blue black"><figDesc>Calculations, including wage calculations, for <persName>David</persName>, <persName>Bizenti</persName>, <persName>Safuri</persName>, <persName>Nyampinga</persName>, <persName>Cachoro</persName> (<persName>Suzi</persName>'s brother[?]), <persName>Amoda</persName>, <persName>Suzi</persName>, and <persName>Dungudza</persName> from <date from="1865-10" to="1865-12">October, November, and December 1865</date>. Segment of text in black ink.</figDesc></figure>
-
-	<pb facs="liv_000001_0101" n="0101"/>
-<lb/><figure><figDesc>Calculations, including wage calculations, for <persName>Matita</persName>, <persName>Suzi</persName>, and <persName>Amoda</persName> from <date from="1865-10" to="1865-12">October, November, and December 1865</date>.</figDesc></figure>
+<lb/><item>for Tin <space extent="2" unit="words"/> <choice><abbr>R:</abbr><expan>Rupees</expan></choice> 5</item>
+<lb/><item><date when="1865-12-08"><choice><abbr>Dec</abbr><expan>December</expan></choice> 8<hi rend="sup underline">th</hi></date></item> <item>Drew <date when="1865-12-01"><choice><abbr>Currt</abbr><expan>Current</expan></choice></date> <w><subst><del>1</del><add>2</add></subst>100</w> <choice><abbr>R</abbr><expan>Rupees</expan></choice></item> <!-- Not sure if this is '2x' or '4' HB 2014-05-19 --><!-- Looks to me like 2 written over 1. AW -->
+<lb/><item>Sundries <space extent="1" unit="words"/><choice><abbr>R</abbr><expan>Rupees</expan></choice> 46-13 2</item></list>
 
 
 	<pb facs="liv_000001_0102" n="0102"/>
+<lb/><figure rend="blue black"><figDesc>Calculations, including wage calculations, for <persName>David</persName>, <persName>Bizenti</persName>, <persName>Safuri</persName>, <persName>Nyampinga</persName>, <persName>Cachoro</persName> (<persName>Suzi</persName>'s brother[?]), <persName>Amoda</persName>, <persName>Suzi</persName>, and <persName>Dungudza</persName> from <date from="1865-10" to="1865-12">October, November, and December 1865</date>. Segment of text in black ink.</figDesc></figure>
+
+	<pb facs="liv_000001_0103" n="0103"/>
+<lb/><figure><figDesc>Calculations, including wage calculations, for <persName>Matita</persName>, <persName>Suzi</persName>, and <persName>Amoda</persName> from <date from="1865-10" to="1865-12">October, November, and December 1865</date>.</figDesc></figure>
+
+
+	<pb facs="liv_000001_0104" n="0104"/>
 <lb/><table><row><cell rend="center"><date when="1865-10-01">1<hi rend="sup">st</hi> <choice><abbr>Oct<hi rend="sup underline">r</hi></abbr><expan>October</expan></choice></date></cell></row><!-- We need to revisit the idea of expanding dates. Perhaps we could skip month names? AW --><!--I agree HB 2014-05-19 --><!-- I'm finding it hard to let this go, despite what I said. AW -->
 
 <lb/><row><cell rend="left"><persName>Suzi</persName></cell><cell rend="right">12 Rupees</cell></row>
@@ -2290,7 +2297,7 @@
 
 <lb/><row><cell><milestone unit="section" rend="line"/></cell></row>
 
-<lb/><row><cell rend="left">to self</cell><cell rend="center">---</cell><cell rend="right">20</cell></row>
+<lb/><row><cell rend="left">to self <space extent="6" unit="chars"/>---</cell><cell rend="right">20</cell></row>
 
 <lb/><row><cell rend="left">washing</cell><cell rend="right">10</cell></row>
 
@@ -2305,9 +2312,9 @@
 <lb/><row><cell rend="left"><persName>Amoda</persName></cell><cell rend="right">6</cell></row></table>
 
 
-	<pb facs="liv_000001_0103" n="0103"/>
-<lb/><p><date when="1865-09-27">27 <choice><abbr>Sep<hi rend="sup underline">r</hi></abbr><expan>September</expan></choice> 1865</date></p>
-<lb/><p>Paid <persName>Wikatani</persName> &amp; <persName>Chuma</persName>
+	<pb facs="liv_000001_0105" n="0105"/>
+<lb/><p rend="no-indent"><date when="1865-09-27">27 <choice><abbr>Sep<hi rend="sup underline">r</hi></abbr><expan>September</expan></choice> 1865</date></p>
+<lb/><p rend="no-indent">Paid <persName>Wikatani</persName> &amp; <persName>Chuma</persName>
 <lb/>2 months &amp; a half - 12-3 or
 <lb/><choice><abbr>Rs</abbr><expan>Rupees</expan></choice> 25 ---
 <lb/>+ </p>
@@ -2317,16 +2324,16 @@
 <lb/><figure><figDesc>Wage calculations for <persName>Dugudza</persName> for <date from="1865-10" to="1865-11">October and November 1865</date>.</figDesc></figure>
 
 
-	<pb facs="liv_000001_0104" n="0104"/>
-<lb/><table><row><cell rend="left"><hi rend="right">Fare to <placeName><settlement type="city">Paris</settlement></placeName></hi></cell><cell rend="right"><metamark/><hi rend="underline">£ 5 3 4</hi></cell></row>
+	<pb facs="liv_000001_0106" n="0106"/>
+<lb/><table><row><cell rend="left"><space extent="1" unit="words"/>Fare to <placeName><settlement type="city">Paris</settlement></placeName></cell><cell rend="right"><metamark/><hi rend="underline">£ 5 3 4</hi></cell></row>
 
 <lb/><row><cell rend="right"><hi rend="underline">£ 2 11 8</hi></cell></row>
 
-<lb/><row><cell rend="left"><hi rend="right">Luggage ---</hi></cell><cell rend="right"><hi rend="underline">£ 1 8 6</hi></cell></row>
+<lb/><row><cell rend="left"><space extent="1" unit="words"/>Luggage ---</cell><cell rend="right"><hi rend="underline">£ 1 8 6</hi></cell></row>
 
 <lb/><row><cell rend="right"><hi rend="underline">£ 4 0 2</hi></cell></row>
 
-<lb/><row><cell rend="left">self</cell><cell rend="center">£ 0-5 =</cell><cell rend="right">£ 3-5-0</cell></row>
+<lb/><row><cell rend="left">self <space extent="4" unit="chars"/>£ 0-5 =</cell><cell rend="right">£ 3-5-0</cell></row>
 
 <lb/><row><cell rend="left"><placeName><settlement type="city">Marseilles</settlement></placeName></cell><cell rend="right">£ 4-</cell></row>
 
@@ -2339,7 +2346,7 @@
 <lb/><row><cell rend="left">medicine box</cell></row></table>
 
 <lb/><milestone unit="section" rend="line"/>
-<lb/><metamark/><p rend="no-indent"><date when="1865-09-26">26<hi rend="sup underline">th</hi> Sept-<hi rend="sup underline">r</hi></date> Paid on
+<lb/><p rend="no-indent"><metamark/><date when="1865-09-26">26<hi rend="sup underline">th</hi> Sept-<hi rend="sup underline">r</hi></date> Paid on
 <lb/>my own private <choice><abbr>acct</abbr><expan>account</expan></choice>-
 <lb/>for painting steamer
 <lb/>food for men &amp; to the
@@ -2349,30 +2356,28 @@
 <lb/>500 Rupees -/ 100 Rupees <add place="above"><date when="1865-09-29"><w>2<subst><del>8</del><add>9</add></subst></w> Sepr</date></add></p>
 
 
-	<pb facs="liv_000001_0105" n="0105"/>
+	<pb facs="liv_000001_0107" n="0107"/>
 <lb/><list><item><date when="1865-05-09">May 9<hi rend="sup">th</hi> 1865</date> / £ 121 17
 <lb/>Paid to <orgName><persName>Macdougall</persName> &amp;co</orgName>
 <lb/><table><row><cell rend="left">clothing</cell><cell rend="right">£ 11 18</cell></row></table></item>
 <lb/><item><date when="1865-05-29">29 May</date> to
 <lb/><persName>M<hi rend="sup">r</hi> Joseph Starkey</persName>
 <lb/><table><row><cell rend="left">for caps &amp; belt -</cell><cell rend="right">£ 3 14 6</cell></row></table></item>
-<lb/><item><date when="1865-08-20">20 <choice><abbr>Aug.</abbr><expan>August</expan></choice></date> <gap agent="blot" extent="1" unit="chars"/><table><row><cell rend="right"><hi rend="underline">£ 11 3 <space extent="1" unit="chars"/></hi></cell></row>
-<lb/><row n="1"><cell rend="left"><hi rend="right">£</hi></cell><cell rend="right">148 2 <w><subst><del>7</del><add>6</add></subst></w></cell></row></table></item>
+<lb/><item><date when="1865-08-20">20 <choice><abbr>Aug.</abbr><expan>August</expan></choice></date> <gap agent="blot" extent="1" unit="chars"/><table><row><cell><space extent="7" unit="chars"/><hi rend="underline">£ 11 3 <space extent="1" unit="chars"/></hi></cell></row>
+<lb/><row n="1"><cell rend="left"><space extent="4" unit="words"/>£</cell><cell rend="right">148 2 <w><subst><del>7</del><add>6</add></subst></w></cell></row></table></item>
 <lb/>
 <lb/><item><unclear cert="medium"><choice><sic>Eitre</sic><corr>Entire</corr></choice></unclear> Luggage
 <lb/><table><row><cell rend="left">to <placeName><settlement type="city">Bombay</settlement></placeName></cell><cell rend="right">£ 9-14-9</cell></row>
 <lb/><row><cell rend="left"><term type="occupation"><app><rdg>steward<supplied>'</supplied>s</rdg><rdg>stewards<supplied>'</supplied></rdg></app></term> fees</cell><cell rend="right">£ 1 10</cell></row>
 <lb/><row><cell rend="left"><placeName><placeName><settlement type="city">Cairo</settlement></placeName> Hotel</placeName></cell><cell rend="right"> <space extent="3" unit="chars"/> 16</cell></row>
 <lb/><row><cell rend="left"><placeName><placeName><settlement type="city">Suez</settlement></placeName> Hotel</placeName></cell><cell rend="right"><hi rend="underline"><space extent="5" unit="chars"/>8 6</hi></cell></row>
-<lb/><row n="2"><cell rend="left">£ 160 12 9</cell></row></table></item>
-<lb/>
+<lb/><row n="2"><cell rend="right">£ 160 12 9</cell></row></table></item>
 <lb/><item><table><row><cell rend="left">To <persName><app><rdg>M<hi rend="sup">r</hi></rdg><rdg>M<hi rend="sup">s</hi></rdg></app> Young</persName></cell> <cell rend="right"><hi rend="underline">105<space extent="5" unit="chars"/></hi></cell></row>
-<lb/><row><cell rend="left">for clothing</cell></row>
+<lb/><row><cell rend="left">for clothing</cell><cell rend="right">£ 265 12 9</cell></row>
 <lb/><row><cell rend="left">Magic Lanter<supplied cert="high">n</supplied></cell></row>
-<lb/><row><cell rend="left">watches &amp;c</cell></row>
-<lb/><row n="3"><cell rend="right">£ 265 12 9</cell></row></table></item></list><!-- I've added attributes and values to the three summative rows in on page. Is this the way to capture the fact that these rows sum up what came before? AW -->
+<lb/><row><cell rend="left">watches &amp;c</cell></row></table></item></list><!-- I've added attributes and values to the three summative rows in on page. Is this the way to capture the fact that these rows sum up what came before? AW -->
 
-	<pb facs="liv_000001_0106" n="0106"/>
+	<pb facs="liv_000001_0108" n="0108"/>
 <lb/><list><item><date when="1865-08-09">9<hi rend="sup underline">th</hi> August 1865</date>
 <lb/>To <orgName>P &amp; O Company</orgName>
 <lb/>for passage from
@@ -2386,11 +2391,11 @@
 <lb/><row><cell rend="left"><choice><sic>Stationary</sic><corr>Stationery</corr></choice> -</cell><cell rend="right">£ 11-</cell></row>
 <lb/><row><cell rend="left">Drew for
 <lb/>Journey through 
-<lb/><placeName><country>France</country></placeName> &amp; to <placeName><settlement type="city">Bombay</settlement></placeName></cell><cell rend="right">£ 25-</cell></row>
+<lb/><placeName><country>France</country></placeName> &amp; to <placeName><settlement type="city">Bombay</settlement></placeName></cell><cell rend="right"><space extent="4" unit="chars"/>£ 25-</cell></row>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><row><cell rend="left">Expenses</cell><cell rend="right">£ 121-17</cell></row></table></item></list>
 
-	<pb facs="liv_000001_0107" n="0107"/>
+	<pb facs="liv_000001_0109" n="0109"/>
 <lb/><list><head><date when="1865-08-04">4 August 1865</date> <choice><abbr>Mem.</abbr><expan>Memorandum</expan></choice></head>
 <lb/><item><add place="marginleft">to</add> Bind <choice><abbr>Obs<hi rend="sup underline">n</hi></abbr><expan>Observation</expan></choice> books</item>
 <lb/><item>candles -</item> <item>Lantern</item>
@@ -2415,14 +2420,14 @@
 
 		<back>
 
-	<pb facs="liv_000001_0108" n="0108"/>
-
-	<pb facs="liv_000001_0109" n="0109"/>
-<lb/><figure><figDesc>Annotated insert from the Stirling University Conservation Project from 1986.</figDesc></figure>
-
 	<pb facs="liv_000001_0110" n="0110"/>
 
-	<pb facs="liv_000001_0111" n="0111"/>         
+	<pb facs="liv_000001_0111" n="0111"/>
+<lb/><figure><figDesc>Annotated insert from the Stirling University Conservation Project from 1986.</figDesc></figure>
+
+	<pb facs="liv_000001_0112" n="0112"/>
+
+	<pb facs="liv_000001_0113" n="0113"/>         
 	
 		</back>
 

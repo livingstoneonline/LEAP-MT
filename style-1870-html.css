@@ -237,7 +237,7 @@ p.right .linenumber{
 .line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:12em !important;
+	width:14em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;
@@ -275,7 +275,7 @@ p.right .linenumber{
 .quarterline{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:9em !important;
+	width:8.5em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;
@@ -285,7 +285,7 @@ p.right .linenumber{
 .second-line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:12em !important;
+	width:14em !important;
 	margin-left:0;
 	text-align:left;
 	margin-top:-1em;
@@ -297,7 +297,7 @@ p.right .linenumber{
 .third-line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:12em !important;
+	width:14em !important;
 	margin-left:0;
 	text-align:left;
 	margin-top:1.5em;
@@ -570,8 +570,8 @@ p{
 .list{
 	display:inline-block;
 	/*margin-top:12px;*/
+	text-indent:0em;
 }
-/*Note table transformed to p for final FDs*/
 .cell{
 	max-width:1%;
 	min-width:1%;
