@@ -204,10 +204,13 @@
 <lb/>after <supplied cert="high">the</supplied> <term type="animal">steed</term> is stolen
 <lb/><term type="animal">camels</term> sank up to
 <lb/>their bodies in <del type="strikethrough">level</del>
-<lb/>level bare crusted spots</p> <!-- This sentence doesn't really make sense, so not sure I transcribed correctly? HB --> <!-- DL rewrote this event in a way that makes more sense but has same basic facts in "Last Journals" so I think this version is correct. MW --></div>
+<lb/>level bare crusted spots</p> <!-- This sentence doesn't really make sense, so not sure I transcribed correctly? HB --> <!-- DL rewrote this event in a way that makes more sense but has same basic facts in "Last Journals" so I think this version is correct. MW -->
+	
+	</div>
+	<div rend="black">
 			    
     <pb facs="liv_000002_0005" n="0005"/>
-<lb/><div rend="black"><list><item>1 <space extent="1" unit="chars"/><placeName><settlement type="village"><choice><orig>Mtawatawe</orig><reg>Matawatawa</reg></choice></settlement></placeName></item>
+<lb/><list><item>1 <space extent="1" unit="chars"/><placeName><settlement type="village"><choice><orig>Mtawatawe</orig><reg>Matawatawa</reg></choice></settlement></placeName></item>
 <lb/><item>2 <space extent="1" unit="chars"/><placeName><settlement type="village">Maromba</settlement></placeName></item>
 <lb/><item>3 <space extent="1" unit="chars"/><placeName><settlement type="village">Janga</settlement></placeName></item>
 <lb/><item>4 <space extent="1" unit="chars"/><placeName><settlement type="village">Ngomano</settlement></placeName></item>
@@ -306,7 +309,7 @@
 		    
     <pb facs="liv_000002_0010" n="0010"/>
 	<div><!-- I'm enclosing the whole top part of the page in a <div> as it's a separate section, even if in two parts/colors. AW -->
-<lb/><div rend="gray"><list><item>✓ <persName>Bōto</persName> = bale</item>
+<lb/><list rend="gray"><item>✓ <persName>Bōto</persName> = bale</item>
 <lb/><item>✓ <persName>Masudi</persName> - </item> 
 <lb/><item>✓ <persName>Bahari</persName> - </item> 
 <lb/><item>✓ <persName>Usene</persName> - box</item> 
@@ -321,7 +324,7 @@
 <lb/><item>✓ <persName>Masudi</persName> <space extent="3" unit="chars"/><choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice></item> 
 <lb/><item>✓ <persName>Muftaha</persName> <space extent="3" unit="chars"/><choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice></item> 
 <lb/><item><space extent="2" unit="chars"/><persName>Musa</persName> <space extent="5" unit="chars"/><choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice></item> 
-<lb/><item>✓ <persName>Bonale</persName> my <unclear cert="medium">bag</unclear></item></list></div>
+<lb/><item>✓ <persName>Bonale</persName> my <unclear cert="medium">bag</unclear></item></list>
 
 		<div rend="blue">    
         <cb rend="vertical"/><ab><!-- We need to add the specific <cb/> coding here to the manual. AW -->
