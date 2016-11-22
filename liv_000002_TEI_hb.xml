@@ -1097,7 +1097,7 @@
 <lb/>former visit and to
 <lb/>him I gave cloth to</p> 
 <lb/><p rend="no-indent"><space extent="1" unit="words"/><add place="inspace">prevent a collision</add>
-<lb/><date when="1866-04-23">23<hi rend="sup underline">d</hi></date> <add place="inpsace">said nothing to him -</add> 	
+<lb/><date when="1866-04-23">23<hi rend="sup underline">d</hi></date> <add place="inspace">said nothing to him -</add> 	
 <lb/><term type="animal"><foreign xml:lang="und">Juvi</foreign></term> = <term type="animal">leopard</term> - <w>Th<subst><del>ey</del><add place="over-text">e</add></subst></w>
 <lb/><term type="tribe">Makonde</term> take off skin
 <lb/>and burn body in fire
@@ -1551,11 +1551,9 @@
 <lb/><term type="animal">camels</term> were full of
 <lb/>blood - <seg type="weather">Rain has
 <lb/>fallen</seg> since <date when="1866-03-01">first of <choice><abbr>Mar</abbr><expan>March</expan></choice></date></p>
-	</div>
 
-	<div rend="gray">
 	<pb facs="liv_000002_0065" n="0065"/>
-<lb/><list><head><placeName><settlement type="village">Kunyane</settlement></placeName> <term type="occupation">carriers</term> <date when="1866-05-01">1<hi rend="sup">st</hi> May 
+<lb/><list rend="gray"><head><placeName><settlement type="village">Kunyane</settlement></placeName> <term type="occupation">carriers</term> <date when="1866-05-01">1<hi rend="sup">st</hi> May 
 <lb rend="right"/>1866</date></head>
 <lb/><item>- <persName>Marakocha</persName> <term type="plant_foodstuff">coffee</term></item>
 <lb/><item>- <persName>Chonkondidi</persName> <term type="plant_foodstuff">sugar</term></item>
@@ -1567,8 +1565,6 @@
 <lb/><item>- <subst><del><persName>Neperi</persName></del><add place="above"><persName>Kolumba</persName></add></subst> box <term type="plant_foodstuff">flour</term></item>
 <lb/><item>- <persName>Makoane</persName> bale</item>
 <lb/><item>- <persName>Kantande</persName> <term type="plant_foodstuff">rice</term> &amp;c</item></list>
-	</div>
-	<div rend="blue">
 <lb/><p><date when="1866-05-01">1<hi rend="sup">st</hi> May 1866</date> <choice><sic>we</sic><corr>We</corr></choice>
 <lb/>came on through a rich
 <lb/>country again - but
@@ -1802,11 +1798,9 @@
 <lb/>roots in perpetual
 <lb/>shade - had to make
 <lb/>bridges for <term type="animal">camels</term></p>
-	</div>
-	
-	<div rend="gray">
+
 	<pb facs="liv_000002_0076" n="0076"/>
-<lb/><list><head><placeName><settlement type="village">Ungoye</settlement></placeName> <term type="occupation">carriers</term> <date when="1866-05-04">4 May</date></head>
+<lb/><list rend="gray"><head><placeName><settlement type="village">Ungoye</settlement></placeName> <term type="occupation">carriers</term> <date when="1866-05-04">4 May</date></head>
 <lb/><item>✓ <persName>Chunjia</persName> <term type="plant_foodstuff">coffee</term></item>
 <lb/><item>✓ <persName>Nahauraga</persName> box</item>
 <lb/><item>✓ <persName>Nchoma</persName> <space extent="4" unit="chars"/><term type="plant_foodstuff">sugar</term></item>
@@ -1818,8 +1812,7 @@
 <lb/><item>✓ <persName>Ntanda</persName> <space extent="2" unit="words"/>luggage</item>
 <lb/><item>✓ <persName>Madwana</persName> <space extent="3" unit="chars"/><choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice></item><item><add place="marginright"><metamark/><persName>Nassi</persName></add></item>
 <lb/><item>✓ <persName><w>Nand<subst><del>o</del><add place="over-text">e</add></subst>nga</w></persName></item></list>
-	</div>
-	<div rend="blue">
+
 <lb/><p><date when="1866-05-04">4<hi rend="sup underline">th</hi> May 1866</date> The
 <lb/><term type="animal">buffaloes</term> were bitten
 <lb/>by <term type="insect">Tsetse</term> on the <date when="1866-05-02">2<hi rend="sup">d</hi></date> 
@@ -1966,13 +1959,10 @@
 <lb/>"<foreign xml:lang="und">soma Mungu</foreign>" praying
 <lb/>to God <add place="below">^</add> <add place="above">he</add> understood it &amp; was <!-- Adrian, pls check this line- I feel like it says to God, but my eyes may be bleary and missing a more obvious transcription :) HB -->
 <lb/>silent <date when="1866-05-07">7 May 1866</date></p>
-	</div>
-	<div rend="gray">
-<lb/><p rend="no-indent"><date when="1866-05-07">7<hi rend="sup underline">th</hi></date> <term type="animal">Camel</term> &amp; <term type="animal">buffalo</term> died
-<lb/>this morning - 
-<lb/><add rend="right"><lb/>begin again <lb/>on <date when="1866-05-10">10<hi rend="sup">th</hi></date></add></p> <!-- Is this the proper place for the additional text? HB -->
-<lb/><list><head><term type="occupation">carriers</term> -</head>
-<lb/><item>✓ <del type="strikethrough"><persName>Itonga</persName></del> luggage</item>
+<lb/><p rend="no-indent gray"><date when="1866-05-07">7<hi rend="sup underline">th</hi></date> <term type="animal">Camel</term> &amp; <term type="animal">buffalo</term> died
+<lb/>this morning -</p>
+<lb/><list rend="gray"><head><term type="occupation">carriers</term> -</head>
+<lb/><item>✓ <del type="strikethrough"><persName>Itonga</persName></del> luggage <note place="marginright">begin again <lb/>on <date when="1866-05-10">10<hi rend="sup">th</hi></date></note> <!-- Is this the proper place for the additional text? HB --></item>
 <lb/><item>✓ <del type="strikethrough"><persName>Karihenge</persName> food</del> powder</item>
 <lb/><item>✓ <del type="strikethrough"><persName>Lekakwe</persName> box</del> tool</item>
 <lb/><item>✓ <del type="strikethrough"><persName>Liyoyo</persName></del> powder box <add place="inspace"><metamark/></add></item>
@@ -1981,12 +1971,10 @@
 <lb/><item><choice><abbr>Pd</abbr><expan>Paid</expan></choice> <persName>Chombokela</persName> <term type="plant_foodstuff">coffee</term> <add place="inspace">3</add></item>
 <lb/><item>✓ <del type="strikethrough"><persName>Komota</persName> luggage</del> powder</item>
 <lb/><item>✓ <del type="strikethrough"><persName>Limila</persName> luggage</del> <unclear cert="medium">pans</unclear></item></list>
-	</div>
-	<div rend="blue">
 <lb/><p rend="no-indent"><term type="insect">Tsetse</term> again</p>
 
 	<pb facs="liv_000002_0084" n="0084"/>
-<lb/><p>On getting up this
+<lb/><p rend="no-indent">On getting up this
 <lb/>morning I found one
 <lb/><term type="animal">camel</term> dead and
 <lb/>the <term type="animal">grey buffalo</term> <w>ex<supplied>-</supplied>
@@ -2030,11 +2018,10 @@
 
 <!-- The top of the page has some unusual stuff going on. To me it appears that he first wrote the first line of the list, then squeezed in the line at the top with the date, then later added the text in blue, so I've recoded everything to reflect that. I've also added spacing between lines to make this easier to read. It was really a team effort to transcribe this one! AW -->
 
-<lb/><p><add place="marginleft">Rive<supplied cert="medium">r</supplied></add> <add place="marginright"><placeName><settlement type="village">Iponde</settlement></placeName> <lb/>one day <lb/>on <date when="1866-05-08">8<hi rend="sup underline">th</hi></date></add></p> 
 
-<list><head><add place="above"><date when="1866-05-08">8<hi rend="sup underline">th</hi></date> is their first day</add></head>
+<lb/><list><head><add place="inspace" rend="blue">Rive<supplied cert="medium">r</supplied></add> <add place="inspace"><date when="1866-05-08">8<hi rend="sup underline">th</hi></date> is their first day</add> <note place="marginright" rend="blue"><placeName><settlement type="village">Iponde</settlement></placeName> <lb/>one day <lb/>on <date when="1866-05-08">8<hi rend="sup underline">th</hi></date></note></head>
 
-<item>x <del type="cancelled"><persName>Chande</persName></del> <space extent="1" unit="chars"/><subst><del type="strikethrough">beads</del> <add place="above">bale &amp; mat</add></subst></item> 
+<lb/><item>x <del type="cancelled"><persName>Chande</persName></del> <space extent="1" unit="chars"/><subst><del type="strikethrough">beads</del> <add place="above">bale &amp; mat</add></subst></item> 
 
 <lb/><item>x <del type="cancelled"><persName>Nahida</persName></del> <space extent="1" unit="chars"/><del type="cancelled">2</del> bales &amp; bag</item>
 
@@ -2054,7 +2041,7 @@
 
 <lb/><item>x <del type="cancelled"><persName>Hamadi</persName></del> <space extent="1" unit="chars"/><term type="plant_foodstuff">sugar</term> &amp; saddle</item>
 
-<lb/><item><space extent="3" unit="chars"/><del type="strikethrough"><persName>Mandik</persName></del> <del type="cancelled"><persName>Likeka</persName></del> bale</item>
+<lb/><item><space extent="2" unit="chars"/><del type="strikethrough"><persName>Mandik</persName></del> <del type="cancelled"><persName>Likeka</persName></del> bale</item>
 
 <lb/><item>x <del type="cancelled"><persName><unclear cert="medium">Likunga</unclear></persName></del> <subst><add place="inline">1</add><del type="strikethrough">1</del></subst> bales &amp; mat</item>
 
@@ -2073,7 +2060,7 @@
 
 		<div rend="blue">
     <pb facs="liv_000002_0087" n="0087"/>
-<lb/><p>named <placeName><settlement type="village">Nakapuri</settlement></placeName> - I 
+<lb/><p rend="no-indent"><space extent="1" unit="chars"/>named <placeName><settlement type="village">Nakapuri</settlement></placeName> - I 
 <lb/>leave <orgName><term type="occupation">Havildar</term></orgName> &amp; men
 <lb/>at <placeName><settlement type="village">Iponde</settlement></placeName> while I go
 <lb/>on to <placeName><settlement type="village">Machumora</settlement></placeName> 
@@ -2081,12 +2068,9 @@
 <lb/>baggage - the object is
 <lb/>to rest <term type="animal">camels</term> - <term type="animal">buffaloes</term>
 <lb/>&amp; <term type="animal">mules</term></p>
-<lb/><figure><figDesc>Calculation.</figDesc></figure>
-<lb/><p><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 11° <space extent="2" unit="chars"/>9 <space extent="4" unit="chars"/>00
-<lb/>of <placeName><settlement type="village">Iponde</settlement></placeName> <date when="1866-05-08">8<hi rend="sup underline">th</hi> May</date></p>
 
-<!--
-<lb/><table><row><cell rend="left">)' <subst><del>89</del><add place="over-text">77</add></subst></cell> <cell rend="center">34 <add place="above">5</add></cell> <cell rend="right">20 + 1</cell></row>
+<lb/><figure><figDesc>Calculation.</figDesc></figure>
+<!--<lb/><table><row><cell rend="left">)' <subst><del>89</del><add place="over-text">77</add></subst></cell> <cell rend="center">34 <add place="above">5</add></cell> <cell rend="right">20 + 1</cell></row>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><row><cell rend="left"><subst><del>44</del><add place="over-text">38</add></subst></cell> <cell rend="center">47</cell> <cell rend="right">40</cell></row> 
 <lb/><row><cell rend="right">20</cell></row>
@@ -2097,8 +2081,11 @@
 <lb/><row><cell rend="left"><subst><del>49</del><add place="over-text">5<del>5</del><add place="over-text">1</add></add></subst></cell> <cell rend="center">1<gap extent="1" unit="chars" agent="blot"/></cell> <cell rend="right">40</cell></row>
 <lb/><row><cell rend="left">6<subst><del>8</del><add place="over-text">2</add></subst></cell> <cell rend="center">21</cell> <cell rend="right">40</cell></row>
 <lb/><milestone unit="section" rend="line"/>
-<lb/><row><cell rend="left"><w>1<subst><del>7</del><add place="over-text">6</add></subst></w></cell> <cell rend="center">09</cell> <cell rend="right">00</cell></row></table>
--->
+<lb/><row><cell rend="left"><w>1<subst><del>7</del><add place="over-text">6</add></subst></w></cell> <cell rend="center">09</cell> <cell rend="right">00</cell></row></table>-->
+
+<lb/><p rend="no-indent"><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 11° <space extent="2" unit="chars"/>9 <space extent="4" unit="chars"/>00
+<lb/>of <placeName><settlement type="village">Iponde</settlement></placeName> <date when="1866-05-08">8<hi rend="sup underline">th</hi> May</date></p>
+
 
 	<pb facs="liv_000002_0088" n="0088"/>
 <lb/><p rend="no-indent"><date when="1866-05-09">9<hi rend="sup underline">th</hi> May 1866</date> I left the
@@ -2162,7 +2149,7 @@
 <lb/>in <measure>three hours</measure> &amp;
 <lb/>tomorrow we shall
 <lb/>do more</p>
-<lb/><p>At <placeName><settlement type="village">Moeda</settlement></placeName> we had a 
+<lb/><p>at <placeName><settlement type="village">Moeda</settlement></placeName> we had a 
 <lb/>valley with large
 <lb/>thorny <term type="plant">Mimosae</term> -
 <lb/>- rocks still granitic
@@ -2194,21 +2181,17 @@
 <lb/>no more demands
 <lb/>have been made
 <lb/>since</p>
-		</div>
 
-		<div rend="gray">
 	<pb facs="liv_000002_0092" n="0092"/>
-<lb/><p rend="no-indent"><add place="inspace" rend="blue">Engaged on <date when="1866-05-10">10<hi rend="sup">th</hi></date></add></p>
-<lb/><list><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Kanjoje</persName> big bale</item>
+<lb/><p rend="no-indent gray"><add place="inspace" rend="blue">Engaged on <date when="1866-05-10">10<hi rend="sup">th</hi></date></add></p>
+<lb/><list rend="gray"><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Kanjoje</persName> big bale</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Likakwe</persName> tool box &amp; bag</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName><unclear cert="medium">Chimasera</unclear></persName> powder box</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Mwhipa</persName></item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Kovinga</persName> 2 bags one beads
 <lb rend="right"/><term type="plant_foodstuff">coffee</term></item></list>
-		</div>
-		<div rend="blue">
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p><date when="1866-05-10">10<hi rend="sup underline">th</hi> May 1866</date> came
+<lb/><p rend="no-indent"><date when="1866-05-10">10<hi rend="sup underline">th</hi> May 1866</date> came
 <lb/>on about <measure>six miles</measure>
 <lb/>and then the <term type="occupation">carriers</term>
 <lb/>having had no food
@@ -2229,7 +2212,7 @@
 <lb/>flight of <term type="insect">locusts</term> - 
 <lb/>and partly by the
 <lb/>drought -</p>
-<lb/><p><metamark/>The <seg type="weather">clouds have been
+<lb/><p rend="no-indent"><metamark/>The <seg type="weather">clouds have been
 <lb/>coming steadily from
 <lb/>the South West for
 <lb/>many days - today
@@ -2301,14 +2284,14 @@
 
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Nchika</persName> box - red beads</item>
 
-<lb/><item><space extent="3" unit="chars"/><del type="cancelled"><persName>Sikako</persName></del> tool &amp; beads</item>
+<lb/><item><space extent="2" unit="chars"/><del type="cancelled"><persName>Sikako</persName></del> tool &amp; beads</item>
 
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName><unclear cert="medium">Nyope</unclear></persName> big bale</item>
 
 
 	<pb facs="liv_000002_0096" n="0096"/>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <choice><abbr>P</abbr><expan>Paid</expan></choice> <del type="cancelled"><persName>Nyangan<subst><del><gap extent="2" unit="chars"/></del><add place="over-text">ya</add></subst></persName></del> big bale a second</item> 
-<lb/><item><space extent="3" unit="chars"/><del type="cancelled"><persName>Lipondo</persName></del> big bale</item>
+<lb/><item><space extent="2" unit="chars"/><del type="cancelled"><persName>Lipondo</persName></del> big bale</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Mandike</persName> bale &amp; mat</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <del type="cancelled"><persName>Nangaladia</persName></del> my bag</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Nkanaide</persName> powder box</item>
@@ -2318,7 +2301,7 @@
 		</div>
 		<div rend="blue">
 <lb/><milestone unit="section" rend="line"/> 
-<lb/><p>She was caught by
+<lb/><p rend="no-indent">She was caught by
 <lb/><persName>Ali</persName> and he seemed
 <lb/>confident that
 <lb/>he would get a reward
@@ -2336,10 +2319,10 @@
 		<div rend="gray">
 	<pb facs="liv_000002_0097" n="0097"/> <!-- Adrian, this list is a continuation of the previous page, as well as the paragraph content below it- how should I tag properly to show the continuation? HB 2014-06-20 --><!-- It's actually a new one with a new date. These are the carriers that DL engaged on this day. AW -->
 <lb/><figure><figDesc>Drawing of a man's face in profile with his tongue sticking out.</figDesc></figure> 
-<lb/><list><head><note place="marginright"><date when="1866-05-12">12<hi rend="sup">th</hi></date></note></head> <item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Galola</persName> big bale</item>
+<lb/><list><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Galola</persName> big bale <add place="inspace"><date when="1866-05-12">12<hi rend="sup">th</hi></date></add></item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Makwenya</persName> <term type="plant_foodstuff">coffee</term> &amp; beads</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Ngomīre</persName> big bale</item>
-<lb/><item><space extent="3" unit="chars"/><del type="strikethrough"><persName>Kayimola</persName> <add place="above">my</add> bag &amp; bag beads</del></item></list>
+<lb/><item><space extent="2" unit="chars"/><del type="strikethrough"><persName>Kayimola</persName> <add place="above">my</add> bag &amp; bag beads</del></item></list>
 		</div>
 		<div rend="blue">
 <lb/><figure><head><choice><sic>near</sic><corr>Near</corr></choice> <placeName><settlement type="village">Matawatawa</settlement></placeName> <lb/><date when="1866-05-12">12 May</date> α Crucis</head><figDesc>Calculation.</figDesc></figure>
@@ -2359,8 +2342,7 @@
 
 		<div rend="gray">
 	<pb facs="liv_000002_0098" n="0098"/> 
-<lb/><list><head rend="center"><add place="above"><date when="1866-05-13">13<hi rend="sup">th</hi></date></add></head>
-<lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Chirenga</persName> box <term type="foodstuff">mutton</term> &amp;</item>
+<lb/><list><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Chirenga</persName> <add place="above"><date when="1866-05-13">13<hi rend="sup">th</hi></date></add> <add place="above">box <term type="foodstuff">mutton</term> &amp;</add></item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Chitete</persName> bale</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Likako</persName> working things</item></list>
 		</div>
@@ -2378,7 +2360,7 @@
 <lb/><row><cell rend="left">6533</cell></row></table>
 -->
 <lb/><figure><figDesc>Calculation.</figDesc></figure>
-<lb/><p><placeName><settlement type="village">Kanañ<del type="cancelled">g</del>one</settlement></placeName> at -
+<lb/><p rend="no-indent"><placeName><settlement type="village">Kanañ<del type="cancelled">g</del>one</settlement></placeName> at -
 <lb/><placeName><settlement type="village">Matanatawa</settlement></placeName> a
 <lb/>pleasant looking 
 <lb/>lady came forward
@@ -2422,9 +2404,7 @@
 		<div rend="gray">
 <lb/><milestone unit="section" rend="line"/>
 
-<lb/><list><head><date when="1866-05-14">14<hi rend="sup underline">th</hi> May</date></head>
-
-<lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Chikungu</persName> bale</item>
+<lb/><list><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Chikungu</persName> bale <add place="above"><date when="1866-05-14">14<hi rend="sup underline">th</hi> May</date></add></item>
 
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Komota</persName> - <space extent="3" unit="chars"/>bale</item>
 
@@ -2461,15 +2441,15 @@
         <cb rend="vertical right"/>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName><unclear cert="high">Lipondwe</unclear></persName> cooking pot</item>
 
-<item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Ntungata</persName> powder</item>
+<item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Ntungata</persName> Powder</item>
 
-<item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName><unclear cert="medium">Kate</unclear></persName> <space extent="3" unit="words"/> <gap extent="2" unit="words"/></item></list></div>
+<lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName><unclear cert="medium">Katemwa</unclear></persName> <space extent="6" unit="words"/> <gap extent="2" unit="words"/></item></list></div>
 <!-- Adrian, there is a line below this that I cannot make out due to the seam of the page, so not sure if tag as gap with an agent, or as an unclear tag with an explanation. HB 2014-06-23 --><!-- See what I've done. AW -->
 
 	<div rend="upside-down">
 	<div rend="blue">
 	<pb facs="liv_000002_0101" n="0101"/>
-<lb/><p><placeName><region><term type="tribe">Matambwe</term> country</region></placeName>
+<lb/><p rend="no-indent"><placeName><region><term type="tribe">Matambwe</term> country</region></placeName>
 <lb/>abounds in <term type="animal">elephants</term>
 <lb/>and the tusks are very
 <lb/>large <choice><orig>shewing</orig><reg>showing</reg></choice> a
@@ -2491,14 +2471,14 @@
 <lb/>good -</p>
 
 	<pb facs="liv_000002_0102" n="0102"/>
-<lb/><p>The claims of the few
+<lb/><p rend="no-indent">The claims of the few
 <lb/>who were born to govern
 <lb/>the <term type="tribe">Makonde</term> therefore
 <lb/>are not wholly bad in
 <lb/>the mass though individually
 <lb/>before God desperately
 <lb/>wicked -</p>
-<lb/><p>An attention to man's
+<lb/><p>an attention to man's
 <lb/>happiness &amp; comfort
 <lb/>and intellectual <w>advance<supplied>-</supplied>
 <lb break="no"/>ment</w> in this life is
@@ -2590,17 +2570,17 @@
 <lb/>we look to the individual</p>
     
     <pb facs="liv_000002_0106" n="0106"/>
-<figure><figDesc>The second page of a two-page spread of maps: Map dated <date when="1866-05-02">2<hi rend="sup"> May</hi></date>. The map marks dolomite and syenite rock, the lands of what appear to be various tribes (<term type="tribe">Makoa</term>, <term type="tribe"><unclear cert="medium">Nyucha</unclear></term>, <term type="tribe">Marukea</term>, <term type="tribe">Nchori</term>, and <term type="tribe">Mabiha</term>), <placeName><geogName type="mountain">Liparu</geogName></placeName> mountain, "streams and lagoons," <placeName><region><term type="tribe">Matambwe</term>'s country</region></placeName>, and the village of <placeName><settlement type="village">Nakapuri</settlement></placeName>.</figDesc></figure> <!-- Adrian, can you check the coding/description on this and the next page? HB -->
+<lb/><figure><figDesc>The second page of a two-page spread of maps: Map dated <date when="1866-05-02">2<hi rend="sup"> May</hi></date>. The map marks dolomite and syenite rock, the lands of what appear to be various tribes (<term type="tribe">Makoa</term>, <term type="tribe"><unclear cert="medium">Nyucha</unclear></term>, <term type="tribe">Marukea</term>, <term type="tribe">Nchori</term>, and <term type="tribe">Mabiha</term>), <placeName><geogName type="mountain">Liparu</geogName></placeName> mountain, "streams and lagoons," <placeName><region><term type="tribe">Matambwe</term>'s country</region></placeName>, and the village of <placeName><settlement type="village">Nakapuri</settlement></placeName>.</figDesc></figure> <!-- Adrian, can you check the coding/description on this and the next page? HB -->
 			        
     <pb facs="liv_000002_0107" n="0107"/>
-<figure><figDesc>The first page of a two-page spread of maps: Map of route that marks "brackish water," <placeName><geogName type="valley">Mehambwe</geogName></placeName> valley, <placeName><geogName type="lakelet">Nangadi Lakelet</geogName></placeName>, and <placeName><geogName type="lakelet">Urongwe</geogName></placeName> lakelet.</figDesc></figure>
+<lb/><figure><figDesc>The first page of a two-page spread of maps: Map of route that marks "brackish water," <placeName><geogName type="valley">Mehambwe</geogName></placeName> valley, <placeName><geogName type="lakelet">Nangadi Lakelet</geogName></placeName>, and <placeName><geogName type="lakelet">Urongwe</geogName></placeName> lakelet.</figDesc></figure>
 		</div>
 		
 		<div rend="gray">	        
     <pb facs="liv_000002_0108" n="0108"/>
 <!-- Heather, please proof my transcription of the following page. AW --><!-- Looks great! HB -->
 <!-- In this list I've labeled everything as villages. That's totally a guess. AW -->
-<lb/><list><head rend="center"><add place="above"><hi rend="underline">Route</hi></add></head> <item><add place="inspace">1</add> - <placeName><settlement type="village">Mesuri</settlement></placeName> - </item><item><add place="inspace">2</add> <placeName><settlement type="village"><w>Moes<subst><del>s</del><add place="inspace">i</add></subst>i</w></settlement></placeName> -</item>
+<lb/><list><item><add place="inspace">1</add> - <placeName><settlement type="village">Mesuri</settlement></placeName> <add place="above"><hi rend="underline">Route</hi></add> - </item><item><add place="inspace">2</add> <placeName><settlement type="village"><w>Moes<subst><del>s</del><add place="inspace">i</add></subst>i</w></settlement></placeName> -</item>
 
 <lb/><item><space extent="2" unit="chars"/><add place="inspace">3</add> <placeName><settlement type="village">Mosinjeive</settlement></placeName> = </item><item><add place="above">4</add> <placeName><settlement type="village">Nchessi</settlement></placeName> -</item>
 
@@ -2633,7 +2613,12 @@
 <lb/><figure><head><date when="1866-04-08">8<hi rend="sup underline">th</hi> April 1866</date></head><figDesc>Apparently temperature calculations, but partly obscured by conservation insert.</figDesc></figure>
 <lb/><figure><figDesc>Annotated insert from the Stirling University Conservation Project from 1986.</figDesc></figure>
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p>Ma<gap extent="1" unit="lines"/>
+<lb/><p rend="no-indent">De<gap extent="1" unit="lines"/>
+<lb/>af<gap extent="1" unit="lines"/>
+<lb/>I he<gap extent="1" unit="lines"/>
+<lb/>has <gap extent="1" unit="lines"/></p>
+<lb/><milestone unit="section" rend="line"/>
+<lb/><p rend="no-indent">Ma<gap extent="1" unit="lines"/>
 <lb/>tree <gap extent="1" unit="lines"/>
 <lb/>bon<gap extent="1" unit="lines"/>
 <lb/>frui<gap extent="1" unit="lines"/>
