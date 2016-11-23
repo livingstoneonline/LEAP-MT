@@ -1031,6 +1031,12 @@
 		</span>
 	</xsl:template>
 
+	<xsl:template match="pb[1][parent::back]" priority="10">
+		<span class="pb-title">
+			<xsl:value-of select="@n"/>
+		</span>
+	</xsl:template>
+
 	<xsl:template match="pb[preceding-sibling::p[1]]|p/pb">
 		<br/><br/><span class="pb-title-notop">
 			<xsl:value-of select="@n"/>

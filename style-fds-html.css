@@ -546,6 +546,9 @@ p{
 .black{
 	color:black;
 }
+.black.gray{
+	color:#404040;
+}
 .blue{
 	color:#55759e;/*#507ca5;*/
 }

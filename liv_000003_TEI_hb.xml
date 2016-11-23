@@ -169,16 +169,16 @@
 
         <!-- ak, mw, aw -->
     
-	<front rend="center black">
+	<front rend="gray">
 	<pb facs="liv_000003_0001" n="0001"/>
 <lb/><p rend="center"><fw n="heading_III">III</fw></p>
                     
     <pb facs="liv_000003_0002" n="0002"/> 
 
 	<pb facs="liv_000003_0003" n="0003"/>
-<lb/><p rend="center"><fw n="heading_III"><choice><abbr>N<hi rend="sup underline">o</hi></abbr><expan>Number</expan></choice> III</fw>
+<lb/><p rend="center"><fw n="heading_III"><space extent="1" unit="words"/><choice><abbr>N<hi rend="sup underline">o</hi></abbr><expan>Number</expan></choice> III</fw>
 <lb rend="center"/><date when="1866-05-14">14 May</date> to <date when="1866-07-01">1<hi rend="sup underline">st</hi> July
-<lb rend="center"/>1866</date>
+<lb rend="center"/><space extent="1" unit="words"/>1866</date>
 <lb rend="center"/><persName>David Livingstone</persName></p>
 	</front>
 	
@@ -187,7 +187,7 @@
 		<div rend="blue">
 		    
 	<pb facs="liv_000003_0004" n="0004"/>
-<lb/><p rend="no-indent blue"><add place="marginright" rend="black"><fw n="heading_III" rend="large">III</fw></add> <date when="1866-05-14">14<hi rend="sup underline">th</hi> May 1866.</date>
+<lb/><p rend="no-indent blue"><date when="1866-05-14">14<hi rend="sup underline">th</hi> May 1866.</date> <add place="marginright" rend="gray"><fw n="heading_III" rend="large">III</fw></add>
 <lb/><choice><sic>we</sic><corr>We</corr></choice> came only
 <lb/><measure>an hour &amp; three
 <lb/>quarters</measure> - men soon
@@ -217,7 +217,7 @@
 <lb/>passed inwards
 <lb/>more time required
 <lb/>than I anticipated</p>
-<lb/><p><space extent="4" unit="chars"/><choice><sic>a</sic><corr>A</corr></choice> child could not
+<lb/><p><choice><sic>a</sic><corr>A</corr></choice> child could not
 <lb/>go behind house to
 <lb/>make water unless
 <lb/>her grandmother stood
@@ -229,11 +229,9 @@
 <lb/>whom we spent
 <lb/>night of <date when="1866-05-14">14<hi rend="sup">th</hi></date></p>
 	
-		</div>
 
-	   <div rend="gray">
 	<pb facs="liv_000003_0006" n="0006"/>
-<lb/><list><head><date when="1866-05-15">15<gap agent="blot" extent="3" unit="chars"/><supplied cert="high"><hi rend="sup">th</hi></supplied></date> <supplied cert="high"><placeName><settlement type="village"><persName><choice><orig>Hasane</orig><reg>Hassane</reg></choice></persName>'s place</settlement></placeName></supplied></head> <!--Looks like part of this was blurry -AK--> <!-- I changed this because I think it's supposed to say Hasane's place. MW --><!-- Added in date code bc believe that's what blot is covering. HB -->
+<lb/><list rend="gray"><head><date when="1866-05-15">15<gap agent="blot" extent="3" unit="chars"/><supplied cert="high"><hi rend="sup">th</hi></supplied></date> <supplied cert="high"><placeName><settlement type="village"><persName><choice><orig>Hasane</orig><reg>Hassane</reg></choice></persName>'s place</settlement></placeName></supplied></head> <!--Looks like part of this was blurry -AK--> <!-- I changed this because I think it's supposed to say Hasane's place. MW --><!-- Added in date code bc believe that's what blot is covering. HB -->
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Mhonama</persName> big bale</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Mkumba</persName> Powder box &amp; tool</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Nanpanda</persName> <choice><abbr>P</abbr><expan>Powder</expan></choice> box &amp; bag</item>
@@ -244,9 +242,6 @@
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Bakari</persName> <space extent="7" unit="chars"/>bale &amp; bag</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Niyedi</persName> Powder box &amp; <choice><abbr>car</abbr><expan>carpet</expan></choice> bag</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Mandisa</persName> 1 <choice><orig>½</orig><reg>1/2</reg></choice> bale</item></list>
-	</div>
-       	    
-	<div rend="blue">
 <lb/><milestone unit="section" rend="line"/>
 <lb/><p><date when="1866-05-15">15<hi rend="sup underline">th</hi> May 1866</date> -
 <lb/>came along river <measure>nine <!-- geog: Loendi, I think. HB -->
@@ -264,7 +259,7 @@
 <lb/>where there is nothing to
 <lb/>be bought instead of
 <lb/>across the River to <!-- geog: Loendi, I think. HB -->
-<lb/>the <placeName><region><term type="tribe"><w>Mat<subst><del>u</del><add place="over-text" rend="black">a</add></subst>mbwe</w></term> country</region></placeName>
+<lb/>the <placeName><region><term type="tribe"><w>Mat<subst><del>u</del><add place="over-text" rend="gray">a</add></subst>mbwe</w></term> country</region></placeName>
 <lb/>where the people have
 <lb/>not suffered loss -
 <lb/>they returned with
@@ -295,10 +290,10 @@
 <lb/>the little troubles of
 <lb/>travelling &amp; scarcely
 <lb/>worth mentioning</p>
-<lb/><figure><figDesc>Drawing of a mountain, outlined in black and shaded in with blue.</figDesc></figure>
-<lb/><p rend="black"><placeName><geogName type="mountain">Chihoka</geogName></placeName> a gigantic
+<lb/><figure><figDesc>Drawing of a mountain, outlined in gray and shaded in with blue.</figDesc></figure>
+<lb/><p rend="gray"><placeName><geogName type="mountain">Chihoka</geogName></placeName> a gigantic
 <lb/>looking peak appearing in
-<lb/>the distance <choice><sic>WSW</sic><corr>West South West</corr></choice> from
+<lb/>the distance <choice><orig>WSW</orig><reg>West South West</reg></choice> from
 <lb/><choice><sic>rivers</sic><corr>river's</corr></choice> bed 15° off</p> <!-- geog: Loendi, I think. HB -->
 <lb/><space dim="vertical" extent="3" unit="lines"/>
 
@@ -344,11 +339,9 @@
 <lb/>his people to go &amp;
 <lb/>purchase food of the
 <lb/><term type="tribe">Matambwe</term> southwards</p>
-	</div>
 
-	<div rend="gray">
 	<pb facs="liv_000003_0011" n="0011"/>
-<lb/><p rend="no-indent"><list><item>P <persName>Komota</persName> bale &amp; bag</item>
+<lb/><list rend="gray"><item>P <persName>Komota</persName> bale &amp; bag</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Nimperna</persName> = <term type="plant_foodstuff">coffee</term> &amp; <gap extent="3" unit="chars" agent="blot"/></item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Manerno</persName> <term type="plant_foodstuff">sugar</term></item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Nkutkona</persName> bale &amp; mat</item>
@@ -360,10 +353,7 @@
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Marinde</persName> 8 <term type="plant_foodstuff"><choice><abbr>B</abbr><expan>Black</expan></choice> Pepper</term></item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Nchinama</persName> flour box</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Likako</persName> 4 cubits</item>
-</list></p>
-	</div>
-       	    
-	<div rend="blue">
+</list>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><p rend="no-indent"><date when="1866-05-19">19<hi rend="sup underline">th</hi> May 1866</date>. <space extent="4" unit="chars"/>We
 <lb/>found ourselves on the
@@ -479,7 +469,7 @@
 <lb/><p rend="no-indent"><date when="1866-05-20">20<hi rend="sup underline">th</hi> May 1866</date> sent
 <lb/>2 of <persName>Matumora</persName>'s &amp; 4
 <lb/><orgName><placeName><geogName type="island">Johanna</geogName></placeName> men</orgName> off to
-<lb/>the <term type="tribe"><w>Mat<subst><del>u</del><add place="over-text" rend="black">a</add></subst>mbwe</w></term> South
+<lb/>the <term type="tribe"><w>Mat<subst><del>u</del><add place="over-text" rend="gray">a</add></subst>mbwe</w></term> South
 <lb/>of this to buy <w>pro-
 <lb break="no"/>-visions</w> with six
 <lb/>fathoms of cloth - &amp;
@@ -491,8 +481,8 @@
 <lb/>but will get it soon -</p>
 <!--I'm not sure how to transcribe the rest of the page which is rendered upside down... Dr. Wisnicki, can you take a look? -AK --> <!-- I gave it a shot but it still needs some work. MW -->
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p rend="upside-down"><space extent="5" unit="chars"/><add place="inspace" hand="#BA"><foreign xml:lang="ar"></foreign></add><!-- We need to have the Arabic here rendered into XML. This can be done with "Insert from Character Map" by someone who knows the Arabic alphabet. AW -->
-<lb/><persName>Bon <choice><orig><w>a<subst><del>li</del><add place="over-text" rend="black">rie</add></subst></w></orig><reg>Ali</reg></choice></persName> <foreign xml:lang="ar">o boana salale</foreign><!-- Context suggests that the foregoing phrase is a transliteration of the Arabic on the line previous. The next line suggests that DL labels this language "Somalie". AW -->
+<lb/><p rend="upside-down no-indent"><space extent="5" unit="chars"/><add place="inspace" hand="#BA"><foreign xml:lang="ar"><figure><figDesc>Arabic text.</figDesc></figure></foreign></add><!-- We need to have the Arabic here rendered into XML. This can be done with "Insert from Character Map" by someone who knows the Arabic alphabet. AW -->
+<lb/><persName>Bon <choice><orig><w>a<subst><del>li</del><add place="over-text" rend="gray">rie</add></subst></w></orig><reg>Ali</reg></choice></persName> <foreign xml:lang="ar">o boana salale</foreign><!-- Context suggests that the foregoing phrase is a transliteration of the Arabic on the line previous. The next line suggests that DL labels this language "Somalie". AW -->
 <lb/><orgName><choice><orig>Somalie</orig><reg>Somali</reg></choice></orgName>-</p>
 
 
@@ -521,7 +511,7 @@
 <lb/>only</p>
 
 	<pb facs="liv_000003_0020" n="0020"/>
-<lb/><p><term type="animal"><gap agent="blot" extent="1" unit="chars"/>Leopard</term> came in the 
+<lb/><p rend="no-indent"><term type="animal"><gap agent="blot" extent="1" unit="chars"/>Leopard</term> came in the 
 <lb/>evening and took off
 <lb/><persName>Wikatani</persName>'s <term type="animal">dog</term> from
 <lb/>beside the men -
@@ -653,7 +643,6 @@
 <lb/>among <term type="tribe">Makonde</term> &amp;
 <lb/><term type="tribe"><choice><orig>Metambwe</orig><reg>Matambwe</reg></choice></term></p> <!-- Adrian, the text clearly says 'Metambwe', but thought it was 'Matambwe'- is this an alternate spelling, or incorrect? HB --><!-- I think there's no definite answer. Really, probably, this could be spelled either way, so I'm taking Matambwe as the default and regularizing the other. AW -->
 			</div>
-       	    
        		<div rend="gray">
 <lb/><milestone unit="section" rend="line"/>
 <lb/><p rend="no-indent"><date when="1866-06-01">1<hi rend="sup underline">st</hi> June 1866</date> - The
@@ -679,7 +668,6 @@
 <!-- Filled in this line, but leaving out calculations as per manual. HB -->
 <!-- I think to kept strictly to our rule the foregoing words should also not be transcribed as they're part of the calculation, so I've commented them out. --><!-- OK. AW -->
 <lb/><figure><figDesc>Geographical calculations.</figDesc></figure>
-<lb/><space dim="vertical" extent="2" unit="lines"/>
 
 	<pb facs="liv_000003_0028" n="0028"/>
 <lb/><p rend="no-indent"><date when="1866-06-03">3<hi rend="sup">d</hi> June 1866</date> - <choice><sic>the</sic><corr>The</corr></choice> <term type="animal">cow
@@ -758,9 +746,6 @@
 <lb/>irreverent speaking about
 <lb/>him - (<foreign xml:lang="und">Mulungu</foreign>) it may
 <lb/>injure the country - </p>
-       	</div>
-       	    
-       <div rend="black">
 <lb/><p rend="no-indent"><date when="1866-06-04">4 June 1866</date> Leave <placeName><settlement type="village">Ngomano</settlement></placeName>
 <lb/>and march 1 <choice><orig>¼</orig><reg>1/4</reg></choice> to rest
 <lb/>nineteen <term type="occupation">carriers</term> have
@@ -774,10 +759,10 @@
 <lb/><item><persName>Simon</persName></item>
 <lb/><item><persName>Mabruki</persName></item>
 <lb/><item><persName>Gardener</persName> bale</item></list>
-<lb/><p>To retrieve wages from
+<lb/><p rend="no-indent">To retrieve wages from
 <lb/>this time forward of ten
 <lb/>Rupees per month from</p>
-<lb/><p><date when="1866-06-04">4<hi rend="sup underline">th</hi> June 1866</date></p>
+<lb/><p rend="no-indent"><date when="1866-06-04">4<hi rend="sup underline">th</hi> June 1866</date></p>
        		
 	<pb facs="liv_000003_0032" n="0032"/>
 <!--Adrian will transcribe this page. -AA --><!-- Adrian, I took a stab at the description- let me know if it needs to be altered. HB --><!-- Heather, see how I've done this to capture both DL's and your descriptions. AW -->
@@ -789,7 +774,7 @@
       
 	<pb facs="liv_000003_0034" n="0034"/>
 <!--I'm marking this page for Adrian to look over in detail. Also, I'm not sure if the marks on the left are bullet points, p's, or something else. -AA --><!-- Adrian, I took a stab at this- let me know if it is off (not sure my divs are as clean as possible). HB --><!-- Heather, looks good to me. Well done! AW -->
-<lb/><list rend="gray"><head rend="black">Engaged at <placeName><settlement type="village">Ngomano</settlement></placeName> -</head>
+<lb/><list rend="gray"><head rend="gray">Engaged at <placeName><settlement type="village">Ngomano</settlement></placeName> -</head>
 <lb/><item><note place="marginleft"><date when="1866-06-04">4<hi rend="sup underline">th</hi> <lb/>June</date></note> <choice><abbr>P</abbr><expan>Paid</expan></choice> Mandikelala bale</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName><choice><sic>chañkoma</sic><corr>Chañkoma</corr></choice></persName> <space extent="4" unit="chars"/>red beads</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Ntambo</persName> <space extent="5" unit="chars"/>bale</item>
@@ -807,15 +792,13 @@
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Monda</persName> <term type="plant_foodstuff">sugar</term> &amp; <term type="plant_foodstuff">flour</term></item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Kapunda</persName> big Powder</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Machinga</persName> bale</item>
-<lb/><item rend="black"><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Kontumbre</persName> bale</item>
+<lb/><item rend="gray"><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Kontumbre</persName> bale</item>
 
 	<pb facs="liv_000003_0035" n="0035"/>
-<lb/><item rend="black"><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Ngalale</persName> bale</item></list>
-<!-- Heather, I've taken out a few of your <div rend="black">s here and elsehwere. All this looks like pencil to me, so more or less of the same kind. AW --><!-- Aye aye, cap'n! :) HB --><!-- Adrian, adding the rend=black's back in as per a note later in the file. HB -->
-       </div>
-       	    <div rend="black">
+<lb/><item rend="gray"><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Ngalale</persName> bale</item></list>
+<!-- Heather, I've taken out a few of your <div rend="gray">s here and elsehwere. All this looks like pencil to me, so more or less of the same kind. AW --><!-- Aye aye, cap'n! :) HB --><!-- Adrian, adding the rend=gray's back in as per a note later in the file. HB -->
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p><date when="1866-06-05">5<hi rend="sup underline">th</hi> June 1866</date> We
+<lb/><p rend="black gray"><date when="1866-06-05">5<hi rend="sup underline">th</hi> June 1866</date> We
 <lb/>slept at <placeName><settlement type="village">Lamba</settlement></placeName> a <choice><abbr>vil-</abbr><expan>village</expan></choice>
 <lb/>on banks of <placeName><geogName type="river">Rovuma</geogName></placeName>
 <lb/>here a brawling torrent
@@ -831,10 +814,7 @@
 <lb/>winter's cold - The
 <lb/><term type="occupation">carriers</term> dawdle &amp;
 <lb/>complain of hunger</p>
-        </div>
-       	    
-       <div rend="gray">
-<lb/><p>Sit an hour and then
+<lb/><p rend="no-indent">Sit an hour and then
 <lb/>go on leaving main
 <lb/>path we missed them - When
 <lb/>they would not move
@@ -843,7 +823,7 @@
 <lb/><gap agent="blot" extent="2" unit="chars"/><supplied cert="high">I <w><supplied>s</supplied>ent</w></supplied> our party forward <!-- Adrian, pls check my supply tags to make sure correct (not sure about it). HB --><!-- Done. AW -->
 <lb/>to the next village but
 <lb/>they went on to a garden
-<lb/>and I <w><subst><del/><add place="over-text">f</add></subst>ound</w> them all
+<lb/>and I <w><subst><del><gap extent="1" unit="chars" agent="overwriting"/></del><add place="over-text">f</add></subst>ound</w> them all
 <lb/>crunching <term type="plant">sorghum stalks</term>
 <lb/>like a lot of <term type="animal">cattle</term> - Went
 <lb/>on <measure>3 hours</measure> then wait
@@ -863,7 +843,7 @@
 <lb/>inferior</p>
            
 	<pb facs="liv_000003_0037" n="0037"/>    
-<lb/><p>The markings on the
+<lb/><p rend="no-indent">The markings on the
 <lb/>faces &amp; bodies constitute
 <lb/>a sort of heraldry - Each
 <lb/>tribe has its own distinctive
@@ -877,12 +857,9 @@
 <lb/>parts - at times it is made
 <lb/>like a <term type="animal">horse</term> shoe <del type="strikethrough">in middle</del> <!-- Adrian, should horse be tagged here as animal?? HB --><!-- Why not? AW -->
 <lb/>of forehead or stomach
-<lb/> <!-- Adrian, should we not be coding these line spacings as spaces/gaps as done previously? HB --><!-- If it's just one line, putting a <lb/> will do. AW -->
-<lb rend="right"/>or
-<lb/>
-<lb rend="left"/><metamark/>abdomen</p>
+<lb/><figure><head rend="gray">abdomen</head><figDesc>Drawing of a few examples of <term type="tribe">Makoa</term> tattoos.</figDesc></figure> <figure><head rend="gray"><hi rend="underline"><term type="tribe">Makoa</term> Markings</hi></head><figDesc>Drawing of a few examples of <term type="tribe">Makoa</term> tattoos.</figDesc></figure> or</p>
 <!--Adrian will transcribe this portion. -AA --><!-- Again, took a stab at this, Adrian, but let me know if anything needs fixing. HB --><!-- See how I've changed this below and above. AW -->
-<figure><head rend="black"><hi rend="underline"><term type="tribe">Makoa</term> Markings</hi></head><figDesc>Drawing of a few examples of <term type="tribe">Makoa</term> tattoos.</figDesc></figure>
+
        			
 	<pb facs="liv_000003_0038" n="0038"/>
 <lb/><p rend="no-indent"><w><gap agent="blot" extent="1" unit="chars"/><supplied cert="high">W</supplied>e</w> can see great masses
@@ -894,7 +871,7 @@
 <lb/>towards the East and men
 <lb/>I see detached blocks of
 <lb/>basalt = six sided prisms &amp;c
-<lb/>and a black substance
+<lb/>and a gray substance
 <lb/>flows from the syenite
 <lb/>which <choice><orig>shews</orig><reg>shows</reg></choice> no disposition
 <lb/>to burn - <measure>8 miles</measure> to <placeName><settlement type="village">Mekosi <choice><abbr>vil.</abbr><expan>village</expan></choice></settlement></placeName></p> 
@@ -912,7 +889,7 @@
     <!-- hb, jm, aw -->
 
 	<pb facs="liv_000003_0039" n="0039"/>
-<lb/><p rend="no-indent">We find 2 <orgName>half <gap extent="1" unit="words" agent="blot"/><supplied cert="medium">Eastern</supplied>
+<lb/><p rend="no-indent">We find 2 <orgName>half <unclear cert="high">caste</unclear> <gap extent="1" unit="words"/>
 <lb/><term type="occupation">traders</term></orgName> on banks of the
 <lb/><placeName><geogName type="river">Sangesi</geogName></placeName> - <measure>an hour &amp;
 <lb/>a <choice><orig>¼</orig><reg>1/4</reg></choice> of quick walking</measure>
@@ -969,9 +946,9 @@
 <lb/>except what <term type="animal">turtle doves</term> &amp;
 <lb/><term type="animal">guinea fowls</term> we can
 <lb/>shoot.</p> 
-<lb/><figure rend="black"><figDesc>Geographical calculations.</figDesc></figure><!-- Heather, note how I've done this. You might go thorugh all the transcriptions and see where and when DL switches to this darker pencil and code appropriately with "black" whether on <div> or <figure> or whatever may be the case, so that the color is captured consistently. AW -->
+<lb/><figure rend="gray"><figDesc>Geographical calculations.</figDesc></figure><!-- Heather, note how I've done this. You might go thorugh all the transcriptions and see where and when DL switches to this darker pencil and code appropriately with "gray" whether on <div> or <figure> or whatever may be the case, so that the color is captured consistently. AW -->
 
-<!-- <lb/><table rend="black"><row><cell rend="left"><metamark/>111°</cell><cell rend="center">13°</cell><cell rend="right">30° <add place="over-text">0' Index Error</add></cell></row> 
+<!-- <lb/><table rend="gray"><row><cell rend="left"><metamark/>111°</cell><cell rend="center">13°</cell><cell rend="right">30° <add place="over-text">0' Index Error</add></cell></row> 
 
 <lb/><milestone unit="section" rend="half-line"/>
 
@@ -997,7 +974,7 @@
 
     <pb facs="liv_000003_0042" n="0042"/>
 <!-- Not sure if this table is a continuation of the previous- pls advise. HB -->
-<!--<table rend="black"><row><cell rend="left"><hi rend="underline">ʘ</hi> 55</cell><cell rend="center">51</cell><cell rend="right">59</cell></row>
+<!--<table rend="gray"><row><cell rend="left"><hi rend="underline">ʘ</hi> 55</cell><cell rend="center">51</cell><cell rend="right">59</cell></row>
 
 <lb/><row><cell rend="left">90</cell></row>
 
@@ -1011,7 +988,7 @@
 
 <lb/><row><cell rend="left">11</cell><cell rend="center">22</cell><cell rend="right">49 <choice><abbr>Lat</abbr><expan>Latitude</expan></choice> - </cell></row></table> -->
 
-<lb/><figure rend="black"><figDesc>Geographical calculations that appear to continue from the previous page.</figDesc></figure>
+<lb/><figure rend="gray"><figDesc>Geographical calculations that appear to continue from the previous page.</figDesc></figure>
 <lb/><p rend="no-indent"><placeName><geogName type="river">Rovuma</geogName></placeName> must be 2'
 <lb/>North of this now -
 <lb/>The <orgName><term type="occupation">Havildar</term></orgName> - two <orgName><term type="occupation">sepoys</term></orgName>
@@ -1045,7 +1022,7 @@
 <lb/>prevails &amp; we must go
 <lb/>forward tomorrow to
 <lb/><placeName><settlement type="village">Matawa</settlement></placeName> or <placeName><settlement type="village"><choice><orig>Mataba</orig><reg>Metaba</reg></choice></settlement></placeName>'s</p> <!-- Adrian, DL spells it Mataba/Matawa here, but Metaba/Metawa in other places- which correct? HB --><!-- Take your pick! See which he uses more frequently. Assume that's the standard, and mark the other variant with <orig><reg>. AW --><!-- Metaba it is! Going back to correct. HB -->
-<lb/><metamark/><note place="marginleft"><date when="1866-06-07">7<hi rend="sup">th</hi></date></note><p><seg type="weather">Strong South winds
+<lb/><p rend="no-indent"><metamark/><add place="marginleft"><date when="1866-06-07">7<hi rend="sup">th</hi></date></add> <seg type="weather">Strong South winds
 <lb/>with driving clouds
 <lb/>for two days after a
 <lb/>slight shower on the
@@ -1078,7 +1055,7 @@
 <lb/>from an <orgName><orgName>Arab</orgName> <term type="occupation">trader</term></orgName></p>
             
     <pb facs="liv_000003_0045" n="0045"/>
-<lb/><list><head><date when="1866-06-09">9<hi rend="sup underline">th</hi></date> at <placeName><settlement type="village"><persName>Makochera</persName></settlement></placeName></head> <!-- Adrian, Makochera was tagged as person on previous page, so am assuming there's a "'s" following the name here blotted out and it should be tagged as a village...thoughts? HB --><!-- See what I've done. AW -->
+<lb/><list><head><space extent="2" unit="chars"/><date when="1866-06-09">9<hi rend="sup underline">th</hi></date> at <placeName><settlement type="village"><persName>Makochera</persName></settlement></placeName></head> <!-- Adrian, Makochera was tagged as person on previous page, so am assuming there's a "'s" following the name here blotted out and it should be tagged as a village...thoughts? HB --><!-- See what I've done. AW -->
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Arimome</persName> <space extent="1" unit="chars"/>bale</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Dogolo</persName> <space extent="3" unit="chars"/> bale</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Nampanyue</persName></item>
@@ -1092,7 +1069,7 @@
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Mandumba</persName> bale</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Malota</persName> <choice><abbr>carp</abbr><expan>carpet</expan></choice> bag</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Mangozi</persName> bale</item>
-<lb/><item><space extent="4" unit="chars"/><persName>Mohaka</persName> big <unclear cert="medium">Powder</unclear> box</item>
+<lb/><item><space extent="2" unit="chars"/><persName>Mohaka</persName> big <unclear cert="medium">Powder</unclear> box</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Lipandula</persName> prow &amp; sail</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Chipungwa</persName> <unclear cert="medium">powder</unclear> box</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName>Monyau</persName> <unclear cert="high"><term type="plant_foodstuff">flour</term></unclear> &amp; <term type="plant_foodstuff">sugar</term></item>
@@ -1104,7 +1081,7 @@
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName><unclear cert="medium">Masanyelo</unclear></persName> bale</item>
 <lb/><item><choice><abbr>P</abbr><expan>Paid</expan></choice> <persName><choice><sic>chiomba</sic><corr>Chiomba</corr></choice></persName> <term type="plant_foodstuff">tea</term> box &amp; bag</item></list>
 <lb/><milestone unit="section" rend="line"/> 
-<lb/><p><date when="1866-06-09">9<hi rend="sup underline"></hi> June 1866</date> We
+<lb/><p><date when="1866-06-09">9<hi rend="sup underline">th</hi> June 1866</date> We
 <lb/>marched <measure>3 hours</measure>
 <lb/>through scraggy open
 <lb/>forest with here &amp;
@@ -1133,7 +1110,7 @@
 <lb/><metamark/><term type="insect">Tsetse</term> biting the <term type="animal">mule</term>
 <lb/>&amp; <term type="animal">buffalo calf</term> = 4 <choice><orig>½</orig><reg>1/2</reg></choice> + <choice><orig>½</orig><reg>1/2</reg></choice>
 <lb/>= 5 hours</p> <!-- Should this be coded as an add above/below bc seems stuck in there after the fact? HB --><!-- Not sure. Let's just leave as is. AW -->
-<lb/><p>Passed a recently dead person
+<lb/><p rend="no-indent">Passed a recently dead person
 <lb/>on the road - said to be hunger.
 <lb/>We passed through a
 <lb/>defile between two hills
@@ -1145,16 +1122,16 @@
     <pb facs="liv_000003_0048" n="0048"/> 
 <lb/><cb rend="left"/><figure><figDesc>Drawing of <placeName><geogName type="hill">Njengo hill</geogName></placeName> that continues onto the following page.</figDesc></figure>
 
-<lb/><p><space extent="1" unit="words"/><choice><sic>trees</sic><corr>Trees</corr></choice> shutting out <cb rend="right"/>base
-<lb/><cb rend="left"/>outline of <placeName><geogName type="hill">Njengo hill</geogName></placeName> -<cb rend="right"/>covered with a light <unclear cert="high">grey</unclear>
-<lb/><cb rend="left"/>grassy looking plant <w>exc<cb rend="right"/>ept</w> here &amp; there some few trees
-<lb/><cb rend="left"/>about <measure>700 feet</measure> above <cb rend="right"/>plain <space extent="3" unit="words"/>of the <lb rend="right"/>above <lb rend="right"/>Hill<!-- geog: Njengo --> <lb rend="right"/><measure>7500 <choice><abbr>yds</abbr><expan>yards</expan></choice> <lb rend="right"/>South</measure>
-<lb/></p>
+<lb/><p><cb rend="left"/><choice><sic>trees</sic><corr>Trees</corr></choice> shutting out <add place="marginright">base</add>
+<lb/><cb rend="left"/>outline of <placeName><geogName type="hill">Njengo hill</geogName></placeName> - <add place="marginright">covered with a light <unclear cert="high">grey</unclear></add>
+<lb/><cb rend="left"/>grassy looking plant exc<add place="marginright">ept here &amp; there some few trees</add>
+<lb/><cb rend="left"/>about <measure>700 feet</measure> above <add place="marginright">plain <space extent="1" unit="words"/>of the</add> 
+<lb/><space extent="8" unit="words"/><add place="marginright">above</add> 
+<lb/><space extent="8" unit="words"/><add place="marginright">Hill</add><!-- geog: Njengo --> 
+<lb/><space extent="8" unit="words"/><add place="marginright"><measure>7500 <choice><abbr>yds</abbr><expan>yards</expan></choice></measure></add>
+<lb/><space extent="8" unit="words"/><add place="marginright">South</add></p>
 <!-- The transcription runs across this and the following page- I'm transcribing as separate for now but can consolidate if decide if should be somehow jointed. HB --><!-- See how I've done this. AW --><!-- Adrian, the narrative is definitely split across the pages as well, as ex-cept goes across the pages...should we notate somehow?? HB --><!-- I think I've fixed this now, as per the example on 54 below. AW -->
-
 <lb/><figure><figDesc>Geographical calculation.</figDesc></figure>
-
-
             
 <!--<lb/><table><row><cell rend="left"><metamark/>77</cell><cell rend="center">59</cell><cell rend="right">00 <add place="inspace">Index 0"</add></cell></row>
 <lb/><milestone unit="section" rend="half-line"/>
@@ -1162,7 +1139,7 @@
 <lb/><row><cell rend="center">1</cell><cell rend="right">10</cell></row></table>-->
 
     <pb facs="liv_000003_0049" n="0049"/>
-<figure><figDesc>Drawing of <placeName><geogName type="hill">Njengo hill</geogName></placeName> that continues from the previous page.</figDesc></figure>
+<lb/><figure><figDesc>Drawing of <placeName><geogName type="hill">Njengo hill</geogName></placeName> that continues from the previous page.</figDesc></figure>
 <lb/><figure><figDesc>Geographical calculation.</figDesc></figure>
 
 <!--<lb/><table><row><cell rend="left">38</cell><cell rend="center">58</cell><cell rend="right">20</cell></row>
@@ -1217,7 +1194,6 @@
 <lb/>was here heard of our
 <lb/>approach they decamped
 <lb/>instanter<!-- Legal term. CL --></p>
-<lb/><space dim="vertical" extent="3" unit="lines"/>
     
     <pb facs="liv_000003_0052" n="0052"/>
 <lb/><figure rend="vertical"><head><placeName><geogName type="mountain">Ngozwe <choice><abbr>m<hi rend="sup underline">t</hi></abbr><expan>mountain</expan></choice></geogName></placeName> <date when="1866-06-10">10 June</date></head></figure>
@@ -1270,7 +1246,7 @@
     </ab>-->
 
     <pb facs="liv_000003_0054" n="0054"/>
-<lb/><p rend="no-indent"><date when="1866-06-11"><gap agent="blot" extent="4" unit="chars"/><supplied cert="high">11<hi rend="sup underline">th</hi></supplied> June 1866</date>. <term type="occupation"><choice><sic>carriers</sic><corr>Carriers</corr></choice></term>
+<lb/><p rend="no-indent"><date when="1866-06-11"><unclear cert="high">11<hi rend="sup underline">th</hi></unclear> June 1866</date>. <term type="occupation"><choice><sic>carriers</sic><corr>Carriers</corr></choice></term>
 <lb/>refuse to go on because
 <lb/>say they "When we return
 <lb/>we shall be seized here
@@ -1294,23 +1270,22 @@
 <lb/><placeName><geogName type="hill"><placeName><settlement type="village">Ngozo</settlement></placeName> <del type="cancelled">hill</del></geogName></placeName> we cannot
 <lb/>buy even with our
 <lb/>best cloths.</p>
-<lb/>
 <lb/><figure><figDesc>Drawing of <placeName><geogName type="hill">Mekanga Hill</geogName></placeName> that continues from the previous page.</figDesc></figure>
 <!-- Again, this section runs across from previous page line 489- coding separate for now, but let me know if need to combine and how best to do. HB --><!-- Talk about difficult to code! See what I've done on previous page and here. AW -->
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p rend="right">People all armed
-<lb/>with guns as if the
-<lb/><orgName>slave trade</orgName> prospered
-<lb/>here - women
-<lb/>wear the finest
-<lb/>beads</p>
-<lb/><p>We got a supply of
+<lb/><p rend="no-indent"><space extent="2" unit="words"/>People all armed
+<lb/><space extent="2" unit="words"/>with guns as if the
+<lb/><space extent="2" unit="words"/><orgName>slave trade</orgName> prospered
+<lb/><space extent="2" unit="words"/>here - women
+<lb/><space extent="2" unit="words"/>wear the finest
+<lb/><space extent="2" unit="words"/>beads</p>
+<lb/><p rend="no-indent">We got a supply of
 <lb/><term type="plant">sorghum</term> at a very
 <lb/>high price - <term type="occupation">carriers</term>
 <lb/>still maintain
             
     <pb facs="liv_000003_0056" n="0056"/>
-<lb/><w><gap extent="1" unit="chars" agent="blot"/><supplied cert="high">t</supplied>hey</w> only fear being
+<lb/><unclear cert="high">t</unclear>hey only fear being
 <lb/>plundered by the
 <lb/>inhabitants of this
 <lb/>village on their return
@@ -1319,7 +1294,7 @@
 <lb/><p rend="no-indent"><metamark/>Engaged in writing
 <lb/>a <bibl>despatch on the
 <lb/><orgName>slave trade</orgName> of <placeName><geogName type="island">Zanzibar</geogName></placeName></bibl></p>
-<lb/><p rend="no-indent black"><date when="1866-06-12">12<hi rend="sup underline">th</hi> June 1866</date> -
+<lb/><p rend="no-indent gray"><date when="1866-06-12">12<hi rend="sup underline">th</hi> June 1866</date> -
 <lb/>Paid off <orgName><persName>Makochera</persName>'s
 <lb/>people</orgName> - according to
 <lb/>all information there
@@ -1333,15 +1308,15 @@
     <!-- mw, ak, aw -->
 
 	<pb facs="liv_000003_0057" n="0057"/>
-<lb/><figure><head rend="black"><placeName><geogName type="mountain">Mekanga</geogName></placeName> from <choice><abbr>NE.</abbr><expan>North East</expan></choice></head></figure>
+<lb/><figure><head rend="gray"><placeName><geogName type="mountain">Mekanga</geogName></placeName> from <choice><abbr>NE.</abbr><expan>North East</expan></choice></head></figure>
 <lb/><milestone unit="section" rend="line"/>
 <lb/>an intelligent man who <add place="below">^</add> <add place="above">added</add>
 <lb/>that <placeName><geogName type="river">Rovuma</geogName></placeName> rose from
 <lb/>fountains among mountains
 <lb/>near to <placeName><geogName type="lake">Nyassa</geogName></placeName> but
 <lb/>not in the Lake <!-- geog: Nyassa --> itself</p>
-<lb/><milestone unit="section" rend="line"/>
-<lb/><p rend="no-indent"><date when="1866-06-13">13</date> <persName>Makoloya</persName> = <del>&amp;</del><add place="over-text">or</add>
+<milestone unit="section" rend="line"/>
+<lb/><p rend="no-indent"><date when="1866-06-13">13</date> <space extent="1" unit="words"/><persName>Makoloya</persName> = <del>&amp;</del><add place="over-text">or</add>
 <lb/>-<persName><choice><sic>impandola</sic><corr>Impandola</corr></choice></persName> visit 
 <lb/>us to day - wishes to
 <lb/>make friends and
@@ -1419,7 +1394,7 @@
 <lb/>hopeless of escape -
 
 	<pb facs="liv_000003_0061" n="0061"/>
-<lb/>We were marching 3 hou<gap agent="blot" extent="2" unit="chars"/><supplied cert="high">rs</supplied></p>
+<lb/><space extent="2" unit="chars"/>We were marching 3 hou<unclear cert="high">rs</unclear></p>
 <lb/><p rend="no-indent"><date when="1866-06-15">15<hi rend="sup underline">th</hi></date> <space extent="2" unit="chars"/><placeName><geogName type="river">Rovuma</geogName></placeName> bends
 <lb/>Southwards <subst><del>out</del><add place="over-text">now</add></subst> - Its
 <lb/>greatest Northing must
@@ -1444,7 +1419,7 @@
 <lb/>tastes much like <term type="foodstuff">Haggis</term></p><!--I feel like we could develop a short book of Livingstone's recipes/recipes inspired by Livingstone! -AK--><!-- That would actually be kind of cool and make for a nice blog post :> Maybe you should keep track. AW -->
 
 	<pb facs="liv_000003_0062" n="0062"/>
-<lb/><p rend="no-indent"><date when="1866-06-16">16<hi rend="sup underline"><gap agent="blot" extent="2" unit="chars"/><supplied cert="high">th</supplied></hi> June 1866</date> at
+<lb/><p rend="no-indent"><date when="1866-06-16">16<hi rend="sup underline"><unclear cert="high">th</unclear></hi> June 1866</date> at
 <lb/><placeName><settlement type="village">Metaba</settlement></placeName> or <placeName><settlement type="village"><persName>Kinazombe</persName>'s</settlement></placeName>. 
 <lb/><w>Th<subst><del>is</del><add place="over-text">e</add></subst></w> <term type="animal">cattle</term> in <placeName><bloc>Africa</bloc></placeName>
 <lb/>are but partially tamed
@@ -1730,7 +1705,7 @@
 <lb/>did not see his grave -</p>
 
 	<pb facs="liv_000003_0074" n="0074"/>
-<lb/><p>Saw a <bibl>telegram</bibl> today
+<lb/><p rend="no-indent">Saw a <bibl>telegram</bibl> today
 <lb/>"<hi rend="underline">Your mother died at</hi>
 <lb/><add place="below">^</add> <hi rend="underline"><add place="above">noon</add></hi> <hi rend="underline">on the <date when="1865-06-18">18<hi rend="sup underline">th</hi> June <choice><abbr>"65</abbr><expan>1865</expan></choice></date></hi>
 <lb/>which affected me not
@@ -1768,7 +1743,7 @@
 <lb/><choice><sic>have</sic><corr>has</corr></choice> ample supplies
 <lb/>of powder cloth &amp;
 <lb/>beads from <orgName>Arabs</orgName>
-<lb/>in exchange for <orgName><w>sl<subst><del/><add place="over-text">a</add></subst>ves</w></orgName>
+<lb/>in exchange for <orgName><w>sl<subst><del><gap extent="1" unit="chars"/></del><add place="over-text">a</add></subst>ves</w></orgName>
 <lb/>we have no chance</p>
 <lb/><p>It is hard to feel
 <lb/>charitably towards the
@@ -1776,7 +1751,7 @@
 <lb/>or aim seems to
 
 	<pb facs="liv_000003_0076" n="0076"/>
-<lb/><gap agent="blot" extent="1" unit="words"/>have been to detach
+<lb/>have been to detach
 <lb/>first the <orgName><placeName><settlement type="city">Nassick</settlement></placeName>
 <lb/>boys</orgName> then the <orgName><placeName><geogName type="island">Johanna</geogName></placeName>
 <lb/>men</orgName> and of course
@@ -1833,7 +1808,7 @@
 <lb/><placeName><geogName type="river">Rovuma</geogName></placeName> called <placeName><geogName type="island">Chmiki</geogName></placeName>
 <lb/>where the people <term type="tribe">Makoa</term>
 <lb/>were decidedly civil - The
-<lb/><term type="tribe"><w>Wai<subst><del/><add place="over-text">y</add></subst>au</w></term> have all been
+<lb/><term type="tribe"><w>Wai<subst><del><gap extent="1" unit="chars"/></del><add place="over-text">y</add></subst>au</w></term> have all been
 <lb/>greedy &amp; not good mannered
 <lb/>sent 5 men back thence
 <lb/>to bring up <orgName><term type="occupation">Havildar</term></orgName> &amp; the
@@ -1871,7 +1846,7 @@
 	<pb facs="liv_000003_0080" n="0080"/>
 <lb/><gap agent="blot" extent="2" unit="words"/><supplied cert="low">the</supplied> <w><supplied cert="high">co</supplied>arseness</w> of low civilization
 <lb/>in the laugh with which some
-<lb/>black brutes looked at the
+<lb/>gray brutes looked at the
 <lb/>protruding part.</p>
 <lb/><p>Spoke to <persName><term type="occupation">Headman</term></persName> on several
 <lb/>points when he came last
@@ -1908,7 +1883,7 @@
 <lb/><figure><head><placeName><settlement type="village"><persName>Chirikaloma</persName>'s <choice><abbr>vil</abbr><expan>village</expan></choice></settlement></placeName> <lb/><date when="1866-06-23"><w>2<subst><del>2</del><add place="over-text">3</add></subst></w> June <lb/>1866</date></head><figDesc>Calculation.</figDesc></figure></p> <!-- Adrian, not sure if this date should be a <head> tag? HB --><!-- Date goes in the description, I think, but the village name should be head, so I've fixed it. AW --><!-- Adrian, I put the date back into the head as that seems to be how the majority of examples have been transcribed across transcribers/letters. HB -->
 
 	<pb facs="liv_000003_0082" n="0082"/>
-<lb/><p rend="no-indent"><date when="1866-06-24"><gap agent="blot" extent="2" unit="words"/>24<supplied cert="high"><hi>th</hi></supplied> June 1866</date> Divine service
+<lb/><p rend="no-indent"><date when="1866-06-24"><unclear cert="high">24<hi>th</hi></unclear> June 1866</date> Divine service
 <lb/>at 8-30 - numbers looking
 <lb/>on - <seg type="weather">Cold southerly winds -
 <lb/><choice><abbr>Temp</abbr><expan>Temperature</expan></choice> at 6 AM 55°</seg> <term type="animal">Mule</term>
@@ -1958,10 +1933,9 @@
 <lb/>The wood of a <term type="plant">fig tree</term> is
 <lb/>much esteemed for the
 <lb/>upright piece -</p>
-<lb/><space dim="vertical" extent="3" unit="lines"/>
 
 	<pb facs="liv_000003_0084" n="0084"/>
-<lb/><p><gap agent="blot" extent="1" unit="words"/> <unclear cert="medium">are</unclear> in the habit of <!-- Adrian, cannot make out if the blotted word is 'Ali', 'We', or 'They'...thoughts? HB --><!-- Don't know; leave as is. AW -->
+<lb/><p rend="no-indent"><gap agent="blot" extent="1" unit="words"/> <unclear cert="medium">are</unclear> in the habit of <!-- Adrian, cannot make out if the blotted word is 'Ali', 'We', or 'They'...thoughts? HB --><!-- Don't know; leave as is. AW -->
 <lb/>preserving <term type="foodstuff">meat</term> <term type="foodstuff"><term type="animal">fish</term></term> <!-- Adrian, tagging fish as foodstuff because of context, but let me know if possibly needs a second tag for animal?? HB --><!-- I just added a second tag, as we don't have another way to handle this. AW -->
 <lb/>and <term type="plant_foodstuff">fruit</term> by drying them
 <lb/>in stages over slow fires
@@ -1986,7 +1960,7 @@
 <lb/>fossil bones in the country</p><!-- Wow, some very interesting info here! AW -->
 
 	<pb facs="liv_000003_0085" n="0085"/>
-<lb/><p>The pots are made <w><gap agent="blot" extent="1" unit="chars"/><supplied cert="high">b</supplied>y</w>
+<lb/><p rend="no-indent">The pots are made <w><gap agent="blot" extent="1" unit="chars"/><supplied cert="high">b</supplied>y</w>
 <lb/>women and the form
 <lb/>wonderfully well preserved
 <lb/>by the eye alone - A
@@ -2010,8 +1984,8 @@
 <lb/>is ever used</p>
 
 	<pb facs="liv_000003_0086" n="0086"/>
-<lb/><p rend="no-indent"><gap agent="blot" extent="2" unit="words"/><unclear cert="medium">A blunt wand</unclear> <figure><figDesc>Drawing of wire in a horse-shoe shape, partially filled in by squiggles, and other lines underneath it representing the ground.</figDesc></figure> is often
-<lb/>seen <w>ins<subst><del/><add place="over-text">ert</add></subst>ed</w> <space extent="2" unit="words"/>by both
+<lb/><p rend="no-indent"><unclear cert="medium">A blunt wand</unclear> <figure><figDesc>Drawing of wire in a horse-shoe shape, partially filled in by squiggles, and other lines underneath it representing the ground.</figDesc></figure> is often
+<lb/>seen <w>ins<subst><del><gap extent="1" unit="chars"/></del><add place="over-text">ert</add></subst>ed</w> <space extent="2" unit="words"/>by both
 <lb/>ends into the ground with
 <lb/><choice><sic>alot</sic><corr>a lot</corr></choice> of medicine - usually <!-- Adrian, medicine is too general to tag as medicament, correct? HB --><!-- Yes, OK to leave off tag. AW -->
 <lb/>bark of trees buried beneath
@@ -2080,7 +2054,7 @@
 <lb/>people - who were said
 <lb/>also to have eyes behind
 <lb/>their heads -</p>
-<lb/><p><seg type="weather">The rains are expected</seg>
+<lb/><p rend="no-indent"><seg type="weather">The rains are expected</seg>
 <lb/>when the Pleiades are
 <lb/>seen in the <placeName><region>East</region></placeName> in the
 
@@ -2124,7 +2098,6 @@
 <lb/>but in returning with
 <lb/>few goods we may
 <lb/>try</p>
-<lb/><space dim="vertical" extent="5" unit="lines"/>
 
 	<pb facs="liv_000003_0091" n="0091"/>
 <lb/><p><date when="1866-06-26">26<hi rend="sup underline">th</hi> June 1866</date> = <term type="animal">Mule</term>
@@ -2238,7 +2211,7 @@
 <lb/>on to <placeName><settlement type="village"><persName>Singao</persName>'s</settlement></placeName>
 <lb/>whole march 2 <choice><orig>½</orig><reg>1/2</reg></choice> <w>hou<gap extent="2" unit="chars"/><supplied cert="high">rs</supplied></w></p>
 <lb/><p><date when="1866-06-27">27<hi rend="sup underline">th</hi> June 1866</date> -
-<lb/>Passed a man lying dead
+<lb/><choice><sic>passed</sic><corr>Passed</corr></choice> a man lying dead
 <lb/>of starvation in decent
 <lb/>attitude - <persName>Reuben</persName> wandered
 <lb/>and came upon fifteen =
@@ -2284,7 +2257,7 @@
 	<pb facs="liv_000003_0096" n="0096"/>
 <lb/><figure><head><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> of <persName>Chenjawala</persName> on <placeName><geogName type="river">Rovuma</geogName></placeName> <lb/><date when="1866-06-27">27 June <lb/>1866</date></head><figDesc>Calculation.</figDesc></figure> <!-- Adrian, should DL's writing be turned into a <head> tag here? HB --><!-- Fixed. AW -->
 <lb/><milestone unit="section" rend="line"/> 
-<lb/><p><date when="1866-06-28">28<hi rend="sup underline">th</hi></date> <choice><sic>found</sic><corr>Found</corr></choice> the <term type="occupation">chief</term>
+<lb/><p rend="no-indent"><date when="1866-06-28">28<hi rend="sup underline">th</hi></date> <choice><sic>found</sic><corr>Found</corr></choice> the <term type="occupation">chief</term>
 <lb/>disinclined to aid us
 <lb/>in any way - but some
 <lb/>of his people were more
@@ -2322,7 +2295,7 @@
 <!-- I think this is the first page I've seen in this project that didn't require a single tag! AW --><!-- Haha, close- we needed a gap on the top for the blot and a term type for the maize, but yes, this is the least amount we've tagged in ages! HB -->
 
 	<pb facs="liv_000003_0098" n="0098"/>
-<lb/><gap agent="blot" extent="2" unit="words"/><term type="plant_foodstuff">green maize</term> was ordered
+<lb/><unclear cert="high"><term type="plant_foodstuff">green maize</term></unclear> was ordered
 <lb/>by one of the two men to
 <lb/>follow him - I said -
 <lb/>"Let her alone she is
@@ -2426,7 +2399,7 @@
 <lb/>he would willingly
 <lb/><choice><sic>to</sic><corr/></choice> do it to save me <!-- Adrian, is this the way to code, or should it be 'to do' within <sic> then 'do' within <corr>? (think that's how I've done it before so wanted to check) HB --><!-- I think as is is OK. AW -->
 <lb/>pain &amp; trouble.</p>
-<lb/><p><date when="1866-06-30">30 <add place="above" rend="black">June</add></date> Left our friend
+<lb/><p><date when="1866-06-30">30 <add place="above" rend="gray">June</add></date> Left our friend
 <lb/><persName>Chimseia</persName> = He warned
 <lb/>us against allowing
 <lb/>the men to scatter
@@ -2459,10 +2432,33 @@
 <lb/><placeName><bloc>Australia</bloc></placeName> but is not
 <lb/>true of <orgName>Africans</orgName>
 </p>
-	</div>
 
-	<div rend="gray">
 	<pb facs="liv_000003_0104" n="0104"/>
+<lb/><list><item><placeName><geogName type="promontory">Ngombo</geogName></placeName> on <placeName><geogName type="lake">Nyassa</geogName></placeName> =</item>
+<lb/><item>= <w>Mp<add place="below">^</add><add place="above">h</add>utvi</w> = (<unclear cert="low">massaning</unclear>) a (waiya)</item>
+<lb/><item>- <term type="tribe">Nindi</term> name of people who
+<lb/>now inhabit <placeName><region><term type="tribe">Mazitu</term>
+<lb/>country <choice><abbr>N</abbr><expan>north</expan></choice> of <placeName><geogName type="lake">Nyassa</geogName></placeName></region></placeName></item></list><!-- Normally, the <placeName><region> here would be limited to Mazitu country, but I think this makes sense as it is here, so I haven't changed it. AW -->
+<lb/><milestone unit="section" rend="line"/>
+<lb/><p rend="no-indent">Only five days &amp; plenty of
+<lb/>food on way to <persName>Mataka</persName>
+<lb/>from <persName>Mtarika</persName> = south
+<lb/><persName>Chirikaloma</persName>'s <term type="occupation">chief</term> =</p>
+<lb/><milestone unit="section" rend="line"/>
+<lb/><list rend="left"><metamark/><item><persName><w>Che<del type="strikethrough">w</del>unde</w></persName></item><metamark/>
+<note place="marginright">stages from
+<lb/><placeName><settlement type="village">Chirekaloma</settlement></placeName>
+<lb/>to <placeName><settlement type="village">Mtarika</settlement></placeName>
+</note>
+<lb/><item><persName><w>Anjawal<subst><del>a</del><add place="over-text">e</add></subst></w></persName></item>
+<lb/><item><persName>Mtarika</persName></item>
+<lb/><figure rend="gray"><figDesc>Drawing of a <term type="insect">fly</term>-whisk.</figDesc></figure>
+<lb/><item><metamark/><add place="inline"><persName>Panamande</persName> = <persName>Machemba</persName></add></item></list>
+
+<!-- This is the best way I can think of to code the foregoing, given what oXygen will and will not accept. However, Heather, if you can think of something better go for it. I wanted to do a table with two columns, the left of which would have a list, but that didn't work. AW --><!-- Adrian, the only things I added were rend=left and rend-right within the two sections, to give a bit more visual direction. HB --><!-- Looks good. AW -->
+
+
+	<pb facs="liv_000003_0105" n="0105"/>
 <lb/><list><head><hi rend="underline">From</hi> <placeName><settlement type="village"><persName>Kinazombe</persName>'s</settlement></placeName> - <date when="1866-06-30">30<hi rend="sup">th</hi> <lb rend="right"/>June</date></head>
 <lb/><item><persName><choice><orig>Cherekaloma</orig><reg>Chirikaloma</reg></choice></persName></item>
 <lb/><item><persName>Namabo</persName></item>
@@ -2487,40 +2483,9 @@
 <lb/><item>who are <term type="tribe">Waiyau</term> = all
 <lb/>on this side <placeName><geogName type="river">Rovuma</geogName></placeName></item></list>
 
-	<pb facs="liv_000003_0105" n="0105"/>
-<lb/><list><item><placeName><geogName type="promontory">Ngombo</geogName></placeName> on <placeName><geogName type="lake">Nyassa</geogName></placeName> =</item>
-<lb/><item>= <w>Mp<add place="below">^</add><add place="above">h</add>utvi</w> = (<unclear cert="low">massaning</unclear>) a (waiya)</item>
-<lb/><item>- <term type="tribe">Nindi</term> name of people who
-<lb/>now inhabit <placeName><region><term type="tribe">Mazitu</term>
-<lb/>country <choice><abbr>N</abbr><expan>north</expan></choice> of <placeName><geogName type="lake">Nyassa</geogName></placeName></region></placeName></item></list><!-- Normally, the <placeName><region> here would be limited to Mazitu country, but I think this makes sense as it is here, so I haven't changed it. AW -->
-<lb/><milestone unit="section" rend="line"/>
-<lb/><p>Only five days &amp; plenty of
-<lb/>food on way to <persName>Mataka</persName>
-<lb/>from <persName>Mtarika</persName> = south
-<lb/><persName>Chirikaloma</persName>'s <term type="occupation">chief</term> =</p>
-<lb/><milestone unit="section" rend="line"/>
-
-<lb/><metamark/><list rend="left"><item><persName><w>Che<del type="strikethrough">w</del>unde</w></persName></item>
-<lb/><item><persName><w>Anjawal<subst><del>a</del><add place="over-text">e</add></subst></w></persName></item>
-<lb/><item><metamark/><add place="inline"><persName>Panamande</persName> = <persName>Machemba</persName></add></item>
-<lb/><item><persName>Mtarika</persName></item></list><metamark/>
-
-<cb/><note rend="right">
-<lb/>stages from
-<lb/><placeName><settlement type="village">Chirekaloma</settlement></placeName>
-<lb/>to <placeName><settlement type="village">Mtarika</settlement></placeName>
-</note>
-
-<!-- This is the best way I can think of to code the foregoing, given what oXygen will and will not accept. However, Heather, if you can think of something better go for it. I wanted to do a table with two columns, the left of which would have a list, but that didn't work. AW --><!-- Adrian, the only things I added were rend=left and rend-right within the two sections, to give a bit more visual direction. HB --><!-- Looks good. AW -->
-
-<lb/><figure rend="black"><figDesc>Drawing of a <term type="insect">fly</term>-whisk.</figDesc></figure>
 
 	<pb facs="liv_000003_0106" n="0106"/>
-<lb/><figure rend="black"><figDesc>Drawing of two <orgName>African</orgName> individuals, showing head and shoulders only, with adornments.</figDesc></figure>
-	</div>
-       	    
-	<div rend="upside-down gray">
-<lb/><p><orgName><term type="occupation"><orgName>slave</orgName> traders</term></orgName> information
+<lb/><p rend="no-indent"><orgName><term type="occupation"><orgName>slave</orgName> traders</term></orgName> information
 <lb/><persName>Komasusa</persName> &amp; no food in
 <lb/><add place="marginleft">each</add> front for <subst><del>4</del><add place="over-text">8</add></subst> <choice><sic>day</sic><corr>days</corr></choice> &amp; we reach
 <lb/><persName>Mataka</persName> on <placeName><geogName type="lake">Nyassa</geogName></placeName> -</p>
@@ -2536,15 +2501,10 @@
 <lb/>feelings of the times and
 <lb/>as throwing light on
 <lb/>customs &amp; manners -</p> <!-- Love when DL gets philosophical! HB -->
-	</div>
+<lb/><figure rend="gray upside-down"><figDesc>Drawing of two <orgName>African</orgName> individuals, showing head and shoulders only, with adornments.</figDesc></figure>
 
 	<pb facs="liv_000003_0107" n="0107"/>
-<lb/><figure><head><!-- α <foreign xml:lang="la">Coronae Borealis</foreign> --> <date when="1866-07-01">1 July</date> <lb/><space extent="10" unit="chars"/><placeName><settlement type="village"><persName>Mtarika</persName>'s</settlement></placeName></head><figDesc>Geographical calcualtions.</figDesc></figure>
-<!-- Heather, I think you should review the geographical calculations marked with <figure> and see that the manner in which we include (or don't) words like "Corona Borealis". My preference is not to inlcude any of the text related to the calculation, as I consider it part of the calcuation, other than dates, village and/or other locations, and any other text that clarifies what the calculation is but is not strictly part of it, if that makes sense. AW --><!-- Totally makes sense- that was one of my questions for you too! I will go through and comment out any words/phrases related to the calcs, and will make a note of it going further. HB -->
-
-       	    
-	<div rend="upside-down gray">
-<lb/><p><hi rend="blue"><unclear cert="low"><term type="plant">Imkuya</term></unclear> seed makes
+<lb/><p><hi rend="blue"><term type="plant">Imkuya</term> seed makes
 <lb/><term type="foodstuff">oil</term></hi> = <term type="plant_foodstuff">semsem</term>
 <lb/><choice><abbr>R.</abbr><expan>River</expan></choice> <placeName><geogName type="river">Kitangule</geogName></placeName> &amp; the more
 <lb/>western stream called
@@ -2558,11 +2518,10 @@
 <lb/><item><placeName><geogName>Marombe</geogName></placeName> <choice><abbr>N</abbr><expan>North</expan></choice> of <add place="below"><placeName><geogName type="river">Rovuma</geogName></placeName></add></item> <!-- Adrian, not sure what these last three placeNames are, so can you pls doublecheck? HB -->
 <lb/><item><placeName><geogName>Chingwane</geogName></placeName></item>
 <lb/><item><placeName><geogName>Motimlowe</geogName></placeName></item></list>
+<lb/><figure rend="upside-down"><head><!-- α <foreign xml:lang="la">Coronae Borealis</foreign> --> <date when="1866-07-01">1 July</date> <lb/><space extent="10" unit="chars"/><placeName><settlement type="village"><persName>Mtarika</persName>'s</settlement></placeName></head><figDesc>Geographical calcualtions.</figDesc></figure>
+<!-- Heather, I think you should review the geographical calculations marked with <figure> and see that the manner in which we include (or don't) words like "Corona Borealis". My preference is not to inlcude any of the text related to the calculation, as I consider it part of the calcuation, other than dates, village and/or other locations, and any other text that clarifies what the calculation is but is not strictly part of it, if that makes sense. AW --><!-- Totally makes sense- that was one of my questions for you too! I will go through and comment out any words/phrases related to the calcs, and will make a note of it going further. HB -->
 
 	<pb facs="liv_000003_0108" n="0108"/>
-<lb/><figure rend="vertical blue"><figDesc>Map of route showing distances between various settlements including <placeName><settlement type="village">Ngomano</settlement></placeName>, <placeName><settlement type="village">Chisule</settlement></placeName>, <placeName><settlement type="village"><app><rdg>Marumha</rdg><rdg>Marumba</rdg></app></settlement></placeName>, and <placeName><settlement type="village">Tawatanga</settlement></placeName>.</figDesc></figure>
-
-	<pb facs="liv_000003_0109" n="0109"/>
 <!-- The following list has been scored out by an unknown hand by striking through it with a large cross AM --><!-- Use <delSpan> as here. Looks like DL has done it himself, so I've coded it that way. AW -->
 <lb/><list><delSpan spanTo="#fd3-109"/><item><placeName><geogName>Matumorus</geogName></placeName></item> <!-- Adrian, not sure what the placeNames are on this page, so can you pls doublecheck? HB -->
 <lb/><item><placeName><geogName>Kwanamvlola</geogName></placeName></item>
@@ -2582,12 +2541,14 @@
 <lb/><item><placeName><geogName><w><del type="strikethrough">Ko</del><add place="above">M</add>intende</w></geogName></placeName></item>
 <lb/><item><placeName><geogName><w><del type="strikethrough">Ko</del>amataka</w></geogName></placeName></item>
 <lb/><item><placeName><geogName type="lake">Nyassa</geogName></placeName></item></list>
-<lb/>
-<lb/><ab rend="right"><measure>29 = 5</measure></ab>
+<lb/><p rend="center"><measure>29 = 5</measure></p>
+
+	<pb facs="liv_000003_0109" n="0109"/>
+<lb/><figure rend="vertical blue"><figDesc>Map of route showing distances between various settlements including <placeName><settlement type="village">Ngomano</settlement></placeName>, <placeName><settlement type="village">Chisule</settlement></placeName>, <placeName><settlement type="village"><app><rdg>Marumha</rdg><rdg>Marumba</rdg></app></settlement></placeName>, and <placeName><settlement type="village">Tawatanga</settlement></placeName>.</figDesc></figure>
 
 	<pb facs="liv_000003_0110" n="0110"/>
 <!-- This page is written on a blue inside cover page of the diary. AW -->
-<lb/><p rend="no-indent black"><date when="1866-07-01">1<hi rend="sup underline">st</hi> July 1866</date> Had
+<lb/><p rend="no-indent gray"><date when="1866-07-01">1<hi rend="sup underline">st</hi> July 1866</date> Had
 <lb/>several things stolen
 <lb/>at <placeName><settlement type="village"><persName>Chimsaka</persName>'s</settlement></placeName> -
 <lb/>people along this
