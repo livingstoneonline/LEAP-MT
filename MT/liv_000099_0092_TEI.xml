@@ -3,97 +3,103 @@
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000099">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
-<author>David Livingstone</author>
-<principal>Justin Livingstone</principal>
-<respStmt xml:id="JL">
-<name>Justin Livingstone</name>
-<resp>Transcription and Encoding</resp>
-<resp>Editorial Decisions</resp>
-</respStmt>
-<respStmt xml:id="AW">
-<name>Adrian S. Wisnicki</name>
-<resp>Encoding Consultant</resp>
-</respStmt>
-<respStmt xml:id="KS">
-<name>Kate Simpson</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-<respStmt xml:id="JG">
-<name>Johanna Green</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<authority>Livingstone Online</authority>
-<publisher>UCLA Digital Library</publisher>
-<pubPlace>Los Angeles, CA, USA</pubPlace>
-<!-- Possible year update. -->
-<date>2014</date>
-<availability>
-<!-- Possible license change. -->
-<licence target="https://creativecommons.orgName/licenses/by-nc/3.0/">
-All materials are licensed for use under the 
-<ref target="https://creativecommons.orgName/licenses/by-nc/3.0/">
-Creative Commons Attribution-Noncommercial 3.0 Unported License
-</ref>. 
-(c) Dr. Neil Imray Livingstone Wilson, 2014
-</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc>
-<msIdentifier>
-<country>United Kingdom</country>
-<settlement>Edinburgh</settlement>
-<repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
-<idno type="shelfmark">MS.42428</idno><!-- This may change with each volume of the MS. -->
-<altIdentifier>
-<idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
-</altIdentifier>
-</msIdentifier>
-<physDesc>
-<handDesc>
-    <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
-    <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
-    <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote>
-</handDesc>
-</physDesc>
-</msDesc>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title>
+				<!-- This will change with each volume of the MS. -->
+				<author>David Livingstone</author>
+				<principal>Justin Livingstone</principal>
+				<respStmt xml:id="JL">
+					<name>Justin Livingstone</name>
+					<resp>Transcription and Encoding</resp>
+					<resp>Editorial Decisions</resp>
+				</respStmt>
+				<respStmt xml:id="AW">
+					<name>Adrian S. Wisnicki</name>
+					<resp>Encoding Consultant</resp>
+				</respStmt>
+				<respStmt xml:id="KS">
+					<name>Kate Simpson</name>
+					<resp>Transcription and Encoding</resp>
+				</respStmt>
+				<respStmt xml:id="JG">
+					<name>Johanna Green</name>
+					<resp>Transcription and Encoding</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Livingstone Online</authority>
+				<publisher>UCLA Digital Library</publisher>
+				<pubPlace>Los Angeles, CA, USA</pubPlace>
+				<!-- Possible year update. -->
+				<date>2014</date>
+				<availability>
+					<!-- Possible license change. -->
+					<licence target="https://creativecommons.orgName/licenses/by-nc/3.0/"> All materials are
+						licensed for use under the <ref target="https://creativecommons.orgName/licenses/by-nc/3.0/">
+						Creative Commons Attribution-Noncommercial 3.0 Unported License </ref>. (c) Dr. Neil Imray
+						Livingstone Wilson, 2014 </licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<country>United Kingdom</country>
+						<settlement>Edinburgh</settlement>
+						<repository>National Library of Scotland</repository>
+						<!-- This may change with each volume of the MS. -->
+						<idno type="shelfmark">MS.42428</idno>
+						<!-- This may change with each volume of the MS. -->
+						<altIdentifier>
+							<idno type="ccnumber">Books, 001</idno>
+							<!-- This may change with each volume of the MS. -->
+						</altIdentifier>
+					</msIdentifier>
+					<physDesc>
+						<handDesc>
+							<handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or
+								archivist, whose additions are normally limited to adding page numbers.</handNote>
+							<handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be
+								an editor or group of editors in the employment of the publisher, John Murray, making
+								corrections and additions in pencil.</handNote>
+							<!-- Change/expand as appropriate. See encoding manual #21. -->
+							<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be
+								an editor or group of editors in the employment of the publisher, John Murray, making
+								corrections and additions in red ink.</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>
 
-<bibl type="sourceMetadata">
-<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
-<author xml:id="DL">David Livingstone</author>
-<date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
-</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="en">English</language>
-<language ident="la">Latin</language>
-<language ident="und">Unknown</language>
-</langUsage>
-</profileDesc>
-<revisionDesc>
-<!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
-<change when="2016-02-05" who="#JL">Proofing and encoding review</change>
-<change when="2014-11-20" who="#KS">Proofreading</change>
-<change when="2014-09-15" who="#JG">Initial transcription and encoding</change>
-</revisionDesc>
-</teiHeader>
+				<bibl type="sourceMetadata"> <title>Manuscript of "Missionary Travels and Researches in South
+					Africa" (Part I).</title><!-- This will change with each volume of the MS. --> <author
+					xml:id="DL">David Livingstone</author> <date type="composition" from="1857-01-01"
+					to="1857-10-31">January-October 1857</date> </bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="la">Latin</language>
+				<language ident="und">Unknown</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+			<change when="2016-02-05" who="#JL">Proofing and encoding review</change>
+			<change when="2014-11-20" who="#KS">Proofreading</change>
+			<change when="2014-09-15" who="#JG">Initial transcription and encoding</change>
+		</revisionDesc>
+	</teiHeader>
 
 <text>
-<body rend="right">
+<body>
 <div>
 
 <pb facs="liv_000099_0092.jpg" n="0092"/>
-<lb/><p><fw n="heading_V">V. <add place="margintop" hand="#U2" rend="gray center">86</add> <add place="margintop" hand="#U1" rend="gray right">89</add></fw>
-<lb/><add place="inline" hand="#U2"  rend="gray left"><note><unclear cert="low">Coultart</unclear></note></add><!-- possibly the name of the editor working on the manuscript.JL --> <hi rend="double-underline"/>
-<lb/>In trying to benefit the tribes living
+<lb/><p rend="no-indent"><note place="marginleft">V.</note> <fw><add place="inspace" hand="#U2" rend="gray">86</add> <add place="inspace" hand="#U1" rend="gray right">89</add></fw>
+<lb/><add place="inline" hand="#U2" rend="gray left"><note><unclear cert="low">Coultart</unclear></note></add><!-- possibly the name of the editor working on the manuscript.JL --> <space extent="2" unit="chars"/> =====</p>
+<lb/><p>In trying to benefit the tribes living
 <lb/>under the <orgName>Boers</orgName> of the <placeName><geogName type="mountains"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice>
 <lb/>mountains</geogName></placeName> I performed twice
 <lb/>a journey of about <measure><subst><del><unclear cert="medium">230</unclear></del><add place="over-text">300</add></subst> <add place="above">300</add> miles</measure>
@@ -146,7 +152,7 @@ and their well known
 <lb/>occasion - When I spoke
 
 <pb facs="liv_000099_0093.jpg" n="0093"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">87</add> <add place="margintop" hand="#U1" rend="gray right">90</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">87</add> <add place="inspace" hand="#U1" rend="gray right">90</add></fw>
 <lb/>to <persName>M<hi rend="sup">r</hi> Hendrick Potgeiter</persName> of the danger of
 <lb/>hindering the gospel of Christ among
 <lb/>these poor savages he became
@@ -193,7 +199,7 @@ and their well known
 <lb/>that renowned <term type="occupation">chieftain</term>
 
 <pb facs="liv_000099_0094.jpg" n="0094"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">88</add> <add place="margintop" hand="#U1" rend="gray right">91</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">88</add> <add place="inspace" hand="#U1" rend="gray right">91</add></fw>
 <lb/>In age <add place="below">^</add> <add place="above">and family</add> <persName>Sechele</persName> is the elder <add place="below">^</add> <add place="above">and superior</add> of
 <lb/><persName>Sekomi</persName>, <subst><del type="strikethrough">and</del><add place="above">for</add></subst> when the original
 <lb/>tribe broke up <add place="marginleft"><metamark function="insertion"/>into <term type="tribe">Bamangwato</term>
@@ -256,7 +262,7 @@ The other tribes for
 <lb/>white men"</seg></p>
 
 <pb facs="liv_000099_0096.jpg" n="0096"/>
-<lb/><p><fw><add place="margintop" hand="#U2" rend="gray center">89</add> <add place="margintop" hand="#U1" rend="gray right">92</add></fw>
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">89</add> <add place="inspace" hand="#U1" rend="gray right">92</add></fw>
 <lb/>The exact position of the Lake<!-- Lake Ngami. JL -->
 <lb/>had all along <add place="below">^</add> <add place="above">for half a century at least</add> been correctly
 <lb/>pointed out <add place="marginleft"><metamark function="insertion"/>by the <orgName>natives</orgName>
@@ -299,7 +305,7 @@ and many attempts
 <lb/>envied the latter his fortune
 
 <pb facs="liv_000099_0097.jpg" n="0097"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">90</add> <add place="margintop" hand="#U2" rend="gray right">5-</add> <add place="margintop" hand="#U1" rend="gray right">93</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">90</add> <add place="inspace" hand="#U2" rend="gray right">5-</add> <add place="inspace" hand="#U1" rend="gray right">93</add></fw>
 <lb/>in being able to leave <placeName><country>India</country></placeName> to undertake
 <lb/>afresh the pleasures &amp; pains of
 <lb/>desert life, I believe <persName>M<hi rend="sup">r</hi> <choice><abbr>O.</abbr><expan>Oswell</expan></choice></persName> came
@@ -337,7 +343,7 @@ and many attempts
 <lb/>absence and blame be attached
 
 <pb facs="liv_000099_0098.jpg" n="0098"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">91</add> <add place="margintop" hand="#U1" rend="gray right">94</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">91</add> <add place="inspace" hand="#U1" rend="gray right">94</add></fw>
 <lb/>to me for taking him away, I
 <lb/>dissuaded him against it by
 <lb/>saying that he knew <persName>M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
@@ -375,7 +381,7 @@ and many attempts
 <lb/>or no water roam over
 
 <pb facs="liv_000099_0099.jpg" n="0099"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">92</add> <add place="margintop" hand="#U1" rend="gray right">95</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">92</add> <add place="inspace" hand="#U1" rend="gray right">95</add></fw>
 <lb/>the tackless plains - The inhabitants
 <lb/><orgName>Bushmen</orgName> and <term type="tribe">Bakalahari</term>
 <lb/>prey on the game and on
@@ -412,7 +418,7 @@ and many attempts
 <lb/>the <seg type="weather">long droughts</seg> they can
 
 <pb facs="liv_000099_0100.jpg" n="0100"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">93</add> <add place="margintop" hand="#U1" rend="gray right">96</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">93</add> <add place="inspace" hand="#U1" rend="gray right">96</add></fw>
 <lb/>be obtained nowhere else - Here
 <lb/>we have <add place="below">^</add> <add place="above">an</add> example<del type="cancelled">s</del> of a plant
 <lb/>not generally tuber bearing
@@ -450,7 +456,7 @@ and many attempts
 <lb/>where long continued <del type="strikethrough" hand="#U3" rend="red">hot</del>
 
 <pb facs="liv_000099_0101.jpg" n="0101"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">94</add> <add place="margintop" hand="#U1" rend="gray right">97</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">94</add> <add place="inspace" hand="#U1" rend="gray right">97</add></fw>
 <lb/><add place="marginleft" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">heat</add> parches the soil - The plant
 <lb/>is a <term type="plant">herbaceous creeper</term> and
 <lb/>deposits a number of tubers
@@ -487,7 +493,7 @@ and many attempts
 <lb/>wet season</seg> - Then animals
 
 <pb facs="liv_000099_0102.jpg" n="0102"/>
-<fw> <add place="margintop" hand="#U2" rend="gray center">95</add> <add place="inline" hand="#U1" rend="gray right">98</add> <add place="margintop" hand="#U2" rend="gray right">10</add></fw>
+<fw> <add place="inspace" hand="#U2" rend="gray center">95</add> <add place="inline" hand="#U1" rend="gray right">98</add> <add place="inspace" hand="#U2" rend="gray right">10</add></fw>
 <lb/>of every sort and name,
 <lb/>including man, rejoice in
 <lb/>the rich supply - The <term type="animal">Elephant</term>
@@ -509,7 +515,7 @@ and many attempts
 <lb/><space dim="vertical" extent="15" unit="lines"/>
 
 <pb facs="liv_000099_0103.jpg" n="0103"/>
-<lb/><p><fw><add place="margintop" hand="#U2" rend="gray center">96</add> <add place="margintop" hand="#U1" rend="gray right">99</add></fw>
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">96</add> <add place="inspace" hand="#U1" rend="gray right">99</add></fw>
 <lb/>The human inhabitants <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">of this tract of Country</add> consist
 <lb/>of <orgName>Bushmen</orgName> and <term type="tribe">Bakalahari</term> - The
 <lb/>former probably the <orgName>aborigin<subst><del type="cancelled">al</del><add place="above">es</add></subst></orgName> of
@@ -545,7 +551,7 @@ and many attempts
 <lb/><metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-38"/><seg corresp="#reorder-16">stature</seg><anchor xml:id="meta-38"/> - The specimens brought
 
 <pb facs="liv_000099_0104.jpg" n="0104"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">97</add> <add place="margintop" hand="#U1" rend="gray right">100</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">97</add> <add place="inspace" hand="#U1" rend="gray right">100</add></fw>
 <lb/>to <placeName><bloc>Europe</bloc></placeName> have been selected <subst><del><unclear cert="low">on</unclear></del><add place="over-text">like</add></subst>
 <lb/><add place="marginleft"><term type="occupation">costermonger</term>'s <term type="animal">dogs</term></add> <add place="below">^</add> <add place="above">on</add> account of their extreme ugliness
 <lb/><add place="marginleft" hand="#U3" rend="red">Consequently, <term type="nationality">English</term></add> <del type="cancelled" hand="#U3" rend="red">and their</del> ideas of the whole <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">tribe</add> are
@@ -568,7 +574,7 @@ and many attempts
 <lb/>migration of the their own nation
     
 <pb facs="liv_000099_0105.jpg" n="0105"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">98</add> <add place="margintop" hand="#U1" rend="gray right">101</add> <add place="margintop" hand="#U2" rend="gray right">13</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">98</add> <add place="inspace" hand="#U1" rend="gray right">101</add> <add place="inspace" hand="#U2" rend="gray right">13</add></fw>
 <lb/>Living ever since on the same
 <lb/>plains with the <orgName>Bushmen</orgName> subject
 <lb/>to the same <del type="strikethrough" hand="#U3" rend="red">climatical</del> influences <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">of climate</add>
@@ -609,7 +615,7 @@ locality <subst><del type="strikethrough" hand="#U3" rend="red">does not alone</
 <lb/>the country yields - the latter 
 
 <pb facs="liv_000099_0106.jpg" n="0106"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">99</add> <add place="margintop" hand="#U1" rend="gray right">102</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">99</add> <add place="inspace" hand="#U1" rend="gray right">102</add></fw>
 <lb/>or <foreign xml:lang="und"><term type="animal">p<del type="cancelled">h</del>ukuye</term></foreign> is very handsome
 <lb/>when made into the skin<!-- #U3 has dotted the 'i' here in red ink.JL --> mantle
 <lb/>called <foreign xml:lang="und">Kaross</foreign> - Then follows
@@ -660,7 +666,7 @@ The compact they enter into is
 <lb/>legs and arms and large
 
 <pb facs="liv_000099_0107.jpg" n="0107"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">100</add> <add place="inline" hand="#U1" rend="gray right">103 <add place="inline" hand="#U2" rend="gray right">15</add></add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">100</add> <add place="inline" hand="#U1" rend="gray right">103</add> <add place="inline" hand="#U2" rend="gray right">15</add></fw>
 <lb/>protruding abdomens caused
 <lb/>by the coarse indigestible food
 <lb/>they eat - Their children's eyes
@@ -697,7 +703,7 @@ The compact they enter into is
 <lb/><add place="marginleft" hand="#U3" rend="red">The women</add> <del type="strikethrough" hand="#U3" rend="red">They</del> tie a bunch of grass to 
 
 <pb facs="liv_000099_0108.jpg" n="0108"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">101</add> <add place="margintop" hand="#U1" rend="gray right">104</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">101</add> <add place="inspace" hand="#U1" rend="gray right">104</add></fw>
 <lb/>one end of a reed about <measure>two
 <lb/>feet long</measure> - dig a hole as deep 
 <lb/>as the arm will reach and
@@ -734,7 +740,7 @@ The compact they enter into is
 <lb/>not where - 
 
 <pb facs="liv_000099_0109.jpg" n="0109"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">102</add> <add place="margintop" hand="#U1" rend="gray right">105</add> <add place="margintop" hand="#U2" rend="gray right">17</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">102</add> <add place="inspace" hand="#U1" rend="gray right">105</add> <add place="inspace" hand="#U2" rend="gray right">17</add></fw>
 <lb/>The<del type="cancelled">se</del> <retrace hand="#U3" rend="red"><add place="below" hand="#U2" rend="gray">^</add> <add place="above" hand="#U2" rend="gray">so called</add></retrace> Desert <add place="inline" hand="#U3" rend="red">-</add> it may be observed <add place="inline" hand="#U3" rend="red">-</add>
 <lb/>is by no mean a useless<!-- 'i' of 'is' is dotted by #U2 in red ink JG 24.09.2014 -->
 <lb/>tract of country, Besides
@@ -771,7 +777,7 @@ The compact they enter into is
 <lb/>a party of his tribe wh<subst><del>o</del><add place="over-text">i</add></subst>ch<!-- the 'i' in which is dotted in red.JL -->
 
 <pb facs="liv_000099_0110.jpg" n="0110"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">103</add> <add place="margintop" hand="#U1" rend="gray right">106</add> <add place="margintop" hand="#U2" rend="gray right">18</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">103</add> <add place="inspace" hand="#U1" rend="gray right">106</add> <add place="inspace" hand="#U2" rend="gray right">18</add></fw>
 <lb/>lighted on their village <del type="cancelled"><unclear cert="medium">l</unclear></del> in a
 <lb/>state of burning thirst - Believing
 <lb/>as he said that no thing human
@@ -811,7 +817,7 @@ The compact they enter into is
 <lb/>the distances to be travelled
 
 <pb facs="liv_000099_0111.jpg" n="0111"/>
-<fw> <add place="margintop" hand="#U2" rend="gray center">104</add> <add place="margintop" hand="#U1" rend="gray right">107</add></fw>
+<fw> <add place="inspace" hand="#U2" rend="gray center">104</add> <add place="inspace" hand="#U1" rend="gray right">107</add></fw>
 <lb/>over before reaching the
 <lb/> wells <del type="strikethrough" hand="#U3" rend="red">were not commensurate</del>
 <lb/><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName>Wilkes</persName></note></hi></add><!-- presumably the name of one of Murray's editors.JL --> Just before the arrival of
@@ -865,7 +871,7 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <lb/>of <term type="plant">acacia</term> called <foreign xml:lang="und"><term type="plant">Monato</term></foreign>
 
 <pb facs="liv_000099_0112.jpg" n="0112"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">105</add> <add place="margintop" hand="#U1" rend="gray right">108</add> <add place="margintop" hand="#U2" rend="gray right">20</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">105</add> <add place="inspace" hand="#U1" rend="gray right">108</add> <add place="inspace" hand="#U2" rend="gray right">20</add></fw>
 <lb/>which appears a little to the
 <lb/>south of this <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">region</add> and is common
     <lb/>as far as <placeName><country>Angola</country></placeName> - <foreign xml:lang="und"><term type="insect"><term type="foodstuff">Nato</term></term></foreign> is
@@ -902,7 +908,7 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <lb/>of the country - the first
 
 <pb facs="liv_000099_0113.jpg" n="0113"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">106</add> <add place="margintop" hand="#U1" rend="gray right">109</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">106</add> <add place="inspace" hand="#U1" rend="gray right">109</add></fw>
 <lb/>time I passed it <placeName><settlement type="village">Lopepe</settlement></placeName> was
 <lb/>a large pool with a stream
 <lb/>flowing out of it to the South
@@ -939,7 +945,7 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <lb/>of one of these there appeared
 
 <pb facs="liv_000099_0114.jpg" n="0114"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">107</add> <add place="margintop" hand="#U1" rend="gray right">110</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">107</add> <add place="inspace" hand="#U1" rend="gray right">110</add></fw>
 <lb/>water which <retrace rend="red" hand="#U3"><metamark function="reorder" rend="gray" resp="#U2" spanTo="#meta-42"/></retrace><seg corresp="#reorder-17">had we not
 <lb/>driven them away</seg><anchor xml:id="meta-42"/> would
 <lb/><metamark function="transposition" place="marginleft" rend="red" resp="#U3"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> <metamark function="transposition" place="marginleft" rend="gray" resp="#U2"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> have been quickly lapped
@@ -976,7 +982,7 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <lb/>break through <subst><del type="cancelled" hand="#U3" rend="red">a</del><add place="above" hand="#U3" rend="red">the</add></subst> hard
 
 <pb facs="liv_000099_0115.jpg" n="0115"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">108</add> <add place="margintop" hand="#U1" rend="gray right">111</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">108</add> <add place="inspace" hand="#U1" rend="gray right">111</add></fw>
 <lb/>stratum of sand at the
 <lb/>bottom, because they knew,
 <lb/>if it were broken through,
@@ -1017,7 +1023,7 @@ the <term type="animal">oxen</term>,
 <lb/>water had flowed faster
 
 <pb facs="liv_000099_0116.jpg" n="0116"/>
-<lb/><fw><add place="margintop" hand="#U2" rend="gray center">109</add> <add place="margintop" hand="#U1" rend="gray right">112</add> <add place="margintop" hand="#U2">24</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">109</add> <add place="inspace" hand="#U1" rend="gray right">112</add> <add place="inspace" hand="#U2">24</add></fw>
 <lb/>as it invariably does in these
 <lb/>reservoirs as it<del type="cancelled">s</del> finds <choice><sic>it</sic><corr>its</corr></choice>
 <lb/>passages <metamark function="ed-mark" rend="gray" resp="#U2">/</metamark> <w>widen<subst><del>ed</del><add place="over-text">ing</add></subst></w> by the flow

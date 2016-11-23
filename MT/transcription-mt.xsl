@@ -304,7 +304,7 @@
 			<xsl:apply-templates/></span>
 	</xsl:template>
 
-	<xsl:template match="add[@place='marginleft']|add[@place='marginright']" priority="10">
+	<xsl:template match="add[@place='marginleft']|add[@place='marginright']" priority="9">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'addmargin')}"> [<xsl:apply-templates/>] </span>
 	</xsl:template>
 
@@ -318,6 +318,24 @@
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
+
+	<xsl:template match="add[@rend='gray right'][preceding-sibling::add[@rend='gray center']]" priority="9">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'add-right')}">
+			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
+
+	<xsl:template match="add[@rend='gray right'][preceding-sibling::add[@rend='gray right']]" priority="10">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'right-right')}">
+			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
+
+	<!--<xsl:template match="//note[parent::add[@place='marginleft']]" priority="10">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'marginleft')}">
+			<xsl:apply-templates/>
+		</span>
+	</xsl:template>-->
 
 	<xsl:template match="address">
 		<span class="address">
@@ -532,6 +550,12 @@
 		</xsl:variable>
 		<!-- output the term @type="tribe" in a html:span element with whatever is now in the $title variable -->
 		<span class="foreign" title="{$title}">
+			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
+
+	<xsl:template match="fw">
+		<span class="{concat(name(), ' ', @type, ' ', @rend)}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
@@ -971,7 +995,13 @@
 	</xsl:template>
 
 	<xsl:template match="note[ancestor::add[@place='marginleft']]" priority="10">
-		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place)}">
+		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place, ' ', 'marginleft')}">
+			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
+
+	<xsl:template match="add[@place='marginleft'][descendant::note]" priority="10">
+		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place, ' ', 'marginleft')}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>

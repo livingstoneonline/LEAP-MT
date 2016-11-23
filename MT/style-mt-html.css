@@ -262,6 +262,20 @@ p.right .linenumber{
 	color:black;
 }*/
 /* Both of the above are not used in the 1870 FD transformation. See .second-line below.*/
+
+.doubleline.quarterline{
+	border-bottom:1px solid #d0d0d0;
+	display:block;
+	width:14em !important;
+	margin-left:0;
+	text-align:left;
+	margin-top:-1em;
+	margin-bottom:0em;
+	height:0;
+	border:0;
+	border-top:1px solid #58484b;
+}
+
 .halfline{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
@@ -344,6 +358,10 @@ p{
 .fw{
 	display:inline-block;
 }
+.p .fw{
+	margin-top:-.3em;
+}
+
 .fw.pageno{
 	text-indent:0 !important;
 }
@@ -355,7 +373,7 @@ p{
 	text-indent:0;
 }
 .note.marginleft{
-	margin-left:-3.6em !important;
+	margin-left:-8.6em !important;
 	text-indent:0;	
 	float:left;
 	text-align:center;
@@ -463,7 +481,13 @@ p{
 }
 .right{
 	text-indent:0;
-	margin-left:12em;
+	margin-left:14em;
+}
+.add-right{
+	margin-left:8em;
+}
+.right-right{
+	margin-left:0em;
 }
 .small{
 	font-size:85%;
