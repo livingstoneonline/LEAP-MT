@@ -331,7 +331,7 @@
 <lb/>and so are brass arm coils
 <lb/><app><rdg><foreign xml:lang="und">Nangazu</foreign></rdg><rdg><term type="plant">Nangazu</term></rdg></app> a gum used for <!-- Not sure if Nangazu is termed as plant here, or the foreign word for gum? HB --><!-- I've coded it for both. AW -->
 <lb/>inlaying combs</p>
-<lb/><figure><head rend="black"><choice><sic>near</sic><corr>Near</corr></choice> <placeName><settlement type="village"><persName>Mtarika</persName>'s</settlement></placeName> <lb/><date when="1866-07-03">3 July <lb/>1866</date></head><figDesc>Calculations.</figDesc></figure>
+<lb/><figure><head rend="black gray"><choice><sic>near</sic><corr>Near</corr></choice> <placeName><settlement type="village"><persName>Mtarika</persName>'s</settlement></placeName> <lb/><date when="1866-07-03">3 July <lb/>1866</date></head><figDesc>Calculations.</figDesc></figure>
 
     <pb facs="liv_000004_0012" n="0012"/>
 <lb/><p rend="no-indent"><date when="1866-07-03"><gap agent="blot" extent="1" unit="chars"/><supplied cert="high">3</supplied><hi rend="sup underline">d</hi> July 1866</date>. Smokes
@@ -380,7 +380,7 @@
 <lb/>way down to the sea
 
     <pb facs="liv_000004_0014" n="0014"/>
-<lb/><add place="inspace"><date when="1866-07-04">4 July 1866</date></add> 
+<lb/><add place="inspace" rend="small"><date when="1866-07-04">4 July 1866</date></add> 
 <lb/><choice><sic>a</sic><corr>A</corr></choice> long visit from <persName>Mtarika</persName>
 <lb/>who is a good deal of a
 <lb/>beggar - more so than
@@ -473,10 +473,9 @@
 <lb/>valleys - They run <choice><abbr>S.E.</abbr><expan>South East</expan></choice> Garden
 <lb/>willow looking plants in full
 <lb/>flower = <figure><figDesc>A drawing of the plant referenced in the text.</figDesc></figure>
-<lb/><space dim="vertical" extent="3" unit="lines"/>
 
     <pb facs="liv_000004_0018" n="0018"/>
-<lb/>at 11 AM <figure><figDesc>Calculations.</figDesc></figure>
+<lb/>at 11 AM <measure>2 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> -20 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add> +20+40+40</measure>
 <lb/><measure><hi rend="double-underline">4 Hours</hi> in all</measure> to <placeName><geogName type="river">Lemile</geogName></placeName></p>
 <lb/><p>The <orgName><term type="occupation">sepoy</term></orgName> <persName>Perim</persName> either
 <lb/>stole or threw away a
@@ -500,7 +499,7 @@
 <lb/>cuts with a cane</p>
 
     <pb facs="liv_000004_0019" n="0019"/>
-<lb/><figure><head rend="right black"><date when="1866-07-07">7 July <lb/>1866</date> <lb/><placeName><geogName type="river">Lemile <choice><abbr>R.</abbr><expan>River</expan></choice></geogName></placeName></head><figDesc>Calculations.</figDesc></figure>
+<lb/><figure><head rend="right black gray"><date when="1866-07-07">7 July <lb/>1866</date> <lb/><placeName><geogName type="river">Lemile <choice><abbr>R.</abbr><expan>River</expan></choice></geogName></placeName></head><figDesc>Calculations.</figDesc></figure>
 <lb/><milestone unit="section" rend="double-line"/>
 <lb/><p><date when="1866-07-08">8<hi rend="sup underline">th</hi> July 1866</date> - Hard travelling
 <lb/>through a country destitute
@@ -536,8 +535,9 @@
 <lb/>diggings -</p>
 
     <pb facs="liv_000004_0021" n="0021"/>
-<lb/><figure><head rend="black"><placeName><geogName type="mountain">Lemata Mountains</geogName></placeName></head><figDesc>Calculations.</figDesc></figure>
-<lb/><p>Two <orgName><term type="occupation">Sepoys</term></orgName> reported
+<lb/><p rend="no-indent">March 2¼ <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> +1 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> -8 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add> +1=4=15</p>
+<lb/><figure><head rend="black gray"><placeName><geogName type="mountain">Lemata Mountain</geogName></placeName></head><figDesc>Calculations.</figDesc></figure>
+<lb/><p rend="no-indent">Two <orgName><term type="occupation">Sepoys</term></orgName> reported
 <lb/>behind - came up an
 <lb/>hour after dark = Many
 <lb/><term type="plant">Masuko trees</term> met with
@@ -548,13 +548,13 @@
     <!-- mw, jm, hb -->
                 
     <pb facs="liv_000004_0022" n="0022"/>
-<lb/><p><measure>2 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> 20 <add place="above"><supplied cert="high"><choice><abbr>M</abbr><expan>Minutes</expan></choice></supplied></add> + 1 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> - 45 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add> + 1 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> == <hi rend="double-underline">5 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> - 5 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add></hi></measure></p>
-<lb/><p rend="no-indent"><date when="1866-07-09">9 <hi rend="sup">th</hi></date> sleep in a wild
+<lb/><p><measure>2 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> 20 + 1 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> - 45 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add> + 1 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> == <hi rend="double-underline">5 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> - 5 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add></hi></measure></p>
+<lb/><p rend="no-indent"><date when="1866-07-09">9<hi rend="sup">th</hi></date> sleep in a wild
 <lb/>spot <add place="below">^</add> <add place="above">near <placeName><geogName type="mountain">Leziro <choice><abbr>Mt.</abbr><expan>Mountain</expan></choice></geogName></placeName></add> with many
 <lb/><term type="animal">lions</term> about - serenaded
 <lb/>by one hoarse fellow -</p> 
 <lb/><milestone unit="section" rend="line"/> 
-<lb/><p><date when="1866-07-10">10 <hi rend="sup underline">th July 1866</hi></date> =
+<lb/><p><date when="1866-07-10">10 <hi rend="sup underline">th</hi> July 1866</date> =
 <lb/><choice><sic>morning</sic><corr>Morning</corr></choice> - <measure>3 Hours</measure> to
 <lb/><placeName><geogName type="river">Lokando rivulet</geogName></placeName> running
 <lb/>here <choice><abbr>W S W</abbr><expan>West South West</expan></choice> - a range
@@ -563,9 +563,9 @@
 <lb/><measure><choice><abbr>E &amp; W</abbr><expan>East &amp; West</expan></choice> + 3<hi rend="sup"><choice><abbr>H</abbr><expan>Hours</expan></choice></hi> 10<hi rend="sup"><choice><abbr>M</abbr><expan>Minutes</expan></choice></hi></measure>
 <lb/><space extent="2" unit="chars"/><measure><hi rend="double-underline">6 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> 10 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add></hi></measure> in all to - 
 <lb/>rivulet<!-- geog: Lapata --> where we 
-<lb/>slept= <space extent="4" unit="chars"/><add place="inline" rend="black"><placeName><geogName type="rivulet">Lapata</geogName></placeName></add></p>
+<lb/>slept= <space extent="4" unit="chars"/><add place="inline" rend="black gray"><placeName><geogName type="rivulet">Lapata</geogName></placeName></add></p>
 <lb/><milestone unit="section" rend="line"/> 
-<lb/><p><date when="1866-07-11">11<hi rend="sup underline">th</hi></date> <measure>1 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> 30 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add></measure> over a
+<lb/><p><date when="1866-07-11">11<hi rend="sup underline">th</hi></date> <measure>2 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> 30 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add></measure> over a
 <lb/>country rising in
 <lb/>ridges &amp; having streams
 <lb/>at the junction of each two</p>
@@ -586,7 +586,7 @@
 <lb/>has no authority over
 <lb/>them - <choice><orig>½</orig><reg>1/2</reg></choice> more to <choice><abbr>R<hi rend="sup underline">t</hi></abbr><expan>Rivulet</expan></choice> + <!-- geog: Lapata -->
 <lb/><measure>1-35</measure> to sleeping place <!-- Should H and M be supplied here as well as done above? HB --><!-- I'd say it's optional, but I have added measure tags for both. AW -->
-<lb/><measure><hi rend="double-underline">4 35</hi></measure> in all -- <subst><del type="strikethrough" rend="black"><placeName><geogName type="rivulet"><seg rend="gray">Lapata</seg></geogName></placeName></del> <add place="above" rend="black"><placeName><geogName type="rivulet">Nakatette</geogName></placeName></add></subst> We
+<lb/><measure><hi rend="double-underline">4 35</hi></measure> in all -- <subst><del type="strikethrough" rend="black gray"><placeName><geogName type="rivulet"><seg rend="gray">Lapata</seg></geogName></placeName></del> <add place="above" rend="black gray"><placeName><geogName type="rivulet">Nakatette</geogName></placeName></add></subst> We
 <lb/>cross many running
 <lb/>rivulets every day - One
 <lb/>good sized one <placeName><geogName type="rivulet"><w>Lisin-
@@ -633,7 +633,6 @@
 <lb/>covered with masses
 <lb/>of green foliage chiefly
 <lb/><term type="plant">Masuko trees</term></p>
-<lb/>
  
     <pb facs="liv_000004_0026" n="0026"/>
 <lb/><p><date when="1866-07-13">13<hi rend="sup underline">th</hi> July 1866</date> - <choice><sic>several</sic><corr>Several</corr></choice>
@@ -674,7 +673,7 @@
 <lb/>in abundance - Rock
 <lb/>a dark trap - <add place="above">sleep</add> on a knoll
 <lb/>one hour from the gardens</p>
-<lb/><p><space extent="4" unit="chars"/><date when="1866-07-14">14<hi rend="sup underline">th</hi></date> Arrived at
+<lb/><p><date when="1866-07-14">14<hi rend="sup underline">th</hi></date> Arrived at
 <lb/><placeName><settlement type="village"><persName>Mataka</persName>'s</settlement></placeName> an <orgName>Arab</orgName> -
 <lb/><persName>"Seph" <add place="above">Rupia or Rubea</add></persName> hearing that we
 <lb/>were hard put to it by
@@ -707,7 +706,7 @@
 <lb/>orderly appearance</p>
 
     <pb facs="liv_000004_0029" n="0029"/>   
-<lb/><p rend="no-indent"><persName>Mataka</persName> kept us an
+<lb/><p><persName>Mataka</persName> kept us an
 <lb/>hour waiting for him
 <lb/>and then he came dressed
 <lb/>as an <orgName>Arab</orgName> = is about
@@ -739,7 +738,7 @@
 
 <!-- I would guess that they're villages. Mataka's certainly is and "lions" sounds like a place where they stopped where there were lions. If we don't know for certain whether streams or villages, let's just use <placeName> without a second tag as I've done for now. We could also do <placeName><settlement> without specifying type. AW -->
 
-<lb/><table><row><cell rend="left"><add place="above">Hour</add> <measure>4</measure></cell><cell rend="center"><placeName><geogName type="river">Lemile</geogName></placeName></cell></row>
+<lb/><table><row><cell rend="left"><measure>4</measure> <add place="above">Hour</add></cell><cell rend="center"><placeName><geogName type="river">Lemile</geogName></placeName></cell></row>
 
 <lb/><row><cell rend="left"><measure>4-15</measure></cell><cell rend="center"><placeName><geogName type="mountain">Lemata</geogName></placeName></cell></row>
 
@@ -755,13 +754,13 @@
  
 <lb/><row><cell rend="left"><measure>2-<w>3<subst><del>0</del><add place="over-text">5</add></subst></w></measure></cell><cell rend="center"><placeName><settlement type="village"><persName>Mataka</persName>'s</settlement></placeName> -</cell></row>
 
-<lb/><row><cell><milestone unit="section" rend="quarter-line"/></cell></row>
-<lb/><row><cell rend="left"><measure>39 <space extent="3" unit="chars"/> <subst><del>5</del><add place="over-text">0</add></subst></measure></cell></row>
+<lb/><milestone unit="section" rend="quarter-line"/>
+<lb/><row><cell rend="left"><measure>39 <space extent="1" unit="chars"/><subst><del>5</del><add place="over-text">0</add></subst></measure></cell></row>
 <lb/><row><cell rend="left"><measure>2 <choice><orig>½</orig><reg>1/2</reg></choice></measure></cell></row>
-<lb/><row><cell rend="left"><milestone unit="section" rend="quarter-line"/></cell></row>
+<lb/><milestone unit="section" rend="quarter-line"/>
 <lb/><row><cell rend="left"><measure>78</measure></cell></row>
 <lb/><row><cell rend="left"><measure><del type="strikethrough">18</del></measure></cell></row>
-<lb/><row><cell rend="left"><milestone unit="section" rend="quarter-line"/></cell></row>
+<lb/><milestone unit="section" rend="quarter-line"/>
 <lb/><row><cell rend="left"><measure><del type="strikethrough">96</del> miles say 100 actually</measure></cell></row></table>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><p><date when="1866-07-15">15<hi rend="sup underline">th</hi> July 1866</date>
@@ -883,7 +882,7 @@
 <lb/>and begs in the most
 <lb/>abject manner - I feel
 <lb/>quite ashamed of them -</p>
-<lb/><p><space extent="4" unit="chars"/>A number of <term type="tribe">Waiyau</term>
+<lb/><p>A number of <term type="tribe">Waiyau</term>
 <lb/>plundered an <orgName><orgName>Arab</orgName> <orgName>slave</orgName>
 <lb/>party</orgName> on the Western side
 <lb/>of the hills of <del type="strikethrough">both</del> <orgName>slaves</orgName>
@@ -916,7 +915,7 @@
 <lb/><measure>Lat. 12 <space extent="1" unit="chars"/>53 <space extent="1" unit="chars"/>00</measure> -->
   <!-- I commented out the above section in favor of the line below, to fit the pattern of past diaries. HB -->
 
-<lb/><p rend="center"><date when="1866-07-18">18<hi rend="sup underline">th</hi> July 1866</date> -
+<lb/><p><date when="1866-07-18">18<hi rend="sup underline">th</hi> July 1866</date> -
 <lb/>The <term type="tribe">Waiyau</term> are far
 <lb/>from handsome - the
 <lb/>women generally are
@@ -929,12 +928,12 @@
 <lb/>able for their work - Many
 <lb/>of the men too are large
 <lb/>strong boned fellows -</p>
-<lb/><p><space extent="5" unit="chars"/>The soil here is hard
+<lb/><p>The soil here is hard
 <lb/>red clay - Houses made
 <lb/>of it stand well - got a
 <lb/>dish of <term type="plant_foodstuff"><add place="below">^</add> <add place="above">green</add> peas</term> from young
 <lb/><term type="tribe">Makata</term> today -</p>
-<lb/><p rend="center"><date when="1866-07-19">19<hi rend="sup underline">th</hi> July 1866</date></p>
+<lb/><p><date when="1866-07-19">19<hi rend="sup underline">th</hi> July 1866</date></p>
 <lb/><p>Went to wash at a rivulet
 <lb/><measure>a mile <w><subst><del/><add place="above">b</add></subst>ack</w></measure> - large patches
 <lb/>of <term type="plant_foodstuff">peas</term> in bloom &amp;
@@ -971,11 +970,12 @@
 <lb/><placeName><settlement type="village">Magomero</settlement></placeName> but instead
 <lb/>of <measure>three weeks easy sail</measure>
 <lb/>we have <measure>three months of
+<lb/>
 
     <pb facs="liv_000004_0039" n="0039"/> 
 <lb/>hard travel</measure> to reach it!</p>
-<lb/><p rend="center"><date when="1866-07-20">20<hi rend="sup underline">th</hi> July 1866</date></p>
-<lb/><p><persName>Ramnack</persName> <persName>Lucknuck</persName> &amp;
+<lb/><p><date when="1866-07-20">20<hi rend="sup underline">th</hi> July 1866</date></p>
+<lb/><p rend="no-indent"><persName>Ramnack</persName> <persName>Lucknuck</persName> &amp;
 <lb/><persName>Pando</persName> heard bargaining 
 <lb/>for <term type="animal">fowls</term> for the powder
 <lb/>of their cartridges denied
@@ -1050,10 +1050,9 @@
 <lb/><w>groa<del>m</del>n</w> till fairly aroused <!-- Looks like DL had an extra minim at the end of groan and crossed out the last one of the m to make an n- Adrian, how should we code? (or ignore?) HB --><!-- See what I've done. AW -->
 <lb/>by the laughter of the
 <lb/>spectators</p>
-<lb/><space dim="vertical" extent="3" unit="lines"/>
 
 	<pb facs="liv_000004_0042" n="0042"/>
-<lb/><p rend="no-indent"><add place="margintop"><date when="1866-07-20">20<hi rend="sup"><gap extent="2" unit="chars"/><supplied cert="high">th</supplied></hi></date></add> The <orgName><term type="occupation">Havildar</term></orgName> came up <date when="1866-07-20">today</date>
+<lb/><p rend="no-indent"><add place="above"><date when="1866-07-20">20<hi rend="sup"><unclear cert="high">th</unclear></hi></date></add> The <orgName><term type="occupation">Havildar</term></orgName> came up <date when="1866-07-20">today</date>
 <lb/>denies striking the beast
 <lb/>on the head - says the <orgName><term type="occupation">sepoys</term></orgName>
 <lb/><choice><sic>wont</sic><corr>won't</corr></choice> obey him - lie down
@@ -1079,7 +1078,7 @@
 	<pb facs="liv_000004_0043" n="0043"/>
 <lb/><figure><head>end view of houses at <placeName><settlement type="village"><persName>Mataka</persName>'s</settlement></placeName> - walls of
 <lb/><term type="plant">wattle</term> &amp; daub - plastered over
-<lb/>with blue clay.</head><figDesc>Three small drawings and one large drawing of houses</figDesc></figure>
+<lb/>with blue clay</head><figDesc>Three small drawings and one large drawing of houses</figDesc></figure>
 
 <!-- the trouble here is that the whole paragraph is right-aligned whereas only the 1st line should be - however I cannot think of another way to code it AM --><!-- Anne, we can code just the first line as rend="right" within the lb tag HB. --><!-- I actually changed this. See what I've done. AW -->
 
@@ -1101,13 +1100,14 @@
 <lb/>business for himself</p>
 
 	<pb facs="liv_000004_0044" n="0044"/>
-<lb/><p>Their movements are
+<lb/><p rend="no-indent">Their movements are
 <lb/>made according to the
 <lb/>orders of the <app><rdg><term type="tribe">Nahuda</term></rdg><rdg><persName>Nahuda</persName></rdg></app>
 <lb/>and he arranges any
 <lb/>differences that may
 <lb/>arise -</p> <!-- There is a fairly large gap in the text of approximately three lines here. JM --><!-- Jared, see how I've coded below. HB -->
-<lb/><space dim="vertical" extent="3" unit="lines"/>
+<lb/>
+<lb/>
 <lb/><p>Called at <persName>Mataka</persName>'s house
 <lb/>a large number of idlers
 <lb/>sit before him and
@@ -1176,13 +1176,13 @@
 	<pb facs="liv_000004_0047" n="0047"/>
 <lb/>are destroyed <hi rend="underline">before</hi> they
 <lb/>reach their destination</p>
-<lb/><p><space extent="4" unit="chars"/><date when="1866-07-22">22 July 1866</date> <choice><sic>was</sic><corr>Was</corr></choice> too ill
+<lb/><p><date when="1866-07-22">22 July 1866</date> <choice><sic>was</sic><corr>Was</corr></choice> too ill
 <lb/>all day to have service -
 <lb/><term type="ailment">Dysentery</term> from passing
 <lb/>from scarcity to full rations
 <lb/>has befallen several as well
 <lb/>as myself - tried <term type="medicament"><w>ch<subst><del>or</del><add place="over-text">lo</add></subst>rodyne</w></term></p>
-<lb/><p><space extent="4" unit="chars"/><date when="1866-07-23">23<hi rend="sup underline">d</hi></date> I am a little better -
+<lb/><p><date when="1866-07-23">23<hi rend="sup underline">d</hi></date> I am a little better -
 <lb/>but waiting for the <orgName><term type="occupation">sepoys</term></orgName>
 <lb/>who seem to expect me
 <lb/>to go back for them - I cannot
@@ -1268,7 +1268,7 @@
 <lb/>impudent playing all
 <lb/>manner of pranks by
 <lb/>night -</p>
-<lb/><p><date when="1866-07-28">28<hi rend="sup underline">th</hi> July 1866</date></p>
+<lb/><p rend="no-indent"><date when="1866-07-28">28<hi rend="sup underline">th</hi> July 1866</date></p>
 
 <!-- The following list appears to be place names, but I am not sure. JM --> <!-- most of them now expanded as I recognised them from previous work, but others still unknown AM --><!-- I've done some editing to this. AW -->
 <lb/><list><item><placeName><settlement>Moembe</settlement></placeName> district</item>
@@ -1288,7 +1288,8 @@
 <lb/>means of irrigation <choice><sic><add place="below">^</add></sic><corr/></choice> or <add place="below">^</add> <add place="above">or drains of</add> damp
 <lb/>places - many channels
 <lb/>cleared out so as to save all
-<lb/>the water for irrigation = <add place="below">^</add> <add place="above">or drain the</add> <add place="below">spots which are too damp</add> A
+<lb/>the water for irrigation = <add place="below">^</add> <add place="above">or drain the</add> a
+<lb/><add place="inspace" rend="small">spots which are too damp</add>
 <lb/>great many patches of <term type="plant_foodstuff">peas</term>
 <lb/>in full bearing &amp; flower - 
 <lb/>much rust of iron in streams 
@@ -1307,11 +1308,10 @@
 	<pb facs="liv_000004_0052" n="0052"/>
 <!-- This page begins with a sequence of numbers. It is not clear what they stand for. JM --> <!-- Adrian should things like this be tagged using <figure> or coded explicitly as I have done here? AM --><!-- Adrian, I believe these to be times like in the earlier section done by Megan, but not sure if we should be coding out, or using figure like Anne suggests. Thought? HB --><!-- Figure. AW. -->
 
-<lb/><figure><figDesc>Calculations relating to the distance "to <placeName><settlement type="village"><persName><subst><del><unclear cert="medium"><placeName><settlement type="village"><persName><choice><orig>Pesimba</orig><reg>Pezimba</reg></choice></persName>'s</settlement></placeName></unclear></del><add place="over-text">Magola</add></subst></persName>'s</settlement></placeName></figDesc></figure>
+<!--<lb/><figure><figDesc>Calculations relating to the distance "to <placeName><settlement type="village"><persName><subst><del><unclear cert="medium"><placeName><settlement type="village"><persName><choice><orig>Pesimba</orig><reg>Pezimba</reg></choice></persName>'s</settlement></placeName></unclear></del><add place="over-text">Magola</add></subst></persName>'s</settlement></placeName></figDesc></figure>-->
 
-<!-- <p rend="no-indent">1 - 20 + 40 + 1 - 10 + 1 - 43 -= <unclear cert="low">Sa</unclear>
-<lb/>4 - 40 to <placeName><settlement type="village"><persName><subst><del/><add place="over-text">Magola</add></subst></persName>'s</settlement></placeName></p>-->
-
+<lb/><p rend="no-indent">1 - 20 + 40 + 1 - 10 + 1 - 43 -= <unclear cert="low">Sa</unclear>
+<lb/>4 - 40 to <placeName><settlement type="village"><persName><subst><del/><add place="over-text">Magola</add></subst></persName>'s</settlement></placeName></p>
 <lb/><p rend="no-indent">Large trees in the hollows with
 <lb/>leaves <measure><measure>15 inches long</measure> by <measure>5 broad</measure></measure> 
 <lb/><orgName><w>Ung<add place="below">^</add> <add place="above">u</add>ongo</w></orgName> - <choice><sic>dont</sic><corr>don't</corr></choice> eat <term type="plant_foodstuff">fruit</term> but
@@ -1358,8 +1358,7 @@
 
 	<pb facs="liv_000004_0054" n="0054"/>
 <lb/><p><date when="1866-07-30">30<hi rend="sup double-underline">th</hi> July 1866</date></p>
-<lb/><p rend="no-indent"><!-- The next two lines contain numbers which appear to be measurements. There are two symbols above the numbers, but I cannot make them out. JM --> <!-- I think  they might be times and the symbols above maybe headings for hours and minutes AM --><!-- Yes, Anne is correct :) HB -->
-<lb/>1 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> - 10 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add> to old village - 1 - 20 to
+<lb/><p rend="no-indent"><!-- The next two lines contain numbers which appear to be measurements. There are two symbols above the numbers, but I cannot make them out. JM --> <!-- I think  they might be times and the symbols above maybe headings for hours and minutes AM --><!-- Yes, Anne is correct :) HB -->1 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> - 10 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add> to old village - 1 - 20 to
 <lb/><placeName><settlement type="village"><persName>Pezimba</persName></settlement></placeName> = <!-- The same two symbols appear above the numbers on this line. JM --> <hi rend="double-underline">2 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> 30 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add></hi> in all
 <lb/>The village consists of 200
 <lb/>houses &amp; huts - It is
@@ -1403,7 +1402,7 @@
 <lb/><p rend="no-indent">Beautiful flowers are
 <lb/>seen but none in seed
 <lb/><subst><del>a</del><add place="over-text">one</add></subst> <term type="plant">Polygala</term> very pretty</p>
-<lb/><p><figure><figDesc>Drawing of a flower.</figDesc></figure> A great deal of
+<lb/><p rend="no-indent"><figure><figDesc>Drawing of a flower.</figDesc></figure> A great deal of
 <lb/><term type="plant">Fern</term> in spots - <w>Rhodo-
 <lb break="no"/>dendrons</w> and certain
 <lb/>trees whose foliage is
@@ -1417,7 +1416,6 @@
 <lb/>have igneous rocks
 <lb/>of more recent date
 <lb/>cropping out</p>
-<lb/><space dim="vertical" extent="3" unit="lines"/>
 
 	<pb facs="liv_000004_0057" n="0057"/>
 <lb/><figure><head><date when="1866-07-30">30 July</date> <lb/><placeName><settlement type="village"><persName>Pe<subst><del>s</del><add place="over-text">z</add></subst>imba</persName></settlement></placeName></head><figDesc>Calculation.</figDesc></figure> 
@@ -1426,7 +1424,7 @@
 
 <lb/><milestone unit="section" rend="line"/>
 <lb/><p><date when="1866-07-31">31<hi rend="sup underline">st</hi> July 1866</date></p> 
-<lb/><p><persName>Pezimba</persName> cooked a good
+<lb/><p rend="no-indent"><persName>Pezimba</persName> cooked a good
 <lb/>supper for us all and
 <lb/>this morning desired
 <lb/>us to wait as he had
@@ -1472,7 +1470,7 @@
 <lb/>and trees dotted over wide
 <lb/>space as in the <placeName><region><term type="tribe">Bechuana</term>
 <lb/>country</region></placeName> - Birds sang
-<lb/><w><subst><del/><add place="over-text">M</add></subst>errily</w> this morning
+<lb/><w><subst><del><gap extent="1" unit="chars"/></del><add place="over-text">M</add></subst>errily</w> this morning
 <lb/>inspired by the <seg type="weather">cold which
 <lb/>was 47°</seg> at 6. AM -
 <lb/><term type="plant">Gum copal trees</term> &amp; bushes
@@ -1502,7 +1500,7 @@
 <lb/>grass tall - no animals
 <lb/>of any kind seen or even
 <lb/>their marks =</p>
-<lb/><figure rend="black"><head rend="right"><date when="1866-08-03">3 August <lb/>1866</date> <lb/><placeName><settlement type="village">Mbanga</settlement></placeName></head><figDesc>Calculations.</figDesc></figure>
+<lb/><figure rend="black gray"><head rend="right"><date when="1866-08-03">3 August <lb/>1866</date> <lb/><placeName><settlement type="village">Mbanga</settlement></placeName></head><figDesc>Calculations.</figDesc></figure>
 
 	<pb facs="liv_000004_0061" n="0061"/>
 <lb/><p><date when="1866-08-03">3<hi rend="sup">d</hi> August 1866</date> -</p>
@@ -1734,7 +1732,7 @@
 
 	<pb facs="liv_000004_0071" n="0071"/>
 <lb/><placeName><geogName type="confluence">confluence of <placeName><geogName type="river">Misinje</geogName></placeName></geogName></placeName>
-<lb/>We are on <measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 13° <subst><del><gap extent="2" unit="chars"/></del><add place="over-text" rend="black">32</add></subst>' 40"
+<lb/>We are on <measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 13° <subst><del><gap extent="2" unit="chars"/></del><add place="over-text" rend="black gray">32</add></subst>' 40"
 <lb/><choice><abbr>S.</abbr><expan>South</expan></choice> or 5' <choice><abbr>S</abbr><expan>South</expan></choice> of <placeName><settlement type="village">Kotakota</settlement></placeName>
 <lb/>latitude =</measure></p> <!-- Adrian, not sure the lat/long coordinates count as measure? HB --><!-- Sure. AW -->
 <lb/><p><date when="1866-08-13">13<hi rend="sup underline">th</hi> <choice><abbr>Aug</abbr><expan>August</expan></choice><choice><abbr>/66</abbr><expan>1866</expan></choice></date> - Took boiling
@@ -1875,7 +1873,7 @@
 
 <lb/><row><cell>15</cell><cell></cell><cell>40</cell><cell>=</cell><cell>23 miles 1<choice><orig>½</orig><reg>1/2</reg></choice> per ton</cell></row>
 
-<lb/><row><cell></cell><cell></cell><cell></cell><cell></cell><cell rend="black">32 at 2 miles</cell></row></table>
+<lb/><row><cell></cell><cell></cell><cell></cell><cell></cell><cell rend="black gray">32 at 2 miles</cell></row></table>
 
 <lb/><milestone unit="section" rend="line"/>
 
@@ -2285,7 +2283,7 @@
 
 <lb/><note><add place="above">Place</add> <placeName><settlement type="village">Longoya</settlement></placeName> (<placeName><settlement type="village">Loséwa</settlement></placeName>)
 
-<choice><abbr>prob</abbr><expan>probably</expan></choice> <placeName><geogName type="river"><w>L<subst><del>a</del><add place="over-text" rend="black">es</add></subst>éfa</w> River</geogName></placeName>
+<choice><abbr>prob</abbr><expan>probably</expan></choice> <placeName><geogName type="river"><w>L<subst><del>a</del><add place="over-text" rend="black gray">es</add></subst>éfa</w> River</geogName></placeName>
 <measure>less than</measure> <placeName><geogName type="river">Misinje</geogName></placeName></note>
     
 	<pb facs="liv_000004_0094" n="0094"/>
