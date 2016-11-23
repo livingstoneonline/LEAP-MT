@@ -158,14 +158,14 @@
 <lb/><fw n="heading_IV" rend="center large">IV.</fw>
 
 	<pb facs="liv_000004_0002" n="0002"/>
-<lb/><space dim="vertical" extent="10" unit="lines"/><figure><figDesc>Calculations.</figDesc></figure>
+<lb/><figure><figDesc>Calculations.</figDesc></figure>
 			    
     <pb facs="liv_000004_0003" n="0003"/>
-<lb/><figure><figDesc>Calculation.</figDesc></figure><space dim="vertical" extent="4" unit="lines"/>
+<lb/><figure><figDesc>Calculation.</figDesc></figure>
 <lb/><figure><figDesc>Calculation.</figDesc></figure>
 			    
     <pb facs="liv_000004_0004" n="0004"/>
-<lb/><fw n="heading_IV" rend="center large">N<hi rend="sup double-underline">o</hi> IV.</fw>
+<lb/><fw n="heading_IV" rend="large"><space extent="1" unit="words"/>N<hi rend="sup double-underline">o</hi> IV.</fw>
 			    
     </front>
         
@@ -245,8 +245,8 @@
 <lb/>the <date when="1866-07-01">1<hi rend="sup underline">st</hi></date> we <w>ca<subst><del>ll</del><add place="over-text">n</add></subst>not</w> buy
 
     <pb facs="liv_000004_0008" n="0008"/>
-<lb/><w><gap agent="blot" extent="1" unit="chars"/><supplied cert="high">f</supplied>ood</w> readily - but we <!-- Adrian, take a look at how I've coded the blots/supplied letters and see if this makes sense/should take away w tag. HB --><!-- How you've done it is fine. AW -->
-<lb/><w><gap agent="blot" extent="2" unit="chars"/><supplied cert="high">ge</supplied>t</w> as much very
+<lb/><w><unclear cert="high">f</unclear>ood</w> readily - but we <!-- Adrian, take a look at how I've coded the blots/supplied letters and see if this makes sense/should take away w tag. HB --><!-- How you've done it is fine. AW -->
+<lb/><w><unclear cert="high">ge</unclear>t</w> as much very
 <lb/>dearly as keeps us
 <lb/>going on one meal a
 <lb/>day - Wish we were
@@ -292,8 +292,8 @@
 <lb/>being before = My
 
     <pb facs="liv_000004_0010" n="0010"/>
-<lb/><w><gap agent="blot" extent="1" unit="words"/><supplied cert="high">app</supplied>earance</w> and acts
-<lb/><w><gap agent="blot" extent="2" unit="chars"/><supplied cert="high">of</supplied>ten</w> cause a burst of
+<lb/><w><unclear cert="high">app</unclear>earance</w> and acts
+<lb/><w><unclear cert="high">of</unclear>ten</w> cause a burst of
 <lb/>laughter - If I rise up
 <lb/>suddenly a flight of
 <lb/>women - to prevent
@@ -380,7 +380,8 @@
 <lb/>way down to the sea
 
     <pb facs="liv_000004_0014" n="0014"/>
-<lb/><add place="margintop"><date when="1866-07-04">4 July 1866</date></add> <choice><sic>a</sic><corr>A</corr></choice> long visit from <persName>Mtarika</persName>
+<lb/><add place="inspace"><date when="1866-07-04">4 July 1866</date></add> 
+<lb/><choice><sic>a</sic><corr>A</corr></choice> long visit from <persName>Mtarika</persName>
 <lb/>who is a good deal of a
 <lb/>beggar - more so than
 <lb/>any we have met in this
@@ -401,6 +402,7 @@
 <lb/><placeName><settlement type="village">Kandulo</settlement></placeName> is more to the
 <lb/>North -</p>
 <lb/><p>We had a <seg type="weather">gentle shower
+<lb/>
 
     <pb facs="liv_000004_0015" n="0015"/>
 <lb/>last night &amp; the air is so <unclear cert="high">far</unclear>
@@ -415,7 +417,7 @@
 <lb/>distant mountains
 <lb/><seg type="weather">It is cold to the feelings
 <lb/>and sky overcast</seg> -</p>
-<lb/><p><space extent="5" unit="chars"/><date>6<hi rend="sup underline">th</hi> July 1866</date> - ʘ - ☾ <!-- <figure><figDesc>Livingstone draws a crescent moon on this line.</figDesc></figure>--> <!-- And what might be a full moon, too (circle with a dot in the middle). MW --><!-- There's a character for crescent moon, so I've put that in. AW -->
+<lb/><p><space extent="3" unit="chars"/><date>6<hi rend="sup underline">th</hi> July 1866</date> - ʘ - ☾ <!-- <figure><figDesc>Livingstone draws a crescent moon on this line.</figDesc></figure>--> <!-- And what might be a full moon, too (circle with a dot in the middle). MW --><!-- There's a character for crescent moon, so I've put that in. AW -->
 <lb/>Yesterday - <persName>Mtende</persName> <w>in-
 <lb break="no"/>vited</w> me to go &amp; eat at
 <lb/>his house where he had
@@ -2592,7 +2594,7 @@ He also includes the follwing note: "<placeName><geogName>Limila</geogName></pla
 <placeName><geogName type="river"><unclear cert="medium">Lodera</unclear></geogName></placeName>, 
 <placeName><geogName type="stream">Luatize</geogName></placeName>, 
 <placeName><settlement type="village"><persName>Mataka</persName></settlement></placeName>, and
-<placeName><geogName type="mountain">Oizulu Range</geogName></placeName> (dated <date when="1866-07-11">11th July</date> and, apparently, <seg rend="upside-down">in the South "seen from <placeName><geogName type="mountain">Lemata</geogName></placeName> <choice><abbr><del type="strikethrough">NW</del> WNW</abbr><expan><del>North West</del> West North West</expan></choice></seg>").
+<placeName><geogName type="mountain">Oizulu Range</geogName></placeName> (dated <date when="1866-07-11">11th July</date> and, apparently, in the South "seen from <placeName><geogName type="mountain">Lemata</geogName></placeName> <choice><abbr><del type="strikethrough">NW</del> WNW</abbr><expan><del>North West</del> West North West</expan></choice>").
 </figDesc></figure>
 			
 	<pb facs="liv_000004_0107" n="0107"/>
