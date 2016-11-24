@@ -293,7 +293,7 @@
 	</xsl:template>
 
 	<!-- added p/cb for 1870 FD -->
-	<xsl:template match="cb/ab|p/cb" priority="10">
+	<xsl:template match="p/cb" priority="10">
 		<xsl:apply-templates/>
 	</xsl:template>
 

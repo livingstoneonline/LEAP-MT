@@ -215,6 +215,9 @@ p.center .linenumber{
 p.right .linenumber{
 	margin-left:-18em !important;
 }
+.marginright .linenumber{
+	display:none;
+}
 .list .linenumber{
 	text-indent:0;	
 }
@@ -275,7 +278,7 @@ p.right .linenumber{
 .quarterline{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:8.5em !important;
+	width:6.5em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;
