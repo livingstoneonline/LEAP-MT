@@ -914,9 +914,15 @@
 		</span>
 	</xsl:template>
 
-	<xsl:template match="list/item|cell">
+	<xsl:template match="list/item|row">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">
 			<xsl:apply-templates/>
+		</span>
+	</xsl:template>
+
+	<xsl:template match="cell">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">
+			<xsl:apply-templates/><xsl:text>     </xsl:text>
 		</span>
 	</xsl:template>
 

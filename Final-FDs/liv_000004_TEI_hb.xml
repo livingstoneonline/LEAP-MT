@@ -1527,14 +1527,14 @@
 <lb/>fled to the <placeName><region>West of <placeName><geogName type="lake">Nyassa</geogName></placeName></region></placeName></p>
 
 	<pb facs="liv_000004_0062" n="0062"/>
-<lb/><p rend="no-indent">Had never heard of stone
+<lb/><p>Had never heard of stone
 <lb/>being used as hatchets or
 <lb/>spear heads - never
 <lb/>dug any of them up
 <lb/>I have seen wooden hoes
 <lb/>and wooden spears but
 <lb/>never <w><subst><del/><add place="over-text">s</add></subst>tone</w> ones -</p>
-<lb/><p rend="no-indent"><date when="1866-08-05">5<hi rend="sup underline">th</hi> <choice><abbr>Aug.</abbr><expan>August</expan></choice> 1866</date> <choice><sic>leave</sic><corr>Leave</corr></choice>
+<lb/><p><date when="1866-08-05">5<hi rend="sup underline">th</hi> <choice><abbr>Aug.</abbr><expan>August</expan></choice> 1866</date> <choice><sic>leave</sic><corr>Leave</corr></choice>
 <lb/><placeName><settlement type="village">Miule</settlement></placeName> and march
 <lb/>towards <placeName><geogName type="lake">Lake Nyassa</geogName></placeName></p>
 <lb/><milestone unit="section" rend="double-line"/>
@@ -1545,13 +1545,17 @@
 <lb/>she used it by inserting
 <lb/>the top of a digging stick in
 <lb/>it and digging a root - It
-<lb/>gave weight </p><figure><figDesc>A drawing of the stone in the ground, as referenced in the text.</figDesc></figure>
+<lb/>gave weight <figure><figDesc>A drawing of the stone in the ground, as referenced in the text.</figDesc></figure></p>
 <lb/><milestone unit="section" rend="double-line"/>
 
 	<pb facs="liv_000004_0063" n="0063"/>
-<figure><figDesc>A calculation apparently adding the number of hours between locations.</figDesc></figure> <!-- Adrian, we've transcribed these in previous places, so let me know what consensus is and I will go back and implement. HB --><!-- As is is fine. AW -->
+<!--<figure><figDesc>A calculation apparently adding the number of hours between locations.</figDesc></figure>--> <!-- Adrian, we've transcribed these in previous places, so let me know what consensus is and I will go back and implement. HB --><!-- As is is fine. AW -->
+<lb/><p rend="no-indent">1 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add> 30 <add place="above"><choice><abbr>M</abbr><expan>Minutes</expan></choice></add> + 1 <add place="above"><choice><abbr>H</abbr><expan>Hours</expan></choice></add>
+-5+2-5=<hi rend="double-underline">4 40</hi>
+<lb/>+20=<hi rend="double-underline">5 Hours</hi></p> 
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p><add place="above"><date when="1866-08-06">6<hi rend="sup">th</hi> <choice><abbr>Aug</abbr><expan>August</expan></choice> 1866</date></add> Slept at the last stream
+<lb/><p rend="no-indent"><add place="inspace" rend="small"><date when="1866-08-06">6<hi rend="sup">th</hi> <choice><abbr>Aug</abbr><expan>August</expan></choice> 1866</date></add></p> 
+<lb/><p>Slept at the last stream
 <lb/>that runs to the <placeName><geogName type="river"><app><rdg>Liendi</rdg><rdg><choice><orig>Liendi</orig><reg>Loendi</reg></choice></rdg></app></geogName></placeName> <!-- Adrian, should this be regularized to Loendi as referenced to previously, or is this a different river? HB --><!-- Let's have our cake and eat it too! AW -->
 <lb/>Passed seven running
 <lb/>burns - one the <placeName><geogName type="stream">Longuena</geogName></placeName><!-- I've coded "burn" as stream. AW -->
@@ -1575,8 +1579,8 @@
 <lb/><placeName><geogName type="river">Misinje</geogName></placeName> going to Lake <!-- geog: Nyassa --> = <measure><measure>25
 <lb/><choice><abbr>yds</abbr><expan>yards</expan></choice> wide</measure> &amp; <measure>knee deep</measure></measure> -
 <lb/><figure><figDesc>Calculation.</figDesc></figure>
-<lb rend="right"/><subst><del/><add place="over-text">We</add></subst> cross
-<lb rend="right"/><placeName><geogName type="river">Misinje</geogName></placeName> <add place="below">^</add> <add place="above">again</add> &amp; sleep
+<lb/><space extent="2" unit="words"/><subst><del><gap extent="2" unit="chars"/></del><add place="over-text">We</add></subst> cross
+<lb/><space extent="2" unit="words"/><placeName><geogName type="river">Misinje</geogName></placeName> <add place="below">^</add> <add place="above">again</add> &amp; sleep
 <lb/>at village there = - a
 <lb/>woman is the <term type="occupation">chief</term> here
 <lb/>and various persons
@@ -1599,7 +1603,7 @@
 <lb/><term type="occupation">Headman</term> possessing
 <lb/>much curiosity &amp;
 <lb/>generosity pressed us
-<lb/>to stay - <hi rend="underline"><persName>Mt<w><subst><del/><add place="over-text">ew</add></subst>ando</w></persName></hi>
+<lb/>to stay - <hi rend="underline"><persName>Mt<w><subst><del><gap extent="2" unit="chars"/></del><add place="over-text">ew</add></subst>ando</w></persName></hi>
 <lb/>is his name = <space extent="3" unit="chars"/>the
 <lb/>country abounds in food
 <lb/>He gave 4 <term type="animal">fowls</term> &amp; 3
@@ -1727,8 +1731,8 @@
 <lb/>After haggling they
 <lb/>agreed &amp; went off this
 <lb/>morning <!-- I don't know if there should really be a paragraph break here - the next bit commences a new date entry but the text just continues in mid-sentence AM --><!-- I removed the <p> as I think the date is explaining when "this morning" is. AW -->
-<lb/><date when="1866-08-12">12 <choice><abbr>Aug</abbr><expan>August</expan></choice><choice><abbr>/66</abbr><expan>1866</expan></choice></date> to bring
-<lb/>it - to me at the
+<lb/><space extent="1" unit="words"/><date when="1866-08-12">12 <choice><abbr>Aug</abbr><expan>August</expan></choice><choice><abbr>/66</abbr><expan>1866</expan></choice></date> to bring
+<lb/><space extent="1" unit="words"/>it - to me at the
 
 	<pb facs="liv_000004_0071" n="0071"/>
 <lb/><placeName><geogName type="confluence">confluence of <placeName><geogName type="river">Misinje</geogName></placeName></geogName></placeName>
@@ -1816,8 +1820,8 @@
 <lb/><list>
 <lb/><label><placeName><region>North</region></placeName></label><item>is <hi rend="underline blue"><placeName><settlement type="village"><w><subst><del/><add place="over-text">M</add></subst>photo</w></settlement></placeName></hi> <!-- the "other" in the <hi> is to denote blue underlining, as I think if I put "blue" here it will make the text blue as well - AM --><!-- That's a tough one. I've put "blue" in <hi>. Another option is to treat the underline as a metamark and rend that blue. AW --> </item>
 <lb/><label><placeName><region>South</region></placeName></label><item> - <subst><del type="strikethrough"><placeName><settlement type="village">Komero</settlement></placeName></del><add place="above" rend="blue underline"><app><rdg>Moeli</rdg><rdg>Moelo</rdg></app></add></subst></item>
-<lb/><label><placeName><region>West</region></placeName></label><item><add rend="blue underline"><placeName><settlement type="village">Molsamba</settlement></placeName></add></item>
-<lb/><label><placeName><region>East</region></placeName></label><item><add rend="blue underline"><placeName><settlement type="village">Phuma</settlement></placeName></add></item></list>
+<lb/><label><placeName><region>West</region></placeName></label><item> <add rend="blue underline"><placeName><settlement type="village">Molsamba</settlement></placeName></add></item>
+<lb/><label><placeName><region>East</region></placeName></label><item> <add rend="blue underline"><placeName><settlement type="village">Phuma</settlement></placeName></add></item></list>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><p rend="no-indent"><date when="1866-08-15">15<hi rend="sup underline">th</hi></date> sent <persName>Musa</persName> to see
 <lb/>what detained the dhow -
@@ -1840,7 +1844,7 @@
 <lb/>very few of the common
 <lb/><term type="tribe">Swahili</term> can read or
 <lb/>write - so far from
-<lb/><w>prosely<subst><del/><add place="over-text">ti</add></subst>zing</w> the heathen
+<lb/><w>prosely<subst><del><gap extent="2" unit="chars"/></del><add place="over-text">ti</add></subst>zing</w> the heathen
 <lb/>they leave their own
 <lb/>people quite <choice><sic>beknighted</sic><corr>benighted</corr></choice>
 <lb/>except as to what food
@@ -1852,55 +1856,59 @@
 <lb/>North end of Lake</p> <!-- geog: Nyassa -->
 
 	<pb facs="liv_000004_0076" n="0076"/>
-<lb/><p rend="no-indent">* <measure>69° 33' 40"</measure> <unclear>α anstr</unclear>
+<!--<lb/><p rend="no-indent">* <measure>69° 33' 40"</measure> <unclear>α anstr</unclear>
 <lb rend="right"/>angle
 <lb/>gives <measure>13° 32' 39</measure>
 <lb/><space extent="2" unit="chars"/><measure>69 20</measure> passed a litte
-<lb rend="right"/><placeName><geogName type="river">Loangwa</geogName></placeName></p>
+<lb rend="right"/><placeName><geogName type="river">Loangwa</geogName></placeName></p>-->
 
-<lb/><table>
-<lb/><row><cell><choice><abbr>H</abbr><expan>Hours</expan></choice></cell><cell></cell><cell><choice><abbr>m</abbr><expan>minutes</expan></choice></cell></row>
+<lb/><figure><head><placeName><geogName type="river">Loangwa</geogName></placeName></head><figDesc>Calculations</figDesc></figure>
 
-<lb/><row><cell>3</cell><cell></cell><cell>30</cell><cell></cell><cell><placeName><settlement>Mtewondo</settlement></placeName> <!-- unable to find out type of placename for Mtewondo AM --><!-- Then let's just not specify. AW --> to confluence</cell></row>
+<lb/><p>
+<lb/><choice><abbr>H</abbr><expan>Hours</expan></choice><space extent="1" unit="words"/><choice><abbr>m</abbr><expan>minutes</expan></choice>
 
-<lb/><row><cell>5</cell><cell></cell><cell>40</cell><cell></cell><cell>to <placeName><settlement type="village">Mlinjelenze</settlement></placeName> (woman <term type="occupation">chief</term>)</cell></row>
+<lb/>3<space extent="1" unit="words"/>30<space extent="1" unit="words"/><placeName><settlement>Mtewondo</settlement></placeName> <!-- unable to find out type of placename for Mtewondo AM --><!-- Then let's just not specify. AW --> to confluence
 
-<lb/><row><cell>5</cell><cell></cell><cell>-</cell><cell></cell><cell>from <placeName><settlement type="village">Miule</settlement></placeName> to <placeName><geogName type="river">Misinje</geogName></placeName></cell></row>
+<lb/>5<space extent="1" unit="words"/>40<space extent="1" unit="words"/>to <placeName><settlement type="village">Mlinjelenze</settlement></placeName> (woman <term type="occupation">chief</term>)
 
-<lb/><row><cell>1</cell><cell></cell><cell>-</cell><cell>30</cell><cell><placeName><settlement type="village">Mbanga</settlement></placeName> to <placeName><settlement type="village">Miule</settlement></placeName></cell></row>
+<lb/>5<space extent="1" unit="words"/>---<space extent="1" unit="words"/>from <placeName><settlement type="village">Miule</settlement></placeName> to <placeName><geogName type="river">Misinje</geogName></placeName>
 
-<lb/><milestone unit="section" rend="quarter-line"/>
-
-<lb/><row><cell>15</cell><cell></cell><cell>40</cell><cell>=</cell><cell>23 miles 1<choice><orig>½</orig><reg>1/2</reg></choice> per ton</cell></row>
-
-<lb/><row><cell></cell><cell></cell><cell></cell><cell></cell><cell rend="black gray">32 at 2 miles</cell></row></table>
-
-<lb/><milestone unit="section" rend="line"/>
-
-<lb/><table>
-
-<lb/><row><cell><choice><abbr>H</abbr><expan>Hours</expan></choice></cell></row>
-
-<lb/><row><cell>4</cell><cell>to <placeName><settlement type="village">Mbanga</settlement></placeName> <date when="1866-08-02">2 <choice><abbr>Aug.</abbr><expan>August</expan></choice> 66</date></cell></row>
-
-<lb/><row><cell>3</cell><cell>-</cell><cell>45.</cell><cell></cell><cell>from <placeName><geogName type="mountain">Mtewire <choice><abbr>Mt.</abbr><expan>Mountain</expan></choice></geogName></placeName> to sleeping</cell></row>
-
-<lb/><row><cell><placeName><settlement type="village"><persName>Pezimba</persName></settlement></placeName> to <placeName><geogName type="mountain">Mtewire <choice><abbr>M<hi rend="sup">tn</hi></abbr><expan>Mountain</expan></choice></geogName></placeName></cell></row> 
-
-<lb/><row><cell>5</cell><cell></cell><cell>30</cell><cell>-- 12° 5 8'</cell></row>
-
-<lb/><row><cell>2</cell><cell></cell><cell>30</cell><cell>-</cell><cell>from <placeName><settlement type="village"><choice><sic><persName><w>M<subst><del/><add place="over-text">ago</add></subst>la</w></persName>s</sic><corr><persName><w>M<subst><del/><add place="over-text">ago</add></subst>la</w></persName>'s</corr></choice></settlement></placeName> to <placeName><settlement type="village"><persName>Pezimba</persName></settlement></placeName></cell></row>
-
-<lb/><row><cell>4</cell><cell>-</cell><cell>40</cell><cell></cell><cell><placeName><settlement type="village"><persName>Mataka</persName></settlement></placeName> to <placeName><settlement type="village"><persName>Magola</persName>'s</settlement></placeName></cell></row>
+<lb/>1<space extent="2" unit="chars"/>-<space extent="1" unit="chars"/>30<placeName><space extent="1" unit="words"/><settlement type="village">Mbanga</settlement></placeName> to <placeName><settlement type="village">Miule</settlement></placeName>
 
 <lb/><milestone unit="section" rend="quarter-line"/>
 
-<lb/><row><cell>20</cell><cell>-</cell><cell>25</cell><cell>-</cell><cell>at 1<choice><orig>½</orig><reg>1/2</reg></choice> 30 miles = 41<lb/><space extent="3" unit="words"/>32<lb/><space extent="3" unit="words"/>73</cell></row></table>
+<lb/>15<space extent="2" unit="chars"/>40 = 23 miles 1<choice><orig>½</orig><reg>1/2</reg></choice> per ton
 
-<lb/><figure><head><placeName><geogName type="river">Loangwa</geogName></placeName></head><figDesc>Calculations.</figDesc></figure> <!-- Yowza, well done, Anne on this page!! HB --><!-- Yes, well done indeed. Just looking at this page makes my head spin! Note that phrases like "I think" should never appear in a <figDesc> as it's meant to be a formal description of the figure that readers will see. AW -->
+<lb/><space extent="2" unit="words"/><space extent="1" unit="words"/><seg rend="black gray">32 at 2 miles</seg></p>
+
+<milestone unit="section" rend="line"/>
+
+
+<lb/><p rend="no-indent"><choice><abbr>H</abbr><expan>Hours</expan></choice>
+
+<lb/>4<space extent="1" unit="words"/>to <placeName><settlement type="village">Mbanga</settlement></placeName> <date when="1866-08-02">2 <choice><abbr>Aug.</abbr><expan>August</expan></choice> 66</date>
+
+<lb/>3<space extent="2" unit="chars"/>-<space extent="1" unit="chars"/>45. from <placeName><geogName type="mountain">Mtewire <choice><abbr>Mt.</abbr><expan>Mountain</expan></choice></geogName></placeName> to sleeping
+
+<lb/><placeName><settlement type="village"><persName>Pezimba</persName></settlement></placeName> to <placeName><geogName type="mountain">Mtewire <choice><abbr>M<hi rend="sup">tn</hi></abbr><expan>Mountain</expan></choice></geogName></placeName> 
+
+<lb/>5<space extent="1" unit="words"/>30 -- 12° 5 8'
+
+<lb/>2<space extent="1" unit="words"/>30 - from <placeName><settlement type="village"><choice><sic><persName><w>M<subst><del/><add place="over-text">ago</add></subst>la</w></persName>s</sic><corr><persName><w>M<subst><del/><add place="over-text">ago</add></subst>la</w></persName>'s</corr></choice></settlement></placeName> to <placeName><settlement type="village"><persName>Pezimba</persName></settlement></placeName>
+
+<lb/>4<space extent="2" unit="chars"/>-<space extent="1" unit="chars"/>40 <placeName><settlement type="village"><persName>Mataka</persName></settlement></placeName> to <placeName><settlement type="village"><persName>Magola</persName>'s</settlement></placeName>
+
+<lb/><milestone unit="section" rend="quarter-line"/>
+
+<lb/>20<space extent="1" unit="chars"/>-<space extent="1" unit="chars"/>25 - at 1<choice><orig>½</orig><reg>1/2</reg></choice> <space extent="2" unit="chars"/>30 miles = 41
+<lb/><space extent="7" unit="words"/><space extent="1" unit="chars"/>32
+<lb/><space extent="7" unit="words"/><space extent="1" unit="chars"/>73
+
+<lb/><figure><head><placeName><geogName type="river">Loangwa</geogName></placeName></head><figDesc>Calculations.</figDesc></figure></p> <!-- Yowza, well done, Anne on this page!! HB --><!-- Yes, well done indeed. Just looking at this page makes my head spin! Note that phrases like "I think" should never appear in a <figDesc> as it's meant to be a formal description of the figure that readers will see. AW -->
+
 
 	<pb facs="liv_000004_0077" n="0077"/>
-<lb/><p><date from="1866-08-16" to="1866-08-19">16 - 19</date> <!-- to the proofreader: I have consulted Adrian on the coding of date ranges and he has advised this coding - AM --> <choice><sic>engaged</sic><corr>Engaged</corr></choice> in
+<lb/><p rend="no-indent"><date from="1866-08-16" to="1866-08-19">16 - 19</date> <!-- to the proofreader: I have consulted Adrian on the coding of date ranges and he has advised this coding - AM --> <choice><sic>engaged</sic><corr>Engaged</corr></choice> in
 <lb/><bibl>map</bibl><!-- Which one? AW --> making and
 <lb/>writing up <bibl>journal</bibl><!-- UJ! AW -->
 <lb/>A report reached us
@@ -1908,7 +1916,7 @@
 <lb/>come after us with
 <lb/><term type="animal">buffaloes</term> &amp; they had
 <lb/>reached <placeName><settlement type="village"><persName>Mataka</persName>'s</settlement></placeName> &amp;
-<lb/>had two <w><subst><del/><add place="over-text">ey</add></subst>es</w> behind
+<lb/>had two <w><subst><del><gap extent="2" unit="chars"/></del><add place="over-text">ey</add></subst>es</w> behind
 <lb/>as well as before -
 <lb/><term type="occupation">Headman</term> tells me
 <lb/>his little afflictions
@@ -1960,13 +1968,13 @@
 <lb/>their edges - the dip nearly
 <lb/>vertical &amp; the strike the
 <lb/>long axis of the Lake = we <!-- geog: Nyassa -->
-<lb/><figure><figDesc>Drawing of rock edges.</figDesc></figure>tread on their edges <!--I'm not sure how to deal with this section. It's not exactly a list; but it is definitely something different from the usual writing. -Ashanka --><!--Ashanka, see how I've dealt with. HB -->
-<lb/>as we come along
-<lb/>a few are twisted a
-<lb/>little but they keep
-<lb/>the strike remarkably
-<lb/>well and this we
-<lb/>observed a long way
+<lb/><figure><figDesc>Drawing of rock edges.</figDesc></figure> tread on their edges <!--I'm not sure how to deal with this section. It's not exactly a list; but it is definitely something different from the usual writing. -Ashanka --><!--Ashanka, see how I've dealt with. HB -->
+<lb/><space extent="2" unit="words"/>as we come along
+<lb/><space extent="2" unit="words"/>a few are twisted a
+<lb/><space extent="2" unit="words"/>little but they keep
+<lb/><space extent="2" unit="words"/>the strike remarkably
+<lb/><space extent="2" unit="words"/>well and this we
+<lb/><space extent="2" unit="words"/>observed a long way
 <lb/>off the Lake = about <measure>20 <choice><abbr>ft</abbr> <expan>feet</expan></choice> <!-- geog: Nyassa -->
 <lb/>perpendicular from the present
 <lb/>level</measure> of the Lake hardened <!-- geog: Nyassa -->
@@ -1975,7 +1983,7 @@
 <lb/><choice><sic>musstt</sic><corr>must</corr></choice> have been its level formerly</p>
 
 	<pb facs="liv_000004_0080" n="0080"/>
-<lb/><p rend="no-indent"><date when="1866-08-22">22 <choice><abbr>Aug.</abbr><expan>August</expan></choice> 1866</date> <term type="occupation">Master</term>
+<lb/><p><date when="1866-08-22">22 <choice><abbr>Aug.</abbr><expan>August</expan></choice> 1866</date> <term type="occupation">Master</term>
 <lb/>of dhow said it would
 <lb/>come today &amp; today he
 <lb/>sends a man for it at
