@@ -2,8 +2,7 @@
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="transcription-fds.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000017">
-	<!-- Change @xml:id -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000017"><!-- Change @xml:id -->
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -153,24 +152,20 @@
 
 		<body>
 			<div rend="black"> <!-- Adrian, I would categorize this color as black, but want to check with you as both AM and KS left as brown. HB --><!-- Black OK. AW -->	
-				<gb/>
-
 
 	<pb facs="liv_000017_0002" n="0002"/>
 <lb/><fw n="heading_XVII" rend="large gray">XVII</fw>
-<lb/><p rend="center"><placeName>Moselabamba</placeName> <placeName><region><choice><abbr>S</abbr><expan>South</expan></choice> of
-<lb/><unclear cert="low">Gonda - chite</unclear></region></placeName> <measure>one day off</measure></p>
-<lb/><space dim="vertical" extent="20" unit="lines"/>
+<lb/><p><placeName>Moselabamba</placeName> <placeName><region><choice><abbr>S</abbr><expan>South</expan></choice> of
+<lb/>Gonda - <unclear cert="medium">chite</unclear></region></placeName> <measure>one day off</measure></p>
 
-	<pb facs="liv_000017_0003" n="0003"/>
-<lb/><p><!--blank page--></p>	
+	<pb facs="liv_000017_0003" n="0003"/>	
 
 	<pb facs="liv_000017_0004" n="0004"/>
-<lb/><fw n="heading_XVII" rend="large center">XVII.</fw>
+<lb/><fw n="heading_XVII" rend="large"><space extent="2" unit="words"/>XVII.</fw>
 <lb/><milestone unit="section" rend="line gray"/>
 <lb/><p><date when="1873-04-09">9<hi rend="sup">th</hi> April 1873</date> - at <placeName><geogName type="river"><choice><abbr>R.</abbr><expan>River</expan></choice>
 <lb/><choice><sic>Monikazi</sic><corr>Muanakazi</corr></choice></geogName></placeName> or <placeName><geogName type="river"><choice><sic>Munikazi</sic><corr>Muanakazi</corr></choice></geogName></placeName></p>
-<lb/><milestone unit="section" rend="double-line gray"/>
+<lb/><milestone unit="section" rend="double-line"/>
 <lb/><p rend="no-indent"><choice><sic>copied</sic><corr>Copied</corr></choice> = from <bibl>XVI</bibl> =
 <lb/><date when="1873-04-05">5<hi rend="sup underline">th</hi> April 1873</date> March from
 <lb/><placeName><settlement type="village"><persName>Kabinga</persName>'s</settlement></placeName> on <placeName><geogName type="river"><choice><orig>Chambeze</orig><reg>Chambezi</reg></choice></geogName></placeName>
@@ -263,7 +258,7 @@
 <lb/>know it -</p>
 
 	<pb facs="000017_0008" n="0008"/>
-<lb/><p>A <orgName>party of <term type="occupation">fishermen</term></orgName>
+<lb/><p rend="no-indent">A <orgName>party of <term type="occupation">fishermen</term></orgName>
 <lb/>fled from us - but by
 <lb/>coaxing we got them
 <lb/>to <choice><sic>shews</sic><corr>show us</corr></choice> deep water -
@@ -356,7 +351,7 @@
 <lb/>We were lost in stiff
 <lb/>grassy prairies -
 <lb/>from <measure>three to four
-<lb/>feet deep</measure> - of water - <add place="above"><measure>5 <hi rend="double-underline">hours</hi></measure></add></p>
+<lb/>feet deep</measure> - of water - <add place="above"><measure><hi rend="double-underline">5 hours</hi></measure></add></p>
 <lb/><milestone unit="section" rend="double-line"/>
 <lb/><p>Fired again in the 
 <lb/>stillness of night
@@ -470,7 +465,7 @@
 
 			<div rend="gray">
 	<pb facs="000017_0016" n="0016"/>
-<lb/><p rend="gray"><hi rend="underline">Pollux <measure>100˚ - 5' 20'</measure> <date when="1873-04-10">10<hi rend="sup">th</hi> April</date></hi>
+<lb/><p rend="gray no-indent"><hi rend="underline">Pollux <measure>100˚ - 5' 20'</measure> <date when="1873-04-10">10<hi rend="sup">th</hi> April</date></hi>
 <lb/><date when="1873-04-10">10 April</date> <figure><figDesc>Map of star positions with degrees and rough locations.</figDesc></figure>
 <lb/><placeName><geogName type="river"><choice><sic>Munikazi</sic><corr>Muanakazi</corr></choice> <choice><abbr>R</abbr><expan>River</expan></choice></geogName></placeName></p>
 
@@ -480,27 +475,19 @@
 <lb/><list><head><choice><abbr>Bar.</abbr><expan>Barometer</expan></choice> 6 AM</head>
 
 	<cb rend="left"/>
-<lb/><item><measure>25.80</measure></item>
-<lb/><item><measure>26.05</measure></item>
+<lb/><item><measure>25.80</measure></item> 
+<lb/><item><measure>26.05</measure></item> <metamark/> <note place="marginright"><!-- Curly bracket grouping items on left with this -->68˚.5 <lb/>clear 
+<lb/>calm</note>
 <lb/><item><measure>25.59</measure></item></list> 
 
-	<cb rend="center left"/>
-<metamark/><!-- Curly bracket grouping items on left with this --><lb/><p>68˚.5 
-<lb/>clear 
-<lb/>calm</p>
-
-	<cb rend="center right"/>
+<lb/><cb rend="center right"/>
 <lb/><metamark/><!-- contained in a double lined box on the right of the page --><list><head>9 AM clear</head> 
-<lb/><item><measure>25.85</measure></item>
-<lb/><item><measure>25..05</measure></item>
+<lb/><item><measure>25.85</measure></item> 
+<lb/><item><measure>25..05</measure></item> <note place="marginright"><metamark/><!-- Curly bracket grouping items on left with this --> 74°</note>
 <lb/><item><measure>25.62</measure></item></list>
+		</div> 
 
-	<cb rend="right"/>
-<metamark/><!-- Curly bracket grouping items on left with this --><lb/>
-<lb/><p>74</p>
-			</div> 
-
-			<div rend="black gray"> <!-- Still not sure if this shouldn't be black vs brown?? HB --><!-- Black and gray to reflect text and undertext. AW -->
+		<div rend="black gray"> <!-- Still not sure if this shouldn't be black vs brown?? HB --><!-- Black and gray to reflect text and undertext. AW -->
 <lb/><milestone unit="section" rend="line"/>
 <lb/><p><!-- gray undertext overwriten in pen --><date when="1873-04-12">12<hi rend="sup underline">th</hi></date> <choice><sic>cross</sic><corr>Cross</corr></choice> <placeName><geogName type="river"><choice><sic>Munikazi</sic><corr>Muanakazi</corr></choice></geogName></placeName>
 <lb/>about <measure><measure>100 or 130 <choice><abbr>yds</abbr><expan>yards</expan></choice> broad</measure>
@@ -517,7 +504,7 @@
 <lb/>carried but on being
 <lb/>pressed allowed the men
 <lb/>to help me along by
-<lb/>relays to <unclear cert="medium"><placeName><geogName type="river"><hi rend="underline">Chinama</hi></geogName></placeName></unclear>
+<lb/>relays to <placeName><geogName type="river"><hi rend="underline">Chinama</hi></geogName></placeName>
 <lb/>where much cultivation
 <lb/>is carried on = camped in
 <lb/>garden of <term type="plant">Dura</term> <choice><abbr>S.</abbr><expan>South</expan></choice> <measure><hi rend="underline">3<choice><orig>½</orig><reg>1/2</reg></choice></hi></measure></p><!-- end of overwriting/underwriting -->
@@ -561,7 +548,7 @@
 <lb/>these latitudes = between
 <lb/><measure>50 &amp; 60</measure> in the maximum</seg></p>
 <lb/><p><choice><sic>one</sic><corr>One</corr></choice> sees <choice><sic>intermin-</sic><corr><w>intermin-
-<lb break="no"/><supplied cert="high"><app><rdg>able</rdg><rdg>gling</rdg></app></supplied></w></corr></choice> grassy prairies with
+<lb break="no"/><supplied cert="high"><app><rdg>able</rdg><rdg>gling</rdg></app></supplied></w></corr></choice> <lb/>grassy prairies with
 <lb/>lines of trees occupying
 <lb/><measure>quarters of miles</measure> in
 <lb/>breadth &amp; then to give
@@ -671,9 +658,9 @@
 <lb/>It sticks to one through life</p>
 
 	<pb facs="000017_0024" n="0024"/>
-<lb/><p><date when="1873-04-13">13 April <w>187<choice><sic>2</sic><corr>3</corr></choice></w> <choice><abbr>Cont<hi rend="sup underline">d</hi></abbr><expan>Continued</expan></choice></date>
+<lb/><p><date when="1873-04-13">13 April <choice><sic>1872</sic><corr>1873</corr></choice> <choice><abbr>Cont<hi rend="sup underline">d</hi></abbr><expan>Continued</expan></choice></date></p>
 <lb/><milestone unit="section" rend="line"/>
-<lb/>We were <measure>four hours</measure>
+<lb/><p>We were <measure>four hours</measure>
 <lb/>in being ferried over
 <lb/>the <placeName><geogName type="river">Loitikila</geogName></placeName>, or <placeName><geogName type="river"><w>Lolo-
 <lb/>-tikila</w></geogName></placeName> in four small
@@ -692,7 +679,7 @@
 <lb/><date when="1873-04-14">tomorrow</date> to <w>trans-
 <lb break="no"/>-port</w> us over and
 <lb/>set us on our way
-<lb/>to <unclear cert="medium"><persName>Muawzabanza</persName></unclear>
+<lb/>to <persName>Muawzabanza</persName>
 
 	<pb facs="000017_0025" n="0025"/> <!-- Adrian, again these measurements are usually commented out, but cannot comment out with a comment tag within - how proceed? HB -->
 <lb/>South West and
@@ -702,45 +689,28 @@
 			</div>
 
 			<div rend="black gray">
-<lb/><p><!-- the following section is pen overwritten pencil --><date when="1873-04-14">14<hi rend="sup underline">th</hi></date> <choice><sic>at</sic><corr>At</corr></choice> a branch of the
+<lb/><p rend="no-indent"><!-- the following section is pen overwritten pencil --><date when="1873-04-14">14<hi rend="sup underline">th</hi></date> <choice><sic>at</sic><corr>At</corr></choice> a branch of the
 <lb/><placeName><geogName type="river">Lolotikila</geogName></placeName> <seg type="weather">clear sky</seg></p>
 
 	<cb rend="left"/>
 <lb/><list><item><measure>25.90</measure></item>
-<lb/><item><measure>26.11</measure></item>
+<lb/><item><measure>26.11</measure></item> <metamark/> <note place="marginright"><!-- Curly bracket grouping items on left with this -->7AM <lb/>66˚</note>
 <lb/><item><measure>25.70</measure></item></list>  
 
-	<cb rend="center left"/>
-<metamark/><!-- Curly bracket grouping items on left with this --><lb/><p>7AM 
-<lb/>66˚</p>
-
 	<cb rend="center right"/>
-<lb/><p>AM 9 =</p>
-<lb/><metamark/><!-- Double-line box --><list><item><measure>29.93</measure></item> 
+<lb/><list><head>AM 9 =</head>
+<lb/><metamark/><!-- Double-line box --><item><measure>29.93</measure></item>  <metamark/> <!-- Curly bracket grouping items on left with this --><note place="marginright"><seg rend="gray">9 AM</seg> <lb/>71˚ <lb/>clear <lb/>windy</note> 
 <lb/><item><measure>26.14</measure></item>
 <lb/><item><measure>25.71</measure></item></list>
-
-	<cb rend="right"/>
-<metamark/><!-- Curly bracket grouping items on left with this --><lb/><p><seg rend="gray">9 AM</seg>
-<lb/>71˚
-<lb/>clear
-<lb/>windy</p>
 			</div> 
-
 			<div rend="gray">
-<lb/><milestone unit="section" rend="double-line"/><!-- line extends only about 3/4 width of page AM -->
+<milestone unit="section" rend="double-line"/><!-- line extends only about 3/4 width of page AM -->
 
 	<cb rend="left"/>
 <lb/><list><item>3 PM</item>
-<lb/><item><measure>25.90</measure></item>
-<lb/><item><measure>26.10</measure></item>
+<lb/><item><measure>25.90</measure></item> <metamark/><!-- Curly bracket grouping items on left with this --><note place="marginright">80˚ <lb/>clear <lb/>windy</note>
+<lb/><item><measure>26.10</measure></item> 
 <lb/><item><measure>25.68</measure></item></list>
-
-	<cb rend="center"/>
-<metamark/><!-- Curly bracket grouping items on left with this --><lb/>
-<lb/><p>80˚ 
-<lb/>clear 
-<lb/>windy</p>
 
 	<cb rend="left"/>
 <lb/><milestone unit="section" rend="double-line"/>
@@ -855,10 +825,10 @@
 <lb/>is a burden = Tent
 <lb/>gone the men build
 <lb/>a good hut for me &amp;
-<lb/>the luggage <choice><abbr>SW-</abbr><expan>South West</expan></choice> <measure>1 <hi rend="underline"><choice><orig>½</orig><reg>1/2</reg></choice></hi></measure></p>
+<lb/>the luggage <choice><abbr>SW</abbr><expan>South West</expan></choice> - <measure>1 <hi rend="underline"><choice><orig>½</orig><reg>1/2</reg></choice></hi></measure></p>
 
 	<pb facs="000017_0030" n="0030"/>
-<lb/><p rend="no-indent"><date when="1873-04-20">20<hi rend="sup underline">th</hi> April 1873 = <choice><abbr>S.</abbr><expan>Sunday</expan></choice></date> service
+<lb/><p><date when="1873-04-20">20<hi rend="sup underline">th</hi> April 1873 = <choice><abbr>S.</abbr><expan>Sunday</expan></choice></date> service
 <lb/>cross over the <add place="below">^</add> <add place="above">sponge</add> <placeName><geogName type="sponge">Moenda</geogName></placeName>
 <lb/>for food &amp; to be near the
 <lb/><term type="occupation">headman</term> of these parts
@@ -867,47 +837,41 @@
 <lb/><choice><abbr>vil</abbr><expan>village</expan></choice> <del type="cancelled">R</del> <placeName><geogName type="sponge">Moenda</geogName></placeName> <add place="below">^</add> <add place="above">sponge</add> 7 AM</p>
 
 	<cb rend="left"/><!-- Again, should these be commented out? HB --><!-- Let stand. AW -->
-<lb/><list><item><measure>25.88</measure></item>
-<lb/><item><measure>26.12</measure></item>
+<lb/><list><item><measure>25.88</measure></item> <metamark/><!-- Curly bracket grouping items on left with this --><note place="marginright">66˚ <lb/>clouds <lb/>high</note>
+<lb/><item><measure>26.12</measure></item> 
 <lb/><item><measure>25.70</measure></item></list> 
 
-	<cb rend="center"/>
-<metamark/><!-- Curly bracket grouping items on left with this --><lb/><p>66˚
-<lb/>clouds 
-<lb/>high</p>
-
 	<cb rend="left"/>
-<lb/><p>cross <placeName><geogName type="river">Lukolu</geogName></placeName> in a canoe
+<lb/><p rend="no-indent">cross <placeName><geogName type="river">Lukolu</geogName></placeName> in a canoe
 <lb/><choice><abbr>R.</abbr><expan>River</expan></choice> is about <measure><measure>30 <choice><abbr>yds</abbr><expan>yards</expan></choice> broad</measure>
 <lb/><measure>very deep</measure></measure> and flowing
 <lb/>in marshes - <measure>2 knots</measure>
 <lb/>from <choice><abbr>SSE</abbr><expan>South South East</expan></choice> to <choice><abbr>NNW</abbr><expan>North North West</expan></choice>
 <lb/>into Lake</p> <!-- geog: -->
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p rend="no-indent"><date when="1873-04-21">21<hi rend="sup">st</hi></date> Tried to ride but was
+<lb/><p><date when="1873-04-21">21<hi rend="sup">st</hi></date> Tried to ride but was
 <lb/>forced to lie down and
 <lb/>they carried me back to
 <lb/><choice><abbr>vil.</abbr><expan>village</expan></choice> exhausted</p>
 <lb/><milestone unit="section" rend="line"/>
-<lb/><p rend="no-indent"><date when="1873-04-22">22<hi rend="sup">d</hi></date> <choice><sic>carried</sic><corr>Carried</corr></choice> in <foreign xml:lang="und">Kitanda</foreign>
+<lb/><p><date when="1873-04-22">22<hi rend="sup">d</hi></date> <choice><sic>carried</sic><corr>Carried</corr></choice> in <foreign xml:lang="und">Kitanda</foreign>
 <lb/>over <foreign xml:lang="und">Buga</foreign> <choice><abbr>SW</abbr><expan>South West</expan></choice> <space extent="4" unit="chars"/><measure>2<choice><orig>¼</orig><reg>1/4</reg></choice></measure></p>
 
 
 	<pb facs="000017_0031" n="0031"/>
-<lb/><p rend="no-indent"><date when="1873-04-23">23<hi rend="sup underline">d</hi></date> <choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice> <space extent="4" unit="chars"/><measure>1<choice><orig>½</orig><reg>1/2</reg></choice></measure> <!-- Adrian, should this be reformatted as a list? HB --><!-- No. AW -->
-<lb/><date when="1873-04-24">24</date> <choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice> <space extent="4" unit="chars"/><measure>1.</measure>
-<lb/><date when="1873-04-25">25<hi rend="sup underline">th</hi></date> <choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice> <space extent="4" unit="chars"/><measure>1</measure>
-<lb/><date when="1873-04-26">26<hi rend="sup"><unclear>th</unclear></hi></date> <choice><abbr>Do</abbr><expan>Ditto</expan></choice> <space extent="4" unit="chars"/><measure>2<choice><orig>½</orig><reg>1/2</reg></choice></measure></p>
+<lb/><p><date when="1873-04-23">23<hi rend="sup underline">d</hi></date> <choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice> <space extent="5" unit="chars"/><measure>1<choice><orig>½</orig><reg>1/2</reg></choice></measure></p> <!-- Adrian, should this be reformatted as a list? HB --><!-- No. AW -->
+<lb/><p><date when="1873-04-24">24</date> <choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice> <space extent="6" unit="chars"/><measure>1.</measure></p>
+<lb/><p><date when="1873-04-25">25<hi rend="sup underline">th</hi></date> <choice><abbr>D<hi rend="sup">o</hi></abbr><expan>Ditto</expan></choice> <space extent="4" unit="chars"/><measure>1</measure></p>
+<lb/><p><date when="1873-04-26">26<hi rend="sup"><unclear>th</unclear></hi></date> <choice><abbr>Do</abbr><expan>Ditto</expan></choice> <space extent="4" unit="chars"/><measure>2<choice><orig>½</orig><reg>1/2</reg></choice></measure></p>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><p rend="no-indent"><choice><sic>to</sic><corr>To</corr></choice> <placeName><settlement type="village"> <choice><sic><persName>Kalungo <app><rdg>Mofu</rdg><rdg>Zofu</rdg></app></persName>s</sic><corr><persName>Kalungo <app><rdg>Mofu</rdg><rdg>Zofu</rdg></app></persName>'s</corr></choice></settlement></placeName>
-<lb/>total <measure>33˚</measure> <space extent="6" unit="chars"/>= <measure>8<choice><orig>¼</orig><reg>1/4</reg></choice></measure></p>
+<lb/>total <space extent="2" unit="chars"/><measure>33˚</measure> <space extent="2" unit="chars"/>= <measure>8<choice><orig>¼</orig><reg>1/4</reg></choice></measure></p>
 <lb/><milestone unit="section" rend="line"/>
 <lb/><p rend="no-indent"><date when="1873-04-27">27</date> <choice><sic>knocked</sic><corr>Knocked</corr></choice> up quite
 <lb/>and remain = recover
 <lb/>sent to buy <term type="animal"><choice><orig>milch</orig><reg>milk</reg></choice> 
 <lb/>goats</term> - We are on the
 <lb/>banks of <placeName><geogName type="river"><choice><abbr>R</abbr><expan>River</expan></choice> Molilamo</geogName></placeName></p>
-<lb/><space dim="vertical" unit="lines" extent="7"/>
 			</div> 
 
 			<div rend="upside-down gray">
@@ -915,7 +879,7 @@
 <lb/><!-- continues from n="0033", this text is not DLs and runs in the opposite direction to the rest of the notebook --><ab><add place="inline" hand="#JW">half <unclear><choice><sic>scrople</sic><corr cert="low">scruple</corr></choice></unclear>.</add>
 
 	<pb facs="000017_0033" n="0033"/>
-<lb/><!-- text runs in opposite direction from DLs --><add place="inline" hand="#JW">11 <choice><sic>o,cloak</sic><corr>o'clock</corr></choice>.<add place="above">night</add>_<date when="1873-04-28">28<hi rend="sup underline">th</hi>. April</date>
+<lb/><!-- text runs in opposite direction from DLs --><add place="inline" hand="#JW">11 <choice><sic>o,cloak</sic><corr>o'clock</corr></choice>._<add place="above">night</add> <date when="1873-04-28">28<hi rend="sup underline">th</hi>. April</date>
 <lb/><milestone unit="section" rend="half-line"/><!-- line stretches across center part of page AM -->
 <lb/>In the chest was found
 <lb/>about a shilling and
@@ -939,10 +903,15 @@
 <lb/><foreign xml:lang="und"><term type="animal">Konze</term></foreign> = <term type="animal">Hartebeest</term>
 <lb/><foreign xml:lang="und"><term type="animal">Dope</term></foreign> = <term type="animal">Wildebeest</term>
 <lb/><foreign xml:lang="und"><term type="animal">Nyumbo</term></foreign> = <term type="animal">gnu</term></p>
-<lb/><space dim="vertical" unit="lines" extent="5"/>
+<lb/>
+<lb/>
+<lb/>
 <lb/><milestone unit="section" rend="line black"/>
-<lb/><p rend="no-indent"><hi rend="underline black"><foreign xml:lang="und">Kopa</foreign> =  <foreign xml:lang="und">Gando chite</foreign> =</hi></p>
-<lb/><space dim="vertical" unit="lines" extent="3"/>
+<lb/><p rend="no-indent"><foreign xml:lang="und">Kopa</foreign> =  <foreign xml:lang="und">Gando chite</foreign> =</p>
+<lb/><milestone unit="section" rend="line black"/>
+<lb/>
+<lb/>
+<lb/>
 <lb/><p rend="no-indent"><placeName><geogName type="hill">Lavusi Hills</geogName></placeName> <measure>3</measure> <choice><abbr>S</abbr><expan>South</expan></choice> of
 <lb/><choice><abbr>vil</abbr><expan>village</expan></choice> <placeName><settlement type="village">Mueze</settlement></placeName> <placeName><geogName type="river"><choice><abbr>R</abbr><expan>River</expan></choice> Kazya</geogName></placeName>
 <lb/>comes from them - is
