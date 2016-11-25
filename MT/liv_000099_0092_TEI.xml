@@ -493,7 +493,7 @@ and many attempts
 <lb/>wet season</seg> - Then animals
 
 <pb facs="liv_000099_0102.jpg" n="0102"/>
-<fw> <add place="inspace" hand="#U2" rend="gray center">95</add> <add place="inline" hand="#U1" rend="gray right">98</add> <add place="inspace" hand="#U2" rend="gray right">10</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">95</add> <add place="inline" hand="#U1" rend="gray right">98</add> <add place="inspace" hand="#U2" rend="gray right">10</add></fw>
 <lb/>of every sort and name,
 <lb/>including man, rejoice in
 <lb/>the rich supply - The <term type="animal">Elephant</term>
@@ -502,9 +502,7 @@ and many attempts
 <lb/>species of <term type="animal"><choice><sic>Rhinocros</sic><corr>Rhinoceros</corr></choice></term> - although <retrace hand="#U3" rend="red"><metamark function="insertion" rend="gray" resp="#U2"/></retrace><anchor xml:id="reorder-15"/>
 <lb/>so diverse in their <retrace hand="#U3" rend="red"><metamark function="reorder" rend="gray" resp="#U2" spanTo="#meta-37"/></retrace><seg corresp="#reorder-15">natural<retrace hand="#U3" rend="red"><add place="inline" hand="#U2" rend="gray">ly</add></retrace></seg><anchor xml:id="meta-37"/>
 <lb/>choice of pasture - </p>
-<lb/><space dim="vertical" extent="2" unit="lines"/>
-<lb/><metamark function="no-newParagraph" rend="red" resp="#U3"/><!-- proof correction mark for 'no new paragraph'.JL -->
-<lb/><space dim="vertical" extent="2" unit="lines"/>
+<lb/><space unit="words" extent="3"/><metamark function="no-newParagraph" rend="red" resp="#U3"/><!-- proof correction mark for 'no new paragraph'.JL -->
 <lb/><p>The different kinds of
 <lb/><term type="animal">antelopes</term> feed on them
 <lb/>with equal avidity and
@@ -512,7 +510,6 @@ and many attempts
 <lb/>and <term type="animal">mice</term> all seem to
 <lb/>know and appreciate the
 <lb/>common blessing - </p>
-<lb/><space dim="vertical" extent="15" unit="lines"/>
 
 <pb facs="liv_000099_0103.jpg" n="0103"/>
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">96</add> <add place="inspace" hand="#U1" rend="gray right">99</add></fw>
