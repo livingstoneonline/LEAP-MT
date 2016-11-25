@@ -950,56 +950,74 @@
 		</span>
 	</xsl:template>
 
-	<!--  <xsl:template match="metamark"><span class="metamark italic" title="Editorial symbol, mark, or unusual character"
-		>#</span></xsl:template>-->
 	
-	
-	
-	<xsl:template match="metamark [@function='insertion']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'insertion')}" title="Editorial symbol used to mark an insertion from another place on the page" 
-		>&#x21aa;<xsl:text> </xsl:text></span></xsl:template>
-	
-	<xsl:template match="metamark [@function='deletion']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'deletion')}" title="Editorial symbol used to mark a deletion"
-		>&#x20B0;<xsl:text> </xsl:text></span></xsl:template>
-	
-	<xsl:template match="metamark [@function='newParagraph']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'newParagraph')}" title="Editorial symbol used to indicate a new paragraph"
-		><xsl:apply-templates/></span></xsl:template>
-	
-	<xsl:template match="metamark [@function='no-newParagraph']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'no-newParagraph')}" title="Editorial symbol used to close the space between paragraphs"
-		>&#x285;<xsl:text> </xsl:text></span></xsl:template>
-	
-	<xsl:template match="metamark [@function='substitution']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'substitution')}" title="Editorial symbol used to indicate the substitution of one character or word for another, and sometimes to mark an insertion"
-		><xsl:apply-templates/></span></xsl:template>
-		
-	<!-- <xsl:template match="metamark [@function='let-stand']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'let-stand')}" title="Editorial symbol used to indicate that a deleted word or phrase should be retained"
-		><xsl:text> </xsl:text></span></xsl:template>	-->
-	
-	<xsl:template match="metamark [@function='stet']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'stet')}" title="Editorial notation instructing that a deleted portion of text should be retained"
-		><xsl:apply-templates/></span></xsl:template>
-	
-	<xsl:template match="metamark [@function='query']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'query')}" title="Editorial notation querying a portion of text"
-		><xsl:apply-templates/></span></xsl:template>
-	
-	<xsl:template match="metamark [@function='placeMark']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'placeMark')}" title="Editorial symbol used to mark the editor's place in the text"
-		>/</span></xsl:template>
-	
-	<xsl:template match="metamark [@function='ed-mark']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'ed-mark')}" title="Editorial symbol used to point to or highlight a particular portion of text"
-		><xsl:apply-templates/></span></xsl:template>
-	
-	<!-- <xsl:template match="metamark [@function='flag']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'flag')}" title="Editorial line, circle or bracket used to flag a portion of text"
-		><xsl:text> </xsl:text></span></xsl:template>-->
-	
-	<!--  <xsl:template match="metamark [@function='reorder']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'reorder')}" title="Editorial symbol used to transpose a portion of text from one place to another"
-		><xsl:text> </xsl:text></span></xsl:template>-->
-	
-	<xsl:template match="metamark [@function='transposition']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'transposition')}" title="Editorial instruction to transpose a portion of text from one place to another"><xsl:apply-templates/></span></xsl:template>	
+<!-- begin list of metamarks alphabetized by @function -->
 
-	<xsl:template match="metamark [@function='close-space']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'close-space')}" title="Editorial symbol used to indicate that the space between words should be reduced"
+	<xsl:template match="metamark[@function='close-space']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to indicate that the space between words should be reduced"
 		>︹<xsl:text> </xsl:text></span></xsl:template>
 	
-	<xsl:template match="metamark [@function='unknown']" priority="10"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'unknown')}" title="Editorial symbol with an unknown function"
-		>#<xsl:text> </xsl:text></span></xsl:template>
+	<xsl:template match="metamark[@function='deletion']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'deletion')}" title="Editorial symbol used to mark a deletion"
+		>&#x20B0;<xsl:text> </xsl:text></span></xsl:template>
+
+	<xsl:template match="metamark[@function='ed-mark']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'ed-mark')}" title="Editorial symbol used to point to or highlight a particular portion of text"
+		><xsl:apply-templates/></span></xsl:template>
+
+	<!-- <xsl:template match="metamark [@function='flag']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'flag')}" title="Editorial line, circle or bracket used to flag a portion of text"
+		><xsl:text> </xsl:text></span></xsl:template>-->
 	
-	<!--  <xsl:template match="add[@place='marginleft']/metamark|add[@place='marginright']/metamark" priority="8">
+	<xsl:template match="metamark[@function='insertion']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'insertion')}" title="Editorial symbol used to mark an insertion from another place on the page" 
+		>&#x21aa;<xsl:text> </xsl:text></span></xsl:template>
+
+	<!-- <xsl:template match="metamark [@function='let-stand']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'let-stand')}" title="Editorial symbol used to indicate that a deleted word or phrase should be retained"
+		><xsl:text> </xsl:text></span></xsl:template>	-->
+	
+	<xsl:template match="metamark[@function='newParagraph']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'newParagraph')}" title="Editorial symbol used to indicate a new paragraph"
+		><xsl:apply-templates/></span></xsl:template>
+	
+	<xsl:template match="metamark[@function='no-newParagraph']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'no-newParagraph')}" title="Editorial symbol used to close the space between paragraphs"
+		>&#x285;<xsl:text> </xsl:text></span></xsl:template>
+
+	<xsl:template match="metamark[@function='placeMark']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'placeMark')}" title="Editorial symbol used to mark the editor's place in the text"
+		>/</span></xsl:template>
+
+	<xsl:template match="metamark[@function='query']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'query')}" title="Editorial notation querying a portion of text"
+		><xsl:apply-templates/></span></xsl:template>
+
+	<!--  <xsl:template match="metamark [@function='reorder']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'reorder')}" title="Editorial symbol used to transpose a portion of text from one place to another"
+		><xsl:text> </xsl:text></span></xsl:template>-->
+
+	<xsl:template match="metamark[@function='stet']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'stet')}" title="Editorial notation instructing that a deleted portion of text should be retained"
+		><xsl:apply-templates/></span></xsl:template>
+	
+	<xsl:template match="metamark[@function='substitution']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'substitution')}" title="Editorial symbol used to indicate the substitution of one character or word for another, and sometimes to mark an insertion"
+		><xsl:apply-templates/></span></xsl:template>
+		
+	<xsl:template match="metamark[@function='transposition']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'transposition')}" title="Editorial instruction to transpose a portion of text from one place to another"><xsl:apply-templates/></span></xsl:template>
+
+	<xsl:template match="metamark[@function='unknown']" priority="9"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', 'unknown')}" title="Editorial symbol with an unknown function"
+		>#<xsl:text> </xsl:text></span></xsl:template>
+
+<!-- end list of metamarks alphabetized by @function -->
+
+
+	<xsl:template match="metamark[@place='marginleft'][preceding-sibling::metamark[@place='marginleft']]" priority="10">
+			<xsl:variable name="title">
+				<xsl:if test="@function='close-space'">
+					<xsl:text>Editorial symbol used to indicate that the space between words should be reduced</xsl:text>
+				</xsl:if>
+				<xsl:if test="@function='transposition'">
+					<xsl:text>Editorial instruction to transpose a portion of text from one place to another</xsl:text>
+				</xsl:if>
+			</xsl:variable>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', 'second-margin-metamark')}"
+			title="{$title}"><xsl:apply-templates/></span>
+	</xsl:template>
+
+
+	<!--<xsl:template match="metamark"><span class="metamark italic" title="Editorial symbol, mark, or unusual character"
+		>#</span></xsl:template>-->
+	
+	<!--<xsl:template match="add[@place='marginleft']/metamark|add[@place='marginright']/metamark" priority="8">
 		<span class="metamark italic" title="Editorial symbol, mark, or unusual character">#</span>
 	</xsl:template>-->
 

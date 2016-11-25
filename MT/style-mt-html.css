@@ -661,6 +661,9 @@ p{
 	float:left;
 	text-align:center;
 }
+.metamark.marginleft.second-margin-metamark{
+    margin-left:-4em !important;	
+}
 p .metamark{
 	margin-left:0px !important;
 	text-indent:0px !important;
