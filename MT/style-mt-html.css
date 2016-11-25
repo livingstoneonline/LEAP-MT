@@ -373,10 +373,10 @@ p{
 	text-indent:0;
 }
 .note.marginleft{
-	margin-left:-8.6em !important;
+	margin-left:-9em !important;
 	text-indent:0;	
 	float:left;
-	text-align:center;
+	text-align:left;
 }
 .note.marginright{
 	margin-right:-2.6em !important;
@@ -634,8 +634,32 @@ p{
 	text-indent:0px;
 }
 .metamark{
-	color:gray;
+	font-style:italic;
 	border-bottom:1px gray dotted;
+	font-size: 1.1em;
+}
+.metamark.red{
+    color:#B33B24;
+    font-style:italic;
+	border-bottom:1px gray dotted;
+	font-size: 1.1em;
+    }
+.metamark.gray{
+    color:gray;
+    font-style:italic;
+	border-bottom:1px gray dotted;
+	font-size: 1.1em;
+}
+.metamark.no-newParagraph{
+	font-style:italic;
+	border-bottom:1px gray dotted;
+	font-size: 2em;
+}
+.metamark.marginleft{
+    margin-left:-6em !important;
+	text-indent:0;	
+	float:left;
+	text-align:center;
 }
 p .metamark{
 	margin-left:0px !important;
