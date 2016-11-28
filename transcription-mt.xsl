@@ -1027,7 +1027,7 @@
 	</xsl:template>-->
 
 	<!-- Add all necessary variables below  -->
-	<xsl:template match="metamark[@place='marginleft'][preceding-sibling::metamark[0][@place='marginleft']]" priority="9">
+	<xsl:template match="metamark[@place='marginleft'][preceding-sibling::metamark[@place='marginleft']]" priority="9">
 			<xsl:variable name="title">
 				<xsl:if test="@function='close-space'">
 					<xsl:text>Editorial symbol used to indicate that the space between words should be reduced</xsl:text>
@@ -1039,10 +1039,13 @@
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', 'second-margin-metamark')}"
 			title="{$title}"><xsl:apply-templates/></span>
 	</xsl:template>
+
+	<xsl:template match="metamark[not(string(.))]" priority="10"/>
+	
 	
 
 <!-- attempt at using 'flag' -->
-	<xsl:template match="metamark
+	<!--<xsl:template match="metamark
 		[contains(@rend, 'red'), (@function, 'flag'), @resp, @place]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]">
 		<span class="metamark makeRed" title="Editorial line, circle or bracket used to flag a portion of text">[</span>
@@ -1064,7 +1067,7 @@
 		[@xml:id]
 		[contains(preceding::metamark/@spanTo, @xml:id, (@rend, 'gray'))]">
 		<span class="metamark makeGray" title="Editorial line, circle or bracket used to flag a portion of text">]</span>
-	</xsl:template>
+	</xsl:template>-->
 
 <!-- End flag attempt -->
 
