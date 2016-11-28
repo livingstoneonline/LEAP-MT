@@ -642,7 +642,7 @@ locality <subst><del type="strikethrough" hand="#U3" rend="red">does not alone</
             <lb/>to purchase
             <lb/><term type="animal">heifer calves</term>
             <lb/>with them - <term type="animal">Cows</term>
-            <lb/>being the <metamark function="flag" place="inline" resp="#U2" rend="gray">[</metamark>highest
+            <lb/>being the <metamark function="ed-mark" place="inline" resp="#U2" rend="gray">[</metamark>highest
             <lb/>form of riches
             <lb/>know<add place="inline" hand="#U2" rend="gray">n,</add> as I have
             <lb/>often noticed
@@ -791,7 +791,7 @@ The compact they enter into is
 <lb/>must come forth, It did - 
 <lb/><add place="marginleft" hand="#U3" rend="red"><note><metamark function="query">Query</metamark>
     <lb/>decent -</note></add> 
-<metamark function="flag" place="marginleft" spanTo="#meta-41"/>but to their horror <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">they</add> saw
+<metamark function="flag" place="marginleft" resp="#U3" rend="red" spanTo="#meta-41"/>but to their horror <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">they</add> saw
 <lb/>it <subst><del><unclear cert="low">course</unclear></del><add place="over-text">stream</add></subst> from the Kidney<anchor xml:id="meta-41"/>
 <lb/><add place="inline" hand="#U3" rend="red">up</add> <del type="strikethrough" rend="red" hand="#U3">&amp; up</del> started the <term type="tribe">Bakwain</term> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">exclaiming</add>
 <lb/>"Yak, Yak! these are not<anchor xml:id="meta-40"/>
@@ -945,7 +945,7 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">107</add> <add place="inspace" hand="#U1" rend="gray right">110</add></fw>
 <lb/>water which <retrace rend="red" hand="#U3"><metamark function="reorder" rend="gray" resp="#U2" spanTo="#meta-42"/></retrace><seg corresp="#reorder-17">had we not
 <lb/>driven them away</seg><anchor xml:id="meta-42"/> would
-<lb/><metamark function="transposition" place="marginleft" rend="red" resp="#U3"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> <metamark function="close-space" place="marginleft" rend="gray" resp="#U2"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> have been quickly lapped
+<lb/><metamark function="transposition" place="marginleft" rend="red" resp="#U3"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> <metamark function="transposition" place="marginleft" rend="gray" resp="#U2"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> have been quickly lapped
 <lb/>up by our <term type="animal">dogs</term> <retrace hand="#U3" rend="red"><metamark function="insertion" rend="gray" resp="#U2"/></retrace><anchor xml:id="reorder-17"/> - And yet
 <lb/>this was all the apparent
 <lb/>supply for some <del type="cancelled">70 or</del> 80 <term type="animal">oxen</term>,

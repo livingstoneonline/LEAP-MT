@@ -650,6 +650,12 @@ p{
 	border-bottom:1px gray dotted;
 	font-size: 1.1em;
 }
+.makeRed{
+color:#B33B24;
+}
+.makeGray{
+color:gray;
+}
 .metamark.no-newParagraph{
 	font-style:italic;
 	border-bottom:1px gray dotted;
