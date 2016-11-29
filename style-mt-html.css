@@ -406,6 +406,29 @@ p{
     color:#B33B24 !important;
     border-bottom:1px gray dotted;	
 }
+.retrace.DL{
+    color:black;
+    border-bottom:1px gray dotted;
+}
+
+.retrace.red .add{
+    color:#B33B24 !important;
+}
+.retrace.gray .add{
+    color:gray !important;
+}
+.retrace.red .metamark{
+    color:#B33B24 !important;
+}
+.retrace.gray .metamark{
+    color:gray !important;
+}
+.retrace.DL .add{
+    color:black !important;
+}
+.retrace.DL .metamark{
+    color:black !important;
+}
 
 /* 7. Unclear, gap, space */
 .unclear{
@@ -663,6 +686,10 @@ color:gray;
 	font-style:italic;
 	border-bottom:1px gray dotted;
 	font-size: 2em;
+}
+.metamark.flag{
+    font-size: 1.5em;
+    font-style:normal !important;
 }
 .metamark.marginleft{
     margin-left:-6em !important;

@@ -348,8 +348,15 @@
 			<xsl:apply-templates/></span>
 	</xsl:template>
 
-	<xsl:template match="retrace[@hand='DL']">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}" title="Text added by editor, retraced by Livingstone.">
+	<xsl:template match="retrace[@hand='#DL']">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'DL')}" title="Text added by editor, retraced by Livingstone.">
+			<xsl:apply-templates/></span>
+	</xsl:template>
+	
+	
+	
+	<xsl:template match="retrace[@rend='gray'][child::add]">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}" title="Text retraced in gray by an editor.">
 			<xsl:apply-templates/></span>
 	</xsl:template>
 
@@ -972,7 +979,7 @@
 		</span>
 	</xsl:template>
 	
-	<xsl:template match="metamark[@function='deletion']" priority="8">
+	<xsl:template match="metamark[@function='deletion']" priority="10">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to mark a deletion"
 		>&#x20B0;<xsl:text> </xsl:text>
 		</span>
@@ -989,7 +996,7 @@
 		</span>
 		</xsl:template>-->
 	
-	<xsl:template match="metamark[@function='insertion']" priority="8">
+	<xsl:template match="metamark[@function='insertion']" priority="10">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to mark an insertion from another place on the page">&#x21aa;<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
@@ -1005,7 +1012,7 @@
 		</span>
 	</xsl:template>
 	
-	<xsl:template match="metamark[@function='no-newParagraph']" priority="8">
+	<xsl:template match="metamark[@function='no-newParagraph']" priority="10">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to close the space between paragraphs">&#x285;<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
@@ -1039,7 +1046,7 @@
 		</span>
 	</xsl:template>
 
-	<xsl:template match="metamark[@function='unknown']" priority="8">
+	<xsl:template match="metamark[@function='unknown']" priority="10">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol with an unknown function">#<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
@@ -1087,34 +1094,34 @@
 			title="{$title}"><xsl:apply-templates/></span>
 	</xsl:template>
 
-	<xsl:template match="metamark[not(string(.))]" priority="10"/>
+	<xsl:template match="metamark[not(string(.))]" priority="9"/>
 	
 	
 
 <!-- attempt at using 'flag' -->
-	<!--<xsl:template match="metamark
+	<xsl:template match="metamark
 		[contains(@rend, 'red'), (@function, 'flag'), @resp, @place]
-		[substring-after(@spanTo, '#')= following::anchor/@xml:id]">
-		<span class="metamark makeRed" title="Editorial line, circle or bracket used to flag a portion of text">[</span>
+		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+		<span class="metamark makeRed" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
 	</xsl:template>
 	
 	<xsl:template match="anchor
 		[@xml:id]
 		[contains(preceding::metamark/@spanTo, @xml:id, (@rend, 'red'))]">
-		<span class="metamark makeRed" title="Editorial line, circle or bracket used to flag a portion of text">]</span>
+		<span class="metamark makeRed" title="Editorial line, circle or bracket used to flag a portion of text">⎬</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark
 		[contains(@rend, 'gray'), @function, @resp, @place]
-		[substring-after(@spanTo, '#')= following::anchor/@xml:id]">
-		<span class="metamark makeGray" title="Editorial line, circle or bracket used to flag a portion of text">[</span>
+		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+		<span class="metamark makeGray" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
 	</xsl:template>
 	
 	<xsl:template match="anchor
 		[@xml:id]
 		[contains(preceding::metamark/@spanTo, @xml:id, (@rend, 'gray'))]">
-		<span class="metamark makeGray" title="Editorial line, circle or bracket used to flag a portion of text">]</span>
-	</xsl:template>-->
+		<span class="metamark makeGray" title="Editorial line, circle or bracket used to flag a portion of text">⎬</span>
+	</xsl:template>
 
 <!-- End flag attempt -->
 
