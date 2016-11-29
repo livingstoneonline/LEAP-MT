@@ -402,7 +402,10 @@ p{
 	color:gray;
 	text-decoration:line-through;
 }
-
+.retrace.red{
+    color:#B33B24 !important;
+    border-bottom:1px gray dotted;	
+}
 
 /* 7. Unclear, gap, space */
 .unclear{
