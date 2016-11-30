@@ -472,7 +472,7 @@
 		<span style='color:black;text-decoration:line-through'><span style='color:gray'><xsl:apply-templates/></span></span>
 	</xsl:template>
 	
-	<xsl:template match="add[@rend='red']/del[@rend='red']">
+	<xsl:template match="add[@rend='red']/del[@rend='red']" priority="10">
 		<span style='color:#B33B24;text-decoration:line-through'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
 	</xsl:template>
 	
@@ -528,7 +528,7 @@
 		<span style='color:black;text-decoration:line-through'><span style='color:gray'><xsl:apply-templates/></span></span>
 	</xsl:template>
 	
-	<xsl:template match="note[ancestor::add[@rend='red']]/del[@rend='red']">
+	<xsl:template match="note[ancestor::add[@rend='red']]/del[@rend='red']" priority="10">
 		<span style='color:#B33B24;text-decoration:line-through'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
 	</xsl:template>
 	
@@ -630,7 +630,6 @@
 		<span style='color:black;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
 	</xsl:template>
 	
-	
 	<xsl:template match="note[ancestor::add[@rend='gray']]/hi[@rend='underline'][@hand='#DL']">
 		<span style='color:black;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
 	</xsl:template>
@@ -674,13 +673,6 @@
 	
 	
 	
-	
-	
-	
-	
-	
-	
-
 	<!-- added for 1870 FD -->
 	<xsl:template match="desc"><span class="figure" title="{../desc}">{text description}</span></xsl:template>
 
