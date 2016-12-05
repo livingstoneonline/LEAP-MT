@@ -458,19 +458,19 @@
 	
 	<xsl:template match="del">
 		<xsl:choose>
-			<xsl:when test="del[@rend='red']">
+			<xsl:when test="@rend='red'">
 				<span style='color:#B33B24;text-decoration:line-through'><span style='color:black'><xsl:apply-templates/></span></span>
 			</xsl:when>
-			<xsl:when test="del[@rend='gray']">
+			<xsl:when test="@rend='gray'">
 				<span style='color:gray;text-decoration:line-through'><span style='color:black'><xsl:apply-templates/></span></span>
 			</xsl:when>
-			<xsl:when test="add[@rend='red']/del[@hand='#DL']">
+			<xsl:when test="@hand='#DL' and parent::add[@rend='red']/..">
 				<span style='color:black;text-decoration:line-through'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
 			</xsl:when>
-			<xsl:when test="add[@rend='gray']/del[@hand='#DL']">
+			<xsl:when test="@hand='#DL' and parent::add[@rend='gray']/..">
 				<span style='color:black;text-decoration:line-through'><span style='color:gray'><xsl:apply-templates/></span></span>
 			</xsl:when>		
-			<xsl:when test="add[@rend='red'][descendant::note]/del[@hand='#DL']">
+			<xsl:when test="@hand='#DL' and parent::add[@rend='red'][descendant::note]/..">
 				<span style='color:black;text-decoration:line-through'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
 			</xsl:when>
 			<xsl:otherwise>
