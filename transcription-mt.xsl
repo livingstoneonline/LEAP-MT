@@ -432,7 +432,7 @@
 		</span>
 	</xsl:template>
 
-	<xsl:template match="del">
+	<!--  <xsl:template match="del">
 		<span class="del cancelled">
 			<xsl:if test="@*">
 				<xsl:attribute name="title">
@@ -447,7 +447,7 @@
 			</xsl:if>
 			<xsl:apply-templates/>
 		</span>
-	</xsl:template>
+	</xsl:template>-->
 
 	<xsl:template match="del[following-sibling::add[@place='over-text']]" priority="10">
 		<span class="del-by-over-text" title="Text deleted by over-writing"><xsl:apply-templates/></span>
@@ -455,8 +455,49 @@
 	
 	
 	<!-- added for MT: words deleted by another hand in another colour -->
-
-	<xsl:template match="del[@rend='red']">
+	
+	<xsl:template match="del">
+		<xsl:choose>
+			<xsl:when test="del[@rend='red']">
+				<span style='color:#B33B24;text-decoration:line-through'><span style='color:black'><xsl:apply-templates/></span></span>
+			</xsl:when>
+			<xsl:when test="del[@rend='gray']">
+				<span style='color:gray;text-decoration:line-through'><span style='color:black'><xsl:apply-templates/></span></span>
+			</xsl:when>
+			<xsl:when test="add[@rend='red']/del[@hand='#DL']">
+				<span style='color:black;text-decoration:line-through'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
+			</xsl:when>
+			<xsl:when test="add[@rend='gray']/del[@hand='#DL']">
+				<span style='color:black;text-decoration:line-through'><span style='color:gray'><xsl:apply-templates/></span></span>
+			</xsl:when>		
+			<xsl:when test="add[@rend='red'][descendant::note]/del[@hand='#DL']">
+				<span style='color:black;text-decoration:line-through'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
+			</xsl:when>
+			<xsl:otherwise>
+				<span class="del cancelled">
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'etion, ')"/>
+							<xsl:for-each select="@*">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					<xsl:apply-templates/>
+				</span>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>	
+	
+	
+	
+	
+	
+	
+	  <!--  <xsl:template match="del[@rend='red']">
 		<span style='color:#B33B24;text-decoration:line-through'><span style='color:black'><xsl:apply-templates/></span></span>
 	</xsl:template>
 
@@ -558,7 +599,7 @@
 	
 	<xsl:template match="add[@rend='gray'][descendant::note]/del[@rend='red']">
 		<span style='color:#B33B24;text-decoration:line-through'><span style='color:gray'><xsl:apply-templates/></span></span>
-	</xsl:template>
+	</xsl:template>-->
 
 
 	<!-- added for MT: words highlighted in another colour-->
@@ -1226,10 +1267,10 @@
 	</span>
 	</xsl:template>
 
-	<!--  <xsl:template match="metamark [@function='reorder']" priority="8">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to transpose a portion of text from one place to another"><xsl:text> </xsl:text>
+	<xsl:template match="metamark [@function='reorder']" priority="10">
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to transpose a portion of text from one place to another"><xsl:text>⎨</xsl:text>
 		</span>
-		</xsl:template>-->
+		</xsl:template>
 
 	<xsl:template match="metamark[@function='stet']" priority="8">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial notation instructing that a deleted portion of text should be retained"><xsl:apply-templates/>
@@ -1299,27 +1340,19 @@
 	
 
 <!-- attempt at using 'flag' -->
-	<xsl:template match="metamark
-		[contains(@rend, 'red'), (@function, 'flag'), @resp, @place]
-		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+	<xsl:template match="metamark[contains(@rend, 'red')][contains(@function, 'flag')][substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
 		<span class="metamark makeRed" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
 	</xsl:template>
 	
-	<xsl:template match="anchor
-		[@xml:id]
-		[contains(preceding::metamark/@spanTo, @xml:id, (@rend, 'red'))]">
+	<xsl:template match="anchor[@xml:id][contains(preceding::metamark/@spanTo, @xml:id)] ">
 		<span class="metamark makeRed" title="Editorial line, circle or bracket used to flag a portion of text">⎬</span>
 	</xsl:template>
 	
-	<xsl:template match="metamark
-		[contains(@rend, 'gray'), @function, @resp, @place]
-		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+	<xsl:template match="metamark[contains(@rend, 'gray')][contains(@function, 'flag')][substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
 		<span class="metamark makeGray" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
 	</xsl:template>
 	
-	<xsl:template match="anchor
-		[@xml:id]
-		[contains(preceding::metamark/@spanTo, @xml:id, (@rend, 'gray'))]">
+	<xsl:template match="anchor[@xml:id][contains(preceding::metamark/@spanTo, @xml:id)] ">
 		<span class="metamark makeGray" title="Editorial line, circle or bracket used to flag a portion of text">⎬</span>
 	</xsl:template>
 
