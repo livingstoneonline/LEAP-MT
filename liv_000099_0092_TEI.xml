@@ -99,7 +99,20 @@
 <pb facs="liv_000099_0092.jpg" n="0092"/>
 <lb/><p rend="no-indent"><note place="marginleft">V.</note> <fw><add place="inspace" hand="#U2" rend="gray">86</add> <add place="inspace" hand="#U1" rend="gray right">89</add></fw>
 <lb/><add place="inline" hand="#U2" rend="gray left"><note><unclear cert="low">Coultart</unclear></note></add><!-- possibly the name of the editor working on the manuscript.JL --> <space extent="2" unit="chars"/> =====</p>
-<lb/><p><note><add rend="red"><del hand="#DL">SAMPLE</del></add></note> In trying to benefit the tribes living
+	<lb/><p><note><add rend="red"><del hand="#DL">SAMPLE</del></add></note> 
+		<lb/><add rend="gray" hand="#U2"><del hand="#U2" rend="gray">gray word deleted in gray</del></add>
+		<lb/><del hand="#U2" rend="gray"><add rend="gray" hand="#U2">gray word deleted in gray</add></del> 
+		<lb/><add rend="red" hand="#U2"><del hand="#U2" rend="red">red word deleted in red</del></add> 
+		<lb/><del hand="#U2" rend="red"><add rend="red" hand="#U2">red word deleted in red</add></del>
+		<lb/><add rend="red"><del rend="gray">red word deleted in gray</del></add>
+		<lb/><del rend="gray"><add rend="red">red word deleted in gray</add></del>
+		<lb/><add rend="gray"><del rend="red">gray word deleted in red</del></add>
+		<lb/><del rend="red"><add rend="gray">gray word deleted in red</add></del>
+	
+	
+</p>
+	
+	<lb/><p>In trying to benefit the tribes living
 <lb/>under the <orgName>Boers</orgName> of the <placeName><geogName type="mountains"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice>
 <lb/>mountains</geogName></placeName> I performed twice
 <lb/>a journey of about <measure><subst><del><unclear cert="medium">230</unclear></del><add place="over-text">300</add></subst> <add place="above">300</add> miles</measure>
