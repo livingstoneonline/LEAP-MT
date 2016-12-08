@@ -471,16 +471,16 @@
 				<span style='color:black;text-decoration:line-through'><span style='color:gray'><xsl:apply-templates/></span></span>
 			</xsl:when>	
 			<xsl:when test="@rend='red' and parent::add[@rend='red']/..">
-				<span style='color:#B33B24;text-decoration:line-through' priority="10"><span style='color:#B33B24' priority="10"><xsl:apply-templates/></span></span>
+				<span style='color:#B33B24;text-decoration:line-through'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
 			</xsl:when>
 			<xsl:when test="@rend='gray' and parent::add[@rend='gray']/..">
-				<span style='color:gray;text-decoration:line-through' priority="10"><span style='color:gray' priority="10"><xsl:apply-templates/></span></span>
+				<span style='color:gray;text-decoration:line-through'><span style='color:gray'><xsl:apply-templates/></span></span>
 			</xsl:when>
 			<xsl:when test="@rend='red' and parent::add[@rend='gray']/..">
-				<span style='color:#B33B24;text-decoration:line-through' priority="10"><span style='color:gray' priority="10"><xsl:apply-templates/></span></span>
+				<span style='color:#B33B24;text-decoration:line-through'><span style='color:gray'><xsl:apply-templates/></span></span>
 			</xsl:when>
 			<xsl:when test="@rend='gray' and parent::add[@rend='red']/..">
-				<span style='color:gray;text-decoration:line-through' priority="10"><span style='color:#B33B24' priority="10"><xsl:apply-templates/></span></span>
+				<span style='color:gray;text-decoration:line-through'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
 			</xsl:when>
 			<xsl:when test="@hand='#DL' and parent::add[@rend='red'][descendant::note]/..">
 				<span style='color:black;text-decoration:line-through'><span style='color:#B33B24'><xsl:apply-templates/></span></span>

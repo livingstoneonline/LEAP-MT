@@ -108,6 +108,7 @@
 		<lb/><del rend="gray"><add rend="red">red word deleted in gray</add></del>
 		<lb/><add rend="gray"><del rend="red">gray word deleted in red</del></add>
 		<lb/><del rend="red"><add rend="gray">gray word deleted in red</add></del>
+		<lb/><add place="marginleft"><del hand="#U3" rend="red">black word deleted in red</del></add>
 	
 	
 </p>
