@@ -521,117 +521,60 @@
 	
 
 
-	<!-- added for MT: words highlighted in another colour-->
-	<xsl:template match="hi[@rend='red underline']">
-		<span style='color:#B33B24;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="hi[@rend='gray underline']">
-		<span style='color:gray;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="hi[@rend='underline'][@hand='#DL']">
-		<span style='color:black;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='red']/hi[@rend='underline'][@hand='#DL']">
-		<span style='color:black;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='gray']/hi[@rend='underline'][@hand='#DL']">
-		<span style='color:black;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='red']/hi[@rend='red underline']">
-		<span style='color:#B33B24;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='gray']/hi[@rend='gray underline']">
-		<span style='color:gray;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
-	</xsl:template>
-
-	<xsl:template match="add[@rend='red']/hi[@rend='gray underline']">
-		<span style='color:gray;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='gray']/hi[@rend='red underline']">
-		<span style='color:#B33B24;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
-	</xsl:template>
-
-	<xsl:template match="note[ancestor::add]/hi[@rend='underline'][@hand='#DL']">
-		<span style='color:black;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[descendant::note]/hi[@rend='underline'][@hand='#DL']">
-		<span style='color:black;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
+	<!-- added for MT: words underlined in another colour-->
+	<xsl:template match="hi">
+		<xsl:choose>
+			<xsl:when test="@hand='#DL' and @rend='underline' and parent::add[@rend='red']/..">
+				<span style='color:black;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
+			</xsl:when>
+			<xsl:when test="@hand='#DL' and @rend='underline' and parent::add[@rend='gray']/..">
+				<span style='color:black;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@rend='red underline' and parent::add[@rend='red']/..">
+				<span style='color:#B33B24;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@rend='gray underline' and parent::add[@rend='gray']/..">
+				<span style='color:gray;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@rend='gray underline' and parent::add[@rend='red']/..">
+				<span style='color:gray;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@rend='red underline' and parent::add[@rend='gray']/..">
+				<span style='color:#B33B24;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@hand='#DL' and @rend='underline' and parent::note[ancestor::add[@rend='red']]/..">
+				<span style='color:black;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
+			</xsl:when>
+			<xsl:when test="@hand='#DL' and @rend='underline' and parent::note[ancestor::add[@rend='gray']]/..">
+				<span style='color:black;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@rend='red underline' and parent::note[ancestor::add[@rend='red']]/..">
+				<span style='color:#B33B24;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@rend='gray underline' and parent::note[ancestor::add[@rend='gray']]/..">
+				<span style='color:gray;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@rend='gray underline' and parent::note[ancestor::add[@rend='red']]/..">
+				<span style='color:gray;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@rend='red underline' and parent::note[ancestor::add[@rend='gray']]/..">
+				<span style='color:#B33B24;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@rend='red underline'">
+				<span style='color:#B33B24;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
+			</xsl:when>
+			<xsl:when test="@rend='gray underline'">
+				<span style='color:gray;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
+			</xsl:when>
+			<xsl:otherwise>
+				<span class="underline">
+					<xsl:apply-templates/>
+				</span>
+			</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>	
 	
-	<xsl:template match="note[ancestor::add]/hi[@rend='red underline']">
-		<span style='color:#B33B24;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[descendant::note]/hi[@rend='red underline']">
-		<span style='color:#B33B24;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="note[ancestor::add]/hi[@rend='gray underline']">
-		<span style='color:gray;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[descendant::note]/hi[@rend='gray underline']">
-		<span style='color:gray;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="note[ancestor::add[@rend='red']]/hi[@rend='underline'][@hand='#DL']">
-		<span style='color:black;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='red'][descendant::note]/hi[@rend='underline'][@hand='#DL']">
-		<span style='color:black;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="note[ancestor::add[@rend='gray']]/hi[@rend='underline'][@hand='#DL']">
-		<span style='color:black;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='gray'][descendant::note]/hi[@rend='underline'][@hand='#DL']">
-		<span style='color:black;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="note[ancestor::add[@rend='red']]/hi[@rend='red underline']">
-		<span style='color:#B33B24;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='red'][descendant::note]/hi[@rend='red underline']">
-		<span style='color:#B33B24;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="note[ancestor::add[@rend='gray']]/hi[@rend='gray underline']">
-		<span style='color:gray;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='gray'][descendant::note]/hi[@rend='gray underline']">
-		<span style='color:gray;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="note[ancestor::add[@rend='red']]/hi[@rend='gray underline']" priority="10">
-		<span style='color:gray;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='red'][descendant::note]/hi[@rend='gray underline']" priority="10">
-		<span style='color:gray;text-decoration:underline'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="note[ancestor::add[@rend='gray']]/hi[@rend='red underline']">
-		<span style='color:#B33B24;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	<xsl:template match="add[@rend='gray'][descendant::note]/hi[@rend='red underline']">
-		<span style='color:#B33B24;text-decoration:underline'><span style='color:gray'><xsl:apply-templates/></span></span>
-	</xsl:template>
-	
-	
-	
+
 	
 	<!-- added for 1870 FD -->
 	<xsl:template match="desc"><span class="figure" title="{../desc}">{text description}</span></xsl:template>
