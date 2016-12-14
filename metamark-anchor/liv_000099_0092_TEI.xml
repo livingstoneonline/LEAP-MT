@@ -103,6 +103,9 @@
 <lb/>more and more text 
 <lb/>yet more TEST2-END<anchor xml:id="test2"/>
 </p>
+<lb/><p rend="no-indent">
+<metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-193"/>some words to be transposed to another part of the page<anchor xml:id="meta-193"/>
+<lb/></p>
 
 </div>
 </body>
