@@ -1120,7 +1120,7 @@
 		</span>
 	</xsl:template>
 
-	<xsl:template match="metamark[@function='placeMark']" priority="8">
+	<xsl:template match="metamark[@function='placeMark']" priority="10">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to mark the editor's place in the text">/<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
