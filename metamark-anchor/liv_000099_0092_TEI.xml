@@ -105,8 +105,8 @@
 </p>
 <lb/><p rend="no-indent">
 <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-193"/>some words to be transposed to another part of the page<anchor xml:id="meta-193"/>
-<lb/>
-<add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName><unclear cert="medium">Wilkes</unclear></persName></note></hi></add>
+<lb/><add place="marginleft" rend="red" hand="#U2"><hi rend="underline"><note><persName><unclear cert="medium">Wilkes</unclear></persName></note></hi></add>
+	<lb/><add place="inline" rend="red" hand="#U2"><hi rend="underline"><note><persName><unclear cert="medium">Wilkes</unclear></persName></note></hi></add>
 </p>
 
 </div>
