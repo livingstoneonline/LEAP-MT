@@ -587,7 +587,7 @@ p{
 .margintop.right{
 }
 .true{
-	display:inline-block;
+	/*display:inline-block;*/
 }/*Goes with standalone <note>s*/
 
 
