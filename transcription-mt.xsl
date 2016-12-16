@@ -1088,7 +1088,7 @@
 		</span>
 	</xsl:template>
 	
-	<xsl:template match="metamark[@function='ed-mark']" priority="8">
+	<xsl:template match="metamark[@function='ed-mark']" priority="10">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to point to or highlight a particular portion of text"><xsl:apply-templates/>
 		</span>
 	</xsl:template>
@@ -1098,12 +1098,10 @@
 		</span>
 	</xsl:template>
 	
-	
 	<xsl:template match="metamark [@function='let-stand']" priority="9">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to indicate that a deleted word or phrase should be retained"><xsl:text> </xsl:text>
 		</span>
 		</xsl:template>
-	
 	
 	<xsl:template match="metamark[@function='newParagraph']" priority="8">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to indicate a new paragraph">
@@ -1116,7 +1114,7 @@
 		</span>
 	</xsl:template>
 	
-	<xsl:template match="metamark[@function='placeMark']" priority="8">
+	<xsl:template match="metamark[@function='placeMark']" priority="10">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to mark the editor's place in the text">/<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
@@ -1125,10 +1123,6 @@
 	</span>
 	</xsl:template>
 	
-	<xsl:template match="metamark [@function='reorder']" priority="10">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to transpose a portion of text from one place to another"><xsl:text>⎨</xsl:text>
-		</span>
-	</xsl:template>
 	
 	<xsl:template match="metamark[@function='stet']" priority="8">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial notation instructing that a deleted portion of text should be retained"><xsl:apply-templates/>
@@ -1200,46 +1194,39 @@
 	
 	<xsl:template match="metamark
 		[contains(@function, 'flag')]
+		[substring-after(@spanTo, '#')= following::anchor/@xml:id]">
+		<span class="metamark {@rend}" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
+	</xsl:template>	
+	
+	<xsl:template match="metamark
+		[contains(@rend, 'gray') and contains(@function, 'flag')]
+		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+		<span class="metamark {@rend}" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
+	</xsl:template>
+	
+	<xsl:template match="metamark
+		[contains(@rend, 'red') and contains(@function, 'flag')]
+		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+		<span class="metamark {@rend}" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
+	</xsl:template>
+	
+	<xsl:template match="metamark
+		[contains(@function, 'reorder')]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="9">
-		<span class="metamark {@rend}" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
-	</xsl:template>
-	
-	<xsl:template match="metamark
-		[contains(@rend, 'gray')]
-		[contains(@function, 'flag')]
-		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
-		<span class="metamark {@rend}" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
-	</xsl:template>
-	
-	<xsl:template match="metamark
-		[contains(@rend, 'red')]
-		[contains(@function, 'flag')]
-		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
-		<span class="metamark {@rend}" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
-	</xsl:template>
-	
-	
-	<xsl:template match="metamark
-		[contains(@function, 'reorder')]
-		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="7">
 		<span class="metamark {@rend}" title="Editorial symbol used to transpose a portion of text from one place to another">⎨</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark
-		[contains(@rend, 'red')]
-		[contains(@function, 'reorder')]
+		[contains(@rend, 'red') and contains(@function, 'reorder')]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
 		<span class="metamark {@rend}" title="Editorial symbol used to transpose a portion of text from one place to another">⎨</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark
-		[contains(@rend, 'gray')]
-		[contains(@function, 'reorder')]
+		[contains(@rend, 'gray') and contains(@function, 'reorder')]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
 		<span class="metamark {@rend}" title="Editorial symbol used to transpose a portion of text from one place to another">⎨</span>
 	</xsl:template>
-	
-	
 	
 	<xsl:template match="anchor
 		[@xml:id]
@@ -1254,8 +1241,6 @@
 		</xsl:variable>
 		<span class="metamark {$metamark/@rend}" title="{$metamarkText}">⎬</span>
 	</xsl:template>
-	
-	
 	
 	<!-- End flag attempt -->
 
