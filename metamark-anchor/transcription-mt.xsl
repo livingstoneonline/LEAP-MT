@@ -1433,7 +1433,7 @@
 	</xsl:template>
 
 	<xsl:template match="note[ancestor::add[@place='marginleft']]" priority="10">
-		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place, ' ', 'marginleft')}">
+		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place)}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
