@@ -105,10 +105,14 @@
 </p>
 <lb/><p rend="no-indent">
 <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-193"/>some words to be transposed to another part of the page<anchor xml:id="meta-193"/>
-<lb/><add place="marginleft" rend="red" hand="#U2"><hi rend="underline"><note><persName><unclear cert="medium">Wilkes</unclear></persName></note></hi></add>
+	<lb/>
+	<lb/>
+	<lb/><add place="marginleft" rend="red" hand="#U2"><hi rend="underline"><note><persName>Wilkes</persName></note></hi></add>
 	<lb/><add place="inline" rend="red" hand="#U2"><hi rend="underline"><note><persName><unclear cert="medium">Wilkes</unclear></persName></note></hi></add>
 	<lb/><add place="marginleft" rend="red" hand="#U2"><del type="strikethrough"><note><persName><unclear cert="medium">Wilkes</unclear></persName></note></del></add>
-	<lb/><add place="above" rend="red" hand="#U2"><del type="strikethrough"><note><persName><unclear cert="medium">Wilkes</unclear></persName></note></del></add>
+	<lb/><add place="inline" rend="red" hand="#U2"><del type="strikethrough"><note><persName>Wilkes</persName></note></del></add>
+	<lb/><add place="marginleft"><hi rend="underline"><note>note on the left</note></hi></add>
+	
 
 
 </p>
