@@ -97,22 +97,29 @@
 <div>
 
 <pb facs="liv_000099_0092.jpg" n="0092"/>
-<lb/><p><metamark rend="red" function="flag" spanTo="#test1"/>TEST1-START lots of text follows
-<lb/>more and more text
-<lb/><metamark rend="gray" function="flag" spanTo="#test2"/>TEST2-START lots of text again follows TEST1-END<anchor xml:id="test1"/>
-<lb/>more and more text 
-<lb/>yet more TEST2-END<anchor xml:id="test2"/>
-</p>
-<lb/><p rend="no-indent">
-<metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-193"/>some words to be transposed to another part of the page<anchor xml:id="meta-193"/>
-	<lb/>
-	<lb/>
-	<lb/><add place="marginleft" rend="red" hand="#U2"><hi rend="underline"><note><persName>Wilkes</persName></note></hi></add>
-	<lb/><add place="inline" rend="red" hand="#U2"><hi rend="underline"><note><persName><unclear cert="medium">Wilkes</unclear></persName></note></hi></add>
-	<lb/><add place="marginleft" rend="red" hand="#U2"><del type="strikethrough"><note><persName><unclear cert="medium">Wilkes</unclear></persName></note></del></add>
-	<lb/><add place="inline" rend="red" hand="#U2"><del type="strikethrough"><note><persName>Wilkes</persName></note></del></add>
-	<lb/><add place="marginleft"><hi rend="underline"><note>note on the left</note></hi></add>
-	
+<lb/><p>//Cases of hi and del around note//
+<lb/>
+<lb/><add place="marginleft" rend="red" hand="#U3"><hi rend="underline"><note>red underlined note floating in the margin</note></hi></add>
+<lb/><add place="inline" rend="red" hand="#U3"><hi rend="underline"><note>underlined note appearing in the body of the text</note></hi></add>
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="strikethrough"><note>deleted red note floating in the margin</note></del></add>
+<lb/><add place="inline" rend="red" hand="#U3"><del type="strikethrough"><note>deleted red note appearing inline</note></del></add>
+<lb/><add place="marginleft"><hi rend="underline"><note>underlined black note floating on the left</note></hi></add>
+<lb/>	
+<lb/>
+<lb/>
+<lb/>
+<lb/>	
+<lb/>//Normal additions that shouldn't be affected any code changes//
+<lb/>
+<lb/><add place="marginleft" rend="red" hand="#U3"><hi rend="underline">red underlined addition from the margin left, but which appears in the body of the text in brackets</hi></add>
+<lb/><add place="inline" rend="red" hand="#U3"><hi rend="underline">underlined addition appearing in the body of the text</hi></add>
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="strikethrough">deleted red addition from the margin left, but which appears in the body of the text in brackets</del></add>
+<lb/><add place="inline" rend="red" hand="#U3"><del type="strikethrough">deleted red addition appearing in the body of the text</del></add>
+<lb/><add place="marginleft"><hi rend="underline">underlined black addition from the margin left, but which appears in the body of the text in brackets</hi></add>
+
+
+
+
 
 
 </p>
