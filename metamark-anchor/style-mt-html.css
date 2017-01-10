@@ -690,6 +690,11 @@ color:#B33B24;
 .makeGray{
 color:gray;
 }
+.metamark.placeMark{
+	font-style:italic;
+	border-bottom:1px gray dotted;
+	font-size: 2em;
+}
 .metamark.no-newParagraph{
 	font-style:italic;
 	border-bottom:1px gray dotted;

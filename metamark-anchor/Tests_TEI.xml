@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000099">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title>
+				<!-- This will change with each volume of the MS. -->
+				<author>David Livingstone</author>
+				<principal>Justin Livingstone</principal>
+				<respStmt xml:id="JL">
+					<name>Justin Livingstone</name>
+					<resp>Transcription and Encoding</resp>
+					<resp>Editorial Decisions</resp>
+				</respStmt>
+				<respStmt xml:id="AW">
+					<name>Adrian S. Wisnicki</name>
+					<resp>Encoding Consultant</resp>
+				</respStmt>
+				<respStmt xml:id="KS">
+					<name>Kate Simpson</name>
+					<resp>Transcription and Encoding</resp>
+				</respStmt>
+				<respStmt xml:id="JG">
+					<name>Johanna Green</name>
+					<resp>Transcription and Encoding</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Livingstone Online</authority>
+				<publisher>UCLA Digital Library</publisher>
+				<pubPlace>Los Angeles, CA, USA</pubPlace>
+				<!-- Possible year update. -->
+				<date>2014</date>
+				<availability>
+					<!-- Possible license change. -->
+					<licence target="https://creativecommons.orgName/licenses/by-nc/3.0/"> All materials are
+						licensed for use under the <ref target="https://creativecommons.orgName/licenses/by-nc/3.0/">
+						Creative Commons Attribution-Noncommercial 3.0 Unported License </ref>. (c) Dr. Neil Imray
+						Livingstone Wilson, 2014 </licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<country>United Kingdom</country>
+						<settlement>Edinburgh</settlement>
+						<repository>National Library of Scotland</repository>
+						<!-- This may change with each volume of the MS. -->
+						<idno type="shelfmark">MS.42428</idno>
+						<!-- This may change with each volume of the MS. -->
+						<altIdentifier>
+							<idno type="ccnumber">Books, 001</idno>
+							<!-- This may change with each volume of the MS. -->
+						</altIdentifier>
+					</msIdentifier>
+					<physDesc>
+						<handDesc>
+							<handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or
+								archivist, whose additions are normally limited to adding page numbers.</handNote>
+							<handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be
+								an editor or group of editors in the employment of the publisher, John Murray, making
+								corrections and additions in pencil.</handNote>
+							<!-- Change/expand as appropriate. See encoding manual #21. -->
+							<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be
+								an editor or group of editors in the employment of the publisher, John Murray, making
+								corrections and additions in red ink.</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+
+				<bibl type="sourceMetadata"> <title>Manuscript of "Missionary Travels and Researches in South
+					Africa" (Part I).</title><!-- This will change with each volume of the MS. --> <author
+					xml:id="DL">David Livingstone</author> <date type="composition" from="1857-01-01"
+					to="1857-10-31">January-October 1857</date> </bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="la">Latin</language>
+				<language ident="und">Unknown</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+			<change when="2016-02-05" who="#JL">Proofing and encoding review</change>
+			<change when="2014-11-20" who="#KS">Proofreading</change>
+			<change when="2014-09-15" who="#JG">Initial transcription and encoding</change>
+		</revisionDesc>
+	</teiHeader>
+
+<text>
+<body>
+<div>
+
+<pb facs="liv_000099_0092.jpg" n="0092"/>
+<lb/><p>//Cases of hi and del around note//
+<lb/>
+<lb/><add place="marginleft" rend="red" hand="#U3"><hi rend="underline"><note>red underlined note floating in the margin</note></hi></add>
+<lb/><add place="inline" rend="red" hand="#U3"><hi rend="underline"><note>underlined note appearing in the body of the text</note></hi></add>
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="strikethrough"><note>deleted red note floating in the margin</note></del></add>
+<lb/><add place="inline" rend="red" hand="#U3"><del type="strikethrough"><note>deleted red note appearing inline</note></del></add>
+<lb/><add place="marginleft"><hi rend="underline"><note>underlined black note floating on the left</note></hi></add>
+<lb/>	
+<lb/>
+<lb/>
+<lb/>
+<lb/>	
+<lb/>//Normal additions that shouldn't be affected any code changes//
+<lb/>
+<lb/><add place="marginleft" rend="red" hand="#U3"><hi rend="underline">red underlined addition from the margin left, but which appears in the body of the text in brackets</hi></add>
+<lb/><add place="inline" rend="red" hand="#U3"><hi rend="underline">underlined addition appearing in the body of the text</hi></add>
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="strikethrough">deleted red addition from the margin left, but which appears in the body of the text in brackets</del></add>
+<lb/><add place="inline" rend="red" hand="#U3"><del type="strikethrough">deleted red addition appearing in the body of the text</del></add>
+<lb/><add place="marginleft"><hi rend="underline">underlined black addition from the margin left, but which appears in the body of the text in brackets</hi></add>
+	<lb/>
+	<lb/>
+	<lb/>Further tests
+	<lb/>
+	<lb/>
+	<lb/>
+	<lb/><add place="marginleft" rend="gray" hand="#U2"><del hand="#DL"><note>gray note deleted in black in the margin</note></del></add>
+	<lb/><add place="marginleft" rend="gray" hand="#U2"><del hand="#DL">gray addition from margin, deleted in black, appearing in body in brackets</del></add>
+	<lb/><add place="marginleft" rend="red" hand="#U3"><del hand="#DL"><note>red note deleted in black in the margin</note></del></add>
+	<lb/><add place="marginleft" rend="red" hand="#U3"><del hand="#DL">red addition from margin, deleted in black, appearing in body in brackets</del></add>
+	<lb/><add place="marginleft" rend="gray" hand="#U2"><del hand="#U3" rend="red"><note><metamark function="ed-mark">X</metamark> gray note deleted in red in the margin</note></del></add>
+	<lb/><add place="marginleft" rend="gray" hand="#U2"><del hand="#U3" rend="red">gray addition from margin, deleted in red, appearing in body in brackets</del></add>
+	<lb/><add place="marginleft" rend="red" hand="#U3"><del hand="#U2" rend="gray"><note><metamark function="insertion"/>red note deleted in gray in the margin</note></del></add>
+	<lb/><add place="marginleft" rend="red" hand="#U3"><del hand="#U2" rend="gray">red addition from margin, deleted in gray, appearing in body in brackets</del></add>
+	<lb/>
+	<lb/>
+	<lb/>
+	<lb/><add place="marginleft" rend="gray" hand="#U2"><hi hand="#DL" rend="underline"><note>gray note underlined in black in the margin</note></hi></add>
+	<lb/><add place="marginleft" rend="gray" hand="#U2"><hi hand="#DL" rend="underline">gray addition from margin, underlined in black, appearing in body in brackets</hi></add>
+	<lb/><add place="marginleft" rend="red" hand="#U3"><hi hand="#DL" rend="underline"><note>red note underlined in black in the margin</note></hi></add>
+	<lb/><add place="marginleft" rend="red" hand="#U3"><hi hand="#DL" rend="underline">red addition from margin, underlined in black, appearing in body in brackets</hi></add>
+	<lb/><add place="marginleft" rend="gray" hand="#U2"><hi hand="#U3" rend="red underline"><note>gray note underlined in red in the margin</note></hi></add>
+	<lb/><add place="marginleft" rend="gray" hand="#U2"><hi hand="#U3" rend="red underline">gray addition from margin, underlined in red, appearing in body in brackets</hi></add>
+	<lb/><add place="marginleft" rend="red" hand="#U3"><hi hand="#U2" rend="gray underline"><note>red note underlined in gray in the margin</note></hi></add>
+	<lb/><add place="marginleft" rend="red" hand="#U3"><hi hand="#U2" rend="gray underline"><metamark function="ed-mark">X</metamark> red addition from margin, underlined in gray, appearing in body in brackets</hi></add>
+	
+	
+
+
+
+
+
+
+</p>
+
+</div>
+</body>
+</text>
+
+</TEI>
