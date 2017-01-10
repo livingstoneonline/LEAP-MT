@@ -383,7 +383,7 @@ p{
 .note.marginleft{
 	margin-left:-12em;
 	text-indent:0;	
-	float:left;
+	/*float:left;*/
 	text-align:left;
 }
 .note.marginright{
