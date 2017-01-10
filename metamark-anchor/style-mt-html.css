@@ -378,12 +378,13 @@ p{
 }
 .addmargin{	
 	margin-left:0 !important;
+	float:none !important;
 }
 .marginleft.marginleft,
 .note.marginleft{
 	margin-left:-12em;
 	text-indent:0;	
-	/*float:left;*/
+	float:left;
 	text-align:left;
 }
 .note.marginright{
