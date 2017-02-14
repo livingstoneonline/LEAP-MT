@@ -60,6 +60,26 @@ div.body{
 	display:block;
 	padding-bottom:2.4em;
 }
+.CL{
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:1em; 
+	color:green; 
+	font-style:italic; 
+}
+.DL{
+    font-family:"source sans pro", calibri, arial, helvetica, sans-serif;
+	font-size:1em; 
+	color:black;
+    font-style: normal;
+}
+.U1{
+    font-style: normal;
+}
+
+.U2{
+    font-style: normal;
+}
+
 .front,
 .back{
 	display:block;
@@ -372,8 +392,17 @@ p{
 .fw.catch.right{
 	text-indent:0;
 }
+.add.marginleft{
+	text-indent:0;	
+	margin-left:0;
+}
+.addmargin{	
+	margin-left:0 !important;
+	float:none !important;
+}
+.marginleft.marginleft,
 .note.marginleft{
-	margin-left:-12em !important;
+	margin-left:-12em;
 	text-indent:0;	
 	float:left;
 	text-align:left;
@@ -663,6 +692,13 @@ p{
 	font-style:italic;
 	border-bottom:1px gray dotted;
 	font-size: 1.1em;
+	
+}
+.metamark.transposition{
+	font-style:italic;
+	border-bottom:1px gray dotted;
+	font-size: 0.8em !important;
+
 }
 .metamark.red{
     color:#B33B24;

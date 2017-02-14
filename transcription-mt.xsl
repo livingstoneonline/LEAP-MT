@@ -156,10 +156,11 @@
 	</xsl:template>
 
 	<xsl:template match="div">
-		<div class="{concat(name(), ' ', translate(@rend, '-', ''))}">
+		<div class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@resp, '-', ''))}">
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
+
 
 	<xsl:template match="div/div">
 		<br/><br/><div class="{concat(name(), ' ', translate(@rend, '-', ''))}">
@@ -300,11 +301,11 @@
 	<!-- For "abbr" see above -->
 
 	<xsl:template match="add">
-			<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''))}">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}">
 			<xsl:apply-templates/></span>
 	</xsl:template>
 
-	<xsl:template match="add[@place='marginleft']|add[@place='marginright']" priority="9">
+	<xsl:template match="add[@place='marginleft']|add[@place='marginright']|add[@place='marginbottom']" priority="9">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'addmargin')}"> [<xsl:apply-templates/>] </span>
 	</xsl:template>
 
@@ -349,7 +350,7 @@
 	</xsl:template>
 
 	<xsl:template match="retrace[@hand='#DL']">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'DL')}" title="Text added by editor, retraced by Livingstone.">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'DL')}" title="Text added in another colour, retraced in black by Livingstone.">
 			<xsl:apply-templates/></span>
 	</xsl:template>
 	
@@ -1285,24 +1286,27 @@
 	</xsl:template>
 
 	<xsl:template match="note">
-		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place, ' ', @anchored)}"
+		<span class="{concat(name(), ' ', @type, ' ', @anchored, ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}"
 			>[<xsl:apply-templates/>]</span>
 	</xsl:template>
 
+
+
+
 	<xsl:template match="note[ancestor::add[@place='marginleft']]" priority="10">
-		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place, ' ', 'marginleft')}">
+		<span class="{concat(name(), ' ', @type, ' ', @anchored, ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
 
 	<xsl:template match="add[@place='marginleft'][descendant::note]" priority="10">
-		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place, ' ', 'marginleft')}">
+		<span class="{concat(name(), ' ', @type, ' ', @anchored, ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
 
 	<xsl:template match="p/note" priority="8">
-		<span class="{concat(name(), ' ', @type, ' ', @rend, ' ', @place)}"><xsl:apply-templates/></span>
+		<span class="{concat(name(), ' ', @type, ' ', @anchored, ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}"><xsl:apply-templates/></span>
 	</xsl:template>
 
 	<xsl:template match="opener">
