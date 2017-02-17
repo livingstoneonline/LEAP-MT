@@ -459,6 +459,12 @@
 	
 	<xsl:template match="del">
 		<xsl:choose>
+			<xsl:when test="@n='DL' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
+				<span style='color:black;text-decoration:line-through'><span style='color:green'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@n='CL' and ancestor::div[@n='DL']"><!-- This is controlling the strikethrough in another color -->
+				<span style='color:green;text-decoration:line-through'><span style='color:black'><xsl:apply-templates/></span></span>
+			</xsl:when>	
 			<xsl:when test="@hand='#DL' and parent::add[@rend='red']/..">
 				<span style='color:black;text-decoration:line-through'><span style='color:#B33B24'><xsl:apply-templates/></span></span>
 			</xsl:when>
