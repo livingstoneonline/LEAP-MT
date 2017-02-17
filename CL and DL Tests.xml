@@ -101,30 +101,30 @@
 
 <!-- A div in CL's hand, with additions in DL's. -->
 
-<div resp="#CL">
+<div hand="#CL" n="CL">
 
 <!-- p.503, Missionary Travels, sh -->
 <pb facs="liv_000101_0152.jpg" n="0152"/>
 <lb/><p rend="no-indent"><note place="inspace above" hand="#U1" rend="gray">P. 503-532</note> <fw><add place="inspace" hand="#U1" rend="gray right">147</add></fw>
-<lb/><note place="inline" hand="#DL">XLVII</note> So <add place="below">^</add> <add place="above">in accordance with <choice><abbr>'</abbr><expan>the</expan></choice> advice <choice><abbr>`</abbr><expan>of</expan></choice> my <term type="tribe">Libonta</term> friends</add> I did not fail to reprove <add place="inline" hand="#DL">"</add>my child <subst><del type="cancelled" hand="#DL">on this <unclear cert="low">but</unclear></del><add place="above" hand="#DL"><persName>Sekeletu</persName>"</add></subst>
-<lb/>for his marauding <del type="strikethrough" hand="#DL">acts</del> <space extent="2" unit="chars"/>This was not done in an angry manner
-<lb/>for no <subst><del><gap extent="4" unit="chars"/></del><add place="over-text" hand="#DL">good</add></subst> is ever achieved by fierce denunciation <space extent="3" unit="chars"/><persName><choice><orig>Motib<subst><del hand="#DL">a</del><add place="over-text" hand="#DL">e</add></subst></orig><reg>Motibe</reg></choice></persName><del type="cancelled" hand="#DL">'s</del>
+<lb/><note place="inline" hand="#DL" n="DL">XLVII</note> So <add place="below">^</add> <add place="above">in accordance with <choice><abbr>'</abbr><expan>the</expan></choice> advice <choice><abbr>`</abbr><expan>of</expan></choice> my <term type="tribe">Libonta</term> friends</add> I did not fail to reprove <add place="inline" hand="#DL" n="DL">"</add>my child <subst><del type="cancelled" hand="#DL" n="DL">on this <unclear cert="low">but</unclear></del><add place="above" hand="#DL" n="DL"><persName>Sekeletu</persName>"</add></subst>
+<lb/>for his marauding <del type="strikethrough" hand="#DL" n="DL">acts</del> <space extent="2" unit="chars"/>This was not done in an angry manner
+<lb/>for no <subst><del><gap extent="4" unit="chars"/></del><add place="over-text" hand="#DL" n="DL">good</add></subst> is ever achieved by fierce denunciation <space extent="3" unit="chars"/><persName><choice><orig>Motib<subst><del hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></orig><reg>Motibe</reg></choice></persName><del type="cancelled" hand="#DL" n="DL">'s</del>
 <lb/><del type="cancelled">fat</del> his father in law said to me "Scold him much but <choice><sic>dont</sic><corr>don't</corr></choice>
 <lb/>let others hear you". </p>
 <lb/><p><space extent="20" unit="chars"/>The <term type="tribe">Makololo</term> expressed great
-<lb/>satisfaction with <choice><abbr>'</abbr><expan>the</expan></choice> route <metamark function="insertion" resp="#DL"/><anchor xml:id="reorder-99"/> to the West <metamark function="reorder" resp="#DL" spanTo="#meta-235"/><seg corresp="#reorder-99"> we had opened up</seg><anchor xml:id="meta-235"/>
+<lb/>satisfaction with <choice><abbr>'</abbr><expan>the</expan></choice> route <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-99"/> to the West <metamark function="reorder" resp="#DL" n="DL" spanTo="#meta-235"/><seg corresp="#reorder-99"> we had opened up</seg><anchor xml:id="meta-235"/>
 <lb/>and soon after our arrival a <foreign xml:lang="tn">Picho</foreign> was called in order to discuss
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> question of removal to <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">Barotse valley</geogName></placeName> <del type="strikethrough">in order</del> <add place="below">^</add> <add place="above">so that they might</add> <del type="cancelled">to</del> be nearer
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> market <space extent="3" unit="chars"/>Some of <choice><abbr>'</abbr><expan>the</expan></choice> older men objected to abandoning <choice><abbr>'</abbr><expan>the</expan></choice> line
 <lb/><choice><abbr>`</abbr><expan>of</expan></choice> defence afforded by <choice><abbr>'</abbr><expan>the</expan></choice> <del type="strikethrough">river</del> <placeName><geogName type="river">Chobe</geogName></placeName> and <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> against their
-<lb/>southern enemies the <term type="tribe">Matebele</term> <space extent="3" unit="chars"/>The <term type="tribe">Makololo</term> <add place="below" hand="#DL">^</add> <add place="above" hand="#DL">generally</add> have
+<lb/>southern enemies the <term type="tribe">Matebele</term> <space extent="3" unit="chars"/>The <term type="tribe">Makololo</term> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">generally</add> have
 
 </p>
 
 </div>
             
 <!-- sample div in DL's hand with additions by Charles. -->
-            <div resp="#DL">
+            <div hand="#DL" n="DL">
 
 <pb facs="liv_000101_0155.jpg" n="0155"/>
 <lb/><p><space dim="vertical" extent="10" unit="lines"/>
@@ -146,21 +146,21 @@
 <lb/>long laboured with <del type="cancelled">the</del> most <subst><del type="cancelled">marvellous</del><add place="above">astonishing</add></subst> <w>devoted<supplied>-</supplied>
 <lb break="no"/>ness</w> and <add place="below">^</add> <add place="above">never flagging</add> zeal - There the <term type="ailment">fevers</term> are much
 <lb/>more virulent <del type="cancelled"><subst><del>than</del><add place="over-text">and</add></subst></del> <add place="above">&amp;</add> more speedily fatal
-<lb/><add hand="#CL" place="above">Some words added by Charles Livingstone</add> <del type="strikethrough" hand="#CL">some words of DL's deleted by Charles</del>.
-<lb/><subst><del hand="#CL">some words</del><add hand="#CL" place="over-text">overwritten by Charles</add></subst>
+<lb/><add hand="#CL" n="CL" place="above">Some words added by Charles Livingstone</add> <del type="strikethrough" hand="#CL" n="CL">some words of DL's deleted by Charles</del>.
+<lb/><subst><del hand="#CL" n="CL">some words</del><add hand="#CL" n="CL" place="over-text">overwritten by Charles</add></subst>
 
 </p> 
             </div>
            
-<div resp="#CL">
+<div hand="#CL" n="CL">
 
 <pb facs="liv_000101_0158.jpg" n="0158"/>
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">150</add></fw>
 <lb/>Return to a div in Charles's hand
-<lb/>with <add place="below" hand="#DL">^</add> <add place="above" hand="#DL">some words of DL's words added above.</add>
-<lb/>Here, there are some words <del type="strikethrough" hand="#DL">of Charles's deleted by Livingstone</del> and then a few words <subst><del hand="#DL">of CL's which are</del><add place="over-text" hand="#DL">substituted by DL</add></subst>
-<lb/>And then we have a portion of text <metamark function="flag" resp="#DL" spanTo="#meta-236"/>flagged by DL<anchor xml:id="meta-236"/>
-<lb/>And the rare instance of DL's words <add place="above" hand="#DL" rend="gray">written in gray</add>
+<lb/>with <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">some words of DL's words added above.</add>
+<lb/>Here, there are some words <del type="strikethrough" hand="#DL" n="DL">of Charles's deleted by Livingstone</del> and then a few words <subst><del hand="#DL" n="DL">of CL's which are</del><add place="over-text" hand="#DL" n="DL">substituted by DL</add></subst>
+<lb/>And then we have a portion of text <metamark function="flag" resp="#DL" n="DL" spanTo="#meta-236"/>flagged by DL<anchor xml:id="meta-236"/>
+<lb/>And the rare instance of DL's words <add place="above" hand="#DL" n="DL" rend="gray">written in gray</add>
 </p>
 </div>
 

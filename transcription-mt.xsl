@@ -156,20 +156,20 @@
 	</xsl:template>
 
 	<xsl:template match="div">
-		<div class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@resp, '-', ''))}">
+		<div class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@resp, '-', ''), ' ', translate(@n, '-', ''))}">
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
 
 
 	<xsl:template match="div/div">
-		<br/><br/><div class="{concat(name(), ' ', translate(@rend, '-', ''))}">
+		<br/><br/><div class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@n, '-', ''))}">
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
 
 	<xsl:template match="div[preceding-sibling::div][child::pb[1]]">
-		<br/><div class="{concat(name(), ' ', translate(@rend, '-', ''))}">
+		<br/><div class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@n, '-', ''))}">
 			<xsl:apply-templates/>
 		</div>
 	</xsl:template>
@@ -301,39 +301,39 @@
 	<!-- For "abbr" see above -->
 
 	<xsl:template match="add">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@n, '-', ''))}">
 			<xsl:apply-templates/></span>
 	</xsl:template>
 
 	<xsl:template match="add[@place='marginleft']|add[@place='marginright']|add[@place='marginbottom']" priority="9">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'addmargin')}"> [<xsl:apply-templates/>] </span>
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'addmargin')}"> [<xsl:apply-templates/>] </span>
 	</xsl:template>
 
 	<xsl:template match="add[@place='over-text']">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''))}" title="Addition written over existing text">{<xsl:apply-templates/>}</span>
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''))}" title="Addition written over existing text">{<xsl:apply-templates/>}</span>
 	</xsl:template>
 
 	<xsl:template match="opener/add">
 		<span
-			class="opener-add {concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''))}">
+			class="opener-add {concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''))}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
 
 	<xsl:template match="add[@rend='gray right'][preceding-sibling::add[@rend='gray center']]" priority="9">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'add-right')}">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'add-right')}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
 
 	<xsl:template match="add[@rend='gray right'][preceding-sibling::add[@rend='gray right']]" priority="10">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'right-right')}">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'right-right')}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
 
 	<!--<xsl:template match="//note[parent::add[@place='marginleft']]" priority="10">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'marginleft')}">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'marginleft')}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>-->
@@ -1079,69 +1079,69 @@
 <!-- added for MT: metamarks alphabetized by @function -->
 
 	<xsl:template match="metamark[@function='close-space']" priority="8">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to indicate that the space between words should be reduced">︹<xsl:text> </xsl:text>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to indicate that the space between words should be reduced">︹<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark[@function='deletion']" priority="10">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to mark a deletion"
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to mark a deletion"
 			>&#x20B0;<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark[@function='ed-mark']" priority="10">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to point to or highlight a particular portion of text"><xsl:apply-templates/>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to point to or highlight a particular portion of text"><xsl:apply-templates/>
 		</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark[@function='insertion']" priority="10">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to mark an insertion from another place on the page">&#x21aa;<xsl:text> </xsl:text>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to mark an insertion from another place on the page">&#x21aa;<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark [@function='let-stand']" priority="9">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to indicate that a deleted word or phrase should be retained"><xsl:text> </xsl:text>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to indicate that a deleted word or phrase should be retained"><xsl:text> </xsl:text>
 		</span>
 		</xsl:template>
 	
 	<xsl:template match="metamark[@function='newParagraph']" priority="8">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to indicate a new paragraph">
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to indicate a new paragraph">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark[@function='no-newParagraph']" priority="10">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to close the space between paragraphs">&#x285;<xsl:text> </xsl:text>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to close the space between paragraphs">&#x285;<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark[@function='placeMark']" priority="10">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to mark the editor's place in the text">/<xsl:text> </xsl:text>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to mark the editor's place in the text">/<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
 	
-	<xsl:template match="metamark[@function='query']" priority="8"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial notation querying a portion of text"><xsl:apply-templates/>
+	<xsl:template match="metamark[@function='query']" priority="8"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial notation querying a portion of text"><xsl:apply-templates/>
 	</span>
 	</xsl:template>
 	
 	
 	<xsl:template match="metamark[@function='stet']" priority="8">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial notation instructing that a deleted portion of text should be retained"><xsl:apply-templates/>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial notation instructing that a deleted portion of text should be retained"><xsl:apply-templates/>
 		</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark[@function='substitution']" priority="8">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol used to indicate the substitution of one character or word for another, and sometimes to mark an insertion"><xsl:apply-templates/>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to indicate the substitution of one character or word for another, and sometimes to mark an insertion"><xsl:apply-templates/>
 		</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark[@function='transposition']" priority="8">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial instruction to transpose a portion of text from one place to another"><xsl:apply-templates/>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial instruction to transpose a portion of text from one place to another"><xsl:apply-templates/>
 		</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark[@function='unknown']" priority="10">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function)}" title="Editorial symbol with an unknown function">#<xsl:text> </xsl:text>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol with an unknown function">#<xsl:text> </xsl:text>
 		</span>
 	</xsl:template>
 
@@ -1184,7 +1184,7 @@
 					<xsl:text>Editorial instruction to transpose a portion of text from one place to another</xsl:text>
 				</xsl:if>
 			</xsl:variable>
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', 'second-margin-metamark')}"
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n, ' ', 'second-margin-metamark')}"
 			title="{$title}"><xsl:apply-templates/></span>
 	</xsl:template>
 	
@@ -1300,7 +1300,7 @@
 	</xsl:template>
 
 	<xsl:template match="add[@place='marginleft'][descendant::note]" priority="10">
-		<span class="{concat(name(), ' ', @type, ' ', @anchored, ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}">
+		<span class="{concat(name(), ' ', @type, ' ', @anchored, ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@n, '-', ''))}">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
