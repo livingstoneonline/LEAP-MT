@@ -23,7 +23,7 @@
                     <resp>Transcription and Encoding</resp>
                 </respStmt>
                 <respStmt xml:id="JG">
-                    <name>Johanna Green</name>
+                    <name>Johanna brown</name>
                     <resp>Transcription and Encoding</resp>
                 </respStmt>
                 <respStmt xml:id="PS">
@@ -105,7 +105,7 @@
 
 <!-- p.503, Missionary Travels, sh -->
 <pb facs="liv_000101_0152.jpg" n="0152"/>
-<lb/><p rend="no-indent"><note place="inspace above" hand="#U1" rend="gray">P. 503-532</note> <fw><add place="inspace" hand="#U1" rend="gray right">147</add></fw>
+<lb/><p rend="no-indent"><note place="inspace above" hand="#U1" n="U1" rend="gray">P. 503-532</note> <fw><add place="inspace" hand="#U1" n="U1" rend="gray right">147</add></fw>
 <lb/><note place="inline" hand="#DL" n="DL">XLVII</note> So <add place="below">^</add> <add place="above">in accordance with <choice><abbr>'</abbr><expan>the</expan></choice> advice <choice><abbr>`</abbr><expan>of</expan></choice> my <term type="tribe">Libonta</term> friends</add> I did not fail to reprove <add place="inline" hand="#DL" n="DL">"</add>my child <subst><del type="cancelled" hand="#DL" n="DL">on this <unclear cert="low">but</unclear></del><add place="above" hand="#DL" n="DL"><persName>Sekeletu</persName>"</add></subst>
 <lb/>for his marauding <del type="strikethrough" hand="#DL" n="DL">acts</del> <space extent="2" unit="chars"/>This was not done in an angry manner
 <lb/>for no <subst><del><gap extent="4" unit="chars"/></del><add place="over-text" hand="#DL" n="DL">good</add></subst> is ever achieved by fierce denunciation <space extent="3" unit="chars"/><persName><choice><orig>Motib<subst><del hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></orig><reg>Motibe</reg></choice></persName><del type="cancelled" hand="#DL" n="DL">'s</del>
@@ -118,6 +118,18 @@
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> market <space extent="3" unit="chars"/>Some of <choice><abbr>'</abbr><expan>the</expan></choice> older men objected to abandoning <choice><abbr>'</abbr><expan>the</expan></choice> line
 <lb/><choice><abbr>`</abbr><expan>of</expan></choice> defence afforded by <choice><abbr>'</abbr><expan>the</expan></choice> <del type="strikethrough">river</del> <placeName><geogName type="river">Chobe</geogName></placeName> and <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> against their
 <lb/>southern enemies the <term type="tribe">Matebele</term> <space extent="3" unit="chars"/>The <term type="tribe">Makololo</term> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">generally</add> have
+    <lb/><del type="cancelled" rend="gray" hand="#U2" n="U2">brown words deleted in gray</del>
+    <lb/><del type="cancelled" rend="red" hand="#U2" n="U2">brown words deleted in red</del>
+    <lb/><note hand="#DL" n="DL">some words in black</note>
+    <lb/><note place="marginleft" hand="#DL" n="DL">some words in black</note>
+    <lb/> <add place="marginleft" rend="gray" hand="#U2" n="U2">some gray words</add>  
+    <lb/><add place="marginleft" rend="red" hand="#U3">some red words</add>  
+    <lb/><hi rend="red underline" hand="#U2" n="U2">brown words underlined in red</hi>
+    <lb/><hi rend="gray underline" hand="#U2" n="U2">brown words underlined in gray</hi>
+    <lb/><hi rend="underline" hand="#DL" n="DL">brown words underlined in black</hi>
+    <lb/><note place="marginleft"><hi rend="gray underline" hand="#U2" n="U2">brown words underlined in gray</hi></note>
+    <lb/><note><hi rend="underline" hand="#DL" n="DL">brown words underlined in black</hi></note>
+    
 
 </p>
 
@@ -134,11 +146,15 @@
 <lb/>more lines in Livingstone's hand...
 <lb/>more lines written in Livingstone hand...
 <lb/>more lines written in Livingstone hand...<metamark function="reorder" resp="#CL" n="CL" spanTo="#meta-235a"/><seg corresp="#reorder-99a">CL metamark</seg><anchor xml:id="meta-235a"/>
-<lb/>more lines written in Livingstone hand...</p>
+<lb/>more lines written in Livingstone hand...
+    <lb/> <lb/><del type="cancelled" rend="gray" hand="#U2" n="U2">black words deleted in gray</del>
+    <lb/><del type="cancelled" rend="red" hand="#U2" n="U2">black words deleted in red</del>
+    <lb/><add place="marginleft" rend="gray" hand="#U1">some gray words</add>
+    <lb/><add place="marginleft" rend="red" hand="#U3">some red words</add></p>
 
 
 <pb facs="liv_000101_0156.jpg" n="0156"/><!-- DL div continues -->
-<lb/><fw><add place="inspace" hand="#U1" rend="gray right">149</add></fw>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">149</add></fw>
 <lb/><p>I believe that the <placeName><region>Interior</region></placeName> of this country presents a
 <lb/>much more inviting field for the <term type="occupation">Philanthropist</term>
 <lb/>than does the West coast where <term type="occupation">missionaries</term>
@@ -148,6 +164,9 @@
 <lb/>more virulent <del type="cancelled"><subst><del>than</del><add place="over-text">and</add></subst></del> <add place="above">&amp;</add> more speedily fatal
 <lb/><add hand="#CL" n="CL" place="above">Some words added by Charles Livingstone</add> <del type="strikethrough" hand="#CL" n="CL">some words of DL's deleted by Charles</del>.
 <lb/><subst><del hand="#CL" n="CL">some words</del><add hand="#CL" n="CL" place="over-text">overwritten by Charles</add></subst>
+    <lb/><hi rend="red underline" hand="#U2" n="U2">black words underlined in red</hi>
+    <lb/><hi rend="gray underline" hand="#U2" n="U2">black words underlined in gray</hi>
+
 
 </p> 
             </div>
@@ -155,7 +174,7 @@
 <div hand="#CL" n="CL">
 
 <pb facs="liv_000101_0158.jpg" n="0158"/>
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">150</add></fw>
+<lb/><p><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">150</add></fw>
 <lb/>Return to a div in Charles's hand
 <lb/>with <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">some words of DL's words added above.</add>
 <lb/>Here, there are some words <del type="strikethrough" hand="#DL" n="DL">of Charles's deleted by Livingstone</del> and then a few words <subst><del hand="#DL" n="DL">of CL's which are</del><add place="over-text" hand="#DL" n="DL">substituted by DL</add></subst>
