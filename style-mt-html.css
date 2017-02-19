@@ -79,6 +79,12 @@ div.body{
 .U2{
     font-style: normal;
 }
+.U5{
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:1em; 
+	color:#936541; 
+	font-style:italic; 
+}
 
 .front,
 .back{
@@ -439,7 +445,22 @@ p{
     color:black;
     border-bottom:1px gray dotted;
 }
-
+.retrace.CL{
+    color:#746553;
+    border-bottom:1px gray dotted;
+}
+.retrace.CL .add{
+    color:#746553;
+    border-bottom:1px gray dotted;
+}
+.retrace.U5{
+    color:#936541 !important;
+    border-bottom:1px gray dotted;
+}
+.retrace.U5 .add{
+    color:#936541 !important;
+    border-bottom:1px gray dotted;
+}
 .retrace.red .add{
     color:#B33B24 !important;
 }

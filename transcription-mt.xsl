@@ -448,11 +448,17 @@
 	
 	<xsl:template match="del">
 		<xsl:choose>
-			<xsl:when test="@n='DL' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
-				<span style='color:black;text-decoration:line-through'><span style='color:#746553'><xsl:apply-templates/></span></span>
-			</xsl:when>	
+			<xsl:when test="@n='DL' and ancestor::div[@n='U5']"><!-- This is controlling the strikethrough in another color -->
+				<span style='color:black;text-decoration:line-through'><span style='color:#936541'><xsl:apply-templates/></span></span>
+			</xsl:when>
+			<xsl:when test="@rend='gray' and ancestor::div[@n='U5']"><!-- This is controlling the strikethrough in another color -->
+				<span style='color:gray;text-decoration:line-through'><span style='color:#936541'><xsl:apply-templates/></span></span>
+			</xsl:when>
 			<xsl:when test="@n='CL' and ancestor::div[@n='DL']"><!-- This is controlling the strikethrough in another color -->
 				<span style='color:#746553;text-decoration:line-through'><span style='color:black'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@n='DL' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
+				<span style='color:black;text-decoration:line-through'><span style='color:#746553'><xsl:apply-templates/></span></span>
 			</xsl:when>	
 			<xsl:when test="@rend='gray' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
 				<span style='color:gray;text-decoration:line-through'><span style='color:#746553'><xsl:apply-templates/></span></span>
@@ -570,6 +576,12 @@
 			</xsl:when>	
 			<xsl:when test="@rend='gray underline' and ancestor::div[@hand='#CL']/..">
 				<span style='color:gray;text-decoration:underline'><span style='color:#746553'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@hand='#DL' and @rend='underline' and ancestor::div[@hand='#U5']/..">
+				<span style='color:black;text-decoration:underline'><span style='color:#936541'><xsl:apply-templates/></span></span>
+			</xsl:when>	
+			<xsl:when test="@rend='gray underline' and ancestor::div[@hand='#U5']/..">
+				<span style='color:gray;text-decoration:underline'><span style='color:#936541'><xsl:apply-templates/></span></span>
 			</xsl:when>	
 			<xsl:when test="@rend='red underline'">
 				<span style='color:#B33B24;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
@@ -1504,6 +1516,16 @@
 	
 	<xsl:template match="retrace[@hand='#DL']">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'DL')}" title="Text added in another colour, retraced in black by Livingstone.">
+			<xsl:apply-templates/></span>
+	</xsl:template>
+	
+	<xsl:template match="retrace[@hand='#CL']">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'CL')}" title="Text added in another colour, retraced by Charles Livingstone.">
+			<xsl:apply-templates/></span>
+	</xsl:template>
+	
+	<xsl:template match="retrace[@hand='#U5']">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', 'U5')}" title="Text added in another colour, retraced in brown by Livingstone's amanuensis.">
 			<xsl:apply-templates/></span>
 	</xsl:template>
 
