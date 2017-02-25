@@ -696,6 +696,9 @@ p{
 
 
 /* 12. Misc */
+.dashed{
+    border-bottom:3px dashed;
+}
 
 .figure{
 	margin-left:0;

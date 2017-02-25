@@ -41,6 +41,7 @@
 				<!--<link type="text/css" rel="stylesheet" href="http://jamescummings.github.io/LEAP/style.css"/>-->
 			</head>
 			<body>
+				<xsl:text>&#xA;</xsl:text>
 				<xsl:apply-templates select="TEI"/>
 			</body>
 		</html>
@@ -1121,10 +1122,10 @@
 		</span>
 	</xsl:template>
 	
-	<xsl:template match="metamark [@function='let-stand']" priority="9">
+	<!--  <xsl:template match="metamark [@function='let-stand']" priority="9">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to indicate that a deleted word or phrase should be retained"><xsl:text> </xsl:text>
 		</span>
-		</xsl:template>
+		</xsl:template> -->
 	
 	<xsl:template match="metamark[@function='newParagraph']" priority="8">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to indicate a new paragraph">
@@ -1266,6 +1267,26 @@
 	</xsl:template>
 	
 	<!-- End flag attempt -->
+
+
+	<xsl:template match="metamark[contains(@function, 'let-stand')]">
+		<xsl:element name="span">
+			<xsl:attribute name="class" select="'dashed'"/>
+			<xsl:variable name="termId" select="substring(@spanTo, 2)"/>
+			<xsl:variable name="srcRange" select="following-sibling::node()
+				[following-sibling::anchor[@xml:id=$termId]]"/>
+			<xsl:apply-templates select="$srcRange"/>
+		</xsl:element>
+		<xsl:text>&#xA;</xsl:text>
+	</xsl:template>
+	
+	<xsl:template match="main">
+		<xsl:apply-templates select="metamark"/>
+	</xsl:template>
+
+	<xsl:template match="@*|node()">
+		<xsl:copy><xsl:apply-templates select="@*|node()"/></xsl:copy>
+	</xsl:template>
 
 
 	<!--<xsl:template match="metamark"><span class="metamark italic" title="Editorial symbol, mark, or unusual character"

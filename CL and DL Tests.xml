@@ -129,6 +129,8 @@
     <lb/><hi rend="underline" hand="#DL" n="DL">brown words underlined in black</hi>
     <lb/><note place="marginleft"><hi rend="gray underline" hand="#U2" n="U2">brown words underlined in gray</hi></note>
     <lb/><note><hi rend="underline" hand="#DL" n="DL">brown words underlined in black</hi></note>
+    <lb/><add hand="#DL" place="below" rend="gray">gray words added by DL</add>
+    <lb/><retrace hand="#DL" rend="black"><add hand="#U3" place="marginleft" rend="red">red words retraced in black</add></retrace>
     
 
 </p>
@@ -166,6 +168,9 @@
 <lb/><subst><del hand="#CL" n="CL">some words</del><add hand="#CL" n="CL" place="over-text">overwritten by Charles</add></subst>
     <lb/><hi rend="red underline" hand="#U2" n="U2">black words underlined in red</hi>
     <lb/><hi rend="gray underline" hand="#U2" n="U2">black words underlined in gray</hi>
+    <lb/><metamark function="flag" spanTo="#meta-379"/>hello<anchor xml:id="meta-379"/>
+    <lb/><metamark function="let-stand" spanTo="#meta-380"/>hello<anchor xml:id="meta-380"/>
+    
 
 
 </p> 
