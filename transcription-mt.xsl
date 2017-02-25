@@ -1266,19 +1266,34 @@
 		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}">⎬</span>
 	</xsl:template>
 	
+	
+	
 	<!-- End flag attempt -->
 
 
-	<xsl:template match="metamark[contains(@function, 'let-stand')]">
+	<xsl:template match="metamark[contains(@function, 'let-stand')][substring-after(@spanTo, '#')= following::anchor/@xml:id]">
 		<xsl:element name="span">
 			<xsl:attribute name="class" select="'dashed'"/>
-			<xsl:variable name="termId" select="substring(@spanTo, 2)"/>
-			<xsl:variable name="srcRange" select="following-sibling::node()
-				[following-sibling::anchor[@xml:id=$termId]]"/>
-			<xsl:apply-templates select="$srcRange"/>
 		</xsl:element>
 		<xsl:text>&#xA;</xsl:text>
 	</xsl:template>
+	
+	<xsl:template match="metamark[contains(@function, 'let-stand') and contains(@rend, 'gray')][substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+		<xsl:element name="span">
+			<xsl:attribute name="class" select="'dashed-gray'"/>
+		</xsl:element>
+		<xsl:text>&#xA;</xsl:text>
+	</xsl:template>
+	
+	<xsl:template match="metamark[contains(@function, 'let-stand') and contains(@rend, 'red')][substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+		<xsl:element name="span">
+			<xsl:attribute name="class" select="'dashed-red'"/>
+		</xsl:element>
+		<xsl:text>&#xA;</xsl:text>
+	</xsl:template>
+	
+	
+	
 	
 	<xsl:template match="main">
 		<xsl:apply-templates select="metamark"/>

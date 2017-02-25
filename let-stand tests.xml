@@ -107,7 +107,13 @@
 <pb facs="liv_000101_0152.jpg" n="0152"/>
 <p>
 <lb/><metamark function="flag" spanTo="#meta-379"/>words flagged<anchor xml:id="meta-379"/>
-<lb/><metamark function="let-stand" spanTo="#meta-380"/>words to be retained<anchor xml:id="meta-380"/>
+    <lb/>    <metamark function="flag" spanTo="#meta-381"/>words flagged<anchor xml:id="meta-381"/>
+    <lb/><metamark function="flag" spanTo="#meta-382" rend="red"/>words flagged<anchor xml:id="meta-382"/>
+    <lb/><metamark function="flag" spanTo="#meta-383" rend="gray"/>words flagged<anchor xml:id="meta-383"/>
+    <lb/>    
+<lb/><metamark function="let-stand" spanTo="#meta-380"/><del type="strikethrough" hand="#U2">words to be retained</del><anchor xml:id="meta-380"/>
+    <lb/><metamark function="let-stand" rend="gray" spanTo="#meta-384"/><del type="strikethrough" hand="#U2" rend="gray">words to be retained</del><anchor xml:id="meta-384"/>
+    <lb/><metamark function="let-stand" rend="red" spanTo="#meta-385"/><del type="strikethrough" hand="#U2">words to be retained</del><anchor xml:id="meta-385"/>
     
 
 
