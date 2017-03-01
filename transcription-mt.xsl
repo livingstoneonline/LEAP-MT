@@ -1265,6 +1265,21 @@
 		</xsl:variable>
 		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}">⎬</span>
 	</xsl:template>
+
+	<!-- This one works specifically with let-stand. -->
+	<xsl:template match="anchor
+		[@xml:id]
+		[preceding::metamark[@function='let-stand']/@spanTo = concat('#', @xml:id)]" priority="10">
+		<xsl:variable name="id" select="@xml:id"/>
+		<xsl:variable name="metamark" select="preceding::metamark[concat('#', $id)=@spanTo][1]"/>
+		<xsl:variable name="metamarkText">
+			<xsl:choose>
+				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'flag')]"><xsl:text>Editorial line, circle or bracket used to flag a portion of text</xsl:text></xsl:when>
+				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'reorder')]"><xsl:text>Editorial symbol used to transpose a portion of text from one place to another</xsl:text></xsl:when>
+			</xsl:choose>
+		</xsl:variable>
+		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}"></span>
+	</xsl:template>
 	
 	
 	
