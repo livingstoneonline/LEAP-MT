@@ -1274,8 +1274,7 @@
 		<xsl:variable name="metamark" select="preceding::metamark[concat('#', $id)=@spanTo][1]"/>
 		<xsl:variable name="metamarkText">
 			<xsl:choose>
-				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'flag')]"><xsl:text>Editorial line, circle or bracket used to flag a portion of text</xsl:text></xsl:when>
-				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'reorder')]"><xsl:text>Editorial symbol used to transpose a portion of text from one place to another</xsl:text></xsl:when>
+				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'let-stand')]"><xsl:text>Editorial symbol used to indicate that a deleted word or phrase should be retained</xsl:text></xsl:when>
 			</xsl:choose>
 		</xsl:variable>
 		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}"></span>
@@ -1287,7 +1286,7 @@
 
 
 	<xsl:template match="metamark[contains(@function, 'let-stand')][substring-after(@spanTo, '#')= following::anchor/@xml:id]">
-		<xsl:variable name="let-stand">Some nice text to pop up x 1</xsl:variable>
+		<xsl:variable name="let-stand">Editorial symbol used to indicate that a deleted word or phrase should be retained</xsl:variable>
 		<xsl:element name="span">
 			<xsl:attribute name="class" select="'dashed'"/>
 			<xsl:attribute name="title" select="$let-stand"/>
@@ -1296,7 +1295,7 @@
 	</xsl:template>
 	
 	<xsl:template match="metamark[contains(@function, 'let-stand') and contains(@rend, 'gray')][substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
-		<xsl:variable name="let-stand">Some nice text to pop up x 2</xsl:variable>
+		<xsl:variable name="let-stand">Editorial symbol used to indicate that a deleted word or phrase should be retained</xsl:variable>
 		<xsl:element name="span">
 			<xsl:attribute name="class" select="'dashed-gray'"/>
 			<xsl:attribute name="title" select="$let-stand"/>
@@ -1305,7 +1304,7 @@
 	</xsl:template>
 	
 	<xsl:template match="metamark[contains(@function, 'let-stand') and contains(@rend, 'red')][substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
-		<xsl:variable name="let-stand">Some nice text to pop up x 3</xsl:variable>
+		<xsl:variable name="let-stand">Editorial symbol used to indicate that a deleted word or phrase should be retained</xsl:variable>
 		<xsl:element name="span">
 			<xsl:attribute name="class" select="'dashed-red'"/>
 			<xsl:attribute name="title" select="$let-stand"/>

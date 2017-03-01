@@ -705,6 +705,15 @@ p{
 .dashed-gray{
     border-bottom:2px gray dashed;
 }
+.dashed-red .metamark{
+font-size:1em !important;
+}
+.dashed-gray .metamark{
+font-size:1em !important;
+}
+.dashed .metamark{
+font-size:1em !important;
+}
 
 .figure{
 	margin-left:0;
@@ -722,7 +731,6 @@ p{
 	font-style:italic;
 	border-bottom:1px gray dotted;
 	font-size: 1.1em;
-	
 }
 .metamark.transposition{
 	font-style:italic;
