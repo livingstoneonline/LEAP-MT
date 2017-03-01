@@ -1287,22 +1287,28 @@
 
 
 	<xsl:template match="metamark[contains(@function, 'let-stand')][substring-after(@spanTo, '#')= following::anchor/@xml:id]">
+		<xsl:variable name="let-stand">Some nice text to pop up x 1</xsl:variable>
 		<xsl:element name="span">
 			<xsl:attribute name="class" select="'dashed'"/>
+			<xsl:attribute name="title" select="$let-stand"/>
 		</xsl:element>
 		<xsl:text>&#xA;</xsl:text>
 	</xsl:template>
 	
 	<xsl:template match="metamark[contains(@function, 'let-stand') and contains(@rend, 'gray')][substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+		<xsl:variable name="let-stand">Some nice text to pop up x 2</xsl:variable>
 		<xsl:element name="span">
 			<xsl:attribute name="class" select="'dashed-gray'"/>
+			<xsl:attribute name="title" select="$let-stand"/>
 		</xsl:element>
 		<xsl:text>&#xA;</xsl:text>
 	</xsl:template>
 	
 	<xsl:template match="metamark[contains(@function, 'let-stand') and contains(@rend, 'red')][substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+		<xsl:variable name="let-stand">Some nice text to pop up x 3</xsl:variable>
 		<xsl:element name="span">
 			<xsl:attribute name="class" select="'dashed-red'"/>
+			<xsl:attribute name="title" select="$let-stand"/>
 		</xsl:element>
 		<xsl:text>&#xA;</xsl:text>
 	</xsl:template>
