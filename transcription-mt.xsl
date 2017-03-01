@@ -1297,7 +1297,7 @@
 	<xsl:template match="metamark[contains(@function, 'let-stand') and contains(@rend, 'gray')][substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
 		<xsl:variable name="let-stand">Editorial symbol used to indicate that a deleted word or phrase should be retained</xsl:variable>
 		<xsl:element name="span">
-			<xsl:attribute name="class" select="'dashed-gray'"/>
+			<!--<xsl:attribute name="class" select="'dashed-gray'"/>-->
 			<xsl:attribute name="title" select="$let-stand"/>
 		</xsl:element>
 		<xsl:text>&#xA;</xsl:text>
