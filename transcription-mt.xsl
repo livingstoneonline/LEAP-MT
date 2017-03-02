@@ -1277,7 +1277,7 @@
 				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'let-stand')]"><xsl:text>Editorial symbol used to indicate that a deleted word or phrase should be retained</xsl:text></xsl:when>
 			</xsl:choose>
 		</xsl:variable>
-		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}"></span>
+		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}"></span><xsl:text disable-output-escaping="yes">&lt;/span&gt;</xsl:text><xsl:text disable-output-escaping="yes">&lt;/span&gt;</xsl:text>
 	</xsl:template>
 	
 	

@@ -107,16 +107,20 @@
 <lb/><metamark function="flag" spanTo="#meta-379"/>words flagged<anchor xml:id="meta-379"/>
 <lb/><metamark function="reorder" spanTo="#meta-381"/>words for reordering<anchor xml:id="meta-381"/>
 <lb/><metamark function="flag" spanTo="#meta-382" rend="red"/>words flagged<anchor xml:id="meta-382"/>
-<lb/><metamark function="reorder" spanTo="#meta-383" rend="gray"/>words for reordering<anchor xml:id="meta-383"/></p>
+<lb/><metamark function="reorder" spanTo="#meta-383" rend="gray"/>words for reordering<anchor xml:id="meta-383"/>
 <lb/>
 <lb/><!-- test cases of 'let-stand'.-->    
-<lb/><p><metamark function="let-stand" spanTo="#meta-380"/><del type="strikethrough">words to be retained</del><anchor xml:id="meta-380"/> <!-- normal case - black words underlined with black dashed line --></p>
-<lb/><p><metamark function="let-stand" rend="gray" resp="#U2" spanTo="#meta-386"/><del type="strikethrough">words to be retained</del><anchor xml:id="meta-386"/><!-- black words underlined with gray dashed line --></p>
-<lb/><p><metamark function="let-stand" rend="red" resp="#U3" spanTo="#meta-387"/><del type="strikethrough">words to be retained</del><anchor xml:id="meta-387"/> <!-- black words underlined with red dashed line --></p>
-<lb/><p><metamark function="let-stand" rend="gray" spanTo="#meta-384"/><del type="strikethrough" hand="#U2" rend="red">words to be retained</del><anchor xml:id="meta-384"/></p> <!-- black words deleted in red, underlined with gray dashed line -->
-<lb/><p><metamark function="let-stand" rend="red" spanTo="#meta-385"/><del type="strikethrough" hand="#U3" rend="gray">words to be retained</del><anchor xml:id="meta-385"/></p> <!-- black words deleted in gray, underlined with red dashed line -->
+<lb/><metamark function="let-stand" spanTo="#meta-380"/><del type="strikethrough">words to be retained</del><anchor xml:id="meta-380"/> <!-- normal case - black words underlined with black dashed line -->
+<lb/>some text
+<lb/><metamark function="let-stand" rend="gray" resp="#U2" spanTo="#meta-386"/><del type="strikethrough">words to be retained</del><anchor xml:id="meta-386"/><!-- black words underlined with gray dashed line -->
+<lb/>some text
+<lb/><metamark function="let-stand" rend="red" resp="#U3" spanTo="#meta-387"/><del type="strikethrough">words to be retained</del><anchor xml:id="meta-387"/> <!-- black words underlined with red dashed line -->
+<lb/>some text
+<lb/><metamark function="let-stand" rend="gray" spanTo="#meta-384"/><del type="strikethrough" hand="#U2" rend="red">words to be retained</del><anchor xml:id="meta-384"/> <!-- black words deleted in red, underlined with gray dashed line -->
+<lb/>some text
+<lb/><metamark function="let-stand" rend="red" spanTo="#meta-385"/><del type="strikethrough" hand="#U3" rend="gray">words to be retained</del><anchor xml:id="meta-385"/> <!-- black words deleted in gray, underlined with red dashed line -->
     
-           
+</p>      
 </div>
 
 </body>
