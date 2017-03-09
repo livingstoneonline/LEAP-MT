@@ -289,7 +289,7 @@
 	<!-- Alphabetical list of elements. Alphabetized by last element in path *or* first element among options. -->
 
 	<xsl:template match="ab|p">
-		<p class="{concat(name(), ' ', translate(@rend, '-', ''))}">
+		<p class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@n, '-', ''))}">
 			<xsl:apply-templates/>
 		</p>
 	</xsl:template>
@@ -423,22 +423,6 @@
 		</span>
 	</xsl:template>
 
-	<!--  <xsl:template match="del">
-		<span class="del cancelled">
-			<xsl:if test="@*">
-				<xsl:attribute name="title">
-					<xsl:value-of select="concat(name(), 'etion, ')"/>
-					<xsl:for-each select="@*">
-						<xsl:sort/>
-						<xsl:if test="not(name()='status')">
-							<xsl:value-of select="concat(name(),': ', ., '; ')"/>
-						</xsl:if>
-					</xsl:for-each>
-				</xsl:attribute>
-			</xsl:if>
-			<xsl:apply-templates/>
-		</span>
-	</xsl:template>-->
 
 	<xsl:template match="del[following-sibling::add[@place='over-text']]" priority="10">
 		<span class="del-by-over-text" title="Text deleted by over-writing"><xsl:apply-templates/></span>
@@ -530,6 +514,57 @@
 	
 	
 
+	
+	<!-- added for 1870 FD -->
+	<xsl:template match="desc"><span class="figure" title="{../desc}">{text description}</span></xsl:template>
+
+	<!-- For "div" see above -->
+
+	<!-- For "expan" see above -->
+
+	<!-- For "facsimile" see above -->
+
+	<!-- For "front" see above -->
+
+	<!--<xsl:template match="figure">
+		<xsl:choose>
+		<xsl:when test="head">
+			<span class="figure" title="{concat('&quot;', head, '.&quot; ', figDesc)}">{figure}</span>
+		</xsl:when>
+		<xsl:otherwise>
+			<span class="figure" title="{figDesc}">{figure}</span>
+		</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>--><!-- Replaced with templated provided by James Cummings -->
+
+	<xsl:template match="figure">
+		<!-- newFigDesc goes away and applies templates to content to get it into a single dedupped string -->
+		<xsl:variable name="newFigDesc">
+			<xsl:apply-templates select="figDesc" mode="normalizeFigDesc"/>
+		</xsl:variable>
+		<xsl:variable name="graphicURL">
+			<xsl:apply-templates select="..//@url"/>
+		</xsl:variable>
+		<xsl:choose>
+			<xsl:when test="head and $newFigDesc/text()">
+				<span class="{concat(name(), ' ', @rend, ' ', @place)}" title="{concat('&quot;', head, '.&quot; ', $newFigDesc)}">{figure}</span>
+			</xsl:when>
+			<xsl:when test="head and not($newFigDesc/text())">
+				<span class="{concat(name(), ' ', @rend, ' ', @place)}" title="{concat('&quot;', head, '.&quot; ')}">{figure}</span>
+			</xsl:when>
+			<xsl:when test="not(head) and $newFigDesc/text()">
+				<span class="{concat(name(), ' ', @rend, ' ', @place)}" title="{$newFigDesc}">{figure}</span>
+			</xsl:when>
+			<xsl:when test="..//graphic">
+				<span class="graphic"><a href="{$graphicURL}"><img src="{$graphicURL}" style="width:100%;"/></a></span>
+			</xsl:when>
+			<xsl:otherwise>
+				<span class="{concat(name(), ' ', @rend, ' ', @place)}">{figure}</span>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+
+
 	<!-- added for MT: words underlined in another colour-->
 	<xsl:template match="hi">
 		<xsl:choose>
@@ -597,57 +632,7 @@
 			</xsl:otherwise>
 		</xsl:choose>
 	</xsl:template>	
-	
 
-	
-	<!-- added for 1870 FD -->
-	<xsl:template match="desc"><span class="figure" title="{../desc}">{text description}</span></xsl:template>
-
-	<!-- For "div" see above -->
-
-	<!-- For "expan" see above -->
-
-	<!-- For "facsimile" see above -->
-
-	<!-- For "front" see above -->
-
-	<!--<xsl:template match="figure">
-		<xsl:choose>
-		<xsl:when test="head">
-			<span class="figure" title="{concat('&quot;', head, '.&quot; ', figDesc)}">{figure}</span>
-		</xsl:when>
-		<xsl:otherwise>
-			<span class="figure" title="{figDesc}">{figure}</span>
-		</xsl:otherwise>
-		</xsl:choose>
-	</xsl:template>--><!-- Replaced with templated provided by James Cummings -->
-
-	<xsl:template match="figure">
-		<!-- newFigDesc goes away and applies templates to content to get it into a single dedupped string -->
-		<xsl:variable name="newFigDesc">
-			<xsl:apply-templates select="figDesc" mode="normalizeFigDesc"/>
-		</xsl:variable>
-		<xsl:variable name="graphicURL">
-			<xsl:apply-templates select="..//@url"/>
-		</xsl:variable>
-		<xsl:choose>
-			<xsl:when test="head and $newFigDesc/text()">
-				<span class="{concat(name(), ' ', @rend, ' ', @place)}" title="{concat('&quot;', head, '.&quot; ', $newFigDesc)}">{figure}</span>
-			</xsl:when>
-			<xsl:when test="head and not($newFigDesc/text())">
-				<span class="{concat(name(), ' ', @rend, ' ', @place)}" title="{concat('&quot;', head, '.&quot; ')}">{figure}</span>
-			</xsl:when>
-			<xsl:when test="not(head) and $newFigDesc/text()">
-				<span class="{concat(name(), ' ', @rend, ' ', @place)}" title="{$newFigDesc}">{figure}</span>
-			</xsl:when>
-			<xsl:when test="..//graphic">
-				<span class="graphic"><a href="{$graphicURL}"><img src="{$graphicURL}" style="width:100%;"/></a></span>
-			</xsl:when>
-			<xsl:otherwise>
-				<span class="{concat(name(), ' ', @rend, ' ', @place)}">{figure}</span>
-			</xsl:otherwise>
-		</xsl:choose>
-	</xsl:template>
 
 	<!-- Template passes through abbr, sic, and orig in figDesc in normalizeFigDesc mode -->
 	<xsl:template match="figDesc//abbr|figDesc//sic|figDesc//orig" mode="normalizeFigDesc">
@@ -1122,11 +1107,6 @@
 		</span>
 	</xsl:template>
 	
-	<!--  <xsl:template match="metamark [@function='let-stand']" priority="9">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to indicate that a deleted word or phrase should be retained"><xsl:text> </xsl:text>
-		</span>
-		</xsl:template> -->
-	
 	<xsl:template match="metamark[@function='newParagraph']" priority="8">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to indicate a new paragraph">
 			<xsl:apply-templates/>
@@ -1146,7 +1126,6 @@
 	<xsl:template match="metamark[@function='query']" priority="8"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial notation querying a portion of text"><xsl:apply-templates/>
 	</span>
 	</xsl:template>
-	
 	
 	<xsl:template match="metamark[@function='stet']" priority="8">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial notation instructing that a deleted portion of text should be retained"><xsl:apply-templates/>
@@ -1170,33 +1149,7 @@
 
 <!-- end list of metamarks alphabetized by @function -->
 
-	<!--
-
-<xsl:template match="metamark[@place='marginleft'] priority="10">
-	<xsl:choose>
-		<xsl:when test="[preceding-sibling::add[@place='marginleft']/note]">span with one kind of variable</xsl:when> 
-		<xsl:otherwise>other kind of variable</xsl:otherwise>
-	</xsl:choose>
-</xsl:template>
--->
-
-	<!-- Change all variables below here and correct title text -->
-	<!-- <xsl:template match="metamark[@place='marginleft'][preceding-sibling::add[@place='marginleft']/note]" priority="10">
-			<xsl:variable name="title">
-				<xsl:if test="@function='query'">
-					<xsl:text>Editorial notation querying a portion of text</xsl:text>
-				</xsl:if>
-				<xsl:if test="@function='deletion'">
-					<xsl:text>Editorial symbol used to mark a deletion</xsl:text>
-				</xsl:if>
-				<xsl:if test="@function='transposition'">
-					<xsl:text>Editorial instruction to transpose a portion of text from one place to another</xsl:text>
-				</xsl:if>
-			</xsl:variable>
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', 'alternate-margin-metamark')}"
-			title="{$title}"><xsl:apply-templates/></span>
-	</xsl:template>-->
-
+	<!-- added for MT: two marginal metamarks beside each other. -->
 	<!-- Add all necessary variables below  -->
 	<xsl:template match="metamark[@place='marginleft'][preceding-sibling::metamark[@place='marginleft']]" priority="9">
 			<xsl:variable name="title">
@@ -1212,10 +1165,9 @@
 	</xsl:template>
 	
 	
-
-	<!-- Metamarks using spanTo -->
+	<!-- added for MT: alphabetised metamarks using @spanTo -->
 	
-	
+	<!-- @function flag  -->
 	<xsl:template match="metamark
 		[contains(@function, 'flag')]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]">
@@ -1234,57 +1186,7 @@
 		<span class="metamark {@rend} {@n}" title="Editorial line, circle or bracket used to flag a portion of text">⎨</span>
 	</xsl:template>
 	
-	<xsl:template match="metamark
-		[contains(@function, 'reorder')]
-		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="9">
-		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">⎨</span>
-	</xsl:template>
-	
-	<xsl:template match="metamark
-		[contains(@rend, 'red') and contains(@function, 'reorder')]
-		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
-		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">⎨</span>
-	</xsl:template>
-	
-	<xsl:template match="metamark
-		[contains(@rend, 'gray') and contains(@function, 'reorder')]
-		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
-		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">⎨</span>
-	</xsl:template>
-	
-	<xsl:template match="anchor
-		[@xml:id]
-		[preceding::metamark/@spanTo = concat('#', @xml:id)]">
-		<xsl:variable name="id" select="@xml:id"/>
-		<xsl:variable name="metamark" select="preceding::metamark[concat('#', $id)=@spanTo][1]"/>
-		<xsl:variable name="metamarkText">
-			<xsl:choose>
-				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'flag')]"><xsl:text>Editorial line, circle or bracket used to flag a portion of text</xsl:text></xsl:when>
-				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'reorder')]"><xsl:text>Editorial symbol used to transpose a portion of text from one place to another</xsl:text></xsl:when>
-			</xsl:choose>
-		</xsl:variable>
-		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}">⎬</span>
-	</xsl:template>
-
-	<!-- This one works specifically with let-stand. -->
-	<xsl:template match="anchor
-		[@xml:id]
-		[preceding::metamark[@function='let-stand']/@spanTo = concat('#', @xml:id)]" priority="10">
-		<xsl:variable name="id" select="@xml:id"/>
-		<xsl:variable name="metamark" select="preceding::metamark[concat('#', $id)=@spanTo][1]"/>
-		<xsl:variable name="metamarkText">
-			<xsl:choose>
-				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'let-stand')]"><xsl:text>Editorial symbol used to indicate that a deleted word or phrase should be retained</xsl:text></xsl:when>
-			</xsl:choose>
-		</xsl:variable>
-		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}"></span><xsl:text disable-output-escaping="yes">&lt;/span&gt;</xsl:text><xsl:text disable-output-escaping="yes">&lt;/span&gt;</xsl:text>
-	</xsl:template>
-	
-	
-	
-	<!-- End flag attempt -->
-
-
+	<!-- @function let-stand -->
 	<xsl:template match="metamark[contains(@function, 'let-stand')][substring-after(@spanTo, '#')= following::anchor/@xml:id]">
 		<xsl:variable name="let-stand">Editorial symbol used to indicate that a deleted word or phrase should be retained</xsl:variable>
 		<xsl:element name="span">
@@ -1312,24 +1214,66 @@
 		<xsl:text>&#xA;</xsl:text>
 	</xsl:template>
 	
-	
-	
-	
+	<!-- added for metamark @function let-stand: see above -->
 	<xsl:template match="main">
 		<xsl:apply-templates select="metamark"/>
 	</xsl:template>
-
+	
 	<xsl:template match="@*|node()">
 		<xsl:copy><xsl:apply-templates select="@*|node()"/></xsl:copy>
 	</xsl:template>
-
-
-	<!--<xsl:template match="metamark"><span class="metamark italic" title="Editorial symbol, mark, or unusual character"
-		>#</span></xsl:template>-->
 	
-	<!--<xsl:template match="add[@place='marginleft']/metamark|add[@place='marginright']/metamark" priority="8">
-		<span class="metamark italic" title="Editorial symbol, mark, or unusual character">#</span>
-	</xsl:template>-->
+	
+	<!-- @function reorder -->
+	<xsl:template match="metamark
+		[contains(@function, 'reorder')]
+		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="9">
+		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">⎨</span>
+	</xsl:template>
+	
+	<xsl:template match="metamark
+		[contains(@rend, 'gray') and contains(@function, 'reorder')]
+		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">⎨</span>
+	</xsl:template>
+	
+	<xsl:template match="metamark
+		[contains(@rend, 'red') and contains(@function, 'reorder')]
+		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
+		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">⎨</span>
+	</xsl:template>
+	
+	<!-- anchor: to work with metamarks using @spanTo, @function 'flag' and 'reorder' -->
+	<xsl:template match="anchor
+		[@xml:id]
+		[preceding::metamark/@spanTo = concat('#', @xml:id)]">
+		<xsl:variable name="id" select="@xml:id"/>
+		<xsl:variable name="metamark" select="preceding::metamark[concat('#', $id)=@spanTo][1]"/>
+		<xsl:variable name="metamarkText">
+			<xsl:choose>
+				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'flag')]"><xsl:text>Editorial line, circle or bracket used to flag a portion of text</xsl:text></xsl:when>
+				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'reorder')]"><xsl:text>Editorial symbol used to transpose a portion of text from one place to another</xsl:text></xsl:when>
+			</xsl:choose>
+		</xsl:variable>
+		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}">⎬</span>
+	</xsl:template>
+
+	<!-- anchor: to work with metamark using @spanTo, @function 'let-stand'. -->
+	<xsl:template match="anchor
+		[@xml:id]
+		[preceding::metamark[@function='let-stand']/@spanTo = concat('#', @xml:id)]" priority="10">
+		<xsl:variable name="id" select="@xml:id"/>
+		<xsl:variable name="metamark" select="preceding::metamark[concat('#', $id)=@spanTo][1]"/>
+		<xsl:variable name="metamarkText">
+			<xsl:choose>
+				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'let-stand')]"><xsl:text>Editorial symbol used to indicate that a deleted word or phrase should be retained</xsl:text></xsl:when>
+			</xsl:choose>
+		</xsl:variable>
+		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}"></span><xsl:text disable-output-escaping="yes">&lt;/span&gt;</xsl:text><xsl:text disable-output-escaping="yes">&lt;/span&gt;</xsl:text>
+	</xsl:template>
+	
+	<!-- end metamarks using spanTo -->
+
 
 	<xsl:template match="milestone">
 		<xsl:choose>
@@ -1560,13 +1504,13 @@
 	</xsl:template>
 
 	<!-- added for MT: retrace -->
-	<xsl:template match="retrace[@rend='red']" priority="10">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}" title="Text retraced in red by an editor.">
+	<xsl:template match="retrace[@rend='gray']" priority="10">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}" title="Text retraced in gray by an editor.">
 			<xsl:apply-templates/></span>
 	</xsl:template>
 	
-	<xsl:template match="retrace[@rend='gray']" priority="10">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}" title="Text retraced in gray by an editor.">
+	<xsl:template match="retrace[@rend='red']" priority="10">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}" title="Text retraced in red by an editor.">
 			<xsl:apply-templates/></span>
 	</xsl:template>
 	
@@ -1585,6 +1529,7 @@
 			<xsl:apply-templates/></span>
 	</xsl:template>
 
+	<!-- end retrace -->
 
 
 	<xsl:template match="opener/salute">

@@ -15,7 +15,8 @@ Table of Contents
 10. Colors 
 11. Lists and Tables 
 12. Misc 
-
+13. Multiple hands
+14. Metamarks
 * /
 
 
@@ -60,32 +61,6 @@ div.body{
 	display:block;
 	padding-bottom:2.4em;
 }
-.CL{
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size:1em; 
-	color:#746553; 
-	font-style:italic; 
-}
-.DL{
-    font-family:"source sans pro", calibri, arial, helvetica, sans-serif;
-	font-size:1em; 
-	color:black;
-    font-style: normal;
-}
-.U1{
-    font-style: normal;
-}
-
-.U2{
-    font-style: normal;
-}
-.U5{
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
-	font-size:1em; 
-	color:#936541; 
-	font-style:italic; 
-}
-
 .front,
 .back{
 	display:block;
@@ -437,6 +412,7 @@ p{
 	color:gray;
 	text-decoration:line-through;
 }
+/*added for MT: retrace*/
 .retrace.red{
     color:#B33B24 !important;
     border-bottom:1px gray dotted;	
@@ -537,9 +513,11 @@ p{
 .doubleunderline{
 	border-bottom:3px double;
 }
+/*removed for MT*//*
 .inline{
 	color:gray;
 }
+*/
 .italic{
 	font-style:italic;
 }
@@ -675,6 +653,7 @@ p{
 }
 
 
+
 /* 11. Lists and Tables */
 .list{
 	display:inline-block;
@@ -696,6 +675,67 @@ p{
 
 
 /* 12. Misc */
+.figure{
+	margin-left:0;
+	color:gray;
+	font-size:.8em;
+	border-bottom:1px gray dotted;
+}
+.p .figure,
+.p.noindent .figure,
+.ab .figure{
+	margin-left:0px !important;
+	text-indent:0px;
+}
+.makeRed{
+color:#B33B24;
+}
+.makeGray{
+color:gray;
+}
+
+
+.foreign,
+.geogName,
+.persName,
+.orgName,
+.quote,
+.region,
+.settlement,
+.term-ailment,
+.term-tribe{
+	border-bottom:2px #428bca dotted; /* change to 1px */
+}
+
+
+/* 13. Multiple hands */ /*added for MT*/
+.CL{
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:1em; 
+	color:#746553; 
+	font-style:italic; 
+}
+.DL{
+    font-family:"source sans pro", calibri, arial, helvetica, sans-serif;
+	font-size:1em; 
+	color:black;
+    font-style: normal;
+}
+.U1{
+    font-style: normal;
+}
+.U2{
+    font-style: normal;
+}
+.U5{
+    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size:1em; 
+	color:#936541; 
+	font-style:italic; 
+}
+
+
+/*14. Metamarks*/ /*added for MT*/
 .dashed{
     border-bottom:2px dashed;
 }
@@ -714,29 +754,10 @@ font-size:1em !important;
 .dashed .metamark{
 font-size:1em !important;
 }
-
-.figure{
-	margin-left:0;
-	color:gray;
-	font-size:.8em;
-	border-bottom:1px gray dotted;
-}
-.p .figure,
-.p.noindent .figure,
-.ab .figure{
-	margin-left:0px !important;
-	text-indent:0px;
-}
 .metamark{
 	font-style:italic;
 	border-bottom:1px gray dotted;
 	font-size: 1.1em;
-}
-.metamark.transposition{
-	font-style:italic;
-	border-bottom:1px gray dotted;
-	font-size: 0.8em !important;
-
 }
 .metamark.red{
     color:#B33B24;
@@ -750,25 +771,24 @@ font-size:1em !important;
 	border-bottom:1px gray dotted;
 	font-size: 1.1em;
 }
-.makeRed{
-color:#B33B24;
-}
-.makeGray{
-color:gray;
-}
-.metamark.placeMark{
-	font-style:italic;
-	border-bottom:1px gray dotted;
-	font-size: 2em;
+.metamark.flag{
+    font-size: 1.5em;
+    font-style:normal !important;
 }
 .metamark.no-newParagraph{
 	font-style:italic;
 	border-bottom:1px gray dotted;
 	font-size: 2em;
 }
-.metamark.flag{
-    font-size: 1.5em;
-    font-style:normal !important;
+.metamark.placeMark{
+	font-style:italic;
+	border-bottom:1px gray dotted;
+	font-size: 2em;
+}
+.metamark.transposition{
+	font-style:italic;
+	border-bottom:1px gray dotted;
+	font-size: 0.8em !important;
 }
 .metamark.marginleft{
     margin-left:-6em !important;
@@ -785,16 +805,4 @@ color:gray;
 p .metamark{
 	margin-left:0px !important;
 	text-indent:0px !important;
-}
-
-.foreign,
-.geogName,
-.persName,
-.orgName,
-.quote,
-.region,
-.settlement,
-.term-ailment,
-.term-tribe{
-	border-bottom:2px #428bca dotted; /* change to 1px */
 }
