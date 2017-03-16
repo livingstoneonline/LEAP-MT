@@ -25,7 +25,6 @@ Table of Contents
 
 body{
 	background:#e2e3e1;/*#d3c2a8;*/ /*#e7d5bd*/
-	padding-left:40px;
 }
 div.transcription{
 	margin-left:auto;
@@ -42,7 +41,7 @@ div.transcription{
 	padding-top:.5em;
 	text-align:left;
 }
-@media all and (max-width: 600px)  {
+@media all and (max-width: 768px)  {
 .TEI{	
 	padding-left:1em;
 }
@@ -51,11 +50,10 @@ div.transcription{
 	max-width:29em;
 	min-width:29em;
 	white-space:normal;
-}
-.div{
-	margin-top:-1.2em;
+	padding-top:1em;
 }
 div.text{
+	/*margin-left: 3em;*/ /*Prevent line numbers from being hidden.*/ /*Removed*/
 }
 div.body{
 	display:block;
@@ -65,7 +63,8 @@ div.body{
 .back{
 	display:block;
 }
-
+.div{
+}
 
 /* 1.5. Title section */
 
@@ -106,7 +105,7 @@ hr.title-section{
 	margin-bottom:-.4em;
 }
 .project-id{
-	color:gray;
+	color:#706f6a;
 	font-size:.9em;
 }
 
@@ -162,17 +161,7 @@ hr.title-section{
 	margin-top:2em;
 	margin-bottom:-.9em;
 }
-.pb-title-notop{
-	display:block;
-	color:#428bca;
-	/*text-decoration:underline;*/
-	font-size:90%;
-	margin-top:.5em;
-	margin-bottom:-.9em;    
-	text-indent:0 !important;
-}
-.pb-title:hover,
-.pb-title-notop:hover{
+.pb-title:hover{
 	color:#AAA;
 	cursor:pointer
 }
@@ -182,9 +171,6 @@ hr.title-section{
 p span.pb-title{
 	margin-left:0;
 	text-indent:0;
-}
-.p.pb-title{
-    margin-top:2em;
 }
 .del-pb{
 }
@@ -198,7 +184,7 @@ p span.pb-title{
 .linenumber{
 	text-align:right;
 	float:left;
-	color:#AAA;
+	color:#8c8b85;
 	margin-left:-3em !important;
 	/*text-indent:9%;*/
 	font-size:80%;
@@ -238,7 +224,7 @@ p.right .linenumber{
 .line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:14em !important;
+	width:22em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;
@@ -263,20 +249,6 @@ p.right .linenumber{
 	color:black;
 }*/
 /* Both of the above are not used in the 1870 FD transformation. See .second-line below.*/
-
-.doubleline.quarterline{
-	border-bottom:1px solid #d0d0d0;
-	display:block;
-	width:14em !important;
-	margin-left:0;
-	text-align:left;
-	margin-top:-1em;
-	margin-bottom:0em;
-	height:0;
-	border:0;
-	border-top:1px solid #58484b;
-}
-
 .halfline{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
@@ -290,7 +262,7 @@ p.right .linenumber{
 .quarterline{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:8.5em !important;
+	width:11em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;
@@ -300,7 +272,7 @@ p.right .linenumber{
 .second-line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:14em !important;
+	width:22em !important;
 	margin-left:0;
 	text-align:left;
 	margin-top:-1em;
@@ -312,16 +284,13 @@ p.right .linenumber{
 .third-line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:14em !important;
+	width:22em !important;
 	margin-left:0;
 	text-align:left;
 	margin-top:1.5em;
 	height:0;
 	border:0;
 	border-top:1px solid #58484b;
-}
-.first-double{
-	margin-top:1.5em;
 }
 
 /* 5. p, ab, note, fw */
@@ -352,6 +321,7 @@ p{
 .ab.center{
 }
 .head{
+	font-weight:300;
 }
 .note{
 	display:inline;
@@ -359,10 +329,6 @@ p{
 .fw{
 	display:inline-block;
 }
-.p .fw{
-	margin-top:-.3em;
-}
-
 .fw.pageno{
 	text-indent:0 !important;
 }
@@ -373,6 +339,8 @@ p{
 .fw.catch.right{
 	text-indent:0;
 }
+
+/* Did you add the following four items for MT? If not, then remove them all */
 .add.marginleft{
 	text-indent:0;	
 	margin-left:0;
@@ -394,6 +362,8 @@ p{
 	float:right;
 	margin-top:-1.4em;
 }
+/*See previous note. End of items to remove possible */
+
 
 /* 6. Additions and Deletions */
 
@@ -409,7 +379,7 @@ p{
 	text-decoration:line-through;
 }
 .del-by-over-text{
-	color:gray;
+	color:#706f6a;
 	text-decoration:line-through;
 }
 /*added for MT: retrace*/
@@ -458,8 +428,8 @@ p{
 
 /* 7. Unclear, gap, space */
 .unclear{
-	color:gray;
-	border-bottom:1px dotted gray;
+	color:#706f6a;
+	border-bottom:1px dotted #706f6a;
 }
 .gap{
 	border-bottom:1px dotted black;
@@ -513,11 +483,13 @@ p{
 .doubleunderline{
 	border-bottom:3px double;
 }
-/*removed for MT*//*
-.inline{
-	color:gray;
+.tripleunderline{
+	border-bottom:4px double;
+	text-decoration:underline;
 }
-*/
+.inline{
+	/*color:#706f6a;*/
+}
 .italic{
 	font-style:italic;
 }
@@ -531,18 +503,22 @@ p{
 	text-decoration:overline underline;
 }
 .overtext{
-	/*color:gray;*/
+	/*color:#706f6a;*/
 }
 .right{
 	text-indent:0;
-	margin-left:14em;
+	margin-left:12em;
 }
+
+/*Did you add the next two items? If not, remove them both */
 .add-right{
 	margin-left:8em;
 }
 .right-right{
 	margin-left:0em;
 }
+/*See previous note. End of items to remove possible */
+
 .small{
 	font-size:85%;
 }
@@ -604,7 +580,7 @@ p{
 }
 .margintop{
 	margin-left:0;
-	color:gray;
+	color:#706f6a;
 	line-height:0;
 	position:relative;
 	vertical-align:baseline;
@@ -615,7 +591,7 @@ p{
 .margintop.right{
 }
 .true{
-	/*display:inline-block;*/
+	display:inline-block;
 }/*Goes with standalone <note>s*/
 
 
@@ -624,17 +600,21 @@ p{
 .black{
 	color:black;
 }
+
+/*Did you add the following two? If not, remove. If so, add a note that this are for MT*/
 .black.gray{
 	color:#404040;
 }
+/*See previous*/
+
 .blue{
-	color:#55759e;/*#507ca5;*/
+	color:blue;
 }
 .brown{
 	color:brown;
 }
 .gray{
-	color:gray;
+	color:#706f6a;
 }
 .green{
 	color:green;
@@ -653,33 +633,30 @@ p{
 }
 
 
-
 /* 11. Lists and Tables */
 .list{
-	display:inline-block;
-	/*margin-top:12px;*/
-	text-indent:0em;
+	display:block;
+	margin-top:12px;
 }
-.cell{
-	max-width:1%;
-	min-width:1%;
-	text-align:left;
-	display:inline-block;
+table{
+	font-size:1em; /*85%;*//*Changed for 1870 Field Diary*/
+	border-style:none;
+	margin-right: 2em; /*Needed so that the text doesn't run up against the right edge in the viewer.*/
+	color:#58484b; /*Added color for 1870 Field Diary*/
 }
-.cell.right{
-	margin-left:7em;
-}
-.cell.right.cell-after-center{
-	margin-left:4em;
+tr,
+td{
+	border-style:none;
 }
 
 
 /* 12. Misc */
+
 .figure{
 	margin-left:0;
-	color:gray;
+	color:#706f6a;
 	font-size:.8em;
-	border-bottom:1px gray dotted;
+	border-bottom:1px #706f6a dotted;
 }
 .p .figure,
 .p.noindent .figure,
@@ -687,13 +664,26 @@ p{
 	margin-left:0px !important;
 	text-indent:0px;
 }
+
+/*My CSS has the following two items. I presume you don't need them? If so, just remove and leave a note that you removed my .metamark and p .metamark*/
+.metamark{
+	color:#706f6a;
+	border-bottom:1px #706f6a dotted;
+}
+p .metamark{
+	margin-left:0px !important;
+	text-indent:0px !important;
+}
+/*See previous*/
+
+/*Did you add the following two? If not, remove. If so, add a note that these are for MT*/
 .makeRed{
 color:#B33B24;
 }
 .makeGray{
 color:gray;
 }
-
+/*See previous*/
 
 .foreign,
 .geogName,
