@@ -38,7 +38,7 @@
 					<!-- Possible license change. -->
 					<licence target="https://creativecommons.orgName/licenses/by-nc/3.0/"> All materials are
 						licensed for use under the <ref target="https://creativecommons.orgName/licenses/by-nc/3.0/">
-						Creative Commons Attribution-Noncommercial 3.0 Unported License </ref>. (c) Dr. Neil Imray
+							Creative Commons Attribution-Noncommercial 3.0 Unported License </ref>. (c) Dr. Neil Imray
 						Livingstone Wilson, 2014 </licence>
 				</availability>
 			</publicationStmt>
@@ -58,23 +58,17 @@
 					</msIdentifier>
 					<physDesc>
 						<handDesc>
-							<handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or
-								archivist, whose additions are normally limited to adding page numbers.</handNote>
-							<handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be
-								an editor or group of editors in the employment of the publisher, John Murray, making
-								corrections and additions in pencil.</handNote>
-							<!-- Change/expand as appropriate. See encoding manual #21. -->
-							<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be
-								an editor or group of editors in the employment of the publisher, John Murray, making
-								corrections and additions in red ink.</handNote>
+				<handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+				<handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+				<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote>
 						</handDesc>
 					</physDesc>
 				</msDesc>
-
+				
 				<bibl type="sourceMetadata"> <title>Manuscript of "Missionary Travels and Researches in South
 					Africa" (Part I).</title><!-- This will change with each volume of the MS. --> <author
-					xml:id="DL">David Livingstone</author> <date type="composition" from="1857-01-01"
-					to="1857-10-31">January-October 1857</date> </bibl>
+						xml:id="DL">David Livingstone</author> <date type="composition" from="1857-01-01"
+							to="1857-10-31">January-October 1857</date> </bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
@@ -91,10 +85,10 @@
 			<change when="2014-09-15" who="#JG">Initial transcription and encoding</change>
 		</revisionDesc>
 	</teiHeader>
-
-<text>
-<body>
-<div>
+	
+	<text>
+		<body rend="right">
+			<div>
 
 <pb facs="liv_000099_0092.jpg" n="0092"/>
 <lb/><p rend="no-indent"><note place="marginleft">V.</note> <fw><add place="inspace" hand="#U2" rend="gray">86</add> <add place="inspace" hand="#U1" rend="gray right">89</add></fw>
@@ -210,7 +204,7 @@ The <term type="tribe">Bakuena</term>
 <lb/>So their <term type="occupation">chief</term> <persName>Sechele</persName> possesses
 <lb/>certain advantages over <persName>Sekomi</persName>
 <lb/>the <term type="occupation">chief</term> of the <term type="tribe">Bamangwato</term> - 
-<lb/>If the two were travelling <add place="marginleft"><metamark function="insertion"/><metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>or hunting <add place="above" rend="gray" hand="#U2"><note>33 <unclear cert="medium"><persName><choice><abbr>Coul<hi rend="sup">t</hi>.</abbr><expan>Coulter</expan></choice></persName></unclear></note></add></add> together
+<lb/><add place="marginleft" rend="gray" resp="#U2"><metamark function="ed-mark">[</metamark> <add place="above"><note>33 <unclear cert="medium"><persName><choice><abbr>Coul<hi rend="sup">t</hi>.</abbr><expan>Coulter</expan></choice></persName></unclear></note></add></add> If the two were travelling <add place="marginleft"><metamark function="insertion"/>or hunting</add> together
 <lb/><persName>Sechele</persName> would take by
 <lb/>right the heads of the game
 <lb/>shot by <persName>Sekomi</persName> - There are
@@ -230,7 +224,7 @@ The <term type="tribe">Bakuena</term>
     <lb/><persName>Sechele</persName> in every other respect is
     <lb/>the ruler. </add>
 The other tribes for
-<lb/><add place="marginleft">instance</add> <add place="below">^</add> <subst><del type="strikethrough" hand="#U3" rend="red">wont</del><add place="above" hand="#U3" rend="red">will not</add></subst> begin to eat the early
+<lb/><add place="marginleft">instance <add place="below">^</add></add> <subst><del type="strikethrough" hand="#U3" rend="red">wont</del><add place="above" hand="#U3" rend="red">will not</add></subst> begin to eat the early
 <lb/><term type="plant_foodstuff">pumpkins</term> of a new crop
 <lb/><choice><sic>untill</sic><corr>until</corr></choice> they hear that the
 <lb/><term type="tribe">Bahurutse</term> have "bitten it - " and
@@ -258,7 +252,7 @@ The other tribes for
 <lb/><seg rend="left"><choice><sic>It</sic><corr/></choice> was said "the <term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> the mortal enemies of
 <lb/>the <term type="tribe">Bechuanas</term> are in the <w><del type="strikethrough">D</del><add place="above">d</add>irection</w> of the
 <lb/>Lake<!-- Lake Ngami. JL --> and should they kill him we shall
-<lb/><w><subst><del><unclear cert="low">in</unclear></del><add place="over-text">in</add></subst>cur</w> great blame among all the
+<lb/><subst><del><unclear cert="low">w</unclear></del><add place="over-text">i</add></subst>ncur great blame among all the
 <lb/>white men"</seg></p>
 
 <pb facs="liv_000099_0096.jpg" n="0096"/>
@@ -412,7 +406,7 @@ and many attempts
 <lb/>the <seg type="weather">effects of the scorching
 <lb/>sun</seg> - The number of these
 <lb/>which have tuberous roots
-<lb/>is very great <subst><del type="strikethrough" rend="red" hand="#U3">as</del><add place="above" hand="#U3" rend="red">and</add></subst> <add place="above">their structure</add> <del type="strikethrough">if it</del> <del type="strikethrough" hand="#U3" rend="red">were</del>
+<lb/>is very great <subst><add place="above" hand="#U3" rend="red">and</add><del type="strikethrough" rend="red" hand="#U3">as</del></subst> <add place="above">their structure</add> <del type="strikethrough">if it</del> <del type="strikethrough" hand="#U3" rend="red">were</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">is</add> intended to supply nutriment
 <lb/>and moisture when during
 <lb/>the <seg type="weather">long droughts</seg> they can
@@ -499,7 +493,7 @@ and many attempts
 <lb/>the rich supply - The <term type="animal">Elephant</term>
 <lb/>true Lord of the Forest revels
 <lb/>in them and so <subst><del type="cancelled" hand="#U3" rend="red">does</del><add place="above" hand="#U3" rend="red">do</add></subst> the different
-<lb/>species of <term type="animal"><choice><sic>Rhinocros</sic><corr>Rhinoceros</corr></choice></term> - although <retrace hand="#U3" rend="red"><metamark function="insertion" rend="gray" resp="#U2"/></retrace><anchor xml:id="reorder-15"/>
+	<lb/>species of <term type="animal"><choice><sic>Rhinocros</sic><corr>Rhinoceros</corr></choice></term> - although <metamark function="insertion" rend="red" resp="#U3"/><metamark function="insertion" rend="gray" resp="#U2"/><anchor xml:id="reorder-15"/>
 <lb/>so diverse in their <retrace hand="#U3" rend="red"><metamark function="reorder" rend="gray" resp="#U2" spanTo="#meta-37"/></retrace><seg corresp="#reorder-15">natural<retrace hand="#U3" rend="red"><add place="inline" hand="#U2" rend="gray">ly</add></retrace></seg><anchor xml:id="meta-37"/>
 <lb/>choice of pasture - </p>
 <lb/><space unit="words" extent="3"/><metamark function="no-newParagraph" rend="red" resp="#U3"/><!-- proof correction mark for 'no new paragraph'.JL -->
@@ -557,13 +551,13 @@ and many attempts
 <lb/><term type="people">English</term> were exhibited in
 <lb/><subst><del type="strikethrough" rend="red" hand="#U3"><placeName><country>America</country></placeName></del><add place="above" hand="#U3" rend="red"><placeName><bloc>Africa</bloc></placeName></add></subst> as characteristic of
 <lb/>the <add place="below">^</add> <add place="above">entire</add> <add place="above" hand="#U3" rend="red"><term type="nationality">British</term></add> nation - <w><subst><del hand="#U3">t</del><add place="over-text" hand="#U3" rend="red">T</add></subst>hat</w> they are like
-<lb/><term type="animal">baboons</term> is <subst><del type="cancelled" hand="#U3" rend="red">a parallel truth</del><add place="above" hand="#U3" rend="red">in some degree truth</add></subst>
+<lb/><term type="animal">baboons</term> is <subst><add place="above" hand="#U3" rend="red">in some degree truth</add><del type="cancelled" hand="#U3" rend="red">a parallel truth</del></subst>
 <lb/><add place="marginleft" hand="#U3" rend="red">just as</add> <del type="cancelled" hand="#U3" rend="red">with that</del> these and other
 <lb/><foreign xml:lang="la"><term type="animal">simiae</term></foreign> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">are</add> in some things <del type="cancelled" rend="red" hand="#U3">are</del>
 <lb/>frightfully human - </p>
 <lb/><space dim="vertical" extent="13" unit="lines"/>
 <lb/><p>The <term type="tribe">Bakalahari</term> are traditionally
-<lb/><add place="marginleft" rend="red" hand="#U3">reported to be</add> <add place="marginleft" rend="red" hand="#U3">^</add> the oldest of the <term type="tribe">Bechuana</term> tribes
+<lb/><add place="marginleft" rend="red" hand="#U3">reported to be <add place="below">^</add></add> the oldest of the <term type="tribe">Bechuana</term> tribes
 <lb/>and they possessed enormous herds of the large horned <term type="animal">cattle</term>
 <lb/>mentioned by <persName>Bruce</persName> <subst><del type="strikethrough" rend="red" hand="#U3">before</del><add place="above" rend="red" hand="#U3">until</add></subst>
 <lb/>they were despoiled of them and
@@ -750,7 +744,7 @@ The compact they enter into is
 <lb/>The <term type="tribe"><choice><sic>Balahari</sic><corr>Bakalahari</corr></choice></term> first and to 
 <lb/>the other <term type="tribe">Bechuanas</term> in their
 <lb/>turn as <subst><del type="strikethrough" hand="#U3" rend="red">they</del><add place="above" hand="#U3">their lands</add></subst> <add place="below" hand="#U3" rend="red">^</add> were overrun<add place="above" hand="#U3" rend="red">run</add>
-<lb/>by the <subst><del type="strikethrough" hand="#U3" rend="red">body</del><add place="above" hand="#U3" rend="red">tribe</add></subst> of true <orgName><subst><del>K</del><add place="over-text">C</add></subst>affirs</orgName>
+<lb/>by the <subst><del type="strikethrough" hand="#U3" rend="red">body</del><add place="above" hand="#U3" rend="red">tribe</add></subst> of true <orgName><subst><del>C</del><add place="over-text">K</add></subst>affirs</orgName>
 <lb/>called <term type="tribe">Matibele</term> - The <term type="tribe">Bakuena</term>
 <lb/>and <term type="tribe">Bangwaketze</term> and
 <lb/><term type="tribe">Bamangwato</term> all fled
@@ -781,11 +775,11 @@ The compact they enter into is
 <lb/><metamark function="flag" place="marginleft" resp="#U2" rend="gray" spanTo="#meta-40"/>could subsist without water 
 <lb/>they were coolly told by these 
 <lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark> omit</note></add> <orgName>Bushmen</orgName> that they did - 
-<lb/>Expecting to <del type="cancelled" hand="#U3" rend="red"><unclear cert="medium">find</unclear></del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">find</add> him out
+<lb/>Expecting to <del type="cancelled" hand="#U3" rend="red">find</del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">find</add> him out
 <lb/>they resolved to watch them
 <lb/>night and day - They <w>per-
 <lb break="no" />-severed</w> for some days
-<lb/><metamark function="query" place="marginleft" resp="#U2" rend="gray">Query</metamark> but at last seeing them
+<lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2">Query</metamark> but at last seeing them
 <lb/>preparing to soften some
 <lb/>skins - Now <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">they thought</add> the water
 <lb/>must come forth, It did - 
@@ -824,7 +818,7 @@ The compact they enter into is
             <lb/>they were <del type="cancelled">s</del></add>
 <lb/><add place="below">^</add> <subst><del>sent</del><add place="over-text">sent</add></subst> by <persName>Lechulathebe</persName> the
 <lb/><term type="occupation">chief</term> to ask, <del type="strikethrough" rend="red" hand="#U3">that</del> <add place="below">^</add> <add place="above" rend="red" hand="#U3">me</add> <del type="cancelled"><gap unit="chars" extent="9" agent="illegible"/></del>
-<lb/><add place="marginleft"><del type="cancelled">I should visit</del></add> <del type="strikethough">I should</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">to</add> visit <subst><del><unclear cert="medium">their</unclear></del><add place="over-text">that</add></subst> country -
+<lb/><add place="marginleft"><del type="cancelled">I should visit</del></add> <del type="strikethough">I should</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">to</add> visit <w>th<subst><del>eir</del><add place="over-text">at</add></subst></w> country -
 <lb/>They brought such flaming
 <lb/>accounts of the quantities
 <lb/>of ivory to be found there
@@ -887,7 +881,7 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <lb/><add place="marginleft" hand="#U3" rend="red">that</add> <subst><del type="strikethrough" hand="#U3" rend="red">of the parts</del><add place="above" hand="#U3" rend="red">at spots</add></subst> which now
 <lb/><del type="strikethrough" hand="#U3" rend="red">contain</del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">afford</add> no water whatever
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">having had</del><add place="above" hand="#U3" rend="red">there were formerly</add></subst> wells and
-<lb/><term type="animal">cattle</term> stations - <metamark function="newParagraph" resp="#U3" rend="red">⎡</metamark><placeName><settlement type="village">Boatlanama</settlement></placeName>
+<lb/><term type="animal">cattle</term> stations - <metamark function="newParagraph" resp="#U3" rend="red">⎡</metamark><placeName><geogName type="well">Boatlanama</geogName></placeName>
 <lb/>our next station is a lovely
 <lb/>spot in the <seg type="weather">otherwise dry
 <lb/>region</seg> - The wells from
@@ -899,21 +893,21 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">are located</del><add place="above" hand="#U3" rend="red">were found</add></subst> near and great
 <lb/>numbers of <foreign xml:lang="und"><term type="animal">pallahs</term></foreign> - <term type="animal">springbuks</term>
 <lb/><term type="animal">guinea fowls</term> and <add place="below">˄</add> <add place="above">small</add> <term type="animal"> monkeys</term>
-<lb/><placeName><settlement type="village">Lopepe</settlement></placeName> came next - I
+<lb/><placeName><geogName type="well">Lopepe</geogName></placeName> came next - I
 <lb/>mention it because it <subst><del type="strikethough" hand="#U3" rend="red">is</del><add place="above" hand="#U3" rend="red">affords</add></subst>
 <lb/>another proof of the dessication
 <lb/>of the country - the first
 
 <pb facs="liv_000099_0113.jpg" n="0113"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">106</add> <add place="inspace" hand="#U1" rend="gray right">109</add></fw>
-<lb/>time I passed it <placeName><settlement type="village">Lopepe</settlement></placeName> was
+<lb/>time I passed it <placeName><geogName type="well">Lopepe</geogName></placeName> was
 <lb/>a large pool with a stream
 <lb/>flowing out of it to the South
 <lb/>Now it <subst><del type="strikethrough" hand="#U3" rend="red">is</del><add place="above" hand="#U3" rend="red">was</add></subst> with difficulty <subst><del type="strikethrough" hand="#U3" rend="red">one</del><add place="above" hand="#U3" rend="red">we</add></subst>
-    <lb/><subst><del type="strikethrough" hand="#U3" rend="red">can</del><add place="above" hand="#U3" rend="red">could</add></subst> get <subst><del type="strikethrough" hand="#U3" rend="red">his</del><add place="above" hand="#U3" rend="red">our</add></subst> <term type="animal">cattle</term> watered
+<lb/><subst><del type="strikethrough" hand="#U3" rend="red">can</del><add place="above" hand="#U3" rend="red">could</add></subst> get <subst><add place="above" hand="#U3" rend="red">our</add><del type="strikethrough" hand="#U3" rend="red">his</del></subst> <term type="animal">cattle</term> watered
 <lb/>by digging down <del type="cancelled" hand="#U3" rend="red">a</del> in the 
 <lb/>bottom of a well - <add place="inline" hand="#U3" rend="red">--</add>
-<lb/>At <placeName><settlement>Mash<del>a</del>ue</settlement></placeName> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"> - where we found</add> a never
+<lb/>At <placeName><geogName type="well">Mash<del>a</del>ue</geogName></placeName> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"> - where we found</add> a never
 <lb/>failing supply of fine water
 <lb/>in a sandstone <add place="below">^</add> <add place="above">rocky</add> hollow <add place="inline" hand="#U3" rend="red">--</add>
 <lb/>we left the road to the <term type="tribe"><w>Bamang<supplied>-</supplied>
@@ -944,9 +938,9 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <pb facs="liv_000099_0114.jpg" n="0114"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">107</add> <add place="inspace" hand="#U1" rend="gray right">110</add></fw>
 <lb/>water which <retrace rend="red" hand="#U3"><metamark function="reorder" rend="gray" resp="#U2" spanTo="#meta-42"/></retrace><seg corresp="#reorder-17">had we not
-<lb/>driven them away</seg><anchor xml:id="meta-42"/> would
-<lb/><metamark function="transposition" place="marginleft" rend="red" resp="#U3"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> <metamark function="transposition" place="marginleft" rend="gray" resp="#U2"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> have been quickly lapped
-<lb/>up by our <term type="animal">dogs</term> <retrace hand="#U3" rend="red"><metamark function="insertion" rend="gray" resp="#U2"/></retrace><anchor xml:id="reorder-17"/> - And yet
+<lb/><metamark function="transposition" place="marginleft" rend="gray" resp="#U2"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark>driven them away</seg><anchor xml:id="meta-42"/> would
+<lb/><metamark function="transposition" place="marginleft" rend="red" resp="#U3"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> have been quickly lapped
+<lb/>up by our <term type="animal">dogs</term> <metamark function="insertion" rend="red" resp="#U3"/><metamark function="insertion" rend="gray" resp="#U2"/><anchor xml:id="reorder-17"/> - And yet
 <lb/>this was all the apparent
 <lb/>supply for some <del type="cancelled">70 or</del> 80 <term type="animal">oxen</term>,
 <lb/>20 <term type="animal">horses</term>, and an equal
@@ -976,7 +970,7 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <lb/>broad</measure>. <del type="strikethrough">-</del> Our <term type="occupation">guides</term> were
 <lb/>especially <subst><del type="strikethrough" hand="#U3" rend="red">anxious</del><add place="above" hand="#U3" rend="red">earnest</add></subst> in
 <lb/>their injunctions <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">to us</add> not to
-<lb/>break through <subst><del type="cancelled" hand="#U3" rend="red">a</del><add place="above" hand="#U3" rend="red">the</add></subst> hard
+<lb/>break through <subst><add place="above" hand="#U3" rend="red">the</add><del type="cancelled" hand="#U3" rend="red">a</del></subst> hard
 
 <pb facs="liv_000099_0115.jpg" n="0115"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">108</add> <add place="inspace" hand="#U1" rend="gray right">111</add></fw>
@@ -994,7 +988,7 @@ was proved by <add place="below" hand="#U3" rend="red">^</add> <add place="above
 <lb/><term type="person">Englishman</term> whose wits
 <lb/>were none of the brightest,
     <lb/><add place="inline" hand="#U3" rend="red">&amp;</add> who, disregard<subst><del type="cancelled" hand="#U3" rend="red">ed</del><add place="above" hand="#U3">ing it</add></subst> <add place="above">,</add> <add place="below" hand="#U3" rend="red">^</add>  <del type="cancelled" hand="#U3" rend="red">&amp;</del> dug through
-<lb/><del type="cancelled" hand="#U3" rend="red">it</del> <add place="below" hand="#U3" rend="red">^</add> <add place="marginleft" hand="#U3" rend="red">the sand stratum</add> in the wells at <placeName><settlement type="village">Mohotluani</settlement></placeName><add place="inline" rend="red" hand="#U3">:</add>
+<lb/><del type="cancelled" hand="#U3" rend="red">it</del> <add place="below" hand="#U3" rend="red">^</add> <add place="marginleft" hand="#U3" rend="red">the sand stratum</add> in the wells at <placeName><geogName type="well">Mohotluani</geogName></placeName><add place="inline" rend="red" hand="#U3">:</add>
 <lb/>the water <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">immediately</add> flowed away
 <lb/>downwards, and the well
 <lb/><add place="marginleft" rend="gray" hand="#U2"><choice><sic>well</sic><corr/></choice></add> became useless. <del type="strikethrough">-</del> When
@@ -1009,12 +1003,12 @@ was proved by <add place="below" hand="#U3" rend="red">^</add> <add place="above
             <lb/>sufficient for <add place="below">^</add></add>
 the <term type="animal">oxen</term>,
 <lb/><del type="strikethrough" hand="#U3" rend="red">having to want</del> we sent
-<lb/>them back to <placeName><settlement type="village">Lobotani</settlement></placeName>,
+<lb/>them back to <placeName><geogName type="well">Lobotani</geogName></placeName>,
 <lb/>where, after <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">thirsting</add> <measure>four full
 <lb/>days <add place="marginleft"><metamark function="insertion"/><add place="inline" hand="#U3" rend="red">(</add>96 hours<add place="inline" hand="#U3" rend="red">)</add>,</add></measure> <del type="strikethrough" hand="#U3" rend="red">thirsting</del> they got a good
-<lb/>supply. <del type="strikethrough">-</del> <hi rend="double-underline">t</hi>he<!-- the double underline is the proof correction mark indicating the letter should be set in capitals.JL --> <term type="animal">horses</term> were
-<lb/>Kept by us as necessary to
-<lb/><add place="marginleft" hand="#U3" rend="red">enable us to <add place="below">^</add></add> procure <metamark function="let-stand" rend="red" resp="#U3" spanTo="#meta-44"/><del type="cancelled" hand="#U3" rend="red">game</del><anchor xml:id="meta-44"/><add place="above" hand="#U3" rend="red">game</add> for <add place="below">^</add> <add place="above">food for</add> our
+<lb/>supply. <del type="strikethrough">-</del> <hi rend="double-underline">T</hi>he<!-- the double underline is the proof correction mark indicating the letter should be set in capitals.JL --> <term type="animal">horses</term> were
+<lb/>kept by us as necessary to
+<lb/><add place="marginleft" hand="#U3" rend="red">enable us to <add place="below">^</add></add> procure <metamark function="let-stand" rend="red" resp="#U3" spanTo="#meta-44"/><del type="cancelled">game</del><anchor xml:id="meta-44"/><add place="above" hand="#U3" rend="red">game</add> for <add place="below">^</add> <add place="above">food for</add> our
 <lb/>numerous party, and next
 <lb/>morning we found the
 <lb/>water had flowed faster
@@ -1033,14 +1027,14 @@ the <term type="animal">oxen</term>,
 <lb/>few men only<add place="inline" hand="#U3" rend="red">,</add> become<add place="inline" hand="#U3" rend="red">s</add>
 <lb/><add place="marginleft" hand="#U3" rend="red"><note><del type="strikethrough" hand="#U3" rend="red"><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> sense - 
         <lb/><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> one or two - </del></note></add> 
-sufficient for <hi rend="red underline" resp="#U3"><term type="animal">oxen</term> <subst><del type="strikethrough" hand="#U3" rend="red">too</del><add place="above" hand="#U3" rend="red">as well - </add></subst></hi><!-- the red underline beneath oxen is subsequently cancelled by #U3.JL --> 
+sufficient for <hi rend="red underline" resp="#U3"><term type="animal">oxen</term> <del type="strikethrough" hand="#U3" rend="red">too</del></hi><add place="above" hand="#U3" rend="red">as well - </add><!-- the red underline beneath oxen is subsequently cancelled by #U3.JL --> 
 <lb/><add place="marginleft">In</add> These sucking places the
 <lb/><term type="tribe">Bakalahari</term> get their supplies
 <lb/>and as they are generally
 <lb/>in the hollows of ancient
 <lb/>river beds, they are
 <lb/>probably the deposit from
-<lb/><add place="marginleft" hand="#U3" rend="red"><note><unclear cert="low"><metamark function="query">Query</metamark></unclear> collecting</note></add> <metamark function="query" place="marginleft" resp="#U2" rend="gray"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>rains <hi rend="red underline" resp="#U3">gravitating</hi> there: 
+<lb/><add place="marginleft" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> <unclear cert="medium">say</unclear> collecting</note></add> <metamark function="query" place="marginleft" resp="#U2" rend="gray"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>rains <hi rend="red underline" resp="#U3">gravitating</hi> there: 
 <lb/>In some cases they may
 <lb/>be the actual fountains,
 <lb/>which<retrace hand="#DL"><add place="inline" resp="#U3" rend="red">,</add></retrace> though formerly <del type="cancelled">they</del>
