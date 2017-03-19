@@ -1406,13 +1406,13 @@
 
 	<xsl:template match="pb">
 		<span class="pb-title">
-			[<xsl:value-of select="@facs"/>]
+			[<xsl:value-of select="@n"/>]
 		</span>
 	</xsl:template>
 
 	<xsl:template match="del/pb" priority="10">
 		<span class="pb-title del-pb">
-			[<xsl:value-of select="@facs"/>]
+			[<xsl:value-of select="@n"/>]
 		</span>
 	</xsl:template>
 
