@@ -598,7 +598,7 @@ p{
 }
 .true{
 	/*display:inline-block;*/
-}/*Goes with standalone <note>s*/
+}/*Goes with standalone <note>s*//*Not relevant to MT?*/
 /*Commented this out again because it was messing up hi/del when outside of note*/
 
 
