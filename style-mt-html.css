@@ -359,6 +359,7 @@ p{
 	text-indent:0;	
 	float:left;
 	text-align:left;
+	font-size:.9em;
 }
 .note.marginright{
 	margin-right:-2.6em !important;
@@ -670,10 +671,9 @@ td{
 }
 
 /*My CSS has the following two items. I presume you don't need them? If so, just remove and leave a note that you removed my .metamark and p .metamark*/
-.metamark{
-	color:#706f6a;
-	border-bottom:1px #706f6a dotted;
-}
+
+/* Removed .metamark code, for Missionary Travels. See section 14 instead.*/
+
 p .metamark{
 	margin-left:0px !important;
 	text-indent:0px !important;
@@ -746,19 +746,24 @@ font-size:1em !important;
 .metamark{
 	font-style:italic;
 	border-bottom:1px gray dotted;
-	font-size: 1.1em;
+	font-size: .9em;
 }
 .metamark.red{
     color:#B33B24;
     font-style:italic;
 	border-bottom:1px gray dotted;
-	font-size: 1.1em;
+	font-size: .9em;
     }
 .metamark.gray{
     color:gray;
     font-style:italic;
 	border-bottom:1px gray dotted;
-	font-size: 1.1em;
+	font-size: .9em;
+}
+.metamark.ed-mark{
+	font-style:italic;
+	border-bottom:1px gray dotted;
+	font-size: 1.1em !important;
 }
 .metamark.flag{
     font-size: 1.5em;
@@ -774,10 +779,15 @@ font-size:1em !important;
 	border-bottom:1px gray dotted;
 	font-size: 2em;
 }
+.metamark.deletion{
+	font-style:italic;
+	border-bottom:1px gray dotted;
+	font-size: 1.1em;
+}
 .metamark.transposition{
 	font-style:italic;
 	border-bottom:1px gray dotted;
-	font-size: 0.8em !important;
+	font-size: 0.9em;
 }
 .metamark.marginleft{
     margin-left:-5em !important;/*Changed. AW*/
