@@ -360,7 +360,10 @@ p{
 	text-indent:0;	
 	float:left;
 	text-align:left;
-	font-size:.9em;
+	/*font-size:.9em;*/
+}
+.add.marginleft .note{
+	font-size:.9em !important;
 }
 .note.marginright{
 	margin-right:-2.6em !important;
@@ -748,24 +751,24 @@ font-size:1em !important;
 .metamark{
 	font-style:italic;
 	border-bottom:1px gray dotted;
-	font-size: .9em;
+	/*font-size: 1em;*/
 }
 .metamark.red{
     color:#B33B24;
     font-style:italic;
 	border-bottom:1px gray dotted;
-	font-size: .9em;
+	/*font-size: .9em;*/
     }
 .metamark.gray{
     color:gray;
     font-style:italic;
 	border-bottom:1px gray dotted;
-	font-size: .9em;
+	/*font-size: .9em;*/
 }
 .metamark.ed-mark{
 	font-style:italic;
 	border-bottom:1px gray dotted;
-	font-size: 1.1em !important;
+	/*font-size: 1.1em;*/
 }
 .metamark.flag{
     font-size: 1.5em;
@@ -784,18 +787,19 @@ font-size:1em !important;
 .metamark.deletion{
 	font-style:italic;
 	border-bottom:1px gray dotted;
-	font-size: 1.1em;
+	/*font-size: 1.1em;*/
 }
 .metamark.transposition{
 	font-style:italic;
 	border-bottom:1px gray dotted;
-	font-size: 0.9em;
+	/*font-size: .9em;*/
 }
 .metamark.marginleft{
     margin-left:-5em !important;/*Changed. AW*/
 	text-indent:0;	
 	float:left;
 	text-align:center;
+	font-size:.9em;
 }
 .metamark.marginleft.second-margin-metamark{
     margin-left:-3em !important;/*Changed. AW*/	
