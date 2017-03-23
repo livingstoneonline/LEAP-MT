@@ -348,6 +348,7 @@ p{
 .add.marginleft{
 	text-indent:0;	
 	margin-left:0;
+	font-size:1em;
 }
 .addmargin{	
 	margin-left:0 !important;
