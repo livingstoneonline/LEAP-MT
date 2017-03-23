@@ -597,8 +597,9 @@ p{
 .margintop.right{
 }
 .true{
-	display:inline-block;
+	/*display:inline-block;*/
 }/*Goes with standalone <note>s*/
+/*Commented this out again because it was messing up hi/del when outside of note*/
 
 
 /* 10. Colors */
