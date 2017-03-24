@@ -811,3 +811,6 @@ p .metamark{
 	margin-left:0px !important;
 	text-indent:0px !important;
 }
+.del .metamark{
+	text-decoration: line-through;
+}
