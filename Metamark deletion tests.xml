@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000099">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title>
+				<!-- This will change with each volume of the MS. -->
+				<author>David Livingstone</author>
+				<principal>Justin Livingstone</principal>
+				<respStmt xml:id="JL">
+					<name>Justin Livingstone</name>
+					<resp>Transcription and Encoding</resp>
+					<resp>Editorial Decisions</resp>
+				</respStmt>
+				<respStmt xml:id="AW">
+					<name>Adrian S. Wisnicki</name>
+					<resp>Encoding Consultant</resp>
+				</respStmt>
+				<respStmt xml:id="KS">
+					<name>Kate Simpson</name>
+					<resp>Transcription and Encoding</resp>
+				</respStmt>
+				<respStmt xml:id="JG">
+					<name>Johanna Green</name>
+					<resp>Transcription and Encoding</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Livingstone Online</authority>
+				<publisher>UCLA Digital Library</publisher>
+				<pubPlace>Los Angeles, CA, USA</pubPlace>
+				<!-- Possible year update. -->
+				<date>2014</date>
+				<availability>
+					<!-- Possible license change. -->
+					<licence target="https://creativecommons.orgName/licenses/by-nc/3.0/"> All materials are
+						licensed for use under the <ref target="https://creativecommons.orgName/licenses/by-nc/3.0/">
+						Creative Commons Attribution-Noncommercial 3.0 Unported License </ref>. (c) Dr. Neil Imray
+						Livingstone Wilson, 2014 </licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<country>United Kingdom</country>
+						<settlement>Edinburgh</settlement>
+						<repository>National Library of Scotland</repository>
+						<!-- This may change with each volume of the MS. -->
+						<idno type="shelfmark">MS.42428</idno>
+						<!-- This may change with each volume of the MS. -->
+						<altIdentifier>
+							<idno type="ccnumber">Books, 001</idno>
+							<!-- This may change with each volume of the MS. -->
+						</altIdentifier>
+					</msIdentifier>
+					<physDesc>
+						<handDesc>
+							<handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or
+								archivist, whose additions are normally limited to adding page numbers.</handNote>
+							<handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be
+								an editor or group of editors in the employment of the publisher, John Murray, making
+								corrections and additions in pencil.</handNote>
+							<!-- Change/expand as appropriate. See encoding manual #21. -->
+							<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be
+								an editor or group of editors in the employment of the publisher, John Murray, making
+								corrections and additions in red ink.</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+
+				<bibl type="sourceMetadata"> <title>Manuscript of "Missionary Travels and Researches in South
+					Africa" (Part I).</title><!-- This will change with each volume of the MS. --> <author
+					xml:id="DL">David Livingstone</author> <date type="composition" from="1857-01-01"
+					to="1857-10-31">January-October 1857</date> </bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="en">English</language>
+				<language ident="la">Latin</language>
+				<language ident="und">Unknown</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+			<change when="2016-02-05" who="#JL">Proofing and encoding review</change>
+			<change when="2014-11-20" who="#KS">Proofreading</change>
+			<change when="2014-09-15" who="#JG">Initial transcription and encoding</change>
+		</revisionDesc>
+	</teiHeader>
+
+<text>
+<body>
+<div>
+
+<pb facs="liv_000099_0092.jpg" n="0092"/>
+<lb/><p><del type="cancelled" rend="gray" hand="#U2"><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/></del> Why there should be
+<lb/>so much vegetation 
+<lb/><add place="marginleft" rend="gray" resp="#U2"><del type="strikethrough" rend="red" hand="#U3"><note><metamark function="query">Qu</metamark> this word</note></del></add> on the <placeName><geogName type="desert">Kalahari</geogName></placeName> may be explained
+<lb/><del type="cancelled"><metamark function="ed-mark" place="marginleft">X</metamark></del> by the geological formation
+<lb/><del type="strikethrough"><metamark function="deletion" place="marginleft" rend="red"/></del> of the country - 
+	
+
+
+
+
+
+
+</p>
+
+</div>
+</body>
+</text>
+
+</TEI>
