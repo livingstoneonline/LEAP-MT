@@ -349,16 +349,23 @@ p{
 	text-indent:0;	
 	margin-left:0;
 	font-size:1em;
+	float:left;
 }
 .addmargin{	
 	margin-left:0 !important;
 	float:none !important;
 }
-.marginleft.marginleft,
 .note.marginleft{
 	margin-left:-11em;/*Changed. AW*/
 	text-indent:0;	
 	float:left;
+	text-align:left;
+	/*font-size:.9em;*/
+}
+.marginleft.marginleft{
+	margin-left:-11em;/*Changed. AW*/
+	text-indent:0;	
+	/*float:left;*/
 	text-align:left;
 	/*font-size:.9em;*/
 }
@@ -797,9 +804,11 @@ font-size:1em !important;
 .metamark.marginleft{
     margin-left:-5em !important;/*Changed. AW*/
 	text-indent:0;	
-	float:left;
+	/*float:left;*/
 	text-align:center;
 	font-size:.9em;
+	display:ruby-base-container;
+	line-height:50%;
 }
 .metamark.marginleft.second-margin-metamark{
     margin-left:-3em !important;/*Changed. AW*/	
