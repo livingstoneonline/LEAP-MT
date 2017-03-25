@@ -811,10 +811,10 @@ font-size:1em !important;
 	line-height:50%;
 }
 .metamark.marginleft.second-margin-metamark{
-    margin-left:-3em !important;/*Changed. AW*/	
+    margin-left:-3.3em !important;/*Changed. AW*/	
 }
 .metamark.marginleft.alternate-margin-metamark{
-	margin-left:-3em !important;/*Changed. AW*/
+	margin-left:-3.3em !important;/*Changed. AW*/
 }
 p .metamark{
 	margin-left:0px !important;
