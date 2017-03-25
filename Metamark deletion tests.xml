@@ -98,16 +98,16 @@
 
 <pb facs="liv_000099_0092.jpg" n="0092"/>
 <lb/><p><!-- this works correctly --><del type="cancelled" rend="gray" hand="#U2"><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/></del> Why there should be
-<lb/>so much vegetation <!-- this is incorrect --><del type="strikethrough"><metamark function="placeMark" rend="red"/></del> 
+<lb/>so much vegetation <!-- this is incorrect. Two strikethroughs appearing --><del type="strikethrough"><metamark function="placeMark" rend="red"/></del> 
 <lb/><!-- this works correctly. Metamarks within a note are not a problem --><add place="marginleft" rend="gray" resp="#U2"><del type="strikethrough" rend="red" hand="#U3"><note><metamark function="query">Qu</metamark> this word</note></del></add> on the <placeName><geogName type="desert">Kalahari</geogName></placeName> 
 <lb/>may be explained <!-- this works correctly --><del type="cancelled" rend="gray" hand="#U2"><metamark function="ed-mark" rend="red" resp="#U3">X</metamark></del>
 <lb/><!-- this works correctly --><del type="cancelled" rend="red"><metamark function="ed-mark" place="marginleft">X</metamark></del> by the geological formation
 <lb/><!-- this works correctly. --><del type="strikethrough" rend="gray"><metamark function="deletion" place="marginleft" rend="red"/></del> of the country - 
 	
 <lb/>lots more text <!-- this works correctly --><del type="cancelled" rend="red"><metamark function="insertion"/></del>
-<lb/>lots more text <!-- this is incorrect --><del type="cancelled"><metamark function="transposition" rend="gray">Tr</metamark></del>
-<lb/>lots more text <!-- this is incorrect --><del type="strikethrough"><metamark function="query" rend="red">Qu</metamark></del>
-<lb/>lots more text <!-- this is incorrect --><del type="cancelled" rend="red"><metamark function="query" place="marginleft" rend="gray">Qu</metamark></del>
+<lb/>lots more text <!-- this is incorrect. Strikethrough should be black --><del type="cancelled"><metamark function="transposition" rend="gray">Tr</metamark></del>
+<lb/>lots more text <!-- this is incorrect. Strikethrough should be black.--><del type="strikethrough"><metamark function="query" rend="red">Qu</metamark></del>
+<lb/>lots more text <!-- this is incorrect. Colours correct, but metamark is not floating properly. --><del type="cancelled" rend="red"><metamark function="query" place="marginleft" rend="gray">Qu</metamark></del>
 	
 
 
