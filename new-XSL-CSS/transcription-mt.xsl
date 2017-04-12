@@ -1277,7 +1277,7 @@
 				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'reorder')]"><xsl:text>Editorial symbol used to transpose a portion of text from one place to another</xsl:text></xsl:when>
 			</xsl:choose>
 		</xsl:variable>
-		<span class="metamark {$metamark/@rend} {$metamark/@n} {$retrace-color}" title="{$metamarkText}">&#x23ac;</span>
+		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}">&#x23ac;</span>
 	</xsl:template>
 
 	<!-- anchor: to work with metamark using @spanTo, @function 'let-stand'. -->
