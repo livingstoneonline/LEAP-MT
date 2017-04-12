@@ -1013,7 +1013,7 @@
 	<xsl:template match="head">
 		<xsl:variable name="num" select="count(ancestor::*)"/>
 		<xsl:element name="{concat('h', $num)}">
-			<xsl:apply-templates select="@*|node()"/>
+			<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@resp, '-', ''), ' ', translate(@n, '-', ''))}"><xsl:apply-templates select="@*|node()"/></span>
 		</xsl:element>
 	</xsl:template>
 
