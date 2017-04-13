@@ -317,7 +317,7 @@
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@n, '-', ''))}"><xsl:apply-templates/></span><!-- Added @hand and @n for MT -->
 	</xsl:template>
 
-	<xsl:template match="add[@place='marginleft']|add[@place='marginright']|add[@place='marginbottom']" priority="9"><!-- Should 9 be 10? -->
+	<xsl:template match="add[@place='marginleft']|add[@place='marginright']|add[@place='marginbottom']|add[@place='margintop']" priority="9"><!-- Should 9 be 10? -->
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'addmargin')}"> [<xsl:apply-templates/>] </span><!-- Added @n for MT -->
 	</xsl:template>
 
@@ -1273,7 +1273,7 @@
 		<xsl:variable name="metamark" select="preceding::metamark[concat('#', $id)=@spanTo][1]"/>
 		<xsl:variable name="meta-edits">
 			<xsl:choose>
-				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][parent::del]">del</xsl:when>
+				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][parent::del[@hand, '#DL']]">del</xsl:when>
 				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][parent::retrace]">retrace</xsl:when>
 			</xsl:choose>
 		</xsl:variable>
@@ -1566,6 +1566,10 @@
 		<span class="closer-salute">
 			<xsl:apply-templates/>
 		</span>
+	</xsl:template>
+
+	<xsl:template match="seg">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}"><xsl:apply-templates/></span>	
 	</xsl:template>
 
 	<xsl:variable name="settlement" select="doc('settlement.xml')"/>

@@ -507,6 +507,11 @@ p{
 .large{
 	font-size:120%;
 }
+seg.left{
+	float: left;
+	margin-left: -5em;
+	text-indent: 0;
+}
 .overline{
 	text-decoration: overline;
 }
@@ -589,14 +594,14 @@ p{
      half as far down as the superscript moved up */
 	bottom:-0.25em;
 }
-.margintop{
+/*.margintop{
 	margin-left:0;
 	color:#706f6a;
 	line-height:0;
 	position:relative;
 	vertical-align:baseline;
 	top:-1em;
-}
+}*/
 .margintop.left{
 }
 .margintop.right{
