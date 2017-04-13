@@ -786,6 +786,9 @@ font-size:1em !important;
 	border-bottom:1px gray dotted;
 	font-size: 2em !important;
 }
+.metamark.placeMark.marginleft{
+	    margin-left: -2em !important;
+}
 .metamark.deletion{
 	font-style:italic;
 	border-bottom:1px gray dotted;

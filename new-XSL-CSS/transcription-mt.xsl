@@ -1271,13 +1271,19 @@
 		[preceding::metamark/@spanTo = concat('#', @xml:id)]">
 		<xsl:variable name="id" select="@xml:id"/>
 		<xsl:variable name="metamark" select="preceding::metamark[concat('#', $id)=@spanTo][1]"/>
+		<xsl:variable name="meta-edits">
+			<xsl:choose>
+				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][parent::del]">del</xsl:when>
+				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][parent::retrace]">retrace</xsl:when>
+			</xsl:choose>
+		</xsl:variable>
 		<xsl:variable name="metamarkText">
 			<xsl:choose>
 				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'flag')]"><xsl:text>Editorial line, circle or bracket used to flag a portion of text</xsl:text></xsl:when>
 				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'reorder')]"><xsl:text>Editorial symbol used to transpose a portion of text from one place to another</xsl:text></xsl:when>
 			</xsl:choose>
 		</xsl:variable>
-		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}">&#x23ac;</span>
+		<span class="metamark {$metamark/@rend} {$metamark/@n} {$metamark} {$meta-edits}" title="{$metamarkText}">&#x23ac;</span>
 	</xsl:template>
 
 	<!-- anchor: to work with metamark using @spanTo, @function 'let-stand'. -->
