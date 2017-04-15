@@ -507,14 +507,13 @@ p{
 .large{
 	font-size:120%;
 }
-.left{
+.seg.left{
 	display: block;	
 	margin-left: -5em;
 	text-indent: 0;
+	
 }
-.overline{
-	text-decoration: overline;
-}
+
 .overline.underline{
 	text-decoration:overline underline;
 }
