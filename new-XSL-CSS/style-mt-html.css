@@ -509,10 +509,13 @@ p{
 }
 .seg.left{
 	display:inline-block;	
-	margin-left:-4em;
-	text-indent:0;
+	margin-left:-4em !important;
+	text-indent:0 !important;
 }
-
+.body.left{
+	text-indent:0;
+	margin-left:12em;
+}
 .overline.underline{
 	text-decoration:overline underline;
 }
