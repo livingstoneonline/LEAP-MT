@@ -508,10 +508,9 @@ p{
 	font-size:120%;
 }
 .seg.left{
-	display: block;	
-	margin-left: -5em;
-	text-indent: 0;
-	
+	display:inline-block;	
+	margin-left:-4em;
+	text-indent:0;
 }
 
 .overline.underline{
