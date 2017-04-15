@@ -167,8 +167,10 @@
 	</xsl:template>-->
 
 	<xsl:template match="div">
-		<div class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@resp, '-', ''), ' ', translate(@n, '-', ''))}"><!-- Added @resp and @n for MT -->
-			<xsl:apply-templates/>
+		<div class="vertical-line">
+			<div class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@resp, '-', ''), ' ', translate(@n, '-', ''))}"><!-- Added @resp and @n for MT -->
+				<xsl:apply-templates/>
+			</div>
 		</div>
 		<br/>
 	</xsl:template>
