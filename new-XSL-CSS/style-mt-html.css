@@ -824,6 +824,10 @@ font-size:1em !important;
 	border-bottom:1px gray dotted;
 	/*font-size: 1.1em;*/
 }
+.marginleft.marginleft.metamark.deletion,
+.marginleft.marginleft.metamark.ed-mark{
+	float:none;
+}
 .metamark.transposition{
 	font-style:italic;
 	border-bottom:1px gray dotted;
@@ -835,6 +839,11 @@ font-size:1em !important;
 	float:left;
 	text-align:center;
 	font-size:.9em;
+}
+.metamark.placeMark.marginleft{
+	margin-left: -3em !important;
+	float: none !important;
+	line-height: 100%;
 }
 .metamark.marginleft.second-margin-metamark{
     margin-left:-3.1em !important;/*Changed. AW*/	
