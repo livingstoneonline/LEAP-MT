@@ -816,13 +816,23 @@ font-size:1em !important;
 	font-size: 2em !important;
 }
 .metamark.placeMark.marginleft{
-	    margin-left: -2em !important;
+	    margin-left: -3em !important;
 	    font-size: 2em !important;
+		float:none;
+		line-height:100%;
 }
 .metamark.deletion{
 	font-style:italic;
 	border-bottom:1px gray dotted;
 	/*font-size: 1.1em;*/
+}
+.marginleft.marginleft.metamark.deletion,
+.marginleft.marginleft.metamark.ed-mark{
+	float:none;
+	margin-left: -5em !important;
+}
+.marginleft.marginleft .metamark.placeMark.marginleft{
+	float:left;
 }
 .metamark.transposition{
 	font-style:italic;
@@ -830,9 +840,9 @@ font-size:1em !important;
 	/*font-size: .9em;*/
 }
 .metamark.marginleft{
-    margin-left:-5.2em !important;/*Changed. AW*/
+    margin-left:-12em !important;/*Changed from 5.2em. AW*/
 	text-indent:0;	
-	float:left;
+	float:none;
 	text-align:center;
 	font-size:.9em;
 }
