@@ -62,7 +62,7 @@ div.body{
 }
 .vertical-line{
 	border-left: thin solid white;
-	padding-left: 1.9em;
+	padding-left: .8em;
 }
 .front,
 .back{
@@ -382,7 +382,7 @@ p{
 }
 .marginleft.marginleft,
 .note.marginleft{
-	margin-left:-11em;/*Changed. AW*/
+	margin-left:-8.9em;/*Changed. AW*/
 	text-indent:0;	
 	float:left;
 	text-align:left;
@@ -839,14 +839,14 @@ font-size:1em !important;
 	/*font-size: .9em;*/
 }
 .metamark.marginleft{
-    margin-left:-5em !important;/*Changed. AW*/
+    margin-left:-5.2em !important;/*Changed. AW*/
 	text-indent:0;	
 	float:left;
 	text-align:center;
 	font-size:.9em;
 }
 .metamark.marginleft.second-margin-metamark{
-    margin-left:-3.1em !important;/*Changed. AW*/	
+    margin-left:-3.2em !important;/*Changed. AW*/	
 }
 .metamark.marginleft.alternate-margin-metamark{
 	margin-left:-3em !important;/*Changed. AW*/
