@@ -98,7 +98,7 @@
 
 <pb facs="liv_000099_0092.jpg" n="0092"/>
 <lb/><p><!-- this is incorrect --><del type="cancelled" rend="gray" hand="#U2"><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/></del> Why there should be
-<lb/>so much vegetation <!-- this works correctly --><del type="strikethrough"><metamark function="placeMark" rend="red"/></del> 
+<lb/>so much vegetation 
 <lb/><!-- this works correctly. Metamarks in notes work ok. --><add place="marginleft" rend="gray" resp="#U2"><del type="strikethrough" rend="red" hand="#U3"><note><metamark function="query">Qu</metamark> this word</note></del></add> on the <placeName><geogName type="desert">Kalahari</geogName></placeName> 
 <lb/>may be explained <!-- this works correctly --><del type="cancelled" rend="gray" hand="#U2"><metamark function="ed-mark" rend="red" resp="#U3">X</metamark></del>
 <lb/><!-- this is incorrect --><del type="cancelled" rend="red"><metamark function="ed-mark" place="marginleft">X</metamark></del> by the geological formation
