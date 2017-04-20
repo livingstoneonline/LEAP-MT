@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt3.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000102">
     <teiHeader>
         <fileDesc>
@@ -106,9 +106,8 @@
 <!-- Note: This fragment follows the coding practices of the Missionary Travels project, so that it can be integrated later on. AW -->
 <!-- From Justin: "There are some symbols that are used as shorthand. An apostrophe is used for ‘the’ and a grave accent is used for ‘of’." -->
 
-                <pb facs="liv_000102_0001.jpg" n="0001"/>               
-<!-- Missionary Travels, foot of p366-367, sh -->
-                
+	<pb facs="liv_000102_0001.jpg" n="0001"/>               
+<!-- Missionary Travels, foot of p366-367, sh -->                
 <lb/><p rend="no-indent"><add place="marginleft" hand="#U1" n="U1" rend="gray"><note>1 pp. 366-367</note></add><!-- the number '1' is within a circle, sh --> of the 5<hi rend="sup underline">th</hi> <persName>Cypriano</persName> <anchor corresp="reorder-3"/> supplied  
 <lb/>my men <metamark function="reorder" spanTo="#meta-10"/><seg corresp="#reorder-3">generously</seg><anchor xml:id="meta-10"/> with
 <lb/><term type="plant_foodstuff">pumpkin</term>s and <term type="plant_foodstuff">maize</term>
@@ -145,19 +144,17 @@
 <lb/>a small work on medicine</p>
 
         
- <pb facs="liv_000102_0002.jpg" n="0002"/> 
-    
-    <!-- The writing on this page has bled through from liv_000102_0001.jpg, sh/>  -->
+	<pb facs="liv_000102_0002.jpg" n="0002"/> 
+<lb/><!-- The writing on this page has bled through from liv_000102_0001.jpg, sh/>  -->
 
-<pb facs="liv_000102_0003.jpg" n="0003"/> 
             </div>
             <div hand="#CL" n="CL">
+
+	<pb facs="liv_000102_0003.jpg" n="0003"/> 
 <!-- Missionary Travels, p454, sh -->
 <!-- body of text by Charles Livingstone, sh -->
 <!-- abbreviations used: ` for 'of', and ' for 'the', sh-->
-
-
-<lb/><p>nor varied <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>The <term type="animal"><placeName><country>Senegal</country></placeName> long claw</term> however maintains its place
+<lb/><p rend="no-indent">nor varied <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>The <term type="animal"><placeName><country>Senegal</country></placeName> long claw</term> however maintains its place
     <lb/>and is the largest bird seen - We saw a <term type="animal">butcher bird</term>
     <lb/>in a trap as
     <lb/>we passed</add> <supplied cert="high">-</supplied>  <add place="below">There are</add> <choice><sic>Remarkably</sic><corr>remarkably</corr></choice> few small animals
@@ -186,10 +183,8 @@
 <lb/>feeding beside <choice><abbr>'</abbr><expan>the</expan></choice> dark <term type="animal">buffalo</term> and sleek <term type="animal">elands</term>
 <lb/>Here <term type="animal">hippopotami</term> are known to exist only by <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/>footprints on <choice><abbr>'</abbr><expan>the</expan></choice> banks <space extent="3" unit="chars"/> No one is ever seen to blow
-<lb/><add place="marginleft" hand="#U2" n="U2" rend="gray"><note>2 &amp; 3<!-- numbers within a circle, sh -->
-    <lb/>pp. 454-456</note></add>
-or put his head up at all <supplied cert="high">-</supplied> They have learned to
-<lb/>breathe in silence and <add place="below">^</add> <add place="above">keep</add> out of sight <space extent="3" unit="chars"/> We never
+<lb/><add place="marginleft" hand="#U2" n="U2" rend="gray"><note>2 &amp; 3</note></add><!-- numbers within a circle, sh --> or put his head up at all <supplied cert="high">-</supplied> They have learned to
+<lb/><add place="marginleft" hand="#U2" n="U2" rend="gray"><note>pp. 454-456</note></add> breathe in silence and <add place="below">^</add> <add place="above">keep</add> out of sight <space extent="3" unit="chars"/> We never
 <lb/>heard one uttering <choice><abbr>'</abbr><expan>the</expan></choice> snorting sound so common on the
 <lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <space extent="4" unit="chars"/> We crossed two small streams
     <lb/><add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/><del type="cancelled">Kangesi</del>
@@ -217,11 +212,10 @@ or put his head up at all <supplied cert="high">-</supplied> They have learned t
 <lb/><term type="foodstuff">vegetable</term> food is <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant_foodstuff">manioc</term> and <term type="plant_foodstuff">lotsa meal</term></p>       
 <lb/><p><del type="strikethrough">They</del> These contain a very large proportion <choice><abbr>'</abbr><expan>of</expan></choice> <term type="foodstuff">starch</term>
 
-<pb facs="liv_000102_0004.jpg" n="0004"/> 
+	<pb facs="liv_000102_0004.jpg" n="0004"/> 
+<lb/><!-- The writing on this page has bled through from liv_000102_0003.jpg, sh/>  -->
 
-<!-- The writing on this page has bled through from liv_000102_0003.jpg, sh/>  -->
-
-<pb facs="liv_000102_0005.jpg" n="0005"/> 
+	<pb facs="liv_000102_0005.jpg" n="0005"/> 
     <!-- body of text by Charles Livingstone. jl -->
 <lb/>and when eaten alone for any length <choice><abbr>`</abbr><expan>of</expan></choice> time <w>pro-
 <lb break="no"/>duce</w> most distressing <term type="ailment">heartburn</term> and as we ourselves
@@ -257,11 +251,9 @@ or put his head up at all <supplied cert="high">-</supplied> They have learned t
 <lb/>them after getting all <choice><abbr>'</abbr><expan>the</expan></choice> remaining good<supplied cert="high">s</supplied> safely into
 <lb/>a house in <placeName><settlement type="village">Cabango</settlement></placeName> <space extent="3" unit="chars"/> then he might deduct
 <lb/>something from their pay for what they had purloined</p></div>    
-	    
-
         <div>
-<pb facs="liv_000102_0005.jpg" n="0006"/> 
 
+	<pb facs="liv_000102_0005.jpg" n="0006"/> 
 <!-- Text written perpendicular to the lines on page, between folds in the paper, sh  -->
 <!-- handwritting unidentified, sh -->
 <lb/><space dim="vertical" extent="9" unit="lines"/>
@@ -269,7 +261,7 @@ or put his head up at all <supplied cert="high">-</supplied> They have learned t
 <lb break="no"/>script</w> of <persName>D<hi rend="sup">r</hi> <w>Living-
 <lb break="no"/>stone</w></persName>'s <bibl>Travels in
 <lb/><placeName><bloc>Africa</bloc></placeName></bibl> given by the
-<lb/>author to <persName>D<hi rend="sup underline">r</hi> <unclear cert="medium">Keith</unclear></persName>
+<lb/>author to <persName>D<hi rend="sup underline">r</hi> Keith</persName>
 <lb/>of <placeName><settlement type="town">Hamilton</settlement></placeName> - </add></p>
                  
         </div>
