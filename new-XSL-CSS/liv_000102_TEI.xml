@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="transcription-mt3.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-mt3.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000102">
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III)</title>
- 				<title type="alternative">Manuscript of "Missionary Travels and Researches in South Africa" (Part III)</title><!-- This will change with each volume of the MS. -->
+                <title>Holograph Fragment of Missionary Travels and Researches in South Africa</title>
+                <title type="alternative">Holograph Fragment of Missionary Travels and Researches in South Africa, January-October 1857</title><!-- This will change with each volume of the MS. -->
                 <author>David Livingstone</author>
                 <principal>Adrian S. Wisnicki</principal>
                 <principal>Megan Ward</principal>
@@ -54,7 +54,7 @@
                     </physDesc>
                 </msDesc>
                 <bibl type="sourceMetadata">
-                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III).</title><!-- This will change with each volume of the MS. -->
+                    <title type="alternative">Holograph Fragment of Missionary Travels and Researches in South Africa, January-October 1857</title><!-- This will change with each volume of the MS. -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
                 </bibl>
