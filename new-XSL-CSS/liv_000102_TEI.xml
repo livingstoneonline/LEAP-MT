@@ -6,9 +6,15 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III).</title><!-- This will change with each volume of the MS. -->
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III)</title>
+ 				<title type="alternative">Manuscript of "Missionary Travels and Researches in South Africa" (Part III)</title><!-- This will change with each volume of the MS. -->
                 <author>David Livingstone</author>
-                <principal>Justin Livingstone</principal>
+                <principal>Adrian S. Wisnicki</principal>
+                <principal>Megan Ward</principal>
+                <respStmt xml:id="SH">
+                    <name>Stephen Hall</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
                 <respStmt xml:id="JL">
                     <name>Justin Livingstone</name>
                     <resp>Transcription and Encoding</resp>
@@ -18,39 +24,13 @@
                     <name>Adrian S. Wisnicki</name>
                     <resp>Encoding Consultant</resp>
                 </respStmt>
-                <respStmt xml:id="KS">
-                    <name>Kate Simpson</name>
-                    <resp>Transcription and Encoding</resp>
-                </respStmt>
-                <respStmt xml:id="JG">
-                    <name>Johanna Green</name>
-                    <resp>Transcription and Encoding</resp>
-                </respStmt>
-                <respStmt xml:id="PS">
-                    <name>Peter Slater</name>
-                    <resp>Transcription and Encoding</resp>
-                </respStmt>
-                <respStmt xml:id="SH">
-                    <name>Stephen Hall</name>
-                    <resp>Transcription and Encoding</resp>
-                </respStmt>
             </titleStmt>
             <publicationStmt>
                 <authority>Livingstone Online</authority>
-                <publisher>UCLA Digital Library</publisher>
-                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <publisher>University of Maryland Libraries</publisher>
+                <pubPlace>College Park, MD, USA</pubPlace>
                 <!-- Possible year update. -->
-                <date>2014</date>
-                <availability>
-                    <!-- Possible license change. -->
-                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
-                        All materials are licensed for use under the 
-                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
-                            Creative Commons Attribution-Noncommercial 3.0 Unported License
-                        </ref>. 
-                        (c) Dr. Neil Imray Livingstone Wilson, 2014
-                    </licence>
-                </availability>
+                <date>2016</date>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -73,7 +53,6 @@
                         </handDesc>
                     </physDesc>
                 </msDesc>
-                
                 <bibl type="sourceMetadata">
                     <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III).</title><!-- This will change with each volume of the MS. -->
                     <author xml:id="DL">David Livingstone</author>
@@ -97,7 +76,7 @@
             <change when="2015-11-24" who="#SH">Initial transcription and XML encoding</change>
         </revisionDesc>
     </teiHeader>
-    
+
     <text>
         <body rend="right">
             <div hand="#DL" n="DL">
@@ -106,16 +85,16 @@
 <!-- Note: This fragment follows the coding practices of the Missionary Travels project, so that it can be integrated later on. AW -->
 <!-- From Justin: "There are some symbols that are used as shorthand. An apostrophe is used for ‘the’ and a grave accent is used for ‘of’." -->
 
-	<pb facs="liv_000102_0001.jpg" n="0001"/>               
+	<pb facs="liv_000102_0001" n="0001"/>               
 <!-- Missionary Travels, foot of p366-367, sh -->                
 <lb/><p rend="no-indent"><add place="marginleft" hand="#U1" n="U1" rend="gray"><note>1 pp. 366-367</note></add><!-- the number '1' is within a circle, sh --> of the 5<hi rend="sup underline">th</hi> <persName>Cypriano</persName> <anchor corresp="reorder-3"/> supplied  
 <lb/>my men <metamark function="reorder" spanTo="#meta-10"/><seg corresp="#reorder-3">generously</seg><anchor xml:id="meta-10"/> with
 <lb/><term type="plant_foodstuff">pumpkin</term>s and <term type="plant_foodstuff">maize</term>
 <lb/>and then invited me to
 <lb/>breakfast - which consisted
-<lb/>of <term type="plant_foodstuff">earth nuts</term> and roasted
+<lb/>of <term type="plant_foodstuff"><choice><orig>earth nuts</orig><reg>earthnuts</reg></choice></term> and roasted
 <lb/><term type="plant_foodstuff">maize</term> - Then boiled <term type="plant_foodstuff">manioc</term>
-<lb/>roots and <term type="plant_foodstuff">earth nuts</term> - <add place="below">^</add> <subst><del type="cancelled">Then</del><add place="above">with</add></subst>
+<lb/>roots and <term type="plant_foodstuff"><choice><orig>earth nuts</orig><reg>earthnuts</reg></choice></term> - <add place="below">^</add> <subst><del type="cancelled">Then</del><add place="above">with</add></subst>
 <lb/><term type="plant_foodstuff">guavas</term> and <term type="foodstuff">honey</term> as a
 <lb/>desert - I felt sincerely
 <lb/>grateful for this <del type="strikethrough" hand="#CL" n="CL">glorious</del> <add place="below">^</add> <add place="marginleft" hand="#CL" n="CL">magnificent</add>
@@ -126,7 +105,7 @@
 <lb/>joined us <del type="strikethrough">at it in</del> doing
 <lb/>justice to his hospitality
 <lb/><metamark function="reorder" spanTo="#meta-11" resp="#CL" n="CL"/><seg corresp="#reorder-4">one of them cut up a
-<lb/><term type="animal">fowl</term> with a knife &amp; fork</seg><anchor xml:id="meta-11"/>    
+<lb/><term type="animal_foodstuff">fowl</term> with a knife &amp; fork</seg><anchor xml:id="meta-11"/>    
 <lb/><del type="cancelled">and the others</del> <del type="cancelled" hand="#CL" n="CL">Then</del> <add place="marginleft" hand="#CL" n="CL"><metamark function="insertion"/>Before eating</add> all
 <lb/>had water poured on
 <lb/>the hands <add place="marginleft" hand="#CL" n="CL"><metamark function="insertion"/>by a female <orgName>slave</orgName></add> to wash them <supplied cert="high">-</supplied>
@@ -144,18 +123,18 @@
 <lb/>a small work on medicine</p>
 
         
-	<pb facs="liv_000102_0002.jpg" n="0002"/> 
+	<pb facs="liv_000102_0002" n="0002"/> 
 <lb/><!-- The writing on this page has bled through from liv_000102_0001.jpg, sh/>  -->
 
             </div>
             <div hand="#CL" n="CL">
 
-	<pb facs="liv_000102_0003.jpg" n="0003"/> 
+	<pb facs="liv_000102_0003" n="0003"/> 
 <!-- Missionary Travels, p454, sh -->
 <!-- body of text by Charles Livingstone, sh -->
 <!-- abbreviations used: ` for 'of', and ' for 'the', sh-->
 <lb/><p rend="no-indent">nor varied <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>The <term type="animal"><placeName><country>Senegal</country></placeName> long claw</term> however maintains its place
-    <lb/>and is the largest bird seen - We saw a <term type="animal">butcher bird</term>
+    <lb/>and is the largest bird seen - We saw a <term type="animal"><choice><orig>butcher bird</orig><reg>butcherbird</reg></choice></term>
     <lb/>in a trap as
     <lb/>we passed</add> <supplied cert="high">-</supplied>  <add place="below">There are</add> <choice><sic>Remarkably</sic><corr>remarkably</corr></choice> few small animals
 <lb/>they having been hunted almost to extinction few
@@ -202,20 +181,20 @@
 <lb/>food may be formed from <choice><abbr>'</abbr><expan>the</expan></choice> fact that <persName><choice><abbr>Capt</abbr><expan>Captain</expan></choice>
 <lb/>Neves</persName> purchased 380<choice><abbr>lbs</abbr><expan>pounds</expan></choice> <choice><abbr>`</abbr><expan>of</expan></choice> <term type="plant">tobacco</term> from <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Bangalas</term>
 <lb/>for about 2 pounds Sterling This when carried into
-<lb/><placeName><region>Central Londa</region></placeName> might purchase seven thousand
+<lb/><placeName><region>Central <choice><orig>Londa</orig><reg>Lunda</reg></choice></region></placeName> might purchase seven thousand
 <lb/>five hundred <term type="animal_foodstuff">fowls</term> or feed with <term type="foodstuff">meal</term> &amp; <term type="animal_foodstuff">fowls</term>
 <lb/>seven thousand persons for one day giving each a <term type="animal_foodstuff">fowl</term>
 <lb/>and 5 <choice><abbr>lbs</abbr><expan>pounds</expan></choice> <choice><abbr>`</abbr><expan>of</expan></choice> <term type="foodstuff">meal</term> <space extent="5" unit="chars"/> When food is purchased
 <lb/>here with either <term type="foodstuff">salt</term> or coarse calico 4 persons
-<lb/>can be well fed with animal &amp; <term type="foodstuff">vegetable</term>
+<lb/>can be well fed with animal &amp; vegetable
 <lb/>food at <choice><abbr>'</abbr><expan>the</expan></choice> rate <choice><abbr>`</abbr><expan>of</expan></choice> one penny a day - The Chief
-<lb/><term type="foodstuff">vegetable</term> food is <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant_foodstuff">manioc</term> and <term type="plant_foodstuff">lotsa meal</term></p>       
+<lb/>vegetable food is <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant_foodstuff">manioc</term> and <term type="plant_foodstuff">lotsa meal</term></p>       
 <lb/><p><del type="strikethrough">They</del> These contain a very large proportion <choice><abbr>'</abbr><expan>of</expan></choice> <term type="foodstuff">starch</term>
 
-	<pb facs="liv_000102_0004.jpg" n="0004"/> 
-<lb/><!-- The writing on this page has bled through from liv_000102_0003.jpg, sh/>  -->
+	<pb facs="liv_000102_0004" n="0004"/> 
+<lb/><!-- The writing on this page has bled through from liv_000102_0003, sh/>  -->
 
-	<pb facs="liv_000102_0005.jpg" n="0005"/> 
+	<pb facs="liv_000102_0005" n="0005"/> 
     <!-- body of text by Charles Livingstone. jl -->
 <lb/>and when eaten alone for any length <choice><abbr>`</abbr><expan>of</expan></choice> time <w>pro-
 <lb break="no"/>duce</w> most distressing <term type="ailment">heartburn</term> and as we ourselves
@@ -235,7 +214,7 @@
 <lb/>march lay down and slept in <choice><abbr>'</abbr><expan>the</expan></choice> forest then
 <lb/>waking in <choice><abbr>'</abbr><expan>the</expan></choice> dark went farther and farther
 <lb/>astray <space extent="3" unit="chars"/> The treatment <choice><abbr>` '</abbr><expan>of the</expan></choice> <orgName>slaves</orgName> when witnessed
-<lb/>by my men certainly did not raise <term type="occupation">slaveholders</term>
+<lb/>by my men certainly did not raise <orgName><term type="occupation">slaveholders</term></orgName>
 <lb/>in their estimation Their usual exclamation
 <lb/>was "<foreign xml:lang="und">Ga ba na pelu</foreign>" (They have no heart) and
 <lb/>added in reference to <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>slaves</orgName> "Why do they let them?"
@@ -253,7 +232,7 @@
 <lb/>something from their pay for what they had purloined</p></div>    
         <div>
 
-	<pb facs="liv_000102_0005.jpg" n="0006"/> 
+	<pb facs="liv_000102_0006" n="0006"/> 
 <!-- Text written perpendicular to the lines on page, between folds in the paper, sh  -->
 <!-- handwritting unidentified, sh -->
 <lb/><space dim="vertical" extent="9" unit="lines"/>
