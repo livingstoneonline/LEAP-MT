@@ -108,6 +108,7 @@
 <lb/>lots more text <!-- this works correctly --><del type="cancelled"><metamark function="transposition" rend="gray">Tr</metamark></del>
 <lb/>lots more text <!-- this works correctly --><del type="strikethrough"><metamark function="query" rend="red">Qu</metamark></del>
 <lb/>lots more text <!-- this is incorrect --><del type="cancelled" rend="red"><metamark function="query" place="marginleft" rend="gray">Qu</metamark></del>
+<lb/><metamark function="query" place="marginleft" rend="gray">Qu</metamark>lots more text
 	
 
 
