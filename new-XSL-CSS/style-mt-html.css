@@ -382,7 +382,7 @@ p{
 }
 .marginleft.marginleft,
 .note.marginleft{
-	margin-left:-10.7em;/*Changed. AW*/
+	margin-left:-8.9em;/*Changed. AW*/
 	text-indent:0;	
 	float:left;
 	text-align:left;
@@ -815,12 +815,17 @@ font-size:1em !important;
 	border-bottom:1px gray dotted;
 	font-size:2em !important;
 }
-.metamark.placeMark.marginleft{
-	    margin-left:-3em !important;
+/*.metamark.placeMark.marginleft{
+	    margin-left:-5em !important;
 		margin-right:2.5em;
 	    font-size:2em !important;
 		float:none;
 		line-height:100%;
+}*/
+.marginleft.marginleft.metamark.marginleft.placeMark{
+	float:none;
+	margin-left:-2em !important;
+	margin-right:1.4em;
 }
 .metamark.deletion{
 	font-style:italic;
@@ -836,12 +841,12 @@ font-size:1em !important;
 .marginleft.marginleft.metamark.marginleft{
 	float:none;
 	margin-left:-5em !important;
-	margin-right:4.3em;
+	margin-right:4.2em;
 }
 .marginleft.marginleft.metamark.marginleft.query{
-	float:left;
-	margin-left:-4em !important;
-	margin-right:0em;
+	float:none;
+	margin-left:-5em !important;
+	margin-right:3.8em;
 }
 .marginleft.marginleft .metamark.placeMark.marginleft{
 	float:left;
