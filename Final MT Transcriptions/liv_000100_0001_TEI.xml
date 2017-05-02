@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000100">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+<author>David Livingstone</author>
+<principal>Justin Livingstone</principal>
+<respStmt xml:id="JL">
+<name>Justin Livingstone</name>
+<resp>Transcription and Encoding</resp>
+<resp>Editorial Decisions</resp>
+</respStmt>
+<respStmt xml:id="AW">
+<name>Adrian S. Wisnicki</name>
+<resp>Encoding Consultant</resp>
+</respStmt>
+<respStmt xml:id="KS">
+<name>Kate Simpson</name>
+<resp>Transcription and Encoding</resp>
+</respStmt>
+<respStmt xml:id="JG">
+<name>Johanna Green</name>
+<resp>Transcription and Encoding</resp>
+</respStmt>
+<respStmt xml:id="PS">
+<name>Peter Slater</name>
+<resp>Transcription and Encoding</resp>
+</respStmt>
+<respStmt xml:id="SH">
+<name>Stephen Hall</name>
+<resp>Transcription and Encoding</resp>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<authority>Livingstone Online</authority>
+<publisher>UCLA Digital Library</publisher>
+<pubPlace>Los Angeles, CA, USA</pubPlace>
+<!-- Possible year update. -->
+<date>2014</date>
+<availability>
+<!-- Possible license change. -->
+<licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+All materials are licensed for use under the 
+<ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+Creative Commons Attribution-Noncommercial 3.0 Unported License
+</ref>. 
+(c) Dr. Neil Imray Livingstone Wilson, 2014
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<msDesc>
+<msIdentifier>
+<country>United Kingdom</country>
+<settlement>Edinburgh</settlement>
+<repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+<idno type="shelfmark">MS.42429</idno><!-- This may change with each volume of the MS. -->
+<altIdentifier>
+<idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+</altIdentifier>
+</msIdentifier>
+<physDesc>
+<handDesc>
+<handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+<handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+</handDesc>
+</physDesc>
+</msDesc>
+
+<bibl type="sourceMetadata">
+<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+<author xml:id="DL">David Livingstone</author>
+<date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+<language ident="tn">Tswana</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+<change when="2016-07-22" who="#JL">Proofing and encoding review</change>
+<change when="2015-05-01" who="#KS">Proofreading</change>
+<change when="2015-02-08" who="#SH">Initial transcription and XML encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body rend="right">
+<div>
+<!-- Start each page with pagebreak -->
+
+<pb facs="liv_000100_0001.jpg" n="0001"/><!-- beginning of Chapter VIII in published MT.JL -->    
+<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">1</add></fw>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>113</note></add> The <term type="tribe">Bakalahari</term> who live
+<lb/>at <placeName><geogName type="well">Motlatsa wells</geogName></placeName> have
+<lb/>always been very friendly <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">to us</add> and
+<lb/>listen attentively to the introduction
+<lb/>conveyed to them in their
+<lb/>own tongue - It is however
+<lb/>difficult to <subst><del type="strikethrough">convey</del><add place="above">give</add></subst> an idea
+<lb/>to a<add place="below" rend="red" hand="#U3">n</add> <orgName>European</orgName> of the little
+<lb/>effect such teaching produces
+<lb/>because no one can realize
+<lb/>the degradation to which
+<lb/>their minds have been
+<lb/>sunk by centuries of
+<lb/>barbarianism and hard struggling
+<lb/>for the necessaries of life
+<lb/>They <add place="marginleft"><metamark function="insertion"/><subst><del>like</del><add place="over-text">and</add></subst> most others</add> listen with respect
+<lb/>and attention but when
+<lb/>we kneel down and
+<lb/>address an unseen <w><subst><del hand="#U3">b</del><add place="over-text" rend="red" hand="#U3">B</add></subst>eing</w>
+<lb/>the position often appears
+<lb/><add place="marginleft" rend="red" hand="#U3">to them</add> so ridiculous that they
+<lb/>cannot refrain from
+<lb/>bursting into <choice><orig>uncontroulable</orig><reg>uncontrollable</reg></choice>
+<lb/>laughter - After a few services
+<lb/><add place="marginleft"><del type="cancelled" hand="#U3" rend="red">with the <add place="above" hand="#U3" rend="red">wild</add> heathen</del></add> they get over this tendency: I
+<lb/>was once present when
+<lb/>a <term type="occupation">missionary</term> attempted
+<lb/>to sing <subst><del type="strikethrough" rend="red" hand="#U3">in</del><add place="above" rend="red" hand="#U3">among</add></subst> a <subst><del type="strikethrough" rend="red" hand="#U3">raw</del><add place="above" rend="red" hand="#U3">wild</add></subst> heathen <metamark function="insertion"/> tribe <add place="marginleft"><metamark function="insertion" rend="red" resp="#U3"/><add place="inline" rend="red" hand="#U3">of</add> <term type="tribe">Bechuana<add place="inline" rend="red" hand="#U3">s</add></term>
+    <lb/><del type="strikethrough" rend="red" hand="#U3">tribe</del> who have
+    <lb/>no music
+    <lb/>in their <w>com-
+    <lb break="no"/>position</w></add>
+<lb/>the effect <subst><del>of</del><add place="over-text">on</add></subst> the risible
+<lb/>powers of the audience
+<lb/><subst><del type="strikethrough" rend="red" hand="#U3">were</del><add place="above" rend="red" hand="#U3">was</add></subst> such that the tears
+<lb/>actually ran down their
+<lb/>cheeks Nearly all their
+<lb/>thoughts are directed to the
+<lb/>supply of their bodily wants    
+
+
+
+<pb facs="liv_000100_0002.jpg" n="0002"/>    
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">2</add></fw>
+<lb/>and this has been the case with
+<lb/>the race for ages - If asked
+<lb/>then what effect the preaching
+<lb/>of the gospel has <add place="below">^</add> <add place="above">at first</add> on such
+<lb/>individuals I am unable
+<lb/>to tell - <add place="marginleft"><metamark function="insertion"/>except that some
+    <lb/>have confessed
+    <lb/>long afterwards
+    <lb/>that they then
+    <lb/>first began
+    <lb/>to pray in secret</add> 
+Of the effects of a
+<lb/>long continued course of
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>114</note></add> instruction there can be
+<lb/>no reasonable doubt <add place="marginleft"><metamark function="insertion"/>as mere nominal
+    <lb/>belief <subst><del type="strikethrough">is not</del><add place="above">has never been</add></subst> <w>cont-
+    <lb break="no"/>sidered</w> sufficient
+    <lb/>by any body of <term type="occupation"><w>mission
+    <lb break="no"/>aries</w></term><add place="inline" hand="#U2" rend="gray">,</add> and</add>
+<lb/>after the change which has
+<lb/>been <del type="cancelled">effect</del> brought about
+<lb/>by this <del type="cancelled">same</del> agency
+<lb/><del type="cancelled">in the South</del> - <add place="marginleft"><metamark function="insertion"/>we have reason
+    <lb/>to hope well
+    <lb/>for the future</add> 
+Those I have
+<lb/>myself witnessed <subst><del>were</del><add place="over-text">behaving</add></subst> <add place="below">^</add> 
+<lb/><add place="marginleft"><metamark function="insertion"/>in the manner
+    <lb/>described</add>
+when <del type="cancelled">these most degraded
+<lb/>beings are</del> kindly treated
+<lb/>in sickness - <subst><del type="cancelled">they</del><add place="above">often</add></subst> utter
+<lb/><del type="cancelled">a few</del> words to <persName>Jesus</persName><add place="inline" hand="#U2" rend="gray">,</add> and
+<lb/>I believe sometimes <add place="below">^</add> <add place="above">really</add> pray
+<lb/>to him in their afflictions
+<lb/><del type="cancelled">and I believe</del> As that great
+<lb/>Redeemer of the guilty <del type="strikethrough" rend="red" hand="#U3">wishes</del>
+<lb/><add place="marginleft" rend="red" hand="#U3">seeks</add> to save all <w><subst><del hand="#U3">h</del><add place="over-text" hand="#U3" rend="red">H</add></subst>e</w> <del type="strikethrough" rend="red" hand="#U3">in <w>con-
+<lb break="no"/>sistency</w></del> can, <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">we may well hope that</add> they find
+<lb/>mercy through <w><subst><del hand="#U3">h</del><add place="over-text" rend="red" hand="#U3">H</add></subst>is</w> blood
+<lb/>though little able to appreciate
+<lb/>the sacrifice <w><subst><del hand="#U3">h</del><add place="over-text" rend="red" hand="#U3">H</add></subst>e</w> made
+<lb/>The indirect and scarcely
+<lb/>appreciable blessings of
+<lb/><term type="faith">Christian</term> <term type="occupation">missionaries</term> going
+<lb/>about doing good are
+<lb/><add place="marginleft">thus</add> probably not so despicable
+<lb/>as some might imagine   
+
+
+<pb facs="liv_000100_0003.jpg" n="0003"/>    
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">3</add></fw>
+<lb/>There is no necessity for
+<lb/>beginning to tell even the
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>115</note></add> most degraded of the existence
+<lb/>of a god or <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">of</add> <subst><del>of</del><add place="over-text">the</add></subst> future state<add place="inline" rend="gray" hand="#U2">,</add>
+<lb/>the two <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">facts</add> are universally
+<lb/>admitted - Everything <add place="inline" rend="red" hand="#U3">that</add>
+<lb/><add place="above" rend="red" hand="#U3">can not be</add> <w><del type="strikethrough" rend="red" hand="#U3">un</del>account<subst><del type="strikethrough" rend="red" hand="#U3">able</del><add place="above" rend="red" hand="#U3">ed</add></subst></w> <add place="above" rend="red" hand="#U3">for</add> by common
+<lb/>causes is ascribed to the
+<lb/>former<add place="inline" rend="gray" hand="#U2">,</add> - as creation<add place="inline" rend="gray" hand="#U2">,</add> - sudden
+<lb/>death<add place="inline" rend="gray" hand="#U2">,</add> &amp;c<add place="inline" rend="gray" hand="#U2"><del type="cancelled">,</del></add> "How curiously god
+<lb/>made these things" <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" rend="red" hand="#U3">is a common
+    <lb/>expression<add place="inline" hand="#U2" rend="gray">,</add> <add place="below" rend="red" hand="#U3">^</add>
+    <lb/>as is also,</add> 
+<del type="strikethrough" rend="red" hand="#U3">or</del>
+<lb/>"He was not killed by disease,
+<lb/>he was killed by God"
+<lb/>And <subst><del type="strikethrough" rend="red" hand="#U3">they</del><add place="above" rend="red" hand="#U3">when</add></subst> speak<add place="inline" rend="red" hand="#U3">ing</add> of the departed
+<lb/><add place="marginleft" rend="red" hand="#U3">-</add> though there is nought
+<lb/>in the physical appearance
+<lb/>of the dead to justify the
+<lb/>expression <add place="above" rend="red" hand="#U3">they say</add> <add place="inline" rend="red" hand="#U3">-</add> "He<!-- possible word beneath 'He'.JL --> has gone
+<lb/>to the Gods" the phrase being
+<lb/>identical with "<hi rend="underline"><foreign xml:lang="la">abiit ad 
+<lb/>plures</foreign></hi>" - But though they
+<lb/>all posses a distinct
+<lb/>knowledge of a deity and
+<lb/>future state<add place="inline" hand="#U2" rend="gray">,</add> they <choice><orig>shew</orig><reg>show</reg></choice>
+<lb/>so little reverence<add place="inline" rend="red" hand="#U3">,</add> and feel
+<lb/>so little connection with
+<lb/>either that it is not surprising
+<lb/>that some have supposed
+<lb/>them <del type="strikethrough">destitute</del> entirely ignorant
+<lb/><add place="marginleft" rend="red" hand="#U3">on the subject -</add> <del type="strikethrough" rend="red" hand="#U3">of them</del>- At <placeName><settlement type="village"><choice><orig>LotLakane</orig><reg>Lotlakani</reg></choice></settlement></placeName> 
+<lb/>we met an old <orgName>Bushman</orgName>
+<lb/>who at first seemed to have
+<lb/>no conception of morality
+<lb/>whatever - <add place="inline" rend="gray" hand="#U2">;</add> When his heart<!-- p159 of Travels. sh -->
+
+
+<pb facs="liv_000100_0004.jpg" n="0004"/>    
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">24</add> <add place="inspace" hand="#U1" rend="gray right">4</add></fw>
+<lb/>was warmed by our presents
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>116</note></add> of meat<add place="inline" hand="#U2" rend="gray">,</add> he sat by the fire
+<lb/>relating his early adventures
+<lb/>These were killing five
+<lb/>other <orgName><subst><del>b</del><add place="over-text">B</add></subst>ushmen</orgName> - "Two <add place="marginleft"><metamark function="insertion"/>said he<add place="inline" rend="gray" hand="#U2">,</add> counting
+    <lb/>on his fingers<add place="inline" rend="gray" hand="#U2">,</add></add> 
+were
+<lb/>females, one a male and
+<lb/>the other two calves - " What
+<lb/>a villain you are to boast
+<lb/>of killing women &amp; children
+<lb/>of your own nation - What
+<lb/>will God say when you
+<lb/>appear before him? He
+<lb/>will say<add place="inline" rend="gray" hand="#U2">,</add> replied he<add place="inline" rend="gray" hand="#U2">,</add> that
+<lb/>I was a very clever fellow"
+<lb/><del type="strikethrough">On farther</del> <space extent="2" unit="chars"/>. This person
+<lb/>now appeared to me as
+<lb/>without conscience<add place="inline" rend="gray" hand="#U2">,</add> &amp; of
+<lb/>course responsibility<add place="inline" rend="gray" hand="#U2">,</add> but
+<lb/>on trying to enlighten
+<lb/>him by farther conversation
+<lb/>I discovered that though
+<lb/>he was <subst><del type="strikethrough" rend="red" hand="#U3">using</del><add place="above" rend="red" hand="#U3">employing</add></subst> the <subst><del type="strikethrough" rend="red" hand="#U3">name</del><add place="above" rend="red" hand="#U3">word</add></subst>
+<lb/><del type="strikethrough" rend="red" hand="#U3">for God</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">which is used</add> among the <term type="tribe">Bakwains</term>
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="strikethrough" rend="red" hand="#U3">is used</del> when speaking
+    <lb/>of the Deity</add> 
+<add place="inline" rend="red" hand="#U3">-</add> he had only the idea of
+<lb/>a <term type="occupation">chief</term><add place="inline" rend="gray" hand="#U2">,</add> and was all
+<lb/>the while referring to <persName>Sekomi</persName><add place="inline" rend="gray" hand="#U2">,</add>
+<lb/>and a party of rebel <orgName><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName><add place="inline" rend="gray" hand="#U2">,</add>
+<lb/>against whom he had been
+<lb/>sent - If I had known
+<lb/>the name for God in the
+<lb/><orgName>Bushman</orgName> tongue the
+<lb/>mistake could scarcely
+<lb/>have occurred - </p>
+
+
+
+</div>
+</body>
+</text>
+
+</TEI>
+
+

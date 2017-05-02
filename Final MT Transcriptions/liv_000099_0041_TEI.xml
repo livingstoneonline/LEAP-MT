@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000099">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+                <author>David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <respStmt xml:id="JL">
+                    <name>Justin Livingstone</name>
+                    <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+                </respStmt>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Encoding Consultant</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="JG">
+                    <name>Johanna Green</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>UCLA Digital Library</publisher>
+                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <!-- Possible year update. -->
+                <date>2014</date>
+                <availability>
+                <!-- Possible license change. -->
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License
+                        </ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS.42428</idno><!-- This may change with each volume of the MS. -->
+                        <altIdentifier>
+                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                           <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                            <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor, or group of editors, in the employment of the publisher, John Murray.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+
+                <bibl type="sourceMetadata">
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            	<language ident="nl">Dutch</language>
+                <language ident="la">Latin</language>
+            	<language ident="und">Unknown</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+            <change when="2016-01-28" who="#JL">Proofing and encoding review</change>
+            <change when="2014-08-06" who="#JG">Proofreading</change>
+            <change when="2014-07-10" who="#KS">Initial transcription and XML encoding</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body rend="right">
+            <div>
+                <!-- Start each page with pagebreak -->
+                <pb facs="liv_000099_0041.jpg" n="0041"/>
+                
+                <!-- Start each line with linebreak -->              
+<lb/><p rend="no-indent"><note place="marginleft">III.</note> <fw><add place="inspace" hand="#U2" rend="gray right">35</add> <add place="inspace below" hand="#U1" rend="gray right">38</add></fw>
+<lb/>In our relations with this
+<lb/>people we were simply strangers
+<lb/>exercising no authority or
+<lb/>control whatever - Our
+<lb/>influence depended entirely
+<lb/>on persuasion, and having
+<lb/>taught them by kind conversation
+<lb/>as well as by public instruction
+<lb/>I expected them to do what their
+<lb/>own sense of right and wrong
+<lb/>dictated - We never wished
+<lb/>them to do right <add place="below">^</add> <add place="above">merely</add> because it
+<lb/>would be pleasing to us
+<lb/>nor thought ourselves to
+<lb/>blame when they did wrong -
+<lb/>although we were quite aware
+<lb/>of the absurd <del type="cancelled">colonial</del> idea
+<lb/>to that effect <supplied cert="high">-</supplied> <del type="cancelled">we believed that</del>
+<lb/>we saw that our teaching did
+<lb/>good to the general mind of
+<lb/>the people <add place="marginleft"><metamark function="insertion"/>I am certain 
+    <lb/>of five cases 
+    <lb/>in which by 
+    <lb/>good influence
+    <lb/>on public opinion 
+    <lb/><unclear cert="medium">war</unclear> was 
+<lb/>prevented - </add>
+and where in
+<lb/>individual cases we failed
+<lb/>they were no worse than they
+<lb/>were before we came - , In general
+<lb/>they are slow like our <orgName>African</orgName>
+<lb/>people hereafter to be described
+<lb/>in coming to a decision on
+<lb/>religious matters, but in
+<lb/>matters affecting their worldly
+<lb/>affairs they are keenly alive
+<lb/>to their own interests - They
+<lb/>might be called stupid in matters
+<lb/>which have not come under
+<lb/>the sphere of their observation
+
+	<pb facs="liv_000099_0042.jpg" n="0042"/>
+              
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">36</add> <add place="inspace below" hand="#U1" rend="gray right">39</add></fw>	
+<lb/>but in all matters which have
+<lb/>they <choice><orig>shew</orig><reg>show</reg></choice> more intelligence than
+<lb/>is to be met with in our own
+<lb/>peasantry - They are remarkably
+<lb/>accurate in their knowledge
+<lb/>of <term type="animal">cattle</term>, <term type="animal">sheep</term> and <del type="cancelled"><term type="animal"><unclear cert="medium">frogs</unclear></term></del> <term type="animal">goats</term> - 
+<lb/><w>Know<subst><del>l</del><add place="over-text">in</add></subst>g</w> exactly the kind of
+<lb/>pasturage suited to each, and
+<lb/>they select with great judgement
+<lb/>the kinds of soil best suited
+<lb/>to different kinds of grain
+<lb/>They are adepts in knowledge
+<lb/>of the habits of wild animals</p>
+<lb/><p>The place where we first
+<lb/>settled with the <term type="tribe">Bakwena</term> is called
+<lb/><placeName><settlement type="village">Chonuane</settlement></placeName>, and it happened to 
+<lb/>be visited <add place="below">^</add> <add place="above">during</add> the first year of our
+<lb/>residence there by one of those
+<lb/><seg type="weather">periodical droughts</seg> which occur
+<lb/>in even the most favoured
+<lb/>districts of <placeName><bloc>Africa</bloc></placeName></p>
+<lb/><space dim="vertical" extent="13" unit="lines"/>
+
+
+	<pb facs="liv_000099_0043.jpg" n="0043"/>
+	
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray right">37</add> <add place="inspace" hand="#U1" rend="gray right">40</add></fw>  
+<lb/><del type="cancelled" hand="#DL"><hi rend="gray underline" resp="#U2">there</hi></del> - Now the belief in <hi rend="gray underline" resp="#DL"><hi rend="underline" resp="#U2">rain making</hi></hi>
+<lb/>is one of the most deeply rooted
+<lb/>articles of faith in this country - 
+<lb/>The <term type="occupation">chief</term> <persName>Sechele</persName> being himself a
+<lb/>noted <term type="occupation">rain doctor</term> believed in it
+<lb/><add place="marginleft" hand="#U2" rend="gray"><metamark function="insertion"/>implicitly <add place="inline" hand="#DL">implicitly,</add></add> <del type="cancelled">utterly</del> - and he has often assured me
+<lb/>that he found it more difficult
+<lb/>to give up his faith in that<add place="inline" rend="gray" hand="#U2">,</add> <add place="above"><del type="cancelled">in</del></add> than in
+<lb/>anything else require by <term type="faith">Christianity</term> -
+<lb/>I pointed out the only feasible
+<lb/>way <add place="above">of</add> watering the gardens to be
+<lb/>to select some good never
+<lb/>failing river - make a canal
+<lb/>and irrigate their lands - This
+<lb/>suggestion was immediately adopted
+<lb/>and soon the whole tribe was
+<lb/>on the move to <placeName><settlement type="village">Kolobeng</settlement></placeName> about
+<lb/><measure>40 miles</measure> distant - The experiment
+<lb/>succeeded admirably during the first
+<lb/>year - The <term type="tribe">Bakwains</term> made the canal
+<lb/>and dam in exchange for my
+<lb/>labour in assisting to build a
+<lb/>square house for their <term type="occupation">chief</term> - They
+<lb/>also built their own school under
+<lb/>my superintendance - Our own house
+<lb/>at <placeName><settlement type="village">Kolobeng</settlement></placeName> was the third which
+<lb/>I had reared with my own hands
+<lb/><del type="strikethrough">but I had then become a jack of all
+<lb/>trades</del> - A <orgName>native</orgName> <term type="occupation">smith</term> taught me
+<lb/><add place="marginleft" hand="#U2" rend="gray"><note><metamark function="query">?</metamark> iron</note></add> to weld and having improved by
+<lb/>scraps of information in that line
+<lb/>and in <term type="occupation"><choice><sic>capentering</sic><corr>carpentering</corr></choice></term> and <term type="occupation">gardening</term>
+<lb/>and as my wife could make
+<lb/>candles soap and clothes we
+	
+	<pb facs="liv_000099_0044.jpg" n="0044"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">38</add> <add place="inspace" hand="#U1" rend="gray right">41</add></fw>  
+<lb/>came nearly up to what may be
+<lb/>considered <subst><del>an</del><add place="over-text">the</add></subst> essential part of a<del type="strikethrough">n</del>
+<lb/><placeName><region>Central Africa</region></placeName>n <term type="occupation">missionary</term>'s
+<lb/><subst><del type="cancelled">qualifications</del> <add place="above">accomplishments</add></subst> <choice><abbr>viz.</abbr><expan>videlicet</expan></choice> the husband
+<lb/>to be<del type="cancelled">ing</del> a jack of all trades without
+<lb/>and the wife a maid of all work
+<lb/>within - <seg type="weather">But in our second
+<lb/>year no rain again - In the third
+<lb/>the same extraordinary drought
+<lb/>followed - Indeed not <measure>ten inches</measure>
+<lb/>of water fell during these two years
+<lb/>and the <placeName><geogName type="river">Kolobeng</geogName></placeName> ran dry</seg>, so many
+<lb/><term type="animal">fish</term> being killed the <term type="animal">hyaenas</term> of
+<lb/>the whole country collected to 
+<lb/>the feast and were unable to 
+<lb/>finish the putrid masses - A
+<lb/>large old <term type="animal">alligator</term> which had never
+<lb/>been known by any depredations
+<lb/>was among the victims - The 
+<lb/>fourth year was equally <del type="cancelled">unpromising</del>
+<lb/>unpropitious - <seg type="weather">Too little rain</seg>
+<lb/>to bring the <term type="plant_footstuff">grain</term> to maturity, Nothing
+<lb/>could be more tantalising <choice><sic>,</sic><corr>-</corr></choice>  We 
+<lb/><retrace hand="#DL"><add place="marginleft" rend="gray" hand="#U2">dug</add></retrace> <del type="cancelled" hand="#DL"><del type="cancelled" rend="gray" hand="#U2">digged</del></del> down in the bed of the river
+<lb/>deeper and deeper as the water
+<lb/>receded<add place="inline" hand="#U2" rend="gray">,</add> striving to get a little to
+<lb/>keep the <term type="plant">fruit trees</term> alive for
+<lb/>better times, but in vain, needles
+<lb/>lying out of doors for months
+<lb/>did not rust, and a mixture
+<lb/>of sulphuric acid and water
+<lb/>used in a galvanic battery
+<lb/>parted with all its water to the
+<lb/>air instead of imbibing more
+	
+	
+<pb facs="liv_000099_0045.jpg" n="0045"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">(39</add> <add place="inspace below" hand="#U1" rend="gray right">42</add></fw>  
+<lb/>as it would have done in <placeName><country>England</country></placeName> -
+<lb/>The leaves of <choice><sic>indig<metamark function="query" rend="gray" place="inline">⁽</metamark>i<metamark function="query" rend="gray" place="inline">⁾</metamark>nous</sic><corr>indigenous</corr></choice><!-- the dot of the letter 'i' is circled by the editor to flag the misspelling.JL --> trees
+<lb/>were all drooping, soft, &amp; shrivelled
+<lb/>though not dead - And those of 
+<lb/>the <term type="plant">Mimosae</term> were closed at midday
+<lb/>as they are when going to sleep -
+<lb/>In the midst of this <seg type="weather">dreary
+<lb/>drought</seg> it was wonderful to see
+<lb/>these <del type="cancelled">wonderful</del> <add place="above">tiny</add> creatures the
+<lb/><term type="insect">ants</term> running about with their
+<lb/>accustomed vivacity - I put the bulb
+<lb/>of <add place="below">^</add> <add place="above">a</add> thermometer <measure>3 inches</measure> under the soil
+<lb/>and found <subst><del type="cancelled">it</del><add place="above">the mercury</add></subst> to stand at <seg type="weather">132˚ - 134˚</seg>
+<lb/>and if certain kinds of <term type="insect">beetles</term> were
+<lb/>placed on the surface they ran
+<lb/>about a few seconds &amp; expired -
+<lb/>but this <seg type="weather">broiling heat</seg> only augmented
+<lb/>the activity of the long legged <term type="insect">black
+<lb/>ant</term> - They never tire - Their organs
+<lb/>of motion seem endowed with the
+<lb/>same power as is ascribed by
+<lb/><term type="occupation">Physiologists</term> to the <add place="below">^</add> <add place="above">muscles of the</add> human heart
+<lb/>by which that part of the frame
+<lb/>never becomes fatigued and
+<lb/>which may be imparted to all
+<lb/>our bodily organs in that higher
+<lb/>state to which we fondly hope to 
+<lb/>rise - Where do they get their
+<lb/>moisture - ? Our house was built
+<lb/>on a hard ferruginous conglomerate
+<lb/>in order to be out of the<del type="cancelled">ir</del> way
+<lb/><add place="below">^</add> <add place="above">of the <term type="insect">white ant</term></add> but they came in spite of
+<lb/>the precaution and not only
+<lb/>were they in this <seg type="weather">sultry weather</seg>
+	
+	<pb facs="liv_000099_0046.jpg" n="0046"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">40</add> <add place="inspace" hand="#U1" rend="gray right">43</add></fw> 
+<lb/>able individually to moisten soil
+<lb/>to the consistency of plaster for
+<lb/>the formation of galleries towards
+<lb/>any vegetable matter they might
+<lb/>wish to devour, but when their	
+<lb/>inner chambers were laid open
+<lb/><del type="cancelled">they were</del> these were also <w>surprising<supplied>-</supplied>
+<lb break="no"/>-ly</w> <del type="strikethrough">moist</del> humid - Yet there was
+<lb/>no dew and the house being
+<lb/>placed on a rock they could
+<lb/>have no subterranean passage
+<lb/>to the bed of the river about <measure>300
+<lb/>yards</measure> <del type="cancelled">distant</del> below the hill <add place="inline">*</add></p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <seg type="weather">Rain however would not
+<lb/>fall</seg> - The <term type="tribe">Bakwains</term> believed that
+<lb/>I had bound <persName>Sechele</persName> with some
+<lb/><del type="strikethrough">sort of</del> magic spell - And I <choice><sic>recieved</sic><corr>received</corr></choice>
+<lb/>deputations in the evening <del type="strikethrough">from</del>
+<lb/>of the old counsellors entreating me
+<lb/>to allow him to make <add place="below">^</add> <add place="above">only</add> a few showers
+<lb/>"the <term type="plant_foodstuff">corn</term> will die if you refuse, and 
+<lb/>we shall become scattered" - "Only
+<lb/>let him this once and we shall
+<lb/>come to the school and <add place="below">^</add> <add place="above">sing &amp;</add> pray as
+<lb/>long as you <subst><del>like</del><add place="over-text">please</add></subst>" It was in
+<lb/>vain to protest that I wished <persName>Sechele</persName>
+<lb/>to act just according to his own
+<lb/>ideas of what was right as he found
+<lb/>the law laid down in the <bibl>Bible</bibl> -
+<lb/>And it was distressing to appear
+<lb/><subst><del type="cancelled">hard</del><add place="above">hard</add></subst> hearted to them - <seg type="weather">The clouds</seg>
+<lb/><milestone unit="section" rend="double-line"/>
+<lb/><lb/><add place="inspace"><note>*When we come to <placeName><country>Angola</country></placeName> I shall describe
+    <lb/>an insect there which distills several 
+    <lb/>pints of water every night</note></add>
+	
+	
+	<pb facs="liv_000099_0047.jpg" n="0047"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">41</add> <add place="inspace" hand="#U1" rend="gray right">44</add></fw> 
+<lb/><seg type="weather">often collected beautifully over us, and
+<lb/>Rolling thunder seemed to portend
+<lb/>refreshing showers, but next morning
+<lb/>the sun would rise in a cloudless
+<lb/>sky - Indeed these were more frequent
+<lb/>by far than days of sunshine are in
+<lb/><placeName><settlement type="city">London</settlement></placeName></seg> -
+<lb/><retrace hand="#DL"><metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-3"/></retrace><del type="cancelled"><del type="cancelled" hand="#U2">But how could they be so stupid
+<lb/>as to suppose that only one could
+<lb/>make rain? Why there is first of
+<lb/>all the right out human feeling</del></del>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note><retrace hand="#DL"><metamark function="deletion"/></retrace><!-- the proof correction mark for deletion. JL -->
+    <lb/><choice><abbr>dele</abbr><expan>delete</expan></choice>
+    <lb/><persName>JM</persName></note></add>
+<del type="cancelled"><del type="cancelled" hand="#U2">on which the knowing ones at home
+<lb/>work when they explain the rationale
+<lb/>of the operation of <add place="below">^</add> <add place="above"><persName>Morrison</persName>'s</add> vegetable pills -
+<lb/>It may be termed "the every man
+<lb/>his own doctor" feeling<del type="strikethrough">"</del> - The <orgName>natives</orgName>
+<lb/>like to do something - </del></del><anchor xml:id="meta-3"/><!-- the section is boxed by both DL and the editor to signal deletion. JL --> It is irksome
+<lb/>to sit and wait so helplessly as is
+<lb/>implied in the idea of <seg type="weather">God giving
+<lb/>the rain from Heaven</seg> - It is
+<lb/>more comfortable to help themselves
+<lb/>and they can do so by such a
+<lb/>variety of <del type="cancelled">native medica</del> <add place="above" rend="gray" hand="#U2"><del type="strikethrough" hand="#DL">preparations</del></add> <add place="above inline">preparations</add> - <add place="inline" rend="gray" hand="#U2"><del type="strikethrough" hand="#DL">If</del></add>
+<lb/>Charcoal made of burned <term type="animal">bats</term>
+<lb/><add place="below">^</add> <add place="above">inspissated</add> urine of the <term type="animal">mountain coney</term> <add place="below">^</add> <add place="above"><foreign xml:id="la"><term type="animal">Hyrax capensis</term></foreign></add> (which
+<lb/>by the way is used by old <term type="people">Dutch</term>
+<lb/>ladies in the form of pills as a
+<lb/>good <term type="medicament">antispasmodic</term> under the
+<lb/>name of "<foreign xml:lang="nl">klipsweit</foreign>" = stone sweat)
+<lb/>The internal parts of different animals
+<lb/>as <choice><sic><term type="animal">Jackalls</term></sic><corr><term type="animal">jackals</term>'</corr></choice> livers <metamark function="reorder" spanTo="#meta-5"/><seg corresp="#reorder-1"><choice><sic><term type="animal">Lion</term>'s</sic><corr><term type="animal">lions'</term></corr></choice></seg><anchor xml:id="meta-5"/> <metamark function="insertion"/><anchor xml:id="reorder-2"/> and
+<lb/><metamark function="reorder" spanTo="#meta-6"/><seg corresp="#reorder-2"><choice><sic><term type="animal">baboons</term></sic><corr><term type="animal">baboons</term>'</corr></choice></seg><anchor xml:id="meta-6"/> <metamark function="insertion"/><anchor xml:id="reorder-1"/> hearts and heavy calculi
+<lb/>from the bowels of old <term type="animal">cows</term>
+<lb/><term type="animal">serpents</term> skins &amp; vertebrae - And
+<lb/><lb/>
+   
+	<pb facs="liv_000099_0048.jpg" n="0048"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">42</add> <add place="inspace" hand="#U1" rend="gray right">45</add></fw> 
+<lb/>every kind of tuber, bulb, root,
+<lb/>and plant to be found in the
+<lb/>country - <del type="strikethrough" hand="#DL"><del type="cancelled" rend="gray" hand="#U2">You</del></del> <w>Disbeliev<retrace hand="#DL"><subst><del hand="#U2">e</del><add place="over-text" rend="gray" hand="#U2">ing</add></subst></retrace></w> their efficacy
+<lb/>in <seg type="weather">charming the clouds to pour
+<lb/>out their refreshing treasures</seg>
+<lb/>and knowing that civility is
+<lb/>useful everywhere <retrace hand="#DL"><add place="below" rend="gray" hand="#U2">^</add> <add place="above" rend="gray" hand="#U2">you</add></retrace> kindly state
+<lb/>you think <subst><del>you</del><add place="over-text">they</add></subst> are mistaken,
+<lb/>as to their power, the <term type="occupation">rain
+<lb/>doctor</term> selects a bulb <subst><del hand="#U2">-</del><add place="over-text" rend="gray" hand="#U2">,</add></subst> pounds it
+<lb/>and administers a cold infusion
+<lb/>to a <term type="animal">sheep</term> which in five minutes
+<lb/>afterwards expires in convulsions - 
+<lb/>Part of the same bulb is converted
+<lb/>into smoke which ascends
+<lb/>to the sky, rain follows in
+<lb/>a day or two - The case is clear
+<lb/><metamark function="flag" place="marginleft" rend="gray" resp="#U2" spanTo="#meta-7"/>Were we as much harassed by
+<lb/><seg type="weather">droughts</seg>, the logic would be
+<lb/>irresistible in <placeName><country>England</country></placeName> in <date when="1857">1857</date> -
+<lb/><del type="cancelled">The same looseness of reasoning</del>
+<lb/>Have we aught else in support of
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note><metamark function="query"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> <unclear cert="low"><persName>JM</persName></unclear></note></add> the powers of the <term type="medicament">Homoeopathic 
+<lb/>globule</term>? A powerful medicine
+<lb/>capable of appreciable effects is
+<lb/>manipulated into a decimal
+<lb/>fraction <del type="cancelled">of moonshine</del> <add place="below">^</add> <add place="above">&amp; <foreign xml:lang="la">post quod</foreign></add> the cure
+<lb/>follows - The inference is irresistible<anchor xml:id="meta-7"/> 
+<lb/><del type="cancelled">and why should not the <choice><sic>discovers</sic><corr>discoverers</corr></choice>
+<lb/>share in the persecution which
+<lb/><persName>Jenner</persName>, and <persName>Harvey</persName> &amp;c. endured
+<lb/>They certainly deserve it seeing
+<lb/>opposition is the only point
+<lb/>of similarity between our friends
+<lb/>and <w>th<subst><del>ese</del><add place="over-text">ose</add></subst></w> illustrious men - </del></p>
+	
+	
+	<pb facs="liv_000099_0049.jpg" n="0049"/>
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray right">43</add> <add place="inspace" hand="#U1" rend="gray right">46</add></fw> 
+<lb/><metamark function="ed-Mark" place="marginleft" rend="gray" resp="#U2">X</metamark> As the <term type="tribe">Bakwains</term> believed that there
+<lb/>must be some connection <del type="strikethrough">with the</del>
+<lb/>between the presence of "God's word"
+<lb/>in their town and these <seg type="weather">successive
+<lb/>and distressing droughts</seg>, they
+<lb/>looked with no good will at 
+<lb/>the church-bell - but <retrace hand="#DL"><add place="below" rend="gray" hand="#U2">^</add> <add place="above" rend="gray" hand="#U2">still they</add></retrace> invariably
+<lb/>treated us with kindness and 
+<lb/>respect - I am not aware of 
+<lb/>ever having had an enemy
+<lb/>in the tribe - The only cause of
+<lb/>dislike was <del type="strikethrough">in the gospel</del> -
+<lb/>expressed by a very influential 
+<lb/>and sensible man the uncle
+<lb/>of <persName>Sechele</persName> - "We like you as well
+<lb/>as if you had been born among
+<lb/>us, you are the only white man
+<lb/>we can become familiar with" (<foreign xml:lang="und">thoaela</foreign>)
+<lb/><metamark function="flag" place="marginleft" rend="gray" resp="#U2" spanTo="#meta-8"/>but we wish you to give up that
+<lb/>everlasting preaching and praying<anchor xml:id="meta-8"/> 
+<lb/>We cannot become accustomed
+<lb/>to that at all" <seg type="weather">"You see we never
+<lb/>get rain while those tribes who 
+<lb/>never pray as we do get abundance" 
+<lb/>This was a fact, and we often
+<lb/>saw it raining on the hills <measure>10 miles</measure>
+<lb/>off while it would not look at us
+<lb/>"even with one eye" - If the Prince
+<lb/>of the power of the Air had
+<lb/>no hand in <choice><sic>schorching</sic><corr>scorching</corr></choice> us up
+<lb/>I fear I often felt uncharitably
+<lb/>towards his majesty - </seg> </p>
+<lb/><p>As for the <term type="occupation">Rain maker</term>s they
+<lb/>carried the sympathies of the 
+
+
+	<pb facs="liv_000099_0050.jpg" n="0050"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">44</add> <add place="inspace" hand="#U1" rend="gray right">47</add></fw>
+<lb/>people along with them and not
+<lb/>without reason - With <add place="above">the following</add> arguments
+<lb/>there were all acquainted - <add place="marginleft"><metamark function="insertion"/>and in order 
+    <lb/>to understand 
+    <lb/>their force we 
+    <lb/>must place 
+    <lb/>ourselves in 
+    <lb/>their position 
+    <lb/>&amp; believe as they 
+    <lb/>and <choice><orig>homoaepathics</orig><reg>homeopathics</reg></choice> 
+    <lb/>do that all 
+    <lb/>medicines act 
+    <lb/>by a mysterious
+    <lb/>charm - The 
+    <lb/>term for cure 
+    <lb/>may be <w>trans<supplied>-</supplied> 
+    <lb break="no"/>lated</w> "charm" 
+    <lb/><foreign xml:lang="und">Ala<subst><del>y</del><add place="over-text">h</add></subst>a</foreign> - </add> 
+<lb/><hi rend="underline"><term type="occupation">Medical Doctor</term></hi> Hail friend!
+<lb/>How <add place="below">^</add> <add place="above">very</add> many medicines you have
+<lb/>about you this morning - Why
+<lb/>you have <add place="below">^</add> <add place="above">every</add> medicine in the country
+<lb/>about you <del type="cancelled">this</del></p>
+<lb/><p><hi rend="underline"><term type="occupation">Rain doctor</term></hi> - Very true my friend
+<lb/>and I ought for the <seg type="weather">whole country
+<lb/>needs the rain</seg> which I am making
+<lb/><hi rend="underline"><term type="occupation"><choice><abbr>M. D.</abbr><expan>Medical Doctor</expan></choice></term></hi> So you really believe that
+<lb/>you can command the clouds
+<lb/>I think that can be done by God
+<lb/>alone</p>
+<lb/><p><hi rend="underline"><term type="occupation"><choice><abbr>R. D.</abbr><expan>Rain Doctor</expan></choice></term></hi> We both believe the very
+<lb/>same thing - It is God that makes
+<lb/>the <seg type="weather">rain</seg> but I pray to him
+<lb/>by means of these medicines
+<lb/>and of course the <seg type="weather">rain</seg> is mine -
+<lb/>It was I who made it for the
+<lb/><term type="tribe">Bakwains</term> for many years
+<lb/>when they were at <placeName><settlement type="village">Shokwane</settlement></placeName> <retrace hand="#DL"><add place="inline" rend="gray" hand="#U2">,</add></retrace>
+<lb/>Through my wisdom their
+<lb/>women become fat and shining 
+<lb/>Ask them they will tell you the
+<lb/>same as I do - </p>
+<lb/><p><hi rend="underline"><term type="occupation"><choice><abbr>M. D.</abbr><expan>Medical Doctor</expan></choice></term></hi> But we are distinctly
+<lb/>told in the parting words of our
+<lb/>saviour that we can pray to
+<lb/>God acceptably in his name
+<lb/>alone and not by means
+<lb/>of medicines</p>
+<lb/><p rend="no-indent"><!-- possibly the proof correction mark for deletion, circled in pencil. JL --><metamark function="placeMark" place="inline" rend="gray" resp="#U2"/> <hi rend="underline"><term type="occupation"><choice><abbr>R. D.</abbr><expan>Rain Doctor</expan></choice></term></hi> Truly, but God told <hi rend="underline">us</hi>
+<lb/><unclear cert="low"><metamark function="deletion" place="marginleft" rend="gray" resp="#U2"/></unclear>differently - He made black
+	
+	
+	<pb facs="liv_000099_0051.jpg" n="0051"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">45</add> <add place="inspace" hand="#U1" rend="gray right">48</add></fw>
+<lb/>men first - and did not love us
+<lb/>as he did the white men - He
+<lb/>made you beautiful - and gave you
+<lb/>clothing and guns and <term type="animal">horses</term>
+<lb/>and gunpowder and waggons
+<lb/>and many other things about
+<lb/>which we know nothing 
+<lb/>But <w>to<add place="below">^</add><add place="above">ward</add></w> us he had no heart
+<lb/>He gave us nothing except the
+<lb/>assegai and <term type="animal">cattle</term>, <add place="above">^</add> <add place="above">and rain making</add> and did
+<lb/>not give us hearts like yours 
+<lb/>We never love each other <add place="marginleft"><metamark function="insertion"/>other tribes put 
+    <lb/>medicines about 
+    <lb/>our country to 
+    <lb/><seg type="weather">prevent the rain</seg> 
+    <lb/>so that we may 
+    <lb/>be dispersed by 
+    <lb/>hunger and 
+    <lb/>augment their 
+    <lb/>power - We 
+    <lb/>must dissolve 
+    <lb/>their charms by 
+    <lb/>our medicines</add>
+ - <del type="cancelled">But</del>
+<lb/><subst><del>he</del><add place="over-text">God</add></subst> has given us one little thing
+<lb/>which you know nothing
+<lb/>of - He has given us the
+<lb/>knowledge of <seg type="weather">certain medicines
+<lb/>by which we can make rain</seg>
+<lb/><hi rend="underline">We</hi> do not despise those things
+<lb/>which you possess though
+<lb/>we are ignorant of them, 
+<lb/>We <choice><sic>dont</sic><corr>don't</corr></choice> understand your <bibl>book</bibl>
+<lb/>yet we <choice><sic>dont</sic><corr>don't</corr></choice> despise it <hi rend="underline">You</hi>
+<lb/>ought not to despise our
+<lb/>little knowledge though you
+<lb/>are ignorant of it</p>
+<lb/><p><hi rend="underline"><term type="occupation"><choice><abbr>M. D.</abbr><expan>Medical Doctor</expan></choice></term></hi> <subst><del>But</del><add place="over-text">I <choice><sic>dont</sic><corr>don't</corr></choice></add></subst> despise
+<lb/>what I am ignorant of I only
+<lb/>think you are mistaken in
+<lb/>saying you have medicines which
+<lb/>can influence the rain at all - </p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <hi rend="underline"><term type="occupation"><choice><abbr>R. D.</abbr><expan>Rain Doctor</expan></choice></term></hi> <choice><sic>Thats</sic><corr>That's</corr></choice> just the way
+<lb/>people <subst><del type="cancelled">do</del><add place="above">speak</add></subst> when they talk on a subjec<supplied cert="high">t</supplied>
+<lb/>of which they have no knowledge 
+<lb/>When we first opened our eyes
+<lb/>we found our forefathers - 
+	
+	
+	<pb facs="liv_000099_0052.jpg" n="0052"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">46</add> <add place="inspace" hand="#U1" rend="gray right">49</add></fw>
+<lb/>making rain - and we follow
+<lb/>in their footsteps - You who
+<lb/>send to <placeName><settlement type="village">Kuruman</settlement></placeName> for <term type="plant_foodstuff">corn</term>
+<lb/>and irrigate your garden
+<lb/>may do without rain, <hi rend="underline">we</hi>
+<lb/>cannot manage in that way -
+<lb/><seg type="weather">If we had no rain the <term type="animal">cattle</term>
+<lb/>would have no pastures, the
+<lb/><term type="animal">cows</term> give no milk - our
+<lb/>children become lean and
+<lb/>die - Our wives run away
+<lb/>to other tribes who do make
+<lb/>rain, and have <term type="plant_foodstuff">corn</term>, and
+<lb/>the whole tribe become dispersed
+<lb/>and lost - Our fire would go out - </seg></p>
+<lb/><p><hi rend="underline"><term type="occupation"><choice><abbr>M. D.</abbr><expan>Medical Doctor</expan></choice></term></hi> <space extent="3" unit="chars"/> <seg type="weather">I quite agree with you
+<lb/>as to the value of the rain, but
+<lb/>you <choice><sic>cant</sic><corr>can't</corr></choice> charm the clouds by
+<lb/>medicines - You wait till you
+<lb/>see the clouds come then use
+<lb/>your medicines and take the
+<lb/>credit which belongs to God only</seg> - </p>
+<lb/><p><hi rend="underline"><term type="occupation"><choice><abbr>R. D.</abbr><expan>Rain Doctor</expan></choice></term></hi> I use my medicines
+<lb/>and you employ yours, we are
+<lb/>both <term type="occupation">doctors</term>, and <term type="occupation">doctors</term> are 
+<lb/>not deceivers, you give a patient
+<lb/>medicine, sometimes God is pleased
+<lb/>to heal him by means of your
+<lb/>medicine sometimes not - he
+<lb/>dies - When he is cured you take
+<lb/>the credit of what God does - I do
+<lb/>the same - <seg type="weather">Sometimes God grants
+<lb/>us rain sometimes not</seg> - In each
+<lb/>case we take the credit of the cure -
+	
+	<pb facs="liv_000099_0053.jpg" n="0053"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">47</add> <add place="inspace" hand="#U1" rend="gray right">50</add></fw>
+<lb/><seg type="weather">When a patient dies you <choice><sic>dont</sic><corr>don't</corr></choice>
+<lb/>give up trust in your medicine
+<lb/>neither do I when rain fails</seg>,
+<lb/>If you wish me to leave off
+<lb/>my medicines why continue
+<lb/>yours?</p>
+<lb/><p><hi rend="underline"><term type="occupation"><choice><abbr>M. D.</abbr><expan>Medical Doctor</expan></choice></term></hi> I wish you would 
+<lb/>try and God would give us
+<lb/>rain without your medicines</p>
+<lb/><p><hi rend="underline"><term type="occupation"><choice><abbr>R. D.</abbr><expan>Rain Doctor</expan></choice></term></hi> <add place="marginleft"><metamark function="insertion"/><foreign xml:lang="und">Mahalama
+    <lb/>-kapa,a,a-</foreign></add>	
+Well I always thought
+<lb/>white men were wise till this
+<lb/>morning - Who ever thought of 
+<lb/>making trial of <del type="cancelled"><gap extent="1" unit="words"/></del> starvation
+<lb/>Is death pleasant then?</p>
+<lb/><p><hi rend="underline"><term type="occupation"><choice><abbr>M. D.</abbr><expan>Medical Doctor</expan></choice></term></hi> <seg type="weather">Could you make rain on
+<lb/>one spot and not on another</seg></p>
+<lb/><p><hi rend="underline"><term type="occupation"><choice><abbr>R. D.</abbr><expan>Rain Doctor</expan></choice></term></hi> I <choice><sic>wouldnt</sic><corr>wouldn't</corr></choice> think of trying
+<lb/>I like to see the whole country
+<lb/>green and all the people glad,
+<lb/>the women clapping their hands
+<lb/>and giving me their ornaments
+<lb/>for thankfulness - and lullibooing for <add place="below">joy</add></p>
+<lb/><p><hi rend="underline"><term type="occupation"><choice><abbr>M. D.</abbr><expan>Medical Doctor</expan></choice></term></hi> I think you <choice><sic>decieve</sic><corr>deceive</corr></choice>
+<lb/>both them<del type="cancelled">s</del> and <w>you<hi rend="underline">r-s</hi>elf</w> - </p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <hi rend="underline"><term type="occupation"><choice><abbr>R. D.</abbr><expan>Rain Doctor</expan></choice></term></hi>	Well there is a pair
+<lb/>of us - - (meaning both are rogues<supplied cert="high">)</supplied>
+<lb/>exit <term type="occupation"><choice><abbr>M. D.</abbr><expan>Medical Doctor</expan></choice></term> mentally writing <unclear cert="low"><choice><abbr>Cont. Med.</abbr><expan>Contra Medicine</expan></choice></unclear>)
+<lb/>The above is only a specimen 
+<lb/>of their way of reasoning in
+<lb/>which when the language is 
+<lb/>well understood they are <subst><del type="strikethrough">seen</del><add place="above"><choice><sic>percieved</sic><corr>perceived</corr></choice></add></subst> to
+<lb/>be remarkably acute - These arguments
+<lb/>are generally known and I
+<lb/>never succeeded in convincing
+	
+	<pb facs="liv_000099_0054.jpg" n="0054"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">48</add> <add place="inspace" hand="#U1" rend="gray right">51</add></fw>	
+<lb/>a single individual of their fallacy
+<lb/>though I tried them in every
+<lb/>way I could think of - Their faith
+<lb/>in medicines as charms is
+<lb/>unbounded - <seg type="weather">The general effect
+<lb/>of argument is to produce the
+<lb/>impression that you do not
+<lb/>feel anxious for rain at all</seg>
+<lb/>and it is very undesirable to allow
+<lb/>the idea to spread that you do not
+<lb/>feel a generous interest in their
+<lb/>welfare - An angry opponent
+<lb/><metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-4"/>of rainmaking in a tribe
+<lb/>would be like a <term type="people">Greek</term> <term type="occupation">merchant</term>
+<lb/>in <placeName><country>England</country></placeName> during the <term type="nationality">Russian</term> war - <anchor xml:id="meta-4"/></p>
+<lb/><p><del type="cancelled" hand="#U2" rend="gray"><metamark function="insertion" resp="#U2" rend="gray"/></del> <add place="marginleft" rend="gray" hand="#U2"><metamark function="query">?</metamark> <retrace hand="#DL">The Conduct</retrace></add> The <del type="cancelled">appearance</del> of the people
+<lb/>during this <seg type="weather">long continued drought</seg>
+<lb/>was remarkably good - The women 
+<lb/>parted with most of their ornaments
+<lb/>to purchase <term type="plant_foodstuff">corn</term> from more
+<lb/>fortunate tribes - The children
+<lb/>scoured the country in search
+<lb/>of the numerous bulbs and
+<lb/>roots which can sustain life,
+<lb/>and the men engaged in
+<lb/>hunting - Very large numbers
+<lb/>of the large game - <term type="animal">buffaloes</term>, <term type="animal">zebras</term>
+<lb/><term type="animal">giraffes</term>, <term type="animal">tsessebes</term>, <term type="animal">kamas</term>, <term type="animal">gnus</term>
+<lb/><term type="animal">pallas</term>, <term type="animal">Rhinoceroses</term> &amp;c. congregated
+<lb/>at some fountains near <placeName><settlement type="village">Kolobeng</settlement></placeName>
+<lb/>and <add place="below">^</add> <add place="above">the trap called</add> <foreign xml:lang="und">hopo</foreign><del type="strikethrough">s</del> <subst><del>were</del><add place="over-text">was</add></subst> constructed in
+<lb/>the lands <del type="cancelled">ajacent</del> <retrace hand="#DL"><add place="above" rend="gray" hand="#U2">adjacent</add></retrace> for their destruction 
+<lb/>The <foreign xml:lang="und">Hopo</foreign> consists of two hedges
+<lb/>in the form of the letter <del type="cancelled"><unclear cert="medium">V</unclear></del> V. very
+	
+	<pb facs="liv_000099_0055.jpg" n="0055"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">49</add> <add place="inspace" hand="#U1" rend="gray right">52</add></fw>		
+<lb/>high and thick near the angle at
+<lb/>the bottom and at the extremity
+<lb/>of that same angle a <del type="strikethrough">deep</del> pit
+<lb/>is formed <measure><measure>six or eight feet</measure> deep
+<lb/>and about <measure>ten in breadth &amp; length</measure></measure>
+<lb/><del type="cancelled">The</del> Trees are laid <choice><sic>accross</sic><corr>across</corr></choice> the edge
+<lb/>over which the animals are
+<lb/>expected to leap and attempt to
+<lb/>escape so as to form an <w>over<supplied>-</supplied>
+<lb break="no"/>lapping</w> ledge which they cannot
+<lb/>possibly climb - As the hedges
+<lb/>are frequently <measure>a mile long</measure> and 
+<lb/>about as much apart at their 
+<lb/>extremities <supplied cert="high">a</supplied> tribe making a circle
+<lb/>extending <measure>three or four miles</measure>
+<lb/>round the country <choice><sic>ajacent</sic><corr>adjacent</corr></choice> to the
+<lb/>opening and gradually closing
+<lb/>up are almost sure to enclose
+<lb/>a large body of game - Driving
+<lb/>it up with shouts to the narrow
+<lb/>part of the <foreign xml:lang="und">hopo</foreign> men secreted
+<lb/>there <w>t<del type="cancelled">hro</del>ugh</w> <add place="above" rend="gray" hand="#U2">throw</add> their javelins into
+<lb/>the affrighted herds and on they
+<lb/>rush into the pit till that is full
+<lb/>of a living mass - Some escape
+<lb/>by <unclear cert="medium">rushing</unclear> over the others as
+<lb/>a <placeName><settlement type="town">Smithfield</settlement></placeName> market <term type="animal">dog</term> does
+<lb/>over <retrace hand="#DL"><add place="above" rend="gray" hand="#U2">the</add></retrace> <term type="animal">sheep</term> <add place="inline" rend="gray" hand="#U2"><subst><del hand="#DL">^</del><add place="over-text" hand="#DL">s</add></subst></add> <add place="above" rend="gray" hand="#U2">s <retrace hand="#DL">backs</retrace></add> It is a frightful scene
+<lb/>The men wild with excitement spear
+<lb/>the lovely animals with mad delight
+<lb/>Others borne down by the weight
+<lb/>of their dead &amp; dying companions
+<lb/>every now and then make the
+<lb/>whole mass heave in their smothering
+	
+	<pb facs="liv_000099_0056.jpg" n="0056"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">50</add> <add place="inspace" hand="#U1" rend="gray right">53</add></fw>	
+<lb/>agonies -  No one but a born <term type="occupation">butcher</term>
+<lb/>could look on that scene without
+<lb/>feeling sick at heart - The <term type="tribe">Bakuena</term>
+<lb/>often killed between sixty and
+<lb/>seventy head of large game at
+<lb/>the different <foreign xml:lang="und">Hopos</foreign> in a single
+<lb/>week and as every one both rich
+<lb/>and poor partook of the prey, the
+<lb/><term type="foodstuff">meat</term> counteracted the bad effects
+<lb/>of an exclusively <term type="foodstuff">vegetable</term> diet -
+<lb/>When the poor who had no <term type="foodstuff">salt</term>
+<lb/>were forced to live exclusively on
+<lb/>roots they were often troubled <del type="strikethrough">by</del>
+<lb/>with <term type="ailment">indigestion</term> - Such cases
+<lb/>we had frequent opportunities of
+<lb/>seeing at other times for the district
+<lb/>being destitute of <term type="foodstuff">salt</term> the rich alone
+<lb/>could afford to buy it - The <orgName>native</orgName>
+<lb/><term type="occupation">doctors</term> aware of the cause of
+<lb/>the malady usually prescribed
+<lb/>some of ingredient with their
+<lb/>medicines - The <term type="occupation">doctors</term> themselves
+<lb/>had none so the poor resorted to
+<lb/>us for aid, We took the hint and
+<lb/>henceforth cured the disease by
+<lb/>giving a teaspoonful of <term type="foodstuff">salt</term> minus
+<lb/>the <del type="cancelled">medicines</del> other remedies -
+<lb/>Either <term type="foodstuff">milk</term> or <term type="foodstuff">meat</term> had the same
+<lb/>effect though not so rapidly as
+<lb/>the <term type="foodstuff">salt</term> - Long afterwards when
+<lb/>I was myself deprived of <term type="foodstuff">salt</term>
+<lb/>for four months at two distinct
+<lb/>periods I felt no desire for
+<lb/>that condiment, but I was
+
+	<pb facs="liv_000099_0057.jpg" n="0057"/>
+	
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">51</add> <add place="inspace" hand="#U1" rend="gray right">54</add></fw>	
+<lb/>plagued by very great longing
+<lb/>for these articles of food
+<lb/>This continued as long as
+<lb/>I was confined to an exclusively
+<lb/><term type="foodstuff">vegetable</term> diet - And when
+<lb/>I procured a meal of <term type="foodstuff">flesh</term>
+<lb/>though boiled in perfectly fresh
+<lb/>rain water it tasted as
+<lb/>pleasantly saltish as if slightly
+<lb/>impregnated with the condiment
+<lb/>Both <term type="foodstuff">milk</term> and <term type="foodstuff">meat</term> removed
+<lb/><space extent="15" unit="chars"/>(<hi rend="gray underline" resp="#U2">Turnover</hi>) 
+<lb/><space extent="17" unit="chars"/><metamark function="query" rend="gray" resp="#U2">?</metamark><!-- this question mark, signalling a query, is also contained within a circle.JL -->
+        </p>
+<lb/>
+            </div>
+        </body>
+    </text>
+
+</TEI>

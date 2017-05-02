@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000100">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+                <author>David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <respStmt xml:id="JL">
+                    <name>Justin Livingstone</name>
+                    <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+                </respStmt>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Encoding Consultant</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="JG">
+                    <name>Johanna Green</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="PS">
+                    <name>Peter Slater</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="SH">
+                    <name>Stephen Hall</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>UCLA Digital Library</publisher>
+                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <!-- Possible year update. -->
+                <date>2014</date>
+                <availability>
+                    <!-- Possible license change. -->
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License
+                        </ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS.42429</idno><!-- This may change with each volume of the MS. -->
+                        <altIdentifier>
+                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                            <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+                
+                <bibl type="sourceMetadata">
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="tn">Tswana</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+            <change when="2016-07-26" who="#JL">Proofing and encoding review</change>
+            <change when="2015-11-20" who="#SH">adding anchor code</change>
+            <change when="2015-06-04" who="#PS">Proofing</change>
+            <change when="2015-02-08" who="#SH">Initial transcription and XML encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body rend="right">
+            <div>
+                <!-- Start each page with pagebreak -->
+                
+        <pb facs="liv_000100_0053.jpg" n="0053"/>
+<lb/><p><fw n="heading_XVIII">XVIII - <add place="inspace" hand="#U2" rend="gray left">49</add> <add place="inspace" hand="#U1" rend="gray right">53</add></fw>
+<lb/>Hence the cry of the <term type="occupation">Herald</term>
+<lb/>"give us sleep -" It is remarkable
+<lb/>how anxious <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">for peace</add> those who
+<lb/>have been fighting all their
+<lb/>lives appear to be <del type="strikethrough" rend="red" hand="#U3">for peace</del>
+<lb/>In this respect the expressions
+<lb/><del type="strikethrough" rend="red" hand="#U3">of strong desire</del> of both the
+<lb/><term type="tribe">Makololo</term> and <orgName>Boers</orgName> of
+<lb/>the <placeName><geogName type="mountains"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice></geogName></placeName> mountains
+<lb/>who are perpetually making
+<lb/>forays are identical - Indeed
+<lb/><choice><sic>M<hi rend="sup underline">s</hi>ers</sic><corr>Messrs.</corr></choice> <persName>Hendrick Potgeiter</persName> &amp;
+<lb/><persName>Pretorius</persName> conscientiously
+<lb/>believed themselves to be
+<lb/><w><subst><del>fu</del><add place="over-text">m</add></subst>ore</w> fully entitled to the
+<lb/>name and blessing of
+<lb/>"Peace-makers" than any
+<lb/><term type="occupation">missionary</term> in the country - </p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> When <persName>Sekeletu</persName> was
+<lb/>installed <add place="above" rend="red" hand="#U3">in</add> <del type="strikethrough" rend="red" hand="#U3">into</del> the <term target="occupation">chieftainship</term>
+<lb/>he felt his position rather
+<lb/>insecure for it was believed
+<lb/>that the incantations 
+<lb/>of <persName>Mpepe</persName> had an intimate
+<lb/>connection with <persName>Sebituane</persName>'s
+<lb/>death - Indeed the latter had
+<lb/>said to his son "that hut of
+<lb/>incantation will prove fatal
+<lb/>to either you or me" - </p>
+<lb/><p>When the <term type="tribe">Mambari</term> <subst><del type="strikethrough" rend="red" hand="#U3">of</del><add place="above" rend="red" hand="#U3">in</add></subst>
+<lb/><date when="1850">1850</date> took home a favourable
+<lb/>report of this new market
+<lb/>to the West a number of half
+<lb/>breed <term type="nationality">Portuguese</term> <orgName>slave traders</orgName>
+    
+    
+        <pb facs="liv_000100_0054.jpg" n="0054"/>   
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">50</add> <add place="inspace" hand="#U1" rend="gray right">54</add></fw>
+<lb/>were induced to come in <date when="1853">1853</date>
+<lb/>and one who <del type="cancelled">appeared to</del> resembled
+<lb/>closely a real <term type="person">Portuguese</term> <del type="strikethrough">coming
+<lb/>with them</del> came to <placeName><settlement type="town">Linyanti</settlement></placeName>
+<lb/>while I was there - <del type="strikethrough" rend="red" hand="#U3">The latter</del>
+<lb/><add place="marginleft" rend="red" hand="#U3">This man</add> had no merchandise and
+<lb/>pretended to have come in
+<lb/>order to enquire "what sort
+<lb/>of goods were necessary
+<lb/>for the market - " He seemed
+<lb/>much <add place="above" rend="red" hand="#U3">disconcerted</add> <del type="strikethrough" rend="red" hand="#U3">put about</del> by my
+<lb/>presence there - <persName>Sekeletu</persName> <del type="strikethrough" rend="red" hand="#U3">gave</del>
+<lb/><add place="marginleft" rend="red" hand="#U3">presented him with</add> <del type="strikethrough" rend="red" hand="#U3">him the present of</del> an <term type="animal">ox</term>
+    <lb/>and an <choice><sic><term type="animal">elephant</term>s</sic><corr><term type="animal">elephant</term>'s</corr></choice> tusk
+<lb/>and when he <subst><del type="strikethrough" rend="red" hand="#U3">was</del><add place="above" rend="red" hand="#U3">had</add></subst> departed
+<lb/>about <measure>fifty miles</measure> to the
+<lb/>Westward he carried off
+<lb/>an entire village of the
+<lb/><term type="people">Bakalahari</term> belonging to the
+<lb/><term type="tribe">Makololo</term> - He had a number
+<lb/>of armed <orgName>slaves</orgName> with him
+<lb/>and as all <del type="strikethrough" rend="red" hand="#U3">both</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">the villagers</add> men women
+<lb/>and children<add place="inline" rend="red" hand="#U3">,</add> were removed
+<lb/>and the fact was unknown
+<lb/><choice><sic><add place="inline" rend="red" hand="#U3">un</add>till</sic><corr>until</corr></choice> a considerable time afterwards
+<lb/>it is not <subst><del type="strikethrough">known</del><add place="above">certain</add></subst> whether
+<lb/>his object was obtained
+<lb/>by violence or by fair
+<lb/>promises - In either case
+<lb/><orgName>slavery</orgName> must have been
+<lb/><w>the<del type="strikethrough">ir</del></w> position <add place="below">^</add> <add place="marginleft">of these poor people</add> - He was carried
+<lb/>in a hammock slung between
+<lb/>two poles which appearing to be
+<lb/>a bag - The <term type="tribe">Makololo</term> named
+<lb/>him "Father of the bag" - </p>
+    
+
+        <pb facs="liv_000100_0055.jpg" n="0055"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">51</add> <add place="inspace" hand="#U1" rend="gray right">55</add></fw>
+<lb/><p rend="no-indent"><persName>Mpepe</persName> favoured these <orgName>slave traders</orgName>
+<lb/>and they as is usual with
+<lb/>them founded all their hopes
+<lb/>of influence and success
+<lb/>on his disaffection - My
+<lb/>arrival on the scene was
+<lb/>felt to be so much weight
+<lb/>in the scale against their
+<lb/>interests - A large party of <term type="tribe">Mambari</term>
+<lb/><add place="marginleft">had come</add> <subst><del type="cancelled">were at</del><add place="above">to</add></subst> <placeName><settlement type="town">Linyanti</settlement></placeName> when
+<lb/>I was floundering on the
+<lb/>prairies south of the <placeName><geogName type="river">Chobe</geogName></placeName> -
+<lb/>As the news <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" hand="#U3" rend="red">of my being in the
+    <lb/>neighbourhood <add place="below">^</add></add>
+reached them    
+<lb/>their countenances fell <del type="cancelled">but</del>
+<lb/>and when some who had
+<lb/>assisted us to cross the river<!-- Chobe -->
+<lb/>returned with hats which I
+<lb/>had given them they at once
+<lb/>betook themselves to
+<lb/><choice><sic>preciptate</sic><corr>precipitate</corr></choice> flight - It is
+<lb/>usual for visitors to
+<lb/>ask formal <subst><del type="strikethrough">leave</del><add place="above">permission</add></subst> before
+<lb/>attempting to leave a <term type="occupation">chief</term>
+<lb/>but the sight of the hats
+<lb/>made the <term type="people">Mambari</term><!-- possible letter beneath 'M' but it is illegible.JL --> pack
+<lb/>up at once - The <term type="tribe">Makololo</term>
+<lb/>enquired the cause of the hurry
+<lb/>and were told that if I found
+<lb/>them there I <w><subst><del type="strikethrough" rend="red" hand="#U3">w</del><add place="above" rend="red" hand="#U3">sh</add></subst>ould</w> take all
+<lb/>their <orgName>slaves</orgName> and goods from them and though assured
+<lb/>by <persName>Sekeletu</persName> that I was <del type="cancelled">a</del> not
+<lb/><add place="marginleft">a robber but a</add> man of peace they fled
+<lb/><del type="strikethrough" rend="red" hand="#U3">my presence</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above"><retrace hand="#U3" rend="red">by</retrace> night</add> while  <del type="strikethrough" rend="red" hand="#U3">that</del> <add place="inline" rend="red" hand="#U3">I</add>
+<lb/>was still <measure>60 miles</measure> off -                                  
+                
+                
+        <pb facs="liv_000100_0056.jpg" n="0056"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">52</add> <add place="inspace" hand="#U1" rend="gray right">56</add></fw>
+<lb/>They went to the North where
+<lb/>under the <add place="below" rend="red" hand="#U3">^</add> <subst><del type="strikethrough" rend="red" hand="#U3">countenance</del><add place="above" rend="red" hand="#U3">protection</add></subst> of <persName>Mpepe</persName>
+<lb/>they had erected a stockade
+<lb/>of considerable size - There
+<lb/>several <del type="cancelled"><orgName>native</orgName></del> half breed
+<lb/><orgName>slave traders</orgName> under the leadership
+<lb/>of a native <term type="nationality">Portuguese</term> carried
+<lb/>on their traffic without
+<lb/>reference to the <term type="occupation">chief</term> <w>in<add place="inline" rend="red" hand="#U3">to</add></w>
+<lb/>whose country they had
+<lb/>unceremoniously introduced
+<lb/>themselves - While <persName>Mpepe</persName>
+<lb/>feeding them with the <term type="animal">cattle</term>
+<lb/>of <persName>Sekeletu</persName> formed a plan
+<lb/>of raising himself by means
+<lb/>of their firearms to <del type="cancelled">the</del> be
+<lb/>the <term type="occupation">head</term> of the <term type="tribe">Makololo</term> -
+<lb/><del type="strikethrough">It is</del> The usual course the
+<lb/><orgName>slave traders</orgName> adopt is to take
+<lb/>a part in the political affairs
+<lb/>of each tribe, and siding
+<lb/>with the strongest get well
+<lb/>paid by captures made
+<lb/>from the weaker party -
+<lb/>Long conferences were
+<lb/>held with <persName>Mpepe</persName> and it was
+<lb/>deemed advisable for him
+<lb/>to strike the first blow so he
+<lb/>provided himself with a
+<lb/>small battle axe with the
+<lb/>intention of cutting <persName>Sekeletu</persName>
+<lb/>down the first time they
+<lb/>met - </p>       
+        
+        
+        <pb facs="liv_000100_0057.jpg" n="0057"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">53</add> <add place="inspace" hand="#U1" rend="gray right">57</add></fw>
+<lb/><p>My object being first
+<lb/>of all to examine the
+<lb/>country for a healthy locality
+<lb/>before attempting to make
+<lb/>a new path to either the East
+<lb/>or West coasts - I proposed
+<lb/>to <persName>Sekeletu</persName> the plan of
+<lb/>ascending the great river <!-- Zambezi? sh -->
+<lb/>which we had observed
+<lb/>in <date when="1851">185<subst><del>7</del><add place="over-text">1</add></subst></date><!-- the top part of the number '7' is scored out to give '1', sh  --> - He volunteered to
+<lb/>accompany me and when
+<lb/>we got about <measure>60 miles</measure> away
+<lb/>on <subst><del type="strikethrough">our</del><add place="above">the</add></subst> road to <placeName><settlement type="town">Sesheke</settlement></placeName> we
+<lb/>encountered <persName>Mpepe</persName> - The <term type="tribe">Makololo</term>
+<lb/><del type="cancelled">like most <term type="tribe">Bechuanas</term></del> <add place="marginleft"><metamark function="insertion"/><metamark function="insertion" rend="red" resp="#U3"/>though possessing
+    <lb/>abundance of <term type="animal">cattle</term>
+    <lb/><del type="cancelled">used</del></add>
+had    
+<lb/>never <del type="cancelled" rend="red" hand="#U3"><metamark function="insertion"/></del> attempted to ride <term type="animal">oxen</term>
+<lb/><choice><sic>untill</sic><corr>until</corr></choice> I <del type="cancelled">had</del> had advised
+<lb/>it in <date when="1851">1851</date> - The <term type="tribe">Bechuanas</term>
+<lb/>generally were in the same
+<lb/>condition <choice><sic>untill</sic><corr>until</corr></choice> <orgName>Europeans</orgName>
+<lb/>came among them and
+<lb/>imparted the idea of riding -
+<lb/>All their journeys were performed
+<lb/>on foot - - <persName>Sekeletu</persName> and his
+<lb/>companions were all
+<lb/>mounted on <term type="animal">oxen</term> though
+<lb/>having neither saddle nor
+<lb/>bridle they were perpetually
+<lb/>falling off - <persName>Mpepe</persName> armed
+<lb/>with his little axe <del type="cancelled">met us</del>
+<lb/><add place="below">^</add> <add place="marginleft">came along a
+    <lb/>path parallel
+    <lb/>to but <measure>a quarter
+    <lb/>of a mile</measure> distant
+    <lb/>from that of <del type="cancelled">o</del></add> 
+our party <del type="strikethrough">but it</del> and when   
+<lb/>he saw <persName>Sekeletu</persName> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">he</add> ran with
+<lb/>all his might towards
+<lb/>us but <persName>Sekeletu</persName> being
+<lb/>on his <choice><sic>gaurd</sic><corr>guard</corr></choice> galloped
+       
+    
+        <pb facs="liv_000100_0058.jpg" n="0058"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">54</add> <add place="inspace" hand="#U1" rend="gray right">58</add></fw>
+<lb/>off to an adjacent village - He<!-- Sekeletu. PS -->
+<lb/>then went out of the way somewhere
+<lb/>till all our party came up -
+<lb/><persName>Mpepe</persName> had given his own
+<lb/>party to understand that he
+<lb/>would cut down <persName>Sekeletu</persName>
+<lb/>either on their first meeting
+<lb/>or at <w>the<del type="strikethrough">ir</del></w> breaking up of
+<lb/>their first conference - The
+<lb/>former <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">intention <del type="cancelled" hand="#U3" rend="red"><unclear cert="low">out</unclear></del></add> having been <del type="strikethrough" rend="red" hand="#U3">impossible</del>
+<lb/><add place="marginleft" rend="red" hand="#U3"><metamark function="insertion"/>thus frustrated, he
+    <lb/>determined to effect
+    <lb/>his purpose after
+    <lb/>their first conference - </add>
+I happened to sit down    
+<lb/>between the two in the hut
+<lb/>where they met - Being tired
+<lb/>with riding all day in
+<lb/>the sun I asked <persName>Sekeletu</persName>
+<lb/>where I should<!-- possible letter beneath 'sh' but it is illegible.JL --> sleep and
+<lb/>he replied "Come I will <choice><orig>shew</orig><reg>show</reg></choice>
+<lb/>you" As we rose together
+<lb/>I unconsciously covered
+<lb/><persName>Sekeletu</persName>'s body with mine
+<lb/>and saved him from
+<lb/>the blow of the assassin
+<lb/>I knew nothing but
+    <lb/>remarked that all <choice><sic><persName>Mpepe</persName>s</sic><corr><persName>Mpepe</persName>'s</corr></choice>
+<lb/>men kept hold of their
+<lb/>arms even after we <add place="below" rend="red" hand="#U3">^</add> <subst><del type="strikethrough" rend="red" hand="#U3">were</del><add place="above" rend="red" hand="#U3">had</add></subst>
+<lb/><add place="marginleft" hand="#U3" rend="red">sat</add> <del type="strikethrough" hand="#U3" rend="red">s<subst><del hand="#U3">i</del><add place="over-text" rend="red" hand="#U3">a</add></subst>t</del> down a thing quite
+<lb/>unusual in the presence
+<lb/>of <term type="occupation">chief</term> - And when <persName>Sekeletu</persName>
+<lb/><choice><orig>shewed</orig><reg>showed</reg></choice> me the hut in which
+<lb/>I was to spend the night he
+<lb/>remarked "that man wishes
+<lb/>to kill me" - <add place="marginleft" rend="red" hand="#U3"><metamark function="insertion"/>I afterwards learnt that</add> <choice><sic>Some</sic><corr>some</corr></choice> of <persName>Mpepe</persName>'s
+<lb/>attendants had divulged the
+<lb/>secret and<add place="below" rend="red" hand="#U3">,</add> <subst><del type="strikethrough" rend="red" hand="#U3">influenced</del><add place="below" rend="red" hand="#U3">bearing in mind</add></subst>
+        
+                
+        <pb facs="liv_000100_0059.jpg" n="0059"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">55</add> <add place="inspace" hand="#U1" rend="gray right">59</add></fw>
+<lb/><add place="marginleft"><del type="strikethrough" hand="#U3" rend="red">by</del></add> his father's instructions <persName>Sekeletu</persName>
+<lb/>put <persName>Mpepe</persName> to death that night
+<lb/>It was managed so quietly
+<lb/><add place="marginleft" rend="red" hand="#U3">that al</add>though <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">I was sleeping</add> <del type="strikethrough" rend="red" hand="#U3">asleep</del> within a few
+<lb/>yards of the scene I knew
+<lb/>nothing of it till <add place="above" rend="red" hand="#U3">the</add> next day - 
+<lb/><persName>Nokuane</persName> went to the fire at
+<lb/>which <persName>Mpepe</persName> sat with a
+<lb/>handful of snuff as if he
+<lb/>were about to sit down
+<lb/>and regale himself - <persName>Mpepe</persName>
+<lb/>said to him <foreign xml:lang="tn">"Nsepisa"</foreign> cause me
+<lb/>to take a pinch - and as he held
+<lb/>out his hand <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" hand="#U3" rend="red"><persName>Nokuane</persName> <add place="below">^</add></add> caught hold of
+<lb/><add place="marginleft" rend="red" hand="#U3">it</add> <del type="strikethrough" rend="red" hand="#U3">that</del> while another man
+<lb/>seized the <subst><del type="strikethrough" rend="red" hand="#U3">opposite</del><add place="above" rend="red" hand="#U3">other hand</add></subst> and leading
+<lb/><add place="marginleft">him</add> out <measure>a mile</measure> speared him - 
+<lb/>This is the common mode
+<lb/>of executing <del type="strikethrough" rend="red" hand="#U3">a</del> <w>criminal<subst><del hand="#U3">-</del><add place="over-text" rend="red" hand="#U3">s</add></subst></w>
+<lb/>They are not allowed to speak
+<lb/>but <add place="inline" rend="red" hand="#U3">on</add> one <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">occasion a</add> man feeling his
+<lb/>wrist held too tightly said
+<lb/>"Hold me gently <choice><sic>cant</sic><corr>can't</corr></choice> you,
+<lb/>you will soon be led out
+<lb/>in the same way <w>yoursel<subst><del>f</del><add place="over-text">v</add></subst>es</w>"<choice><sic>"</sic><corr/></choice>
+<lb/><persName>Mpepe</persName>'s men fled to the
+<lb/><term type="tribe">Barotse</term> and it being
+<lb/>unadvisable for us to
+<lb/>go thither during the <del type="cancelled"><gap extent="2" unit="chars"/></del><w>com-
+<lb break="no"/>motion</w> which followed
+<lb/>on <persName>Mpepe</persName>'s death we
+<lb/>returned to <placeName><settlement type="town">Linyanti</settlement></placeName> - </p>
+<lb/><space dim="vertical" extent="2" unit="lines"/>
+    
+    
+    
+        <pb facs="liv_000100_0060.jpg" n="0060"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">56</add> <add place="inspace" hand="#U1" rend="gray right">60</add></fw>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <del type="strikethrough" rend="red" hand="#U3">Cases such as</del> <choice><sic>the</sic><corr>The</corr></choice> foregoing
+<lb/>may be considered as <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" rend="red" hand="#U3">a fair specimen of <add place="below">^</add></add> the
+<lb/>mode of dealing with grave
+<lb/>political offences - In common
+<lb/>cases there is a greater <choice><orig>shew</orig><corr>show</corr></choice>
+<lb/>of deliberation - The complainant
+<lb/>asks the man against
+<lb/>whom he means to lodge his
+<lb/>complaint to come with him
+<lb/>to the <term type="occupation">chief</term> - This is <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">never</add> refused
+<lb/><del type="strikethrough" rend="red" hand="#U3">by no one</del> - When both are in
+<lb/>the <foreign xml:lang="tn">Kotla</foreign> the complainant
+<lb/>stands up and states the
+<lb/>whole case before the <term type="occupation">chief</term>
+<lb/>and <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">the</add> people usually assembled
+<lb/>there - He stands a few seconds
+<lb/>after he has done this to
+<lb/>recollect if he has <w>forgot<add place="inline" rend="red" hand="#U3">ten</add></w>
+<lb/>anything - The witnesses
+<lb/>to whom he has referred
+<lb/>then rise up and tell all
+<lb/>they <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">themselves</add> saw or heard but not
+<lb/>anything they heard from
+<lb/>others - <del type="cancelled">When</del> The defendant
+<lb/><del type="cancelled">then rises</del> after allowing
+<lb/>some minutes to elapse
+<lb/>so that he may not
+<lb/>interrupt any of the
+<lb/>opposite party slowly
+<lb/>rises folds his <del type="cancelled">k</del>cloak
+<lb/>around him and in the
+<lb/>most quiet deliberate way
+<lb/>he can assume begins to
+<lb/>explain away the case<!-- p.183 Missionary. sh -->
+    
+    
+        <pb facs="liv_000100_0061.jpg" n="0061"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">57</add> <add place="inspace" hand="#U1" rend="gray right">61</add></fw>
+<lb/><w>deny<add place="below" rend="red" hand="#U3">^</add><add place="above" rend="red" hand="#U3">ing</add></w> the charge or <w>admit<add place="below" rend="red" hand="#U3">^</add><add place="above" rend="red" hand="#U3">ting</add></w> it as
+<lb/>the case may be - <del type="cancelled">Frequently</del>
+<lb/><add place="marginleft"><metamark function="insertion" rend="red" resp="#U3"/>Sometimes when
+    <lb/>galled <add place="inline" rend="red" hand="#U3">by</add></add>
+<del type="strikethrough" rend="red" hand="#U3">in the course of</del> his remarks
+<lb/>the complainant utters a
+<lb/>sentence of dissent - <subst><del type="strikethrough" rend="red" hand="#U3">Complainant</del><add place="above" rend="red" hand="#U3">The accused</add></subst>
+<lb/>turns quietly to him and says
+<lb/>"Be <subst><del type="strikethrough" rend="red" hand="#U3">quiet</del><add place="above" rend="red" hand="#U3">silent</add></subst>, I sat still while you
+<lb/>were speaking - <choice><sic>Cant</sic><corr>Can't</corr></choice> you do the
+<lb/>same - ? Do you want to have
+<lb/>it all to yourself"? <del type="cancelled" rend="red" hand="#U3">&amp;</del> and as the
+<lb/>audience acquiesce in this
+<lb/>chafing and enforce silence
+<lb/>he goes on till he has finished
+<lb/>all he wishes to say in his
+<lb/>defence - If he has any 
+<lb/>witnesses to the truth <add place="below">^</add> <add place="above">of the facts</add> of his
+<lb/>defence they give their evidence
+<lb/>No oath is administered
+<lb/>but occasionally when a
+<lb/>statement is questioned a
+<lb/>man will say "By my father"
+<lb/>or "By the <term type="occupation">chief</term> it is so - " Their
+<lb/>truthfulness among each other
+<lb/>is quite remarkable - but
+<lb/>their system of government
+<lb/>is such that <orgName>Europeans</orgName>
+<lb/>are not in a position to
+<lb/>realize it readily - A poor
+<lb/>man will say in his
+<lb/>defence, against a rich one
+<lb/><del type="cancelled">will say</del> "I am astonished
+<lb/>to hear a man so great
+<lb/>as he <del type="cancelled">tell</del> make a false
+<lb/>accusation" as if the offence
+    
+
+        <pb facs="liv_000100_0062.jpg" n="0062"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">58</add> <add place="inspace" hand="#U1" rend="gray right">62</add></fw>
+<lb/><add place="marginleft" rend="red" hand="#U3">of falsehood</add> were felt to be one against
+<lb/><add place="marginleft">the</add> society which the individual
+<lb/>referred to had the greatest
+<lb/>interest in upholding - </p>                
+<lb/><p>If the case is one of
+<lb/><add place="marginleft">no</add> importance the <term type="occupation">chief</term> decides
+<lb/>it at once - If frivolous he
+<lb/>may give the complainant
+<lb/>a <space extent="2" unit="chars"/>scolding <subst><del>or</del><add place="over-text">&amp;</add></subst> <del type="strikethrough" rend="red" hand="#U3">burst into</del>
+<lb/><add place="marginleft" hand="#U3" rend="red">put a stop to the case</add> <del type="strikethrough" hand="#U3" rend="red">it</del> in the middle of the complaint
+<lb/>or he may allow it to go
+<lb/>on without paying any
+<lb/>attention to it whatever
+<lb/>Family quarrels are often
+<lb/>treated in this way and then
+<lb/>a man may be seen
+<lb/>stating his case with great
+<lb/>fluency and not a soul
+<lb/>listening to him But if
+<lb/>it is a case between <del type="cancelled">influential
+<lb/>men</del> or brought on by
+<lb/>influential men <del type="cancelled">which</del>
+<lb/>then the greatest decorum
+<lb/>prevails, If the <term type="occupation">chief</term> does
+<lb/>not see his way clear
+<lb/>to a decision he remains
+<lb/>silent - The <term type="occupation">elders</term> then rise
+<lb/>one <del type="strikethrough" rend="red" hand="#U3">and</del> by one and give
+<lb/>their opinions often in
+<lb/>the way of advice rather
+<lb/>than as decisions
+<lb/>and when the <term type="occupation">chief</term> finds
+<lb/>the general sentiment
+<lb/>agreeing in one view  <!-- p.184 Missionary, sh -->
+
+
+        <pb facs="liv_000100_0063.jpg" n="0063"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">59</add> <add place="inspace" hand="#U1" rend="gray right">63</add></fw>
+<lb/>he delivers his <w>judg<del type="strikethrough">e</del>ment</w>
+<lb/>accordingly - He alone speaks
+<lb/>sitting - all others stand - </p>
+<lb/><p>No one refuses to
+<lb/>acquiesce in the decision of
+<lb/>the <term type="occupation">chief</term> on account of
+<lb/>his having the power of
+<lb/>life and death in <del type="cancelled">the</del> his
+<lb/>hands to enforce it if he
+<lb/>chooses - but <del type="cancelled">h</del> grumbling
+<lb/>is allowed</p>
+<lb/><space dim="vertical" extent="3" unit="lines"/>               
+<lb/><p>This system was found
+<lb/>as well <add place="below">^</add> <add place="marginleft"><del type="strikethrough" hand="#U3" rend="red">or better</del></add> developed among
+<lb/>the <term type="tribe">Makololo</term> <subst><del type="strikethrough" rend="red" hand="#U3">than</del><add place="above" rend="red" hand="#U3">as</add></subst> among
+<lb/>the <term type="tribe">Bakwains</term> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">or even better</add> and is no
+<lb/><add place="marginleft">foreign <add place="below"><del type="cancelled" hand="#U3" rend="red">^</del></add></add> importation - When at
+<lb/><placeName><settlement type="village">Cassange</settlement></placeName> my men had
+<lb/>a <del type="strikethrough" rend="red" hand="#U3">little</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">slight</add> quarrel among
+<lb/>themselves and came to
+<lb/>me as to their <term type="occupation">chief</term> <del type="cancelled">person
+<lb/>there</del> for judgement - This
+<lb/>had occurred <del type="cancelled">often</del> several
+<lb/>times before so without
+<lb/>a thought I went out
+<lb/>of the <term type="nationality">Portuguese</term> <choice><sic><term type="occupation">merchant</term>s</sic><corr><term type="occupation">merchant</term>'s</corr></choice>
+<lb/>house in which I was
+<lb/>a guest, sat down and
+<lb/>heard the complaint<gap extent="1" unit="chars" agent="illegible"/> <subst><del><unclear cert="low"><choice><abbr>V</abbr><expan>versus</expan></choice></unclear></del><add place="over-text" hand="#U3" rend="red">a</add></subst>nd
+<lb/>defence in the usual
+<lb/>way - When I had given
+<lb/>my decision in the
+                        
+    
+        <pb facs="liv_000100_0064.jpg" n="0064"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">60</add> <add place="inspace" hand="#U1" rend="gray right">64</add></fw>
+<lb/>common hortatory form,
+<lb/>they went off apparently
+<lb/>satisfied - Several <term type="people">Portuguese</term>
+<lb/><add place="marginleft">who</add> had been viewing the
+<lb/>proceedings with great
+<lb/>interest <del type="strikethough">and</del> complimented
+<lb/>me on the success of my
+<lb/>teaching - but I could
+<lb/>not take any credit
+<lb/>to myself for the system
+<lb/>which <add place="below">^</add> <add place="above"><del type="strikethrough" hand="#U3" rend="red">had</del></add> I <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">had</add> found ready
+<lb/>made to my hands</p>
+<lb/><space dim="vertical" extent="9" unit="lines"/>
+<lb/><p>Soon after our arrival
+<lb/>at <placeName><settlement type="town">Linyanti</settlement></placeName> <persName>Sekeletu</persName> took
+<lb/>me aside and pressed me
+<lb/>to mention those things I loved
+<lb/>best and hoped to get from
+<lb/>him - Anything either in or
+<lb/>out of his town would be
+<lb/>freely given if I would only 
+<lb/>mention it <space extent="2" unit="chars"/>I explained
+<lb/><add place="marginleft" rend="red" hand="#U3">to him that</add> my object was to <subst><del><unclear cert="medium">mak</unclear></del><add place="over-text">elevate</add></subst> him
+<lb/>and his people to be <orgName>Christians</orgName>
+<lb/>but he replied he did not
+<lb/>wish to learn to read
+<lb/>the book for he was afraid
+    
+    
+        <pb facs="liv_000100_0065.jpg" n="0065"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">61</add> <add place="inspace" hand="#U1" rend="gray right">65</add></fw>
+<lb/>"it might change his heart
+<lb/>and make him content
+<lb/>with one wife <add place="below">^</add> <add place="above">only</add> like <persName>Sechele</persName>"
+<lb/>It was of little use to urge that<!-- p. 185 Missionary, sh -->
+<lb/>the change of heart implied
+<lb/>a contentment <add place="below">^</add> <add place="above">with one wife</add> equal to his
+<lb/>present complacency in polygamy
+<lb/><del type="cancelled">and that</del> <add place="marginleft">Such a preference
+    <lb/>after the change of
+    <lb/>mind could not be
+    <lb/>realized by him
+    <lb/><subst><del type="strikethrough" rend="red" hand="#U3">no</del><add place="above" rend="red" hand="#U3">any</add></subst> more than that<!-- there appears to be a word beneath 'that' but it is illegible.JL -->
+    <lb/><del type="cancelled">the</del> real unmistakable
+    <lb/>pleasure <subst><del>in</del><add place="over-text">of</add></subst> religious
+    <lb/>services <del type="cancelled"><gap extent="2" unit="words"/></del>
+    <lb/><del type="cancelled"><gap extent="1" unit="words"/></del> <del type="cancelled">by any one</del>
+    <lb/>can be realized by
+    <lb/>those who have not
+    <lb/>experienced that great
+    <lb/>change of mind &amp; affections
+    <lb/>called the "new heart"</add>    
+<add place="above" rend="red" hand="#U3"><metamark function="insertion"/>I assured him that</add> <w><subst><del>N</del><add place="over-text">n</add></subst>othing</w> was <del type="strikethrough">required</del>
+<lb/>expected but by his own
+<lb/>voluntary decision - "No, no
+<lb/>he wanted always to have
+<lb/>five at least - " His ideas
+<lb/>of the <subst><del type="cancelled">state</del> <add place="above">happiness</add></subst> of "holy matrimony"
+<lb/>were on a par with
+<lb/>those of a <term type="nationality">Portuguese</term> gentleman <add place="above"><metamark function="insertion"/>on the happiness of the state of bliss</add>
+<lb/><del type="cancelled">whom I met</del> who "did not
+<lb/>like the idea of going to
+<lb/>heaven to be standing", (as
+<lb/>in the pictures), "gazing up
+<lb/>at a glace of light" <add place="marginleft"><metamark function="insertion"/>or of one of
+    <lb/>our own
+    <lb/>countrymen
+    <lb/>who thought
+    <lb/>the employment
+    <lb/>of heaven was
+    <lb/>singing and
+    <lb/>praising on a
+    <lb/>bare cloud
+    <lb/>without anything
+    <lb/>to eat or drink - </add>
+I liked    
+<lb/>the frankness of <persName>Sekeletu</persName>,
+<lb/>for nothing is so wearing
+<lb/>to the spirit as talking to
+<lb/>those who agree with
+<lb/>everything advanced</p>
+<lb/><p><persName>Sekeletu</persName> according
+<lb/>to the system of the <term type="tribe">Bechuanas</term>
+<lb/>became possessor of
+<lb/>his <choice><sic>fathers</sic><corr>father's</corr></choice> wives and
+<lb/>adopted two of them -
+<lb/>The children by these women
+<lb/>are however <add place="below">^</add> <add place="above">in such cases</add> termed brother
+<lb/>When an elder brother dies
+<lb/><subst><del>to</del><add place="over-text">the</add></subst> same thing occurs
+<lb/>in respect of his wives
+    
+                         
+        <pb facs="liv_000100_0066.jpg" n="0066"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">62</add> <add place="inspace" hand="#U1" rend="gray right">66</add></fw>
+<lb/>the brother next in age takes
+<lb/>them <add place="marginleft"><metamark function="insertion"/>among
+    <lb/>the <orgName>Jews</orgName></add>
+and the children that may    
+<lb/>be born of those women
+<lb/>he calls his brothers <add place="above">also</add> - <del type="cancelled">As
+<lb/>was the</del> He <add place="below">^</add> <add place="above">thus</add> raises up seed
+<lb/>to his departed relative -
+<lb/>An uncle of <persName>Sekeletu</persName> being a
+<lb/>younger brother of <persName>Sebituane</persName>
+<lb/>got that <term type="occupation">chieftain</term>'s <del type="cancelled">chief</del>
+<lb/><add place="marginleft">head</add> <add place="below"><del type="strikethrough" rend="red" hand="#U3">^</del></add> wife - or queen - There is
+<lb/>always one who enjoys
+<lb/>this title - Her hut is called
+<lb/>the great house and her
+<lb/>children inherit the <term type="occupation"><w>chieftain<supplied>-</supplied>
+<lb break="no"/>-ship</w></term> - If she dies <del type="strikethrough">another</del> a
+<lb/><add place="marginleft">new wife</add> is selected for the same
+<lb/>position and enjoys the
+<lb/>same privileges though
+<lb/><add place="marginleft">she <subst><del>she</del><add place="over-text">may</add></subst> happen to be</add> a much younger woman
+<lb/>than the rest<supplied cert="high"/>.</p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The majority of the
+<lb/>wives of <persName>Sebituane</persName> were
+<lb/>given to influential <term type="occupation"><w>under
+<lb break="no"/>-chiefs</w></term> and in reference
+<lb/>to their early casting off the
+<lb/><choice><sic>widows</sic><corr>widow's</corr></choice> weeds a song
+<lb/>was sung saying <del type="strikethrough">it was</del>
+<lb/>the men alone felt the loss
+<lb/>of their father <persName>Sebituane</persName> the
+<lb/>women were so soon
+<lb/>supplied with new husbands
+<lb/><add place="marginleft" rend="red" hand="#U3">that</add> their hearts had not time
+<lb/>to become sore with grief</p>
+    
+            
+        <pb facs="liv_000100_0067.jpg" n="0067"/>
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">63</add> <add place="inspace" hand="#U1" rend="gray right">67</add></fw>
+<lb/>The women complain that
+<lb/>the proportions between the
+<lb/>sexes are so changed now
+<lb/>that they are not valued
+<lb/>as they deserve - The majority
+<lb/>of the real <term type="tribe">Makololo</term> have
+<lb/>been cut off by <term type="ailment">fever</term> - Those
+<lb/>who now remain are a
+<lb/>mere fragment of those
+<lb/>who came to the North
+<lb/>with <persName>Sebituane</persName> - Coming
+<lb/>from a very healthy climate
+<lb/>in the South they were more
+<lb/><add place="marginleft" rend="red" hand="#U3">subject</add> <del type="strikethrough" rend="red" hand="#U3">obnoxious</del> to the <term type="ailment">febrile
+<lb/>diseases</term> of the valley in
+<lb/><add place="marginleft"><add place="inline" hand="#U3" rend="red">which</add> <del type="strikethrough" hand="#U3" rend="red">where</del></add> <del type="strikethrough">which</del> we found them
+<lb/>than the black tribes <del type="strikethrough" rend="red" hand="#U3">which</del>
+<lb/>they conquered - In comparison
+<lb/>with the <term type="tribe">Barotse</term>, <term type="tribe">Batoka</term>,<!-- p.186 Missionary, sh -->
+<lb/>and <term type="tribe">Banyeti</term>, the <term type="tribe">Makololo</term>
+<lb/>have a sickly hue - They
+<lb/>are of a light brownish
+<lb/>yellow colour while the tribes
+<lb/>referred to are very dark
+<lb/>with a slight tinge of olive<supplied cert="high"/>.
+<lb/>The whole of the coloured
+<lb/>tribes consider that beauty
+<lb/>and fairness are associated
+<lb/>and women long for children
+<lb/>of light colour so much <add place="inline" rend="red" hand="#U3">that</add>
+<lb/>they sometimes chew the bark
+<lb/>of a certain tree in
+<lb/>hopes of producing that
+<lb/>effect - To my eye the
+
+
+        <pb facs="liv_000100_0068.jpg" n="0068"/>
+<lb/><space dim="vertical" extent="6" unit="lines"/>
+<lb/><add place="inline" rend="red" hand="#U3" corresp="#add-10"><note><metamark function="ed-mark">X</metamark> It will be quite
+<lb/>sufficient to say -- 
+<lb/>-- The women generally
+<lb/>escaped the <term type="ailment">fever</term> - 
+<lb/>but they are less
+<lb/>fruitful than
+<lb/>formerly - and
+<lb/>to their complaint</note></add>
+<lb/><space dim="vertical" extent="18" unit="lines"/>
+
+
+        <pb facs="liv_000100_0069.jpg" n="0069"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">64</add> <add place="inspace" hand="#U1" rend="gray right">68</add></fw>
+<lb/>the dark colour is much more
+<lb/><choice><sic>agreable</sic><corr>agreeable</corr></choice> then the <w>taw<subst><del>y</del><add place="over-text">n</add></subst>y</w> hue
+<lb/>of the half breed which that
+<lb/><add place="marginleft"><note><metamark function="ed-mark" rend="red" resp="#U3">X</metamark>
+    <lb/><del type="cancelled" hand="#U3" rend="red">* (render into)
+    <lb/>Greek -</del></note></add>
+of the <term type="tribe">Makololo</term> ladies closely
+<lb/>resembles - <del type="strikethrough" hand="#U3" rend="red">The <term type="ailment">fever</term> has
+<lb/>spared them <add place="inline">*</add> <add place="marginleft">on account
+    <lb/>of the menstruation
+    <lb/>being excessively
+    <lb/>profuse</add>
+but they are
+<lb/>less fruitful and to their
+<lb/><add place="marginleft">insinuation</add></del> <del type="strikethrough">complaint</del> <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="add-10"/> of being undervalued    
+<lb/>on account of the disproportion
+<lb/>of the sexes <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">they now</add> add <add place="above">the<add place="inline" rend="red" hand="#U3">ir regrets</add></add> <del type="strikethrough" rend="red" hand="#U3">sorrowful</del>
+<lb/><add place="marginleft"><del type="strikethrough" rend="red" hand="#U3">complaint</del></add> <del type="strikethrough">afflication</del> <subst><del type="strikethrough" rend="red" hand="#U3">of</del><add place="above" rend="red" hand="#U3">at the</add></subst> want of children
+<lb/>of<add place="above" rend="above" hand="#U3">of</add> whom <add place="inline" rend="red" hand="#U3">they</add> all are excessively
+<lb/>fond - </p>
+<lb/><p>The <term type="tribe">Makololo</term> women
+<lb/>work but little - Indeed the
+<lb/>families of that nation
+<lb/>are spread over the country
+<lb/>one or two only in each
+<lb/>village as the lords of the
+<lb/>land - They - all <del type="cancelled">possess</del>
+<lb/><add place="marginleft">have lordship</add> <add place="below">^</add> <add place="above">over</add> great numbers of <del type="cancelled">the</del>
+<lb/>subjected tribes <add place="marginleft"><metamark function="insertion"/><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-153"/>who pass by in
+    <lb/>the general
+    <lb/>name <foreign xml:lang="tn"><orgName>Makalaka</orgName></foreign><anchor xml:id="meta-153"/></add> 
+<del type="strikethrough" rend="red" hand="#U3">and</del> <del type="cancelled">these</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">who</add>
+<lb/><metamark function="let-stand" spanTo="#meta-154"/><del type="cancelled">must</del><anchor xml:id="meta-154"/> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3"><del type="strikethrough">must</del> are forced to</add> render <del type="cancelled">their</del> certain
+<lb/>services - <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">and</add> <del type="strikethrough" rend="red" hand="#U3">They</del> <del type="strikethrough">must</del> <add place="above"><del type="strikethrough" hand="#U3" rend="red">are obliged</del> to</add>
+<lb/>aid in tilling the soil<add place="inline" rend="red" hand="#U3">;</add>
+<lb/>but <del type="strikethrough" hand="#U3" rend="red">have</del> each <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">has</add> his own
+<lb/>land under cultivation -
+<lb/>and otherwise <subst><del>is</del><add place="over-text">lives</add></subst> nearly
+<lb/><choice><sic>independant</sic><corr>independent</corr></choice> - <add place="marginleft"><metamark function="insertion"/>They are proud
+    <lb/>to be called
+    <lb/><term type="tribe">Makololo</term> but
+    <lb/>the other term
+    <lb/>is often used
+    <lb/>in reproach
+    <lb/>as betokening
+    <lb/>inferiority</add>
+This species  
+<lb/>of servitude may be
+<lb/>termed <orgName>slavery</orgName> as it has
+<lb/>to be rendered in consequence
+<lb/>of subjection by force
+<lb/>of arms<add place="inline" rend="red" hand="#U3">,</add> but it is <del type="cancelled">so</del>
+<lb/>necessarily very mild
+
+                    
+        <pb facs="liv_000100_0070.jpg" n="0070"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">65</add> <add place="inspace" hand="#U1" rend="gray right">69</add></fw>
+<lb/><add place="marginleft">It is so easy <add place="below">^</add></add> for any one who is unkindly
+<lb/>treated to make his escape
+<lb/>to the other tribes that the <term type="tribe">Makololo</term>
+<lb/><subst><del type="strikethrough" rend="red" hand="#U3">must</del><add place="above" rend="red" hand="#U3">are compelled to</add></subst> treat <add place="below"><del type="cancelled">^</del></add> them <add place="marginleft"><metamark function="insertion"/><metamark function="insertion" rend="red" resp="#U3"/>to a great extent
+    <lb/><add place="inline" rend="red" hand="#U3">rather as children
+    <lb/>than as slaves</add></add>
+<del type="strikethrough" rend="red" hand="#U3">as children</del>
+<lb/>Some masters <subst><del type="strikethrough" rend="red" hand="#U3">failing</del><add place="above" rend="red" hand="#U3">who fail</add></subst> from
+<lb/><del type="strikethrough">some</del> defect of temper or
+<lb/>disposition <del type="cancelled">failing</del> to secure
+<lb/>the affections of these
+<lb/>conquered people <del type="cancelled" hand="#U3" rend="red"><metamark function="insertion"/></del> <add place="above" rend="red" hand="#U3">frequently</add> find themselves
+<lb/><add place="marginleft">left</add> <add place="below">^</add> without a single servant, <add place="below" rend="red" hand="#U3">^</add> <metamark function="ed-mark" place="above" rend="red" resp="#U3">X</metamark> <add place="marginleft"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-155"/>in<!-- there is a word beneath 'in' but it is illegible.JL --><metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> consequence
+    <lb/>of the absence <del type="cancelled">of</del>
+    <lb/>and impossibility
+    <lb/>of a fugitive
+    <lb/><orgName>slave</orgName> law - and
+    <lb/>the readiness
+    <lb/>with which they
+    <lb/>assist each
+    <lb/>other <choice><sic>accross</sic><corr>across</corr></choice>
+    <lb/>the rivers in
+    <lb/>canoes <anchor xml:id="meta-155"/></add>
+<lb/>The <term type="tribe">Makololo</term> ladies who
+<lb/>are liberal <subst><del type="strikethrough" rend="red" hand="#U3">with their</del><add place="above" rend="red" hand="#U3">in their presents of</add></subst> <term type="foodstuff">milk</term> &amp;
+<lb/>other food<add place="inline" rend="red" hand="#3">,</add> seldom require
+<lb/>to labour except in the
+<lb/>way of beautifying their
+<lb/>own huts - and courtyards
+<lb/>They drink large quantities
+<lb/>of <term type="foodstuff">boyaloa</term> which being
+<lb/>the grain called <term type="plant_foodstuff"><orgName>Caffre</orgName> Sorghum</term>
+<lb/>or <term type="plant_foodstuff"><choice><orig>Dourrha<del type="cancelled">h</del></orig><reg>Dourra</reg></choice></term> in a minute
+<lb/>state or subdivision is
+<lb/>very nutritious and gives
+<lb/>that plumpness of form
+<lb/>which is considered beautiful
+<lb/>They dislike being seen <del type="strikethrough" rend="red" hand="#U3">together</del>
+<lb/>at their potations by persons<!-- p.187 Missionary, sh -->
+<lb/>of the opposite sex - They
+<lb/>cut<del type="cancelled">t</del> their wooly hair
+<lb/>quite short and delight in
+<lb/>having the whole person
+<lb/>shining with <term type="foodstuff">butter</term> - Their
+<lb/>dress is a kilt reaching
+<lb/>to the knees<add place="inline" rend="red" hand="#U3">;</add> <add place="above" rend="red" hand="#U3"><metamark function="insertion"/>its material is <del type="strikethrough">it is made</del></add> <del type="strikethrough" rend="red" hand="#U3">of</del> <term type="animal">ox</term> hide
+<lb/>made as soft as cloth <del type="cancelled">the
+<lb/>hairy</del> - It is not ungraceful
+        
+    
+    <pb facs="liv_000100_0071.jpg" n="0071"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">66</add> <add place="inspace" hand="#U1" rend="gray right">70</add></fw>
+<lb/><del type="strikethrough" rend="red" hand="#U3">but from the point where</del>
+<lb/><add place="marginleft" rend="red" hand="#U3"><note>Omit</note></add> <del type="strikethrough" rend="red" hand="#U3">it is fastened round the
+<lb/>lower part of the body upwards
+<lb/>the person <add place="below">^</add> <add place="above">with their large pendant breasts</add> is left exposed</del>
+<lb/><milestone unit="section" rend="red line" resp="#U3"/>    
+<lb/>A <add place="below">^</add> <add place="above">soft</add> skin mantle is thrown
+<lb/>across the shoulders when
+<lb/>the lady is unemployed but
+<lb/>when engaged in any sort
+<lb/>of labour she throws this
+<lb/>aside and works in the
+<lb/>kilt alone - <add place="marginleft"><metamark function="insertion"/><w>The<del type="cancelled">y</del></w> ornaments
+    <lb/>most coveted are
+    <lb/>large brass leglets
+    <lb/>as thick as the
+    <lb/>little finger - <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">and</add> armlets
+    <lb/>of both brass
+    <lb/>and ivory the
+    <lb/>latter often an
+    <lb/>inch broad - The
+    <lb/>leglets are so
+    <lb/>heavy <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">that</add> the ankles
+    <lb/>are often blistered
+    <lb/>by the weight <del type="cancelled" rend="red" hand="#U3">that</del>
+    <lb/><w>press<subst><del hand="#U3">es</del><add place="over-text" rend="red" hand="#U3">ing</add></subst></w> down
+    <lb/>but it is the
+    <lb/>fashion and is
+    <lb/>borne as <w>mag-
+    <lb break="no"/>-nanimously</w>
+    <lb/>as tight lacing
+    <lb/>&amp; <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">tight</add> shoes among
+    <lb/>ourselves, Strings
+    <lb/>of beads are hung
+    <lb/>around the neck
+    <lb/>and the fashion <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">-able colours</add> being
+    <lb/>light green &amp; pink
+    <lb/>a trader could get <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">almost</add> any
+    <lb/>thing he chose for <add place="above" rend="red" hand="#U3"><metamark function="insertion"/>beads of</add> these colours</add></p>
+<lb/><p>At our public religious 
+<lb/>services in the <foreign xml:lang="tn">Kotla</foreign> the
+<lb/><term type="tribe">Makololo</term> women always
+<lb/>believed with decorum from
+<lb/>the first except at the
+<lb/>conclusion of the prayer -
+<lb/>When <subst><del type="strikethrough">the rest</del><add place="above">all</add></subst> <w>kne<del type="cancelled">e</del>l<subst><del>ed</del><add place="over-text">t</add></subst></w>
+<lb/>down many of those who
+<lb/>had children in following
+<lb/>the example of the rest
+<lb/>bent over their little ones -
+<lb/>The children in terror of
+<lb/>being crushed to death
+<lb/>set up a simultaneous
+<lb/>yell which so tickled
+<lb/>the whole assembly
+<lb/>there was often a subdued
+<lb/>titter to be <subst><del type="strikethrough" rend="red" hand="#U3">let out</del><add place="above" rend="red" hand="#U3">turned</add></subst> into a
+<lb/>hearty laugh as soon
+<lb/>as they heard, Amen - This
+<lb/>was not so difficult
+<lb/>to overcome in them as
+<lb/>similar peccadilloes were
+<lb/>in the case of <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">the</add> women
+    
+    
+        <pb facs="liv_000100_0072.jpg" n="0072"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">67</add> <add place="inspace" hand="#U1" rend="gray right">71</add></fw>
+<lb/>farther south - Long after we
+<lb/>had settled at <placeName><settlement type="village">Mabotsa</settlement></placeName>
+<lb/>when preaching <w>o<subst><del>f</del><add place="over-text">n</add></subst></w> the most
+<lb/>solemn subjects a woman
+<lb/>would be observed to look
+<lb/>round and see<add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">-ing</add> a neighbour
+<lb/>seated on her dress <subst><del hand="#U3">-</del><add place="over-text" rend="red" hand="#U3">,</add></subst> <choice><sic>She</sic><corr>she</corr></choice> of
+<lb/>course gave her a hunch
+<lb/>with the elbow to make
+<lb/>her move off - The other
+<lb/>returned <add place="below">^</add> <add place="above">it</add> <del type="strikethrough">the push</del> with
+<lb/>interest and perhaps the
+<lb/>remark "take the nasty
+<lb/>thing <subst><del type="strikethrough">to you</del><add place="above">away</add></subst> will you"
+<lb/>Then three or four began
+<lb/>to <del type="strikethrough" rend="red" hand="#U3">huzzle</del> <add place="marginleft" rend="red" hand="#U3">hustle</add> the first offenders
+<lb/>and the men to swear
+<lb/>at them all by way of
+<lb/>enforcing silence</p>
+<lb/><p>Great numbers of little
+<lb/>trifling things like these occur
+<lb/>and would not be worth
+<lb/>the recital but that one
+<lb/>cannot form a correct
+<lb/>idea of <term type="occupation">missionary</term> work
+<lb/>except by examination
+<lb/>of the minutiae - <del type="cancelled">And</del> <w><subst><del>a</del><add place="over-text">A</add></subst>t</w> the
+<lb/>risk of appearing frivolous
+<lb/>to some I shall continue
+<lb/>to descend to mere trifles</p>
+<lb/><p>The numbers who
+<lb/>attended <subst><del><unclear cert="medium">by</unclear></del><add place="over-text">at</add></subst> <add place="above">the</add> <subst><del type="strikethrough" rend="red" hand="#U3">proclamation</del><add place="above" rend="red" hand="#U3">summons</add></subst>
+<lb/>by the <term type="occupation">herald</term> <add place="below">^</add> <add place="marginleft">who acted as
+    <lb/><term type="occupation">beadle</term></add>
+were often    
+<lb/>from 500 to 700, The service<!-- p.188 Missionary, sh -->
+    
+    
+        <pb facs="liv_000100_0073.jpg" n="0073"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">68</add> <add place="inspace" hand="#U1" rend="gray right">72</add></fw>
+<lb/>consisted of reading a small
+<lb/>portion of the <bibl><choice><sic>bible</sic><corr>Bible</corr></choice></bibl> and
+<lb/>giving an explanatory address
+<lb/>usually short enough to
+<lb/>prevent weariness or want
+<lb/>of attention - So long as we
+<lb/>continue to hold services
+<lb/>in the <foreign xml:lang="tn">Kotla</foreign> the associations
+<lb/>of the place are unfavourable
+<lb/>to solemnity hence it is
+<lb/>always desirable to have
+<lb/>a place of worship as soon
+<lb/>as possible - And it is
+<lb/><del type="cancelled">desirable to</del> of importance
+<lb/>too to treat <del type="strikethrough" rend="red" hand="#U3">that</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">such</add> place with
+<lb/>reverence - as an aid to secure
+<lb/>that serious attention which
+<lb/>religious subjects demand
+<lb/>This will appear more
+<lb/>evident when it is recollected
+<lb/>that in the very spot where
+<lb/>we <subst><del type="strikethrough" rend="red" hand="#U3">may have</del> <add place="above" rend="red" hand="#U3">had</add></subst> been engaged
+<lb/>in acts of devotion
+<lb/>half an hour <subst><del type="strikethrough" rend="red" hand="#U3">before</del><add place="above" rend="red" hand="#U3">after</add></subst><add place="inline" rend="red" hand="#U3">,</add> a
+<lb/>dance <subst><del type="strikethrough" rend="red" hand="#U3">will</del><add place="above" rend="red" hand="#U3">would</add></subst> be got up
+<lb/><add place="marginleft" rend="red" hand="#U3">and such <subst><del type="strikethrough">arrangements</del><add place="below">arrangements</add></subst></add> <del type="strikethrough" rend="red" hand="#U3">which</del> cannot be at once
+<lb/>opposed without the feeling
+<lb/>being produced of exercising
+<lb/>too much authority over
+<lb/>them - It is always unwise
+<lb/>to hurt their feelings of
+<lb/><w>independ<subst><del>a</del><add place="over-text">e</add></subst>nce</w> - Much greater
+<lb/>influence will be gained by
+<lb/>studying how you may
+    
+    
+        <pb facs="liv_000100_0074.jpg" n="0074"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">69</add> <add place="inspace" hand="#U1" rend="gray left">73</add></fw>
+<lb/>induce them to act aright with
+<lb/>the impression that they are
+<lb/>doing it of their own free will
+<lb/>Our services <subst><del>are</del><add place="over-text">having</add></subst> necessarily
+<lb/><add place="marginleft">been all</add> in the open air - where it is
+<lb/><add place="marginleft">most difficult</add> to address large bodies of people
+<lb/><add place="marginleft">prevented my
+    <lb/>recovering so
+    <lb/>entirely from
+    <lb/>the effects of
+    <lb/><term type="ailment"><term type="occupation">clergymen</term>'s
+    <lb/>sore throat</term> <del type="strikethrough" rend="red" hand="#U3">so
+    <lb/>much</del> as I
+    <lb/>expected when
+    <lb/>the uvula was
+    <lb/>excised at
+    <lb/>the <placeName><region>Cape</region></placeName></add></p>
+<lb/><p><metamark function="newParagraph">#</metamark> To give an idea of the  
+<lb/>system adopted for months
+<lb/>together on other days as well
+<lb/>as on Sundays - I may advert
+<lb/>to treating the sick for <w>com-
+<lb break="no"/>plaints</w> <subst><del><unclear cert="medium">too d</unclear></del><add place="over-text">which</add></subst> seemed to <add place="below">^</add> <add place="above">surmount</add> <del type="strikethrough">try</del>
+<lb/>the skill of their own <term type="occupation">doctors</term>
+<lb/>I refrained going to any
+<lb/>one unless his own <term type="occupation">doctor</term>
+<lb/>wished it or had given up 
+<lb/>the case - This led to my 
+<lb/>having a selection of the
+<lb/>severer cases only, and
+<lb/><add place="marginleft" rend="red" hand="#U3">prevented <add place="below">^</add></add> the <term type="occupation">doctors</term> <subst><del type="strikethrough" rend="red" hand="#U3">were not</del><add place="above" rend="red" hand="#U3">being</add></subst> offended
+<lb/>by my taking their practice
+<lb/>out of their hands - When
+<lb/>attacked by <term type="ailment">fever</term> myself
+<lb/>and wishing to ascertain
+<lb/>what their practices were
+<lb/>I could safely <choice><orig>intrust</orig><reg>entrust</reg></choice> myself
+<lb/>in their hands on account
+<lb/>of their well known friendly
+<lb/>feelings - Their plan is
+<lb/>to produce by means of
+<lb/><add place="marginleft">medicated</add> <term type="medicament">vapour baths</term> a profuse
+<lb/>and long continued action
+<lb/>of the skin, which in a
+<lb/>modified form is about
+<lb/>the best way of treating <term type="ailment">fever</term></p>
+                
+                
+                                
+        <pb facs="liv_000100_0075.jpg" n="0075"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">70</add> <add place="inspace" hand="#U1" rend="gray right">74</add></fw>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The plan of <choice><orig>shewing</orig><reg>showing</reg></choice> kindness
+<lb/>to them in their bodily ailments
+<lb/>secures their friendship - This
+<lb/>is not the case <add place="below">^</add> <add place="marginleft">to the same <metamark function="insertion" place="above" rend="red" resp="#U3"/><add place="above">degree</add> <del type="strikethrough">extent</del></add> in old missions
+<lb/>where the people have learned
+<lb/>to look upon relief as a right -
+<lb/><add place="marginleft" hand="#U3" rend="red">a state of things that</add> <del type="strikethrough" rend="red" hand="#U3"><subst><del hand="#DL"><unclear cert="medium">was</unclear></del><add place="over-text">This</add></subst></del> sometimes happens among
+<lb/>ourselves at home - Medical
+<lb/>aid is therefore most valuable
+<lb/>in young missions though
+<lb/>at all stages <add place="below">^</add> <add place="above">it is</add> a valuable
+<lb/>adjunct to other operations</p>
+<lb/>
+<lb/><p>I proposed to teach
+<lb/>the <term type="tribe">Makololo</term> to read but
+<lb/>for the reasons mentioned
+<lb/><persName>Sekeletu</persName> at<!-- there is a word beneath 'at' but it is illegible.JL --> first declined
+<lb/>After some weeks however
+<lb/>his father in law and some
+<lb/>others determined to brave
+<lb/>the mysterious book - To <!-- p189 Missionary, sh -->
+<lb/>all who have not <del type="cancelled">learned</del>
+<lb/><add place="marginleft">acquired it <add place="below">^</add></add> the knowledge of letters
+<lb/>is <del type="strikethrough">a most</del> quite <w>unfathom-
+<lb break="no"/>able</w> - There is nought like
+<lb/><add place="marginleft">it with</add>in the compass of their
+<lb/>observation - and we have
+<lb/>no comparison with
+<lb/>any thing except pictures
+<lb/>to aid them in <w>com-
+<lb break="no"/>prehending</w> the idea of signs
+<lb/>of words - It seems to
+<lb/>them supernatural - that
+<lb/>we see in a book things
+        
+    </p>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                 
+            </div>
+        </body>
+    </text>
+    
+</TEI>
+
+

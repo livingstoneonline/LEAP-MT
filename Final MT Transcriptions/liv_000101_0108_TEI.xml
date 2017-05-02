@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt3.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000101">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III).</title><!-- This will change with each volume of the MS. -->
+                <author>David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <respStmt xml:id="JL">
+                    <name>Justin Livingstone</name>
+                    <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+                </respStmt>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Encoding Consultant</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="JG">
+                    <name>Johanna Green</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="PS">
+                    <name>Peter Slater</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="SH">
+                    <name>Stephen Hall</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>UCLA Digital Library</publisher>
+                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <!-- Possible year update. -->
+                <date>2014</date>
+                <availability>
+                    <!-- Possible license change. -->
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License
+                        </ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS.10702</idno><!-- This may change with each volume of the MS. -->
+                        <altIdentifier>
+                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                            <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote>
+                            <handNote xml:id="CL"><label>Charles Livingstone</label> This hand belongs to Charles Livingstone.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+                
+                <bibl type="sourceMetadata">
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III).</title><!-- This will change with each volume of the MS. -->
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="la">Latin</language>
+                <language ident="pt">Portuguese</language>
+                <language ident="tn">Tswana</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+            <change when="2017-01-26" who="#JL">Proofing and encoding review</change>
+            <change when="2017-01-16" who="#KS">Proofreading</change>
+            <change when="2016-08-18" who="#SH">Initial transcription and XML encoding</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body rend="right">
+
+<!-- Start each page with pagebreak -->
+
+<div hand="#CL" n="CL"><!-- "use fullstops for Charles, unless it’s clearly a dash"; See 24.5. Substantial Sections in Another Hand, section written by Charles (i.e. <div hand="#CL”>) make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" hand=“#DL"> -->
+
+
+<pb facs="liv_000101_0108.jpg" n="0108"/><!-- p.425, Missionary Travels, sh -->
+<lb/><p><note place="marginleft" hand="#DL" n="DL">XLIII</note> <note place="marginleft above" hand="#U1" n="U1" rend="gray"><hi rend="underline">PP 425-443</hi></note> <fw><add place="inspace" hand="#U1" n="U1" rend="gray right">103</add></fw>
+<lb/>It is surprising that so little has been done
+<lb/>in the way of agriculture in <placeName><country>Angola</country></placeName>
+<lb/><choice><sic>raising</sic><corr>Raising</corr></choice> <term type="plant_foodstuff">wheat</term> by means of irrigation has
+<lb/>never been tried no plough has ever used
+<lb/>and the only instrument is the <orgName>native</orgName> hoe
+<lb/>in the hands of <orgName>slaves</orgName> <space extent="3" unit="chars"/>The chief o<subst><del>f</del><add place="over-text">b</add></subst>ject
+<lb/>of agriculture is the <term type="plant_foodstuff">manioc</term> which does not
+<lb/>contain nutriment sufficient to give
+<lb/>proper stamina to the people <space extent="2" unit="chars"/>The <orgName>half
+<lb/>breed <term type="nationality">Portuguese</term></orgName> have not so much energy as
+<lb/>their fathers <space extent="2" unit="chars"/>They subsist chiefly on the <term type="plant_foodstuff">manioc</term>
+<lb/>and as that can be eaten either raw, roasted
+<lb/>or boiled as it comes from the ground or fermented
+<lb/>in water and then roasted or dried after fermentation
+<lb/>and baked or pounded into thin <term type="foodstuff">meal</term> or
+<lb/>rasped into <term type="foodstuff">meal</term> and cooked as "<term type="foodstuff">farina</term>" or
+<lb/>made into a <term type="foodstuff">confection<subst><del>a</del><add place="over-text">e</add></subst>ry</term> with <term type="foodstuff">butter</term> and <term type="foodstuff">sugar</term>
+<lb/><add place="marginleft" rend="gray" hand="#U1" n="U2"><seg rend="vertical"><note><space extent="6" unit="chars"/>248  21  241
+    <lb/>Hadley <subst><del><unclear cert="low">joining 24</unclear></del><add place="over-text">C</add></subst> L <placeName><settlement type="city">London</settlement></placeName>
+    <lb/><placeName><settlement type="village">Hadley Green</settlement></placeName>
+    <lb/><space extent="8" unit="chars"/><placeName><settlement type="borough">Barnet</settlement></placeName> <date when="1857-06">June</date>
+    <lb/><settlement type="borough">Barnet</settlement> <date when="1857-06-23">June 28 23d</date></note></seg></add>
+<del type="cancelled">they</del> it does not so soon pall upon their palates
+<lb/>as one might imagine when told that it <del type="cancelled" hand="#DL" n="DL">is</del>
+<lb/><add place="marginleft" hand="#DL" n="DL">constitutes</add> their principal food <space extent="6" unit="chars"/>The leaves, boiled
+<lb/>make an excellent <term type="plant_foodstuff">vegetable</term> for <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">the</add> table and
+<lb/>when eaten by <term type="animal">goats</term> their <term type="foodstuff">milk</term> is much
+<lb/>increased <space extent="3" unit="chars"/>The wood is a good fuel and
+<lb/>yields a large quantity of potash. <space extent="2" unit="chars"/>If planted
+<lb/>in a dry soil it takes two years to come to
+<lb/>perfection requiring during that time one
+<lb/>weeding only <space extent="2" unit="chars"/>It bears <seg type="weather">droughts</seg> well
+<lb/>and never shrivels up like other plants when
+<lb/>deprived of <seg type="weather">rain</seg> <space extent="3" unit="chars"/>When planted in low
+<lb/>alluvial soils and either well supplied with
+<lb/><seg type="weather">rain or annually flooded</seg> one year or even
+<lb/>ten months are sufficient to bring it to maturity</p>
+<lb/><p>The root rasped while raw and placed
+<lb/>upon a cloth <del type="strikethrough">having water</del> and rubbed
+
+
+<pb facs="liv_000101_0109.jpg" n="0109"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">104</add></fw>
+<lb/>with the hands while water is poured upon it
+<lb/>parts with its <term type="foodstuff">starch</term> and that when it settles
+<lb/><subst><add place="marginleft" hand="#DL" n="DL">at</add> <del type="strikethrough" hand="#DL" n="DL">into</del></subst> the bottom of the vessel and the water
+<lb/>poured <del type="strikethrough">away</del> off is placed<!-- there are letters underneath 'placed' but they are illegible.JL --> in the sun till
+<lb/>nearly dry <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>forms <term type="foodstuff">Tapioca</term></add> <space extent="2" unit="chars"/>The process of drying is completed
+<lb/>o<subst><del>ve</del><add place="over-text">n</add></subst> an iron plate over a slow fire the mass
+<lb/>being stirred meanwhile with a stick &amp; when
+<lb/>quite dry it appears <subst><add place="above">agglutinated</add><del type="strikethrough">conglomerated</del></subst> into little
+<lb/>globules and is <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">in the form we see</add> the <term type="foodstuff">tapioca</term> of commerce
+<lb/>This is never eaten by <term type="insect"><choice><sic>wevils</sic><corr>weevils</corr></choice></term> and so little
+<lb/>labour is required in its cultivation that on
+<lb/>the spot it is extremely cheap <space extent="4" unit="chars"/><del type="strikethrough">In</del>
+<lb/>Throughout the <placeName><region>interior parts of <placeName><country>Angola</country></placeName></region></placeName>
+<lb/>fine <term type="foodstuff">manioc meal</term> which could with ease
+<lb/>be converted into either <subst><add place="above">superior</add><del type="strikethrough">fine</del></subst> <term type="foodstuff">starch</term> or <term type="foodstuff">tapioca</term>
+<lb/>is commonly sold at the rate of about
+<lb/>ten pounds for a penny. <space extent="2" unit="chars"/>All this region
+<lb/><add place="marginleft" hand="#DL" n="DL" rend="gray">however</add> <add place="below" hand="#DL" n="DL" rend="gray">^</add> has no means of transport <add place="below">˄</add> <add place="above">to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></add> other than <add place="above">the</add> shoulders
+<lb/>of the <term type="occupation">carriers</term> and <orgName>slaves</orgName> <del type="strikethrough">by me</del> over a footpath</p>
+<lb/><p><placeName><settlement type="town">Cambambe</settlement></placeName> to which the <add place="below">^</add> <del type="strikethrough"><add place="above">canoe</add></del> navigation
+<lb/>of the <placeName><settlement type="town">Coanza</settlement></placeName> reaches is reported to be <measure>thirty
+<lb/>leagues</measure> below <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName> <space extent="2" unit="chars"/>A large waterfall
+<lb/>is the limit on that side and another exists
+<lb/>higher up at the confluence of the <placeName><geogName type="river">Lombe</geogName></placeName>
+<lb/>over which <term type="animal">hippopotami</term> and <term type="animal">elephants</term>
+<lb/>are sometimes drawn and killed <space extent="3" unit="chars"/>The
+<lb/>river between is rapid and generally
+<lb/>rushes over a rocky bottom  <space extent="3" unit="chars"/>Its source
+<lb/>is pointed out as <choice><abbr>S. E.</abbr><expan>South East</expan></choice> of its confluence with
+<lb/>the <placeName><geogName type="river">Lombe</geogName></placeName> <add place="inline" hand="#DL" n="DL" rend="gray">&amp; near <placeName><geogName type="plateau">Bihé</geogName></placeName></add><!-- Bihe (Bié) Plateau of Angola, so I made it a region  sh --> <space extent="3" unit="chars"/>I had the happiness
+<lb/>of doing a little good in the way of administering
+<lb/>to the sick for <choice><sic>their</sic><corr>there</corr></choice> are no <term type="occupation">doctors</term> in the
+<lb/><placeName><region>interior of <placeName><country>Angola</country></placeName></region></placeName> <del type="strikethrough">bu</del> Notwithstanding
+<lb/>the general healthiness of this <seg type="weather">fine climate</seg>
+
+
+<pb facs="liv_000101_0110.jpg" n="0110"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">105</add></fw>
+<lb/>and its <seg type="weather">pleasant temperature</seg> I was attacked by
+<lb/><term type="ailment">fever</term> myself <space extent="3" unit="chars"/>While confined to my room a
+<lb/>gentleman of colour who was a <term type="occupation">canon</term> of the church
+<lb/>kindly paid me a visit <space extent="3" unit="chars"/>He was on a tour of
+<lb/>visitations in the different <placeName><region>interior</region></placeName> districts for
+<lb/>the purpose <supplied cert="high">of</supplied> baptizing and marrying <space extent="3" unit="chars"/>He had
+<lb/>lately been on a visit to <del type="cancelled"><placeName><country>Portugal</country></placeName></del> <add place="above"><placeName><settlement type="city">Lisbon</settlement></placeName></add> in company
+<lb/>with the <persName><term type="occupation">Prince</term> of <placeName><country>Congo</country></placeName></persName> and had been invested
+<lb/>with an order of honour by the <persName><term type="occupation">King</term> of <placeName><country>Portugal</country></placeName></persName>
+<lb/>as an acknowledgement of his services. <space extent="3" unit="chars"/>He had
+<lb/>all the appearance of a true negro but <w><subst><del>w</del><add place="over-text">c</add></subst>ommanded</w>
+    <lb/>the respect of the people and <persName><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> <choice><abbr>P.</abbr><expan>Pires</expan></choice></persName> who had
+<lb/>known him for thirty years pronounced him to be a
+<lb/>good man <space extent="5" unit="chars"/>There are only three or four
+<lb/><term type="occupation">priests</term> in <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> all men of colour but
+<lb/>educated for the office <space extent="4" unit="chars"/>About the time of
+<lb/>my journey in <placeName><country>Angola</country></placeName> an offer was made to
+<lb/><del type="strikethrough">any</del> young <del type="cancelled">man</del> <add place="below">^</add> <add place="above">men of ability</add> who might wish to devote
+<lb/>themselves to the service of the church to afford
+<lb/>them the requisite education at the <orgName>University
+<lb/>of <placeName><settlement type="city">Coimbra</settlement></placeName></orgName> in <placeName><country>Portugal</country></placeName> <space extent="4" unit="chars"/>I was informed <add place="below">^</add> <add place="marginleft"><del type="strikethrough">by various
+    <lb/>on what seemed
+    <lb/>good authority</del></add>
+<lb/>that the <persName><term type="occupation">Prince</term> of <placeName><country>Congo</country></placeName></persName> is professedly a <term type="faith">Christian</term>
+<lb/>and that there are no fewer than twelve churches
+<lb/>in that Kingdom <!-- Kingdom of Congo, sh --> <add place="inline" rend="gray" hand="#U1" n="U2">—---</add> The fruits of the mission
+<lb/>established in former times at <del type="cancelled"><add place="below">^</add></del> <placeName><settlement type="city">San Salvador</settlement></placeName>
+<lb/>the capital <space extent="3" unit="chars"/>These churches are kept in
+<lb/>some repair by the people who also keep up
+<lb/>the ceremonies of the church pronouncing some
+<lb/>gibberish over the dead in imitation of the <choice><sic>latin</sic><corr>Latin</corr></choice>
+<lb/>prayers which they <add place="below">^</add> <add place="above">had</add> formerly heard   
+<lb/>Many of them can read and write   
+<lb/>When a <persName><term type="occupation">King</term> of <placeName><country>Congo</country></placeName></persName> dies the body is wrapped
+<lb/>up in a great many folds of cloth until a
+<lb/><term type="occupation">priest</term> can come from <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> to consecrate
+
+
+<pb facs="liv_000101_0111.jpg" n="0111"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">106</add></fw>
+<lb/>his successor <space unit="chars" extent="5"/>The <persName><term type="occupation">King</term> of <placeName><country>Congo</country></placeName></persName> still
+<lb/>retains the title of <persName>Lord of <placeName><country>Angola</country></placeName></persName> which he had
+<lb/>when the <term type="tribe">Jinga</term> <add place="marginleft"><metamark function="insertion"/>the original possessors
+    <lb/>of the soil <w>ow<subst><del>n</del><add place="over-text">e</add></subst>d</w> him
+    <lb/>allegiance</add> 
+<subst><del type="strikethrough">were his vassals</del><add place="above"><del type="strikethrough"><w>ow<subst><del>n</del><add place="over-text">e</add></subst>d</w> him allegiance</del></add></subst> <del>as well as the original
+<lb/>possessors of the <unclear cert="medium">province</unclear></del> <space extent="3" unit="chars"/>And when he writes to the
+<lb/><persName><term type="occupation">Governor</term> of <placeName><country>Angola</country></placeName></persName> he places his own name first
+<lb/>as if addressing his vassal <space extent="4" unit="chars"/>The <term type="tribe">Jinga</term>
+<lb/>paid him tribute annually in cowries which
+<lb/>were found on the island that shelters <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> harbour
+<lb/>and refusing to continue payment the
+<lb/><persName><term type="occupation">King</term> of <placeName><country>Congo</country></placeName></persName> gave over the island to the <term type="people">Portuguese</term>
+<lb/>and thus their dominion commenced in this quarter</p>
+<lb/><p>There is not much knowledge of the <subst><add place="above">the <term type="faith">Christian</term> religion</add><del type="strikethrough"><term type="faith">Christianity</term></del></subst> in
+<lb/>either <placeName><country>Congo</country></placeName> or <placeName><country>Angola</country></placeName> <del type="strikethrough">but</del> yet it is looked
+<lb/>upon with some degree of favour <space extent="2" unit="chars"/>The prevalence
+<lb/>of the <term type="ailment">fever</term> is probably the reason why no
+<lb/><term type="occupation">priest</term> occupies a post in any part of the
+<lb/><placeName><region>interior</region></placeName> <space extent="3" unit="chars"/>They come on tours of visitation
+<lb/>like the present and it is said that no
+<lb/>expense is incurred for the people are
+<lb/>ready <add place="below">^</add> <add place="marginleft"><metamark function="insertion"/>not only to pay
+    <lb/>for their services but
+    <lb/>also</add>
+to furnish them with every article in
+<lb/>their power gratuitously <space extent="4" unit="chars"/>In view of
+<lb/>the desolate condition of this fine <term type="occupation">missionary</term>
+<lb/>field it is more than probable that the presence
+<lb/>of a few <orgName>Protestants</orgName> would soon provoke the
+<lb/><term type="occupation">Priests</term>, if not to love, to good works</p>
+<lb/><p><note><date when="1855-01-01">1<hi rend="sup">st</hi> <choice><abbr>Jan<hi rend="sup underline">y</hi></abbr><expan>January</expan></choice> 1855</date>.</note> <space extent="2" unit="chars"/>Having through the kindness of <!-- p428 Missionary Travels, sh -->
+<lb/><persName><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> Pires</persName> reproduced some <choice><abbr>`</abbr><expan>of</expan></choice> my lost papers I
+<lb/>left <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName> the first day <choice><abbr>`</abbr><expan>of</expan></choice> this year<!-- Grave accent seems to be abbrev for 'of', sh -->
+<lb/>and at <placeName><settlement type="village">Candumba</settlement></placeName> slept in one <del type="strikethrough"><choice><abbr>`</abbr><expan>of</expan></choice> his</del>
+<lb/>the dairy establishments of my friend who
+<lb/>had sent forward orders for an ample
+<lb/>supply of <term type="foodstuff">butter</term> <term type="foodstuff">cheese</term> &amp; <term type="foodstuff">milk</term> Our path
+<lb/>lay along <choice><abbr>'</abbr><expan>the</expan></choice> right bank <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Coanza</geogName></placeName> <del type="strikethrough">till
+<lb/>When it</del> <subst><del type="strikethrough">which</del><add place="below">This</add></subst> is composed of the same
+
+
+<pb facs="liv_000101_0112.jpg" n="0112"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">107</add></fw>
+<lb/>sandstone rock with pebbles as forms the
+<lb/>flooring of the country. <space extent="2" unit="chars"/><del type="cancelled">It is level</del> The land is
+<lb/>level <add place="below" hand="#DL" n="DL" rend="gray">^</add> <add place="marginleft" rend="gray" hand="#DL" n="DL">has much open
+<lb/>forest</add> and <add place="below" hand="#DL" n="DL" rend="gray">^</add> <add place="above" hand="DL" rend="gray">is</add> well adapted for pasturage </p>
+<lb/><p>On reaching the confluence of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Lombe</geogName></placeName> we left
+<lb/>the river and proceeded in a <choice><abbr>N E</abbr><expan>North East</expan></choice> direction  <add place="below">^</add> <del type="cancelled">to</del> <add place="marginleft">through</add>
+<lb/>a fine open green country to the village of
+<lb/><placeName><settlement type="village">Malange</settlement></placeName> where we <del type="strikethrough">cut</del> struck our former
+<lb/>path <space extent="3" unit="chars"/>A few miles to the West <choice><abbr>`</abbr><expan>of</expan></choice> this a
+<lb/>path branches off to a new district named
+<lb/>the <placeName><region>Duke Braganza</region></placeName> <space extent="3" unit="chars"/>This path crosses
+<lb/>the <placeName><geogName type="river">Lucalla</geogName></placeName> and several of its feeders - The
+<lb/>whole of <choice><sic>th<del>at</del></sic><corr>the</corr></choice> country <add place="below" hand="#DL" n="DL">^</add> <retrace hand="#DL" n="DL" rend="black"><add place="marginleft" rend="gray" hand="#DL" n="DL">drained by
+    <lb/>which</add></retrace> 
+<del type="strikethrough" hand="#DL" n="DL" rend="gray"><add place="above" hand="#DL" n="DL" rend="gray">are</add></del> is described as extremely
+<lb/>fertile. <space extent="3" unit="chars"/>The territory West of <placeName><region>Braganza</region></placeName> is
+<lb/>reported to be mountainous, well wooded and
+<lb/>watered, <term type="plant">wild <term type="foodstuff">coffee</term></term> is abundant <retrace hand="#DL" n="DL" rend="black"><add place="marginleft" hand="#DL" n="DL" rend="gray"><metamark function="insertion"/>and the people
+    <lb/>even make their
+    <lb/>huts of <term type="plant"><term type="foodstuff">coffee</term> trees</term></add></retrace>   
+<space extent="2" unit="chars"/>The rivers
+<lb/><placeName><geogName type="river">Dande</geogName></placeName> <placeName><geogName type="river">Senza</geogName></placeName> and <placeName><geogName type="river">Lucalla</geogName></placeName> are said to rise
+<lb/>in one mountain range <space extent="4" unit="chars"/><del type="strikethrough">The</del> <choice><sic>numerous</sic><corr>Numerous</corr></choice>
+<lb/>tribes inhabit the country to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N</abbr><expan>North</expan></choice>, <add place="marginleft"><metamark function="insertion"/>who are all
+    <lb/>independent</add> 
+<del type="cancelled">but</del> <choice><abbr>'</abbr><expan>The</expan></choice> <term type="people">Portuguese</term>
+<lb/>power <w><subst><del><unclear cert="medium">is</unclear></del><add place="over-text">e</add></subst>xtends</w> chiefly over <choice><abbr>'</abbr><expan>the</expan></choice> tribes through
+<lb/>whose lands we have passed <space extent="3" unit="chars"/><add place="inline">It</add> <del type="strikethrough">They</del> may
+<lb/>be said to be <del type="cancelled"><add place="below">^</add> <add place="above"><unclear cert="medium">not</unclear></add></del> firmly  seated <add place="below">^</add> <add place="above">only</add> between <choice><abbr>'</abbr><expan>the</expan></choice> rivers
+<lb/><add place="marginleft"><placeName><geogName type="river">Dande</geogName></placeName></add> <del type="strikethrough"><placeName><geogName type="river">Senza</geogName></placeName></del> <add place="below">^</add> <add place="above">and</add> <placeName><geogName type="river">Coanza</geogName></placeName> <add place="inline" hand="#DL" n="DL">It extends inland
+<lb/><measure>about 300 miles</measure> <subst><del>and</del><add place="over-text">or</add></subst> to
+<lb/>the river <placeName><geogName type="river">Quango</geogName></placeName> - and the
+<lb/>population according to
+<lb/>the <subst><del>im</del><add place="over-text">i</add></subst>mperfect data afforded
+<lb/>by the census given <del type="strikethrough">by</del>
+<lb/><add place="marginleft">annually</add> by the <term type="occupation">commandants</term> of
+<lb/>the <del type="cancelled"><del type="cancelled" hand="#DL" n="DL" rend="gray"><subst><del>twelve</del><add place="over-text">thirteen</add></subst> or fourteen</del></del>
+<lb/><add place="marginleft" rend="gray" hand="#DL" n="DL">fifteen or sixteen</add> <add place="below" hand="#DL" n="DL" rend="gray">^</add> districts into which it is
+<lb/>divided cannot be under
+<lb/>600 000 souls.</add> <space extent="5" unit="chars"/>Leaving
+<lb/><placeName><settlement type="village">Malange</settlement></placeName> we passed quickly without
+<lb/>deviation along <choice><abbr>'</abbr><expan>the</expan></choice> path by which we had come
+    
+    
+
+    <pb facs="liv_000101_0113.jpg" n="0113"/><!-- text jumps from p429 to p430, Missionary Travels, mssing 34 lines of printed text, sh -->
+<lb/><note place="marginleft above" hand="#U1" n="U1" rend="gray">430-439</note> <fw><add place="inspace" hand="#U1" n="U1" rend="gray right">108</add></fw>
+<lb/>already erected at <choice><abbr>'</abbr><expan>the</expan></choice> different sleeping places
+<lb/>all their care was bestowed in making me comfortable
+<lb/><add place="inline" rend="gray" hand="#U1" n="U2">---</add> <persName>Mashauana</persName> as usual <del type="strikethrough">took</del> made his bed
+<lb/>with his head close to my feet and never during
+<lb/>the <del type="strikethrough"><unclear cert="medium">whole jourl</unclear></del> entire journey did I have to call
+<lb/><add place="marginleft">him</add> twice for anything I needed <space extent="2" unit="chars"/>During <add place="above">our stay</add> <add place="below">^</add> <del type="cancelled">my While</del> at <del type="cancelled">this</del>
+<lb/><placeName><geogName type="mountain">Tala Mungongo</geogName></placeName> our attention was attracted to
+<lb/>a species <choice><abbr>`</abbr><expan>of</expan></choice> <term type="insect">red ant</term> which infests different parts
+<lb/><choice><abbr>`</abbr><expan>of</expan></choice> this country <choice><sic>it</sic><corr>It</corr></choice> is remarkably fond <choice><abbr>`</abbr><expan>of</expan></choice> animal
+<lb/>food <space extent="2" unit="chars"/>The <term type="occupation">commander</term> <choice><abbr>`</abbr><expan>of</expan></choice> this village having
+<lb/>slaughtered a <term type="animal">cow</term>, <orgName>slaves</orgName> were obliged to sit up
+<lb/>the whole night burning fires <choice><abbr>`</abbr><expan>of</expan></choice> straw around
+<lb/>the meat to prevent them <del type="cancelled"><add place="below">^</add> <add place="above" hand="#DL" n="DL"><gap extent="1" unit="chars" agent="illegible"/></add></del> from devouring <del type="cancelled">al it</del> the
+<lb/>most of it. <space extent="3" unit="chars"/>These <term type="insect">ants</term> <del type="strikethrough">is</del><add place="above">are</add> frequently met with
+<lb/><del type="cancelled">as</del> in numbers like a <subst><del>little</del><add place="above">small</add></subst> army. <del type="cancelled">cross</del> At a
+<lb/>little distance they appear as a brownish
+<lb/>red band two or three inches wide stretched across
+<lb/>the path all eagerly pressing on in one direction
+<lb/>If a person happens to tread upon them they
+<lb/>rush up his legs and bite with surprising vigour</p>
+<lb/><p>The first time I encountered this by no means
+<lb/>contemptible enemy was near <placeName><settlement type="village">Cassange</settlement></placeName> <del type="strikethrough">when</del>
+<lb/>My attention being taken up in viewing <choice><abbr>'</abbr><expan>the</expan></choice> distant
+<lb/>landscape I accidentally stepped upon one <choice><abbr>`</abbr><expan>of</expan></choice>
+<lb/>their nests <space extent="2" unit="chars"/>Not an instant seemed to elapse
+<lb/>before a simultaneous attack was made on
+<lb/>various <add place="below">^</add> <add place="above">unprotected</add> parts <del type="cancelled">m</del> up the <choice><orig>trowsers</orig><reg>trousers</reg></choice> from below
+<lb/>and on <del type="strikethrough"><choice><abbr>'</abbr><expan>the</expan></choice> skin</del> my neck <retrace hand="#DL" n="DL" rend="black"><add place="below" rend="gray" hand="#DL" n="DL">^</add> <add place="above" rend="gray" hand="#DL" n="DL">&amp; breast</add></retrace> <add place="above" hand="#DL" n="DL">above</add>, The bites <choice><abbr>`</abbr><expan>of</expan></choice> these
+<lb/>furies was like sparks <choice><abbr>`</abbr><expan>of</expan></choice> fire and there was
+<lb/>no retreat I jumped about for a second
+<lb/>or two then <retrace hand="#DL" n="DL"><add place="marginleft" rend="gray" hand="#DL" n="DL"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-302"/>in desperation<anchor xml:id="meta-302"/></add></retrace> tore off all my clothing <add place="below" hand="#DL" n="DL">^</add> <del type="strikethrough" hand="#DL" n="DL">and</del>
+<lb/><add place="marginleft" hand="#DL" n="DL" rend="gray"><metamark function="insertion" rend="black" resp="#DL" n="DL"/><subst><del>&amp;</del><add place="over-text" rend="black" hand="#DL" n="DL">and</add></subst> <retrace hand="#DL" n="DL" rend="black">rubbed</retrace></add> <add place="above" hand="#DL" n="DL">&amp;</add> picked them off as quickly as possible <del type="strikethrough">se</del>
+<lb/>seriatim <add place="marginbottom" hand="#DL" n="DL"><metamark function="insertion"/>Ugh! They would make the most lethargic mortal
+    <lb/>look alive -</add> 
+<space extent="3" unit="chars"/><choice><sic>fortunately</sic><corr>Fortunately</corr></choice> no one observed
+<lb/>this <choice><sic>renconter</sic><corr>rencontre</corr></choice> or word <subst><del>a</del><add place="over-text">m</add></subst>ight have been <!-- writting towards the end seems more rushed, difficult to tell if this had changed the DL or not, sh -->
+
+
+<pb facs="liv_000101_0114.jpg" n="0114"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">109</add></fw>
+<lb/>taken back to <choice><abbr>'</abbr><expan>the</expan></choice> village that I had become mad</p>
+<lb/><p> I was once assaulted in a similar way when
+<lb/>sound asleep <subst><del hand="#DL" n="DL">one</del><add place="over-text" hand="#DL" n="DL" rend="gray"><retrace hand="#DL" n="DL" rend="black">at</retrace></add></subst> night in my tent, and it was
+<lb/>only by holding my blanket over <choice><abbr>'</abbr><expan>the</expan></choice> fire that I
+<lb/>could get rid <choice><abbr>`</abbr><expan>of</expan></choice> them <space extent="4" unit="chars"/>It is really astonishing
+<lb/>how such small bodies can contain so large an 
+<lb/>amount of ill nature  <add place="marginleft"><metamark function="insertion"/>They not only bite but
+    <lb/>twist their bodies around
+    <lb/>after <choice><abbr>'</abbr><expan>the</expan></choice> mandibles are
+    <lb/>inserted to produce
+    <lb/>laceration and pain
+    <lb/>more than would be
+    <lb/>effected by <choice><abbr>'</abbr><expan>the</expan></choice> single
+    <lb/>wound</add>   
+<space extent="3" unit="chars"/><choice><sic>frequently</sic><corr>Frequently</corr></choice> while
+<lb/>sitting on the <term type="animal">ox</term> as he happened to tread near a
+<lb/>band they rushed up along his legs to <choice><abbr>'</abbr><expan>the</expan></choice> rider
+<lb/>and <del type="strikethrough">let</del> soon let him know that he had he had disturbed
+<lb/>their march <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-86"/> <space extent="3" unit="chars"/>They are very useful in
+<lb/>ridding <choice><abbr>'</abbr><expan>the</expan></choice> country <choice><abbr>`</abbr><expan>of</expan></choice> dead animal matter
+<lb/>and when they visit a human habitation <del type="cancelled">they</del> clean
+<lb/>it entirely <choice><abbr>` '</abbr><expan>of the</expan></choice> <del type="strikethrough">white</del> destructive <term type="insect">white ants</term> and
+<lb/>other vermin  <space extent="3" unit="chars"/><metamark function="reorder" spanTo="#meta-195"/><seg corresp="#reorder-86">They possess no fear attacking
+<lb/>with equal ferocity <choice><abbr>'</abbr><expan>the</expan></choice> largest as well as <choice><abbr>'</abbr><expan>the</expan></choice> smallest
+<lb/>animals  <add place="marginleft"><metamark function="insertion"/><metamark function="insertion" resp="#DL" n="DL" rend="gray"/>When any <subst><del type="strikethrough">one</del><add place="above">person</add></subst> has leaped
+    <lb/>over <choice><abbr>'</abbr><expan>the</expan></choice> band numbers of them
+    <lb/>leave <choice><abbr>'</abbr><expan>the</expan></choice> ranks and
+    <lb/>rush along <choice><abbr>'</abbr><expan>the</expan></choice> path seemingly
+    <lb/>anxious for a fight</add></seg><anchor xml:id="meta-195"/> <space extent="2" unit="chars"/>They <subst><del type="strikethrough">keep down</del><add place="above">destroy</add></subst> many noxious
+<lb/>insects and reptiles <space extent="3" unit="chars"/>The severity <choice><abbr>`</abbr><expan>of</expan></choice> their
+<lb/><subst><add place="marginleft">attack</add> <del type="strikethrough">bite</del></subst> is greatly increased by their vast numbers
+<lb/>and <term type="animal">rats</term>, <term type="animal">mice</term> <term type="animal">lizards</term> and even <choice><abbr>'</abbr><expan>the</expan></choice> <foreign xml:lang="la"><term type="animal"><hi rend="underline">python
+<lb/>natalensis</hi></term></foreign> when in a state <choice><abbr>`</abbr><expan>of</expan></choice> surfeit from
+<lb/>recent feeding fall <del type="cancelled">a</del> victims to their fierce
+<lb/>onslaught. <space extent="3" unit="chars"/>These <term type="insect">ants</term> never make
+<lb/>hills like the <term type="insect">white ant</term>. <space extent="2" unit="chars"/>Their nests are
+<lb/>but a short distance beneath <choice><abbr>'</abbr><expan>the</expan></choice> soil <del type="strikthrough">and appear
+<lb/>on <choice><abbr>'</abbr><expan>the</expan></choice> surface</del> which has the <del type="strikthrough">same</del> soft appearance
+<lb/><del type="cancelled">that</del> of <add place="below">^</add> <add place="above">the abodes</add> <supplied cert="high">of</supplied> <term type="insect">ants</term> in <placeName><country>England</country></placeName> <space extent="4" unit="chars"/>Occasionally
+<lb/>they construct galleries over their path to the
+<lb/>cells of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="insect">white ant</term> in order to secure themselves
+<lb/>from the heat <choice><abbr>` '</abbr><expan>of the</expan></choice> sun <del type="cancelled">in their</del> during their marauding
+<lb/>expeditions.</p>
+<lb/><p rend="no-indent"><note><date when="1855-01-15"><choice><abbr>Jan</abbr><expan>January</expan></choice> 15 <choice><abbr>/55</abbr><expan>1855</expan></choice></date></note> We descended from <choice><abbr>'</abbr><expan>the</expan></choice> heights <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><geogName type="mountain">Tala 
+<lb/><choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></geogName></placeName> this <unclear cert="medium">mor</unclear>, <del type="cancelled" hand="#DL" n="DL">It</del> in one hour <space extent="3" unit="chars"/>I
+<lb/>counted <choice><abbr>'</abbr><expan>the</expan></choice> number <choice><abbr>`</abbr><expan>of</expan></choice> paces made on <choice><abbr>'</abbr><expan>the</expan></choice> slope downward
+
+
+<pb facs="liv_000101_0115.jpg" n="0115"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">110</add></fw>
+<lb/><del type="cancelled">wh</del> and found them to be between sixteen hundred <choice><abbr>wh.</abbr><expan>which</expan></choice> may
+<lb/>give a perpendicular height <choice><abbr>`</abbr><expan>of</expan></choice> from <measure>twelve to fifteen
+<lb/>hundred <choice><abbr>ft.</abbr><expan>feet</expan></choice></measure> <space extent="2" unit="chars"/>Water boiled at 206° at
+<lb/><placeName><geogName type="mountain">Tala <choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></geogName></placeName> above and at 208° at <choice><abbr>'</abbr><expan>the</expan></choice> bottom
+<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> declivity. <space extent="2" unit="chars"/>The air being at 72° in <choice><abbr>'</abbr><expan>the</expan></choice> shade
+<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> former case and 94° in <choice><abbr>'</abbr><expan>the</expan></choice> latter <space extent="3" unit="chars"/>The <w>temp-
+<lb break="no"/>erature</w> generally throughout <choice><abbr>'</abbr><expan>the</expan></choice> day was <del type="cancelled">9</del> from
+<lb/>94° to 97° in <choice><abbr>'</abbr><expan>the</expan></choice> coolest shade we could find</p>
+<lb/><p>The rivulets <choice><abbr>wh.</abbr><expan>which</expan></choice> cut up <choice><abbr>'</abbr><expan>the</expan></choice> valley <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName>
+<lb/>were now dry  but <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Lui</geogName></placeName> and <placeName><geogName type="river">Luare</geogName></placeName> contained
+<lb/>abundance <choice><abbr>`</abbr><expan>of</expan></choice> rather brackish water. The banks
+<lb/>are lined with <add place="below">^</add> <term type="plant"><subst><add place="above">p</add><del type="cancelled">P</del></subst>alm</term> and <term type="plant">wild date</term> trees, many
+<lb/><term type="plant">guavas</term> the fruit <choice><abbr>`</abbr><expan>of</expan></choice> <choice><abbr>wh.</abbr><expan>which</expan></choice> was now becoming ripe
+<lb/>A tree much like <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant">mango</term> abounds but it
+<lb/>does not yield fruit <space extent="2" unit="chars"/>In these rivers a kind
+<lb/><choice><abbr>`</abbr><expan>of</expan></choice> edible <term type="animal"><term type="foodstuff"><choice><orig>musel</orig><reg>mussel</reg></choice></term></term> <add place="below">^</add> <del type="cancelled" hand="#DL" n="DL" rend="gray"><add place="above">abounds</add></del> <retrace hand="#DL" n="DL" rend="black"><add place="above" rend="gray" hand="#DL" n="DL">is plentiful</add></retrace> shells <choice><abbr>`</abbr><expan>of</expan></choice> <choice><abbr>wh.</abbr><expan>which</expan></choice> exist in all <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>alluvial <del type="strikethrough">lands</del> beds <choice><abbr>` '</abbr><expan>of the</expan></choice> ancient rivers as far as
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Kuruman</geogName></placeName>. <space extent="3" unit="chars"/>The brackish nature <choice><abbr>` '</abbr><expan>of the</expan></choice> water
+<lb/>probably enables it to exist here,<!-- Description of bird life follows in printed text, bottom p431, sh --> <space extent="2" unit="chars"/>Before we
+<lb/>reached <placeName><settlement type="village">Cassange</settlement></placeName> we were overtaken by <choice><abbr>'</abbr><expan>the</expan></choice> <persName><term type="occupation"><w>Com-
+<lb break="no"/>mandant</w></term> <foreign xml:lang="pt"><choice><abbr>Sn.</abbr><expan>Senhor</expan></choice></foreign> Carvalho</persName> <add place="below">^</add> <add place="above" hand="#DL" n="DL">who was</add> returning with a
+<lb/>detachment <choice><abbr>`</abbr><expan>of</expan></choice> fifty men and a field
+<lb/>piece from an unsuccessful search after
+<lb/>some rebels. <space extent="3" unit="chars"/>The rebels had fled and all
+<lb/>that he could do was to burn their huts, he
+<lb/>kindly invited me to take up my residence
+<lb/><add place="marginleft" rend="gray" hand="#U1" n="U2"><note>(<metamark function="query">?</metamark></note></add> with him but <add place="marginleft"><metamark function="insertion"/>not wishing to pass by the
+    <lb/>gentleman <del type="strikethrough">who had so</del> <persName><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term>
+    <lb/>Neves</persName> who had so kindly</add> 
+<del type="strikethrough">I had concluded to return to
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> hospitable mansion of <choice><abbr>'</abbr><expan>the</expan></choice> Gentleman <persName><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term>
+<lb/>Neves</persName> who had first</del> received me on my <add place="below">^</add> <add place="above">first</add> arrival
+<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Portuguese</term> possessions <add place="above">I declined</add>. <space extent="3" unit="chars"/><persName><foreign xml:lang="pt"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice></foreign> Rego</persName> had
+<lb/>been superseded in his command, because
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> <del type="strikethrough">present</del> <persName><term type="occupation"><choice><abbr>Gov<hi rend="sup">r</hi></abbr><expan>Governor</expan></choice></term> <add place="marginleft"><metamark function="insertion"/>Amaral</add></persName> who had come <add place="below">^</add> <add place="above">into office since my departure from</add> <del type="cancelled">to</del> <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> <del type="strikthrough">since 
+<lb/>my departure from 
+<lb/>my departure</del> had determined that <choice><abbr>'</abbr><expan>the</expan></choice> law
+<lb/>which requires <choice><abbr>'</abbr><expan>the</expan></choice> office <choice><abbr>`</abbr><expan>of</expan></choice> <term type="occupation">Commandant</term> to be
+
+
+<pb facs="liv_000101_0116.jpg" n="0116"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">111</add></fw>
+<lb/>exclusively occupied by <term type="occupation">military officers</term> of <choice><abbr>'</abbr><expan>the</expan></choice> line
+<lb/>should again come into operation. <space extent="2" unit="chars"/>I was again
+<lb/>most kindly welcomed by my friend <persName><term type="occupation"><choice><abbr>Cap<hi rend="sup">t</hi></abbr><expan>Captain</expan></choice></term> Neves</persName>
+<lb/>whom I found labouring under a violent <term type="ailment"><choice><sic>inflamation</sic><corr>inflammation</corr></choice></term>
+<lb/>and <term type="ailment">abscess</term> of <choice><abbr>'</abbr><expan>the</expan></choice> hand <space extent="4" unit="chars"/>There is nothing in <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>situation <choice><abbr>`</abbr><expan>of</expan></choice> this village to indicate unhealthiness
+<lb/>except perhaps <choice><abbr>'</abbr><expan>the</expan></choice> rank luxuriance <choice><abbr>` '</abbr><expan>of the</expan></choice> vegetation
+<lb/>Nearly all <choice><abbr>'</abbr><expan>the</expan></choice> <term type="people">Portuguese</term> inhabitants <del type="cancelled"><add place="above">however</add></del> suffer from
+<lb/><term type="ailment">enlargement of <choice><abbr>'</abbr><expan>the</expan></choice> spleen</term> the effects <choice><abbr>`</abbr><expan>of</expan></choice> <term type="ailment">frequent
+<lb/>intermittents</term> and <add place="below">^</add> <add place="above">have generally a sickly appearance</add> <del type="strikethrough">many <choice><abbr>` '</abbr><expan>of the</expan></choice> children are cut off</del></p> 
+<lb/><p>Thinking that this affection <choice><abbr>` '</abbr><expan>of the</expan></choice> hand was simply
+<lb/>an effort <choice><abbr>`</abbr><expan>of</expan></choice> nature to get rid of <term type="ailment">malarious matter</term>
+<lb/>from <choice><abbr>'</abbr><expan>the</expan></choice> system I recommended <choice><abbr>'</abbr><expan>the</expan></choice> use <choice><abbr>`</abbr><expan>of</expan></choice> <term type="medicament">quinine</term>. <del type="cancelled"><add place="below">^</add></del>
+<lb/><add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-303"/>He himself
+    <lb/>applied<anchor xml:id="meta-303"/></add>
+<add place="marginleft"><choice><sic>The</sic><corr>the</corr></choice></add> <del type="strikethrough">and</del> <del type="cancelled"><choice><abbr>'</abbr><expan>the</expan></choice></del> leaf <choice><abbr>`</abbr><expan>of</expan></choice> a plant called <term type="plant"><term type="medicament">Cathory</term></term> famed
+<lb/>among <choice><abbr>'</abbr><expan>the</expan></choice> <del type="strikethrough">people</del> <add place="below">^</add> <add place="above"><orgName>natives</orgName></add> as an excellent remedy for
+<lb/><term type="ailment">ulcers</term> <del type="strikthrough">being applied</del> each <del type="strikethrough">medicine</del> remedy of
+<lb/>course claimed the merit <choice><abbr>` '</abbr><expan>of the</expan></choice> cure <space extent="3" unit="chars"/>The <term type="plant"><term type="medicament">Cathory</term></term>
+<lb/>leaves when boiled exude a gummy juice
+<lb/><choice><abbr>wh.</abbr><expan>which</expan></choice> effectually shuts out the external air</p>
+<lb/><p>Many <choice><abbr>` '</abbr><expan>of the</expan></choice> children are cut off by <term type="ailment">fever</term>
+<lb/>A fine boy of <persName><term type="occupation"><choice><abbr>Cap<hi rend="sup underline">t</hi></abbr><expan>Captain</expan></choice></term> Neves</persName> had since my passage
+<lb/>westward shared a similar fate <space extent="2" unit="chars"/>Another child
+<lb/>died during the period of my visit <del type="cancelled" hand="#DL" n="DL" rend="black"><del type="cancelled" rend="gray" hand="#DL" n="DL">and <gap extent="1" unit="chars"/> the</del></del>
+<lb/><retrace hand="#DL" n="DL" rend="black"><add place="marginleft" rend="gray" hand="#DL" n="DL">It</add></retrace> <del type="cancelled" hand="#DL" n="DL"><del type="cancelled" rend="gray" hand="#DL" n="DL">third</del></del> being now sick his mother, a woman of colour
+<lb/>sent for a <term type="occupation">diviner</term> in order to ascertain what ought
+<lb/>to be done. <space extent="3" unit="chars"/>The <term type="occupation">diviner</term> after throwing his dice
+<lb/><del>p</del> worked himself into <subst><del>a</del><add place="over-text">the</add></subst> state of <choice><sic>extacy</sic><corr>ecstasy</corr></choice> in
+<lb/>which they pretend to be in communication with
+<lb/>the <del type="cancelled">gods</del> <foreign xml:lang="tn">Barimo</foreign> <space extent="3" unit="chars"/>He then gave the oracular
+<lb/>response that "the child was being killed by the
+<lb/>spirit <choice><abbr>`</abbr><expan>of</expan></choice> a <term type="occupation"><term type="nationality">Portuguese</term> trader</term> who once lived
+<lb/>at <placeName><settlement type="village">Cassange</settlement></placeName>" <space extent="3" unit="chars"/>The case was this on the
+<lb/>death <choice><abbr>` '</abbr><expan>of the</expan></choice> <del type="strikethrough">above</del> <term type="occupation">trader</term> the other <term type="occupation"><term type="nationality">Portuguese</term>
+<lb/>merchants</term> in <choice><abbr>'</abbr><expan>the</expan></choice> village came together
+
+
+<pb facs="liv_000101_0117.jpg" n="0117"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">112</add></fw>
+<lb/>and sold <choice><abbr>'</abbr><expan>the</expan></choice> goods <choice><abbr>` '</abbr><expan>of the</expan></choice> departed to each other, each
+<lb/>man accounting for <choice><abbr>'</abbr><expan>the</expan></choice> portion he took to <choice><abbr>'</abbr><expan>the</expan></choice> creditors
+<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> deceased at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> <space extent="3" unit="chars"/>The <orgName>natives</orgName> looking
+<lb/>on and not understanding <choice><abbr>'</abbr><expan>the</expan></choice> nature <choice><abbr>`</abbr><expan>of</expan></choice> written
+<lb/>mercantile transactions concluded that the
+<lb/>merchants <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName> had simply stolen the
+<lb/>dead <choice><sic>mans</sic><corr>man's</corr></choice> goods and that now <choice><abbr>'</abbr><expan>the</expan></choice> spirit was
+<lb/>killing <choice><abbr>'</abbr><expan>the</expan></choice> child <choice><abbr>`</abbr><expan>of</expan></choice> <persName><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Neves</persName> for <choice><abbr>'</abbr><expan>the</expan></choice> part he had
+<lb/>in the affair. <space extent="3" unit="chars"/>The <term type="occupation">diviner</term> in his response
+<lb/><del type="strikethrough">showed</del> revealed <choice><abbr>'</abbr><expan>the</expan></choice> impression made on his own
+<lb/>mind by <choice><abbr>'</abbr><expan>the</expan></choice> sale and likewise <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>native</orgName> ideas of
+<lb/>departed souls. <space extent="4" unit="chars"/>As they give <choice><abbr>'</abbr><expan>the</expan></choice> whites
+<lb/>credit for greater stupidity than themselves
+<lb/>in all these matters the mother <choice><abbr>` '</abbr><expan>of the</expan></choice> child
+<lb/>came and told the father that he ought <del type="strikethrough" hand="#DL" n="DL">to</del>
+<lb/><retrace hand="#DL" n="DL" rend="black"><add place="marginleft" hand="#DL" n="DL" rend="gray">to give a <orgName>slave</orgName>
+    <lb/>to the <term type="occupation">diviner</term>
+    <lb/>as payment
+    <lb/>for</add></retrace> 
+<retrace hand="#DL" n="DL" rend="black"><add place="below" hand="#DL" n="DL" rend="gray">^</add></retrace>  <w>mak<retrace hand="#DL" n="DL" rend="black"><add place="inline" hand="#DL" n="DL" rend="gray">ing</add></retrace></w> a sacrifice to appease <choice><abbr>'</abbr><expan>the</expan></choice> spirit and
+<lb/>save <choice><abbr>'</abbr><expan>the</expan></choice> life <choice><abbr>` '</abbr><expan>of the</expan></choice> child. <space extent="3" unit="chars"/>The father quietly
+<lb/>sent for a neighbour and though the <term type="occupation">diviner</term>
+<lb/>pretended to remain in his state of <choice><sic>extacy</sic><corr>ecstasy</corr></choice>
+<lb/>the brisk application of two sticks to his back
+<lb/>suddenly reduced him to his senses and <del type="cancelled">a <w>pre-
+<lb break="no"/>cipitate</w> flight</del> a most undignified flight</p>
+<lb/><p>The mother <choice><abbr>`</abbr><expan>of</expan></choice> this child seemed to
+<lb/>have no confidence in <orgName>European</orgName> wisdom
+<lb/>and though I desired her to keep <choice><abbr>'</abbr><expan>the</expan></choice> child out of
+<lb/>currents <choice><abbr>`</abbr><expan>of</expan></choice> wind she preferred to follow her
+<lb/>own custom and even got it cupped in <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>cheeks <space extent="3" unit="chars"/>The consequence was <add place="below">^</add> <add place="above">that</add> the child was
+<lb/>soon in a dying state and <choice><abbr>'</abbr><expan>the</expan></choice> Father wishing
+<lb/>it to be baptized I <del type="strikethrough">performed</del> commended
+<lb/>its soul to <choice><abbr>'</abbr><expan>the</expan></choice> care &amp; compassion of him who
+<lb/>said <quote>Of such is <choice><abbr>'</abbr><expan>the</expan></choice> Kingdom of Heaven</quote>
+<lb/>The mother at once rushed away and commenced<!-- ink changes beginning of this sentence, becomes thinner as if returning from a break in writing, sh -->
+<lb/>that doleful wail <choice><abbr>wh.</abbr><expan>which</expan></choice> is so affecting as<!-- bottom of p433, Missionary, sh -->
+
+
+<pb facs="liv_000101_0118.jpg" n="0118"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">113</add></fw>
+<lb/>it indicates sorrow without hope <space extent="3" unit="chars"/>She continued
+<lb/>it without intermission until <choice><abbr>'</abbr><expan>the</expan></choice> child was buried
+<lb/><add place="marginleft" hand="#DL" n="DL" rend="gray"><retrace hand="#DL" n="DL" rend="black">on the evening</retrace> <add place="below" hand="#DL" n="DL">^</add></add> Her female companions <del type="strikethrough">em</del> used a small
+<lb/>musical instrument which produced a kind of
+<lb/>screaking sound as an accompaniment of <choice><abbr>'</abbr><expan>the</expan></choice> <add place="below">^</add> <add place="above">death</add> wail</p>
+<lb/><p rend="no-indent"><metamark function="ed-mark" rend="gray" resp="#U2" n="U2">----</metamark> In the construction of this instrument
+<lb/>they make use of <del type="cancelled">cahouchou</del> caoutchouc <choice><abbr>wh.</abbr><expan>which</expan></choice>
+<lb/>with a variety of other gums is found in <add place="below">^</add> <add place="above">different parts of</add> this country</p>
+<lb/><p>The intercourse which <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>natives</orgName> have had with
+<lb/>white men does not seem to have much
+<lb/>ameliorated their condition. <space extent="3" unit="chars"/>A great
+<lb/>number of persons are reported to lose their
+<lb/>lives annually in different districts <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><country>Angola</country></placeName>
+<lb/>by <choice><abbr>'</abbr><expan>the</expan></choice> cruel superstitions to <choice><abbr>wh.</abbr><expan>which</expan></choice> they are addicted
+<lb/>and <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Portuguese</term> authorities either know nothing of
+<lb/>them or are unable to <del type="strikethrough">prevent eradicate them</del>
+<lb/>prevent their occurrence <space extent="4" unit="chars"/>The <orgName>natives</orgName> are
+<lb/>bound to secrecy by those who administer the
+<lb/>ordeal <choice><abbr>wh.</abbr><expan>which</expan></choice> generally causes <choice><abbr>'</abbr><expan>the</expan></choice> death <choice><abbr>` '</abbr><expan>of the</expan></choice> victim</p>
+<lb/><p>A person when accused <choice><abbr>`</abbr><expan>of</expan></choice> <term type="occupation">witchcraft</term>
+<lb/>in order to assert her innocency will often
+<lb/>travel from distant districts in order to brave
+<lb/>the test <space extent="2" unit="chars"/>They come to a river in the <placeName><region><placeName><settlement type="village">Cassange</settlement></placeName>
+<lb/>district</region></placeName> called <placeName><settlement type="village">Dua</settlement></placeName> <del type="cancelled">and as they</del> drink the
+<lb/>infusion <choice><abbr>`</abbr><expan>of</expan></choice> a poisonous tree and perish unknown</p>
+<lb/><p rend="no-indent"><metamark function="ed-mark" rend="gray">—</metamark> A woman was accused by a brother in law
+<lb/>of being <choice><abbr>'</abbr><expan>the</expan></choice> cause <choice><abbr>`</abbr><expan>of</expan></choice> his <term type="ailment">sickness</term> while we were at
+<lb/><placeName><settlement type="village">Cassange</settlement></placeName> She offered to take <choice><abbr>'</abbr><expan>the</expan></choice> ordeal as <del type="cancelled">they</del>
+<lb/>she had <choice><abbr>'</abbr><expan>the</expan></choice> idea that it would but prove <del type="cancelled">the</del>
+<lb/><add place="marginleft">her conscious</add> innocence <del type="strikethrough">of <choice><abbr>wh.</abbr><expan>which</expan></choice> she was conscious</del> <space extent="3" unit="chars"/><persName><term type="occupation"><choice><abbr>Cap<hi rend="sup">t</hi></abbr><expan>Captain</expan></choice></term> <choice><abbr>N.</abbr><expan>Neves</expan></choice></persName>
+<lb/>refused his consent to her going and thus saved
+<lb/>her life <choice><abbr>wh</abbr><expan>which</expan></choice> would have been sacrificed for the
+<lb/>poison is very virulent; when a strong stomach
+<lb/>rejects it the accuser <del type="cancelled">and</del> reiterate<subst><del>s</del><add place="over-text">s</add></subst> his charge
+
+
+<pb facs="liv_000101_0119.jpg" n="0119"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">114</add></fw>
+<lb/>the dose is repeated and the person dies, <space extent="2" unit="chars"/>hundreds
+<lb/>perish thus every year in <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">valley <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName></geogName></placeName></p>
+<lb/><p>The same superstitious ideas being prevalent
+<lb/>through <choice><abbr>'</abbr><expan>the</expan></choice> whole <choice><abbr>` '</abbr><expan>of the</expan></choice> country north of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
+<lb/>seems to indicate that <choice><abbr>'</abbr><expan>the</expan></choice> people must originally
+<lb/>have been one <space extent="3" unit="chars"/>All <choice><sic>beleive</sic><corr>believe</corr></choice> that <choice><abbr>'</abbr><expan>the</expan></choice> souls <choice><abbr>` '</abbr><expan>of the</expan></choice> departed
+<lb/>still mingle among <choice><abbr>'</abbr><expan>the</expan></choice> living and partake in
+<lb/>some way of <choice><abbr>'</abbr><expan>the</expan></choice> food they consume <space extent="3" unit="chars"/>In <term type="ailment">sickness</term>
+<lb/>sacrifices <add place="below">^</add> <add place="above">of <term type="animal">fowls</term> and <term type="animal">goats</term></add> are made to appease <choice><abbr>'</abbr><expan>the</expan></choice> spirits. It
+<lb/>is imagined that they wish to take <choice><abbr>'</abbr><expan>the</expan></choice> living away
+<lb/>from earth and all its enjoyments. <space extent="2" unit="chars"/>When one
+<lb/>has killed another a sacrifice is made 
+<lb/>as if to lay <choice><abbr>'</abbr><expan>the</expan></choice> spirit of <choice><abbr>'</abbr><expan>the</expan></choice> victim. <space extent="3" unit="chars"/>A sect is
+<lb/>reported to exist <subst><add place="above">who</add><del type="strikethrough">that</del></subst> <w>kill<del type="cancelled">s</del></w> men in order to
+<lb/>take their hearts and offer them to the <foreign xml:lang="tn">Barimo</foreign>
+<lb/><del type="strikethrough" hand="#DL" n="DL"><add place="marginleft">One</add> <del type="cancelled">The</del> mode of succession is extensively prevalent
+<lb/><add place="marginleft">The sons of a sister
+    <lb/>belong to their uncle</add></del> 
+among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>the</expan></choice> tribes south of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <space extent="2" unit="chars"/>the
+<lb/>nephews by a sister are considered heirs of their
+<lb/>uncle and occupy a <del type="cancelled">spr</del> superior place to his
+<lb/>own children, and The uncles however do not
+<lb/>seem to have much affection for <add place="below">^</add> <add place="above">their newphews since they</add> <del type="cancelled">them</del>, as <del type="cancelled">nephews</del>
+<lb/>are often sold to pay his debts. <space extent="2" unit="chars"/>By these customs
+<lb/>more than by war is the <orgName><orgName>slave</orgName> market</orgName> supplied</del>
+<lb/>The <term type="occupation">chieftainship</term> is elective from certain families
+<lb/>among <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Bangalas</term> <choice><abbr>`</abbr><expan>of</expan></choice> this <placeName><geogName type="valley"><placeName><settlement type="village">Cassange</settlement></placeName> valley</geogName></placeName> the <term type="occupation">chief</term>
+<lb/>is chosen from three families in rotation <space extent="3" unit="chars"/>A
+<lb/><add place="marginleft"><choice><sic><term type="occupation">chief</term>s</sic><corr><term type="occupation">chief</term>'s</corr></choice></add> brother inherits in preference to <subst><del>a</del><add place="over-text">his</add></subst> son. <space extent="3" unit="chars"/>The
+<lb/><add place="marginleft">sons</add> <del type="strikethrough">nephews</del> of a sister belong to her brother and he
+<lb/>often sells his nephews to pay his debts. By
+<lb/>this and other unnatural customs more than
+<lb/>by war is the <orgName><orgName>slave</orgName> market</orgName> supplied</p>
+<lb/><p rend="no-indent"><metamark function="ed-mark" rend="gray" resp="#U2" n="U2">----</metamark> The prejudices <del type="cancelled">these people</del> in favour
+<lb/>of these practices are very deeply rooted in
+<lb/>the <orgName>native</orgName> mind. <space unit="chars" extent="4"/>Even at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>
+
+
+    <pb facs="liv_000101_0120.jpg" n="0120"/><!-- p435, Missionary, sh -->  
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">115</add></fw>
+<lb/>they retire out of <choice><abbr>'</abbr><expan>the</expan></choice> city in order to perform their
+<lb/>heathenish rites without the cognizance <choice><abbr>` '</abbr><expan>of the</expan></choice> authorities
+<lb/>Their religion if such it may be called is one of
+<lb/>dread. <space extent="2" unit="chars"/>Numbers of charms are employed to
+<lb/>avert <choice><abbr>'</abbr><expan>the</expan></choice> evils with <choice><abbr>wh.</abbr><expan>which</expan></choice> they feel themselves to be
+<lb/>encompassed - <space extent="3" unit="chars"/>Occasionally you meet a
+<lb/>man more cautious or more timid than the rest
+<lb/><del type="strikethrough">who</del> with twenty or thirty charms hung round his
+<lb/>neck, he seems to act upon <choice><abbr>'</abbr><expan>the</expan></choice> principle <choice><abbr>`</abbr><expan>of</expan></choice>
+<lb/><persName>Proclus</persName> in his prayer to all <choice><abbr>'</abbr><expan>the</expan></choice> gods &amp; goddesses</p>
+<lb/><p rend="no-indent"><metamark function="ed-mark" rend="gray" resp="#U2" n="U2">----</metamark> Among so many he surely must have
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> right one <space extent="3" unit="chars"/>The disrespect <choice><abbr>wh</abbr><expan>which</expan></choice> <orgName>Europeans</orgName>
+<lb/>pay to <choice><abbr>'</abbr><expan>the</expan></choice> objects <choice><abbr>`</abbr><expan>of</expan></choice> their fear is <subst><del>in</del><add place="over-text">to</add></subst> their minds
+<lb/>only evidence <choice><abbr>`</abbr><expan>of</expan></choice> great<del type="cancelled">s</del> folly. <space extent="2" unit="chars"/><del type="cancelled">The</del>
+<lb/>While here I <del type="strikethrough">finished</del> reproduced <choice><abbr>'</abbr><expan>the</expan></choice> last <choice><abbr>`</abbr><expan>of</expan></choice> my lost
+<lb/>papers &amp; maps <del type="cancelled">and</del> and as there is a post <del type="cancelled">sent</del>
+<lb/>twice a month from <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> I had <choice><abbr>'</abbr><expan>the</expan></choice> happiness to
+<lb/>receive a packet <choice><abbr>` '</abbr><expan>of the</expan></choice> <bibl>Times</bibl> <subst><del type="cancelled" hand="#DL" n="DL" rend="gray">giving</del><add place="above" hand="#DL" n="DL" rend="gray">and among other news</add></subst> an account <choice><abbr>` '</abbr><expan>of the</expan></choice>
+<lb/><term type="nationality">Russian</term> war up to the terrible charge of the <orgName>light cavalry</orgName>.<!-- Light Brigade, sh --> <space extent="2" unit="chars"/>The intense anxiety I felt to
+<lb/>hear more may be imagined <del type="strikethrough">but</del> <del type="cancelled">I</del> by every
+<lb/>true patriot but I was forced to <del type="cancelled" hand="#DL" n="DL">be content <del type="cancelled" hand="#DL" n="DL" rend="gray">with</del></del>
+<lb/><add place="marginleft" hand="#DL" n="DL"><metamark function="insertion" rend="gray" resp="#DL" n="DL"/>brood <add place="below">^</add> <add place="above">on</add> with <add place="above" hand="#U1" n="U2" rend="gray">in ?</add> 
+    <lb/><retrace hand="#DL" n="DL" rend="black"><add place="inline" rend="gray" hand="#DL" n="DL">silent thoughts</add></retrace>
+    <lb/><add place="inline" rend="gray" hand="#DL" n="DL"><subst><del hand="#DL" n="DL" rend="black">&amp; uttered</del><add place="over-text" hand="#DL" n="DL" rend="black">and utter</add></subst></add></add>
+<del type="cancelled" hand="#DL" n="DL"><del type="cancelled" hand="#DL" n="DL" rend="gray">only</del></del> my poor prayers for <del type="strikethrough">my</del> friends <retrace hand="#DL" n="DL" rend="black"><add place="below" hand="#DL" n="DL" rend="gray">^</add> <add place="below" hand="#DL" n="DL" rend="gray">who perchance were now no more</add></retrace> until I reached
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> other side <choice><abbr>` '</abbr><expan>of the</expan></choice> continent</p>
+<lb/><p><space extent="20" unit="chars"/>A considerable
+<lb/>trade is carried on <del type="cancelled">with</del> by the <term type="occupation"><placeName><settlement type="village">Cassange</settlement></placeName> merchants</term>
+<lb/>with all <choice><abbr>'</abbr><expan>the</expan></choice> surrounding territory by means of
+<lb/><term type="occupation"><orgName>native</orgName> traders</term> whom they term "<foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign>"
+<lb/>Two of these called in <choice><abbr>'</abbr><expan>the</expan></choice> history of <placeName><country>Angola</country></placeName> "The
+<lb/>trading blacks" (<foreign xml:lang="pt">os feirantes pretos</foreign>) <persName>Pedro
+<lb/>João Baptista</persName>, <del type="cancelled">&amp; A</del> and <persName>Antonio José</persName>
+<lb/>having been sent by <del type="cancelled">a</del> <add place="above"><choice><abbr>'</abbr><expan>the</expan></choice> first</add> <term type="occupation"><term type="nationality">Portuguese</term> trader</term> <del type="cancelled">who</del>
+<lb/>that lived at <placeName><settlement type="village">Cassenge</settlement></placeName> actually returned
+<lb/>from some <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="nationality">Portuguese</term> possessions <add place="below" hand="#DL" n="DL">^</add> <add place="below" hand="#DL" n="DL">in the East</add> with
+
+
+<pb facs="liv_000101_0121.jpg" n="0121"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">116</add></fw>
+<lb/>letters from <choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation"><choice><abbr>Gov<hi rend="sup underline">r</hi></abbr><expan>Governor</expan></choice> of <placeName><country>Mozambique</country></placeName></term> in the
+<lb/>year <date when="1815">1815</date> proving as <subst><del type="cancelled" hand="#DL" n="DL">was</del><add place="above" hand="#DL" n="DL">is</add></subst> remarked <retrace hand="#DL" n="DL"><add place="inline" rend="gray" hand="#DL" n="DL">"</add></retrace>the possibility
+<lb/><del type="cancelled" hand="#DL" n="DL">of</del> <add place="below" hand="#DL" n="DL">^</add> <add place="marginleft" hand="#DL" n="DL">of so important a</add> communication between <placeName><country>Mozambique</country></placeName> and
+<lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName><retrace hand="#DL" n="DL"><add place="inline" rend="gray" hand="#DL" n="DL">"</add></retrace> <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>This is the only
+    <lb/>instance of
+    <lb/><orgName><orgName>native</orgName> <term type="nationality">Portuguese</term></orgName>
+    <lb/><add place="below">^</add> <add place="above">subjects</add> crossing the
+    <lb/>continent - No
+    <lb/><orgName>European</orgName> ever
+    <lb/>accomplished
+    <lb/>it though the
+    <lb/><subst><del type="cancelled" hand="#DL" n="DL" rend="gray">case</del><add place="above" hand="#U1" n="U2" rend="gray">fact</add></subst>  has lately
+    <lb/>been quoted as
+    <lb/>if the men had
+    <lb/>been "<term type="people"><hi rend="underline">Portuguese</hi></term>"</add> <space extent="6" unit="chars"/><persName><choice><abbr>Capt</abbr><expan>Captain</expan></choice> Neves</persName> was now
+<lb/>actively engaged in preparing a present worth
+<lb/>about fifty pounds to be sent by <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign> to
+<lb/><persName>Matiamvo</persName> <space extent="2" unit="chars"/>It consisted of great quantities
+<lb/>of cotton cloth, a large carpet <del type="strikethrough">and</del> an <w>arm<del type="cancelled">ed</del>-
+<lb break="no"/>chair</w> with a canopy and curtains of crimson <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">calico</add>
+<lb/><add place="marginleft" hand="#DL" n="DL" rend="gray">cotton <add place="below">^</add></add> an iron bedstead, <term type="insect">mosquito</term> curtains beads &amp;c
+<lb/>and a number of pictures rudely <w><subst><del><unclear cert="medium">pr</unclear></del><add place="over-text">pa</add></subst>inted</w> in
+<lb/>oil by an embryo black-<term type="occupation">painter</term> at <placeName><settlement type="village">Cassange</settlement></placeName></p>
+<lb/><p><persName>Matiamvo</persName>, like most <choice><abbr>` '</abbr><expan>of the</expan></choice> <orgName>natives</orgName> in <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>interior</region></placeName> of
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> country had a strong <subst><del type="strikethrough">wish</del><add place="above">desire</add></subst> to possess a cannon
+<lb/>and had sent ten large tusks to purchase one
+<lb/>but it being <choice><abbr>Gov<hi rend="sup">t</hi></abbr><expan>Government</expan></choice> property it could not be sold
+<lb/>he was now furnished with a blunderbuss
+<lb/>mounted as a cannon <choice><abbr>wh</abbr><expan>which</expan></choice> will probably please
+<lb/>him as well. <space extent="4" unit="chars"/><del type="strikethrough">A <term type="nationality">Portuguese</term> gentleman</del>
+<lb/><add place="marginleft" hand="#DL" n="DL"><note><persName>Graça</persName></note></add> <del type="strikethrough">named</del> <space extent="3" unit="chars"/><del type="cancelled">A</del> <persName><foreign xml:lang="pt"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice></foreign> Grassa</persName> and some other
+<lb/><term type="people">Portuguese</term> have visited this <term type="occupation">chief</term> at different
+<lb/>times but no <orgName>European</orgName> resides beyond <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName>
+<lb/>indeed it is contrary to <choice><abbr>'</abbr><expan>the</expan></choice> policy <choice><abbr>` '</abbr><expan>of the</expan></choice> <orgName><choice><abbr>Gov<hi rend="sup">t</hi></abbr><expan>Government</expan></choice> of <placeName><country>Angola</country></placeName></orgName>
+<lb/>to allow their subjects to spre<add place="above" rend="gray" hand="#U1" n="U2"><metamark function="substitution">~</metamark></add>ad<!-- the word 'spread' not deleted when substituting words, sh --> <add place="marginleft" rend="gray" hand="#U1" n="U2">penetrate</add> farther into
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>interior</region></placeName> <space extent="3" unit="chars"/>The present would have been a good
+<lb/>opportunity for me to visit the <term type="occupation">chief</term> and I felt
+<lb/>strongly inclined to do so as he had expressed
+<lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2" n="U2">⎵ ?</metamark><del type="strikethrough" hand="#DL" n="DL">some</del> <choice><sic>disatisfaction</sic><corr>dissatisfaction</corr></choice> respecting <add place="below">^</add> <add place="above">my</add> <add place="above" rend="gray" hand="#U1" n="U2"><metamark function="ed-mark">/</metamark></add>treatment <del type="cancelled">of</del>
+<lb/>by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Chiboque</term> and even threatened to punish
+<lb/>them. <space extent="3" unit="chars"/>As it would be improper to force
+<lb/>my men to go thither I resolved to wait and
+<lb/>see whether <choice><abbr>'</abbr><expan>the</expan></choice> proposition might not emanate
+<lb/>from themselves. <space extent="2" unit="chars"/>When I can get <del type="strikthrough" rend="gray" hand="#DL" n="DL">my men</del> <add place="marginleft" rend="gray" hand="#U1" n="U2">the <orgName>natives</orgName></add> to
+<lb/>agree in <choice><abbr>'</abbr><expan>the</expan></choice> propriety <choice><abbr>`</abbr><expan>of</expan></choice> any step they go to the
+
+
+<pb facs="liv_000101_0122.jpg" n="0122"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">117</add></fw>
+<lb/>end <choice><abbr>` '</abbr><expan>of the</expan></choice> affair without a murmur I <subst><del><unclear cert="medium">re</unclear></del><add place="over-text">sp</add></subst>eak to
+<lb/>them and treat them as rational beings and
+<lb/>generally get on well with them in consequence</p>
+<lb/><p>I have already remarked on the
+<lb/>unhealthiness <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName> <del type="cancelled">a</del>and <persName><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Neves</persName>
+<lb/>who possesses an <del type="strikethrough">enqu</del> observing turn <choice><abbr>`</abbr><expan>of</expan></choice> mind
+<lb/>had remarked that always when <choice><abbr>'</abbr><expan>the</expan></choice> <seg type="weather">west wind
+<lb/>blows</seg> much <term type="ailment">fever</term><!-- possible letter under 'v' but illegible.JL --> immediately follows   
+<lb/>As long as <seg type="weather">Eastern<add place="above" rend="gray" hand="#U1" n="U2"><metamark function="substitution">⎵</metamark></add><add place="marginleft" rend="gray" hand="#U1" n="U2">erly</add> winds prevail</seg> all enjoy
+<lb/>good health but in <choice><abbr>Jan<hi rend="sup">y</hi></abbr><expan>January</expan></choice> <choice><abbr>Feb</abbr><abbr>February</abbr></choice> March &amp; April
+<lb/>the<del type="cancelled">y</del> <add place="below">^</add> <add place="above">winds</add> are variable and <term type="ailment">sickness</term> <add place="above">is general</add> <del type="strikethrough">extensively prevails</del> 
+<lb/><retrace hand="#DL" n="DL"><metamark function="ed-mark" place="inline" rend="gray">—--</metamark></retrace> <del type="cancelled" rend="gray" hand="#DL" n="DL">The season of</del> <choice><sic>the</sic><corr>The</corr></choice> unhealthiness of <choice><abbr>'</abbr><expan>the</expan></choice> <seg type="weather">westerly
+<lb/>winds</seg> probably results from <term type="ailment">malaria</term> <del type="cancelled" hand="#DL" n="DL">being</del>
+<lb/><add place="marginleft" hand="#DL" n="DL">appearing to be</add> heavier than common air out <del type="cancelled" hand="#DL" n="DL">is</del> <add place="above" hand="#DL" n="DL" rend="gray">sweeping</add> <w>roll<subst><del hand="#DL" n="DL">ed</del><add place="over-text" hand="#DL" n="DL">ing</add></subst></w> down
+<lb/>into <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">valley of <placeName><settlement type="village">Cassange</settlement></placeName></geogName></placeName> from <choice><abbr>'</abbr><expan>the</expan></choice> <w>west<add place="inline" hand="#DL" n="DL">ern</add></w> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">plateau</add> <del type="cancelled" hand="#DL" n="DL">and acts</del>
+<lb/><del type="cancelled" hand="#DL" n="DL" rend="gray"><add place="marginleft" hand="#DL" n="DL" rend="gray">flows</add></del> somewhat in <choice><abbr>'</abbr><expan>the</expan></choice> same way <add place="inline" hand="#DL" n="DL">as the carbonic
+<lb/>acid gas from <term type="plant">bean</term> fields
+<lb/>is supposed by <term type="occupation">colliers</term> to do -
+<lb/>in<add place="inline" rend="gray">to</add> coal pits - In the <placeName><region>west
+<lb/>of <placeName><country>Scotland</country></placeName></region></placeName> strong objections
+<lb/>are made by that body
+<lb/>of men to <term type="occupation">farmers</term> planting
+<lb/><term type="plant">beans</term> in the<add place="inline" rend="gray" hand="#U1" n="U2">ir</add> vicinity
+<lb/>from the belief that they
+<lb/>render the mines unhealthy 
+<lb/>The <w>gravitati<subst><del>ng</del><add place="over-text">on</add></subst></w> of the <term type="ailment">malaria</term>
+<lb/>from the more elevated
+<lb/>land of <placeName><geogName type="mountain">Tala Mungongo</geogName></placeName>
+<lb/>towards <placeName><settlement type="village">Cassange</settlement></placeName> is
+<lb/>the only way the unhealthiness
+<lb/>of this spot on<!-- letters beneath 'on' but they are illegible.JL --> the
+<lb/><seg type="weather">prevalence of the Westerly
+<lb/>winds</seg> can be accounted
+<lb/>for - The banks of the
+
+
+<pb facs="liv_000101_0123.jpg" n="0123"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">118</add></fw>
+<lb/><placeName><geogName type="river">Quango</geogName></placeName> though much more
+<lb/>marshy and covered
+<lb/>with <del type="cancelled">more</del> ranker vegetation
+<lb/>are comparatively healthy
+<lb/>but thither the <seg type="weather">westerly
+<lb/>wind</seg> does not seem to
+<lb/>convey the noxious agent
+<lb/><note place="marginleft"><date when="1855-02-20"><choice><abbr>Feb</abbr><expan>February</expan></choice> 20</date></note> On the day of starting from
+<lb/><placeName><settlement type="village">Cassange</settlement></placeName>, the <seg type="weather">westerly wind
+<lb/>blew strongly</seg> and on
+<lb/>the day following we
+<lb/>were brought to a
+<lb/>stand by several of our
+<lb/>party being laid up of
+<lb/><term type="ailment">fever</term> This complaint
+<lb/>is the only serious drawback
+<lb/><placeName><country>Angola</country></placeName> possesses - It is
+<lb/>in every other respect an
+<lb/>agreeable land and admirably
+<lb/>adapted for yielding <del type="cancelled">a</del>
+<lb/><add place="marginleft" rend="gray" hand="#DL" n="DL">a</add> <del rend="gray" hand="#DL" n="DL"><add place="marginleft">in</add></del> rich abundance of
+<lb/>tropical produce for the
+<lb/>rest of the world - Indeed I
+<lb/>have no hesitation in asserting
+<lb/>that had it been in the
+<lb/>possession of the <del type="cancelled"><term type="people">English</term></del> <add place="marginleft" rend="gray" hand="#DL" n="DL"><placeName><country>England</country></placeName></add></add> it would
+<lb/><del type="cancelled">Indeed</del> now have been yielding as much <subst><del type="strikethrough">support</del><add place="above">of the raw</add></subst>
+<lb/><add place="marginleft" rend="gray" hand="#DL" n="DL">or <metamark function="transposition" place="above">2</metamark>more <metamark function="transposition" place="above">1</metamark><add place="inline">materials</add></add> <subst><del>to</del><add place="over-text">for</add></subst> her manufactures as an equal extent of
+<lb/>territory in the <del type="cancelled">So</del> <term type="plant">cotton</term> growing <placeName><bloc>states of <del type="cancelled">North</del>
+<lb/>America</bloc></placeName>. <space extent="3" unit="chars"/>A railway from <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> to this
+<lb/>valley would secure <choice><abbr>'</abbr><expan>the</expan></choice> trade <choice><abbr>`</abbr><expan>of</expan></choice> most <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><region><placeName><region>interior</region></placeName> of
+<lb/><placeName><region>South Central Africa</region></placeName></region></placeName>. <space extent="3" unit="chars"/>As soon as we could
+<lb/>move on<del type="cancelled" hand="#DL" n="DL">ward</del> towards <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> we did so,
+<lb/>meeting in our course several trading parties
+
+
+<pb facs="liv_000101_0124.jpg" n="0124"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">119</add></fw>
+<lb/>both <orgName>native</orgName> and <term type="nationality">Portuguese</term>. <add place="below">^</add> <del type="strikethrough"><add place="above">We met</add> </del> <del type="strikethrough">Two men belonging
+<lb/>to</del> We met two <choice><abbr>` '</abbr><expan>of the</expan></choice> latter carrying a tusk weighing
+<lb/>one hundred and twenty six pounds. <space extent="2" unit="chars"/>The owner afterwards
+<lb/>informed us that its fellow on the left side <choice><abbr>` '</abbr><expan>of the</expan></choice> same
+<lb/><term type="animal">elephant</term> was one hundred and thirty pounds. <space extent="2" unit="chars"/>It
+<lb/>was eight feet 6<choice><orig>½</orig><reg>1/2</reg></choice> inches long and 21 inches in
+<lb/>circumference at <choice><abbr>'</abbr><expan>the</expan></choice> part on <choice><abbr>wh.</abbr><expan>which</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> lip <choice><abbr>` '</abbr><expan>of the</expan></choice> animal
+<lb/>rests. <space extent="3" unit="chars"/>The <term type="animal">elephant</term> was rather a small one
+<lb/>as <del type="strikethrough">they are in</del> is common in this hot central region
+<lb/>Some idea may be formed <choice><abbr>` '</abbr><expan>of the</expan></choice> strength <choice><abbr>`</abbr><expan>of</expan></choice> his neck when
+<lb/>it is recollected that he bore a weight <choice><abbr>`</abbr><expan>of</expan></choice> 256<choice><abbr>lbs</abbr><expan>pounds</expan></choice></p>
+<lb/><p>The ivory <choice><abbr>wh</abbr><expan>which</expan></choice> comes from <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>east &amp; <choice><abbr>N. E.</abbr><expan>North East</expan></choice> <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName></region></placeName>
+<lb/>is very much larger than any to be found further
+<lb/>South <space extent="3" unit="chars"/><del type="strikethrough"><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term></del> <persName><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Neves</persName> had one weighing 120<choice><abbr>lbs</abbr><expan>pounds</expan></choice>
+<lb/>and this weight is by no means uncommon 
+<lb/>They have been found <add place="below">^</add> <add place="above">weighing</add> even 158<choice><abbr>lbs</abbr><expan>pounds</expan></choice>. <space extent="5" unit="chars"/>Before
+<lb/>reaching <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> we were again brought to a
+<lb/>stand by <term type="ailment">fever</term> in two <choice><abbr>`</abbr><expan>of</expan></choice> my companions close to
+<lb/><subst><del><unclear cert="medium">a</unclear></del><add place="over-text">the</add></subst> residence of a <term type="person">Portuguese</term> who rejoiced in <choice><abbr>'</abbr><expan>the</expan></choice> name <choice><abbr>`</abbr><expan>of</expan></choice>
+<lb/><persName>William Tell</persName> &amp; who lived <add place="above">here</add> <del type="strikethrough">on <choice><abbr>'</abbr><expan>the</expan></choice> banks of <choice><abbr>'</abbr><expan>the</expan></choice> <subst><del>Q</del><add place="over-text">R</add></subst>iver</del>
+<lb/>in spite <choice><abbr>` '</abbr><expan>of the</expan></choice> prohibition <choice><abbr>` '</abbr><expan>of the</expan></choice> <choice><abbr>Gov<hi rend="sup underline">t</hi></abbr><expan>Government</expan></choice> <del type="strikethrough">the policy being</del></p>
+<lb/><p>We were using <choice><abbr>'</abbr><expan>the</expan></choice> water <choice><abbr>`</abbr><expan>of</expan></choice> a pond and this gentleman
+<lb/>having come to invite me to dinner drank a little
+<lb/>of <del type="strikethrough">some</del> <add place="below">^</add> <add place="above">it</add> and caught <term type="ailment">fever</term> in consequence
+<lb/>If malarious matter exists in water it would
+<lb/>have been a wonder if we escaped, for travelling
+<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> sun <del type="strikethrough">with and</del> <add place="below">^</add> <add place="above">with</add> <choice><abbr>'</abbr><expan>the</expan></choice> thermometer <del type="strikethrough">in <choice><abbr>'</abbr><expan>the</expan></choice> pocket
+<lb/>on <choice><abbr>'</abbr><expan>the</expan></choice> shady side being always</del> from 96° to 98° <add place="marginleft"><metamark function="insertion"/>in <choice><abbr>'</abbr><expan>the</expan></choice> shade</add> the
+<lb/>evaporation from our bodies <w>caus<subst><del>ed</del><add place="over-text">ing</add></subst></w> much thirst
+<lb/>we generally partook of every water we came to
+<lb/>We had probably thus more disease than others 
+<lb/>might suffer who had better shelter</p>
+<lb/><p><persName>Mr Tell</persName> remarked that his garden was
+<lb/>rather barren being still as he said wild 
+
+
+<pb facs="liv_000101_0125.jpg" n="0125"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">120</add></fw><!-- p440, Missionary Travels - 28 lines of printed text missing, sh -->
+<lb/>in funeral orgies. <space extent="2" unit="chars"/>He acted with his wonted
+<lb/>kindness though unfortunately drinking has got him
+<lb/>so deeply into debt that he now keeps out <choice><abbr>` '</abbr><expan>of the</expan></choice> way
+<lb/><choice><abbr>`</abbr><expan>of</expan></choice> his creditors. <space unit="chars" extent="5"/>He informed us that the
+<lb/><placeName><geogName type="source">source of the <placeName><geogName type="river">Quango</geogName></placeName></geogName></placeName> is <add place="below">^</add> <add place="above"><measure>8 days or one hundred miles</measure></add> to <choice><abbr>'</abbr><expan>the</expan></choice> south of this and in
+<lb/>a range called <placeName><geogName type="mountain">Mosamba</geogName></placeName> in the country of <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/><term type="tribe">Basongo</term>. <space extent="2" unit="chars"/>We can see from this a sort of break
+<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> highland <choice><abbr>wh.</abbr><expan>which</expan></choice> stretches away round to <placeName><geogName type="mountain">Tala
+<lb/>Mongongo</geogName></placeName> through <choice><abbr>wh.</abbr><expan>which</expan></choice> the river comes</p>
+<lb/><p rend="no-indent">A death had occurred in a village <measure>about a mile</measure>
+<lb/>off the people were busy beating drums &amp; firing
+<lb/><add place="marginleft" rend="gray" hand="#DL" n="DL">festive</add> guns - <subst><del type="strikethrough">q</del><add place="above">The</add></subst> funeral <subst><del>is</del><add place="over-text">ri</add></subst>tes are half feasting, half-
+<lb/>mourning ,<del type="strikethrough">and</del> partaking somewhat <choice><abbr>` '</abbr><expan>of the</expan></choice> character of
+<lb/>an <term type="nationality">Irish</term> wake. <space extent="6" unit="chars"/><choice><sic>Their</sic><corr>There</corr></choice> is nothing more
+<lb/>heartrending than their death-wails. <space extent="2" unit="chars"/>When
+<lb/>the<del type="strikethrough" rend="black" hand="#DL" n="DL"><add place="inline" rend="gray" hand="#DL" n="DL">y</add></del> <retrace hand="#DL" n="DL" rend="black"><add place="marginleft" rend="gray" hand="#DL" n="DL"><orgName>natives</orgName></add></retrace> turn their eyes to <choice><abbr>'</abbr><expan>the</expan></choice> future world they
+<lb/>have a cheerless<metamark function="transposition" place="above" rend="gray" resp="#U2" n="U2">2</metamark> enough<metamark function="transposition" place="above" rend="gray" resp="#U2" n="U2">3</metamark> view<metamark function="transposition" place="above" rend="gray" resp="#U2" n="U2">1 -</metamark><!-- numbers indicated to reorder the words, sh --> <choice><abbr>`</abbr><expan>of</expan></choice> their own utter
+<lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2" n="U2">?</metamark> helplessness &amp; hopelessness. <space extent="2" unit="chars"/>They fancy <hi rend="underline gray" resp="#U2" n="U2"><choice><sic>themselv</sic><corr>themselves</corr></choice></hi><!-- editor queries this word with '?' in margin, sh -->
+<lb/>completely in <choice><abbr>'</abbr><expan>the</expan></choice> power <choice><abbr>`</abbr><expan>of</expan></choice> <w>th<subst><del type="cancelled" hand="#DL" n="DL">is</del><add place="above" hand="#DL" n="DL">e</add></subst></w> <del type="strikethrough" hand="#DL" n="DL">departed</del> <add place="marginleft" hand="#DL" n="DL">disembodied
+    <lb/>spirits</add> 
+and look
+<lb/>upon <choice><abbr>'</abbr><expan>the</expan></choice> <del type="cancelled">proba</del> prospect <choice><abbr>`</abbr><expan>of</expan></choice> following th<subst><del>eir</del><add place="over-text">m</add></subst> as the
+<lb/>greatest of misfortunes. <space extent="3" unit="chars"/>Hence they are
+<lb/>constantly deprecating <choice><abbr>'</abbr><expan>the</expan></choice> wrath of departed
+<lb/>spirits believing that if they are appeased there
+<lb/>is no other cause <choice><abbr>`</abbr><expan>of</expan></choice> death <del type="strikethrough"><choice><abbr>wh.</abbr><expan>which</expan></choice></del> but
+<lb/>witchcraft <choice><abbr>wh.</abbr><expan>which</expan></choice> <subst><del><unclear cert="medium">c</unclear></del><add place="over-text">m</add></subst>ay be averted by charms</p>
+<lb/><p>The whole <choice><abbr>` '</abbr><expan>of the</expan></choice> coloured population of
+<lb/><placeName><country>Angola</country></placeName> are <del type="cancelled">described as</del> sunk in these
+<lb/>gross superstitions but <subst><del type="strikethrough">with</del><add place="above">have</add></subst> the <del type="strikethrough" hand="#DL" n="DL">general</del>
+<lb/>opinion <add place="below" hand="#DL" n="DL">^</add> <add place="marginleft" hand="#DL" n="DL">notwithstanding</add> that they are wiser in these matters
+<lb/>than their white neighbours <space extent="4" unit="chars"/>Each tribe
+<lb/>ha<subst><del>ve</del><add place="over-text">s</add></subst> a consciousness of following <subst><del type="cancelled">their</del><add place="over-text">its</add></subst> own
+<lb/>best interests in <choice><abbr>'</abbr><expan>the</expan></choice> best ways <space extent="4" unit="chars"/>They are by
+<lb/>no means destitute <choice><abbr>`</abbr><expan>of</expan></choice> that self esteem <choice><abbr>wh.</abbr><expan>which</expan></choice>
+<lb/>is so common in other nations yet they
+
+<!-- here. -->
+<pb facs="liv_000101_0126.jpg" n="0126"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">121</add></fw>
+<lb/>fear all manner <choice><abbr>`</abbr><expan>of</expan></choice> phantoms and <w>half-
+<lb break="no"/>developed</w> ideas and traditions <choice><abbr>`</abbr><expan>of</expan></choice> something or other
+<lb/>they know not what <space extent="3" unit="chars"/>The pleasures <choice><abbr>`</abbr><expan>of</expan></choice> animal
+<lb/>life are ever present to their minds as the supreme -
+<lb/>good and but for <choice><abbr>'</abbr><expan>the</expan></choice> innumerable <del type="strikethrough" hand="#DL" n="DL">phantoms</del>
+<lb/><add place="marginleft" rend="gray" hand="#DL" n="DL"><note>luxurious</note></add> <add place="marginleft" hand="#DL" n="DL">invisibilities</add> <add place="below" hand="#DL" n="DL">^</add> might enjoy their <hi rend="gray underline" resp="#DL" n="DL">luscious</hi> climate as much as it
+<lb/>is possible for man to do. <space extent="3" unit="chars"/>I have often thought
+<lb/>in travelling through <del type="strikethrough">it that</del> their land <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">that it</add> presents
+<lb/>pictures <choice><abbr>`</abbr><expan>of</expan></choice> beauty <choice><abbr>wh</abbr><expan>which</expan></choice> angels might enjoy,
+<lb/>how often have I beheld <metamark function="reorder" rend="gray" resp="#DL" n="DL" spanTo="#meta-209"/><seg corresp="#reorder-89">scenes</seg><anchor xml:id="meta-209"/> in still
+<lb/>mornings <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-89"/> the very essence <choice><abbr>`</abbr><expan>of</expan></choice> beauty and all bathed
+<lb/><del type="strikethrough">flooded with</del> <add place="above" hand="#DL" n="DL">in quiet</add> <del type="strikethrough" hand="#DL" n="DL"><choice><abbr>'</abbr><expan>the</expan></choice> calm</del> air <choice><abbr>`</abbr><expan>of</expan></choice> delicious warmth
+<lb/>yet <choice><abbr>'</abbr><expan>the</expan></choice> occasional soft motion imparted a
+<lb/>pleasing sensation of coolness as of a fan —-
+<lb/>green <w>grass<subst><del>es</del><add place="over-text">y</add></subst></w> meadows — the <term type="animal">cattle</term> feeding
+<lb/><add place="marginleft" hand="#DL" n="DL">The <term type="animal">goats</term> browsing</add> the <del type="strikethrough" hand="#DL" n="DL"><term type="animal">goats</term></del> <term type="animal">kids</term> skipping. The groups <choice><abbr>`</abbr><expan>of</expan></choice> <term type="occupation">herd boys</term>
+<lb/>with minature bows arrows &amp; spears, the <w>fair-
+<lb/>sex</w> (of sooty black) winding their way to <choice><abbr>'</abbr><expan>the</expan></choice> river
+<lb/>with watering pots poised jauntily on their heads
+<lb/>men sewing under <choice><abbr>'</abbr><expan>the</expan></choice> shady <term type="plant">banians</term>, and old <w>grey-
+<lb/>headed</w> <del type="strikethrough">men</del> fathers sitting on <choice><abbr>'</abbr><expan>the</expan></choice> ground with staff
+<lb/>in hand listening to <choice><abbr>'</abbr><expan>the</expan></choice> morning gossip while others
+<lb/>carry trees or branches to repair their hedges
+<lb/>and all this flooded with the bright <orgName>African</orgName>
+<lb/>sunshine, &amp; <choice><abbr>'</abbr><expan>the</expan></choice> birds singing among <choice><abbr>'</abbr><expan>the</expan></choice> branches
+<lb/>before <choice><abbr>'</abbr><expan>the</expan></choice> heat <choice><abbr>` '</abbr><expan>of the</expan></choice> day has become intense, form
+<lb/>pictures <choice><abbr>wh</abbr><expan>which</expan></choice> can never be forgotten</p>
+<lb/><p>We are informed that a <term type="occupation">chief</term> named
+<lb/><persName>Gando</persName> living on <choice><abbr>'</abbr><expan>the</expan></choice> other side <choice><abbr>` '</abbr><expan>of the</expan></choice> river ha<del>d</del><add place="over-text">ving</add>
+<lb/>been accused <choice><abbr>`</abbr><expan>of</expan></choice> witchcraft was killed by
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> ordeal and his body thrown into <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName></p>
+<lb/><p>The <term type="occupation">ferrymen</term> demanded 30 <choice><abbr>yds</abbr><expan>yards</expan></choice> <choice><abbr>`</abbr><expan>of</expan></choice> calico
+<lb/>but received 6 thankfully -   The canoes were
+<lb/>wretched carrying only 2 persons at a time
+
+
+<pb facs="liv_000101_0127.jpg" n="0127"/><!-- p441, Missionary Travels, sh -->
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">122</add></fw>
+<lb/>but my men being well acquainted with <choice><abbr>'</abbr><expan>the</expan></choice> water
+<lb/>we got over in about 2<choice><orig>½</orig><reg>1/2</reg></choice> hours <space extent="3" unit="chars"/>They excited
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> admiration <choice><abbr>` '</abbr><expan>of the</expan></choice> inhabitants by <choice><abbr>'</abbr><expan>the</expan></choice> manner in <choice><abbr>wh.</abbr><expan>which</expan></choice>
+<lb/>they managed <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">cattle</term> &amp; <term type="animal"><choice><sic>donkies</sic><corr>donkeys</corr></choice></term> in crossing 
+<lb/>The most stubborn <choice><abbr>`</abbr><expan>of</expan></choice> beasts found himself powerless
+<lb/>in their hands <del type="cancelled">they</del> five or six seizing hold
+<lb/>on one bundled him at once into <choice><abbr>'</abbr><expan>the</expan></choice> stream
+<lb/><add place="marginleft" hand="#DL" n="DL" rend="gray">and he in this
+    <lb/>predicament
+    <lb/>always thought it
+    <lb/>best policy to
+    <lb/>give in &amp; swim<add place="inline" rend="black" hand="#DL" n="DL">,</add>
+    <lb/>The men</add> 
+ <add place="below" hand="#DL" n="DL" rend="gray">^</add> <del type="cancelled" hand="#DL" n="DL"><del type="cancelled" hand="#DL" n="DL" rend="gray">They</del></del> sometimes swam along with <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">cattle</term> and
+<lb/>forced them to go on by dashing water at their
+<lb/>heads <space extent="3" unit="chars"/>The difference between my men &amp;
+<lb/>those <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="occupation"><orgName>native</orgName> traders</term> who accompanied us
+<lb/>was never more apparent than now, for
+<lb/>while my men felt an interest in every thing
+<lb/>we possessed in common theirs were rather 
+<lb/>glad when <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">oxen</term> refused to cross, for being
+<lb/>obliged to slaughter them <del type="cancelled">they</del> on such occasions
+<lb/><del type="cancelled">they favoured</del> <choice><abbr>'</abbr><expan>the</expan></choice> loss to their masters <del type="cancelled">unexpect</del>
+<lb/><add place="marginleft">was</add> a welcome feast to themselves <space extent="3" unit="chars"/>On the
+<lb/>eastern side <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> we passed on without
+<lb/>visiting our friend <choice><abbr>` '</abbr><expan>of the</expan></choice> conical head dress to <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>residence <choice><abbr>`</abbr><expan>of</expan></choice> some <orgName>Ambacistas</orgName> who had crossed
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> river in order to secure <choice><abbr>'</abbr><expan>the</expan></choice> first chances of
+<lb/>trade in wax <space extent="4" unit="chars"/>I have before remarked
+<lb/>on <choice><abbr>'</abbr><expan>the</expan></choice> knowledge <add place="below">^</add> <add place="above">of reading &amp; writing</add> these <term type="tribe">Ambacistas</term> possess they
+<lb/>are famed for their love of <metamark function="transposition" place="above" resp="#U2" n="U2" rend="gray">2</metamark>learning of <metamark function="transposition" place="above" resp="#U2" n="U2" rend="gray">1</metamark>all
+<lb/>sorts within their reach, a knowledge <choice><abbr>` '</abbr><expan>of the</expan></choice> history
+<lb/>of <placeName><country>Portugal</country></placeName> - <term type="nationality">Portuguese</term> law &amp;c &amp;c  <space extent="2" unit="chars"/><del type="strikethrough">They are
+<lb/>not equal physically to <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Portuguese</term> but</del>
+<lb/>They are remarkably keen in trade and 
+<lb/>are sometimes called the <orgName><orgName>Jews</orgName> of <placeName><country>Angola</country></placeName></orgName> 
+<lb/>They are employed as <term type="occupation">clerks</term> and <term type="occupation">writers</term>
+<lb/>Their <add place="below">^</add> <add place="above">feminine</add> delicacy <choice><abbr>`</abbr><expan>of</expan></choice> constitution enabling them to
+<lb/>write a firm <choice><sic>ladies</sic><corr>lady's</corr></choice> hand a kind of writing much
+<lb/>esteemed amongst the <term type="nationality">Portuguese</term> <space extent="2" unit="chars"/>They
+
+
+<pb facs="liv_000101_0128.jpg" n="0128"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">123</add></fw>
+<lb/>are not physically equal to <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>European</orgName> <term type="nationality">Portuguese</term>
+<lb/>but possess considerable ability and it is said
+<lb/>that <orgName>half breeds</orgName> in <choice><abbr>'</abbr><expan>the</expan></choice> course of a few generations
+<lb/><del type="cancelled">are said to</del> return to <choice><abbr>'</abbr><expan>the</expan></choice> black colour of <choice><abbr>'</abbr><expan>the</expan></choice> maternal
+<lb/>ancestor <space extent="5" unit="chars"/>The black population <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><country>Angola</country></placeName>
+<lb/>have become much deteriorated They are not
+<lb/>so strongly formed as the independent tribes
+<lb/>a large quantity <choice><abbr>`</abbr><expan>of</expan></choice> <foreign xml:lang="pt"><term type="foodstuff"><choice><sic>agoardente</sic><corr>aguardente</corr></choice></term></foreign> an inferior
+<lb/>kind of spirit is imported into <choice><abbr>'</abbr><expan>the</expan></choice> country <subst><del type="strikethrough">and</del><add place="above">which</add></subst>
+<lb/>is most injurious in its effects. <space unit="chars" extent="3"/>We saw many
+<lb/>parties carrying casks <choice><abbr>`</abbr><expan>of</expan></choice> this baneful liquor to <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>independent <term type="occupation">chiefs</term> beyond - and were informed
+<lb/>that is difficult for any <term type="occupation">trader</term> to convey it
+<lb/>far <term type="occupation">carriers</term> being in <choice><abbr>'</abbr><expan>the</expan></choice> habit <choice><abbr>`</abbr><expan>of</expan></choice> helping themselves
+<lb/>by means <choice><abbr>`</abbr><expan>of</expan></choice> a straw and <w><subst><del>in</del><add place="over-text" hand="#DL" n="DL">th</add></subst>en</w> injecting
+<lb/>an equal amount <choice><abbr>`</abbr><expan>of</expan></choice> water when near <choice><abbr>'</abbr><expan>the</expan></choice> point
+<lb/>of delivery <space extent="3" unit="chars"/>To prevent this it is common
+<lb/>to see large demijohns with padlocks on <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>corks. <space unit="chars" extent="2"/>These are frequently stolen. <space unit="chars" extent="2"/>In fact
+<lb/>the <term type="occupation">carriers</term> are much addicted to both lying &amp;
+<lb/>thieving as might be expected from <choice><abbr>'</abbr><expan>the</expan></choice> lowest
+<lb/>class <choice><abbr>`</abbr><expan>of</expan></choice> a people on whom <choice><abbr>'</abbr><expan>the</expan></choice> <subst><del type="strikethrough">injurious</del><add place="above">debasing</add></subst> <orgName>slave</orgName> system
+<lb/>has acted for two centuries</p>
+<lb/><p rend="no-indent">The <term type="tribe">Bashinje</term> in whose country we now are seem
+<lb/>to possess more <choice><abbr>` '</abbr><expan>of the</expan></choice> low negro character and
+<lb/>physiognomy than either <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Balonda</term> or <term type="tribe">Basong<subst><del>a</del><add place="over-text">o</add></subst><add place="above">o</add></term>
+<lb/>their colour is generally dirty black - foreheads
+<lb/>low and compressed - noses flat and much
+<lb/>expanded laterally though this is partly
+<lb/>owing <del type="strikethrough">by</del> to the <foreign xml:lang="la">alae<add place="above">æ</add></foreign> spreading over <choice><abbr>'</abbr><expan>the</expan></choice> cheeks <unclear cert="medium">by</unclear>
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> custom <choice><abbr>`</abbr><expan>of</expan></choice> inserting bits <choice><abbr>`</abbr><expan>of</expan></choice> sticks or reeds into
+<lb/>the septum <space extent="2" unit="chars"/>Their teeth are deformed by
+<lb/>being filed into points <space extent="2" unit="chars"/>Their lips are large
+<lb/>They make a nearer approach to a general
+
+
+<pb facs="liv_000101_0129.jpg" n="0129"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">124</add></fw>
+<lb/>negro appearance than <metamark function="query" place="above" rend="gray" resp="#U2" n="U2">?⎵</metamark> <supplied cert="high">any</supplied> tribe I met <add place="below" hand="#DL" n="DL" rend="gray">^</add> <add place="marginleft" hand="#DL" n="DL" rend="gray">but I did not
+    <lb/>notice this on
+    <lb/>my way down</add>
+<space extent="2" unit="chars"/>They
+<lb/>cultivate pretty largely and rely upon their 
+<lb/>agricultural products for their supplies of
+<lb/><term type="foodstuff">salt</term> <term type="foodstuff">flesh</term> <term type="plant">tobacco</term> &amp;c <del type="cancelled">cloths</del> from <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Bangalas</term></p>
+<lb/><p>Their clothing consists <choice><abbr>`</abbr><expan>of</expan></choice> pieces <choice><abbr>`</abbr><expan>of</expan></choice> skin hung
+<lb/>loosely from <choice><abbr>'</abbr><expan>the</expan></choice> girdle in front &amp; behind <space unit="chars" extent="2"/>They
+<lb/>plait their hair fantastically <space unit="chars" extent="2"/><choice><sic>we</sic><corr>We</corr></choice> saw some
+<lb/>women <add place="below" hand="#DL" n="DL" rend="gray">^</add> <add place="marginleft" hand="#DL" n="DL" rend="gray">coming</add> with their hair woven into <choice><abbr>'</abbr><expan>the</expan></choice> form of
+<lb/>a <orgName>European</orgName> hat and it was only by a <w>clos<subst><del hand="#DL" n="DL">e</del><add place="over-text" hand="#DL" n="DL" rend="gray">er</add></subst></w>
+<lb/>inspection that its nature was detected
+<lb/><del type="strikethrough">Some</del> <del type="strikethrough">In ot</del> Others had it arranged in tufts
+<lb/>with a threefold cord along <choice><abbr>'</abbr><expan>the</expan></choice> ridge <choice><abbr>`</abbr><expan>of</expan></choice> each tuft
+<lb/>while others follow <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">ancient Egyptian</term> fashion
+<lb/>having <choice><abbr>'</abbr><expan>the</expan></choice> whole mass <choice><abbr>`</abbr><expan>of</expan></choice> wool plaited into cords
+<lb/>all hanging <unclear cert="high">down</unclear> as far as <choice><abbr>'</abbr><expan>the</expan></choice> shoulders <space extent="2" unit="chars"/>This
+<lb/>fashion with <choice><abbr>'</abbr><expan>the</expan></choice> somewhat <term type="nationality">Egyptian</term> cast of <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>countenance in <subst><del>L</del><add place="over-text">s</add></subst>ome parts of <placeName><region>Londa</region></placeName>
+<lb/>reminded me strongly of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Egyptian</term> paintings in <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/><orgName>British Museum</orgName> <space extent="3" unit="chars"/>We had now <seg type="weather">rains 
+<lb/>every day and <choice><abbr>'</abbr><expan>the</expan></choice> sky seldom presented that
+<lb/>cloudless aspect and clear blue so common
+<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> dry lands of the south <space extent="3" unit="chars"/>The heavens are
+<lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2" n="U2">?</metamark> often overcast by large white <hi rend="gray underline" hand="#U1" n="U2">sluggish</hi> 
+<lb/>looking masses <choice><abbr>wh.</abbr><expan>which</expan></choice> stand for hours in the
+<lb/>same position and <choice><abbr>'</abbr><expan>the</expan></choice> intervening spaces are
+<lb/>filled with a milk and water looking haze</seg>   
+<lb/>Notwithstanding these unfavourable
+<lb/>circumstances I <del type="strikethrough">had</del> obtained <del type="cancelled">a</del> good
+<lb/>observations for <choice><abbr>'</abbr><expan>the</expan></choice> longitude <choice><abbr>`</abbr><expan>of</expan></choice> this important
+<lb/>point on both sides <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> and found <del type="cancelled">it</del>
+<lb/>the river running in <measure>9° 50’ <choice><abbr>S Lat.</abbr><expan>South Latitude</expan></choice> <del type="cancelled">in</del> 18° 34’ <choice><abbr>E</abbr><expan>East</expan></choice>
+<lb/>longitude</measure> <space extent="4" unit="chars"/>On proceeding to our former
+<lb/>station near <choice><abbr>'</abbr><expan>the</expan></choice> village of <del type="cancelled"><persName>Sansawe</persName></del>
+<lb/><persName>Sansawe</persName> he ran to meet us with                        
+
+
+</p>
+
+</div>
+
+
+
+
+
+
+
+</body>
+</text>
+
+</TEI>

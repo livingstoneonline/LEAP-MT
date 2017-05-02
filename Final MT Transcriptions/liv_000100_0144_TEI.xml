@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000100">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+                <author>David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <respStmt xml:id="JL">
+                    <name>Justin Livingstone</name>
+                    <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+                </respStmt>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Encoding Consultant</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+              	<respStmt xml:id="JG">
+                    <name>Johanna Green</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="PS">
+                    <name>Peter Slater</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>UCLA Digital Library</publisher>
+                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <!-- Possible year update. -->
+                <date>2014</date>
+                <availability>
+                <!-- Possible license change. -->
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License
+                        </ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS.42429</idno><!-- This may change with each volume of the MS. -->
+                        <altIdentifier>
+                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                            <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+							<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+
+                <bibl type="sourceMetadata">
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="und">Unknown</language>
+                <language ident="la">Latin</language>
+                <language ident="fr">French</language>
+                <language ident="mck">Mbunda</language>
+                <language ident="tn">Tswana</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2016-08-08" who="#JL">Proofing and encoding review</change>
+            <change when="2015-11-30" who="#KS">Proofreading</change>
+            <change when="2015-03-06" who="#PS">Initial transcription and XML encoding</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body rend="right">
+            <div>
+                
+                <pb facs="liv_000100_0144.jpg" n="0144"/>                           
+<lb/><p><fw n="heading_XXII">XXII <add place="inspace" hand="#U2" rend="gray left">139</add> <add place="inspace" hand="#U1" rend="gray right">143</add></fw>
+<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The influence of the partial
+<lb/>obstruction it meets with there
+<lb/>is seen in the more winding
+<lb/>course of the river <measure>North of
+<lb/>16°</measure> - And when the swell gets
+<lb/>past <placeName><settlement type="town"><choice><orig>Katima molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName> it spreads
+<lb/>out on the lands on both
+<lb/>banks towards <placeName><settlement type="town">Sesheke</settlement></placeName> - </p>
+<lb/>
+<lb/><p><persName>Santuru</persName> at whose ancient
+<lb/>granary we are staying was
+<lb/>a great <term type="occupation">hunter</term> and <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">was very</add> fond of
+<lb/>taming wild animals - His
+<lb/>people aware of his taste brought
+<lb/>every young <term type="animal">antelope</term> they could
+<lb/>catch and among <del type="strikethrough" hand="#U3" rend="red">the rest</del> <add place="above" hand="#U3" rend="red">other things</add> two
+<lb/>young <term type="animal">hippopotami</term> - <subst><del type="strikethrough" hand="#U3" rend="red">They</del><add place="above" hand="#U3" rend="red">These animals</add></subst> gambolled
+<lb/>in the river <subst><del>and</del><add place="over-text">by</add></subst> day but never
+<lb/>failed to remember to come
+<lb/>up to <placeName><settlement type="town">Naliele</settlement></placeName> for their suppers
+<lb/>of <term type="foodstuff">milk</term> and <term type="foodstuff">meal</term> - They were
+<lb/>the wonder of the country till
+<lb/>a stranger happening to come
+<lb/>to visit <persName>Santuru</persName> saw <subst><del type="strikethrough" hand="#U3" rend="red">these animals</del><add place="above" hand="#U3" rend="red">them</add></subst>
+<lb/>reclining in the sun and
+<lb/>speared one of them on the
+<lb/>supposition that it was wild 
+<lb/>The same unlucky accident
+<lb/>happened to one of the <term type="animal">catw</term> I had
+<lb/>brought to <persName>Sekeletu</persName> - A stranger
+<lb/>seeing an animal he had never
+<lb/>seen before killed it and
+<lb/>brought the trophy to the <term type="occupation">chief</term>
+<lb/><add place="marginleft" hand="#U3" rend="red">thinking</add> <del type="strikethrough" hand="#U3" rend="red">with the thought</del> that he had
+<lb/>made a very remarkable 
+<lb/><space extent="14" unit="chars"/>discovery
+                
+                
+        <pb facs="liv_000100_0145.jpg" n="0145"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">140</add> <add place="inspace" hand="#U1" rend="gray right">144</add></fw>             
+<lb/>We thereby lost the breed of <term type="animal">cats</term> of
+<lb/>which from the swarms of <term type="animal">mice</term>
+<lb/>we stood in great need - </p>
+<lb/><p>On making enquiries to ascertain
+<lb/>whether <persName>Santuru</persName> <add place="marginleft"><metamark function="insertion"/><term type="tribe">the Molŭiana</term></add> had ever been
+<lb/>visited by white men I could
+<lb/>find no vestige of any such
+<lb/>visit - The <term type="tribe">Barotse</term> call themselves
+<lb/>the <term type="tribe">Balŏiana</term> or <term type="tribe">little Balŏi</term> - as
+<lb/>if they had been an offset from
+<lb/><placeName><region>Lŏi</region></placeName> or <placeName><region>Lui</region></placeName> as it is often spelt - 
+<lb/>As <placeName><settlement type="village">Lui</settlement></placeName> had been visited by <term type="people">Portuguese</term>
+<lb/>and <subst><del type="strikethrough" hand="#U3" rend="red">the</del><add place="above" hand="#U3" rend="red">its</add></subst> position not well ascertained
+<lb/>my enquiries referred to the
+<lb/>identity of <placeName><settlement type="town">Naliele</settlement></placeName> with <placeName><region>Lui</region></placeName> but
+<lb/>there is no evidence of any
+<lb/>of <persName>Santuru</persName>'s people having ever
+<lb/>seen a white man before the
+<lb/>arrival of <persName>Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and myself
+<lb/>in <date when="1851">1851</date> - They have it is true
+<lb/>no written records but any <w>remark<supplied>-</supplied>
+<lb break="no"/>-able</w> event here is commemorated<!-- kate:good example of identification of different forms of historical record by DL -->
+<lb/>in names as <del type="cancelled">happened</del> was 
+<lb/>observed by <persName>Park</persName><!-- Mungo Park. PS --> <add place="marginleft"><metamark function="insertion"/>to be the case</add> in the countries
+<lb/>he traversed - The year of our
+<lb/>arrival is dignified by the name
+<lb/>of the year when the white men
+<lb/>came or of <choice><sic><persName>Sebituane</persName>s</sic><corr><persName>Sebituane</persName>'s</corr></choice> death
+<lb/>but they prefer the former as
+<lb/>they avoid if possible any
+<lb/>direct reference to the departed
+<lb/><metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-180"/><seg corresp="#reorder-81">Great numbers of children
+<lb/>were named</seg><anchor xml:id="meta-180"/> after <subst><del type="cancelled" hand="#U3" rend="red"><persName>M<hi rend="sup underline">rs</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice>'s</persName></del><add place="above" hand="#U3" rend="red">my wife's</add></subst> first
+<lb/>visit <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-81"/> <persName>MaRobert</persName> - or mother of <persName>Robert</persName>
+<lb/>her eldest child - others were
+
+
+        <pb facs="liv_000100_0146.jpg" n="0146"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">141</add> <add place="inspace" hand="#U1" rend="gray right">145</add></fw>
+<lb/><choice><sic>Were</sic><corr/></choice> named Gun - <term type="animal">horse</term> - waggon -
+<lb/><add place="marginleft"><persName>Monare</persName> - <add place="below">^</add></add> <persName>Jesus</persName> - &amp;c - but there is not a
+<lb/>vestige of anything of the sort
+<lb/>among the <term type="tribe">Barotse</term> - The visit
+<lb/>of a white man is such a remarkable
+<lb/>event that had any such taken
+<lb/>place during the last three
+<lb/>hundred years there must have
+<lb/>remained some tradition of it - </p><!-- Kate: evidence of oral historical record -->
+<lb/><p>But <persName>Santuru</persName> was once
+<lb/>visited by the <term type="tribe">Mambari</term> and
+<lb/>the distinct recollection of that
+<lb/>visit is retained - They came
+<lb/>to purchase <orgName>slaves</orgName> and both
+<lb/><persName>Santuru</persName> and his <term type="occuption">headmen</term> refused
+<lb/>them permission to buy any of
+<lb/>his people - The <term type="tribe">Makololo</term> quoted
+<lb/>this precedent when speaking
+<lb/>of the <term type="tribe">Mambari</term> and said they
+<lb/>as the present masters of
+<lb/>the country had as good a right
+<lb/>to expel them as <persName>Santuru</persName> - The
+<lb/><term type="tribe">Mambari</term> reside near <placeName><geogName type="plateau">Bihe</geogName></placeName> under
+<lb/>an <term type="tribe">Ambonda</term> <term type="occupation">chief</term> named
+<lb/><persName><choice><orig>Kangom-be</orig><reg>Kangombe</reg></choice></persName> - they profess to
+<lb/>use the <orgName>slaves</orgName> for domestic
+<lb/>purposes alone - </p>
+<lb/><p>The town <subst><del>of</del><add place="over-text">or</add></subst> mound <subst><del>or</del><add place="over-text">of</add></subst>
+<lb/><persName>Santuru</persName>'s mother was <choice><orig>shewn</orig><reg>shown</reg></choice>
+<lb/>to me - this was the first symptom
+<lb/>of an altered state of feeling <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">with regard</add> to
+<lb/>the female sex <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">that</add> I had observed
+<lb/>There are no cases of women
+<lb/>being elevated to the <term type="occupation">headships</term> of
+<lb/>towns <w>f<subst><del type="strikethrough" hand="#U3" rend="red">a</del><add place="above" hand="#U3" rend="red">u</add></subst>rther</w> South - <del type="cancelled">They</del>
+
+
+        <pb facs="liv_000100_0147.jpg" n="0147"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">142</add> <add place="inspace" hand="#U1" rend="gray right">146</add></fw>
+<lb/>The <term type="tribe">Barotse</term> also  <choice><orig>shewed</orig><reg>showed</reg></choice> some
+<lb/>relics of their <term type="occupation">chief</term> <del type="strikethrough" hand="#U3" rend="red">which <choice><orig>shewed</orig><reg>showed</reg></choice></del> <add place="above" hand="#U2" rend="gray">proved</add>
+<lb/><add place="marginleft" hand="#U3" rend="red">thus evincing</add> a greater amount of the religious
+<lb/>feeling than <subst><add place="above" hand="#U3" rend="red">I had ever known</add><del type="strikethrough" hand="#U3" rend="red">any to be encountered</del></subst>
+<lb/><add place="marginleft" hand="#U3" rend="red">displayed</add> among <term type="tribe">Bechuanas</term> - His
+<lb/>more recent capital built too
+<lb/>on an artificial mound is
+<lb/>covered with different kinds
+<lb/>of trees transplanted when young
+<lb/>by <add place="below">^</add> <add place="marginleft">himself</add> <del type="strikethrough"><persName>Santuru</persName></del> - They form a
+<lb/>grove on the end of the mound
+<lb/>in which are to be seen various
+<lb/>instruments of iron just in
+<lb/>the state he left them - one
+<lb/>looks like the <w>g<subst><del type="cancelled" hand="#U3" rend="red">au</del><add place="above" hand="#U3" rend="red">ua</add></subst>rd</w> of a basket
+<lb/>hilted sword - Another has an
+<lb/>upright stem <add place="below">^</add> <add place="above">of the metal</add> on which are
+<lb/>placed branches at the ends
+<lb/>of which there are miniature
+<lb/>axes, hoes, and spears
+<lb/>on <subst><del type="strikethrough">which</del><add place="above">these</add></subst> he was accustomed
+<lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2"><unclear cert="medium">?</unclear></metamark> to present offerings according
+<lb/>as he meant favours to
+<lb/>be conferred in relation
+<lb/>to hewing, agriculture or
+<lb/>fighting - The people still
+<lb/>living there <add place="marginleft"><metamark function="insertion"/>in charge of
+    <lb/>these articles</add>
+were supported by
+<lb/>presents from the <term type="occupation">chief</term> and
+<lb/>the <term type="tribe">Makololo</term> sometimes follow
+<lb/>the example - When I asked
+<lb/><add place="marginleft" hand="#U3" rend="red">them</add> to part with one of these relics
+<lb/>they replied "o no he refuses"
+<lb/>Who refuses? - <persName>Santuru</persName> <add place="marginleft" hand="#U3" rend="red">was their reply <add place="below">^</add></add> - <choice><orig>shewing</orig><reg>showing</reg></choice>
+<lb/>their belief in a future state
+<lb/>of existence - After explaining
+
+
+        <pb facs="liv_000100_0148.jpg" n="0148"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">143</add> <add place="inspace" hand="#U1" rend="gray right">147</add></fw>
+<lb/>to them as I always did when
+<lb/>opportunity offered the nature
+<lb/>of true worship and
+<lb/>praying with them in the
+<lb/>simple form which needs
+<lb/>no offering <add place="marginleft"><metamark function="insertion"/>from the
+    <lb/>worshipper</add>
+except that of the
+<lb/>heart and <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">after</add> planting some
+<lb/><term type="plant">fruit tree</term> seeds in the grove
+<lb/>we departed</p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> Another incident which
+<lb/><add place="marginleft" hand="#U3" rend="red">occurred</add> <del type="strikethrough" hand="#U3" rend="red">took place</del> at the confluence
+<lb/>of the <geogName type="river">Leeba</geogName> and <geogName type="river">Leeambye</geogName>
+<lb/>may be quoted here as
+<lb/><choice><orig>shewing</orig><reg>showing</reg></choice> a <add place="marginleft"><metamark function="insertion"/><del type="strikethrough" hand="#U3" rend="red">more</del> vivid
+    <lb/>perception of
+    <lb/>the existence
+    <lb/>of spiritual
+    <lb/>beings whom
+    <lb/>they are more
+    <lb/>prone to worship
+    <lb/>than</add>
+<del type="cancelled">greater amount of the    
+<lb/>religious proneness <del type="strikethrough" rend="red" hand="#U3">to worship</del>
+<lb/>than exists among</del> the <term type="tribe">Bechuanas</term>
+<lb/>Having taken lunar observations in
+<lb/>the morning <del type="strikethrough" hand="#U3" rend="red"><subst><del hand="#DL">I</del><add place="over-text" hand="#DL">we</add></subst> were</del><add place="above" hand="#U3" rend="red">I was</add> waiting for
+<lb/>a meridian altitude of the Sun for
+<lb/>the latitude - My chief <term type="occupation">boatman</term> was
+<lb/>sitting by, in order to pack up the
+<lb/>instruments as soon as I had finished
+<lb/>There was a large halo about <measure>20°
+<lb/>in diameter</measure> round the Sun - Thinking
+<lb/>that the <seg type="weather">humidity of the atmosphere
+<lb/>which this <w>indicate<subst><del hand="#U3">s</del><add place="over-text" hand="#U3" rend="red">d</add></subst></w> might betoken
+<lb/>rain</seg> I asked him if his <subst><del><unclear cert="medium">he</unclear></del><add place="over-text">ex</add></subst>perience
+<lb/>did not lead him to the same view
+<lb/>"O no replied he It is the <foreign xml:lang="tn">Barimo</foreign>
+<lb/>(gods or departed spirits) who have
+<lb/>called an assembly (<foreign xml:lang="tn">picho</foreign>) <choice><sic>Dont</sic><corr>Don't</corr></choice>
+<lb/>you see they have the Lord (Sun)
+<lb/>in the centre"</p>
+
+
+        <pb facs="liv_000100_0149.jpg" n="0149"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">144</add> <add place="inspace" hand="#U1" rend="gray right">148</add> <add place="inspace" hand="#U2" rend="gray right">6</add></fw>
+<lb/><p>While still at <placeName><settlement type="town">Naliele</settlement></placeName> I walked
+<lb/>out to the ridge which bounds the
+<lb/><placeName><geogName type="valley">valley of the <term type="tribe">Barotse</term></geogName></placeName> in that direction
+<lb/>and found it covered with trees
+<lb/>It is only the commencement
+<lb/>of the lands which are never
+<lb/>inundated<add place="inline" hand="#U3" rend="red">;</add> <subst><del type="strikethrough" hand="#U3" rend="red">the</del><add place="above" hand="#U3" rend="red">their</add></subst> gentle rise <del type="strikethrough" hand="#U3" rend="red">of
+<lb/>which</del> from the dead level
+<lb/>of the valley <w>resembl<subst><del type="strikethrough" hand="#U3" rend="red">ing</del><add place="above" hand="#U3" rend="red">es</add></subst></w> much
+<lb/>the <del type="cancelled">commencement</del> edge of
+<lb/>the desert<!--geog:--> in the <placeName><region>valley of the <placeName><geogName type="river">Nile</geogName></placeName></region></placeName>
+<lb/>But here the <term type="tribe">Banyeti</term> have
+<lb/>fine gardens and raise large
+<lb/>quantities of <term type="plant_foodstuff">maize</term> - <del type="cancelled"><term type="plant_foodstuff"><orgName>Caffre</orgName> sorghum</term> </del>
+<lb/><term type="plant_foodstuff">millet</term> (<term type="plant_foodstuff"><orgName><subst><del>C</del><add place="over-text">K</add></subst>affir</orgName> sorghum</term>) of large
+<lb/><term type="foodstuff">grain</term> and beautifully white 
+<lb/>They raise also <term type="plant_foodstuff">yams</term> - <term type="plant_foodstuff">sugar
+<lb/>cane</term>, the <term type="plant_foodstuff">Egyptian arum</term> - 
+<lb/><term type="plant_foodstuff">sweet potato</term> (<foreign xml:lang="la"><term type="plant_foodstuff">convolulus batata</term></foreign>)
+<lb/>Two kinds of <term type="plant_foodstuff">Manioc</term> or <term type="plant_foodstuff">Cassava</term>
+<lb/><metamark function="ed-mark" place="marginleft">X</metamark> <metamark function="ed-mark" place="marginleft" resp="#U3" rend="red">X</metamark> (<foreign xml:lang="la"><term type="plant_foodstuff">Jatropha manihot</term></foreign> and <add place="inline" rend="red" hand="#U3">----</add>
+<lb/>besides <term type="plant_foodstuff">pumpkins</term> <term type="plant_foodstuff">melons</term>
+<lb/><term type="plant_foodstuff">beans</term> and <term type="plant_foodstuff">earthnuts</term> - These
+<lb/>with plenty of <term type="animal"><term type="foodstuff">fish</term></term> in the river
+<lb/>and its branches &amp; lagoons
+<lb/><term type="foodstuff">wild fruits</term> and <term type="animal"><term type="foodstuff">water fowls</term></term>
+<lb/>always make the people refer
+<lb/>to the <placeName><geogName type="valley"><term type="tribe">Barotse</term></geogName></placeName> as the land of
+<lb/>plenty - <space extent="2" unit="chars"/>The scene from the
+<lb/>ridge <subst><del type="cancelled">wa</del><add place="over-text">on</add></subst> looking back to the
+<lb/>valley was beautiful - One
+<lb/>cannot see the Western side
+<lb/>of the valley in a <seg type="weather">cloudy day</seg><add place="inline" hand="#U3" rend="red">,</add>
+<lb/>such as that was when we
+<lb/>visited <w>th<subst><del>is</del><add place="over-text">e</add></subst></w> stockade but
+
+
+        <pb facs="liv_000100_0150.jpg" n="0150"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">145</add> <add place="inspace" hand="#U1" rend="gray right">149</add></fw>
+<lb/><add place="marginleft" hand="#U3" rend="red">we</add> could see the great river glancing
+<lb/>out at different points and
+<lb/>fine large herds of <term type="animal">cattle</term> quietly
+<lb/>grazing <del type="cancelled">among the</del> on the green
+<lb/>succulent herbage among
+<lb/><add place="marginleft">the great number</add> <del type="cancelled">the villages</del> of <term type="animal">cattle</term> stations
+<lb/>and villages which <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">are</add> <subst><del>meet the</del><add place="over-text">are</add></subst>
+<lb/>dotted over the landscape - 
+<lb/><del type="cancelled">Herds of</del> <term type="animal">Lechés</term> in hundreds
+<lb/>feed securely beside them
+<lb/>for they have learned only
+<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> to keep out of bow shot - or
+<lb/><add place="marginleft"><measure>200 yards</measure></add> When guns come into a country
+<lb/><add place="marginleft" hand="#U3" rend="red">the animals</add> <del type="strikethrough" hand="#U3" rend="red">they</del> soon learn their longer
+<lb/>range - and begin to run at
+<lb/>the distance of <measure>five hundred
+<lb/>yards</measure> - </p>
+<lb/><p>I imagined this slight
+<lb/>elevation <add place="marginleft"><metamark function="insertion"/>(<placeName><region>Katonga</region></placeName>)</add> might be healthy
+<lb/>but was informed that
+<lb/>no part <subst><del type="strikethrough" hand="#U3" rend="red">in</del><add place="above" hand="#U3" rend="red">of</add></subst> this region is
+<lb/>exempt from <term type="ailment">fever</term> - When
+<lb/>the waters begin to retire
+<lb/>from this valley such masses
+<lb/>of decayed vegetation and
+<lb/>mud are exposed to the
+<lb/><seg type="weather">torrid sun</seg> that even the <orgName>natives</orgName>
+<lb/>suffer<del type="cancelled">ed</del> severely from <del type="strikethrough" hand="#U3" rend="red">its</del> attacks
+<lb/><add place="marginleft" hand="#U3" rend="red">of <term type="ailment">fever</term>.</add> The grass is so rank in
+<lb/>its growth <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">that</add> one cannot see
+<lb/>the black alluvial soil of
+<lb/><del type="strikethrough">which</del> <del type="cancelled">the</del> the bottom of this
+<lb/>periodical lake - Even when
+<lb/><add place="marginleft" hand="#U3" rend="red">the <term type="plant">grass</term></add> <del type="strikethrough" hand="#U3" rend="red">it</del> falls <del type="strikethrough" hand="#U3" rend="red">down</del><add place="inline" hand="#U3" rend="red">,</add> as it <subst><del type="strikethrough" hand="#U3" rend="red">was</del><add place="above" hand="#U3" rend="red">had</add></subst> now<add place="inline" hand="#U3" rend="red">,</add>
+<lb/>in winter<add place="inline" hand="#U3" rend="red">,</add> one is obliged
+
+
+        <pb facs="liv_000100_0151.jpg" n="0151"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">146</add> <add place="inspace" hand="#U1" rend="gray right">150</add></fw>
+<lb/><add place="marginleft">to lift the<add place="below">^</add></add> feet so high to avoid being tripped
+<lb/>by it as to make walking
+<lb/>excessively fatiguing - The
+<lb/><term type="tribe">Makololo</term> youth complain of
+<lb/>being unable to run <subst><del>in</del><add place="over-text">at</add></subst> the
+<lb/><term type="tribe">Barotse</term> <del type="strikethrough">without</del> on this account
+<lb/>There being evidently no healthy
+<lb/>spot in this quarter and the
+<lb/>course of the river being about
+<lb/><measure>4 <choice><orig>½</orig><reg>1/2</reg></choice> miles per hour</measure> <add place="marginleft"><metamark function="insertion"/>(<measure>100 yards in
+    <lb/>60 seconds of
+    <lb/>time</measure>)</add>
+I imagined
+<lb/>we might find what was
+<lb/>needed in the higher lands
+<lb/>from which the river seemed
+<lb/>to come - I resolved therefore
+<lb/>to go to the utmost limits of the
+<lb/><placeName><region><term type="tribe">Barotse</term> country</region></placeName> before coming
+<lb/>to a final conclusion - <placeName><region>Katonga</region></placeName>
+<lb/>was the best place we had
+<lb/>seen but in order to accomplish
+<lb/>a full search I left <persName>Sekeletu</persName>
+<lb/>at <placeName><settlement type="town">Nariele</settlement></placeName> and ascended
+<lb/>the river - He furnished me
+<lb/>with <del type="cancelled">canoes</del> men besides my
+<lb/><term type="occupation">rowers</term> and among the rest
+<lb/>a <term type="occupation">herald</term> that I might enter
+<lb/>into his villages in what is
+<lb/>considered a dignified manner
+<lb/><add place="marginleft" hand="#U3" rend="red">This</add> <del type="strikethrough" hand="#U3" rend="red">that</del> was supposed to be by
+<lb/><del type="strikethrough">allowing</del> the <term type="occupation">herald</term> shouting
+<lb/>out at the top of his voice
+<lb/>"Here comes the Lord - the
+<lb/>great <term type="animal">lion</term>" The latter phrase
+<lb/>being "<foreign xml:lang="tn">tau e tŏna</foreign>" which in his
+<lb/>imperfect way of <choice><sic>pronounciation</sic><corr>pronunciation</corr></choice>
+<lb/>became "<foreign xml:lang="tn"><hi rend="underline">s</hi>au e tona</foreign>" and so
+
+
+        <pb facs="liv_000100_0152.jpg" n="0152"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">147</add> <add place="inspace" hand="#U1" rend="gray right">151</add></fw>
+<lb/>like the "great <term type="animal">sow</term>" I could not
+<lb/><choice><sic>recieve</sic><corr>receive</corr></choice> the honour with
+<lb/>becoming gravity and had to
+<lb/>entreat him much to the
+<lb/>annoyance of my party to be
+<lb/><del type="strikethrough">still</del> silent</p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> In our ascent we visited
+<lb/>a number of <term type="tribe">Makololo</term> villages
+<lb/>and were always <choice><sic>recieved</sic><corr>received</corr></choice>
+<lb/>with <add place="marginleft" rend="red" hand="#U3">a hearty <add place="below">^</add></add> <del type="strikethrough" hand="#U3" rend="red">glad</del> welcome as <choice><sic>come-ing</sic><corr>coming</corr></choice>
+<lb/>to give them peace which they
+<lb/>term <del type="strikethrough">peace</del> - "sleep" - They behave
+<lb/>well in public meetings even
+<lb/>on the first occasion of
+<lb/>attendance probably from the
+<lb/>habit of commanding the
+<lb/><orgName>Makalaka</orgName>, <del type="cancelled">swarms</del> crowds
+<lb/>of whom swarm in every
+<lb/>village - and whom <del type="strikethrough">in</del> the
+<lb/><del type="cancelled">want</del> <term type="tribe"><choice><orig>Mako<metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>lolo</orig><reg>Makololo</reg></choice></term><!-- square bracket connects to the circled number below.JL --> women seem
+<lb/>to <subst><del type="strikethrough" hand="#U3" rend="red">feel</del><add place="above" hand="#U3" rend="red">consider as</add></subst> especially under their
+<lb/><add place="marginleft" hand="#U2" rend="gray"><note>149</note></add><!-- number is circled.JL --> charge - </p>
+<lb/><p>The river presents the
+<lb/>same appearance of low
+<lb/>banks without trees as we
+<lb/>have remarked it had after
+<lb/>we came to <measure><measure>16° 16'</measure> <choice><sic>untill</sic><corr>until</corr></choice> we
+<lb/>come to <placeName><settlement type="village">Libonta</settlement></placeName> (<measure>14° 58 <choice><abbr>S- L-</abbr><expan>South Latitude</expan></choice></measure>)
+<lb/><measure>Twenty miles</measure></measure> beyond that
+<lb/>we <subst><del type="strikethrough" hand="#U3" rend="red">come to</del><add place="above" hand="#U3" rend="red">find</add></subst> forest <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">down</add> to the
+<lb/>water's edge and <del type="cancelled"><term type="insect">Tsetse</term></del> <term type="insect"><choice><orig>tsetze</orig><reg>tsetse</reg></choice></term>
+<lb/>Here I might have turned
+<lb/>as no locality can be
+<lb/>inhabited by <term type="people">Europeans</term> where
+
+
+        <pb facs="liv_000100_0153.jpg" n="0153"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">148</add> <add place="inspace" hand="#U1" rend="gray right">152</add></fw>
+<lb/>that scourge exists but hearing
+<lb/>that we were not far from
+<lb/>the <del type="cancelled">river</del> confluence of the
+<lb/>river of <placeName><region>Londa</region></placeName> or <placeName><region>Lunda</region></placeName>
+<lb/>named <placeName><geogName type="river">Leeba</geogName></placeName> or <placeName><geogName type="river">Loiba</geogName></placeName> and
+<lb/>the <term type="occupation">chiefs</term> of that country <add place="above" hand="#U3" rend="red">being</add> <del type="strikethrough" hand="#U3" rend="red">w<subst><del>as</del><add place="over-text">ere</add></subst></del>
+<lb/>reported to be friendly to
+<lb/>strangers and <subst><del type="strikethrough" hand="#U3" rend="red">might</del><add place="above" hand="#U3" rend="red">therefore likely</add></subst> be of
+<lb/>use to me on my return
+<lb/>from the <placeName><region>West coast</region></placeName> <add place="above" hand="#U3" rend="red">-</add> I still
+<lb/>pushed on to <measure>Latitude 14° 11' 3"
+<lb/>South</measure> - There the <placeName><geogName type="river">Leeambye</geogName></placeName>
+<lb/>assumes the name <placeName><geogName type="river">Kabompo</geogName></placeName>
+<lb/>and seems to be coming from
+<lb/>the <del type="cancelled">N</del> East - It is a fine large
+<lb/>river <del type="cancelled" hand="#U3" rend="red">of</del> about <measure><measure>300 yards <add place="inline" hand="#U3" rend="red">wide</add></measure>
+<lb/>and the <placeName><geogName type="river">Leeba</geogName></placeName><add place="inline" hand="#U3" rend="red">,</add> <del type="cancelled" hand="#U3" rend="red">of</del> <measure>250</measure></measure> - The
+<lb/><placeName><geogName type="river">Loeti</geogName></placeName> <add place="marginleft"><metamark function="insertion"/>a branch of
+    <lb/>which is called <placeName><geogName type="river">Langebongo</geogName></placeName>
+    <lb/>and comes from <choice><abbr>W.
+    <lb/>N- W-</abbr><expan>West North West</expan></choice> through
+    <lb/>a level grassy
+    <lb/>plain named
+    <lb/><placeName><geogName type="plain">Mango</geogName></placeName></add>
+- <add place="above" hand="#U3" rend="red">It is</add> about <measure>100 yards</measure> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">wide and</add> enters
+<lb/><add place="marginleft"><del type="cancelled">from <choice><abbr>W- N W</abbr><expan>West North West</expan></choice></del></add> the <placeName><geogName type="river">Leeambye</geogName></placeName> from the West
+<lb/>the waters of the latter are of
+<lb/>a light colour and <subst><del><unclear cert="medium">run</unclear></del><add place="over-text">those</add></subst>
+<lb/>of the <placeName><geogName type="river">Leeba</geogName></placeName> of a dark mossy
+<lb/>hue - <del type="strikethrough">the two</del> After the <placeName><geogName type="river">Loeti</geogName></placeName>
+<lb/>joins the <placeName><geogName type="river">Leeambye</geogName></placeName> the different
+<lb/>coloured waters flow
+<lb/>side by side for some distance
+<lb/>unmixed</p>
+<lb/><p>Before reaching the <placeName><geogName type="river">Loeti</geogName></placeName> we
+<lb/>came to a number of people from
+<lb/>the <placeName><region>Lobale</region></placeName> region hunting <term type="animal">hippopotami</term>
+<lb/>They fled precipitately as soon
+<lb/>as they saw the <term type="tribe">Makololo</term><add place="inline" hand="#U3" rend="red">,</add> leaving
+<lb/>their canoes and all their
+<lb/>utensils &amp; clothing - The <orgName>Makalaka</orgName>
+<lb/>who were <del type="strikethrough" hand="#U3" rend="red">with me</del> accustomed
+<lb/>to plunder wherever they went <add place="marginleft"><metamark function="insertion"/>rushed after
+    <lb/>them like furies
+    <lb/>totally regardless
+    <lb/>of our shouting -
+    <lb/>as this proceeding
+    <lb/>would have
+    <lb/><subst><del type="strikethrough" hand="#U3" rend="red">blasted</del><add place="above" hand="#U3" rend="red">destroyed</add></subst> my
+    <lb/>character entirely
+    <lb/>at <placeName><region>Lobale</region></placeName> I
+    <lb/>forced my men
+    <lb/>to lay down
+    <lb/>all the plunder
+    <lb/>on a sandbank
+    <lb/>&amp; leave it there
+    <lb/>for <subst><del type="strikethrough" hand="#U3" rend="red">the</del><add place="above" hand="#U3" rend="red">its</add></subst> lawful
+    <lb/>owners</add></p>             
+                
+                
+        <pb facs="liv_000100_0154.jpg" n="0154"/>                         
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">149</add> <add place="inspace" hand="#U1" rend="gray right">153</add></fw>                
+<lb/><p>It was now quite evident
+<lb/><add place="marginleft" hand="#U2" rend="gray"><note><metamark function="query">?</metamark>
+    <lb/>settlement</note></add>
+<del type="strikethrough">now</del> that no healthy location    
+<lb/>could be obtained in the
+<lb/>country in which the <term type="tribe">Makololo</term>
+<lb/>would be allowed to live in
+<lb/>peace - I had thus a fair
+<lb/>excuse if I had chosen to
+<lb/>avail myself of it of coming
+<lb/>home and saying that the
+<lb/>"door was shut" because
+<lb/>the Lord's time had not
+<lb/>yet come - but believing
+<lb/>that it was my duty to
+<lb/>devote some portion of my
+<lb/>life to these (to me at least)
+<lb/>very confiding and affectionate
+<lb/><term type="tribe">Makololo</term>, I resolved to follow
+<lb/>out the second part of my
+<lb/>plan though I had failed in
+<lb/><add place="marginleft">accomplishing <add place="below">^</add></add> the first - The <placeName><geogName type="river">Leeba</geogName></placeName> <add place="below">^</add> <add place="above">seemed to</add> come
+<lb/>from the <choice><abbr>N</abbr><expan>North</expan></choice> &amp; by <choice><abbr>W-</abbr><expan>West</expan></choice> or <choice><abbr>N- N- W-</abbr><expan>North North West</expan></choice>
+<lb/>so having an old <term type="nationality">Portuguese</term>
+<lb/>map which pointed out the
+<lb/><del type="cancelled"><unclear cert="medium">Z</unclear></del> <placeName><geogName type="river">Coanza</geogName></placeName> as rising from
+<lb/>the middle of the continent
+<lb/>in <measure><del type="cancelled">10°</del> 9° <choice><abbr>S- Lat.</abbr><expan>South Latitude</expan></choice></measure> - I thought it
+<lb/>probable that when we <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">had</add> ascended
+<lb/>the <placeName><geogName type="river">Leeba</geogName></placeName> <add place="marginleft"><metamark function="insertion"/>(from <measure>14° 11'</measure>)</add> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">for</add> two or three degrees
+<lb/>We should be within <measure>120 miles</measure>
+<lb/>of the <placeName><geogName type="river">Coanza</geogName></placeName> and <w><subst><del type="strikethrough" hand="#U3" rend="red">w</del><add place="above" hand="#U3" rend="red">sh</add></subst>ould</w>
+<lb/>find no difficulty in
+<lb/>following it down to the
+<lb/>coast near <placeName><region><choice><orig>Loando</orig><reg>Luanda</reg></choice></region></placeName> - This
+<lb/>was the <w>logic<add place="below" hand="#U3" rend="red">al</add></w> <add place="below" hand="#U3" rend="red">deduction,</add> <del type="strikethrough">but like many</del>
+
+
+        <pb facs="liv_000100_0155.jpg" n="0155"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">150</add> <add place="inspace" hand="#U1" rend="gray right">154</add></fw>
+<lb/>but <subst><del type="strikethrough" hand="#U3" rend="red">like</del><add place="above" hand="#U3" rend="red">as is the case with</add></subst> many a plausible
+<lb/>theory one <add place="below">^</add> <add place="above">portion of the</add> <w>premise<del type="strikethrough">s</del></w> was
+<lb/>decidedly defective - The <placeName><geogName type="river">Coanza</geogName></placeName>
+<lb/><add place="marginleft">as we afterwards
+    <lb/>found</add>
+<add place="below">^</add> does not come from <w>any<supplied>-</supplied>
+<lb/>where</w> near the centre of the
+<lb/>country</p>
+<lb/>
+<lb/><p>I had myself already had
+<lb/>eight attacks of <term type="ailment">fever</term> but
+<lb/>never lay by for it except
+<lb/>when under treatment by
+<lb/>the <orgName>native</orgName> <term type="occupation">doctors</term> - I fondly
+<lb/>hoped that they had some
+<lb/>more effectual way of <w>re-
+<lb break="no"/>-establishing</w> the secretions
+<lb/>than our own, but after
+<lb/>being stewed in vapour baths
+<lb/> - smoked like a <term type="animal">red herring</term> <del type="cancelled">on</del>
+<lb/>over fire of green twigs <del type="strikethrough">on
+<lb/>potsherds</del> - and physicked - baked
+<lb/><del type="strikethrough"><add place="marginleft" hand="#U2" rend="gray"><note><metamark function="query"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> said
+        <lb/>before</note></add></del>
+and charmed <foreign xml:lang="la"><hi rend="underline">secund<subst><del type="cancelled">em</del><add place="above">um</add></subst></hi>
+<lb/>(black) artem</foreign> <del type="cancelled">I was obliged
+<lb/>to believe <add place="below">^</add> <add place="marginleft">conclude</add> that our own</del>
+<lb/><add place="marginleft">only to find our</add> <add place="below">^</add> <add place="above">own</add> remedies <del type="cancelled">are</del> more efficacious
+<lb/>than theirs - My friends put
+<lb/>great faith in my medicines
+<lb/>and I found I could cure
+<lb/>the <term type="ailment">fever</term> more quickly &amp;
+<lb/>safely than their own <term type="occupation">doctors</term></p>
+<lb/><p>There is a good deal in
+<lb/>not "giving in" to this disease
+<lb/><add place="marginleft">He who <add place="below">^</add></add> <del type="cancelled">if you</del> becomes low
+<lb/>spirited and desponding
+<lb/><del type="cancelled">you</del> will <add place="above">die</add> sooner <del type="cancelled">die</del> than
+<lb/>he who is not of such
+
+
+
+        <pb facs="liv_000100_0156.jpg" n="0156"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">151</add> <add place="inspace" hand="#U1" rend="gray right">155</add></fw>
+<lb/>a "gawky" nature</p>
+<lb/>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The numbers of the large
+<lb/>game above <placeName><settlement type="village">Libonta</settlement></placeName> are
+<lb/>prodigious and remarkably
+<lb/>tame - <add place="marginleft"><metamark function="insertion"/>Eighty one
+    <lb/><term type="animal">buffaloes</term>
+    <lb/>defiled in
+    <lb/>slow procession
+    <lb/>before our
+    <lb/>fire one
+    <lb/>evening
+    <lb/>within gun
+    <lb/>shot - and
+    <lb/>the herds of
+    <lb/>the splendid
+    <lb/><term type="animal">Eland</term> stood
+    <lb/>by day without
+    <lb/>fear at
+    <lb/><del type="cancelled">one</del> <measure>two
+    <lb/>hundred yards
+    <lb/>distance</measure> - 
+    <lb/>They were
+    <lb/>all of the
+    <lb/>striped variety
+    <lb/>and with
+    <lb/>their forearm
+    <lb/>markings
+    <lb/>large dewlaps
+    <lb/>and sleek
+    <lb/>appearance
+    <lb/>were a beautiful
+    <lb/>sight to see</add>
+The <term type="animal">lions</term> here roar
+<lb/>much more than in the country
+<lb/>near the Lake, <placeName><geogName type="river">Zouga</geogName></placeName>, and <placeName><geogName type="river">Chobe</geogName></placeName>
+<lb/>One evening we had a good
+<lb/>opportunity of hearing the
+<lb/>utmost exertions this animal
+<lb/>can make in that line - We
+<lb/><del type="cancelled">were</del> had made our beds on
+<lb/>a large sand bank and
+<lb/>could be easily seen from
+<lb/>all sides - A <term type="animal">lion</term> on the
+<lb/>opposite shore amused
+<lb/>himself for hours by roaring
+<lb/>as loudly as he could <del type="cancelled">by</del>
+<lb/>putting as is usual <del type="strikethrough"><unclear cert="medium">in</unclear></del>
+<lb/>in such cases his mouth
+<lb/>down near the ground to
+<lb/>make the sound reverberate
+<lb/>The river was too broad
+<lb/>for a ball to reach him
+<lb/>so we let him enjoy himself
+<lb/>certain that he durst not
+<lb/>have been guilty of the impertinence
+<lb/>in the <placeName><region><orgName>Bushman</orgName> country</region></placeName>
+<lb/>Wherever the game abounds
+<lb/>there these animals exist
+<lb/>in proportionate numbers
+<lb/>Here they were very frequently
+<lb/>seen and two of the largest
+
+
+        <pb facs="liv_000100_0157.jpg" n="0157"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">152</add> <add place="inspace" hand="#U1" rend="gray right">156</add> <add place="inspace" hand="#U2" rend="gray right">14</add></fw>
+<lb/>I ever saw looked <subst><del type="cancelled">nearly</del><add place="above">about</add></subst>
+<lb/>as tall as <subst><del type="strikethrough" hand="#U3" rend="red">little</del><add place="above" hand="#U3" rend="red">small</add></subst> <term type="animal"><choice><sic>donkies</sic><corr>donkeys</corr></choice></term><add place="inline" rend="red" hand="#U3">; <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">But</add></add> the
+<lb/><w>mane<del type="strikethrough" hand="#U3" rend="red">s</del></w> made their bodies
+<lb/>look <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">rather</add> larger <del type="strikethrough" hand="#U3" rend="red">than those of
+<lb/>these latter animals</del> - There
+<lb/>is much more danger of
+<lb/>being run over by carriages
+<lb/>in <placeName><settlement type="city">London</settlement></placeName> than there is
+<lb/>of being devoured by <term type="animal">lions</term>
+<lb/>in even the most infested
+<lb/>districts of <placeName><bloc>Africa</bloc></placeName>
+<lb/>Some of the <term type="tribe">Mambari</term>
+<lb/>visited us at <placeName><settlement type="town">Naliele</settlement></placeName> - They
+<lb/>are of the <term type="tribe">Ambonda</term> family
+<lb/>which inhabits the country
+<lb/><placeName><region>South East of <placeName><country>Angola</country></placeName></region></placeName> and
+<lb/>speak the <foreign xml:lang="mck">Bunda</foreign> dialect
+<lb/>which is of the same family
+<lb/>of languages with the <term type="tribe"><choice><sic>Barote</sic><corr>Barotse</corr></choice></term>
+<lb/><term type="tribe">Bayeiye</term> or those <add place="below">^</add> <add place="above">black</add> tribes <w>com-
+<lb break="no"/>prehended</w> under the general
+<lb/>term <orgName>Makalaka</orgName>, They plait
+<lb/>their hair in three fold cords
+<lb/><del type="strikethrough" hand="#U3" rend="red">and lay them</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">which they lay</add> carefully down
+<lb/>the sides of the head - They
+<lb/>are quite as dark as the
+<lb/><term type="tribe">Barotse</term> but <del type="strikethrough" hand="#U3" rend="red">had</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">have among them</add> a number
+<lb/><add place="marginleft" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> cross breeds</note></add> of <del type="cancelled" hand="#U3" rend="red">Bastards</del>  with the peculiar
+<lb/>yellow sickly hue <del type="strikethrough" hand="#U3" rend="red">among
+<lb/>them</del> On enquiring why
+<lb/><metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-254"/>they had fled my approach
+<lb/>to <placeName><settlement type="town">Linyanti</settlement></placeName> they let me know
+<lb/>that they had a vivid idea of
+<lb/><add place="marginleft">the customs of</add> <del type="cancelled">the</del> <term type="nationality">English</term> <choice><sic>cruizers</sic><corr>cruisers</corr></choice> on the coast - <anchor xml:id="meta-254"/>
+
+
+        <pb facs="liv_000100_0158.jpg" n="0158"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">153</add> <add place="inspace" hand="#U1" rend="gray right">157</add></fw>
+<lb/>They <choice><orig>shewed</orig><reg>showed</reg></choice> their habits <subst><del>as</del><add place="over-text">in</add></subst> their
+<lb/>own country by digging <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">up, &amp; eating</add> even here
+<lb/>where large game abounds <add place="inline" hand="#U3" rend="red">-</add>
+<lb/>the <term type="animal">mice</term> and <term type="animal">moles</term> <add place="below">^</add> <add place="above"><del type="strikethrough" hand="#U3" rend="red">for food</del></add> which
+<lb/>infest the country - The half breed
+<lb/>or <orgName><orgName>native</orgName> <term type="people">Portuguese</term></orgName> could all
+<lb/>read and write and the head of
+<lb/>the party <del type="cancelled">seemed</del> if not a real
+<lb/><term type="person">Portuguese</term> had <orgName>European</orgName> hair
+<lb/>and influenced probably by
+<lb/>the letter of <del type="cancelled">co</del>recommendation
+<lb/>which I held from the <persName>Chevalier
+<lb/>Duprat</persName> <choice><abbr>H- M- F-</abbr><expan>His Most Faithful</expan></choice> <add place="below" rend="gray" hand="#U2">^</add> <add place="marginleft" hand="#U2" rend="gray">Majesty's</add> <term type="occupation">Arbitrator</term> in
+<lb/>the <orgName>British and Portuguese mixed
+<lb/>commission <del type="cancelled">at</del> <placeName><settlement type="town">Cape town</settlement></placeName></orgName>
+<lb/>was evidently anxious to
+<lb/><choice><orig>shew</orig><reg>show</reg></choice> me all the kindness in
+<lb/>his power - These persons
+<lb/>I feel assured were the first
+<lb/><add place="marginleft">individuals</add> of <term type="nationality">Portuguese</term> blood who ever
+<lb/>saw the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> in the
+<lb/>centre of the country - and they
+<lb/>had reached it two years
+<lb/>after our discovery in <date when="1851">1851</date> - 
+<lb/>I was labouring under <term type="ailment">fever</term>
+<lb/>and could not then converse
+<lb/>in Portuguese so I could learn
+<lb/><add place="marginleft" hand="#U3" rend="red">but</add> little from <del type="cancelled">them</del> our short intercourse
+<lb/><metamark function="placeMark" rend="gray" resp="#U2"/> <metamark function="newParagraph">#</metamark> A party of <orgName>Arabs</orgName> from <placeName><geogName type="island">Zanzibar</geogName></placeName>
+<lb/>were also in the country at
+<lb/>this time - <persName>Sekeletu</persName> had gone
+<lb/>from <placeName><settlement type="town">Naliele</settlement></placeName> to the town
+<lb/>of his mother before we
+<lb/>arrived from the North
+                
+                
+        <pb facs="liv_000100_0159.jpg" n="0159"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">154</add> <add place="inspace" hand="#U1" rend="gray right">158</add></fw>               
+<lb/>but left an <term type="animal">ox</term> - for <del type="cancelled">me</del> our use
+<lb/><add place="above" rend="red" hand="#U3"><gap extent="1" unit="chars" agent="illegible"/></add><del type="strikethrough" rend="red" hand="#U3">and</del><!-- the letter added by #U3 above 'and' is illegible.JL --> instructions <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">for us</add> to follow
+<lb/>him thither - We came down the
+<lb/>branch of the <geogName type="river">Leeambye</geogName> called
+<lb/><placeName><geogName type="river">Marile</geogName></placeName> a fine deep stream
+<lb/>about <measure>60 yards wide</measure> which
+<lb/>makes the whole of the country
+<lb/>around <placeName><settlement type="town">Naliele</settlement></placeName> an island
+<lb/>When sleeping at a village on
+<lb/>the same latitude as <placeName><settlement type="town">Naliele</settlement></placeName>
+<lb/>town two of the <orgName>Arabs</orgName> mentioned
+<lb/>made their appearance - They
+<lb/>were quite as dark as the
+<lb/><term type="tribe">Makololo</term> and having their
+<lb/>heads shaved I could not
+<lb/>compare their hair <subst><add place="above" hand="#U3" rend="red">with</add><del type="strikethrough" hand="#U3" rend="red">to</del></subst> <subst><del>theirs</del><add place="over-text">that</add></subst>
+<lb/>of the inhabitants of the country
+<lb/>When <add place="below">^</add> <add place="above">they were</add> about to <del type="strikethrough">part</del> <add place="below">^</add> <add place="above">leave</add> they came
+<lb/>to bid <foreign xml:lang="fr">adieu</foreign> but I asked them
+<lb/>to stay &amp; help us to eat our <term type="animal">ox</term>
+<lb/>As they had scruples about
+<lb/>eating an animal not blooded
+<lb/>in their way I gained their
+<lb/>affection by saying I was
+<lb/>quite of their opinion as to
+<lb/>getting quit of the blood - and
+<lb/><add place="marginleft" hand="#U3" rend="red">I gave</add> <del type="strikethrough" hand="#U3" rend="red">giving</del> them two legs of an
+<lb/>animal slaughtered by themselves - 
+<lb/>They professed the greatest
+<lb/>detestation for the <term type="people">Portuguese</term>
+<lb/>"because they eat <term type="animal"><term type="foodstuff">pigs</term></term>" and
+<lb/>the <term type="people">English</term> "because they
+<lb/>thrash them for selling <orgName>slaves</orgName>"
+<lb/>I was silent about <term type="foodstuff">pork</term>
+
+
+        <pb facs="liv_000100_0160.jpg" n="0160"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">155</add> <add place="inspace" hand="#U1" rend="gray right">159</add></fw>
+<lb/>though had they seen me at a
+<lb/><term type="animal"><choice><sic>hippotamus</sic><corr>hippopotamus</corr></choice></term> two days afterwards
+<lb/>they would have set me down
+<lb/>as <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">being as</add> much a heretic as any of
+<lb/>that nation - but I ventured
+<lb/><add place="marginleft" hand="#U3" rend="red">to tell him that
+    <lb/>I agreed</add>
+<del type="strikethrough" hand="#U3" rend="red">to think</del> with the <term type="people">English</term> that
+<lb/>it was better <del type="cancelled">to</del> let the children
+<lb/>grow up and comfort their
+<lb/>mothers when they became old
+<lb/>than <add place="inline" hand="#U3" rend="red">to</add> carry them away and
+<lb/>sell them <w>ac<del type="strikethrough">c</del>ross</w> the sea
+<lb/>This they never attempt to
+<lb/>justify "they want them only
+<lb/>to cultivate the land - and take
+<lb/>care of them as their children"
+<lb/>It is the same old story - justifying
+<lb/>a monstrous wrong on pretence
+<lb/>of taking care of those degraded
+<lb/>portions of humanity which
+<lb/>cannot take care of themselves - 
+<lb/>doing evil that good may
+<lb/>come - </p>
+<lb/><p>These <orgName>Arabs</orgName> or <orgName>Moors</orgName> could
+<lb/>read and write in their own
+<lb/><add place="marginleft" hand="#U3" rend="red">language</add> <del type="strikethrough" hand="#U3" rend="red">characters</del> readily - And when
+<lb/>speaking about our saviour
+<lb/>I admired the boldness with
+<lb/>which they informed me "that
+<lb/><persName>Christ</persName> was a very good
+<lb/><term type="occupation">prophet</term> but <persName>Mahomet</persName> was
+<lb/>far greater" and with respect
+<lb/>to their loathing of <term type="foodstuff">pork</term> it may
+<lb/>have some foundation in
+<lb/>their nature for I have known
+<lb/><term type="tribe">Bechuanas</term> who have no               
+
+
+        <pb facs="liv_000100_0161.jpg" n="0161"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">156</add> <add place="inspace" hand="#U1" rend="gray right">160</add> <add place="inspace" hand="#U2" rend="gray right">18</add></fw>
+<lb/>prejudice against the wild
+<lb/>animal eat the tame without
+<lb/>scruple and unconscious of
+<lb/>any reason eject it again
+<lb/><add place="marginleft"><del type="cancelled"><term type="tribe">Bechuanas</term></del></add> <del type="cancelled">They have als</del> The <term type="tribe">Bechuanas</term>
+<lb/>South of the Lake have a
+<lb/>prejudice against eating <term type="animal"><term type="foodstuff">fish</term></term>
+<lb/>and <choice><orig>alledge</orig><reg>allege</reg></choice> a disgust to eating
+<lb/>anything like a <term type="animal"><term type="foodstuff">serpent</term></term> - this
+<lb/>may arise from the remnants
+<lb/>of <term type="animal">serpent</term> worship floating
+<lb/>in their minds as in addition
+<lb/>to this horror of eating <del type="strikethrough">them</del>
+<lb/><del type="strikethrough"><metamark place="marginleft" resp="#U3" rend="red"><choice><abbr>Qu.</abbr><expan>Query</expan></choice></metamark></del> such <del type="strikethrough"><hi rend="red underline" resp="#U3">formed</hi></del> animals they
+<lb/>sometimes render a sort of
+<lb/>obeisance to living <term type="animal">serpents</term>
+<lb/>by clapping the hands to them
+<lb/>and refusing to destroy the
+<lb/><term type="animal">reptiles</term> - but in the case of
+<lb/><subst><del type="strikethrough" hand="#U3" rend="red">they</del><add place="above" hand="#U3" rend="red">the</add></subst> <term type="animal">sow</term> they are conscious
+<lb/>of no such feeling</p>
+<lb/><p>Having parted with
+<lb/>our <orgName>Arab</orgName> friends we proceeded
+<lb/>down the <placeName><geogName type="river">Marile</geogName></placeName> till we
+<lb/>re-entered the <placeName><geogName type="river">Leeambye</geogName></placeName> &amp;
+<lb/>went to the town of <placeName><settlement type="town"><persName><w>Ma-
+<lb break="no"/>-sekeletu</w></persName></settlement></placeName> (Mother of <persName>Sekeletu</persName>
+<lb/>opposite the island of
+<lb/><placeName><geogName type="island">Loyela</geogName></placeName> - <del type="strikethrough" hand="#U3" rend="red">He</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"><persName>Sekeletu</persName></add> had always
+<lb/>supplied me most liberally
+<lb/>with food and as soon
+<lb/>as I arrived presented <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">me with</add> a
+<lb/>pot of <term type="foodstuff">boiled meat</term> while
+<lb/>his mother handed <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">me</add> a large
+<lb/>pot of <term type="foodstuff">butter</term> of which they                
+
+
+
+        <pb facs="liv_000100_0162.jpg" n="0162"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">157</add> <add place="inspace" hand="#U1" rend="gray right">161</add></fw>
+<lb/><add place="marginleft" hand="#U3" rend="red">make</add> large quantities for the purpose
+<lb/>of anointing their bodies
+<lb/>He had <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">himself sometimes</add> felt the benefit of my
+<lb/>way of putting aside a quantity
+<lb/>of the <term type="foodstuff">meat</term> after a meal 
+<lb/><del type="cancelled"><unclear cert="medium">In their w</unclear></del> and <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">had</add> now followed
+<lb/>my example by ordering some
+<lb/>to be kept for me - In their
+<lb/>way every particle of an <term type="animal">ox</term>
+<lb/>is devoured at <choice><sic>onc<del type="strikethrough" hand="#U3" rend="red">e</del></sic><corr>one</corr></choice> <add place="above" hand="#U3" rend="red">meal</add> and
+<lb/>as the <term type="occupation">chief</term> cannot without
+<lb/><del type="cancelled">an innovation on their</del>
+<lb/><add place="marginleft"><metamark function="insertion"/>a deviation
+    <lb/>from their</add>
+customs eat alone he is
+<lb/>often compelled to suffer
+<lb/>severely from hunger before
+<lb/>another meal is ready
+<lb/>We henceforth always worked
+<lb/><add place="marginleft" hand="#U3" rend="red">in</add> to each <choice><sic>others</sic><corr>other's</corr></choice> hands by saving
+<lb/>a little for each other &amp; <choice><sic>When</sic><corr>when</corr></choice>
+<lb/>some of the sticklers for use
+<lb/>and <subst><del type="strikethrough" hand="#U3" rend="red">wont</del><add place="above" hand="#U3" rend="red">custom</add></subst> grumbled I
+<lb/>advised them to eat like men
+<lb/>and not <subst><del type="strikethrough" hand="#U3" rend="red">as</del><add place="above" hand="#U3" rend="red">like</add></subst> <term type="animal">vultures</term> - </p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> As this was the first
+<lb/>visit which <persName>Sekeletu</persName> had
+<lb/>paid to his dominions here
+<lb/>it was a season of great
+<lb/>joy - The <term type="occupation">headmen</term> of each
+<lb/>village presented <term type="animal">oxen</term> - <term type="foodstuff">milk</term>
+<lb/>and <term type="foodstuff">beer</term> more than the
+<lb/>horde that accompanied
+<lb/>us could devour though
+<lb/>their abilities in that line
+<lb/>are something wonderful
+
+
+        <pb facs="liv_000100_0163.jpg" n="0163"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">158</add> <add place="inspace" hand="#U1" rend="gray right">162</add></fw>
+<lb/>They usually <choice><orig>shew</orig><reg>show</reg></choice> their joy and
+<lb/><add place="marginleft" hand="#U3" rend="red">work</add> <del type="strikethrough" hand="#U3" rend="red">let</del> off their excitement in
+<lb/>dances and songs - The dance
+<lb/>consists of the men standing
+<lb/><add place="marginleft">nearly naked <add place="below">^</add></add> in a circle with clubs or
+<lb/>small battle axes in their
+<lb/>hands and each roaring at
+<lb/>the loudest pitch of his voice
+<lb/>while they simultaneously
+<lb/>lift one leg, stamp heavily
+<lb/><add place="marginleft">twice</add> with that - then lift the
+<lb/>other and give one stamp
+<lb/>with that - <add place="marginleft"><metamark function="insertion"/>This is the
+    <lb/>only movement
+    <lb/>in common</add>
+The arms and
+<lb/>head are thrown about
+<lb/>also <subst><del>a</del><add place="over-text">i</add></subst>n every direction
+<lb/><subst><del type="strikethrough" hand="#U3" rend="red">at the same</del><add place="above" hand="#U3" rend="red">all this</add></subst> time <del type="strikethrough" hand="#U3" rend="red">that</del> the
+<lb/>roaring is kept up with
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>153</note></add><!-- number is circled.JL --> <subst><add place="above" hand="#U3" rend="red">the utmost</add><del type="strikethrough" hand="#U3" rend="red">all</del></subst> <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- gray bracket connects to the circled number.JL -->possible vigour <add place="marginleft"><metamark function="insertion"/>the continued
+    <lb/>stamping 
+    <lb/>on the ground
+    <lb/>makes a
+    <lb/>cloud of dust
+    <lb/>ascend and
+    <lb/>they leave
+    <lb/>a deep ring
+    <lb/>in the ground
+    <lb/>where they
+    <lb/>stand</add>
+- If the
+<lb/>scene were witnessed in a
+<lb/>lunatic asylum it would
+<lb/>be thoroughly understood
+<lb/>and quite appropriate as
+<lb/>a means of letting off the
+<lb/>excess excitement of
+<lb/>the brain - but here grey
+<lb/>headed men joined in the
+<lb/>performance with as much
+<lb/>zest as men whose youth
+<lb/>might be an excuse for making
+<lb/>the perspiration stream off
+<lb/>their bodies with the <w>exertion<del type="strikethrough">s</del></w>
+<lb/><del type="cancelled">made</del> - <subst><add place="above"><persName>Motibe</persName></add><del type="cancelled">Some</del></subst> <add place="below">^</add> <add place="above"><del type="cancelled">one</del></add> asked what
+<lb/>I thought of the <term type="tribe">Makololo</term>
+<lb/>dance - I replied "it is very
+<lb/>hard work &amp; <add place="below">^</add> <add place="above">brings</add> very small profit"
+    
+
+    <pb facs="liv_000100_0164.jpg" n="0164"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">159</add> <add place="inspace" hand="#U1" rend="gray right">163</add></fw>
+<lb/>"It is" replied he, "but it is very nice,
+<lb/>and <persName>Sekeletu</persName> will give us an
+<lb/><term type="animal">ox</term> for dancing for him" - He
+<lb/>usually does slaughter an <term type="animal">ox</term>
+<lb/>for the dancers when the work
+<lb/>is over - </p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The women stand by clapping
+<lb/>their hands and occasionally
+<lb/>one enters into the circle <w>com-
+<lb break="no"/>-posed</w> of a hundred men make
+<lb/>a few movements and then
+<lb/>retires - As I never tried
+<lb/>it and am unable to enter
+<lb/>into the spirit of the thing I cannot
+<lb/>recommend the <term type="tribe">Makololo</term>
+<lb/>Polka to the dancing world
+<lb/>but I have the authority of no
+<lb/><add place="marginleft">less a person than</add> <persName>Motibe</persName>, <add place="above"><del type="cancelled">no</del></add> <persName>Sekeletu</persName>'s father in law
+<lb/>for saying "it is very nice"
+<lb/>They often asked if white
+<lb/>people ever danced <del type="cancelled">I explained</del>
+<lb/><add place="marginleft">I thought of the</add> <del type="cancelled">that we had a</del> disease
+<lb/><del type="strikethrough">we</del> called <term type="ailment">St. Vitus' dance</term>
+<lb/>but could not say all our
+<lb/>dancers were affected by
+<lb/>it and gave an answer
+<lb/>which I fear did not
+<lb/>raise our young country women
+<lb/>in the estimation of the
+<lb/><term type="tribe">Makololo</term></p>
+
+
+        <pb facs="liv_000100_0165.jpg" n="0165"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">160</add> <add place="inspace" hand="#U1" rend="gray right">164</add></fw>
+<lb/><p>As <persName>Sekeletu</persName> had been
+<lb/>waiting for me at his Mother's
+<lb/>we left <del type="strikethrough" hand="#U3" rend="red">that</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="#U3" rend="red">the</add> town as soon
+<lb/>as I arrived and proceeded
+<lb/>down the river - Our speed
+<lb/>with the stream was <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">very</add> <del type="strikethrough" hand="#U3" rend="red">much</del>
+<lb/><w>great<del type="strikethrough" hand="#U3" rend="red">er</del></w> <del type="strikethrough" hand="#U3" rend="red">than against it</del> - for
+<lb/>in one day we went from
+<lb/><placeName><settlement type="village">Litofe</settlement></placeName> to <placeName><geogName type="waterfall">Gonye</geogName></placeName> a distance
+<lb/>of <measure>44 miles of latitude</measure> and
+<lb/>if we add to this the longitude
+<lb/>of the windings of the river
+<lb/>the distance will not be
+<lb/>much less than <measure>60 Geographical
+<lb/>miles</measure> - At this rate we soon
+<lb/>reached <placeName><settlement type="town">Sesheke</settlement></placeName> and then
+<lb/>the town of <placeName><settlement type="town">Linyanti</settlement></placeName> - <metamark function="newParagraph" rend="red" resp="#U3">⎡</metamark>I had
+<lb/><del type="strikethrough" hand="#U3" rend="red">thus</del> been during a nine
+<lb/><choice><sic>weeks</sic><corr>weeks'</corr></choice> tour in <del type="cancelled">p</del>closer contact
+<lb/>with heathenism than I had
+<lb/>ever been before and <w>though<del type="cancelled">t</del></w>
+<lb/>all including the <term type="occupation">chief</term> were
+<lb/>as kind and attentive to me
+<lb/>as possible - and there was
+<lb/>no want of food, <term type="animal">oxen</term> being
+<lb/>slaughtered daily (sometimes
+<lb/>ten at a time) more than
+<lb/>sufficient for the wants
+<lb/>of all, yet to endure the dancing
+<lb/>rowing and singing - the
+<lb/>jesting anecdotes, grumbling
+<lb/>quarrelling and murdering
+<lb/>of these children of nature
+<lb/>seemed more like a <del type="strikethrough" hand="#U3" rend="red">pretty</del>
+<lb/><add place="marginleft" hand="#U3" rend="red">severe</add> <del type="strikethrough" hand="#U3" rend="red">stiff</del> penance than anything
+
+
+        <pb facs="liv_000100_0166.jpg" n="0166"/>                           
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">161</add> <add place="inspace" hand="#U1" rend="gray right">165</add></fw>
+<lb/><del type="strikethrough" hand="#U3" rend="red">missionary</del> I had <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">before</add> met <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">with</add> <del type="strikethrough" hand="#U3" rend="red">before</del>
+<lb/><add place="marginleft" hand="#U3" rend="red"><metamark function="insertion"/>in the course of my
+    <lb/><term type="occupation">missionary</term> duties</add>
+<add place="inline" rend="red" hand="#U3">^</add> I took thence a more intense
+<lb/>disgust at  heathenism than
+<lb/>I held before and formed
+<lb/>a <subst><del type="strikethrough" hand="#U3" rend="red">much higher</del><add place="above" hand="#U3" rend="red">greatly elevated</add></subst> opinion of
+<lb/>the latent effects of
+<lb/>of missions in the South <del type="cancelled">than</del>
+<lb/><add place="marginleft" hand="#U3" rend="red">among tribes</add> which are reported to have
+<lb/>been as savage as the <term type="tribe">Makololo</term>
+<lb/><del type="strikethrough" hand="#U3" rend="red">than I ever possessed before</del>
+<lb/>The indirect benefits <subst><del type="strikethrough" hand="#U3" rend="red">that</del><add place="below" hand="#U3" rend="red">which</add></subst> to
+<lb/>a casual observer lie beneath
+<lb/>the surface and are inappreciable
+<lb/>are <del type="strikethrough">worth</del> <del type="cancelled">in</del> in reference to
+<lb/>the probable wide diffusion
+<lb/>of <term type="religion">Christianity</term> <add place="marginleft" rend="red" hand="#U3">at some future time <add place="below">^</add></add> worth all the
+<lb/>money and labour that
+<lb/>have been expended <add place="inline" hand="#U3" rend="red">to produce
+<lb/>them - </add></p>
+<lb/><space dim="vertical" extent="15" unit="lines"/>
+                
+                
+        <pb facs="liv_000100_0167.jpg" n="0167"/>                           
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">162</add> <add place="inspace" hand="#U1" rend="gray right">166</add></fw>
+<lb/><note place="inline"><placeName><settlement type="town">Linyanti</settlement></placeName> <date when="1853-09"><hi rend="underline">September</hi> 1853</date></note></p>
+<lb/><p>The object proposed to<!-- start of Ch XIII, p.227 in MT -->
+<lb/>the <term type="tribe">Makololo</term> seemed so desirable
+<lb/>that it was resolved to proceed
+<lb/>with it as soon as the cooling
+<lb/>influence of the <seg type="weather">rains</seg> should
+<lb/>be felt in <date when="1853-10">November</date> - The
+<lb/>Longitude of <placeName><settlement type="town">Linyanti</settlement></placeName> <choice><orig>shewed</orig><reg>showed</reg></choice>
+<lb/>that <add place="below">^</add> <placeName><settlement type="city"><choice><orig><add place="marginleft">St Phillip de</add> Benguela</orig><reg>Benguela</reg></choice></settlement></placeName> was much
+<lb/>nearer to us than <placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
+<lb/>and I might have easily
+<lb/><subst><del>gone</del><add place="over-text">made</add></subst> arrangements with
+<lb/>the <term type="tribe">Mambari</term> to allow
+<lb/>me to accompany them
+<lb/>as far as <placeName><geogName type="plateau">Bihe</geogName></placeName> which
+<lb/>is on the road to that
+<lb/>part - but it is so undesirable
+<lb/>to travel in a path once
+<lb/>trodden by <orgName><term type="occupation"><orgName>slave</orgName> traders</term></orgName> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">that</add> I
+<lb/>preferred to find out another
+<lb/>line of march - </p>
+<lb/><p>Accordingly men were
+<lb/>sent at my suggestion
+<lb/>to examine all the country
+<lb/>to the <del type="cancelled">North</del> West to see if
+<lb/>any belt of country free
+<lb/>from <term type="insect">Tsetse</term> could be
+<lb/>found for a passage out
+<lb/>The search was fruitless
+<lb/>The town &amp; district of <placeName><settlement type="town">Linyanti</settlement></placeName>
+<lb/>is surrounded by forests
+<lb/>infested by <w>th<subst><del>e</del><add place="over-text" hand="#U3" rend="red">is</add></subst></w> poisonous
+<lb/>insect except at a few
+<lb/>points as that by which</p>
+
+            </div>
+        </body>
+    </text>
+
+</TEI>

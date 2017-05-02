@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000099">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+                <author>David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <respStmt xml:id="JL">
+                    <name>Justin Livingstone</name>
+                    <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+                </respStmt>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Encoding Consultant</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="JG">
+                    <name>Johanna Green</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+				<respStmt xml:id="PS">
+                    <name>Peter Slater</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>UCLA Digital Library</publisher>
+                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <!-- Possible year update. -->
+                <date>2014</date>
+                <availability>
+                <!-- Possible license change. -->
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License
+                        </ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS.42428</idno><!-- This may change with each volume of the MS. -->
+                        <altIdentifier>
+                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                            <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+							<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote>
+<!-- Change/expand as appropriate. See encoding manual #21. -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+
+                <bibl type="sourceMetadata">
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="tn">Tswana</language>
+				<language ident="und">Undetermined</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>        	
+            <change when="2016-02-04" who="#JL">Further encoding review</change>
+        	<change when="2014-10-27" who="#JL">Encoding Review</change>
+			<change when="2014-08-04" who="#KS">Proofing</change>
+            <change when="2013-07-01" who="#JG">Initial transcription and XML encoding</change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body rend="right">
+            <div>
+     
+                <pb facs="liv_000099_0030.jpg" n="0030"/>
+                           
+<lb/><p rend="no-indent"><note place="marginleft">II.</note> <fw><add place="inspace" hand="#U2" rend="gray right">25</add> <add place="inspace" rend="gray right" hand="#U1">28</add></fw>
+<lb/>When <persName>Sechele</persName> was still a boy his father
+<lb/>was murdered by his own people for
+<lb/>making free with the wives of his
+<lb/><unclear cert="medium">rich</unclear> <term type="occupation">underchiefs</term>, The children being
+<lb/>spared<add place="inline" rend="gray" hand="#U2">,</add> their friends invited <persName>Sebituane</persName>
+<lb/>then in those parts to reinstate them in
+<lb/>the <term type="occupation">chieftainship</term> - <persName>Sebituane</persName> surrounded
+<lb/>the<del>ir</del> town of the <term type="tribe">Bakwena</term> by night &amp;
+<lb/>just as it began to dawn his herald
+<lb/>proclaimed in a loud voice that he
+<lb/>had come to revenge the death of
+<lb/><persName>Mochoasele</persName> - <del type="strikethrough">the pain</del> this was
+<lb/>followed by <metamark function="insertion"/><anchor xml:id="reorder-12"/> <del type="strikethrough">a</del> beating <add place="below">^</add> <add place="above">loudly</add> on their shields
+<lb/><metamark function="reorder" spanTo="#meta-33"/><seg corresp="#reorder-12">of <persName>Sebituane's</persName> people</seg><anchor xml:id="meta-33"/> all round the
+<lb/>town <unclear cert="medium">-</unclear> The panic was tremendous
+<lb/>and the rush like that of a theatre on
+<lb/>fire while the <term type="tribe">Makololo</term> used their
+<lb/>javelins on the terrified males <del type="strikethrough">as they</del>
+<lb/><add place="marginleft">with a dexterity they</add> alone can employ - <persName>Sebituane</persName> had
+<lb/>given orders to his men to spare
+<lb/>the sons of the <term type="occupation">chief</term> and one of
+<lb/>them <subst><del>to</del><add place="over-text">m</add></subst>eeting <persName>Sechele</persName> put him in
+<lb/>ward by giving him such a crack
+<lb/>with a club on the head as to
+<lb/>render him insensible, The usurper
+<lb/>was put to death and <persName>Sechele</persName> reinstated
+<lb/>in his <term type="occupation">chieftainship</term> felt <add place="below">^</add> <add place="above">much</add> attached
+<lb/>to <persName>Sebituane</persName> - The influence here
+<lb/>noticed it will <add place="below">^</add> <add place="above">yet</add> be seen led me
+<lb/>at last into the new well watered
+<lb/>country to which this same <persName>Sebituane</persName>
+<lb/>had preceded me - by many years - </p>
+<lb/><p><persName>Sechele</persName> married the daughters of
+<lb/>three of his <term type="occupation">underchiefs</term> who had
+<lb/>on account of their <choice><sic>bloodrelationship</sic><corr>blood relationship</corr></choice>
+
+<pb facs="liv_000099_0031.jpg" n="0031"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">26</add> <add place="inspace" rend="gray right" hand="#U1">29</add></fw>
+<lb/>stood by him in his adversity - This is
+<lb/>one of the modes adopted for cementing
+<lb/>the allegiance of a tribe - the <orgName>Government</orgName>
+<lb/>is patriarchal, each man being
+<lb/>by virtue of paternity <term type="occupation">chief</term> of his
+<lb/>own children - They build their
+<lb/>huts around his and the greater
+<lb/>the number of children the more
+<lb/>his importance increases - Hence
+<lb/>children are esteemed one of the
+<lb/>greatest blessings and <add place="inline">are</add> always
+<lb/>treated kindly - Near the centre of 
+<lb/>each circle <add place="below">^</add> <add place="above">of huts</add> there is a spot called
+<lb/>a "<foreign xml:lang="tn">Kotla</foreign>" with a fire place in
+<lb/>which they work, eat or sit and
+<lb/>gossip over the news of the day
+<lb/>A poor man attaches himself to the
+<lb/><foreign xml:lang="tn">Kotla</foreign> of a rich one and is considered
+<lb/>a child of the latter - An <term type="occupation">underchief</term>
+<lb/>has a number of these circles
+<lb/>around his and the collection
+<lb/>of <foreign xml:lang="tn">Kotlas</foreign> around the great one
+<lb/>in the middle of the <del type="strikethrough">town</del> whole
+<lb/><del type="strikethrough">or</del> that of the <term type="occupation">chief</term> constitutes the
+<lb/>town - The circle of huts immediately
+<lb/>around the <foreign xml:lang="tn">Kotla</foreign> of the <term type="occupation">chief</term> is
+<lb/>composed of the <del type="strikethrough"><choice><sic>wives</sic><corr>wives'</corr></choice></del> huts of his
+<lb/>wives and those of his blood
+<lb/>relations - He attaches the <term type="occupation">underchiefs</term>
+<lb/>to himself and government by
+<lb/>marrying as <persName>Sechele</persName> did their
+<lb/>daughters or inducing his brothers
+<lb/>to do so. They are fond of the
+<lb/>relationship to great families
+
+                <pb facs="liv_000099_0032.jpg" n="0032"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">27</add> <add place="inspace" rend="gray right" hand="#U1">30</add></fw>
+<lb/>If you meet a party of strangers and
+<lb/>the <term type="occupation">headman</term>'s relationship to some
+<lb/>uncle of a certain <term type="occupation">chief</term> is not at once
+<lb/>proclaimed by his attendants you
+<lb/>may hear him whispering "tell
+<lb/>him who I am - " This usually
+<lb/>involves a counting on the fingers
+<lb/><add place="marginleft">of</add> a part of his genealogical tree ending <add place="marginleft"><lb/>by the important
+		<lb/>fact that the 
+		<lb/>head of the party
+		<lb/>is half cousin
+		<lb/>to some well
+		<lb/>known ruler</add></p>
+<lb/><p><persName>Sechele</persName> was thus firmly seated
+<lb/>in his <term type="occupation">chieftainship</term> when I made
+<lb/>his acquaintance, On the first
+<lb/>occasion in which I ever
+<lb/>attempted to hold a public religious
+<lb/>service he remarked that it was
+<lb/>their custom when any new
+<lb/>subject was brought before them
+<lb/>to put questions on it - and he
+<lb/>begged me to allow him to do the same
+<lb/>in this case, On expressing my
+<lb/>entire willingness to answer
+<lb/>him - He enquired if my forefathers
+<lb/>knew of a future judgment, I replied
+<lb/>in the affirmative and began to
+<lb/>describe the scene of the "great white
+<lb/>throne and him who shall sit on
+<lb/>it from whose face the heaven
+<lb/>and earth shall flee away - " &amp;c.
+<lb/>He said "You startle me - these words
+<lb/>make all my bones to shake
+<lb/>I have no more strength in me - "
+<lb/>but my forefathers were living
+<lb/>at the same time yours were
+<lb/>and how is it they did not
+<lb/>send word about these terrible
+<lb/>things sooner? They all passed
+
+                <pb facs="liv_000099_0033.jpg" n="0033"/>
+<fw><add place="inspace" hand="#U2" rend="gray right">28</add> <add place="inspace" rend="gray right" hand="#U1">31</add></fw>
+<lb/><seg rend="left">away into darkness without knowing whither <!-- this portion of text is written across the full page, and is not rendered to the right as is usual for DL. jl -->
+<lb/>they were going - " I got out of the difficulty by
+<lb/>explaining the geographical barriers in the
+<lb/>North and the gradual spread of knowledge
+<lb/>from the South to which we first had access
+<lb/>by means of ships, and expressed my belief
+<lb/>that as Christ had said it so the whole world
+<lb/>would yet be enlightened, Pointing to the great
+<lb/><placeName><geogName type="desert">Kalahari desert</geogName></placeName> he said, you never can
+<lb/>cross that country to the tribes beyond, it is utterly
+<lb/>impossible even for us black men except <seg type="weather">in
+<lb/>certain seasons when more than the usual
+<lb/>supply of rain falls</seg> and an extraordinary
+<lb/>growth of <term type="plant_foodstuff">water melons</term> follows - Even we
+<lb/>who know the country would certainly perish
+<lb/>without them - Re-asserting my belief in the</seg>
+<lb/>words of Christ we parted and
+<lb/>it will be seen farther on that
+<lb/><persName>Sechele</persName> himself assisted in 
+<lb/>crossing that Desert<!-- Kalahari Desert --> which had
+<lb/>proved an insurmountable barrier
+<lb/>to so many adventurers</p>
+<lb/><p><metamark function="placeMark" place="marginleft" resp="#U2" rend="gray"/> As soon as he had an opportunity
+<lb/>of learning he set <choice><sic>himsef</sic><corr>himself</corr></choice> to read
+<lb/>with such close application was
+<lb/>that from being comparatively
+<lb/>thin the effect <add place="above">of</add> having been
+<lb/>fond of the chase <del type="cancelled">that</del> he became
+<lb/>quite corpulent, <persName><choice><sic>Mr Oswel</sic><corr>Mr Oswell</corr></choice></persName> <del type="cancelled">gave</del>
+<lb/>gave him his first lesson
+<lb/><add place="marginleft">at figures</add> <add place="marginleft">^</add> and he acquired the alphabet
+<lb/>on the first day of my residence
+<lb/><add place="marginleft">at <placeName><settlement type="village">Chonuane</settlement></placeName></add> <del type="cancelled">with him - </del> He was by no means
+<lb/><add place="marginleft">an ordinary</add> <del type="strikethrough">a fair</del> specimen of the people
+
+                <pb facs="liv_000099_0034.jpg" n="0034"/>
+<lb/><fw><add place="inline" hand="#U2" rend="gray right">29</add> <add place="inline" rend="gray right" hand="#U1">32</add></fw>
+<lb/>for I never went into the town
+<lb/>but was pressed to hear him read
+<lb/>some chapters of the <bibl>bible</bibl> <add place="marginleft"><metamark function="insertion"/><persName>Isaiah</persName> was a
+		<lb/>great favourite
+		<lb/>and he used
+		<lb/>the same phrase
+		<lb/>nearly as our
+		<lb/><term type="occupatoin">Professor</term> of
+		<lb/>Greek at <placeName><settlement type="city">Glasgow</settlement></placeName>
+		<lb/><persName>Sir D. K. Sandford</persName>
+		<lb/>used respecting
+		<lb/>the <term type="occupation">apostle</term> <persName>Paul</persName>
+		<lb/>when reading <subst><del>the</del><add place="over-text">his</add></subst>
+		<lb/><del type="cancelled">Acts</del>. speeches
+		<lb/>in the <bibl>Acts</bibl> - "
+		<lb/>"He was a fine"
+		<lb/>fellow that <persName>Paul</persName>"
+		<lb/>"He was a fine
+		<lb/>man that <persName>Isaiah</persName>
+		<lb/>He knew how 
+		<lb/>to speak"</add> 
+and
+<lb/>he invariably made an offer
+<lb/>of something to eat on every
+<lb/>occasion of visiting him -
+<lb/>Seeing me anxious that his people
+<lb/>should believe the words of Christ
+<lb/>he said once "Do you imagine
+<lb/>these people will ever believe
+<lb/>by merely talking to them - I can
+<lb/>do nothing but by thrashing them
+<lb/>and if you like I shall call
+<lb/>my headmen and with our
+<lb/>"<foreign xml:lang="und">litupa</foreign>" (whips of <term type="animal">Rhinoceros</term> hide) we
+<lb/>shall soon make them all
+<lb/>believe together - " The idea of using
+<lb/>entreaty <metamark function="insertion"/><anchor xml:id="reorder-13"/> to subjects whose opinion
+<lb/>on no other subject he would ask
+<lb/><metamark function="reorder" spanTo="#meta-34"/><seg corresp="#reorder-13">and persuasion</seg><anchor xml:id="meta-34"/> to become <orgName>Christians</orgName>
+<lb/>which they ought if he ordered them
+<lb/>only to be too happy to <subst><del type="strikethrough">adopt</del><add place="above">embrace</add></subst> <subst><del>was</del><add place="over-text">were</add></subst>
+<lb/>especially surprising - During
+<lb/>the space of two and a half years
+<lb/>he continued to profess to his people
+<lb/><unclear cert="medium"><subst><del>the</del><add place="over-text">his</add></subst></unclear> full conviction of the truth of
+<lb/><term type="faith">Christianity</term> - and in all discussions
+<lb/>on the subject he took that side
+<lb/>acting at the same time in an
+<lb/>upright manner in all his
+<lb/>relations - He felt the difficulties
+<lb/>of his situation long before
+<lb/>I did and often said, "O
+<lb/>I wish you had come to this
+<lb/>country before I became
+
+                <pb facs="liv_000099_0035.jpg" n="0035"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">30</add> <add place="inspace" hand="#U1" rend="gray right">33</add></fw>
+<lb/>in the meshes of our customs"
+<lb/>In fact he could not get rid of his
+<lb/>superfluous wives without
+<lb/>appearing to be ungrateful to
+<lb/>their parents <unclear cert="medium"><subst><del>too</del><add place="over-text">who</add></subst></unclear> had done
+<lb/>so much for him in his
+<lb/>adversity - </p>
+<lb/><p>In the hoping that others
+<lb/>would be induced to join him
+<lb/>in his attachment to <term type="faith">Christianity</term>
+<lb/>he asked me to begin <del type="strikethrough">with him</del>
+<lb/>family worship with him in
+<lb/>his house. I did so and by &amp;
+<lb/>by was surprised to hear him
+<lb/>conduct the prayer in his
+<lb/>own simple and beautiful
+<lb/>style for he was quite a
+<lb/>master of his own vernacular
+<lb/>We were suffering from the
+<lb/>effects of a <seg type="weather">drought</seg> which 
+<lb/>will be described and none
+<lb/>except his family whom
+<lb/>he ordered to attend came near
+<lb/>his meeting - "In former times"
+<lb/>said he "When a <term type="occupation">chief</term> was
+<lb/>fond of hunting, all his people
+<lb/>got dogs and became fond
+<lb/>of hunting too: If fond of
+<lb/>dancing or music all <choice><orig>shewed</orig><reg>showed</reg></choice>
+<lb/>a liking to these amusements
+<lb/>too. If he loved <term type="foodstuff">beer</term> they all
+<lb/>rejoiced in <term type="foodstuff">strong drink</term> - But
+<lb/>in this case it is different,
+<lb/>I love the word of God and not
+<lb/>one of my brethren will join me"
+
+                <pb facs="liv_000099_0036.jpg" n="0036"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">31</add> <add place="inspace" hand="#U1" rend="gray right">34</add></fw>
+<lb/>One reason why we had no
+<lb/>volunteer hypocrites was the
+<lb/>hunger <add place="below">^</add> <add place="above">from <seg type="weather">drought</seg></add> which was associated
+<lb/>in their minds with the presence
+<lb/>of <term type="faith">Christian</term> instruction and I
+<lb/>believe hypocrisy is not
+<lb/>prone to taking the line which
+<lb/><add place="marginleft">seems to</add> ensure<del type="strikethrough">-</del> empty stomachs</p>
+<lb/>                
+<lb/><p><metamark function="placeMark" place="marginleft" resp="#U2" rend="gray"/> He continued to make
+<lb/>a consistent profession
+<lb/>for about three years and
+<lb/><choice><sic>percieving</sic><corr>perceiving</corr></choice> at last some of
+<lb/>the difficulties of his case
+<lb/>as also feeling compassion
+<lb/>for the poor women who
+<lb/>were by far the best of our
+<lb/>scholars, I had no desire
+<lb/>that he should be in any
+<lb/>hurry to make a full profession
+<lb/>by baptism - His principal
+<lb/>wife too, was <subst><del>the</del><add place="over-text">ab</add></subst>out the
+<lb/>most unlikely subject in
+<lb/>the tribe ever to become
+<lb/>anything else than an out &amp; out
+<lb/>greasy disciple of the old school<add place="inline" hand="#U2" rend="gray">.</add>
+<lb/>She has become greatly
+<lb/>altered, I hear, for the better
+<lb/>since but again and again
+<lb/>'ha<subst><del>s</del><add place="over-text">v</add></subst>e' I seen <persName>Sechele</persName> send her
+<lb/>out of church to put her gown
+<lb/>on and away she went with
+<lb/>her lips shot out the very
+<lb/>picture of unutterable disgust at
+<lb/>his newfangled notions</p>
+
+                <pb facs="liv_000099_0037.jpg" n="0037"/>
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray right">32</add> <add place="inspace" hand="#U1" rend="gray right">35</add></fw>
+<lb/>When he at last applied for baptism,
+<lb/>I simply asked him how he
+<lb/>having the <bibl>bible</bibl> in his hand
+<lb/>and able to read it<add place="inline" rend="gray" hand="#U2">,</add> thought he
+<lb/>ought to act - He went home
+<lb/>gave each of his superfluous
+<lb/>wives new clothing and all
+<lb/>his own goods which they
+<lb/>had been accustomed to
+<lb/>keep in their huts for him,
+<lb/>and sent them to their parents
+<lb/>with an intimation that he
+<lb/>had no fault to find with
+<lb/>them<add place="inline" rend="gray" hand="#U2">,</add> but that in parting with
+<lb/>them he wished to follow
+<lb/>the will of God - On the day
+<lb/>in which he and his children
+<lb/>were baptized great numbers
+<lb/>came to see the ceremony
+<lb/>Some thought from a stupid
+<lb/>calumny circulated by enemies
+<lb/>to <term type="faith">Christianity</term> in the south that
+<lb/>they would be made to drink
+<lb/>an infusion of "<choice><sic>dead's</sic><corr>dead</corr></choice> men's
+<lb/>brains" and were astonished
+<lb/>to find it water only - Seeing
+<lb/>several of the old men actually
+<lb/>in tears during the service
+<lb/>I asked them afterwards the cause
+<lb/>of their weeping - they were crying
+<lb/>"<hi rend="underline">to see</hi>," as the <term type="people">Scotch</term> remark over
+<lb/>a case of suicide, <del type="strikethrough">to see</del> <hi rend="underline">their
+<lb/>father so far left to himself"</hi>
+<lb/>They seemed to think I had
+<lb/>thrown the glamour over him
+<lb/>and he had become mine
+
+                <pb facs="liv_000099_0038.jpg" n="0038"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">33</add> <add place="inspace" hand="#U1" rend="gray right">36</add></fw>
+<lb/>Here commenced an opposition
+<lb/><add place="marginleft">of</add> <subst><del>to</del><add place="over-text">which</add></subst> we knew nothing
+<lb/>previously; for all the friends
+<lb/>of these castaway wives
+<lb/>became our enemies - . The
+<lb/>attendance on school &amp; church
+<lb/>diminished to very few besides
+<lb/>the <term type="occupation">chief</term>'s <add place="below" hand="#U2" rend="gray">^</add> <add place="above" hand="#U2" rend="gray">and</add> own family - They
+<lb/>treated us still with re<gap extent="1" unit="chars" agent="illegible"/>spectful
+<lb/><add place="marginleft" hand="#U2" rend="gray"><seg rend="vertical"><note>(13</note></seg></add><!-- the number 13 is contained in a circle.JL --> kindness<add place="inline" hand="#U2" rend="gray">,</add> but to <persName>Sechele</persName> himself
+<lb/>said things <add place="inline" hand="#U2" rend="gray">(</add>which he often
+<lb/>remarked<add place="inline" hand="#U2" rend="gray">)</add> had <metamark function="ed-mark" resp="#U2" rend="gray">[</metamark><!-- function of this square bracket is unclear but it connects to the marginal number.JL -->they ventured
+<lb/><add place="marginleft">in former times</add> to <choice><sic>annuntiate</sic><corr cert="high">annunciate</corr></choice>, would have cost
+<lb/>them their lives - It was
+<lb/>trying to see our labours so
+<lb/>little appreciated at last <add place="inline" hand="#U2" rend="gray">;</add>
+<lb/>but we had sown the good
+<lb/>seed and have no doubt but
+<lb/>it will yet spring forth though
+<lb/>we may not live to see it - </p>
+
+                <pb facs="liv_000099_0039.jpg" n="0039"/>
+<lb/><space dim="vertical" extent="3" unit="lines"/>                
+<lb/><p rend="no-indent"><space extent="30" unit="chars"/><add place="inline" hand="#U2" rend="gray"><note>What is the 
+<lb/><space extent="31" unit="chars"/>name of the 
+<lb/><space extent="32" unit="chars"/><hi rend="underline">people</hi></note></add></p>
+
+                <pb facs="liv_000099_0040.jpg" n="0040"/>
+<lb/><p><space extent="2" unit="chars"/><note place="inspace" hand="#U1" rend="gray"><choice><abbr>Chap.</abbr><expan>Chapter</expan></choice></note> <space extent="8" unit="chars"/><fw><add place="inspace" hand="#U2" rend="gray">34</add> <add place="inspace" hand="#U1" rend="gray">37</add></fw></p>
+<lb/><metamark function="placeMark" place="marginleft" resp="#U2" rend="gray"/> 
+<lb/><p><seg rend="left"><space extent="4" unit="chars"/>Leaving this sketch of the <term type="occupation">chief</term> we
+<lb/>now proceed to give an equally rapid
+<lb/>sketch of our dealing with this people <add place="above" hand="#U2" rend="gray"><metamark function="insertion"/>of</add> <add place="marginleft"><metamark function="insertion"/>the <term type="tribe">Bakuena</term> 
+        <lb/>or <term type="tribe">Bakwains</term></add>
+<lb/>A small piece of land sufficient for a</seg><!-- this portion of text is written across the full page, and is not rendered to the right as is usual for DL. JL -->
+<lb/><choice><sic>a</sic><corr/></choice> garden was purchased <add place="marginleft"><metamark function="insertion"/>When we first 
+        <lb/>went to live 
+        <lb/>with them</add>
+<lb/>though that was scarcely necessary
+<lb/>in a country when the idea
+<lb/>of buying land was quite new<add place="inline" hand="#U2" rend="gray">.</add>
+<lb/>It was expected that a request
+<lb/><add place="marginleft">for a</add> suitable spot would have been
+<lb/>made and occupation follow<add place="inline" hand="#U2" rend="gray">,</add>
+<lb/>as in the case of any other
+<lb/>member of the tribe - But on
+<lb/>explaining that we wished
+<lb/>to avoid any cause of dispute
+<lb/>when land had become more
+<lb/>valuable or when a foolish
+<lb/><term type="occupation">chief</term> began to reign and
+<lb/>we had erected buildings
+<lb/>of value he might wish to
+<lb/>claim the whole. About £5
+<lb/>of goods were given and
+<lb/>the stipulation made that
+<lb/>a similar garden should be
+<lb/>given to any other <term type="occupation">missionary</term>
+<lb/>at any other place to <del type="strikethrough">which</del>
+<lb/>which the tribe might remove
+<lb/>The particulars of the sale
+<lb/>sounded as strangely <del type="strikethrough">as</del>
+<lb/>in the ears of the tribe as did
+<lb/><del type="strikethrough">the</del> <add place="marginleft"><metamark function="insertion"/>a certain Roman</add> Emperor's tax <add place="marginleft"><metamark function="insertion"/>in the ears of 
+        <lb/>his son and</add> 
+<del type="cancelled">on wine in
+<lb/>those of the ancient Romans - </del>
+<lb/>the coin in either case emitted
+<lb/>no bad <choice><sic>efluvium</sic><corr>effluvium</corr></choice></p>
+                
+            </div>
+        </body>
+    </text>
+
+</TEI>

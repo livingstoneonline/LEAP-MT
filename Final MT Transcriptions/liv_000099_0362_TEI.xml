@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000099">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+                <author>David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <respStmt xml:id="JL">
+                    <name>Justin Livingstone</name>
+                    <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+                </respStmt>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Encoding Consultant</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="JG">
+                    <name>Johanna Green</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="PS">
+                    <name>Peter Slater</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="SH">
+                    <name>Stephen Hall</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>UCLA Digital Library</publisher>
+                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <!-- Possible year update. -->
+                <date>2014</date>
+                <availability>
+                    <!-- Possible license change. -->
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License
+                        </ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS.42428</idno><!-- This may change with each volume of the MS. -->
+                        <altIdentifier>
+                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                            <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+                
+                <bibl type="sourceMetadata">
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="tn">Tswana</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+            <change when="2016-07-20" who="#JL">Proofing and encoding review</change>
+            <change when="2015-05-01" who="#KS">Proofreading</change>
+            <change when="2015-02-08" who="#SH">Initial transcription and XML encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body rend="right">
+            <div>
+<!-- Start each page with pagebreak -->
+
+<pb facs="liv_000099_0362.jpg" n="0362"/>
+<lb/><p rend="no-indent"><note place="marginleft">XV</note> <fw><add place="inspace" hand="#U1" rend="gray right">340</add></fw>
+<lb/><del type="cancelled">arise from destroying confidence
+<lb/>in the measures of our <w>pre-
+<lb break="no"/>decessors</w></del> <del type="strikethrough" rend="red" hand="#U3">to our own influence</del>    
+<lb/><add place="marginleft"><metamark function="insertion" rend="red" resp="#U3"/><subst><del type="strikethrough" rend="red" hand="#U3">by</del><add place="above" rend="red" hand="#U3">from</add></subst> breaking down
+    <lb/>the authority
+    <lb/>on which<add place="inline" rend="red" hand="#U3">,</add> to
+    <lb/>those who cannot
+    <lb/>read<add place="inline" rend="red" hand="#U3">,</add> the whole
+    <lb/>system <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">of our own influence</add> appears  
+<lb/>to rests</add> 
+that <del type="cancelled">bold young</del> innovators 
+<lb/>ought to be made to propose
+<lb/>their new <del type="cancelled">measures</del><add place="above"><del type="cancelled">ones</del></add> <add place="above">measures</add> as the 
+<lb/><orgName>Locrians</orgName> did in the case of 
+<lb/>new laws<add place="inline" rend="red" hand="#U3">,</add> with ropes
+<lb/>around their necks - </p>
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note>94</note> <note><persName>Chester</persName></note></add> The <del type="strikethrough">circumcision</del>
+<lb/><add place="marginleft">"<foreign xml:lang="tn">Boguera</foreign>" was <add place="below">^</add></add> <del type="strikethrough">has</del> probably only a sanitary
+<lb/><add place="marginleft">and political <add place="below">^</add></add> measure  - &amp; <choice><sic>There</sic><corr>there</corr></choice> being no
+<lb/>continuous chain of tribes
+<lb/>practising the rite between
+<lb/>the <orgName>Arabs</orgName> and the <term type="tribe">Bechuanas</term>
+<lb/><add place="marginleft">or</add> <del type="strikethrough">and</del> <orgName>Caffres</orgName> and <add place="below">^</add> <add place="above">as</add> it<del type="strikethrough">s</del> <add place="below">^</add> <add place="above">is</add> not
+<lb/><del type="cancelled">being</del> a religious ceremony
+<lb/>it can scarcely be referred
+<lb/>as is often done to <del type="strikethough">the</del> a
+<lb/><term type="faith">Mahometan</term><del type="cancelled">s</del> source - <del type="cancelled" hand="#DL"><del type="cancelled" rend="red" hand="#U3"><metamark function="flag" spanTo="#meta-130"/><del type="cancelled" hand="#DL">We</del></del></del>           
+<lb/><add place="marginleft">no more than we</add> <del type="cancelled" hand="#DL"><del type="cancelled" rend="red" hand="#U3"><del type="strikethrough" hand="#DL">never</del>, ascribe the custom of</del></del>
+<lb/><del type="strikethrough"><add place="marginleft" rend="red" hand="#U3"><note>Omit</note></add></del> <metamark function="query" place="marginleft" resp="#DL">?</metamark> <del type="cancelled" hand="#DL"><del type="cancelled" rend="red" hand="#U3">the <term type="people"><choice><orig>scotch</orig><reg>Scottish</reg></choice></term> in ascribing <del type="cancelled" hand="#DL">adultery</del></del></del>
+<lb/><add place="marginleft">certain sins <add place="below">^</add></add> <del type="cancelled" hand="#DL"><del type="cancelled" rend="red" hand="#U3">to the divine decree as derived 
+<lb/>from <metamark function="let-stand" spanTo="#meta-250"/>the fatalism of the <term type="nationality">Turks</term><anchor xml:id="meta-250"/><anchor xml:id="meta-130"/></del></del></p>
+<lb/>                
+<lb/><p>A some what analogous
+<lb/>ceremony <add place="marginleft"><metamark function="insertion"/>(<foreign xml:lang="tn">Boyale</foreign>)</add> takes place for
+<lb/>young women and the
+<lb/><w>proteg<subst><del>e</del><add place="over-text" rend="red" hand="#U3">é</add></subst><add place="inline" rend="red" hand="#U3">e</add>s</w> appear under the
+<lb/>surveillance of an old
+<lb/>woman drilled to the carrying
+<lb/>of water - They are clad
+<lb/>during the whole time in
+<lb/>a dress composed of <del type="strikethrough">alternate</del>
+
+
+<pb facs="liv_000099_0363.jpg" n="0363"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">341</add></fw>
+<lb/>ropes of alternate <term type="plant_foodstuff">pumpkin seeds</term>
+<lb/>and bits of <term type="plant">reed</term> strung together
+<lb/>and wound around the
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>95</note></add> body in a figure of eight
+<lb/>fashion - They are inured
+<lb/>in this <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">way</add> to bear fatigue &amp;
+<lb/>carry huge pots of water under
+<lb/>guidance of some stern
+<lb/>old hag - They have often
+<lb/><add place="marginleft">scars</add> <del type="strikethrough">marks</del> of bits of live coals
+<lb/>having been applied to the
+<lb/>fore arm which must have
+<lb/>been done to test their power
+<lb/>of bearing pain - </p>
+<lb/><space dim="vertical" extent="20" unit="lines"/>
+
+
+<pb facs="liv_000099_0364.jpg" n="0364"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">342</add> <del type="cancelled" hand="#U1" rend="gray"><add place="inspace" hand="#U2" rend="gray">4</add></del></fw>
+<lb/><p>The <placeName><geogName type="mountains"><term type="tribe">Bamangwato</term> hills</geogName></placeName> are
+<lb/>part of the range called <placeName><geogName type="mountains">Bakaa</geogName></placeName>
+<lb/><add place="marginleft"><note>(<del type="strikethrough"><add place="inline" rend="red" hand="#U3"><metamark function="query"><choice><abbr>Qu.</abbr><expan>Query</expan></choice></metamark> What tribe?</add> 
+    <lb/><term type="tribe">Bakaa</term> of course</del>)</note></add> 
+The <hi rend="red underline" resp="#U3">latter tribe</hi> <add place="below">^</add> <add place="above">(<term type="tribe">Bakaa</term>)</add> however removed
+<lb/>to <placeName><settlement type="village">Kolobeng</settlement></placeName> and are now
+<lb/>joined to that of <persName>Sechele</persName>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>96</note></add> <subst><del>They</del><add place="over-text">The</add></subst> range stands almost <measure>700
+<lb/>or 800 <add place="inline" rend="red" hand="#U3">feet</add></measure> above the plains
+<lb/>and <subst><del type="strikethrough" rend="red" hand="#U3">are</del><add place="above" rend="red" hand="#U3">is</add></subst> composed of great
+<lb/>masses of black basalt
+<lb/><subst><del type="strikethough" rend="red" hand="#U3">and are</del><add place="above" rend="red" hand="#U3">It is</add></subst> probably <add place="below">^</add> <add place="above">part of</add> the <subst><del type="strikethrough" rend="red" hand="#U3">youngest</del><add place="above" rend="red" hand="#U3">latest</add></subst>
+<lb/><add place="marginleft">series of</add> volcanic rocks in <placeName><region>South
+<lb/>Africa</region></placeName> - At the<!-- possible word beneath 'At the' but it is illegible.JL --> Eastern end -
+<lb/><subst><del type="strikethrough" hand="#U3" rend="red">they have</del><add place="above" hand="#U3" rend="red">these hills have</add></subst> <del type="strikethrough">of a</del> curious fungoid
+<lb/>or cup shaped hollows
+<lb/>with masses of the rock
+<lb/><choice><sic>chrystallized</sic><corr>crystallized</corr></choice> in the columnar
+<lb/>form of this formation
+<lb/><del type="cancelled"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-131"/></del> <add place="marginleft" rend="red" hand="#U3"><note><del type="cancelled" hand="#DL"><metamark function="ed-mark">X</metamark> <metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></del></note></add> The tops of the columns are
+<lb/>quite distinct<add place="inline" rend="red" hand="#U3">,</add> of the hexagonal
+<lb/>form like the <add place="marginleft"><metamark function="insertion"/>bottom of the</add> cells of a<anchor xml:id="meta-131"/>
+<lb/>
+<lb/>honeycomb - but they are
+<lb/>not parted from each
+<lb/>other as at the <placeName><geogName type="cave">Cave of Fingal</geogName></placeName> - 
+<lb/>In many parts the lava
+<lb/>streams may be recognized
+<lb/>for <subst><del type="strikethrough" rend="red" hand="#U3">they</del><add place="above" rend="red" hand="#U3">there</add></subst> the rock is
+<lb/>rent &amp; split in every
+<lb/>direction but no soil <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">is</add> yet
+<lb/>formed in the interstices
+<lb/>When <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">we were</add> sitting in the evenings
+<lb/>after a hot day it <subst><del type="strikethrough" rend="red" hand="#U3">is</del><add place="above" rend="red" hand="#U3">was</add></subst> quite
+<lb/>common to hear these
+<lb/>masses of basalt split
+
+
+<pb facs="liv_000099_0365.jpg" n="0365"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right"><subst><del hand="#U1">5</del><add place="over-text" hand="#U1" rend="gray">343</add></subst></add></fw>
+<lb/><choice><sic>split</sic><corr/></choice> and fall among each
+<lb/>other with the peculiar ringing
+<lb/>sound<del type="cancelled">s</del> which makes
+<lb/>people believe that this rock
+<lb/>contains much iron - Several
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>97</note></add> large masses in splitting
+<lb/>thus by the cold acting suddenly
+<lb/>on parts expanded by
+<lb/>the heat of the day have
+<lb/>slipped down the sides of
+<lb/>the hills and impinging
+<lb/>against each other
+<lb/>formed cavities in which
+<lb/>the <term type="tribe">Bakaa</term> took refuge
+<lb/>against their enemies
+<lb/>The numerous chinks and
+<lb/>cranies left by these huge <w>frag-
+<lb break="no"/>ments</w> made it quite impossible
+<lb/>for their enemies to smoke
+<lb/>them out as was done by
+<lb/>the <orgName>Boers</orgName> to the people of
+<lb/><persName>Mankopane</persName> - </p>
+<lb/><p>This mass of basalt about
+<lb/><measure>six miles long</measure> has tilted
+<lb/><del type="strikethrough"><add place="marginleft" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> <unclear cert="low">say</unclear></note></add></del> up the rocks<add place="inline" rend="red" hand="#U3">,</add> on both the
+<lb/>East &amp; West<add place="inline" rend="red" hand="#U3">;</add> <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" rend="red" hand="#U3"><del type="strikethrough" hand="#DL">These are <add place="below">^</add></del></add>
+    <lb/><add place="marginleft" hand="#DL">The upheaved
+    <lb/>rocks</add>
+the <choice><sic>antient</sic><corr>ancient</corr></choice>
+<lb/>silurian <del type="strikethrough">rocks</del> <add place="below">^</add> <add place="above">schists</add> which <choice><abbr>formd</abbr><expan>formed</expan></choice>
+<lb/>the great primaeval valley
+<lb/>and like all the recent 
+<lb/>volcanic rocks have a
+<lb/>hot fountain in their
+<lb/><del type="cancelled" hand="#U3" rend="red"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark> <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-251"/></del>vicinity<add place="inline" rend="red" hand="#U3">;</add> <choice><abbr>viz</abbr><expan>videlicet</expan></choice> - <placeName><geogName type="fountain">Serinane</geogName></placeName><anchor xml:id="meta-251"/>
+
+
+
+<pb facs="liv_000099_0366.jpg" n="0366"/>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right"><subst><del hand="#U1">6</del><add place="over-text" hand="#U1" rend="gray">344</add></subst></add></fw>
+<lb/>In passing through these hills
+<lb/>on our way North we enter
+<lb/>a pass named that of <placeName><geogName type="pass"><choice><orig>Manaka
+<lb break="no"/>-loñwe</orig><reg>Manakalongwe</reg></choice></geogName></placeName> <del type="cancelled">pass</del> or <placeName><geogName type="pass">Unicorn<add place="above" rend="red" hand="#U3">'</add>s pass</geogName></placeName> <add place="inline" rend="red" hand="#U3">-</add>
+<lb/>The <term type="insect"><term type="foodstuff">Unicorn</term></term> here <add place="above" rend="red" hand="#U3">is</add> <del type="strikethrough">meaning</del>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>98</note></add> a large edible <term type="insect"><term type="foodstuff">caterpillar</term></term>
+<lb/><del type="strikethrough"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></del> with an erect horn like tail
+<lb/><metamark function="ed-mark" place="marginleft" rend="red" resp="#U3">X</metamark> <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-132"/>It was also called <placeName><geogName type="pass">Porapora</geogName></placeName>
+<lb/>or gurgling (of water) from a
+<lb/>stream having run through it<anchor xml:id="meta-132"/>
+<lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark>
+    <lb/><del type="cancelled" hand="#DL">omission</del> <metamark function="ed-mark">X</metamark></note></add>
+<metamark function="flag" rend="red" resp="#U3" spanTo="#meta-133"/><add place="marginleft">The scene</add> <add place="below">^</add> <del type="cancelled">And</del> must have been very
+<lb/>different in former times
+<lb/>from what it is now - <anchor xml:id="meta-133"/>
+<lb/>This is part of the river
+<lb/><placeName><geogName type="river">Mahalapi</geogName></placeName> <space extent="5" unit="chars"/> <hi rend="underline">which <add place="below">^</add> <add place="above">so called</add> rivers</hi>
+<lb/><add place="marginleft">scarcely merits <add place="below">^</add></add> <del type="cancelled">no more</del> <subst><del type="cancelled">deserve</del><add place="above"><del type="cancelled">merit</del></add></subst> the name
+<lb/><add place="marginleft">more <add place="below">^</add></add> than the <placeName><geogName type="park">meadows</geogName></placeName> of <placeName><settlement type="city">Edinburgh</settlement></placeName>
+<lb/>deserve the title of <placeName><geogName type="loch">North Loch</geogName></placeName>
+<lb/>These <del type="cancelled"><subst><del>are</del><add place="over-text">hill</add></subst></del> hills are the last
+<lb/>we shall see for months
+<lb/>The country <w>be<subst><del type="cancelled" rend="red" hand="#U3">hind</del><add place="below" rend="red" hand="#U3">^</add><add place="above" rend="red" hand="#U3">yond</add></subst></w> consisted
+<lb/>of large patches of trap covered
+<lb/>tufa having little soil or
+<lb/>vegetation, except tufts of
+<lb/>grass and <term type="plant">Wait<add place="inline" rend="red" hand="#U3">-</add>a<add place="inline" rend="red" hand="#U3">-</add>bit thorns</term>
+<lb/>in <add place="above" rend="red" hand="#U3">the</add> <del type="strikethrough" hand="#U3" rend="red"><del type="cancelled" hand="#DL"><subst><del>a <unclear cert="low">count</unclear></del><add place="over-text">the</add></subst></del></del> midst of extensive
+<lb/>sandy <w><subst><del>pl</del><add place="over-text">gr</add></subst>ass</w> covered plains
+<lb/>These yellow coloured grassy
+<lb/>plains with <foreign xml:lang="tn"><term type="plant">moretloa</term></foreign> and 
+<lb/><foreign xml:lang="tn"><term type="plant">mahatla</term></foreign> bushes form
+<lb/>quite a characteristic feature
+<lb/>in the country - The yellow
+<lb/>or dun colour prevails
+<lb/>during a great part of the
+<lb/>year - The <geogName><placeName type="mountain"><term type="tribe">Bakwain</term></placeName></geogName><!-- presumably this is another way of referring to the Bamangwato hills, mentioned on 0364.JL -->
+
+
+<pb facs="liv_000099_0367.jpg" n="0367"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">345</add></fw>
+<lb/>hills are an exception to the
+<lb/>to the usual flat surface for
+<lb/>they are covered with green trees
+<lb/>to their tops and the valleys
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>99</note></add> are often of the most lovely
+<lb/>green - The trees are larger
+<lb/>too and even the plains
+<lb/>contain trees instead of bushes
+<lb/>If you look North from
+<lb/>the <del type="cancelled" rend="red" hand="#U3">the</del> hills we are now
+<lb/>leaving<add place="inline" rend="red" hand="#U3">,</add> the country partakes
+<lb/>of this latter character - It
+<lb/>looks as if <add place="below">^</add> <add place="above">it were a flat</add> covered with
+<lb/>a forest of ordinary sized
+<lb/>trees <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft">from 20 to 30ft
+    <lb/>high</add> 
+but when you travel
+<lb/>over it they are not so closely
+<lb/>planted but that a waggon
+<lb/>with care may be guided
+<lb/>among them - The grass
+<lb/>grows in tufts of the size
+<lb/>of <choice><sic>ones</sic><corr>one's</corr></choice> hat with bare
+<lb/>soft sand between - Nowhere
+<lb/>here have we an approach
+<lb/>to <term type="nationality">English</term> lawns <subst><del>the</del><add place="over-text">or</add></subst> this
+<lb/><add place="marginleft" rend="red" hand="#U3">pleasing</add> <del type="strikethrough" rend="red" hand="#U3">kindly</del> appearance of <term type="nationality">English</term>
+<lb/>greensward</p>
+
+
+<pb facs="liv_000099_0368.jpg" n="0368"/>
+<lb/><p rend="no-indent"><fw><add place="inspace" hand="#U1" rend="gray right">346</add></fw>
+<lb/>In no part of this country could
+<lb/><orgName>European</orgName> <term type="plant_foodstuff">grain</term> be cultivated
+<lb/>without irrigation - The <orgName>natives</orgName>
+<lb/>all cultivate the <term type="plant_foodstuff">Dourrha</term> or
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>100</note></add> <term type="plant_foodstuff"><orgName>Caffre</orgName> Sorghum</term> - <term type="plant_foodstuff">maize</term> - <term type="plant_foodstuff">pumpkins</term>
+<lb/><term type="plant_foodstuff">melons</term> <term type="plant_foodstuff">cucumbers</term> and different
+<lb/>kinds of <term type="plant_foodstuff">beans</term> - and they are
+<lb/>entirely <seg type="weather"><choice><sic>dependant</sic><corr>dependent</corr></choice> for the
+<lb/>growth of these on rains</seg>
+<lb/>Their instrument of culture is
+<lb/>the hoe and the chief labour
+<lb/>falls on the female portion
+<lb/>of the community - In this
+<lb/>respect the <term type="tribe">Bechuanas</term> closely
+<lb/>resemble the <orgName>Caffres</orgName> - The
+<lb/>men engage in hunting -
+<lb/>they milk the <term type="animal">cows</term> and have
+<lb/>the entire <choice><orig>controul</orig><reg>control</reg></choice> of the <term type="animal">cattle</term>
+<lb/>They prepare<!-- there is an illegible word beneath 'prepare'.JL --> the skins - and
+<lb/>make the clothing and
+<lb/>in some respects resemble
+<lb/>a nation of <term type="occupation">tailors</term></p>
+    <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Dennett</persName></hi></note></add> When at <persName>Sekomi</persName>'s we
+<lb/> generally have heard his praises
+<lb/>sounded by a man who
+<lb/>rises at break of day and
+<lb/>utters at the top of his voice
+<lb/>the oration which that <term type="occupation">chief</term>
+<lb/>is said to have composed
+<lb/>at his <choice><sic>circumscision</sic><corr>circumcision</corr></choice> - It pleases
+<lb/>a <term type="occupation">chief</term> so much that he
+<lb/><del type="cancelled">f</del> generally sends a handsome
+<lb/>present to the man who <subst><del type="strikethrough" rend="red" hand="#U3">did</del><add place="above" rend="red" hand="#U3">does</add></subst> it -</p>
+
+
+<pb facs="liv_000099_0369.jpg" n="0369"/> <!-- up to here.JL -->
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">347</add></fw>
+<lb/><p><space dim="vertical" extent="5" unit="lines"/>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>101</note></add>
+<lb/><space dim="vertical" extent="4" unit="lines"/></p>
+<lb/><p><note place="marginleft"><date when="1853-01-28">January 28<hi rend="above underline">th</hi></date></note> Passing on to <placeName><settlement type="village">Letloche</settlement></placeName><add place="inline" rend="gray" hand="#U2">,</add> about
+<lb/><measure>twenty miles</measure> beyond the <term type="tribe">Bamangwato</term><add place="inline" rend="gray" hand="#U2">,</add>
+<lb/>we found a fine supply of water<add place="inline" rend="gray" hand="#U2">,</add>
+<lb/>This is an interesting fact in
+<lb/>that country<add place="inline" rend="gray" hand="#U2">;</add> - The first question
+<lb/>we ask of passers by is <add place="inline" rend="red" hand="#U3">"</add>have
+<lb/>you had water<add place="inline" rend="gray" hand="#U2">?</add><add place="inline" rend="red" hand="#U3">"</add> - The first
+<lb/>enquiry a <orgName>native</orgName> puts to
+<lb/>a fellow countryman is
+<lb/><seg type="weather">"Where is the rain"</seg> and<add place="inline" rend="gray" hand="#U2">,</add> though
+<lb/>they are by no means an
+<lb/>untruthful nation the answer
+<lb/>generally is "I don't know
+<lb/>there is none<add place="inline" rend="gray" hand="#U2">,</add> - we are
+<lb/>killed with hunger and
+<lb/>by the sun" - If news <subst><del type="strikethrough" rend="red" hand="#U3">are</del><add place="above" rend="red" hand="#U3">is</add></subst>
+<lb/>asked for<del type="strikethrough" rend="gray" hand="#U2">,</del> they commence
+<lb/>with there <subst><del type="strikethrough" rend="red" hand="#U3">are</del><add place="above" rend="red" hand="#U3">is</add></subst> "no news
+<lb/>I heard some lies only<add place="inline" rend="gray" hand="#U2">,</add>"
+<lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="ed-mark">x</metamark>
+    <lb/><del type="cancelled" hand="#DL"><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> furthest</del></note></add> and then tell all they know
+<lb/>This spot was - <add place="above">M<hi rend="sup">r</hi></add> <del type="cancelled">Mr</del> - <persName>Gordon
+<lb/>Cummings</persName> <metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> <hi rend="red underline" resp="#U3">farthest</hi> station
+<lb/>North<add place="inline" rend="gray" hand="#U2">;</add> - Our house at
+<lb/><placeName><settlement type="village">Kolobeng</settlement></placeName> having been quite
+
+
+<pb facs="liv_000099_0370.jpg" n="0370"/>    
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right"><subst><del hand="#U1">10</del><add place="over-text" hand="#U1" rend="gray ">348</add></subst></add></fw>
+<lb/>in the hunting country - <term type="animal">Rhinoceros</term>
+<lb/>and <term type="animal">buffaloes</term> <del type="cancelled">having</del> several
+<lb/>times rushed past and <del type="strikethrough">enabled</del>
+<lb/><add place="marginleft" rend="red" hand="#U3">I was able</add> <del type="strikethrough" rend="red" hand="#U3">me</del> to shoot the latter from
+<lb/>our own door<add place="inline" rend="gray" hand="#U2">:</add> - We were
+<lb/>favoured by visits from this
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>102</note></add> famous hunter during
+<lb/>each of the five years of his
+<lb/>warfare with wild animals
+<lb/>Many <term type="nationality">English</term> gentlemen following
+<lb/>the same pursuits paid
+<lb/><del type="cancelled">equally with him</del> their <term type="occupation">guides</term>
+<lb/>and <term type="occupation">assistants</term> so <w>punct-
+<lb break="no"/>ually</w> that in <del type="cancelled">furnishing</del>
+<lb/><add place="marginleft">making arrangements</add> <del type="cancelled"><term type="occupation">guides</term></del> for them we had
+<lb/>to be careful that four
+<lb/><add place="marginleft" rend="red" hand="#U3">did</add> <del type="strikethrough" rend="red" hand="#U3">should</del> not go where
+<lb/>two only were wanted
+<lb/>They knew so well that
+<lb/>an <term type="person">Englishman</term> would
+<lb/>pay <del type="cancelled">them</del> that they depended
+<lb/>implicitly on <subst><del type="strikethrough" rend="red" hand="#U3">their</del><add place="above" rend="red" hand="#U3">his</add></subst> word<del type="strikethrough">s</del>
+<lb/>of honour<add place="inline" rend="gray" hand="#U2">,</add> and <del type="strikethrough" rend="red" hand="#U3">would</del>
+<lb/>not only <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">would they</add> go and hunt
+<lb/>for five or six months
+<lb/>in the North<add place="inline" rend="gray" hand="#U2">,</add> <del type="strikethrough" rend="red" hand="#U3">going through</del>
+<lb/><add place="marginleft" rend="red" hand="#U3"><choice><sic>Enduring</sic><corr>enduring</corr></choice></add> all the hardships of that
+<lb/>trying mode of life with
+<lb/>little else but meat of
+<lb/>game to subsist on<add place="inline" rend="gray" hand="#U2">,</add> <add place="inline" rend="red" hand="#U3">-</add> but
+<lb/>they willingly went <measure>700
+<lb/>or 800 miles</measure> to the <placeName><settlement type="town"><choice><orig>Grahams
+<lb/>town</orig><reg>Grahamstown</reg></choice></settlement></placeName> <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" rend="red" hand="#U3"><subst><del type="strikethrough">receiving</del><add place="below" rend="red" hand="#U3">receiving</add></subst></add> for wages <del type="strikethrough" rend="red" hand="#U3">comprized</del>
+<lb/><add place="marginleft" rend="red" hand="#U3">only</add> <del type="strikethrough" rend="red" hand="#U3">in</del> a musket<add place="inline" rend="red" hand="#U3">,</add> worth 15/
+
+
+<pb facs="liv_000099_0371.jpg" n="0371"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">349</add></fw>
+<lb/>No one ever <choice><sic>decieved</sic><corr>deceived</corr></choice> them
+<lb/>except one man<add place="inline" rend="gray" hand="#U2">,</add> and as I
+<lb/>believed <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">that</add> he was afflicted with
+<lb/>a slight degree of the insanity
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>103</note></add> of greediness I upheld the
+<lb/>honour of the <term type="nationality">English</term>
+<lb/>name by paying his debts
+<lb/><del type="cancelled">to them</del> - As the <term type="occupation">guides</term>
+<lb/>of <persName>Mr Cumming</persName> were
+<lb/>furnished <del type="strikethrough">by me</del> through my
+<lb/>influence and usually got
+<lb/>some strict charges as to
+<lb/>their behaviour before parting
+<lb/>they<add place="inline" rend="red" hand="#U3">,</add> looking upon me in
+<lb/>the light of a father<add place="inline" rend="red" hand="#U3">,</add> always
+<lb/>came to <subst><del type="strikethrough" rend="red" hand="#U3"><unclear cert="medium">giving</unclear></del><add place="above" rend="red" hand="#U3">give me</add></subst> an account
+<lb/>of their service<add place="inline" rend="gray" hand="#U2">,</add> - <subst><add place="above" rend="red" hand="#U3">and</add><del type="cancelled">and</del></subst> told
+<lb/><add place="inline" rend="red" hand="#U3">us</add> most of those hunting adventur<supplied cert="high">es</supplied>
+<lb/>which have since been
+<lb/>given to the world before we
+<lb/>had the pleasure of hearing
+<lb/>our friend relate them
+<lb/>himself by our <add place="below">^</add> <add place="above">own</add> fire side
+<lb/>I had thus a tolerably good
+<lb/>opportunity of testing their
+<lb/>value<add place="inline" rend="gray" hand="#U2">,</add> and I have no
+<lb/>hesitation <del type="strikethrough">that</del> in saying
+<lb/>that for those who love that
+<lb/>sort of thing <bibl><persName>M<hi rend="above">r</hi> Cumming</persName>'s
+<lb/>book</bibl> conveys a pretty
+<lb/>truthful <del type="cancelled">id</del> idea of <placeName><region>South
+<lb/>African</region></placeName> hunting<add place="inline" hand="#U2" rend="gray">;</add> - Some
+<lb/>things require <space extent="3" unit="chars"/>explanation
+<lb/><del type="strikethrough">others</del> but the numbers of animals
+
+
+<!-- up to here.JL -->
+<pb facs="liv_000099_0372.jpg" n="0372"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">350</add></fw>
+<lb/>said to have been met with and
+<lb/>killed are by no means improbable
+<lb/>considering the amount of
+<lb/>large game there in the country
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>104</note></add> Two other gentlemen hunting
+<lb/>in the same <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- square bracket connects to marginal number.JL -->country destroyed 
+<lb/>in one season no fewer
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>223</note></add><!-- metamark - number is enclosed in a circle. sh --> than 96 <term type="animal">Rhinoceros</term> alone
+<lb/>Others however would not
+<lb/>now find an equal number
+<lb/>for <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-134"/><seg corresp="#reorder-51"><add place="below">^</add> all these fine animals
+<lb/>melt away</seg><anchor xml:id="meta-134"/> as guns are
+<lb/><metamark function="transposition" place="marginleft" rend="red" resp="#U3"><choice><abbr>tr:</abbr><expan>transpose</expan></choice></metamark> introduced <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-51"/> like snow in
+<lb/>spring - Where fire arms
+<lb/>have not yet been introduced
+<lb/>the game<add place="inline" hand="#U2" rend="gray">,</add> with the single
+<lb/>exception of the <term type="animal">Rhinoceros</term><add place="inline" hand="#U2" rend="gray">,</add>
+<lb/><add place="marginleft">is to be found <add place="below">^</add></add> in numbers much greater
+<lb/>than <persName>M<hi rend="above">r</hi> Cumming</persName> ever saw - 
+<lb/>The <term type="insect">Tsetse</term> is however an
+<lb/>insuperable barrier to hunting
+<lb/>with <term type="animal">horses</term> there, and <orgName>Europeans</orgName>
+<lb/>can do nothing on foot <subst><del hand="#U2">-</del><add place="over-text" hand="#U2" rend="gray">;</add></subst> The
+<lb/>step of the <term type="animal">elephant</term> <subst><del type="strikethrough" hand="#U3" rend="red">in</del><add place="above" hand="#U3" rend="red">when</add></subst> charging
+<lb/>back on the <term type="occupation">hunter</term><add place="inline" hand="#U2" rend="gray">,</add> though
+<lb/>apparently not quick is so
+<lb/>long that the pace equals
+<lb/>the speed of a good <term type="animal">horse</term>
+<lb/>at a canter<add place="inline" hand="#U2" rend="gray">;</add> - A young
+<lb/><term type="occupation">sportsman</term> no matter how
+<lb/>great <del type="strikethrough" rend="red" hand="#U3">in</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">among</add> <term type="animal">pheasants</term><add place="inline" rend="gray" hand="#U2">,</add> <term type="animal">foxes</term>
+<lb/>and <term type="animal">hounds</term> <del type="cancelled">of braving
+<lb/><term type="ailment">fever</term></del> would do well to
+<lb/>pause before resolving   
+
+
+<pb facs="liv_000099_0373.jpg" n="0373"/>
+
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">351</add></fw>
+<lb/><supplied cert="high">to</supplied> brave <term type="ailment">fever</term> for the excitement
+<lb/>of <del type="cancelled">standing</del> risking such a
+<lb/>terrific charge<add place="inline" rend="gray" hand="#U2">;</add> <space extent="1" unit="chars"/>The scream<add place="inline" rend="gray" hand="#U2">,</add>
+<lb/>or trumpeting<add place="inline" rend="gray" hand="#U2">,</add> of this enormous
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>105</note></add> brute when infuriated is
+<lb/>more like <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">what</add> the shriek of a <term type="nationality">French</term>
+<lb/>steam whistle <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">would sound</add> to a man standing
+<lb/>on the dangerous part of
+<lb/>a railroad than any other
+<lb/>earthly sound - A <term type="animal">horse</term>
+<lb/>unused to it will sometimes
+<lb/>stand shivering instead of
+<lb/>taking his rider out of
+<lb/>danger - <subst> <del type="strikethrough" rend="red" hand="#U3">Or</del><add place="above" rend="red" hand="#U3">It</add></subst> has happened
+<lb/>often <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">that</add> the poor <choice><sic>animals</sic><corr>animal's</corr></choice> legs
+<lb/>will do their duty so badly<add place="inline" rend="red" hand="#U3">,</add>
+<lb/><add place="marginleft" rend="red" hand="#U3">that</add> he may fall and expose
+<lb/><add place="marginleft" rend="red" hand="#U3">his</add><del type="strikethrough" rend="red" hand="#U3">the</del> rider to be trodden into
+<lb/>mummy<add place="inline" rend="gray" hand="#U2">,</add> or losing his presence 
+<lb/>of mind<add place="inline" rend="gray" hand="#U2">,</add> the rider may
+<lb/>dash under a tree and
+<lb/>crack his cranium <subst><del type="strikethrough" rend="red" hand="#U3">on</del><add place="above" rend="red" hand="#U3">against</add></subst> a
+<lb/>branch - As one charge
+<lb/>has made embryo <persName>Nimrods</persName>
+<lb/>bid a final adieu to the chase
+<lb/>incipient <persName>Gordon Cummings</persName>
+<lb/>might try their nerves by
+<lb/>standing on the railways till the
+<lb/><add place="marginleft" hand="#U3" rend="red"><choice><sic>Engines</sic><corr>engines</corr></choice></add> <del type="strikethrough" rend="red" hand="#U3">tenders</del> were within <measure>150 yards</measure>
+<lb/>of them<add place="inline" rend="gray" hand="#U2">,</add> - Hunting <term type="animal">elephants</term>
+<lb/><add place="marginleft"><note><metamark function="insertion"/>(foot note) * since
+        <lb/>writing the above
+        <lb/>the statement has
+        <lb/><choice><sic>recieved</sic><corr>received</corr></choice> <w>con-
+            <lb break="no"/>formation</w> in the
+        <lb/>reported death of
+        <lb/><persName>M<hi rend="above">r</hi> <choice><sic>Walhberg</sic><corr>Wahlberg</corr></choice></persName> in
+        <lb/>hunting <term type="animal">elephants</term>
+        <lb/>on foot at <placeName><geogName type="lake">Lake Ngami</geogName></placeName></note></add>
+on foot would be not less
+<lb/>dangerous <add place="inline">*</add> unless the <placeName><geogName type="country"><choice><orig>Ceylon</orig><reg>Sri Lanka</reg></choice></geogName></placeName><!-- Ceylon should perhaps be coded as a colony or an island, but since I've provided the contemporary name, Sri Lanka, I've coded it as a country.JL --> 
+<lb/>mode of killing them by
+<lb/>one shot could be followed - 
+<lb/>It has never been tried in <placeName><bloc>Africa</bloc></placeName></p>
+
+
+<pb facs="liv_000099_0374.jpg" n="0374"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">352</add></fw>
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><seg rend="vertical"><hi rend="underline"><note><persName>Robinson</persName></note></hi></seg></add> Some wells east beyond <del type="strikethrough">Kann</del>
+<lb/><placeName><settlement type="village">Letloche</settlement></placeName> at a spot named <placeName><geogName type="well">Kanne</geogName></placeName>
+<lb/>we found them carefully hedged
+<lb/>round by the people of a
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>106</note></add> <term type="people"><term type="tribe">Bakalahari</term></term> village situated
+<lb/>near them - We have then <measure><del type="cancelled">90</del> 60
+<lb/>miles</measure> of country without water
+<lb/>&amp; very distressing for the <term type="animal">oxen</term>
+<lb/>as it is generally deep soft
+<lb/>sand - There is one sucking
+<lb/>place<add place="inline" rend="red" hand="#U3">,</add> around which was
+<lb/>congregated great numbers
+<lb/>of <orgName>bushwomen</orgName> with their
+<lb/>eggshells and reeds - <placeName><geogName type="well">Mathuluane</geogName></placeName>
+<lb/>now contained no water
+<lb/>and <placeName><geogName type="well">Motlatsa</geogName></placeName> only a <subst><del><unclear cert="low">lit</unclear></del><add place="above">small</add></subst> supply
+<lb/>so we sent the <term type="animal">oxen</term> across
+<lb/>the country to the deep well
+<lb/><placeName><geogName type="well">Nkauane</geogName></placeName> and half<!-- there is a previous letter under 'h', which looks like another 'h'.JL --> were lost
+<lb/>in the way - When found at
+<lb/>last they had been five whole
+<lb/>days without water - Very
+<lb/>large numbers of <term type="animal">elands</term> <del type="cancelled">were</del>
+<lb/>were met with - here as usual
+<lb/>though they seldom can get
+<lb/>a sip of <add place="below">^</add> <add place="above">drink</add> <del type="cancelled">water</del> - Many of
+<lb/>the plains here have large
+<lb/>expanses of grass without
+<lb/>trees but you seldom <del type="strikethrough" hand="#U3" rend="red">ever</del>
+<lb/>see a treeless horizon -
+<lb/>The <term type="animal">ostrich</term> is generally seen
+<lb/>quietly feeding on some
+<lb/>spot, where, no one can
+<lb/>approach him without
+
+
+<pb facs="liv_000099_0375.jpg" n="0375"/>    
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right"><subst><del hand="#U1">15</del><add place="over-text" hand="#U1" rend="gray">353</add></subst></add></fw>
+<lb/>being detected by his wary eye -
+<lb/>As the waggon moves along
+<lb/>far to the windward he thinks
+<lb/>it is intending to circumvent
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>107</note></add> him so he rushes up a mile
+<lb/>or so from the leeward and
+<lb/>so near to the front <term type="animal">oxen</term>
+<lb/><add place="marginleft" rend="red" hand="#U3">that</add> one sometimes gets a shot
+<lb/>at the silly bird - When he
+<lb/>begins to run all the game
+<lb/>in sight follow his example
+<lb/>I have seen his folly taken
+<lb/>advantage of <del type="strikethrough">by</del> when he was
+<lb/>quietly feeding in a valley
+<lb/>open at both ends - A
+<lb/>number of men would
+<lb/>commence running as
+<lb/>if to <del type="cancelled">close one</del>: cut off his
+<lb/>retreat from the end <subst><del>f</del><add place="over-text">t</add></subst>hrough
+<lb/>which the wind blew and
+<lb/>although he had the whole
+<lb/>country <del type="cancelled">to the <placeName><region>Cape</region></placeName></del> <add place="below">^</add> <add place="above"><measure>for hundreds of miles</measure></add> before him
+<lb/>by going to the other <add place="inline" rend="red" hand="#U3">end,</add> on he
+<lb/>madly rushed to get past the
+<lb/>men and <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">so</add> got speared <add place="marginleft"><metamark function="insertion"/>He never swerves
+    <lb/>from the course
+    <lb/>he once adopts
+    <lb/>but only increases
+    <lb/>his speed</add></p>
+<lb/><p>When the <term type="animal">ostrich</term> is feeding
+<lb/>his pace is from 20 to 22 inches
+<lb/>When walking but not feeding
+<lb/>it is 26 inches <subst><del>but</del><add place="over-text">and</add></subst> when
+<lb/>terrified as in the case noticed
+<lb/>it is from 11 <choice><orig>½</orig><reg>1/2</reg></choice> to 13 and even
+<lb/>14 feet in length - Only in one
+<lb/>case was I at all satisfied
+<lb/>of being able to count the
+
+
+<pb facs="liv_000099_0376.jpg" n="0376"/> <!-- the following is part of the marginLeft text from image 377, occurs at foot of page, but have also added in correct position related to next image. sh -->
+<lb/><space dim="vertical" extent="33" unit="lines"/>
+<lb/><space extent="8" unit="chars"/><add place="inline" corresp="#add-20"><metamark function="insertion"/>as sometimes occurs
+<lb/><space extent="12" unit="chars"/>in the <term type="foodstuff">egg</term> of the
+<lb/><space extent="12" unit="chars"/>common <term type="animal">fowl</term></add>
+
+
+<pb facs="liv_000099_0377.jpg" n="0377"/>    
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">354</add></fw>
+<lb/>rate of speed by a stop watch
+<lb/>and if I am not mistaken
+<lb/>there were thirty in ten seconds
+<lb/><w><subst><del>Th</del><add place="over-text">G</add></subst>enerally</w> <del type="strikethrough" rend="red" hand="#U3">the</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">one's</add> eye can no more
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>108</note></add> follow the legs than it can the
+<lb/>spokes of a carriage wheel in
+<lb/>rapid motion but suppose we
+<lb/>take the above and twelve feet
+<lb/>stride as the average <del type="cancelled">10: 20: : 60 =
+<lb/>180 strides <add place="below"><metamark function="insertion"/>paces</add> per minute 180<add place="above">paces</add> x 60<add place="above"><choice><abbr>m</abbr><expan>minutes</expan></choice></add> =
+<lb/>= 10800 x 12<choice><abbr>ft</abbr><expan>feet</expan></choice> = 129600 ÷ 3 = 43200</del><!-- calculation correct. sh -->
+<lb/>
+<lb/>we have a speed of 26 miles
+<lb/>an hour - It cannot be
+<lb/>much above that and is
+<lb/>therefore slower than a railway
+<lb/>locomotive - <del type="cancelled" rend="red" hand="#U3">It is</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">They are</add> sometimes
+<lb/>shot by the horseman making
+<lb/>a cross cut to <subst><add place="above" rend="red" hand="#U3">their</add><del type="strikethrough" rend="red" hand="#U3">its</del></subst> <add place="below">^</add> <add place="above">undeviating</add> course
+<lb/>but few <term type="people">Englishmen</term> ever
+<lb/>succeed in killing them - </p>
+<lb/><p>The <term type="animal">ostrich</term> begins to lay
+<lb/>her <term type="foodstuff">eggs</term> before she has
+<lb/>fixed on a spot for a nest <add place="below">^</add> <add place="marginleft">which is only a
+    <lb/>hollow a few inches
+    <lb/>deep in the sand
+    <lb/>&amp; about a yard
+    <lb/>in diameter</add>
+<lb/><add place="below">^</add> Solitary <term type="foodstuff">eggs</term> named by the
+<lb/><term type="tribe">Bechuanas</term> "<foreign xml:lang="tn">Lesetla</foreign>" are
+<lb/>thus found lying forsaken
+<lb/>all over the country and
+<lb/>become prey to the <term type="animal"><choice><sic>Jackall</sic><corr>Jackal</corr></choice></term>
+<lb/>she seems averse to risking
+<lb/>a spot for a nest and
+<lb/>often lays her <term type="foodstuff">eggs</term> in that of
+<lb/>another bird so that as many
+<lb/>as 45 have been found in
+<lb/>one nest - <add place="marginleft"><metamark function="insertion"/>Some contain small
+    <lb/>concretions of the
+    <lb/>matter which
+    <lb/>forms the shell - <metamark function="insertion"/><anchor xml:id="add-20"/><!-- from image 376. sh -->
+    <lb/>This has given rise
+    <lb/>to the idea of
+    <lb/>stones in the <term type="foodstuff">eggs</term></add> 
+Both male &amp;
+
+
+<pb facs="liv_000099_0378.jpg" n="0378"/>    
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">355</add></fw>
+<lb/><add place="marginleft" rend="red" hand="#U3">female</add> assist in the incubation but
+<lb/>the numbers of females being
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>109</note></add> always greatest it is probable
+<lb/>that cases occur in which
+<lb/>the females have the entire
+<lb/>charge -- <add place="marginleft"><metamark function="insertion"/>Several <term type="foodstuff">eggs</term> lie
+    <lb/>out of the nest
+    <lb/>and are thought
+    <lb/>to be intended as
+    <lb/>food for the first
+    <lb/><add place="above">of the</add> newly hatched brood
+    <lb/>till the rest come
+    <lb/>out &amp; enable
+    <lb/>the whole to
+    <lb/><subst><del type="strikethrough" rend="red" hand="#U3">leave</del><add place="above" rend="red" hand="#U3">start</add></subst> in quest
+    <lb/>of food<add place="inline" hand="#U3" rend="red">.</add></add> 
+I have several times
+<lb/>seen newly hatched young
+<lb/>in charge of the <term type="animal">cock</term> <del type="strikethrough" rend="red" hand="#U3">and</del>
+<lb/><del type="strikethrough" rend="red" hand="#U3">he</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">who</add> made a very good <choice><sic>attempts</sic><corr>attempt</corr></choice>
+<lb/>at appearing lame in
+<lb/>the <term type="animal">plover</term> fashion <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">in order</add> to draw
+<lb/>off the <add place="below">^</add> <add place="above">attention of</add> pursuers <space extent="1" unit="chars"/>The young
+<lb/><add place="marginleft">(squat</add> <del type="strikethrough">be</del> down and remain
+<lb/>immoveable when too small
+<lb/>to run far but <subst><del type="strikethrough" rend="red" hand="#U3">maintain</del><add place="above" rend="red" hand="#U3">attain a</add></subst>
+<lb/>wonderful <subst><add place="above" rend="red" hand="#U3">degree of speed</add><del type="strikethrough" rend="red" hand="#U3">velocity</del></subst> when
+<lb/>about the size <add place="above" rend="red" hand="#U3">of</add> common
+<lb/><term type="animal">fowls</term> - <add place="marginleft"><metamark function="insertion"/>It cannot be
+    <lb/>asserted that
+    <lb/><del type="strikethrough" rend="red" hand="#U3">they</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3"><term type="animal">ostriches</term></add> are polygamous
+    <lb/>though they
+    <lb/>often appear
+    <lb/>to be so</add> 
+When caught they
+<lb/><space extent="3" unit="chars"/><del type="cancelled">The <term type="foodstuff">egg</term> <unclear cert="low">retains</unclear></del>
+<lb/>are easily tamed but are
+<lb/>of no use in their domesticated
+<lb/>state - </p>
+<lb/><space dim="vertical" extent="2" unit="lines"/>
+<lb/><p>The <term type="foodstuff">egg</term> is possessed of
+<lb/>very great vital power
+<lb/>One kept in a room during
+<lb/>more than three months
+<lb/>in a temperature <del type="cancelled">upwards</del>
+<lb/><add place="marginleft">about</add> <del type="cancelled">of</del> 60° when broken was
+<lb/>found to have a partially
+<lb/>developed live chick in
+<lb/>it - The <orgName>Bushman</orgName> <w>care-
+<lb break="no"/>fully</w> avoid touching the <term type="foodstuff">eggs</term>
+
+
+<pb facs="liv_000099_0379.jpg" n="0379"/>    
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">356</add></fw>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>110</note></add> or leaving marks of human
+<lb/>feet near them when they
+<lb/>find a nest - They go up
+<lb/>the wind to the spot and with
+<lb/>a long stick remove some of
+<lb/>them <add place="marginleft"><metamark function="insertion"/>occasionally</add> and by preventing
+<lb/>any suspicion keep <del type="strikethrough" rend="red" hand="#U3">her</del>
+<lb/><add place="marginleft" rend="red" hand="#U3">the <term type="animal">hen</term></add> laying on for months as
+<lb/>we do with <term type="animal">fowls</term> - The
+<lb/><term type="foodstuff">eggs</term> have a strong disagreeable
+<lb/>flavour which only the
+<lb/>keen <w>a<add place="below" rend="red" hand="#U3">^</add><add place="above" rend="red" hand="#U3">p</add>petite</w> of the Desert<!-- Kalahari Desert, sh -->
+<lb/>can reconcile one to - The
+<lb/><orgName>Hottentots</orgName> use their trousers
+<lb/>to carry home the twenty or
+<lb/>twenty five <term type="foodstuff">eggs</term> usually
+<lb/>found in a nest and it
+<lb/>has happened that an <term type="person">Englishman</term>
+<lb/>intending to imitate this knowing
+<lb/>dodge come<add place="inline" rend="red" hand="#U3">s</add> to <subst><del type="strikethrough" rend="red" hand="#U3">their</del><add place="above" rend="red" hand="#U3">the</add></subst> waggons
+<lb/>with blistered legs and after
+<lb/>great toil <del type="cancelled">to</del> find all the
+<lb/><term type="foodstuff">eggs</term> uneatable - Our countrymen
+<lb/>invariably do best when
+<lb/>they continue to <metamark function="reorder" spanTo="#meta-136"/><seg corresp="#reorder-52">act</seg><anchor xml:id="meta-136"/> think <del type="cancelled"><unclear cert="medium">and</unclear></del>
+<lb/>speak <add place="above" rend="red" hand="#U3">&amp;</add> <metamark function="insertion"/><anchor xml:id="reorder-52"/> in their own proper
+<lb/>character - </p>
+<lb/><p><del type="strikethrough" rend="red" hand="#U3">Their</del><add place="above" rend="red" hand="#U3">The</add> food <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">of the <term type="animal">ostrich</term></add> consists of
+<lb/><term type="foodstuff">pods</term> <add place="below">^</add> <add place="above">&amp; <term type="foodstuff">seeds</term></add> of different kinds of
+<lb/><term type="plant">Leguminous plants</term> with
+<lb/>leaves of various plants,
+<lb/>and as these are<!-- there is a word beneath 'are' but it is illegible.JL --> often hard
+<lb/>and dry he picks up a great
+<lb/>quantity of pebbles many
+
+
+<pb facs="liv_000099_0380.jpg" n="0380"/>    
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">357</add></fw>
+<lb/>of which are as large as marbles
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>111</note></add> He picks up also some
+<lb/>small bulbs and <choice><sic>occasionaly</sic><corr>occasionally</corr></choice>
+<lb/>a <term type="plant_foodstuff">wild melon</term> to afford
+<lb/>moisture, for one was 
+<lb/>found with <subst><del type="strikethrough" rend="red" hand="#U3">one</del><add place="above" rend="red" hand="#U3">a <term type="plant">melon</term></add></subst> which
+<lb/>had chocked him by sticking
+<lb/>in his throat - It requires
+<lb/>the utmost address of the
+<lb/><orgName>Bushmen</orgName> crawling for miles
+<lb/>on their stomachs to stalk
+<lb/>them successfully - Yet
+<lb/>the <subst><del type="strikethrough" rend="red" hand="#U3">numbers</del><add place="above" rend="red" hand="#U3">quantity</add></subst> of feathers
+<lb/>collected annually <metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> <add place="marginleft"><metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> <choice><orig>shew<add place="inline" rend="red" hand="#U3">s</add></orig><reg>shows</reg></choice> that the
+    <lb/>numbers slain
+    <lb/>must be</add> 
+<del type="cancelled">being in
+<lb/>only the a few in each
+<lb/><unclear cert="medium">wing of the number</unclear> <gap extent="5" unit="chars"/>must 
+<lb/>be</del> <metamark function="insertion"/> considerable <add place="marginleft"><metamark function="insertion" rend="red" resp="#U3"/><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-252"/><add place="inline" rend="red" hand="#U3">as</add> each <subst><del>case</del><add place="over-text">bird</add></subst>
+    <lb/><subst><del type="strikethrough" rend="red" hand="#U3">having</del><add place="above" rend="red" hand="#U3">has</add></subst> only
+    <lb/>a few in the
+    <lb/>wings and tail<anchor xml:id="meta-252"/></add>
+- This
+<lb/><del type="cancelled">latter <subst><del>animal</del><add place="above">bird</add></subst></del> <add place="below">^</add> <add place="above">male bird</add> is of a jet
+<lb/>black <add place="below">^</add> <add place="above">glossy</add> colour with the
+<lb/>single exception of the white
+<lb/>feathers <metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> noticed <add place="below">^</add> <add place="above">in trade</add> - Nothing
+<lb/>can be finer than the
+<lb/><add place="marginleft">adaptation</add> <del  type="strikethrough">arrangement</del> of these glossy
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><note>(<metamark function="ed-mark" place="above">x</metamark> <metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> where?)</note></del></add> feathers for the climate <add place="marginleft"><metamark function="insertion"/><del type="cancelled">where these
+    <lb/>birds abound</del>
+    <lb/>of the <placeName><geogName type="desert">Kalahari</geogName></placeName>
+    <lb/>where these
+    <lb/>birds abound</add>
+<lb/>for they afford a perfect
+<lb/>shade to the body with
+<lb/>free ventilation beneath
+<lb/>them - The <term type="animal">Hen ostrich</term>
+<lb/>is of dark brownish grey
+<lb/>colour and so are the
+<lb/>half grown <term type="animal">cocks</term> - </p>
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><seg rend="vertical"><hi rend="underline"><note><persName>Dennett</persName></note></hi></seg></add> <subst><del type="strikethrough" rend="red" hand="#U3">His</del><add place="above" rend="red" hand="#U3">The</add></subst> organs of vision
+<lb/><add place="marginleft" rend="red" hand="#U3">in this bird</add> are placed so high <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">that</add> he can
+<lb/>detect an enemy at a
+<lb/>great distance but the
+
+
+<pb facs="liv_000099_0381.jpg" n="0381"/>    
+<lb/><fw><add place="inspace above" hand="#U2" rend="gray right">20</add> <add place="inspace" hand="#U1" rend="gray right">358</add></fw>
+<lb/><term type="animal">lion</term> sometimes kills him: -
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>112</note></add> The flesh is white and coarse,
+<lb/>though when in good condition
+<lb/>it resembles in some
+<lb/>degree - <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">that of</add> a coarse turkey - It
+<lb/>seeks safety in flight<add place="inline" hand="#U2" rend="gray">,</add>
+<lb/>but when pursued by 
+ <lb/><term type="animal">dogs</term> it may be seen
+<lb/>to turn upon them
+<lb/><subst><del>when</del><add place="over-text">and</add></subst> inflict a kick
+<lb/>which is vigorously
+<lb/>applied<add place="inline" hand="#U2" rend="gray">,</add> and sometimes
+<lb/>breaks the back</p>
+
+
+</div>
+</body>
+</text>
+
+</TEI>
+
+

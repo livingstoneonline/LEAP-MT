@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt3.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000101">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III).</title><!-- This will change with each volume of the MS. -->
+                <author>David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <respStmt xml:id="JL">
+                    <name>Justin Livingstone</name>
+                    <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+                </respStmt>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Encoding Consultant</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="JG">
+                    <name>Johanna Green</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="PS">
+                    <name>Peter Slater</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="SH">
+                    <name>Stephen Hall</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>UCLA Digital Library</publisher>
+                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <!-- Possible year update. -->
+                <date>2014</date>
+                <availability>
+                    <!-- Possible license change. -->
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License
+                        </ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS.10702</idno><!-- This may change with each volume of the MS. -->
+                        <altIdentifier>
+                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                            <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote>
+                            <handNote xml:id="CL"><label>Charles Livingstone</label> This hand belongs to Charles Livingstone.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+                
+                <bibl type="sourceMetadata">
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III).</title><!-- This will change with each volume of the MS. -->
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="tn">Tswana</language>
+                <language ident="loz">Lozi</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+            <change when="2017-02-02" who="JL">Proofing and encoding review</change>
+            <change when="2017-01-08" who="KS">Proofreading</change>
+            <change when="2016-09-18" who="#SH">Initial transcription and XML encoding</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body rend="left">
+
+<!-- "use fullstops for Charles, unless it’s clearly a dash"; See 24.5. Substantial Sections in Another Hand, section written by Charles (i.e. <div hand="#CL”>)
+make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" hand=“#DL"> -->
+
+<div hand="#CL" n="CL" rend="no-line">
+
+<!-- p.503, Missionary Travels, sh -->
+<pb facs="liv_000101_0152.jpg" n="0152"/>
+<lb/><p rend="no-indent"><note place="inspace above" hand="#U1" n="U1" rend="gray">P. 503-532</note> <fw><add place="inspace" hand="#U1" n="U1" rend="gray right">147</add></fw>
+<lb/><note place="inline" hand="#DL" n="DL">XLVII</note> So <add place="below">^</add> <add place="above">in accordance with <choice><abbr>'</abbr><expan>the</expan></choice> advice <choice><abbr>`</abbr><expan>of</expan></choice> my <term type="tribe">Libonta</term> friends</add> I did not fail to reprove <add place="inline" hand="#DL" n="DL">"</add>my child <subst><del type="cancelled" hand="#DL" n="DL">on this <unclear cert="low">but</unclear></del><add place="above" hand="#DL" n="DL"><persName>Sekeletu</persName>"</add></subst>
+<lb/>for his marauding <del type="strikethrough" hand="#DL" n="DL">acts</del> <space extent="2" unit="chars"/>This was not done in an angry manner
+<lb/>for no <subst><del><gap extent="4" unit="chars"/></del><add place="over-text" hand="#DL" n="DL">good</add></subst> is ever achieved by fierce denunciation <space extent="3" unit="chars"/><persName><choice><orig>Motib<subst><del hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></orig><reg>Motibe</reg></choice></persName><del type="cancelled" hand="#DL" n="DL">'s</del>
+<lb/><del type="cancelled">fat</del> his father in law said to me "Scold him much but <choice><sic>dont</sic><corr>don't</corr></choice>
+<lb/>let others hear you". </p>
+<lb/><p><space extent="20" unit="chars"/>The <term type="tribe">Makololo</term> expressed great
+<lb/>satisfaction with <choice><abbr>'</abbr><expan>the</expan></choice> route <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-99"/> to the West <metamark function="reorder" resp="#DL" n="DL" spanTo="#meta-235"/><seg corresp="#reorder-99"> we had opened up</seg><anchor xml:id="meta-235"/>
+<lb/>and soon after our arrival a <foreign xml:lang="tn">Picho</foreign> was called in order to discuss
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> question of removal to <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">Barotse valley</geogName></placeName> <del type="strikethrough">in order</del> <add place="below">^</add> <add place="above">so that they might</add> <del type="cancelled">to</del> be nearer
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> market <space extent="3" unit="chars"/>Some of <choice><abbr>'</abbr><expan>the</expan></choice> older men objected to abandoning <choice><abbr>'</abbr><expan>the</expan></choice> line
+<lb/><choice><abbr>`</abbr><expan>of</expan></choice> defence afforded by <choice><abbr>'</abbr><expan>the</expan></choice> <del type="strikethrough">river</del> <placeName><geogName type="river">Chobe</geogName></placeName> and <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> against their
+<lb/>southern enemies the <term type="tribe">Matebele</term> <space extent="3" unit="chars"/>The <term type="tribe">Makololo</term> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">generally</add> have
+<lb/>an aversion to <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">Barotse valley</geogName></placeName> <del type="strikethrough">because</del> <add place="below">^</add> <add place="above">on account</add> of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="ailment">fevers</term> <choice><abbr>wh.</abbr><expan>which</expan></choice> are
+<lb/>annually engendered in it as <choice><abbr>'</abbr><expan>the</expan></choice> waters dry up <space extent="3" unit="chars"/>They prefer
+<lb/>it <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">only</add> as a <term type="animal">cattle</term> station, for though <choice><abbr>'</abbr><expan>the</expan></choice> herds are frequently thinned
+<lb/>by an epidemic disease (<hi rend="underline"><term type="ailment">peripneumonia</term></hi>) they breed so fast
+<lb/>that <choice><abbr>'</abbr><expan>the</expan></choice> losses are soon <del type="strikethrough">replaced</del> made good. <space extent="2" unit="chars"/>Wherever <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">else</add> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Makololo</term>
+<lb/>go they always leave a portion <choice><abbr>`</abbr><expan>of</expan></choice> their stock in <choice><abbr>'</abbr><expan>the</expan></choice> charge <choice><abbr>`</abbr><expan>of</expan></choice> <term type="occupation">herdsmen</term>
+<lb/>in <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">that</add> prolific valley <space extent="3" unit="chars"/>Some of <choice><abbr>'</abbr><expan>the</expan></choice> younger men objected to removal
+<lb/>because <choice><abbr>'</abbr><expan>the</expan></choice> rankness of <choice><abbr>'</abbr><expan>the</expan></choice> grass at <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>Barotse</region></placeName> did not allow <choice><abbr>`</abbr><expan>of</expan></choice> their
+<lb/>running fast and because there "it never becomes cool"
+<lb/><persName>Sekeletu</persName> at last stood up and addressing me said "I am
+<lb/>perfectly satisfied as to <choice><abbr>'</abbr><expan>the</expan></choice> great advantages <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-100"/> <choice><abbr>` '</abbr><expan>of the</expan></choice> path <metamark function="reorder" resp="#DL" n="DL" spanTo="#meta-236"/><seg corresp="#reorder-100">for trade</seg><anchor xml:id="meta-236"/>
+<lb/><choice><abbr>wh.</abbr><expan>which</expan></choice> you have opened and think that we ought to go to <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>Barotse</region></placeName> 
+<lb/>in order to make <choice><abbr>'</abbr><expan>the</expan></choice> way <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">from us to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></add> shorter but with whom am I to live there<add place="inline" hand="#DL" n="DL">?</add>
+<lb/><choice><sic>if</sic><corr>If</corr></choice> you were coming <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">with us</add> I would remove tomorrow but now you 
+<lb/>are going to <choice><abbr>'</abbr><expan>the</expan></choice> white man's country to bring <persName>Ma Robert</persName> and when
+<lb/>you return you will find me near to <choice><abbr>'</abbr><expan>the</expan></choice> spot on <choice><abbr>wh</abbr><expan>which</expan></choice> you wish
+<lb/> to dwell" <space extent="3" unit="chars"/>I had then no idea that any healthy spot
+<lb/>existed in <choice><abbr>'</abbr><expan>the</expan></choice> country and thought only <choice><abbr>`</abbr><expan>of</expan></choice> a convenient central
+<lb/>situation adapted for intercourse with <choice><abbr>'</abbr><expan>the</expan></choice> adjacent tribes and
+<lb/>with <choice><abbr>'</abbr><expan>the</expan></choice> coast such as that near to <choice><abbr>'</abbr><expan>the</expan></choice> confluence <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Leeba</geogName></placeName> &amp; <placeName><geogName type="river">Leeambye</geogName></placeName></p>
+<lb/><p>The <term type="ailment">fever</term> is certainly a drawback to this otherwise important
+<lb/><term type="occupation">missionary</term> field <space extent="2" unit="chars"/>The <seg type="weather">great humidity produced by heavy rains</seg>
+
+
+
+<pb facs="liv_000101_0153.jpg" n="0153"/>
+<lb/><space dim="vertical" extent="21" unit="lines"/>
+<lb/><space extent="10" unit="chars"/><add place="inline" corresp="#add-24">with <choice><abbr>'</abbr><expan>the</expan></choice> exception of <term type="foodstuff">sugar</term>less <term type="foodstuff">coffee</term><metamark function="insertion"/></add>
+<lb/><space dim="vertical" extent="13" unit="lines"/>
+    <lb/><space extent="42" unit="chars"/><metamark function="query" rend="gray" resp="#U2" n="U2">?</metamark>
+
+
+<pb facs="liv_000101_0154.jpg" n="0154"/>
+<lb/><fw> <add place="inspace" hand="#U1" n="U1" rend="gray right">148</add></fw>
+<lb/>and <seg type="weather">inundations the exuberant vegetation caused by fervid
+<lb/>heat in rich moist soil and <choice><abbr>'</abbr><expan>the</expan></choice> prodigious amount of decaying <choice><abbr>`</abbr><expan>of</expan></choice> vegetable
+<lb/>matter annually exposed after <choice><abbr>'</abbr><expan>the</expan></choice> inundations to <choice><abbr>'</abbr><expan>the</expan></choice> rays <choice><abbr>`</abbr><expan>of</expan></choice> a torrid
+<lb/>sun with a flat surface often covered by forest through <choice><abbr>wh.</abbr><expan>which</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> winds
+<lb/>cannot pass all combine to render <choice><abbr>'</abbr><expan>the</expan></choice> climate far from salubrious
+<lb/>for any portion <choice><abbr>` '</abbr><expan>of the</expan></choice> human family</seg> but <choice><abbr>'</abbr><expan>the</expan></choice> <term type="ailment">fever</term> thus caused <add place="above" hand="#DL" n="DL">&amp;</add> rendered
+<lb/>virulent is almost <choice><abbr>'</abbr><expan>the</expan></choice> only <del type="strikethrough" hand="#DL" n="DL"><unclear cert="high">bugbear</unclear></del> <add place="above" hand="#DL" n="DL"><del type="cancelled">disadvantage</del> disease</add> it possesses <space extent="2" unit="chars"/>There<del type="strikethrough">s</del> is no <term type="ailment"><w>con-
+<lb break="no"/>sumption</w></term> no<del type="cancelled" hand="#DL" n="DL">r</del> <term type="ailment">scrofula</term> and but little <term type="ailment">insanity</term> <space extent="2" unit="chars"/><term type="ailment">Small pox</term> and
+<lb/><term type="ailment"><choice><sic>meas<subst><del type="cancelled" hand="#DL" n="DL">els</del><add place="above" hand="#DL" n="DL">sles</add></subst></sic><corr>measles</corr></choice></term> <del type="strikethrough">paid a</del> visited the country some 30 years ago and cut off
+<lb/>many but <del type="cancelled" hand="#DL" n="DL">they</del> have since made no return although <choice><abbr>'</abbr><expan>the</expan></choice> former has
+<lb/>been almost constantly in one part or <add place="below">^</add> <w><add place="above">an</add>other</w> of <choice><abbr>'</abbr><expan>the</expan></choice> coast - Singularly
+<lb/>enough <choice><abbr>'</abbr><expan>the</expan></choice> people <subst><del type="strikethrough" hand="#DL" n="DL">use</del><add place="above" hand="#DL" n="DL">used</add></subst> <term type="medicament">inoculation</term> for this disease and in one village
+<lb/>where they seem to have chosen a malignant case from <choice><abbr>wh</abbr><expan>which</expan></choice> to <term type="medicament">inoculate</term>
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> rest nearly <choice><abbr>'</abbr><expan>the</expan></choice> whole village was cut off <space extent="3" unit="chars"/>I have seen but one case
+<lb/>of <term type="ailment"><choice><orig>hydrocephal<subst><del type="cancelled">ous</del><add place="above">us</add></subst></orig><reg>hydrocephalus</reg></choice></term> a few <choice><abbr>`</abbr><expan>of</expan></choice> <term type="ailment">epilepsy</term> none of <term type="ailment">cholera</term> or <term type="ailment">cancer</term> and
+<lb/>many diseases common in <placeName><country><choice><abbr>Eng</abbr><expan>England</expan></choice></country></placeName> are here quite unknown <space extent="3" unit="chars"/>It is
+<lb/>true that I suffered severely from <term type="ailment">fever</term> but my experience cannot
+<lb/>be taken as a fair criterion in <choice><abbr>'</abbr><expan>the</expan></choice> matter. Compelled to sleep on <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>damp ground month after month <del type="strikethrough">dur</del> exposed to <seg type="weather">drenching
+<lb/>showers</seg> and getting <choice><abbr>'</abbr><expan>the</expan></choice> lower extremities wetted two or three times
+<lb/>every day <space extent="2" unit="chars"/>living on <metamark function="insertion"/><anchor xml:id="add-24"/><!-- insertion from 0153, sh --> <add place="above" hand="#DL" n="DL"><orgName>native</orgName></add> food during <choice><abbr>'</abbr><expan>the</expan></choice> journey to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N.</abbr><expan>North</expan></choice> and <choice><abbr>'</abbr><expan>the</expan></choice> latter
+<lb/>half <choice><abbr>` '</abbr><expan>of the</expan></choice> return journey and<!-- letters beneath 'and' but illegible.JL --> that food <del type="strikethrough">being</del> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant_foodstuff">manioc roots</term> &amp;<!-- possible letters beneath '&' but illegible.JL --> <term type="foodstuff">meal</term>
+<lb/><choice><abbr>wh</abbr><expan>which</expan></choice> contain<del type="strikthrough">s</del> so much <term type="foodstuff">starch</term> that <choice><abbr>'</abbr><expan>the</expan></choice> eyes become affected and <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-22"/>
+<lb/>during many hours each day <metamark function="reorder" resp="#DL" n="DL" spanTo="#meta-9"/><seg corresp="#reorder-22">being exposed</seg><anchor xml:id="meta-9"/> in comparative inaction<!-- Livingstone has drawn a circle around the word "being exposed" KS -->
+<lb/>to <choice><abbr>'</abbr><expan>the</expan></choice> direct rays <choice><abbr>` '</abbr><expan>of the</expan></choice> sun – the thermometer standing above 96° in <choice><abbr>'</abbr><expan>the</expan></choice> shade
+<lb/>these constitute a more pitiful hygiene than any <term type="occupation">missionaries</term>
+<lb/>who may follow will ever have to endure <space extent="2" unit="chars"/>I do not mention
+<lb/>these privations as if I consider<del type="cancelled">ed</del> them to be "<hi rend="underline">sacrifices</hi>" for I think
+<lb/>that <choice><abbr>'</abbr><expan>the</expan></choice> word ought never to be applied to any thing we can do
+<lb/>for Him who came down from heaven and died for us, but I
+<lb/>suppose it is necessary to mention them in order that no <w>un-
+<lb break="no"/>favourable</w> opinion may be formed from my experience as
+<lb/><!-- '?' on 0153, sh -->to <add place="above" rend="gray" hand="#U2" n="U2">how others might be <unclear cert="low">now</unclear> if</add> <del type="strikethrough" rend="gray" hand="#U2" n="U2">what that <choice><abbr>`</abbr><expan>of</expan></choice> <subst><del>an</del><add place="over-text">oth</add></subst>ers</del> less exposed to <choice><abbr>'</abbr><expan>the</expan></choice> vicissitudes <choice><abbr>` '</abbr><expan>of the</expan></choice> weather
+<lb/>and change <choice><abbr>`</abbr><expan>of</expan></choice> diet <del type="cancelled" rend="gray" hand="#U2" n="U2">might be</del></p>
+
+</div>
+
+            <div hand="#DL" n="DL">
+
+<pb facs="liv_000101_0155.jpg" n="0155"/>
+<lb/><p><space dim="vertical" extent="10" unit="lines"/>
+<lb/><space extent="25" unit="chars"/><add place="inline" corresp="#add-26">or least fatal</add>
+<lb/><space dim="vertical" extent="10" unit="lines"/>
+<lb/><space extent="40" unit="chars"/><add place="inline" corresp="#add-27">either</add></p>
+
+
+<pb facs="liv_000101_0156.jpg" n="0156"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">149</add></fw>
+<lb/><p>I believe that the <placeName><region>Interior</region></placeName> of this country presents a
+<lb/>much more inviting field for the <term type="occupation">Philanthropist</term>
+<lb/>than does the West coast where <term type="occupation">missionaries</term>
+<lb/>of the <orgName><choice><sic>church missionary</sic><corr>Church Missionary</corr></choice></orgName> <add place="below">^</add> <add place="above"><orgName>United Presbyterian</orgName></add> &amp; other societies have
+<lb/>long laboured with <del type="cancelled">the</del> most <subst><del type="cancelled">marvellous</del><add place="above">astonishing</add></subst> <w>devoted<supplied>-</supplied>
+<lb break="no"/>ness</w> and <add place="below">^</add> <add place="above">never flagging</add> zeal - There the <term type="ailment">fevers</term> are much
+<lb/>more virulent <del type="cancelled"><subst><del>than</del><add place="over-text">and</add></subst></del> <add place="above">&amp;</add> more speedily fatal
+<lb/>than here - for from <measure>8° South</measure> they
+<lb/>almost invariably take on <subst><del type="strikethrough">all</del><add place="above">the</add></subst> intermittent
+<lb/><add place="below">^</add><anchor xml:id="add-26"/> type and their effect <subst><del>is</del><add place="over-text">being</add></subst> to enlarge the spleen
+<lb/><del type="strikethrough">which</del> <add place="below">^</add> <add place="above">a</add> complaint <add place="below">^</add> <add place="above">which</add> is <subst><del>of</del><add place="over-text">b</add></subst>est treated by
+<lb/>a change of climate <del type="strikethrough">which</del> <add place="below">^</add> <add place="above">&amp; that</add> we have
+<lb/>at hand on passing the <measure>20° parallel</measure>
+<lb/>on our way South -   But I am not to
+<lb/>be understood as intimating that any of the
+<lb/>numerous tribes are anxious <subst><del>to</del><add place="over-text">f</add></subst>or instruction
+<lb/>They are not the enquiring spirits we read
+<lb/>of in other countries they do not desire
+<lb/>the gospel because they know nothing about
+<lb/><add place="below">^</add><anchor xml:id="add-27"/> it or its benefits - But there is no
+<lb/>impediment in the way of <del type="cancelled">civilization</del>
+<lb/>instruction - Every <term type="occupation">headman</term> <del type="strikethrough">in the</del>
+<lb/><del type="cancelled">country</del> would be proud of a<del type="cancelled">ny</del> <orgName>European</orgName>
+<lb/>visitor or resident in his <subst><del type="strikethrough" rend="gray" hand="#U2" n="U2">country</del><add place="above" rend="gray" hand="#U2" n="U2">territory</add></subst>
+<lb/><del type="cancelled">for there</del> and there is perfect security
+<lb/>for life and property all over the
+<lb/>country - The great barriers which
+<lb/>have kept <placeName><bloc>Africa</bloc></placeName> shut are the unhealthiness
+<lb/>of the coast and the exclusive, illiberal
+<lb/>disposition of the <subst><del type="cancelled">coast</del><add place="above">border</add></subst> tribes - <del type="cancelled">The<add place="inline">y</add> 
+<lb/>latter would be <add place="below">^</add> <add place="above">prove</add> but a small obstacle<add place="inline">s</add>
+<lb/>in</del> It is to be hoped <w>th<subst><del>ey</del><add place="over-text">at</add></subst></w> <add place="below">^</add> <add place="above">these obstacles</add> will be overcome
+<lb/>by the more rapid means of locomotion
+<lb/>possessed by the present age if a good
+<lb/>highway can be found <subst><del>into</del><add place="over-text">fro</add></subst>m the coast
+<lb/>into the <placeName><region>Interior</region></placeName> </p> 
+
+
+<pb facs="liv_000101_0157.jpg" n="0157"/><!-- p506, Missionary,sh -->                
+<lb/><p><space dim="vertical" extent="4" unit="lines"/>
+<lb/><space extent="20" unit="chars"/><add place="inline"><note><persName>Oatutu</persName> <persName>Moaroro</persName> <term type="tribe">Bagogo</term></note></add>
+<lb/><space extent="20" unit="chars"/><add place="inline"><note><term type="tribe">Batutu</term> <term type="tribe">Baroro</term></note></add>
+<lb/>
+<lb/><space extent="14" unit="chars"/><add place="inline"><note><del type="cancelled"><term type="tribe">Balonda</term></del></note></add> <space extent="3" unit="chars"/><add place="inline" corresp="#add-28">The population <subst><del>is</del><add place="over-text">the</add></subst>re 
+<lb/><space extent="24" unit="chars"/>as located in</add>
+<lb/>
+<lb/><figure>
+    <figDesc>Diagram of Livingstone's journey around the southern end of Lake Tanganyika. Dotted lines indicate his route. See description on opposite page (image 0158).</figDesc>
+</figure>
+<lb/><space dim="vertical" extent="4" unit="lines"/>
+<lb/><space extent="4" unit="chars"/><add place="inline" corresp="#add-30"><metamark function="flag" spanTo="#meta-309"/>all spoke strongly of the difficulties
+<lb/>of travelling on the North bank on account
+<lb/>of the excessively broken &amp; rocky nature of
+<lb/>the country near the river on that side
+<lb/>and when <del type="cancelled">one</del><persName>Ponuane</persName> proposed that I should
+<lb/>carry canoes along that side till we reached
+<lb/>the spot where the <placeName><geogName type="river">Leeambye</geogName></placeName> comes out
+<lb/>broad &amp; placid again others declared that
+<lb/>from the difficulties he himself had experienced
+<lb/>in forcing the men of his expedition to do this
+<lb/>that my men would be sure to desert me if<anchor xml:id="meta-309"/></add>
+</p>
+
+</div>
+<div hand="#CL" n="CL">
+
+
+<pb facs="liv_000101_0158.jpg" n="0158"/>
+<lb/><p><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">150</add></fw>
+<lb/>Having found it impracticable to open a carriage path to <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>west it became a question to <choice><abbr>wh</abbr><expan>which</expan></choice> part of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region><choice><abbr>E</abbr><expan>East</expan></choice> coast</region></placeName> we should direct
+<lb/>our steps, The <orgName><choice><sic>arabs</sic><corr>Arabs</corr></choice></orgName> had come from <placeName><geogName type="island">Zanzibar</geogName></placeName> through a peaceful country.
+<lb/>They assured me that <choice><abbr>'</abbr><expan>the</expan></choice> powerful <term type="occupation">chiefs</term> beyond <choice><abbr>'</abbr><expan>the</expan></choice> <persName>Cazembe</persName> on <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/><choice><abbr>N.E</abbr><expan>North East</expan></choice> viz <persName>Oatutu</persName> <persName>Moarore</persName> and <del type="strikethrough"><persName>Mokiko</persName></del> <persName>Mogogo</persName> <term type="occupation">chiefs</term> <choice><abbr>` '</abbr><expan>of the</expan></choice> tribes
+<lb/><term type="tribe">Batutu</term> <term type="tribe">Barore</term> and <term type="tribe">Bagogo</term> would have no objection to my passing
+<lb/>through their country <space extent="2" unit="chars"/>They described <choice><abbr>'</abbr><expan>the</expan></choice> <del type="cancelled" hand="#DL" n="DL">country to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N. E.</abbr><expan>North East</expan></choice> as inhabited
+<lb/>by people</del> <add place="below" hand="#DL" n="DL">^</add><anchor xml:id="add-28"/> in small villages like <term type="tribe"><choice><orig><subst><del>L</del><add place="over-text" hand="#DL" n="DL">Bal</add></subst>onda</orig><reg>Balonda</reg></choice></term> and that no difficulty
+<lb/>is experienced in travelling amongst them <space extent="3" unit="chars"/>They mentioned
+<lb/>also that at a <measure>distance of ten days</measure> beyond <persName>Cazembe</persName> the path
+    <lb/>winds round <choice><abbr>'</abbr><expan>the</expan></choice> end <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><geogName type="lake"><choice><orig>Lake Tangany<subst><del>a</del><add place="above">en</add></subst>ka</orig><reg>Lake Tanganyika</reg></choice></geogName></placeName> <space extent="3" unit="chars"/><choice><sic>when</sic><corr>When</corr></choice> they strike
+<lb/>this lake a little to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N.</abbr><expan>North</expan></choice> they find no difficulty in <choice><abbr>obtng</abbr><expan>obtaining</expan></choice> canoes to
+<lb/>carry them over <space extent="3" unit="chars"/>There are many small streams in <choice><abbr>'</abbr><expan>the</expan></choice> path
+<lb/>and three large rivers - this then appeared to me to be <choice><abbr>'</abbr><expan>the</expan></choice> safest
+<lb/>but my object <add place="below">^</add> <add place="above">now</add> being a path admitting <choice><abbr>`</abbr><expan>of</expan></choice> either land or water
+<lb/>carriage this route did not promise so much as that by way of
+<lb/>the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> or <placeName><geogName type="river">Leeambye</geogName></placeName> <space extent="4" unit="chars"/>The <term type="tribe">Mokololo</term> knew all the
+<lb/>country eastwards as far as <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Kafue</geogName></placeName> from having lived in former
+<lb/>times near <choice><abbr>'</abbr><expan>the</expan></choice> confluence <choice><abbr>`</abbr><expan>of</expan></choice> that river with <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> and they all
+<lb/>advised this path in preference of that by <choice><abbr>'</abbr><expan>the</expan></choice> way to <placeName><geogName type="island">Zanzibar</geogName></placeName>. <space extent="3" unit="chars"/>The
+<lb/>only difficulty <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">that they assured me of</add> <del type="strikethrough" hand="#DL" n="DL">in way I was assured</del> <subst><del>were</del><add place="over-text">was</add></subst> the <placeName><geogName type="waterfall">falls of Victoria</geogName></placeName>
+<lb/>Some recommended my going to <placeName><settlement type="town">Sesheke</settlement></placeName> and crossing over in
+<lb/>a <choice><abbr>N. E</abbr><expan>North East</expan></choice> direction to <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Kafue</geogName></placeName> <add place="below">^</add> <add place="above"><choice><abbr>wh.</abbr><expan>which</expan></choice> is only <measure>6 days distant</measure></add> and descending that to <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
+<lb/>Others recommended to go on <choice><abbr>'</abbr><expan>the</expan></choice> south bank <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
+<lb/>until I had got past <choice><abbr>'</abbr><expan>the</expan></choice> falls then get canoes and proceed
+<lb/>further down <choice><abbr>'</abbr><expan>the</expan></choice> river <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-30"/><anchor xml:id="add-29"/> <subst><del hand="#DL" n="DL"><unclear cert="medium">The</unclear></del><add place="over-text" hand="#DL" n="DL">Another</add></subst> objection to travelling on either 
+<lb/>bank <choice><abbr>` '</abbr><expan>of the</expan></choice> river was <choice><abbr>'</abbr><expan>the</expan></choice> prevalence <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="insect">tsetse</term> <choice><abbr>wh</abbr><expan>which</expan></choice> is so abundant that
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> inhabitants can keep no domestic animals except <term type="animal">goats</term></p>
+<lb/><p>In pondering over these difficult paths I could not help regretting
+<lb/>my being alone <space extent="2" unit="chars"/>If I had enjoyed <choice><abbr>'</abbr><expan>the</expan></choice> company <choice><abbr>`</abbr><expan>of</expan></choice> my former <w>com-
+<lb break="no"/>panion</w> <persName>Mr Oswell</persName> one <choice><abbr>`</abbr><expan>of</expan></choice> us might have taken <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> and 
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> other gone by way <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><geogName type="island">Zanzibar</geogName></placeName> <space extent="2" unit="chars"/>The latter route was decidedly
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> easiest because all <choice><abbr>'</abbr><expan>the</expan></choice> inland tribes were friendly <del type="strikethrough">by</del> while <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>tribes in <choice><abbr>'</abbr><expan>the</expan></choice> direction <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> were hostile and I should now
+<lb/><add place="inline" hand="#DL" n="DL" corresp="#add-29"><metamark function="flag" spanTo="#meta-310"/>I attempted to impose such a task upon them<anchor xml:id="meta-310"/></add>
+
+
+<pb facs="liv_000101_0159.jpg" n="0159"/>
+<lb/><space dim="vertical" extent="3" unit="lines"/>
+<lb/><space extent="10" unit="chars"/><add place="inline" corresp="#add-31" hand="#DL" n="DL">and the winds blew strongly from
+<lb/><space extent="10" unit="chars"/>the East</add>
+<lb/><space dim="vertical" extent="5" unit="lines"/>
+<lb/><add place="inline" hand="#DL" n="DL" corresp="#add-32"><metamark function="insertion"/>The parts of the country about <measure>17° &amp; 18°</measure>
+<lb/>suffer from <seg type="weather">droughts</seg> &amp; become
+<lb/>dusty -  It is but the commencement
+<lb/>of the <del type="cancelled">re</del> humid region to the North
+<lb/>and partakes occasionally 
+<lb/>of the character of both the
+<lb/>wet &amp; dry regions</add>
+<lb/><space dim="vertical" extent="5" unit="lines"/>
+<lb/><add place="inline" corresp="#add-33" hand="#DL" n="DL"><metamark function="insertion"/>As crowds come to see me</add>
+<lb/><space dim="vertical" extent="3" unit="lines"/>
+<lb/><space extent="30" unit="chars"/><add place="inline" hand="#DL" n="DL" corresp="#add-34">They form</add>
+
+
+
+<pb facs="liv_000101_0160.jpg" n="0160"/>
+<lb/><fw> <add place="inspace" hand="#U1" n="U1" rend="gray right">151</add></fw>
+<lb/>be obliged to lead a party <choice><abbr>wh</abbr><expan>which</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Batoka</term> of that country view as hostile
+<lb/>invaders through an enemy’s country but as <choice><abbr>'</abbr><expan>the</expan></choice> prospect <choice><abbr>`</abbr><expan>of</expan></choice> permanent
+<lb/>water conveyance was good I decided on going down <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>  
+<lb/>Being near <choice><abbr>'</abbr><expan>the</expan></choice> <add place="below">^</add> <add place="above">end of</add> September <seg type="weather">the rains were expected daily the clouds were <w>col-
+<lb break="no"/>lecting</w> <add place="below" hand="#DL" n="DL">^</add><anchor xml:id="add-31"/>  but it was excessively hot</seg> <space extent="2" unit="chars"/><choice><sic>all</sic><corr>All</corr></choice> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Mokololo</term> urged me
+<lb/>strongly to remain till <choice><abbr>'</abbr><expan>the</expan></choice> ground should be <seg type="weather">cooled by <choice><abbr>'</abbr><expan>the</expan></choice> rains</seg> and
+<lb/>as it was probable that <subst><del>w</del><add place="over-text">I</add></subst> should get <term type="ailment">fever</term> if I commenced my
+<lb/>journey now I resolved to wait <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-32"/> <space extent="3" unit="chars"/>Some idea may be formed
+<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> <subst><del type="cancelled"><unclear cert="low">eat</unclear></del><add place="above">heat</add></subst> in <choice><abbr>Oct</abbr><expan>October</expan></choice> by <choice><abbr>'</abbr><expan>the</expan></choice> fact that <choice><abbr>'</abbr><expan>the</expan></choice> thermometer stood in <choice><abbr>'</abbr><expan>the</expan></choice> <seg type="weather">shade of my waggon
+<lb/>at 100° through the day</seg> <space extent="2" unit="chars"/>If <seg type="weather">unprotected <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">from the wind</add> it rose to 110° — at dark it
+<lb/>showed 89° at 10 <choice><abbr>oclk</abbr><expan>o'clock</expan></choice> 80° then gradually sinks till sunrise when
+<lb/>it <subst><del hand="#DL" n="DL">is</del><add place="over-text" hand="#DL" n="DL">was</add></subst> 70°</seg> <space extent="3" unit="chars"/>That is usually <choice><abbr>'</abbr><expan>the</expan></choice> period of greatest cold <subst><del type="strikethrough" hand="#DL" n="DL">for</del> <add place="above" hand="#DL" n="DL">in this region</add></subst> <seg type="weather">I have
+<lb/>seen on many occasions the thermometer fall a few degrees just
+<lb/>as <choice><abbr>'</abbr><expan>the</expan></choice> <choice><sic>suns</sic><corr>sun's</corr></choice> rays began to shoot across <choice><abbr>'</abbr><expan>the</expan></choice> atmosphere</seg> <space extent="3" unit="chars"/>The <orgName>natives</orgName>
+<lb/>during <choice><abbr>'</abbr><expan>the</expan></choice> period of greatest heat keep in their huts <choice><abbr>wh.</abbr><expan>which</expan></choice> are always
+<lb/>pleasantly cool by day but close and suffocating by night  
+<lb/>Those who are able to afford it sit guzzling <term type="foodstuff">beer</term> or <term type="foodstuff">boyaloa</term>
+<lb/>The perspiration produced by copious draughts seem to give enjoyment
+<lb/><del type="cancelled">or</del> the evaporation causing a feeling of coolness. <space extent="3" unit="chars"/>The <term type="occupation">attendants</term> of
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">chief</term> on these occasions keep up a continuous roar of <subst><add place="above" hand="#DL" n="DL">bantering</add><del type="strikethrough" hand="#DL" n="DL">chafing</del></subst>
+<lb/><choice><sic>railery</sic><corr>raillery</corr></choice> and laughing <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">&amp; swearing</add> <space extent="2" unit="chars"/>In <add place="inline" hand="#DL" n="DL">the</add> moon light <del type="strikethrough">nights</del> the dance is
+<lb/>kept up till past midnight <space extent="2" unit="chars"/>The women stand clapping
+<lb/>their hands continuously and <choice><abbr>'</abbr><expan>the</expan></choice> old men sit admiringly and say
+<lb/>"It is really very fine" <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-33"/> <space extent="4" unit="chars"/>I employed much of my time
+<lb/>in conversation as that is a good mode of conveying instruction
+<lb/>In the public meetings for worship the people listened very
+<lb/>attentively and behaved with more decorum than formerly
+<lb/><anchor xml:id="add-34"/> <del type="cancelled" hand="#DL" n="DL">It seems <add place="above" hand="#DL" n="DL">is</add></del> really a very worthy field for <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">a</add> <term type="occupation">missionary</term> <del type="cancelled" hand="#DL" n="DL">labours</del>
+<lb/>Surely <choice><abbr>'</abbr><expan>the</expan></choice> oft told tale of <choice><abbr>'</abbr><expan>the</expan></choice> goodness and love of our heavenly Father in
+<lb/>giving up his own Son to death for us sinners will beget love
+<lb/>in some of these heathen hearts.</p>
+<lb/><p><space extent="27" unit="chars"/><date when="1855-10-01">1<hi rend="sup underline">st</hi> <choice><abbr>Oct</abbr><expan>October</expan></choice></date> Before <del type="strikethrough"><add place="above">Before</add></del> <persName>Ben Habib</persName> started
+<lb/>for <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> he asked <choice><abbr>'</abbr><expan>the</expan></choice> daughter <choice><abbr>`</abbr><expan>of</expan></choice> <persName>Sebituane</persName> in marriage <choice><sic>this</sic><corr>This</corr></choice>
+<lb/>is <choice><abbr>'</abbr><expan>the</expan></choice> plan <add place="below">^</add> <add place="below">these <orgName>Arabs</orgName></add> <del type="cancelled">they</del> adopt for gaining influence in a tribe and they have
+
+
+<pb facs="liv_000101_0161.jpg" n="0161"/>
+<lb/><space dim="vertical" extent="5" unit="lines"/>
+<lb/><space extent="25" unit="chars"/><add place="inline" hand="#DL" n="DL"><note><persName>Manchunyane</persName></note></add>
+<lb/><space dim="vertical" extent="7" unit="lines"/>
+<lb/><space extent="27" unit="chars"/><add place="inline" hand="#DL" n="DL" corresp="#add-35">pronounced by the <term type="tribe">Makololo</term></add>
+<lb/><space dim="vertical" extent="5" unit="lines"/>
+<lb/><space extent="24" unit="chars"/><add place="inline" hand="#DL" n="DL" corresp="#add-36">reference to her will</add>
+<lb/><space dim="vertical" extent="13" unit="lines"/>
+<lb/><space extent="37" unit="chars"/><add place="inline" hand="#DL" n="DL" corresp="#add-37">in the sun -</add>
+
+
+<pb facs="liv_000101_0162.jpg" n="0162"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">152</add></fw>
+<lb/>been known to proceed thus cautiously to form connections and
+<lb/>gradually gain so much influence as to draw all <choice><abbr>'</abbr><expan>the</expan></choice> tribe over to
+<lb/>their religion <space extent="2" unit="chars"/>I never heard any of any persecution although <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>Arabs</orgName>
+<lb/>with whom I came in contact seemed much attached to their
+<lb/>religion. <space extent="4" unit="chars"/>This daughter of <persName>Sebituane</persName> named <persName>Manchunyane</persName> 
+<lb/>was about 12 <choice><abbr>yrs</abbr><expan>years</expan></choice> of age <space extent="2" unit="chars"/>As I was <choice><abbr>'</abbr><expan>the</expan></choice> bosom friend of her father I was
+<lb/>supposed to have a voice in her disposal &amp; objected to her being
+<lb/>taken away we knew not whither and where we might never see
+<lb/>her again  <space extent="2" unit="chars"/>As her name <choice><sic>impties</sic><corr>implies</corr></choice> she <subst><del>is</del><add place="over-text">was</add></subst> only a little black and besides
+<lb/>being as fair as any of <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>Arabs</orgName> had quite the <orgName>Arab</orgName> features <space extent="2" unit="chars"/>So I have
+<lb/>no doubt but that <persName>Ben Habib</persName> will renew his suit more <choice><sic>successfuly</sic><corr>successfully</corr></choice>
+<lb/>on some other occasion <space extent="4" unit="chars"/>In these cases of marriage <choice><abbr>'</abbr><expan>the</expan></choice> consent
+<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> young woman is seldom asked <space extent="2" unit="chars"/>A <term type="occupation">maid servant</term> <choice><abbr>`</abbr><expan>of</expan></choice> <persName>Sekeletu</persName>
+<lb/><del type="cancelled" hand="#DL" n="DL">said</del> <add place="below" hand="#DL" n="DL">^</add><anchor xml:id="add-35"/> to be good looking was at this time sought in marriage by
+<lb/>5 young men <space extent="2" unit="chars"/><persName>Sekeletu</persName> happening to be at my waggon when one
+<lb/><choice><abbr>`</abbr><expan>of</expan></choice> these preferred his suit very <choice><sic>cooly</sic><corr>coolly</corr></choice> ordered all 5 to stand in
+<lb/>a row before <choice><abbr>'</abbr><expan>the</expan></choice> young woman that she might make her choice 
+<lb/>Two refused to stand apparently because they could not
+<lb/>brook <choice><abbr>'</abbr><expan>the</expan></choice> idea <choice><abbr>`</abbr><expan>of</expan></choice> a repulse although willing enough to take her
+<lb/>if <persName>Sekeletu</persName> had acceded to their <subst><del type="strikethrough">condition</del><add place="above" hand="#DL" n="DL">petitions</add></subst> without <del type="strikethrough">asking her consent</del> <anchor xml:id="add-36"/>
+<lb/>Three dandified fellows stood forth and she unhesitatingly 
+<lb/><del type="strikethrough">chose</del> <choice><sic><choice><abbr>'</abbr><expan>the</expan></choice></sic><corr/></choice> decided on taking <choice><abbr>'</abbr><expan>the</expan></choice> best looking <space extent="3" unit="chars"/>It was amusing to
+<lb/>look at <choice><abbr>'</abbr><expan>the</expan></choice> mortification exhibited on <choice><abbr>'</abbr><expan>the</expan></choice> black faces of the
+<lb/>unsuccessful candidates while <choice><abbr>'</abbr><expan>the</expan></choice> spectators <subst><del type="strikthrough" hand="#DL" n="DL">join in</del> <add place="above">greeted them with</add></subst> a hearty
+<lb/>laugh <del type="cancelled">at</del> <space unit="chars" extent="23"/>During <choice><abbr>'</abbr><expan>the</expan></choice> whole <choice><abbr>`</abbr><expan>of</expan></choice> my stay
+<lb/>with <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Mokololo</term> <persName>Sekeletu</persName> supplied my wants abundantly
+<lb/>appointing some <term type="animal">cows</term> to <del type="strikethrough" hand="#DL" n="DL">yield</del> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">furnish me, with</add> <term type="foodstuff">milk</term> and when he went out 
+<lb/>to hunt sent home orders for <choice><sic>slaughter</sic><corr>slaughtered</corr></choice> <term type="animal">oxen</term> to be given —
+<lb/>That <choice><abbr>'</abbr><expan>the</expan></choice> food was not given in a niggardly spirit may be inferred
+<lb/>from <choice><abbr>'</abbr><expan>the</expan></choice> fact that when I proposed to depart on <choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-10-20">20<hi rend="sup">th</hi> <choice><abbr>Oct</abbr><expan>October</expan></choice></date> he
+<lb/>protested against my going off in such a <seg type="weather">hot sun</seg> <space extent="3" unit="chars"/>"Only 
+<lb/>wait" said he "for <choice><abbr>'</abbr><expan>the</expan></choice> <seg type="weather">first shower</seg> and then I will let you go" <choice><sic>this</sic><corr>This</corr></choice>
+<lb/>was reasonable for <choice><abbr>'</abbr><expan>the</expan></choice> thermometer placed upon a deal box <anchor xml:id="add-37"/>
+<lb/><seg type="weather">rose to 138° <space extent="3" unit="chars"/>It stood at 108° in <choice><abbr>'</abbr><expan>the</expan></choice> shade by day and at 96°</seg>    
+
+
+<pb facs="liv_000101_0163.jpg" n="0163"/>
+<lb/><space dim="vertical" extent="5" unit="lines"/>
+<lb/><add place="inline" corresp="#add-39"><metamark function="insertion"/>Even <choice><abbr>'</abbr><expan>the</expan></choice> plains between <placeName><settlement type="town">Linyanti</settlement></placeName> and <placeName><settlement type="town">Sesheke</settlement></placeName> had not yet been
+<lb/>freed from <choice><abbr>'</abbr><expan>the</expan></choice> waters of the inundation <space extent="2" unit="chars"/>They had risen higher than
+<lb/>usual and for a long time canoes passed from <choice><abbr>'</abbr><expan>the</expan></choice> one place to <choice><abbr>'</abbr><expan>the</expan></choice> other
+<lb/>a <measure>distance of upwards of 120 miles</measure> in nearly a straight line <choice><sic>we</sic><corr>We</corr></choice> found
+<lb/>many patches of stagnant water <choice><abbr>wh.</abbr><expan>which</expan></choice> when disturbed by our passing
+<lb/>through them evolved a strong effluvia of sulphuretted hydrogen <del type="cancelled">In</del>
+<lb/>At other times these spots show an <choice><sic>effloresc</sic><corr>efflorescence</corr></choice> of <choice><abbr>'</abbr><expan>the</expan></choice> nitrate of soda
+<lb/>They also contain abundance <choice><abbr>`</abbr><expan>of</expan></choice> lime. <space extent="2" unit="chars"/>Probably from these emanated
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> <term type="ailment">malaria</term> <choice><abbr>wh</abbr><expan>which</expan></choice> caused <choice><abbr>'</abbr><expan>the</expan></choice> present sickness - <add place="inline" hand="#DL" n="DL">I have often
+<lb/>remarked this effluvium in sickly spots
+<lb/>and cannot help believing but that it
+<lb/>has some connection with <term type="ailment">fever</term>
+<lb/>though I am quite aware of <persName>Dr MacWilliam</persName>’s
+<lb/>unsuccessful efforts to discover
+<lb/>sulphuretted hydrogen by the most
+<lb/>delicate tests in the <orgName><placeName><geogName type="river">Niger</geogName></placeName> Expedition</orgName></add></add>
+
+
+<pb facs="liv_000101_0164.jpg" n="0164"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">153</add></fw>
+<lb/>at sunset <space extent="2" unit="chars"/>If my experiments were correct <choice><abbr>'</abbr><expan>the</expan></choice> blood <choice><abbr>`</abbr><expan>of</expan></choice> a <orgName>European</orgName>
+<lb/>is of a higher temperature than that <choice><abbr>` '</abbr><expan>of the</expan></choice> <orgName>African</orgName> <space extent="2" unit="chars"/>The bulb held
+<lb/>under my tongue stood at <del type="cancelled">a</del> 100° under that <choice><abbr>` '</abbr><expan>of the</expan></choice> <orgName>natives</orgName> at 98°
+<lb/>There was much sickness in <choice><abbr>'</abbr><expan>the</expan></choice> town and no wonder for part of
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> water <choice><abbr>` '</abbr><expan>of the</expan></choice> flood <choice><abbr>'</abbr><expan>the</expan></choice> inundation still formed a large pond in <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>centre <metamark function="insertion"/><anchor xml:id="add-39"/> <space extent="3" unit="chars"/>I had <del type="cancelled">then</del> plenty <choice><abbr>`</abbr><expan>of</expan></choice> employment for besides <choice><abbr>attendg</abbr><expan>attending</expan></choice>
+<lb/>to <choice><abbr>'</abbr><expan>the</expan></choice> severer cases I had perpetual calls on my attention <space extent="2" unit="chars"/>The town
+<lb/>contained at least seven thousand inhabitants and every one
+<lb/>thought that he might come and at least look at me</p>
+<lb/><p> In conversing with some <choice><abbr>` '</abbr><expan>of the</expan></choice> more intelligent in <choice><abbr>'</abbr><expan>the</expan></choice> evenings the
+<lb/>conversation having turned from inquiries respecting eclipses of
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> sun and moon to that other world where <persName>Jesus</persName> reigns they
+<lb/>let me know that my attempts to enlighten them had not been
+<lb/>without effect <space extent="3" unit="chars"/>"Many <choice><abbr>` '</abbr><expan>of the</expan></choice> children said they talk about
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> strange things you bring to their ears but <choice><abbr>'</abbr><expan>the</expan></choice> old men show some
+<lb/>little opposition by saying "Do we know what he is talking about?<supplied cert="high">"</supplied>
+<lb/><persName>Ntlaria</persName> and others complain <choice><abbr>`</abbr><expan>of</expan></choice> treacherous memories and say
+<lb/><supplied cert="high">"</supplied>when we hear words about other things we hold them fast but
+<lb/>when we hear you tell much more wonderful things than
+<lb/>any we have <add place="below">^</add> <add place="above">ever</add> heard before we <choice><sic>dont</sic><corr>don't</corr></choice> know how it is they run
+<lb/>away from our hearts" <space extent="3" unit="chars"/>These are <choice><abbr>'</abbr><expan>the</expan></choice> more intelligent of my
+<lb/><term type="tribe">Makololo</term> friends. <space extent="2" unit="chars"/>On the majority the teaching produces
+<lb/>no appreciable effect <choice><sic>they</sic><corr>They</corr></choice> assent to <choice><abbr>'</abbr><expan>the</expan></choice> truth with most
+<lb/>perplexing indifference adding "But we <choice><sic>dont</sic><corr>don't</corr></choice> know" or "we
+<lb/>do not understand" <space extent="14" unit="chars"/>My medical intercourse
+<lb/>with them enabled me to ascertain their moral status better
+<lb/>than a mere <term type="occupation">religious teacher</term> <subst><del type="strikethrough">might</del><add place="above">could</add></subst> do <space extent="4" unit="chars"/>They do not <w>at-
+<lb break="no"/>tempt</w> to hide <choice><abbr>'</abbr><expan>the</expan></choice> evil as men often do from their <term type="occupation">spiritual instructors</term>
+<lb/>but I have found it difficult to come to a conclusion on <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>matter <space extent="3" unit="chars"/>They sometimes perform actions remarkably good
+<lb/>and sometimes as strangely <choice><abbr>'</abbr><expan>the</expan></choice> opposite <space extent="3" unit="chars"/>I have <add place="above" hand="#DL" n="DL">been</add> unable to ascertain
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> motive for <choice><abbr>'</abbr><expan>the</expan></choice> good or account for <choice><abbr>'</abbr><expan>the</expan></choice> callousness <choice><abbr>`</abbr><expan>of</expan></choice> conscience with
+<lb/><choice><abbr>wh.</abbr><expan>which</expan></choice> they perpetrate <choice><abbr>'</abbr><expan>the</expan></choice> bad <space extent="3" unit="chars"/>After long <subst><del type="cancelled" hand="#DL" n="DL">experience I <unclear cert="low">had come</unclear></del><add place="above" hand="#DL" n="DL">observation I came</add></subst>  
+<lb/>to <choice><abbr>'</abbr><expan>the</expan></choice> conclusion <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">that</add> they are just a strange mixture <choice><abbr>`</abbr><expan>of</expan></choice> good &amp; evil
+
+
+<pb facs="liv_000101_0165.jpg" n="0165"/>
+<lb/><space dim="vertical" extent="31" unit="lines"/>
+    <lb/><space extent="30" unit="chars"/><add place="inline" hand="#DL" n="DL" corresp="#add-40"><choice><sic>when</sic><corr>When</corr></choice> I took him</add>
+
+
+<pb facs="liv_000101_0166.jpg" n="0166"/><!-- p511 Missionary travels, sh  -->    
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">154</add></fw>
+<lb/>as men are everywhere else <space extent="3" unit="chars"/>There is <subst><del type="strikethrough" hand="#DL" n="DL">no where</del><add place="above" hand="#DL" n="DL">not among them</add></subst> an approach to
+<lb/>that constant stream of benevolence flowing from <choice><abbr>'</abbr><expan>the</expan></choice> rich to <choice><abbr>'</abbr><expan>the</expan></choice> poor
+<lb/>which we have in <placeName><country>England</country></placeName> nor yet <choice><abbr>'</abbr><expan>the</expan></choice> unostentatious attentions
+<lb/><choice><abbr>wh</abbr><expan>which</expan></choice> we have among our own poor to each other <space extent="2" unit="chars"/>Yet there are
+<lb/>frequent instances of genuine kindness and liberality as well as
+<lb/>actions of an opposite character <space extent="3" unit="chars"/>The rich show kindness to <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>poor in expectation of services and a poor person who has no relatives
+<lb/>will seldom be supplied with <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">even</add> water <del type="strikethrough" hand="#DL" n="DL">even</del> in illness and when dead
+<lb/>will be dragged out to be devoured by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">hyenas</term>, instead of <choice><abbr>beg</abbr><expan>being</expan></choice> buried</p>
+<lb/><p>Relatives alone will condescend to touch a dead body  
+<lb/>It would be easy to enumerate instances of inhumanity which
+<lb/>I have witnessed  <space extent="3" unit="chars"/>An interesting looking girl came to my
+<lb/>waggon one day in a state of nudity and almost a skeleton
+<lb/>She was a captive from another tribe and had been neglected 
+<lb/>by <choice><abbr>'</abbr><expan>the</expan></choice> man who claimed her - having supplied her wants I made 
+<lb/>enquiry for <add place="above" hand="#DL" n="DL">him</add> <del type="strikethrough" hand="#DL" n="DL"><choice><abbr>'</abbr><expan>the</expan></choice> man who claimed her</del> and found that he had been
+<lb/>unsuccessful in raising a crop of <term type="plant_foodstuff">corn</term> and had no food to
+<lb/>give her <space extent="2" unit="chars"/>I volunteered to take her but he said he would
+<lb/>allow me to feed her and make her fat and then take her away
+<lb/>I protested against this heartlessness and as he said he could not
+<lb/>part with his child I was <add place="below" hand="#DL" n="DL">^</add> <subst><add place="above" hand="#DL" n="DL">precluded from</add><del type="strikethrough" hand="#DL" n="DL">unable to</del></subst> attend<add place="inline" hand="#DL" n="DL">ing</add> to her wants <space extent="3" unit="chars"/>In a 
+<lb/>day or two she was lost sight of - She had gone out a little
+<lb/>way from <choice><abbr>'</abbr><expan>the</expan></choice> town and too weak to return had been cruelly left to
+<lb/>perish <add place="inline" hand="#DL" n="DL"><choice><sic>one</sic><corr>One</corr></choice> day</add> <del type="cancelled" hand="#DL" n="DL">another case</del> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">I saw</add> a poor boy <del type="strikethrough" hand="#DL" n="DL">was seen</del> going to the 
+<lb/>water to drink apparently in a <term type="ailment">starving</term> condition This case I
+<lb/>brought before <choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">chief</term> in council and found that his <term type="ailment">emaciation</term>
+<lb/>was ascribed to disease and want combined <space extent="2" unit="chars"/><choice><sic>he</sic><corr>He</corr></choice> was not
+<lb/>one of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Makololo</term> but a member <choice><abbr>`</abbr><expan>of</expan></choice> a subdued tribe <space extent="2" unit="chars"/>I showed
+<lb/>them that anyone <del type="strikethrough">proclaiming to</del> professing to claim a child
+<lb/>and refusing proper nutriment would be guilty of his death
+<lb/><persName>Sekeletu</persName> decided that <choice><abbr>'</abbr><expan>the</expan></choice> owner <choice><abbr>`</abbr><expan>of</expan></choice> this boy <choice><abbr>shd</abbr><expan>should</expan></choice> give up his
+<lb/>alleged right rather than destroy <choice><abbr>'</abbr><expan>the</expan></choice> child <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-40"/> he was so far gone as
+<lb/>to be in <choice><abbr>'</abbr><expan>the</expan></choice> cold stage <choice><abbr>`</abbr><expan>of</expan></choice> <term type="ailment">starvation</term> but was soon brought round by
+<lb/>a little <term type="foodstuff">milk</term> given 3 or 4 times a day.</p>
+
+
+<pb facs="liv_000101_0167.jpg" n="0167"/>
+<lb/><p><space dim="vertical" extent="4" unit="lines"/>
+<lb/><space extent="32" unit="chars"/><metamark function="newParagraph" place="inline" resp="#DL" n="DL"><choice><abbr>Par.</abbr><expan>Paragraph</expan></choice></metamark>
+<lb/><space dim="vertical" extent="3" unit="lines"/>
+<lb/><space extent="5" unit="chars"/><add place="inline" hand="#DL" n="DL" corresp="#add-41"><metamark function="insertion"/>character he had discovered &amp; had faith in</add>
+<lb/><space dim="vertical" extent="9" unit="lines"/>
+<lb/><add place="inline" hand="#DL" n="DL" corresp="#add-42"><metamark function="insertion"/><del type="strikethrough">He would</del> He said that he would plant the
+<lb/><term type="foodstuff">cane</term> largely if he only had the means
+<lb/>of making the <term type="plant_foodstuff">sugar</term> from it</add></p>
+
+
+
+<pb facs="liv_000101_0168.jpg" n="0168"/>
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">155</add></fw>
+<lb/><p><space extent="5" unit="chars"/>On <choice><abbr>'</abbr><expan>the</expan></choice> other hand I have seen instances in which
+<lb/>both men and women have taken up little orphans and carefully
+<lb/>reared them as their own children. <space extent="2" unit="chars"/><choice><sic>by</sic><corr>By</corr></choice> selection of instances
+<lb/>of either kind it would not be difficult to make these people appear
+<lb/>excessively good or <subst><del type="strikethrough">excessively</del><add place="above">uncommonly</add></subst> bad. <metamark function="newParagraph">/</metamark> I still possessed some <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="foodstuff">coffee</term>
+<lb/><choice><abbr>wh.</abbr><expan>which</expan></choice> I had brought from <placeName><country>Angola</country></placeName> and some <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="foodstuff">sugar</term> <choice><abbr>whi</abbr><expan>which</expan></choice> I had left
+<lb/>in my waggon  <choice><sic>so</sic><corr>So</corr></choice> long as <choice><abbr>'</abbr><expan>the</expan></choice> <term type="foodstuff">sugar</term> lasted <persName>Sekeletu</persName> favoured me
+<lb/>with his company at meals. <space extent="2" unit="chars"/><choice><sic>he</sic><corr>He</corr></choice> once informed me of a curious test
+<lb/>of <del type="strikethrough" hand="#DL" n="DL"><choice><abbr>char.</abbr><expan>character</expan></choice></del> <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-41"/>. <choice><sic>he</sic><corr>He</corr></choice> said my <term type="foodstuff">coffee</term> was "pleasant to his heart because I loved
+<lb/>him - " he <add place="below" hand="#DL" n="DL">˄</add><add place="above" hand="#DL" n="DL">had</add> once tasted some <term type="foodstuff">coffee</term> given to him by some <orgName>Griquas</orgName> <choice><abbr>wh.</abbr><expan>which</expan></choice>
+<lb/>was not at all "pleasant to his heart because they loved his goods
+<lb/>but not himself" I possessed <choice><abbr>'</abbr><expan>the</expan></choice> love and also <choice><abbr>'</abbr><expan>the</expan></choice> <term type="foodstuff">sugar</term> <choice><sic>probably</sic><corr>Probably</corr></choice> the
+<lb/><orgName>Griqua</orgName> <term type="foodstuff">coffee</term> had none but <choice><abbr>'</abbr><expan>the</expan></choice> <term type="foodstuff">sugar</term> soon came to a close. <space extent="2" unit="chars"/>The
+<lb/><term type="tribe">Makololo</term> were well acquainted with <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant_foodstuff">sugar cane</term> as it is cultivated
+<lb/>by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Barotse</term> but never knew that <term type="foodstuff">sugar</term> could be got from it <space extent="2" unit="chars"/>When
+<lb/>I explained <choice><abbr>'</abbr><expan>the</expan></choice> process by <choice><abbr>wh.</abbr><expan>which</expan></choice> it was produced <persName>Sekeletu</persName> asked if I
+<lb/>could not buy him an apparatus for <choice><abbr>'</abbr><expan>the</expan></choice> purpose <choice><abbr>`</abbr><expan>of</expan></choice> making <term type="foodstuff">sugar</term>
+<lb/><metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-42"/> I replied I was unable to purchase a <w><subst><del>we</del><add place="over-text">We</add></subst>ll</w> he instantly rejoined
+<lb/><supplied cert="high">"</supplied>Why not take ivory to buy it<supplied cert="high">"</supplied> <space extent="3" unit="chars"/>As I had been living at his expense
+<lb/>I was glad of <choice><abbr>'</abbr><expan>the</expan></choice> opportunity to show my gratitude by serving him
+<lb/>and when he and his principal men understood that I was willing
+<lb/>to execute a commission <subst><del type="cancelled" hand="#DL" n="DL">they</del><add place="above" hand="#DL" n="DL"><persName>Sekeletu</persName></add></subst> gave me an order for a <term type="foodstuff">sugar</term> mill
+<lb/>for all <choice><abbr>'</abbr><expan>the</expan></choice> different varieties of clothing that <subst><del type="cancelled" hand="#DL" n="DL">they</del><add place="above" hand="#DL" n="DL">he</add></subst> had ever seen
+<lb/>and especially a mohair coat - a good rifle <subst><del><unclear cert="medium">or</unclear></del><add place="over-text">be</add></subst>ads brass wire 
+<lb/>&amp;c &amp;c and wound up by saying "and any other beautiful thing
+<lb/>you may see in your own country" <space extent="3" unit="chars"/>As to <choice><abbr>'</abbr><expan>the</expan></choice> quantity of ivory
+<lb/>required to execute <choice><abbr>'</abbr><expan>the</expan></choice> commission I said I feared that a large
+<lb/>quantity would be necessary <space extent="2" unit="chars"/><choice><sic>both</sic><corr>Both</corr></choice> he and his <term type="occupation">councillors</term> replied
+<lb/>"The ivory is all your own, if you leave any in <choice><abbr>'</abbr><expan>the</expan></choice> country it will
+<lb/>be your own fault" <space extent="3" unit="chars"/>He was also anxious for <term type="animal">horses</term> <choice><sic>those</sic><corr>Those</corr></choice> 2 I
+<lb/>had left with him when I went to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> were still living
+<lb/>&amp; had been of great use to him in hunting <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">giraffe</term> &amp; <term type="animal">eland</term>
+<lb/><choice><sic>he</sic><corr>He</corr></choice> was now anxious to obtain a breed <space extent="2" unit="chars"/>This I thought might
+<lb/>be obtained at <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Portuguese</term> settlements. <space extent="3" unit="chars"/>All were very much</p>
+
+
+<pb facs="liv_000101_0169.jpg" n="0169"/>
+<lb/><p><space extent="2" unit="chars"/><add hand="#DL" n="DL" place="inline"><note>Insert these pages after word "scaffolding"</note></add></p><!-- last para of p528 printed text. "Scaffolding" occurs 4 lines above start of mss text, image 0188, sh -->
+<lb/><p><add hand="#DL" n="DL" corresp="#add-62" place="inline">If we take a glance back at the great valley<!-- Barotse valley, sh -->
+<lb/>the form the rivers have taken imparts the 
+<lb/>idea <del type="cancelled">at <unclear cert="medium">once</unclear></del> of a Lake slowly drained out
+<lb/>for they have cut out for themselves
+<lb/>beds exactly like what we may see in
+<lb/>the soft mud of shallow pool of rain
+<lb/>water when that is let off by a furrow
+<lb/>This idea would probably not strike a person
+<lb/>on coming first into the country but more
+<lb/>extensive acquaintance with the river system
+<lb/>certainly would convey the idea – None of
+<lb/>the rivers in the <placeName><geogName type="valley">valley of the <placeName><geogName type="river">Leeambye</geogName></placeName></geogName></placeName>
+<lb/>have slopes down to their beds – Indeed
+<lb/>many parts are much like the <placeName><geogName type="river">Thames</geogName></placeName>
+<lb/>at the "<placeName><geogName type="island">Isle of Dogs</geogName></placeName>" only the <placeName><geogName type="river">Leeambye</geogName></placeName>
+<lb/>has to rise <measure>twenty or thirty feet</measure> before
+<lb/>it can overflow its meadows - The<del type="strikethrough">y</del> <add place="above">rivers</add>
+<lb/>have each a bed of low water which
+<lb/>is simply a furrow cut sharply out of
+<lb/>a bed of calcareous tufa which
+<lb/>lined the bed of the ancient Lake, and 
+<lb/>another of inundation - <add place="inline">When</add> <choice><sic>The</sic><corr>the</corr></choice> beds
+<lb/>of inundation are filled they assume
+<lb/>the appearance of chains of Lakes 
+<lb/><del type="cancelled">The rest of the country is generally
+<lb/>not elevated <measure>fifty feet</measure> above these</del>
+<lb/>When the <placeName><geogName type="river">Clyde</geogName></placeName> fills the holms (haughs) 
+<lb/>above <placeName><settlement type="village">Bothwell</settlement></placeName> bridge <del type="strikethrough">it has</del> untutored <add place="below">^</add>
+<lb/><del type="cancelled">the appearance</del> and retires again
+<lb/>into its bed it resembles the
+<lb/>river we are speaking of only
+<lb/><subst><del>h</del><add place="over-text">th</add></subst>ere there are no high lands
+<lb/>sloping down towards the bed of
+<lb/>inundation - for the greater part</add> 
+<lb/><space extent="20" unit="chars"/><add place="inline" hand="#DL" n="DL"><note>Turnover</note></add> <!-- from image 0171, sh --></p>
+
+    
+<pb facs="liv_000101_0170.jpg" n="0170"/><!-- 512 -->
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">156</add></fw>
+<lb/><p rend="no-indent">delighted with <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal"><choice><sic>donkies</sic><corr>donkeys</corr></choice></term> we had brought from <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> <subst><del type="strikethrough">and</del><add place="above">as</add></subst> we found
+<lb/>that they were not affected by <choice><abbr>'</abbr><expan>the</expan></choice> bite <choice><abbr>`</abbr><expan>of</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="insect">tsetse</term> and there was a prospect of
+<lb/>the herd being continued, it was gratifying to see <choice><abbr>'</abbr><expan>the</expan></choice> experiment of their
+<lb/>introduction so far successful <space extent="4" unit="chars"/>The <term type="animal"><choice><sic>donkies</sic><corr>donkeys</corr></choice></term> came as frisky
+<lb/>as <term type="animal">kids</term> all <choice><abbr>'</abbr><expan>the</expan></choice> way from <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> <del type="strikethrough"><unclear cert="medium">as</unclear></del> until we began to descend <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/><placeName><geogName type="river">Leeambye</geogName></placeName> <space extent="2" unit="chars"/><choice><sic>there</sic><corr>There</corr></choice> we came upon so many departing &amp; <unclear cert="high">reentering</unclear>
+<lb/>branches <choice><abbr>` '</abbr><expan>of the</expan></choice> river we were obliged to drag them through so much
+<lb/>tangled aquatic plants that we <subst><del type="strikethrough">nearly</del><add place="above">half</add></subst> drowned them and were at
+<lb/>last obliged to leave them somewhat exhausted at <placeName><settlement type="town">Naliele</settlement></placeName> - They
+<lb/>excited <choice><abbr>'</abbr><expan>the</expan></choice> unbounded admiration of my men by their knowledge <choice><abbr>`</abbr><expan>of</expan></choice>
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>dif</abbr><expan>different</expan></choice> kinds <choice><abbr>`</abbr><expan>of</expan></choice> plants <choice><abbr>wh</abbr><expan>which</expan></choice> as they remarked "the animals had never
+<lb/>before seen in their own country" and when <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal"><choice><sic>donkies</sic><corr>donkeys</corr></choice></term> indulged in
+<lb/>their music they startled the inhabitants more than they had
+<lb/>been <term type="animal">lions</term> <space extent="3" unit="chars"/>We never rode them nor yet <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">horse</term> <choice><abbr>wh</abbr><expan>which</expan></choice> had
+<lb/>been given by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">Bishop</term> for fear of hurting them by any work.</p>
+<lb/><p><space extent="17" unit="chars"/>Although <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Makololo</term> were so confiding the
+<lb/>reader must not imagine that they would be so to every
+<lb/>individual who might visit them  <space extent="3" unit="chars"/>Much of my influence
+<lb/>depended upon a good name given me by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Bakwains</term> and
+<lb/>that I <del type="strikethrough">did not</del> secured only through a long course of tolerably
+<lb/>good conduct <space extent="4" unit="chars"/>No one ever gains much influence in this
+<lb/>country without purity and uprightness <space extent="3" unit="chars"/>The acts of a 
+<lb/>stranger are keenly scrutinized by both young and old and
+<lb/>seldom is <choice><abbr>'</abbr><expan>the</expan></choice> judgement pronounced even by <choice><abbr>'</abbr><expan>the</expan></choice> heathen unfair
+<lb/>or uncharitable <space extent="3" unit="chars"/>I have heard women speaking in admiration
+<lb/><supplied cert="high">of</supplied> a <del type="cancelled"><term type="occupation">missionary</term></del> <add place="below">^</add> <add place="above">white man</add> because he was pure and never was guilty of any
+<lb/>secret immorality <space extent="2" unit="chars"/><choice><sic>had</sic><corr>Had</corr></choice> he been they would have known it and
+<lb/>heathen though they be would have despised him in consequence</p>
+<lb/><p>Secret vice becomes known throughout the tribe and while
+<lb/>one unacquainted with <choice><abbr>'</abbr><expan>the</expan></choice> language may imagine a peccadillo
+<lb/>to be unknown it is as patent to <choice><abbr>'</abbr><expan>the</expan></choice> <subst><del type="cancelled">tribe</del><add place="above">all</add></subst> as it would be in <placeName><settlement type="city">London</settlement></placeName>
+<lb/>had he a placard on his back</p>
+
+
+<pb facs="liv_000101_0171.jpg" n="0171"/><!-- p529, sh -->    
+<lb/><p><space dim="vertical" extent="4" unit="lines"/>
+<lb/><add place="inline" hand="#DL" n="DL" corresp="#add-43"><metamark function="insertion"/>as <subst><del type="strikethrough">provisions</del><add place="above">a sort of <term type="foodstuff">sandwiches</term></add></subst> for my journey by</add><!-- p513 -->
+<lb/><!-- text continued form image 0169, p529 sh -->
+<lb/><add place="inline" hand="#DL" n="DL" corresp="#add-49">of this region <del type="cancelled">of the</del> is not more than
+<lb/><measure>fifty feet above</measure> them – Even the
+<lb/>rocky banks of <del type="cancelled">t</del>the <placeName><geogName type="river">Leeambye</geogName></placeName> below
+<lb/><placeName><geogName type="waterfall">Gonye</geogName></placeName><!-- Ngonye Falls, sh --> and the ridges <del type="cancelled">adjacent</del> bounding
+<lb/>to the <placeName><geogName type="valley">Barotse valley</geogName></placeName> are not
+<lb/>more than <measure>two or three hundred feet
+<lb/>in altitude</measure> - Many of the rivers are
+<lb/>very tortuous in their course - The
+<lb/><placeName><geogName type="river">Chobe</geogName></placeName> and <placeName><geogName type="river">Simah</geogName></placeName> particularly so
+<lb/>and <del type="cancelled">there are</del> if we may <choice><sic>recieve</sic><corr>receive</corr></choice> the
+<lb/>testimony of the <orgName>natives</orgName> they form
+<lb/>what anatomists call <choice><sic>anastamosis</sic><corr>anastomosis</corr></choice>
+<lb/>or a net-work of rivers – Thus they
+<lb/>assured me <subst><del><unclear cert="medium">one</unclear></del><add place="over-text">th</add></subst>at if they go up the
+<lb/><placeName><geogName type="river">Simah</geogName></placeName> for instance in a canoe
+<lb/>they can enter the <placeName><geogName type="river">Chobe</geogName></placeName> and descend
+<lb/>that river to the <placeName><geogName type="river">Leeambye</geogName></placeName> or
+<lb/>they may go up the <placeName><geogName type="river">Kama</geogName></placeName> and
+<lb/>come down the <placeName><geogName type="river">Simah</geogName></placeName> - And so
+<lb/>in the case of the <placeName><geogName type="river">Kafue</geogName></placeName> - It is
+<lb/>repeated to <del type="cancelled">come out of the</del> be connected 
+<lb/>in this way with the <placeName><geogName type="river">Leeambye</geogName></placeName>
+<lb/>in the North and to part with
+<lb/>the <del type="cancelled"><placeName><geogName type="river">Kafue</geogName></placeName></del> <placeName><geogName type="river">Loangwa</geogName></placeName> – and the
+<lb/><term type="tribe">Makololo</term> went from the one
+<lb/>into the others in canoes – And
+<lb/>even though the interlacing may not
+<lb/>be <del type="cancelled"><unclear cert="medium">a</unclear> very</del> quite to the extent <del type="cancelled">as the</del></add>
+<lb/><space extent="19" unit="chars"/><add place="inline"><note>Turn over</note></add></p> <!-- from image 0173, sh -->
+                                                                    
+
+<pb facs="liv_000101_0172.jpg" n="0172"/><!-- p 513-14, sh -->    
+<lb/><fw> <add place="inspace" hand="#U1" n="U1" rend="gray right">157</add></fw>
+<lb/><p rend="no-indent"><note><date when="1855-10-27">27 <choice><abbr>oct</abbr><expan>October</expan></choice> 1855</date></note> The <seg type="weather">first continuous rain <choice><abbr>` '</abbr><expan>of the</expan></choice> season</seg> commenced during 
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> night <choice><abbr>'</abbr><expan>the</expan></choice> <seg type="weather">wind being from <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N E</abbr><expan>North East</expan></choice> as it always was on like occasions
+<lb/>at <placeName><settlement type="village">Kolobeng</settlement></placeName></seg> <space extent="3" unit="chars"/>The <seg type="weather">rainy season</seg> was thus begun and I made
+<lb/>ready to go <space extent="3" unit="chars"/>The mother of <persName>Sekeletu</persName> prepared a bag of <term type="foodstuff"><w>earth-
+<lb break="no"/>nuts</w></term> <add place="below" hand="#DL" n="DL">^</add><anchor xml:id="add-43"/> <choice><sic>frie<subst><del hand="#DL" n="DL">d</del><add place="over-text" hand="#DL" n="DL">ing</add></subst></sic><corr>frying</corr></choice> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">them</add> in <term type="foodstuff">cream</term> and a little <term type="foodstuff">salt</term> <del type="strikethrough" hand="#DL" n="DL"><choice><abbr>wh</abbr><expan>which</expan></choice></del> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">This</add> is considered food fit
+<lb/>for a <term type="occupation">chief</term> <space extent="3" unit="chars"/>Others ground <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant">maize</term> from my own garden into
+<lb/><term type="foodstuff">meal</term> and <persName>Sekeletu</persName> pointed out <persName>Sekwebu</persName> and <persName><choice><orig>Ka<add place="above">a</add>nyata</orig><reg>Kanyata</reg></choice></persName> as
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> persons who should head <choice><abbr>'</abbr><expan>the</expan></choice> party intended to form my company
+<lb/><persName>Sekwebu</persName> had been captured by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Matebele</term> when a little boy
+<lb/>and <choice><abbr>'</abbr><expan>the</expan></choice> tribe in <choice><abbr>wh</abbr><expan>which</expan></choice> he was a captive had migrated to <choice><abbr>'</abbr><expan>the</expan></choice> country
+<lb/>near <placeName><settlement type="town">Tete</settlement></placeName> <space extent="2" unit="chars"/><choice><sic>he</sic><corr>He</corr></choice> had travelled along both banks <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> several
+<lb/>times and was intimately acquainted with <choice><abbr>'</abbr><expan>the</expan></choice> dialects spoken there
+<lb/>I found him to be a person of great prudence and sound judgement
+<lb/>and his subsequent loss at <placeName><geogName type="island">Mauritius</geogName></placeName> has been ever since a source
+<lb/>of sincere regret <space extent="2" unit="chars"/><choice><sic>he</sic><corr>He</corr></choice> at once recommended our keeping well
+<lb/>away from <choice><abbr>'</abbr><expan>the</expan></choice> river on account of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="insect">tsetse</term> and rocky country
+<lb/>assigning also as a reason <choice><abbr>'</abbr><expan>the</expan></choice> fact that <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Leeambye</geogName></placeName> beyond <choice><abbr>'</abbr><expan>the</expan></choice> falls
+<lb/>turns round to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N. N. E</abbr><expan>North North East</expan></choice> <space extent="4" unit="chars"/><persName>Mamire</persName> who has married <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>mother <choice><abbr>`</abbr><expan>of</expan></choice> <persName>Sekeletu</persName> on coming to bid me farewell before starting
+<lb/>said "You are now going among people who cannot be trusted
+<lb/>because we have used them badly but you go with a different 
+<lb/>message from any they ever heard before and <persName>Jesus</persName> will be
+<lb/>with you and help you though among enemies and if he
+<lb/>carries you safely and brings you and <persName>Ma Robert</persName> back
+<lb/>again I shall say he has bestowed a great favour upon me
+<lb/>May we obtain a path whereby we may visit and be
+<lb/>visited by other tribes and by white men" <space extent="3" unit="chars"/>On telling
+<lb/>him my fears that he was still inclined to follow <choice><abbr>'</abbr><expan>the</expan></choice> old
+<lb/>marauding system <choice><abbr>wh</abbr><expan>which</expan></choice> prevented intercourse and that he
+<lb/>from his influential position was especially guilty in <choice><abbr>'</abbr><expan>the</expan></choice> late
+<lb/>forays he acknowledged all rather too freely for my taste
+<lb/>but seemed quite aware that <choice><abbr>'</abbr><expan>the</expan></choice> old system was far from
+<lb/>right <space extent="3" unit="chars"/>Mentioning my inability to pay <choice><abbr>'</abbr><expan>the</expan></choice> men who were to
+<lb/>accompany me he replied "A man wishes of course to appear</p>
+
+
+<pb facs="liv_000101_0173.jpg" n="0173"/><!-- pp. 529-530, sh -->    
+<lb/><p rend="no-indent"><add place="inline" hand="#DL" n="DL" corresp="#add-47">believed by the <orgName>natives</orgName> the country is so
+<lb/>level and the rivers so tortuous
+<lb/>that I have no hesitation in the conclusion
+<lb/>that here is a network of waters of
+<lb/>a very peculiar nature -  The reason
+<lb/>why I am disposed to place a certain
+<lb/>amount of confidence in their
+<lb/>reports is this - When <persName>Mr Oswell</persName> &amp; I 
+<lb/>discovered the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> in the centre 
+<lb/>of the continent in <date when="1851">1851</date> <add place="below">^</add> <add place="above">being unable to ascend it</add> we employed
+<lb/>the <orgName>natives</orgName> to draw a <del type="cancelled">p</del>
+<lb/>map embodying their ideas</add> <add place="inline" corresp="#add-44"><metamark function="flag" spanTo="#meta-311"/>his family<anchor xml:id="meta-311"/></add> 
+<lb/><add place="inline" hand="#DL" n="DL" corresp="#add-48">of that river - <del type="strikethrough">When I
+<lb/>returned and was able to inspect
+<lb/>it myself</del> We sent the <orgName>native</orgName> map
+<lb/>home with the same view that
+<lb/>I now mention their ideas of the
+<lb/>river system namely in order</add>
+<lb/>
+<lb/><add place="inline" corresp="#add-45"><metamark function="flag" spanTo="#meta-312"/>he took <term type="animal">cattle</term> for the purpose from every
+<lb/>station we came to<anchor xml:id="meta-312"/></add>
+<lb/>
+<lb/><add place="inline" hand="#DL" n="DL" corresp="#add-46">to be an aid in farther investigation
+<lb/>When I was able to ascend the <placeName><geogName type="river">Leeambye</geogName></placeName>
+<lb/>to <measure>14° South</measure> and subsequently
+<lb/>descend it <del type="cancelled">all</del> I <del type="cancelled">th</del> found that the alterations
+<lb/>I was able to make in the original
+<lb/><orgName>native</orgName> plan were very trifling -  
+<lb/>The general idea their map gave 
+<lb/>was wonderfully accurate and
+<lb/>now I give their ideas <subst><del>of</del><add place="over-text">on</add></subst> the
+<lb/>other rivers in the hope that they may
+<lb/>prove helpful to any <term type="occupation">traveller</term> who
+<lb/>may pursue the investigation farther - </add></p>
+
+
+<pb facs="liv_000101_0174.jpg" n="0174"/><!-- p 514-515, sh -->    
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">158</add></fw>
+<lb/><p rend="no-indent">among his friends after a long absence with something of his own
+<lb/>to show, the whole ivory in <choice><abbr>'</abbr><expan>the</expan></choice> country is yours so you must take
+<lb/>as much as you can and <persName>Sekeletu</persName> will furnish men to 
+<lb/>carry it" <space extent="3" unit="chars"/>These remarks of <persName>Mamire</persName> are quoted literally
+<lb/>in order to show the state of mind <choice><abbr>` '</abbr><expan>of the</expan></choice> most influential in the
+<lb/>tribe and as I wish to give <choice><abbr>'</abbr><expan>the</expan></choice> reader a fair idea <choice><abbr>` '</abbr><expan>of the</expan></choice> other side <choice><abbr>` '</abbr><expan>of the</expan></choice> question
+<lb/>as well it may be mentioned that <persName>Motibe</persName> parried <del type="strikethrough"><choice><abbr>'</abbr><expan>the</expan></choice> impu</del>   the imputation
+<lb/><choice><abbr>` '</abbr><expan>of the</expan></choice> guilt of marauding by every possible subterfuge <choice><sic>he</sic><corr>He</corr></choice> would
+<lb/>not admit that they had done wrong and laid <choice><abbr>'</abbr><expan>the</expan></choice> guilt <choice><abbr>` '</abbr><expan>of the</expan></choice> wars
+<lb/>in <choice><abbr>wh.</abbr><expan>which</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Mokololo</term> had engaged on <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>Boers</orgName> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Matebele</term> and every
+<lb/>other tribe except <subst><del type="strikethrough" hand="#DL" n="DL">their</del><add place="above" hand="#DL" n="DL">his</add></subst> own <space extent="3" unit="chars"/>When quite a youth <persName>Motibe</persName>
+<lb/><add place="marginleft" hand="#DL" n="DL">^</add><anchor xml:id="add-44"/> had been attacked by a party <choice><abbr>`</abbr><expan>of</expan></choice> <orgName>Boers</orgName> <choice><sic><subst><del type="strikethrough">and</del><add place="above">he</add></subst></sic><corr>He</corr></choice> hid himself in an
+<lb/><choice><sic><term type="animal">anteater</term>s</sic><corr><term type="animal">anteater</term>'s</corr></choice> hole but was drawn out and thrashed with a whip
+<lb/>of <term type="animal">hippopotamus</term> hide: when enjoined to live in peace he
+<lb/>would reply "teach <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>Boers</orgName> <metamark function="reorder" resp="#DL" n="DL" spanTo="#meta-270"/><seg corresp="#reorder-102">first</seg><anchor xml:id="meta-270"/> to lay down their arms <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-102"/>”
+<lb/>Yet <persName>Motibe</persName> on other occasions seemed to feel <choice><abbr>'</abbr><expan>the</expan></choice> difference
+<lb/>between those who are <orgName>Christians</orgName> indeed and those who are so
+<lb/>only in name <space extent="2" unit="chars"/>In all our discussions we parted good
+<lb/>friends <space extent="6" unit="chars"/>On <choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-11-03">3<hi rend="sup">d</hi> <choice><abbr>Nov</abbr><expan>November</expan></choice></date> we bade adieu to our friends
+<lb/>at <placeName><settlement type="town">Linyanti</settlement></placeName> accompanied by <persName>Sekeletu</persName> and about 200
+<lb/>followers <choice><sic>we</sic><corr>We</corr></choice> were all fed at his expense <add place="below" hand="#DL" n="DL">^</add><anchor xml:id="add-45"/> <space extent="3" unit="chars"/>The principal
+<lb/>men of <choice><abbr>'</abbr><expan>the</expan></choice> tribe <persName>Lebeole</persName> <persName>Ntlarie</persName> <persName>Nkwatlale</persName> &amp;c were
+<lb/>also of <choice><abbr>'</abbr><expan>the</expan></choice> party <space extent="3" unit="chars"/>We passed through <choice><abbr>'</abbr><expan>the</expan></choice> patch <choice><abbr>`</abbr><expan>of</expan></choice> <term type="insect">tsetse</term> by
+<lb/>night <choice><abbr>wh</abbr><expan>which</expan></choice> exists between <placeName><settlement type="town">Linyanti</settlement></placeName> &amp; <placeName><settlement type="town">Sesheke</settlement></placeName> <space extent="3" unit="chars"/>The
+<lb/>majority <choice><abbr>` '</abbr><expan>of the</expan></choice> party went on by daylight in order to prepare
+<lb/>our beds <space extent="3" unit="chars"/><persName>Sekeletu</persName> &amp; I with about 40 young men waited
+<lb/><del type="cancelled">till</del> outside <choice><abbr>'</abbr><expan>the</expan></choice> <term type="insect">tsetse</term> till <del type="strikethrough">about</del> dark <space extent="3" unit="chars"/>We then
+<lb/>went forward and about ten <choice><abbr>oclk</abbr><expan>o'clock</expan></choice> it became so
+<lb/>pitchy dark that both <term type="animal">horses</term> and men were completely
+<lb/>blind <space extent="3" unit="chars"/>The <seg type="weather">lightning <subst><add place="above">spread</add><del type="strikethrough">flashed</del></subst> <metamark function="ed-mark" place="above" rend="gray" resp="#U2" n="U2">x</metamark> along <choice><abbr>'</abbr><expan>the</expan></choice> sky <subst><del type="strikethrough">forming</del><add place="above">into</add></subst> 8 or 10
+<lb/>branches at a time <del type="cancelled">a</del> in shape exactly like those of
+<lb/>a tree <space extent="3" unit="chars"/>This with great volumes of sheet lightning
+<lb/>enabled us at times to see <choice><abbr>'</abbr><expan>the</expan></choice> whole country</seg> <space extent="3" unit="chars"/>The 
+<lb/>intervals between <choice><abbr>'</abbr><expan>the</expan></choice> flashes were so densely dark as to
+
+
+<pb facs="liv_000101_0175.jpg" n="0175"/>
+<lb/><space dim="vertical" extent="21" unit="lines"/>
+<lb/><space extent="5" unit="chars"/><add place="inline" corresp="#add-50" hand="#DL" n="DL">three of which were <add place="below">^</add> <add place="above">accustomed to</add> riding <del type="strikethrough"><term type="animal">ox</term></del></add>
+
+
+<pb facs="liv_000101_0176.jpg" n="0176"/><!-- pp.515-516, sh -->    
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">159</add></fw>
+<lb/>convey <choice><abbr>'</abbr><expan>the</expan></choice> idea <choice><abbr>`</abbr><expan>of</expan></choice> <term type="ailment">stone blindness</term> <space extent="2" unit="chars"/>The <term type="animal">horses</term> <del type="cancelled">sl</del> trembled,
+<lb/>cried out and turned round as if searching for each other and
+<lb/>every new flash revealed <choice><abbr>'</abbr><expan>the</expan></choice> men taking different directions
+<lb/><choice><abbr>laughg</abbr><expan>laughing</expan></choice> and <choice><abbr>stumblg</abbr><expan>stumbling</expan></choice> against each other <space extent="3" unit="chars"/>The <seg type="weather">thunder was of
+<lb/>that tremendously loud kind only to be heard in tropical countries</seg>
+<lb/>and <choice><abbr>wh.</abbr><expan>which</expan></choice> friends from <placeName><country>India</country></placeName> have assured me is louder in <placeName><bloc>Africa</bloc></placeName>
+<lb/>than any they have ever heard elsewhere <space extent="3" unit="chars"/>Then came
+<lb/>a <seg type="weather">pelting rain</seg> and completed our confusion. <space extent="2" unit="chars"/>After <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/><seg type="weather">intense heat <choice><abbr>` '</abbr><expan>of the</expan></choice> day</seg> we soon felt miserably cold and
+<lb/>turned aside to a fire we saw in <choice><abbr>'</abbr><expan>the</expan></choice> distance <space extent="2" unit="chars"/>This had
+<lb/>been made by some people on <choice><abbr>'</abbr><expan>the</expan></choice> march for this path
+<lb/>is seldom without numbers of strangers passing to
+<lb/>and from <choice><abbr>'</abbr><expan>the</expan></choice> capital <space extent="2" unit="chars"/>My clothing having gone on I lay
+<lb/>down on <choice><abbr>'</abbr><expan>the</expan></choice> cold ground expecting to spend a miserable
+<lb/>night but <persName>Sekeletu</persName> kindly covered me with his own
+<lb/>blanket and lay uncovered himself <space extent="2" unit="chars"/>I was much affected
+<lb/>by this little act of genuine kindness. <w><subst><del>i</del><add place="over-text">I</add></subst>f</w> such men must
+<lb/>perish by <choice><abbr>'</abbr><expan>the</expan></choice> advance of civilization as certain races of animals 
+<lb/>do before others it is a pity. God grant that ere this time comes
+<lb/>they may receive that gospel <choice><abbr>wh.</abbr><expan>which</expan></choice> is a solace for <choice><abbr>'</abbr><expan>the</expan></choice> soul in death</p>
+<lb/><p>While at <placeName><settlement type="village">Sesheke</settlement></placeName> <persName>Sekeletu</persName> supplied me with 12 <term type="animal">oxen</term> <del type="strikethrough">and</del> <anchor xml:id="add-50"/>
+<lb/>hoes and beads to purchase a canoe when we should strike
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Leeambye</geogName></placeName> beyond <choice><abbr>'</abbr><expan>the</expan></choice> falls <space extent="2" unit="chars"/><choice><sic>he</sic><corr>He</corr></choice> likewise presented abundance
+<lb/>of good fresh <term type="foodstuff">butter</term> and <term type="foodstuff">honey</term> and did every thing in his power
+<lb/>to make me comfortable for <choice><abbr>'</abbr><expan>the</expan></choice> journey  <space extent="2" unit="chars"/>We were here joined
+<lb/>by <persName>Moriantsane</persName> his uncle and <term type="occupation">head-man</term> of <del type="cancelled">Sh</del> <placeName><settlement type="town">Sesheke</settlement></placeName>
+<lb/>and entering canoes on <choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-11-13">13<hi rend="sup">th</hi></date> some sailed down <choice><abbr>'</abbr><expan>the</expan></choice> river to <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>confluence of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Chobe</geogName></placeName> while others drove <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">cattle</term> along <choice><abbr>'</abbr><expan>the</expan></choice> banks</p>
+<lb/><p>Spending one night at <placeName><geogName type="island">Mparia</geogName></placeName> <choice><abbr>'</abbr><expan>the</expan></choice> island at <choice><abbr>'</abbr><expan>the</expan></choice> confluence
+<lb/>of the <placeName><geogName type="river">Chobe</geogName></placeName> <choice><abbr>wh</abbr><expan>which</expan></choice> is composed <choice><abbr>`</abbr><expan>of</expan></choice> trap having crystals <choice><abbr>`</abbr><expan>of</expan></choice> quartz
+<lb/>in it coated with a <choice><sic>pelicle</sic><corr>pellicle</corr></choice> of green copper ore. <space extent="2" unit="chars"/>Attempting
+<lb/>to proceed down <choice><abbr>'</abbr><expan>the</expan></choice> river next day we were detained some
+<lb/>hours by a <seg type="weather">strong east wind</seg> raising waves so large as to
+<lb/>threaten to swamp <choice><abbr>'</abbr><expan>the</expan></choice> canoes <space extent="3" unit="chars"/>The river is here very large and</p>
+
+
+<pb facs="liv_000101_0177.jpg" n="0177"/><!-- p529, sh -->
+<lb/><p><add place="inline" hand="#DL" n="DL"><del type="cancelled">If we <subst><del type="cancelled">look</del><add place="above">glance</add></subst> back at the great valley the
+<lb/>form of the rivers leads to the idea at once
+<lb/>of a Lake <metamark function="insertion"/><anchor xml:id="reorder-103"/> drained out <metamark function="reorder" spanTo="#meta-271"/><seg corresp="#reorder-103">slowly</seg><anchor xml:id="meta-271"/><!-- DL has enclosed the word in a circle, sh  --> - None of them
+<lb/>have <subst><del>li</del><add place="over-text">s</add></subst>lopes down to them - They look
+<lb/>more <del type="cancelled">like</del> the <placeName><geogName type="river">Thames</geogName></placeName> at the <placeName><geogName type="island">Isle of
+<lb/>Dogs</geogName></placeName> -  Even the <placeName><geogName type="river">Leeambye</geogName></placeName> which has
+<lb/>to rise <measure>twenty feet to flood</measure> its banks
+<lb/>has no slope down to it - They
+<lb/>have formed <add place="inline">beds</add> for themselves in
+<lb/>a level mass of calcareous tufa
+<lb/>which lined the bottom of the
+<lb/><subst><del>l</del><add place="over-text">L</add></subst>ake and when they are in flood
+<lb/>they become like chains of lakes 
+<lb/>They resemble the <placeName><geogName type="river">Clyde</geogName></placeName> when it spreads
+<lb/>itself over <del type="cancelled">haughs</del> the meadows above
+<lb/><placeName><settlement type="village">Bothwell</settlement></placeName> Bridge - Only there is no
+<lb/><choice><sic>ajacent</sic><corr>adjacent</corr></choice> high lands sloping
+<lb/>down to the river for in general
+<lb/>the country is not more than
+<lb/><measure>fifty feet above low water mark</measure>
+<lb/>Many of these rivers are very winding
+<lb/>and according to <orgName>Native</orgName> testimony
+<lb/>there is often <del type="cancelled">con</del> <unclear cert="high">inosculation</unclear>
+<lb/>between them - </del></add></p>
+
+
+<pb facs="liv_000101_0178.jpg" n="0178"/><!-- p 517, sh -->
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">160</add></fw>
+<lb/><p rend="no-indent">deep and contains two considerable islands <choice><abbr>wh.</abbr><expan>which</expan></choice> from either
+<lb/>bank seem to be joined to <choice><abbr>'</abbr><expan>the</expan></choice> opposite shore <choice><sic>while</sic><corr>While</corr></choice> waiting for <choice><abbr>'</abbr><expan>the</expan></choice> wind
+<lb/>to moderate <add place="below">^</add><add place="above">my</add> friends related <choice><abbr>'</abbr><expan>the</expan></choice> traditions of these islands and as 
+<lb/>usual praised <choice><abbr>'</abbr><expan>the</expan></choice> wisdom of <persName>Sebituane</persName> in <del type="strikethrough">balking</del> baulking <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Batoka</term>
+<lb/>who formerly enticed wandering tribes upon them <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">&amp; starving them</add> by compelling the
+<lb/><term type="occupation">chiefs</term> to remain by his side till all his <term type="animal">cattle</term> and people were
+<lb/>ferried over <space extent="3" unit="chars"/><choice><sic>having</sic><corr>Having</corr></choice> descended about <measure>ten miles</measure> we came to <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>island of <placeName><geogName type="island">Nampene</geogName></placeName> at <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>beging</abbr><expan>beginning</expan></choice> of <choice><abbr>'</abbr><expan>the</expan></choice> rapids where we were obliged
+<lb/>to leave <choice><abbr>'</abbr><expan>the</expan></choice> canoes and proceed along <choice><abbr>'</abbr><expan>the</expan></choice> banks on foot <space extent="2" unit="chars"/><choice><sic>next</sic><corr>Next</corr></choice>
+<lb/>evening we slept <choice><sic>opposit</sic><corr>opposite</corr></choice> <choice><abbr>'</abbr><expan>the</expan></choice> island of <placeName><geogName type="island">Chondo</geogName></placeName> and then crossing <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/><placeName><geogName type="river">Lekone</geogName></placeName> early <del type="strikethrough">next</del> <choice><abbr>'</abbr><expan>the</expan></choice> following morning were at <choice><abbr>'</abbr><expan>the</expan></choice> island of
+<lb/><persName>Sekote</persName> called <placeName><geogName type="island">Kalai</geogName></placeName> <space extent="3" unit="chars"/>This <persName>Sekote</persName> was <choice><abbr>'</abbr><expan>the</expan></choice> last <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="tribe">Batoka</term>
+<lb/><term type="occupation">chiefs</term> whom <persName>Sebituane</persName> <w>r<subst><del>ou</del><add place="over-text">oo</add></subst>ted</w> out <space extent="3" unit="chars"/>The <del type="strikethrough">river</del> island is
+<lb/>surrounded by a rocky shore and deep channels through
+    <lb/><choice><abbr>wh.</abbr><expan>which</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> river rushes with great force <space extent="3" unit="chars"/><persName>Sekote</persName> feeling secure
+<lb/>in his island home ventured to ferry over <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Matibele</term> <choice><abbr>'</abbr><expan>the</expan></choice> enemies of
+<lb/><persName>Sebituane</persName> <space extent="2" unit="chars"/>When they had retired <persName>Sebituane</persName> made <del type="strikethrough">of</del> one 
+<lb/><choice><abbr>`</abbr><expan>of</expan></choice> those rapid marches <choice><abbr>wh.</abbr><expan>which</expan></choice> he always adopted in every
+<lb/>enterprize <space extent="2" unit="chars"/><choice><sic>he</sic><corr>He</corr></choice> came down <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Leeambye</geogName></placeName> from <placeName><settlement type="town">Naliele</settlement></placeName>
+<lb/>sailing by day along <choice><abbr>'</abbr><expan>the</expan></choice> banks, &amp; during <choice><abbr>'</abbr><expan>the</expan></choice> night in <choice><abbr>'</abbr><expan>the</expan></choice> <choice><sic>middl</sic><corr>middle</corr></choice> of <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>stream to avoid <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">hippopotami</term> <space extent="3" unit="chars"/>When he reached <placeName><geogName type="island">Kalai</geogName></placeName>
+<lb/><persName>Sekote</persName> took advantage <choice><abbr>` '</abbr><expan>of the</expan></choice> larger canoes they employ in <choice><abbr>'</abbr><expan>the</expan></choice> rapids
+<lb/>and fled during <choice><abbr>'</abbr><expan>the</expan></choice> night to <choice><abbr>'</abbr><expan>the</expan></choice> opposite bank <space extent="3" unit="chars"/>Most <choice><abbr>`</abbr><expan>of</expan></choice> his people
+<lb/>were slain or taken captive and <choice><abbr>'</abbr><expan>the</expan></choice> island has ever since been
+<lb/>under <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Mokololo</term> <space extent="3" unit="chars"/>It is large enough to contain a
+<lb/>considerable town <space extent="3" unit="chars"/>On <choice><abbr>'</abbr><expan>the</expan></choice> northern side I found <choice><abbr>'</abbr><expan>the</expan></choice> <foreign xml:lang="tn">kotla</foreign> of <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/><persName>elder Sekote</persName> ornamented with numbers of human skulls
+<lb/>mounted on poles  a large heap <choice><abbr>` '</abbr><expan>of the</expan></choice> <subst><del type="cancelled" hand="#DL" n="DL">skulls</del><add place="above" hand="#DL" n="DL">crania</add></subst> of <term type="animal">hippopotami</term>
+<lb/><del type="cancelled">with</del> <choice><abbr>'</abbr><expan>the</expan></choice> tusks untouched except by time stood on one side
+<lb/>At a short distance under some trees we saw <choice><abbr>'</abbr><expan>the</expan></choice> grave of
+<lb/><persName>Sekote</persName> ornamented with 70 large <choice><sic><term type="animal">elephants</term></sic><corr><term type="animal">elephants</term>'</corr></choice> tusks, planted
+<lb/>around it with <choice><abbr>'</abbr><expan>the</expan></choice> points turned inwards and there were
+<lb/>30 more placed over <choice><abbr>'</abbr><expan>the</expan></choice> resting places of his relatives  
+<lb/>These were all decaying from <choice><abbr>'</abbr><expan>the</expan></choice> <seg type="weather">effects of <choice><abbr>'</abbr><expan>the</expan></choice> sun and weather</seg>
+
+
+<pb facs="liv_000101_0179.jpg" n="0179"/><!-- pp.518-519, sh  -->
+<lb/><space dim="vertical" extent="7" unit="lines"/>
+<lb/><space extent="5" unit="chars"/><add place="inline" hand="#DL" n="DL" corresp="#add-51"><metamark function="insertion"/>These tyrants acted much on the fears of their people</add>
+<lb/><space dim="vertical" extent="2" unit="lines"/>
+<lb/><add place="inline" hand="#DL" n="DL" corresp="#add-54"><space extent="2" unit="chars"/><metamark function="insertion"/>They did not go near enough to examine them but
+<lb/>viewing them with awe at a distance said in 
+<lb/>reference to the vapour and noise <del type="cancelled"><gap extent="2" unit="chars"/></del>"<foreign xml:lang="loz"><placeName><geogName type="waterfall">Mosi oa tunya</geogName></placeName></foreign>"
+<lb/>smoke does sound (there) – It was previously called
+<lb/><foreign xml:lang="toi"><placeName><geogName type="waterfall">Shongwe</geogName></placeName></foreign> the meaning of which I could not
+<lb/>ascertain – <choice><sic>the</sic><corr>The</corr></choice> word for a "pot" <subst><add place="above">resembles this</add><del type="strikethrough">approaches the</del></subst>
+<lb/><del type="cancelled">word</del> and it may mean a seething <choice><orig>caldron</orig><reg>cauldron</reg></choice>
+<lb/>but I am not certain of it - <subst><del><unclear cert="low">along</unclear></del><add place="over-text">Being</add></subst> persuaded
+<lb/>that <persName>M<hi rend="sup">r.</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> &amp; myself were the <subst><del>f</del><add place="over-text">very</add></subst> first <orgName>Europeans</orgName>
+<lb/>who <del type="strikethrough">ever</del> visited the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> in the centre
+<lb/>of the country and that this is the <del type="cancelled">key</del> 
+<lb/>connecting link between the known &amp; unknown
+<lb/>portions of that river I decided to use the same
+<lb/>liberty as the <term type="tribe">Mokololo</term> did and gave the only
+<lb/><term type="nationality">English</term> name I have affixed to any part of
+<lb/>the country - No better proof of previous ignorance
+<lb/>of this river could be
+<lb/>desired than that a</add> <add place="marginright" hand="#DL" n="DL" corresp="#add-55"><metamark function="flag" spanTo="#meta-313"/>This whole scene was extremely beautiful<anchor xml:id="meta-313"/></add>
+<lb/><add place="marginright" hand="#DL" n="DL" corresp="#add-57"><metamark function="flag" spanTo="#meta-314"/><choice><sic>as</sic><corr>As</corr></choice> a hieroglyphic they always mean
+<lb/>"far from home" for one can never get
+<lb/>over their foreign air in picture or landscape<anchor xml:id="meta-314"/></add>
+<lb/><add place="inline" hand="#DL" n="DL" corresp="#add-52">gentleman who had spent a
+<lb/>great part of his life in
+<lb/>the study of the Geography of           
+<lb/><placeName><bloc>Africa</bloc></placeName> and knew <del type="cancelled">everything</del>
+<lb/>everything written on the subject from the time of <persName>Ptolemy</persName> downwards
+<lb/>actually asserted in the <bibl>Athenaeum</bibl> that this magnificent river
+<lb/>the <placeName><geogName type="river">Leeambye</geogName></placeName> had no connection with the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> which
+<lb/>is only itself in another dialect</add>
+
+
+<pb facs="liv_000101_0180.jpg" n="0180"/><!-- p 518-519, sh -->    
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">161</add></fw>
+<lb/>but a few <choice><abbr>wh.</abbr><expan>which</expan></choice> had enjoyed <choice><abbr>'</abbr><expan>the</expan></choice> shade were in a pretty good condition
+<lb/>I felt inclined to take a specimen of <choice><abbr>'</abbr><expan>the</expan></choice> tusks of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">hippopotami</term>
+<lb/>as they were <choice><abbr>'</abbr><expan>the</expan></choice> largest I had ever seen but feared that <choice><abbr>'</abbr><expan>the</expan></choice> people
+<lb/>would <del type="strikethrough">regard</del> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">look upon</add> me as a "<orgName>resurrectionist</orgName>" if I did, and regard any
+<lb/>unfavourable event <choice><abbr>wh</abbr><expan>which</expan></choice> might occur as a punishment for
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> sacrilege <space extent="3" unit="chars"/>The <term type="tribe">Batoka</term> <choice><sic>beleive</sic><corr>believe</corr></choice> the <persName>Sekote</persName> had a pot <choice><abbr>`</abbr><expan>of</expan></choice> medicine
+<lb/>buried here <choice><abbr>wh</abbr><expan>which</expan></choice> when opened would cause an <term type="ailment">epidemic</term> in the
+<lb/>country <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-51"/> <space extent="2" unit="chars"/><metamark function="newParagraph"><choice><abbr>Par.</abbr><expan>Paragraph</expan></choice> /</metamark> As this was <choice><abbr>'</abbr><expan>the</expan></choice> point from <choice><abbr>wh.</abbr><expan>which</expan></choice> we intended to
+<lb/>strike off to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N. E.</abbr><expan>North East</expan></choice> I resolved <subst><del>to</del><add place="over-text">on</add></subst> <choice><abbr>'</abbr><expan>the</expan></choice> following day to visit <choice><abbr>'</abbr><expan>the</expan></choice> falls
+<lb/>of <del type="strikethrough">Mosio</del> <placeName><geogName type="waterfall">Victoria</geogName></placeName> called by <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>natives</orgName> <foreign xml:lang="loz"><placeName><geogName type="waterfall">Mosiatunya</geogName></placeName></foreign> or more
+<lb/>anciently <foreign xml:lang="toi"><placeName><geogName type="waterfall">Shungwa</geogName></placeName></foreign> <space extent="4" unit="chars"/>Of these we had often heard since
+<lb/>we came into <choice><abbr>'</abbr><expan>the</expan></choice> country indeed <subst><add place="above">one of <choice><abbr>'</abbr><expan>the</expan></choice> questions of</add><del type="strikethrough">among <choice><abbr>'</abbr><expan>the</expan></choice> questions put by</del></subst>
+<lb/><persName>Sebituane</persName> <add place="below">^</add> <add place="above">was</add> <del type="cancelled">this one <unclear cert="medium">recurred</unclear></del> "Have you smoke that sounds
+<lb/>in your country?<supplied cert="high">"</supplied> <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-54"/><anchor xml:id="add-52"/> <space extent="3" unit="chars"/><persName>Sekeletu</persName> intended to accompany 
+<lb/>me but one canoe only having come instead <choice><abbr>` '</abbr><expan>of the</expan></choice> two he had
+<lb/>ordered he resigned it to me <space extent="2" unit="chars"/>After 20 <choice><sic>minutes</sic><corr>minutes'</corr></choice> sail from
+<lb/><placeName><geogName type="island">Kalai</geogName></placeName> we <subst><del>s</del><add place="over-text">c</add></subst>ame in sight for <choice><abbr>'</abbr><expan>the</expan></choice> first time <choice><abbr>` '</abbr><expan>of the</expan></choice> columns of vapour
+<lb/><subst><del>s</del><add place="over-text">a</add></subst>ppropriately called "smoke" rising at a <measure>distance of 5 or 6
+<lb/>miles</measure> exactly as when large tracts <choice><abbr>`</abbr><expan>of</expan></choice> grass are burned <add place="below" hand="#DL" n="DL"><metamark function="insertion"/> in <placeName><bloc>Africa</bloc></placeName></add>
+<lb/>5 columns now arose and <w>bend<subst><del hand="#DL" n="DL">ed</del><add place="over-text" hand="#DL" n="DL">ing</add></subst></w> in <choice><abbr>'</abbr><expan>the</expan></choice> direction <choice><abbr>` '</abbr><expan>of the</expan></choice> wind
+<lb/>they seemed placed against a low ridge covered with trees
+<lb/><del type="strikethrough">and</del> <w>the<del type="strikethrough">ir</del></w> tops <add place="below">^</add> <add place="above">of <choice><abbr>'</abbr><expan>the</expan></choice> columns</add> at this distance appeared to merge with <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>clouds. <space extent="3" unit="chars"/>They were white below and higher up became dark
+<lb/>so as to simulate smoke very closely <space extent="3" unit="chars"/><del type="cancelled">We passed several
+<lb/>large islands covered with beautiful sylvan foliage with great
+<lb/>rounded masses <choice><abbr>wh.</abbr><expan>which</expan></choice> seemed to rest in <choice><abbr>'</abbr><expan>the</expan></choice> bosom <choice><abbr>` '</abbr><expan>of the</expan></choice> stream and
+<lb/>above these towered <choice><abbr>'</abbr><expan>the</expan></choice> graceful palms</del>
+<lb/><add place="below" hand="#DL" n="DL">^</add><anchor xml:id="add-55"/> The banks and islands <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL"><del type="cancelled">which stand</del> dotted over the river</add> are adorned with sylvan <w>veg-
+<lb break="no"/>etation</w> <choice><abbr>`</abbr><expan>of</expan></choice> great variety of colour and form <add place="marginbottom" hand="#DL" n="DL"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-315"/><choice><sic>at</sic><corr>At</corr></choice> the period of our visit several trees were
+    <lb/>spangled over with blossoms<anchor xml:id="meta-315"/></add> 
+There <add place="above" hand="#DL" n="DL"><metamark function="insertion"/>towering over all</add> stands <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>great burly <term type="plant">baobab</term> each of whose enormous arms would form
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> trunk <choice><abbr>`</abbr><expan>of</expan></choice> a large tree beside groups of graceful palms
+<lb/>with their feathery shaped leaves depicted on <choice><abbr>'</abbr><expan>the</expan></choice> sky <add place="marginbottom" hand="#DL" n="DL"><metamark function="insertion"/>lend their beauty
+    <lb/>to the scene</add>   
+<metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-57"/> The
+<lb/>silvery <term type="plant">mahonono</term> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">which in the tropics is</add> in form like <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant">cedar of <placeName><country>Lebanon</country></placeName></term> stands
+<lb/>in pleasing contrast with <choice><abbr>'</abbr><expan>the</expan></choice> dark <del type="cancelled">mot</del> colour <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="plant">motsouri</term> 
+<lb/><space extent="40" unit="chars"/><add place="inline"><note><term type="plant">motsouri</term></note></add>
+
+
+<pb facs="liv_000101_0181.jpg" n="0181"/>
+<lb/><space dim="vertical" extent="2" unit="lines"/>
+<lb/><add place="inline" corresp="#add-58" hand="#DL" n="DL"><metamark function="insertion"/>It had never been seen before by <orgName>European</orgName>
+<lb/>eyes but scenes so lovely must have
+<lb/>been gazed upon by angels in their
+<lb/>flight</add>
+<lb/><space dim="vertical" extent="3" unit="lines"/>
+<lb/><add place="inline" corresp="#add-59" hand="#DL" n="DL"><metamark function="insertion"/><add place="marginleft">with</add> <choice><sic>The</sic><corr>the</corr></choice> red soil appearing among the trees<choice><sic>,</sic><corr>.</corr></choice> When</add>
+<lb/><add place="inline" hand="#DL" n="DL" corresp="#add-38">left that by which we had come down &amp; <metamark function="insertion"/></add>
+<lb/><space dim="vertical" extent="9" unit="lines"/>
+    <lb/><add place="inline" corresp="#add-60" hand="#CL" n="CL"><metamark function="insertion"/>for it seemed to <w>lo<del type="strikethrough">o</del>se</w> itself in <choice><abbr>'</abbr><expan>the</expan></choice> earth, <del type="cancelled">the opposite</del> <add place="below">^</add> <add place="above">the opposite</add> <del type="cancelled">side of
+<lb/>the f</del> lip of <choice><abbr>'</abbr><expan>the</expan></choice> fissure <add place="below">^</add> <add place="above">into <choice><abbr>wh.</abbr><expan>which</expan></choice> it disappeared</add> being only <measure>80 <choice><abbr>ft</abbr><expan>feet</expan></choice> distant</measure></add>
+<lb/><space dim="vertical" extent="4" unit="lines"/>
+<lb/><space extent="40" unit="chars"/><add place="inline" corresp="#add-61" hand="#CL" n="CL">The entire falls are simply<metamark function="insertion"/></add>
+
+
+<pb facs="liv_000101_0182.jpg" n="0182"/><!-- p519-520, sh -->    
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">162</add></fw>
+<lb/><del type="cancelled">q</del> <space extent="4" unit="chars"/>whose <term type="plant">cypress</term> form is dotted over at present with its
+<lb/>pleasant scarlet fruit <space extent="3" unit="chars"/><choice><sic>some</sic><corr>Some</corr></choice> trees resemble <choice><abbr>'</abbr><expan>the</expan></choice> great spreading
+<lb/><term type="plant">oak</term> <del type="strikethrough">and</del> others assume <choice><abbr>'</abbr><expan>the</expan></choice> forms <metamark function="query" place="above" rend="gray" resp="#U2" n="U2">?</metamark> of our own <term type="plant">elms</term> and <term type="plant">chestnuts</term>
+<lb/>but no <subst><del type="strikethrough"><orgName>European</orgName></del><add place="above">one</add></subst> can imagine <choice><abbr>'</abbr><expan>the</expan></choice> beauty <choice><abbr>` '</abbr><expan>of the</expan></choice> scene from any
+<lb/>thing <del type="strikethrough">to be se</del> witnessed in <placeName><country><choice><abbr>Eng.</abbr><expan>England</expan></choice></country></placeName> <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-58"/> <space extent="2" unit="chars"/>The only want felt is <choice><abbr>` '</abbr><expan>of the</expan></choice> absence 
+<lb/>of mountains in <choice><abbr>'</abbr><expan>the</expan></choice> background <space extent="2" unit="chars"/>The falls are bounded on
+<lb/>3 sides by ridges <measure>300 or 400 <choice><abbr>ft</abbr><expan>feet</expan></choice> in height</measure> <choice><abbr>wh.</abbr><expan>which</expan></choice> are <del type="cancelled">thickly</del>
+<lb/>covered with forest <metamark function="insertion"/><anchor xml:id="add-59"/> <space extent="2" unit="chars"/>about <measure>half a mile</measure> <subst><del type="strikethrough" hand="#DL" n="DL">above</del><add place="above" hand="#DL" n="DL">from</add></subst> <choice><abbr>'</abbr><expan>the</expan></choice> falls I<!-- Victoria Falls, sh --> <add place="below" hand="#DL" n="DL">^</add><anchor xml:id="add-38"/>
+<lb/>embarked in a light canoe with men well acquainted with <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>rapids who by passing down <choice><abbr>'</abbr><expan>the</expan></choice> middle <choice><abbr>` '</abbr><expan>of the</expan></choice> river in <choice><abbr>'</abbr><expan>the</expan></choice> eddies and still
+<lb/>places caused by many jutting rocks brought me to an island
+<lb/>situated in <choice><abbr>'</abbr><expan>the</expan></choice> middle <choice><abbr>` '</abbr><expan>of the</expan></choice> river and <add place="below">^</add> <add place="above">on <choice><abbr>'</abbr><expan>the</expan></choice></add> edge <choice><abbr>` '</abbr><expan>of the</expan></choice> lip over <choice><abbr>wh.</abbr><expan>which</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> river
+<lb/>rolls <space extent="2" unit="chars"/><del type="cancelled">It</del> In coming <subst><del type="cancelled" hand="#DL" n="DL">thus far</del><add place="above" hand="#DL" n="DL">hither</add></subst> there <subst><del type="cancelled" hand="#DL" n="DL">seemed to be</del><add place="above" hand="#DL" n="DL">was a</add></subst> danger of
+<lb/>being sucked down by <choice><abbr>'</abbr><expan>the</expan></choice> streams <choice><abbr>wh.</abbr><expan>which</expan></choice> rushed along on each side of
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> island but <choice><abbr>'</abbr><expan>the</expan></choice> river was now low and we <del type="cancelled">could go</del> <add place="below">^</add> <add place="above">sailed</add> where it <subst><del>it</del><add place="over-text">is</add></subst>
+<lb/>totally impossible to <subst><del>com</del><add place="above">go</add></subst> when <del type="strikethrough"><subst><del>it</del><add place="above"><choice><abbr>'</abbr><expan>the</expan></choice> river</add></subst></del> <add place="below"><choice><abbr>'</abbr><expan>the</expan></choice> water</add> is high <space extent="2" unit="chars"/><del type="strikethrough">up</del> <space extent="2" unit="chars"/>But though
+<lb/>we had reached <choice><abbr>'</abbr><expan>the</expan></choice> island and were within a few yards <choice><abbr>` '</abbr><expan>of the</expan></choice> spot
+<lb/>a view from <choice><abbr>wh</abbr><expan>which</expan></choice> would solve <choice><abbr>'</abbr><expan>the</expan></choice> whole <subst><del type="strikethrough">difficulty</del><add place="above">problem</add></subst> I <choice><sic>beleive</sic><corr>believe</corr></choice> that no
+<lb/>one <w><subst><del>u</del><add place="over-text">c</add></subst>ould</w> understand where <choice><abbr>'</abbr><expan>the</expan></choice> vast body <choice><abbr>`</abbr><expan>of</expan></choice> water went <metamark function="insertion"/><anchor xml:id="add-60"/> At
+<lb/>least I did not until creeping with awe to <choice><abbr>'</abbr><expan>the</expan></choice> verge I peered
+<lb/>down into a large rent <choice><abbr>wh.</abbr><expan>which</expan></choice> had been made from bank to
+<lb/>bank <choice><abbr>` '</abbr><expan>of the</expan></choice> broad <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> and saw that a stream <del type="cancelled"><choice><abbr>wh</abbr><expan>which</expan></choice> at <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>time appeared</del> <add place="above">of</add> <measure>a thousand <choice><abbr>yds</abbr><expan>yards</expan></choice></measure> <del type="strikethrough">broad</del> leaped down <measure>a hundred feet</measure>
+<lb/>and became suddenly compressed in<del type="cancelled">to</del> a space of <measure>15 to 20 <choice><abbr>yds</abbr><expan>yards</expan></choice></measure>
+<lb/><metamark function="insertion" place="marginleft"/><anchor xml:id="add-61"/> <del type="cancelled">It is</del> a crack made in a hard basaltic rock from <choice><abbr>'</abbr><expan>the</expan></choice> right to
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> left bank <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Zambesi</geogName></placeName> and prolonged from <choice><abbr>'</abbr><expan>the</expan></choice> left bank
+<lb/>away through <measure>30 or 40 <del type="cancelled">hills</del> miles</measure> of hills <space extent="3" unit="chars"/>If one
+<lb/>imagines <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Thames</geogName></placeName> filled with low tree covered hills immediately
+<lb/>beyond <choice><abbr>'</abbr><expan>the</expan></choice> tunnel<!-- could this be the tunnel near Strood, part of the Thames & Midway Canal, the 2nd largest tunnel in UK, converted to a railway tunnel in 1840s, sh --> <subst><add place="above">extending</add><del type="strikethrough">and</del></subst> as far as <placeName><settlement type="town">Gravesend</settlement></placeName> <choice><sic>the</sic><corr>The</corr></choice> bed of black
+<lb/>basaltic rock instead of <placeName><settlement type="city">London</settlement></placeName> mud and a fissure made
+<lb/>therein from one end of the tunnel to <choice><abbr>'</abbr><expan>the</expan></choice> other down <add place="above" ><note>End of <choice><abbr>MS</abbr><expan>manuscript</expan></choice></note></add> <metamark function="ed-mark">X</metamark> through <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>keystones <choice><abbr>` '</abbr><expan>of the</expan></choice> arch <add place="below">^</add> <del type="strikethrough"><add place="above">&amp; prolonged away through <choice><abbr>'</abbr><expan>the</expan></choice> <measure>30 miles</measure> <choice><abbr>`</abbr><expan>of</expan></choice> hills</add> and <add place="below">^</add> <choice><abbr>'</abbr><expan>the</expan></choice> pathway being <measure>100 <choice><abbr>ft</abbr><expan>feet</expan></choice></measure> down from <choice><abbr>'</abbr><expan>the</expan></choice> bed
+<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> river instead of what it is and <choice><abbr>'</abbr><expan>the</expan></choice> lips of <choice><abbr>'</abbr><expan>the</expan></choice> fissure from <measure>80 
+<lb/>to 100 <choice><abbr>ft</abbr><expan>feet</expan></choice> apart</measure> then fancy <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Thames</geogName></placeName> leaping bodily into the</del>
+
+
+<pb facs="liv_000101_0183.jpg" n="0183"/>
+<lb/><space dim="vertical" extent="6" unit="lines"/>
+<lb/><space extent="10" unit="chars"/><add place="inline" hand="#DL" n="DL"><note><metamark function="flag" spanTo="#meta-316"/>Please continue to copy what
+<lb/><space extent="10" unit="chars"/>follows in my hand to the front
+<lb/><space extent="10" unit="chars"/>&amp; back of the pages to the end, 
+<lb/><space extent="10" unit="chars"/>Then turn back to my <choice><sic>brothers</sic><corr>brother's</corr></choice>
+<lb/><space extent="10" unit="chars"/>hand over 3 leaves <date when="1855-11-20"><choice><abbr>Nov</abbr><expan>November</expan></choice> 20<hi rend="sup">th</hi></date></note><anchor xml:id="meta-316"/></add>
+<lb/><space dim="vertical" extent="4" unit="lines"/>
+<!-- the following insertions occur in printed text at page 521, but do not seem to have a corresponding mss page, sh  -->
+<lb/><space extent="25" unit="chars"/><add place="inline" hand="#DL" n="DL">condensing it <metamark function="insertion"/></add>
+<lb/><space dim="vertical" extent="4" unit="lines"/>
+<lb/><space extent="15" unit="chars"/><add place="inline" hand="#DL" n="DL">a few yards back from the lip there stands</add>
+<lb/><space dim="vertical" extent="3" unit="lines"/>
+<lb/><space extent="20" unit="chars"/><add place="inline" hand="#DL" n="DL"><metamark function="insertion"/>The steep walk there</add>
+<lb/>
+<lb/><space extent="20" unit="chars"/><add place="inline" hand="#DL" n="DL">in its ascent</add>
+<lb/><space dim="vertical" extent="4" unit="lines"/>
+<lb/><space extent="30" unit="chars"/><add place="inline" hand="#DL" n="DL">at the bottom</add>
+<lb/>
+<lb/><space extent="12" unit="chars"/><add place="inline" hand="#DL" n="DL">which branches off <metamark function="insertion"/></add>
+
+
+<pb facs="liv_000101_0184.jpg" n="0184"/><!-- p526-527, sh -->    
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">163</add></fw>
+<lb/><anchor xml:id="add-63"/><anchor xml:id="add-64"/><anchor xml:id="add-122"/><anchor xml:id="add-67"/><anchor xml:id="add-68"/><anchor xml:id="add-69"/> <note><date when="1855-11-20">20<hi rend="sup">-</hi> <choice><abbr>Nov</abbr><expan>November</expan></choice></date></note> <persName>Sekeletu</persName> and his large party having conveyed me thus far
+<lb/>and furnished me with a party <w><subst><del>a</del><add place="over-text">o</add></subst>f</w> 113 men to carry <choice><abbr>'</abbr><expan>the</expan></choice> tusks to <choice><abbr>'</abbr><expan>the</expan></choice> coast
+<lb/>we bade adieu to <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Makololo</term> and proceeded northwards to the
+<lb/><placeName><geogName type="river">Lekone</geogName></placeName> <space extent="3" unit="chars"/>The country around is very beautiful and was once
+<lb/>well peopled with <term type="tribe">Batoka</term> who possessed enormous herds <choice><abbr>`</abbr><expan>of</expan></choice> cattle
+<lb/>When <persName>Sebituane</persName> came in former times with his small but
+<lb/>warlike party of <term type="tribe">Makololo</term> to this spot a general rising took 
+<lb/>place of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Batoka</term> through <choice><abbr>'</abbr><expan>the</expan></choice> whole country in order to "eat
+<lb/>him up" but his usual success followed him and dispersing
+<lb/>them the <term type="tribe">Makololo</term> obtained so many <term type="animal">cattle</term> that they could not
+<lb/>take any note of <choice><abbr>'</abbr><expan>the</expan></choice> herds <choice><abbr>`</abbr><expan>of</expan></choice> <term type="animal">sheep</term> and <term type="animal">goats</term> <space extent="3" unit="chars"/>The <term type="insect">tsetse</term> has been
+<lb/>brought <add place="below">^</add> <add place="above">by <term type="animal"><choice><sic>buffalos</sic><corr>buffaloes</corr></choice></term></add>  into some districts where formerly <term type="animal">cattle</term> abounded
+<lb/>This obliged us to travel <subst><del>by</del><add place="over-text">the</add></subst> first few stages by night. We
+<lb/>could not <del type="strikethrough">see w</del> well detect <choice><abbr>'</abbr><expan>the</expan></choice> nature of <choice><abbr>'</abbr><expan>the</expan></choice> country in <choice><abbr>'</abbr><expan>the</expan></choice> dim
+<lb/>moonlight <space extent="2" unit="chars"/>The path seemed to lead along <choice><abbr>'</abbr><expan>the</expan></choice> high bank
+<lb/>of what may have been <choice><abbr>'</abbr><expan>the</expan></choice> ancient bed of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> before
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> fissure was made <space extent="2" unit="chars"/>The <placeName><geogName type="river">Lekone</geogName></placeName> now winds in it in an 
+<lb/>opposite direction to what <choice><abbr>'</abbr><expan>the</expan></choice> <del type="cancelled"><unclear cert="low">low</unclear></del> ancient river must have flowed</p>
+<lb/><p>Both <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Lekone</geogName></placeName> and <placeName><geogName type="river">Unguesi</geogName></placeName> flow <w>back<del type="cancelled">ward</del></w> towards <choice><abbr>'</abbr><expan>the</expan></choice> centre
+<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> country in an opposite direction to that of <choice><abbr>'</abbr><expan>the</expan></choice> main stream
+<lb/><del type="strikethrough">It</del> was plain then that we were ascending <choice><abbr>'</abbr><expan>the</expan></choice> farther we went 
+<lb/>eastward <space extent="3" unit="chars"/>The level of <choice><abbr>'</abbr><expan>the</expan></choice> lower portion <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Lekone</geogName></placeName> is about 
+<lb/><measure>200 <choice><abbr>ft</abbr><expan>feet</expan></choice></measure> above that <choice><abbr>` '</abbr><expan>of the</expan></choice> level <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <del type="cancelled">at</del> <add place="below">^</add> <add place="above">above</add> <choice><abbr>'</abbr><expan>the</expan></choice> falls and considerably
+<lb/>more than <choice><abbr>'</abbr><expan>the</expan></choice> altitude of <placeName><settlement type="town">Linyanti</settlement></placeName> <choice><sic>consequently</sic><corr>Consequently</corr></choice> when <choice><abbr>'</abbr><expan>the</expan></choice> river
+<lb/>flowed along this bed instead <choice><abbr>`</abbr><expan>of</expan></choice> through <choice><abbr>'</abbr><expan>the</expan></choice> rent <choice><abbr>'</abbr><expan>the</expan></choice> whole country
+<lb/>between this and <choice><abbr>'</abbr><expan>the</expan></choice> ridge beyond <placeName><settlement type="village">Libebe</settlement></placeName> westwards <add place="above" hand="#DL" n="DL"><metamark function="insertion"/>Southwards &amp; Eastwards beyond <placeName><geogName type="pan">Nchokotsa</geogName></placeName></add> was one
+<lb/>large fresh water lake <space extent="3" unit="chars"/>There is abundant evidence
+<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> existence and extent of a vast lake having existed <del type="cancelled">between</del>
+<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> longitudes indicated and extending from <measure>17° to 21° <choice><abbr>S</abbr><expan>South</expan></choice> <choice><abbr>Lat.</abbr><expan>Latitude</expan></choice></measure>
+<lb/>The whole <choice><abbr>`</abbr><expan>of</expan></choice> this space is paved with a bed <choice><abbr>`</abbr><expan>of</expan></choice> tufa more or
+<lb/>less soft according as it is covered with soil or left
+<lb/>exposed to <choice><abbr>'</abbr><expan>the</expan></choice> atmospheric influences <space extent="4" unit="chars"/>Wherever <term type="animal"><w>ant-
+<lb break="no"/>eaters</w></term> make deep holes in this ancient bottom <w>fresh-
+<lb break="no"/>water</w> shells are thrown out identical with those now</p>
+    
+    
+<pb facs="liv_000101_0185.jpg" n="0185"/><!-- middle 523p, sh  -->
+<lb/><p><addSpan place="inline" hand="#DL" n="DL" spanTo="#longadd-3" corresp="#add-63"/>If we take the <subst><del>ev</del><add place="over-text">w</add></subst>ant <del type="strikethrough">of evidence of</del> <add place="above">of</add> much
+<lb/>wear on <subst><del type="strikethrough">a</del><add place="above">the lip of</add></subst> hard basaltic rock as of any
+<lb/>value the period <del type="cancelled">of</del> when this <subst><del type="strikethrough">ridge</del><add place="above">rock</add></subst> was
+<lb/>riven <del type="cancelled">through</del> was not geologically very
+<lb/>remote - <del type="cancelled">The</del> I regretted the want of proper
+<lb/>means of measuring and marking
+<lb/>its width at the falls in order that 
+<lb/>at some future time the question
+<lb/>whether <del type="cancelled">it</del> it is progressive or not
+<lb/>might be tested – It seemed as if
+<lb/>a <term type="plant">palm tree</term> could be laid <w>ac<del type="strikethrough">c</del>ross</w> it
+<lb/>from the island - And it is progressive
+<lb/>as it would mark a great <w>natur<subst><del>e</del><add place="over-text">a</add></subst>l</w>
+<lb/>drainage being effected <del type="strikethrough">there is</del> <add place="below">^</add> <add place="above">it might furnish a</add>  <choice><sic>a</sic><corr/></choice> hope
+<lb/>that <placeName><bloc>Africa</bloc></placeName> will one day become
+<lb/>a healthy continent – It is at any rate very
+<lb/>much changed <del type="strikethrough"><subst><del>in its</del><add place="over-text">as it</add></subst> res</del> in respect to its
+<lb/>Lakes within a comparatively recent
+<lb/>period </p>
+<lb/>
+<lb/><p hand="#DL" n="DL">At three spots near these falls one of them
+<lb/>the island in the middle <add place="below">^</add> <add place="above">on which we are</add> three <term type="tribe">Batoka</term>
+<lb/><term type="occupation">chiefs</term> <del type="cancelled"><persName>Mokwine</persName> <persName>Sekote</persName></del> &amp;
+<lb/>offered up prayers and sacrifices to the
+<lb/><foreign xml:lang="tn">Barimo</foreign> <del type="strikethrough">It is curiou</del> They chose their
+<lb/>places of prayer <subst><del type="strikethrough">in</del><add place="above">within the</add></subst> sound of the
+<lb/>roar of the cataract and in sight of
+<lb/>the bright bows in the cloud - They
+<lb/>must have looked upon the scene with
+<lb/>awe - Fear may have induced the
+<lb/>selection <del type="strikethrough">for</del> <choice><sic>the</sic><corr>The</corr></choice> river itself was
+<lb/>mysterious – The words of the canoe
+<lb/>song are "The <placeName><geogName type="river">Leeambye</geogName></placeName>! <del type="cancelled">the</del> <choice><sic>nobody</sic><corr>Nobody</corr></choice> knows<choice><sic>"</sic><corr/></choice>
+<lb/><space extent="5" unit="chars"/>"whence it comes &amp; w<subst><del>i</del><add place="over-text">h</add></subst>ither it <w>go<subst><del type="cancelled">es</del><add place="above">es</add></subst></w><del type="cancelled">"</del><supplied cert="high">"</supplied><anchor xml:id="longadd-3"/>
+<lb/><add place="inline" hand="#DL" n="DL"><note>see back of next page</note></add>
+</p>
+
+
+<pb facs="liv_000101_0186.jpg" n="0186"/><!-- p527-528, sh -->
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">164</add></fw>
+<lb/><p rend="no-indent">existing in the lake <placeName><geogName type="lake">Ngami</geogName></placeName> and <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <space extent="2" unit="chars"/>The <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName>
+<lb/>was another lake of a similar nature and one existed beyond
+<lb/><persName>Masiko</persName> and a fourth near <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Orange</geogName></placeName> river <space extent="3" unit="chars"/>The whole of these
+<lb/>lakes were let out by means of cracks or fissures made in the<del type="strikethrough">ir</del>
+<lb/>subtending sides by upheaval <choice><abbr>` '</abbr><expan>of the</expan></choice> country <space extent="3" unit="chars"/>The fissure made
+<lb/>at <placeName><geogName type="waterfall">Victoria falls</geogName></placeName> let out <choice><abbr>'</abbr><expan>the</expan></choice> water <choice><abbr>`</abbr><expan>of</expan></choice> this great valley and left a
+<lb/>small patch in what was probably its deepest portion and is
+<lb/>now called lake <placeName><geogName type="lake">Ngami</geogName></placeName> <space extent="2" unit="chars"/>The falls of <placeName><geogName type="waterfall">Gonye</geogName></placeName> furnished an
+<lb/>outlet to <choice><abbr>'</abbr><expan>the</expan></choice> lake of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">Barotse valley</geogName></placeName> and so of <choice><abbr>'</abbr><expan>the</expan></choice> other great lakes of
+<lb/>remote times <space extent="3" unit="chars"/>The <placeName><geogName type="river">Congo</geogName></placeName> finds its way to <choice><abbr>'</abbr><expan>the</expan></choice> sea through a 
+<lb/>narrow fissure and so does <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Orange river</geogName></placeName> in <choice><abbr>'</abbr><expan>the</expan></choice> west while
+<lb/>other <del type="strikethrough">cracks</del> <add place="below">^</add> <add place="above">rents</add> made in <choice><abbr>'</abbr><expan>the</expan></choice> eastern ridge <del type="cancelled">allow</del> as <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="waterfall">Victoria</geogName></placeName> falls
+<lb/>and those to <choice><abbr>'</abbr><expan>the</expan></choice> east <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><geogName type="lake"><choice><orig>Tanganyenka</orig><reg>Tanganyika</reg></choice></geogName></placeName> allow <choice><abbr>'</abbr><expan>the</expan></choice> central waters to
+<lb/>drain eastward  <space extent="4" unit="chars"/>All <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>African</orgName> lakes hitherto discovered
+<lb/>are shallow in consequence of being <choice><abbr>'</abbr><expan>the</expan></choice> main residua of very much
+<lb/>larger ancient bodies of water <space extent="4" unit="chars"/>There can be no doubt
+<lb/>that <placeName><bloc>Africa</bloc></placeName> was in former times very much more abundantly
+<lb/>supplied with water than at present but a <add place="below">^</add> <add place="above">natural</add> process of drainage
+<lb/>has been going on for ages <space extent="3" unit="chars"/><choice><sic>deep</sic><corr>Deep</corr></choice> fissures are made probably
+<lb/>by <choice><abbr>'</abbr><expan>the</expan></choice> elevation <choice><abbr>` '</abbr><expan>of the</expan></choice> land proofs of <choice><abbr>wh.</abbr><expan>which</expan></choice> are seen all round <choice><abbr>'</abbr><expan>the</expan></choice> coast
+<lb/>line <space extent="2" unit="chars"/>Whether this process of <choice><sic>dessication</sic><corr>desiccation</corr></choice> is as rapid throughout
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> continent as in a letter to <choice><abbr>'</abbr><expan>the</expan></choice> late <persName>Dean Buckland</persName> in <date when="1843">1843</date>
+<lb/>I showed <del type="strikethrough"><subst><del>had</del><add place="above">we</add></subst> been <choice><abbr>'</abbr><expan>the</expan></choice> cas</del> to have been <choice><abbr>'</abbr><expan>the</expan></choice> case in <placeName><region><term type="tribe">Bechuana</term>
+<lb/>Country</region></placeName> it is not for me to say but though there is a slight
+<lb/>tradition of <choice><abbr>'</abbr><expan>the</expan></choice> waters having burst through <choice><abbr>'</abbr><expan>the</expan></choice> low hills south <choice><abbr>` '</abbr><expan>of the</expan></choice>
+<lb/><placeName><region>Barotse</region></placeName> there is none of a sudden upheaval accompanied
+<lb/>by an earthquake <space extent="4" unit="chars"/>The formation <choice><abbr>` '</abbr><expan>of the</expan></choice> <del type="strikethrough">fissure</del> crack
+<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> <foreign xml:id="loz"><placeName><region>Mosioatunya</region></placeName></foreign> is perhaps too ancient for that yet as
+<lb/>information of any remarkable event is often transmitted
+<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>native</orgName> names and they even retain a tradition <choice><abbr>wh.</abbr><expan>which</expan></choice> looks
+<lb/>like <choice><abbr>'</abbr><expan>the</expan></choice> <bibl>story of <persName>Solomon</persName> &amp; <choice><abbr>'</abbr><expan>the</expan></choice> harlots</bibl> there is not a Tom earthquake
+<lb/>or Sam shake the ground in <choice><abbr>'</abbr><expan>the</expan></choice> whole country <space extent="4" unit="chars"/>They have a
+<lb/>tradition <choice><abbr>wh</abbr><expan>which</expan></choice> may refer to <choice><abbr>'</abbr><expan>the</expan></choice> building <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><settlement type="city">Tower of Babel</settlement></placeName> but it
+<lb/>ends in <choice><abbr>'</abbr><expan>the</expan></choice> bold builders getting their crowns cracked by <choice><abbr>'</abbr><expan>the</expan></choice> fall of</p>
+    
+
+
+<pb facs="liv_000101_0187.jpg" n="0187"/><!-- 524p, sh  -->    
+<lb/><p><addSpan place="inline" hand="#DL" n="DL" spanTo="#longadd-4" corresp="#add-64"/>The play of colours or double iris on the
+<lb/>cloud seen by them <add place="below">^</add> <add place="above">elsewhere</add> only as the <w>rain<supplied cert="high">-</supplied>
+<lb break="no"/>-bow</w> may have led them to the idea that
+<lb/>this was the <w>a<subst><del>d</del><add place="over-text">b</add></subst>ode</w> of deity - Some of
+<lb/>the <term type="tribe">Makololo</term> who went with me near
+<lb/>to <placeName><geogName type="waterfall">Gonye</geogName></placeName> looked up<add place="inline">on</add> the same sign with 
+<lb/>awe – When seen in the heavens it
+<lb/>is named "<foreign xml:lang="tn">motsé oa barimo</foreign>" – The pestle of
+<lb/>the gods – Here they could approach the
+<lb/>emblem and see it stand steadily
+<lb/>above the blustering uproar below, a
+<lb/>type of Him who sits supreme and
+<lb/>alone <del type="strikethrough">immovable</del> <add place="below">^</add> <add place="above">unchangeable</add> <add place="below">^</add> <subst><add place="above">though ruling</add><del type="strikethrough">among</del></subst> over all
+<lb/>changing things – But <del type="cancelled">they did not
+<lb/>know his<add place="above">s</add> in <subst><del>this</del><add place="over-text">his</add></subst> <add place="below">^</add> <add place="above">true</add> character <add place="below">^</add> <add place="above">of justice &amp; mercy</add> which we
+<lb/>are privileged to have of Him in his
+<lb/>word</del> - <add place="marginleft" hand="#CL" n="CL"><metamark function="insertion"/><seg rend="vertical">But not aware of his true character they had no admiration of the beautiful &amp; good in their bosoms</seg></add> <del type="strikethrough">Hence</del> <choice><sic>they</sic><corr>They</corr></choice> did not imitate
+<lb/>his goodness <del type="strikethrough">for they</del> <add place="below">^</add> <add place="above" hand="#CL" n="CL">being</add> were a 
+<lb/><choice><sic>bloddy</sic><corr>bloody</corr></choice> imperious crew and
+<lb/><persName>Sebituane</persName> performed a noble
+<lb/>service in the<del type="strikethrough">ir</del> expulsion
+<lb/>from their <del type="cancelled">island</del> fastnesses
+<lb/>of these cruel "<bibl><orgName>Lords of the <choice><sic>isles</sic><corr>Isles</corr></choice></orgName></bibl>"</p>
+<lb/>
+<lb/><p hand="#DL" n="DL">Having feasted my eyes long on the
+<lb/>beautiful sight I returned to my friends at
+<lb/><placeName><geogName type="island">Kalai</geogName></placeName> and saying to <persName>Sekeletu</persName> that he
+<lb/>had nothing else worth <choice><orig>shewing</orig><reg>showing</reg></choice> in his
+<lb/>country <w>h<subst><del>e</del><add place="over-text">is</add></subst></w> curiosity was excited to
+<lb/>visit it next day ... I returned with
+<lb/>the intention of taking a Lunar observation
+<lb/>from the island itself <subst><del>and</del><add place="over-text">but</add></subst> clouds
+<lb/>were unfavourable - consequently all
+<lb/>my determinations of position
+<lb/><space extent="2" unit="chars"/>refer to <placeName><geogName type="island">Kalai</geogName></placeName> <del type="cancelled">its</del><anchor xml:id="longadd-4"/></p>
+
+
+<pb facs="liv_000101_0188.jpg" n="0188"/><!-- p530-531, sh -->
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">165</add></fw>
+<lb/><p rend="no-indent"><!-- p528, sh -->of the scaffolding <metamark function="insertion"/><anchor xml:id="add-62"/><anchor xml:id="add-49"/><anchor xml:id="add-47"/><anchor xml:id="add-48"/><anchor xml:id="add-46"/><!-- from image 0169, 0171 and 0173.JL --> <!-- p530, sh --> <space extent="3" unit="chars"/><date when="1855-11-24">24<hi rend="sup">th</hi></date> We remained a day at <choice><abbr>'</abbr><expan>the</expan></choice> village of 
+<lb/><persName>Moyara</persName> <space extent="2" unit="chars"/><choice><sic>here</sic><corr>Here</corr></choice> <choice><abbr>'</abbr><expan>the</expan></choice> valley in <choice><abbr>wh.</abbr><expan>which</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Lekone</geogName></placeName> flows trends away to the
+<lb/>Eastward while our course is more to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N.E.</abbr><expan>North East</expan></choice> <space extent="2" unit="chars"/>The country is
+<lb/>rocky and rough the soil being red sand <choice><abbr>wh.</abbr><expan>which</expan></choice> is covered with
+<lb/>beautiful green trees yielding abundance of fruit <space extent="2" unit="chars"/>The <persName>father
+<lb/>of <persName>Moyara</persName></persName> was a powerful <term type="occupation">chief</term> but <choice><abbr>'</abbr><expan>the</expan></choice> son now sits among the
+<lb/>ruins of <choice><abbr>'</abbr><expan>the</expan></choice> town with 4 or 5 wives and very few people <space extent="2" unit="chars"/>At
+<lb/>his hamlet a number of stakes are planted in <choice><abbr>'</abbr><expan>the</expan></choice> ground and I
+<lb/>counted <del type="strikethrough">between</del> 54 human skulls hung on their points <space extent="2" unit="chars"/>These were
+<lb/><term type="tribe">Matibele</term> who unable to approach <persName>Sebituane</persName> on <choice><abbr>'</abbr><expan>the</expan></choice> island of <placeName><geogName type="island">Loyela</geogName></placeName>
+<lb/>had returned sick and famishing <space extent="2" unit="chars"/><persName><persName>Moyara</persName>’s father</persName>
+<lb/>took advantage <choice><abbr>`</abbr><expan>of</expan></choice> their reduced condition and after putting
+<lb/>them to death mounted their heads in <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Batoka</term> fashion
+<lb/>The old man who perpetrated this deed now lies in <choice><abbr>'</abbr><expan>the</expan></choice> middle of
+<lb/>his <choice><sic>sons</sic><corr>son's</corr></choice> huts with a lot of rotten ivory over his grave One <w>can-
+<lb break="no"/>not</w> help feeling thankful that <choice><abbr>'</abbr><expan>the</expan></choice> reign <choice><abbr>`</abbr><expan>of</expan></choice> such wretches is over
+<lb/>They inhabited <choice><abbr>'</abbr><expan>the</expan></choice> whole <choice><abbr>`</abbr><expan>of</expan></choice> this side of <choice><abbr>'</abbr><expan>the</expan></choice> country and were probably
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> barriers to <choice><abbr>'</abbr><expan>the</expan></choice> extension of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Portuguese</term> commerce in this direction</p>
+<lb/><p><del type="cancelled">O</del> When looking at these skulls I remarked to <persName>Moyara</persName>
+<lb/>that many <choice><abbr>`</abbr><expan>of</expan></choice> them were those <choice><abbr>`</abbr><expan>of</expan></choice> mere boys <choice><sic>he</sic><corr>He</corr></choice> assented readily
+<lb/>and pointed them out as such <space extent="2" unit="chars"/>I asked why his father had
+<lb/>killed boys  "To show his fierceness" was <choice><abbr>'</abbr><expan>the</expan></choice> answer <space extent="3" unit="chars"/>Is it fierceness
+<lb/>to kill boys? <space extent="2" unit="chars"/>"Yes they had no business here" When I told him
+<lb/>that this sort of fierceness would ensure his own death if the
+<lb/><term type="tribe">Matebele</term> came again he replied <del type="cancelled">that</del> "When I hear of them
+<lb/>coming I shall hide <choice><abbr>'</abbr><expan>the</expan></choice> bones" <space extent="3" unit="chars"/>He was evidently proud of these
+<lb/>trophies of his father's fierceness and I was assured by other <term type="tribe">Batoka</term>
+<lb/>that few strangers ever returned from a visit to this quarter
+<lb/>If a man wished to curry favour with a <term type="tribe">Batoka</term> <term type="occupation">chief</term>
+<lb/>he <del type="cancelled">f</del> ascertained when a stranger was about to leave and
+<lb/>waylaid him at a distance from <choice><abbr>'</abbr><expan>the</expan></choice> town and when he brought
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> head back to <choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">chief</term> it was mounted as a trophy <space extent="3" unit="chars"/>The
+<lb/>different <term type="occupation">chiefs</term> <choice><sic>vieing</sic><corr>vying</corr></choice> with each other as to <choice><abbr>wh</abbr><expan>which</expan></choice> <choice><abbr>shd</abbr><expan>should</expan></choice> mount
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> greatest number of skulls in his village <space extent="3" unit="chars"/>If as has been</p>
+
+
+<pb facs="liv_000101_0189.jpg" n="0189"/><!-- middle 524-525p, sh  -->
+<lb/><p rend="no-indent"><addSpan place="inline" hand="#DL" n="DL" spanTo="#longadd-9" corresp="#add-122"/><persName>Sekeletu</persName> acknowledged to feeling a little
+<lb/>nervous at the probability of being sucked
+<lb/>into the <choice><sic>gulph</sic><corr>gulf</corr></choice> before reaching the island 
+<lb/>His companions amused themselves
+<lb/>by throwing stones down and wondered
+<lb/>to see<del type="cancelled">m</del> them <w>diminish<subst><del>ed</del><add place="over-text">ing</add></subst></w> in size and <add place="inline">even</add>
+<lb/>disappear before they reached the 
+<lb/>water at the bottom – </p> 
+<lb/><p hand="#DL" n="DL">I had another object in view in my return
+<lb/>to the island – I observed that it was covered with
+<lb/>trees several of which I had seen nowhere else
+<lb/>and every<del type="cancelled">where</del> now and then the wind wafted
+<lb/>a little of the condensed vapour over
+<lb/>it and kept the soil in
+<lb/>a state of moisture which caused
+<lb/>a sward of grass growing as green as
+<lb/>on an <term type="nationality">English</term> lawn – I selected a spot
+<lb/>not too near the chasm for there the 
+<lb/>constant deposition of the moisture
+<lb/><subst><del type="cancelled">had</del><add place="over-text">n</add></subst>ourished numbers of polypi of a
+<lb/>mushroom shape and fleshy <w>con-
+<lb break="no"/>-sistence</w> but somewhat back and
+<lb/>made a little garden – I there planted
+<lb/>about a hundred <term type="plant">peach</term> &amp; <term type="plant">apricot</term>
+<lb/>stones and a quantity of <term type="plant">coffee</term> seeds 
+<lb/>I had attempted fruit trees before but
+<lb/>when left in charge of my <term type="tribe">Makololo</term>
+<lb/>friends they were always allowed
+<lb/>to wither after having vegetated by being
+<lb/>forgotten -  I bargained for a hedge
+<lb/>with one of the <term type="tribe">Makololo</term> and if
+<lb/>he is faithful – I have great hopes
+<lb/>in <foreign xml:lang="loz"><placeName><geogName type="waterfall">Mosiatunya</geogName></placeName></foreign>’s abilities as a 
+<lb/>nursery man – My only source of
+<lb/>fear is the <term type="animal">hippopotami</term> whose <anchor xml:id="longadd-9"/></p>
+   
+
+<pb facs="liv_000101_0190.jpg" n="0190"/><!-- p531-532, sh -->        
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">166</add></fw>
+<lb/><p rend="no-indent">asserted the <term type="nationality">Portuguese</term> ever had a chain of trading stations across
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> country <del type="cancelled">it</del> from <placeName><settlement type="village">Caconda</settlement></placeName> to <placeName><settlement type="town">Tete</settlement></placeName> it must have passed through
+<lb/>these people but <choice><abbr>'</abbr><expan>the</expan></choice> total ignorance of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>'s flowing from the <choice><abbr>N to S.</abbr><expan>North to South</expan></choice>
+<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> centre of <choice><abbr>'</abbr><expan>the</expan></choice> country and <choice><abbr>'</abbr><expan>the</expan></choice> want of knowledge of the astonishing falls <add place="below">^</add>
+<lb/><add place="above">of <placeName><geogName type="waterfall">Victoria</geogName></placeName></add> <choice><abbr>wh.</abbr><expan>which</expan></choice> excite <choice><abbr>'</abbr><expan>the</expan></choice> wonder of even <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>natives</orgName> together with <choice><abbr>'</abbr><expan>the</expan></choice> want of any
+<lb/>tradition of any such chain of stations <choice><sic><subst><del>m</del><add place="over-text">co</add></subst>mpells</sic><corr>compels</corr></choice> me to <choice><sic>beleive</sic><corr>believe</corr></choice> that
+<lb/>this chain of trading stations existed only on paper <space extent="4" unit="chars"/>This conviction
+<lb/>is strengthened by <choice><abbr>'</abbr><expan>the</expan></choice> fact that when a late attempt was made to
+<lb/>claim <choice><abbr>'</abbr><expan>the</expan></choice> honour of crossing <choice><abbr>'</abbr><expan>the</expan></choice> continent for <choice><abbr>'</abbr><expan>the</expan></choice> <term type="people">Portuguese</term> <choice><abbr>'</abbr><expan>the</expan></choice> only proof 
+<lb/>advanced was <choice><abbr>'</abbr><expan>the</expan></choice> journey of <choice><abbr>'</abbr><expan>the</expan></choice> two black <term type="occupation">traders</term> <del type="strikethrough">honoured with</del>
+<lb/>adorned with <choice><abbr>'</abbr><expan>the</expan></choice> name of <hi rend="underline"><term type="people">Portuguese</term></hi> <space extent="3" unit="chars"/>If a chain of stations
+<lb/>had existed a few hundred names of <choice><abbr>'</abbr><expan>the</expan></choice> same sort might easily
+<lb/>have been brought forward and such is <choice><abbr>'</abbr><expan>the</expan></choice> love <choice><abbr>`</abbr><expan>of</expan></choice> barter among
+<lb/>all <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>central <orgName>Africans</orgName></orgName> that had there been a market for ivory <add place="marginleft">its value would have been known <supplied cert="high">&amp;</supplied> even</add>
+<lb/>that on <choice><abbr>'</abbr><expan>the</expan></choice> graves of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">chiefs</term> would not have been safe</p>
+<lb/><p><del type="strikethrough">On leaving</del> When about to leave <persName>Moyara</persName> on <choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-11-25">25<hi rend="sup">th</hi></date> he brought 
+<lb/>a root <choice><abbr>wh.</abbr><expan>which</expan></choice> when pounded and sprinkled over <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">oxen</term> is believed to disgust
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> <term type="insect">tsetse</term> so that it flies off without sucking <choice><abbr>'</abbr><expan>the</expan></choice> blood <choice><sic>he</sic><corr>He</corr></choice> promised
+<lb/>to show me <choice><abbr>'</abbr><expan>the</expan></choice> plant <subst><del>if</del><add place="over-text">r</add></subst> tree if I would give him an <term type="animal">ox</term> but as
+<lb/>we were travelling and could not afford <choice><abbr>'</abbr><expan>the</expan></choice> time required for <supplied cert="high">the</supplied>
+<lb/>experiment so as not to be cheated as I had too often been
+<lb/>by my medical friends I deferred <choice><abbr>'</abbr><expan>the</expan></choice> investigation till I returned
+<lb/>It is probably but an evanescent remedy and capable of rendering
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">cattle</term> safe during one night <space extent="3" unit="chars"/><persName>Moyara</persName> is now quite a dependant
+<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Makololo</term> and my new party not being thoroughly drilled forced
+<lb/>him to carry a tusk for them  dependant <space extent="2" unit="chars"/>When I <choice><sic>releived</sic><corr>relieved</corr></choice> him he poured out 
+<lb/>a shower of thanks at being allowed to go back to sleep beneath his 
+<lb/>skulls <space extent="4" unit="chars"/>Next day we came to <placeName><geogName type="well">Namilanga</geogName></placeName> or <choice><abbr>'</abbr><expan>the</expan></choice> well 
+<lb/>of joy <space extent="2" unit="chars"/>It is a small well dug beneath a very large <term type="plant">fig-tree</term> <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>shade of <choice><abbr>wh</abbr><expan>which</expan></choice> <w>render<del type="cancelled">e</del>s</w> the water delightfully cool <space extent="3" unit="chars"/><seg type="weather">The temperature
+<lb/>through <choice><abbr>'</abbr><expan>the</expan></choice> day was 104° in <choice><abbr>'</abbr><expan>the</expan></choice> shade and 94° after sunset</seg> but <choice><abbr>'</abbr><expan>the</expan></choice> air was
+<lb/>not at all oppressive <space extent="3" unit="chars"/>This well received its name from
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> fact that in former times marauding parties in returning with
+<lb/><term type="animal">cattle</term> sat down here and were regaled with <term type="foodstuff">boyaloa</term> music
+<lb/><add place="inline" corresp="#add-67" hand="#DL" n="DL">foot-prints I saw on the island</add></p>
+
+
+<pb facs="liv_000101_0191.jpg" n="0191"/><!-- 525-526p, sh  -->    
+<lb/><p><addSpan place="inline" hand="#DL" n="DL" spanTo="#longadd-5" corresp="#add-68"/>When the garden was prepared I cut my initials
+<lb/>on a tree and the date <date when="1855">1855</date> – This was the
+<lb/>only instance in which I indulged in
+<lb/>this piece of vanity – The garden stands
+<lb/>in front and were there no <term type="animal">hippopotami</term>
+<lb/>I have no doubt but this would be
+<lb/>the parent of all gardens which
+<lb/>may yet be in this <del type="cancelled"><gap extent="2" unit="chars"/></del> new country</p> 
+<lb/><p hand="#DL" n="DL">We then went up to <placeName><geogName type="island">Kalai</geogName></placeName> again <metamark function="newParagraph" rend="gray" resp="#U2" n="U2">/</metamark>
+<lb/><metamark function="newParagraph" rend="gray" resp="#U2" n="U2">/</metamark> <persName>Pitsane</persName> and <persName>Mohorisi</persName> again expressed <!-- 8 lines up from bottom of p526, sh -->
+<lb/>their willingness to go away back to
+<lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> if <persName>Sekeletu</persName> would <del type="cancelled">allow</del>
+<lb/><subst><del>th</del><add place="over-text">g</add></subst>ive them orders - This is the more
+<lb/>remarkable as both have plenty of food
+<lb/>and leisure at home </p>
+<lb/><p hand="#DL" n="DL">We here got information of a foray<!-- top of p526, sh -->
+<lb/>which had been made by a <term type="tribe">Makololo</term> 
+<lb/>man in the direction we were going 
+<lb/>This instance of marauding was so
+<lb/>much in accordance with the system
+<lb/>which has been pursued in this country
+<lb/>that I did not wonder at it - But
+<lb/>the man had used <persName>Sekeletu</persName>’s name as
+<lb/>having sent him and the proof being
+<lb/>convincing he would undoubtedly be
+<lb/>fined – As that would be the first
+<lb/>instance in which a fine was 
+<lb/>levied I looked upon it as a
+<lb/>beginning of a better state of
+<lb/>things - In tribes which have
+<lb/><space extent="7" unit="chars"/><del type="cancelled">Another point may be noticed
+<lb/>as giving an idea of the state of
+<lb/>matters here –</del> 
+<lb/>been accustomed to <term type="animal">cattle</term> stealing the
+<lb/>act is not considered immoral<anchor xml:id="longadd-5"/> 
+</p>
+
+
+<pb facs="liv_000101_0192.jpg" n="0192"/><!-- p532, sh -->        
+<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">167</add></fw>
+<lb/><p rend="no-indent">and <choice><abbr>'</abbr><expan>the</expan></choice> lullilooing <choice><abbr>` '</abbr><expan>of the</expan></choice> women from <choice><abbr>'</abbr><expan>the</expan></choice> adjacent towns.  All <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/>surrounding country was formerly densely peopled <subst><del type="strikethrough">but is</del><add place="above">though</add></subst> now
+<lb/>desolate and still <space extent="2" unit="chars"/>The old <term type="occupation">head-man</term> of this place told us
+<lb/>that his father once went to <placeName><settlement type="village">Bambala</settlement></placeName> where white <term type="occupation">traders</term>
+<lb/>lived when our informant was  <del type="strikethrough">a little boy</del> <add place="below">^</add> <add place="above"><del type="strikethrough">an infant</del> a little boy</add> and returned when he had
+<lb/>become a boy of about ten years - <choice><sic>he</sic><corr>He</corr></choice> went again and returned
+<lb/><del type="strikethrough">about <choice><abbr>'</abbr><expan>the</expan></choice> time</del> when it was time to knock out his son's teeth
+<lb/><choice><sic>as</sic><corr>As</corr></choice> that takes place at <choice><abbr>'</abbr><expan>the</expan></choice> age <choice><abbr>`</abbr><expan>of</expan></choice> puberty – he must have spent at 
+<lb/>least 5 years in each journey. <space extent="2" unit="chars"/><choice><sic>he</sic><corr>He</corr></choice> added that many who
+<lb/>went never returned <w><subst><del>a</del><add place="over-text">b</add></subst>ecause</w> they liked that country better
+<lb/>than this <space extent="2" unit="chars"/>They <w>ha<subst><del>ave</del><add place="over-text">d</add></subst></w> even forsaken their wives and children
+<lb/>and children had been so enticed and flattered by <choice><abbr>'</abbr><expan>the</expan></choice> finery bestowed 
+<lb/>upon them that they had disowned their own parents and adopted
+<lb/>others <space extent="4" unit="chars"/>The place to <choice><abbr>wh</abbr><expan>which</expan></choice> they had gone <del type="strikethrough">was</del> <choice><abbr>wh.</abbr><expan>which</expan></choice> they named
+<lb/><placeName><settlement type="village">Bambala</settlement></placeName> was probably <placeName><settlement type="village">Dambarari</settlement></placeName> <choice><abbr>wh.</abbr><expan>which</expan></choice> was situated close to
+<lb/><placeName><settlement type="town">Zumbo</settlement></placeName> <space extent="3" unit="chars"/>This was <choice><abbr>'</abbr><expan>the</expan></choice> first intimation we had of intercourse with
+<lb/>whites <space extent="3" unit="chars"/>The <term type="tribe">Barotse</term> and all <choice><abbr>'</abbr><expan>the</expan></choice> other tribes in <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>Central valley</region></placeName>
+<lb/>have no such tradition as this <space extent="2" unit="chars"/>nor have either <choice><abbr>'</abbr><expan>the</expan></choice> one or <choice><abbr>'</abbr><expan>the</expan></choice> other
+<lb/>any account of <del type="strikethrough">a visit</del> any <choice><sic><term type="occupation">trader</term></sic><corr><term type="occupation">trader</term>'s</corr></choice> visit to them in ancient
+<lb/>times<space unit="chars" extent="25"/> <del type="cancelled"><date when="1855-11-26">26<hi rend="sup">th</hi></date></del> All <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Batoka</term> tribes
+<lb/>follow <choice><abbr>'</abbr><expan>the</expan></choice> curious custom of knocking out <choice><abbr>'</abbr><expan>the</expan></choice> upper front teeth 
+<lb/>at <choice><abbr>'</abbr><expan>the</expan></choice> age of puberty <space extent="3" unit="chars"/>This is done by both sexes and though
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> under teeth being <choice><sic>releived</sic><corr>relieved</corr></choice> from <choice><abbr>'</abbr><expan>the</expan></choice> attrition of <choice><abbr>'</abbr><expan>the</expan></choice> upper grow long
+<lb/>and somewhat bent out and thereby cause <choice><abbr>'</abbr><expan>the</expan></choice> under lip to
+<lb/>protrude in a most unsightly way no young woman thinks
+<lb/>herself accomplished until she has got rid of <choice><abbr>'</abbr><expan>the</expan></choice> upper incisors
+<lb/>This <del type="strikethrough">nasty</del> custom gives all <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Batoka</term> an uncouth <w>old-
+<lb break="no"/>man</w> like appearance <space extent="2" unit="chars"/>Their laugh is hideous yet they
+<lb/>are so attached to it that even <persName>Sebituane</persName> was unable to
+<lb/>eradicate it <space extent="3" unit="chars"/>He issued orders that none of <choice><abbr>'</abbr><expan>the</expan></choice> children
+<lb/>living under him should be subjected to <choice><abbr>'</abbr><expan>the</expan></choice> custom by their
+<lb/>parents and disobedience to his mandates was usually
+<lb/>punished with severity but notwithstanding this <choice><abbr>'</abbr><expan>the</expan></choice> children
+<lb/>would appear in <choice><abbr>'</abbr><expan>the</expan></choice> streets <del type="strikethrough">minus</del> without their incisors
+<lb/>and no one would confess to the deed.</p>
+
+
+<pb facs="liv_000101_0193.jpg" n="0193"/><!-- 526p, sh  -->
+<lb/><p rend="no-indent"><addSpan hand="#DL" n="DL" place="inline" spanTo="#longadd-6" corresp="#add-69"/>in the way that theft is – Before I knew the
+<lb/>language well I said to a <term type="occupation">chief</term> "you
+<lb/>stole the <term type="animal">cattle</term> of so &amp; so" - "No I did not 
+<lb/>steal them" was the reply "I <w>o<subst><del>l</del><add place="over-text">n</add></subst>ly</w> lifted
+<lb/>them" The word <subst><del>lift</del><add place="over-text">"<foreign xml:lang="tn">gapa</foreign>"</add></subst> is identical
+<lb/>with the highland term for the 
+<lb/>same deed – </p>
+<lb/><p hand="#DL" n="DL">Another point came to our notice here - Some
+<lb/><term type="tribe">Mambari</term> had come down here and
+<lb/>induced the <term type="tribe">Batoka</term> to sell a very large tusk which
+<lb/>belonged to <persName>Sekeletu</persName> for a few bits of cloth 
+<lb/>They had gone among the <term type="tribe">Batoka</term> who need hoes
+<lb/>and having purchased some <subst><del>f</del><add place="over-text">of</add></subst> these from the
+<lb/>people near <placeName><settlement type="town">Sesheke</settlement></placeName> induced <w>the<add place="inline">m</add></w> <del type="cancelled">peo</del> to sell 
+<lb/><subst><del type="cancelled">them</del><add place="over-text">bo</add></subst>th ivory and children - They would
+<lb/>not part with them for clothing or beads – but
+<lb/>agriculture with wooden hoes is so difficult
+<lb/>th<del type="cancelled">y</del> sight of hoes prevailed – The <term type="tribe">Makololo</term> <w>pro-
+<lb break="no"/>posed</w> to knock the <term type="tribe">Mambari</term> on the head
+<lb/>as the remedy the next time they came but
+<lb/>on my proposing that they should send
+<lb/>hoes themselves and thereby secure the
+<lb/>way for themselves in a quiet way
+<lb/>all approved highly of the idea &amp;
+<lb/><persName>Pitsane</persName> and <persName>Mohorisi</persName> expatiated on the
+<lb/>value of the ivory – their own willingness
+<lb/>to go &amp; sell it <choice><sic>and</sic><corr>at</corr></choice> <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> – and
+<lb/>the disgust with which the <term type="tribe">Mambari</term>
+<lb/><del type="cancelled">had</del> <subst><del>lo</del><add place="over-text">whom</add></subst> we met in <placeName><country>Angola</country></placeName> had looked
+<lb/>upon their attempt to reach the proper
+<lb/>market - If nothing untoward happens
+<lb/>I think there is a fair prospect of
+<lb/>the trade in <orgName>slaves</orgName> being abolished in 
+<lb/>a natural way in this quarter<anchor xml:id="longadd-6"/> 
+<lb/><note><space extent="13" unit="chars"/><metamark function="flag" spanTo="#meta-317"/>Then go back to my <choice><sic>brothers</sic><corr>brother's</corr></choice>
+<lb/><space extent="13" unit="chars"/>writing<anchor xml:id="meta-317"/></note> 
+
+</p>
+</div>
+
+</body>
+</text>
+
+</TEI>

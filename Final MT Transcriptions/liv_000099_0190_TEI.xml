@@ -1,0 +1,1624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000099">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+    <author>David Livingstone</author>
+    <principal>Justin Livingstone</principal>
+    <respStmt xml:id="JL">
+        <name>Justin Livingstone</name>
+        <resp>Transcription and Encoding</resp>
+        <resp>Editorial Decisions</resp>
+    </respStmt>
+    <respStmt xml:id="AW">
+        <name>Adrian S. Wisnicki</name>
+        <resp>Encoding Consultant</resp>
+    </respStmt>
+    <respStmt xml:id="KS">
+        <name>Kate Simpson</name>
+        <resp>Transcription and Encoding</resp>
+    </respStmt>
+      <respStmt xml:id="JG">
+        <name>Johanna Green</name>
+        <resp>Transcription and Encoding</resp>
+    </respStmt>
+    <respStmt xml:id="PS">
+        <name>Peter Slater</name>
+        <resp>Transcription and Encoding</resp>
+    </respStmt>
+</titleStmt>
+<publicationStmt>
+    <authority>Livingstone Online</authority>
+    <publisher>UCLA Digital Library</publisher>
+    <pubPlace>Los Angeles, CA, USA</pubPlace>
+    <!-- Possible year update. -->
+    <date>2014</date>
+    <availability>
+    <!-- Possible license change. -->
+        <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+            All materials are licensed for use under the 
+            <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                Creative Commons Attribution-Noncommercial 3.0 Unported License
+            </ref>. 
+            (c) Dr. Neil Imray Livingstone Wilson, 2014
+        </licence>
+    </availability>
+</publicationStmt>
+<sourceDesc>
+    <msDesc>
+        <msIdentifier>
+            <country>United Kingdom</country>
+            <settlement>Edinburgh</settlement>
+            <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+            <idno type="shelfmark">MS.42428</idno><!-- This may change with each volume of the MS. -->
+            <altIdentifier>
+                <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+            </altIdentifier>
+        </msIdentifier>
+        <physDesc>
+            <handDesc>
+                <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+                <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+            </handDesc>
+        </physDesc>
+    </msDesc>
+
+    <bibl type="sourceMetadata">
+        <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+        <author xml:id="DL">David Livingstone</author>
+        <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+    </bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<langUsage>
+    <language ident="en">English</language>
+    <language ident="pt">Portuguese</language>
+    <language ident="ota">Ottoman Turkish</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+        <change when="2016-06-21" who="#JL">Proofing and encoding review</change>
+        <change when="2015-02-10" who="#KS">2nd Proofing</change>
+        <change when="2014-12-17" who="#PS">Further transcription and XML encoding</change>
+        <change when="2014-12-15" who="#JL">Proofing</change>
+        <change when="2014-11-06" who="#PS">Initial transcription and XML encoding</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body rend="right">
+<div>
+    
+    <pb facs="liv_000099_0190.jpg" n="0190"/> 
+<lb/><p rend="no-indent"><note place="marginleft">IX–</note> <fw><add place="inspace" hand="#U2" rend="gray left">1</add> <add place="inspace" hand="#U1" rend="gray right">185</add> <add place="inspace" hand="#U2" rend="gray right">97</add></fw>
+<lb/><choice><sic>so</sic><corr/></choice><!-- word repeated from previous page, at the end of the previous section.JL --> that it may be quite obliterated
+<lb/>We went and spoke to the
+<lb/>people advising them to
+<lb/>keep together and support
+<lb/>the heir - They took this kindly
+<lb/>and in turn advised us
+<lb/>not to be alarmed for they
+<lb/>would not think of ascribing
+<lb/>the death to us - That <persName>Sebituane</persName>
+<lb/>had just gone the way of his
+<lb/>fathers and though the
+<lb/>father had gone he had left
+<lb/>children and they hoped
+<lb/>that we would be as friendly
+<lb/>to <del type="strikethrough" hand="#U3" rend="red">them</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">his children</add> as we intended to
+<lb/>have been to hi<subst><del>s<gap extent="5" unit="chars" agent="overwriting"/></del><add place="over-text">mself</add></subst><!-- there is another word beneath self, but it is illegible.JL --> - </p>
+<lb/><p>He was decidedly the
+<lb/>finest <orgName>native</orgName> <term type="occupation">chief</term> I ever met
+<lb/>I never felt <subst><del type="strikethrough" hand="#U3" rend="red">more</del><add place="above" hand="#U3" rend="red">so much</add></subst> <add place="marginleft" hand="#U3" rend="red"><choice><sic>so much</sic><corr/></choice> <add place="inline">^</add></add> grieved by
+<lb/>the loss of a black man <add place="below">^</add> <add place="above">before</add> <del type="strikethrough">than
+<lb/>by this - </del> and it was impossible
+<lb/>not to follow him in
+<lb/>thought into the  world of
+<lb/>which he had just heard
+<lb/>before he was called away,
+<lb/>and to realize somewhat
+<lb/>of the feelings of those
+<lb/>who pray for the dead - 
+<lb/>The deep dark question
+<lb/>of what is to become of such
+<lb/>must however be left where
+<lb/>we find it - believing that
+<lb/>assuredly the "<quote>Judge of all
+<lb/>the earth will do right</quote>"
+
+
+    <pb facs="liv_000099_0191.jpg" n="0191"/>   
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">2</add> <add place="inspace" hand="#U1" rend="gray right">186</add></fw>
+<lb/><add place="inline">At</add> <add place="below">^</add> <persName>Sebituane</persName>'s death the <term type="occupation">chieftainship</term>
+<lb/>devolved <metamark function="insertion"/><anchor xml:id="reorder-32"/> on a daughter named 
+<lb/><persName>Ma mo-chisane</persName> <metamark function="reorder" spanTo="#meta-72"/><seg corresp="#reorder-32">as her father
+<lb/>intended</seg><anchor xml:id="meta-72"/> - He had promised
+<lb/>to <choice><orig>shew</orig><reg>show</reg></choice> us his country and
+<lb/>select a suitable locality for
+<lb/>a residence but now the 
+<lb/>daughter was living <measure>twelve
+<lb/>days</measure> to the North - at
+<lb/><placeName><settlement type="town">Naliele</settlement></placeName> - <del type="strikethrough">When</del> We were <subst><del type="strikethrough">now</del><add place="above"><del type="strikethrough" hand="#U3" rend="red">then</del></add></subst>
+<lb/><add place="marginleft" hand="#U3" rend="red">therefore</add> obliged to remain <choice><sic>untill</sic><corr>until</corr></choice> a     
+<lb/>message came from her  
+<lb/><add place="marginleft">and when it did she</add> <subst><del>giving</del><add place="over-text">gave</add></subst> us perfect liberty to
+<lb/>visit any part of the
+<lb/>country we chose - <persName>Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
+<lb/>and I therefore proceeded
+<lb/><measure>130 miles</measure> <add place="below">^</add> <add place="above">to the <choice><abbr>N. E.</abbr><expan>North East</expan></choice></add> to <placeName><settlement type="town">Sesheke</settlement></placeName> and
+<lb/>in the end of <date when="1851-06">June 1851</date> were
+<lb/>rewarded by <subst><del>a</del><add place="over-text">t</add></subst>he discovery
+<lb/>of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> in the
+<lb/>centre of the Continent - 
+<lb/>This was a most important
+<lb/>point, for that river was
+<lb/><add place="marginleft" hand="#U3" rend="red">not previously</add> <del type="strikethrough" hand="#U3" rend="red">never</del> known to exist there
+<lb/>at all - The <term type="nationality">Portuguese</term> maps
+<lb/>all represent it as rising
+<lb/>far to the East of where
+<lb/>we now were - and if ever
+<lb/>anything like a chain of
+<lb/>trading <add place="below">^</add> <add place="above">stations</add> existed <choice><sic>accross</sic><corr>across</corr></choice> the
+<lb/>country between the <measure>latitudes
+<lb/><measure>12˚</measure> and <measure>18˚</measure> South</measure> this
+<lb/>magnificent portion of
+<lb/>the river must have
+<lb/>been known - We saw it
+
+    
+    <pb facs="liv_000099_0192.jpg" n="0192"/>    
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">3</add> <add place="inspace" hand="#U2" rend="gray right">99</add> <add place="inspace" hand="#U1" rend="gray right">187</add></fw>
+<lb/>at the end of the dry season<add place="below" hand="#U3" rend="red">,</add>
+<lb/><del type="cancelled" hand="#U3" rend="red">or</del> at the time when the river<!-- the Zambesi. JL -->
+<lb/>is about its lowest - and yet
+<lb/>we saw from <measure>300 to 600 yards</measure>
+<lb/>of deep flowing water - <persName>M<hi rend="sup underline">r</hi>
+<lb/><choice><abbr>O.</abbr><expan>Oswell</expan></choice></persName> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">said he had</add> never <subst><del type="strikethrough" hand="#U3" rend="red">saw</del><add place="above" hand="#U3" rend="red">seen</add></subst> such a fine 
+<lb/>river<!-- the Zambesi.JL --> even in <placeName><country>India</country></placeName> - <del type="cancelled" hand="#U3" rend="red">and</del><add place="below" hand="#U3" rend="red"><del type="cancelled" hand="#DL"><unclear cert="low">that</unclear></del></add>
+<lb/>at the <seg type="weather">period of annual
+<lb/><del type="strikethrough" rend="black"><unclear cert="medium">inunda</unclear></del> inundation</seg> it rises
+<lb/>fully <measure>20 feet</measure> in perpendicular
+<lb/>height to flood <measure>fifteen or
+<lb/>twenty miles</measure> of <del type="strikethrough">country</del> -
+<lb/><add place="marginleft">lands adjacent to its banks,</add> The country over which
+<lb/>we had travelled from the
+<lb/><placeName><geogName type="river">Chobe</geogName></placeName> was perfectly flat
+<lb/>except where <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">there were</add> large anthills
+<lb/><del type="strikethrough" hand="#U3" rend="red">appeared</del> <add place="marginleft"><metamark function="insertion"/>or <subst><del type="strikethrough" hand="#U3" rend="red">have been</del><add place="above" hand="#U3" rend="red">the remains of former</add> <add place="inline" hand="#U3" rend="red">ones</add></subst>
+    <lb/><del type="strikethrough" hand="#U3" rend="red">&amp; left</del> <del type="cancelled">a</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">which had left</add> mounds
+    <lb/>a few feet high</add>
+ - These are generally
+<lb/>covered with wild <term type="plant">date
+<lb/>trees</term> and <term type="plant">Palmyras</term>
+<lb/>and <add place="below">^</add> <add place="above">in</add> some parts the<subst><del>ir</del><add place="over-text">re</add></subst>
+<lb/>are patches of <term type="plant">mimosae</term> - 
+<lb/>Occasionally the country
+<lb/>between the <placeName><geogName type="river">Chobe</geogName></placeName> <add place="marginleft"><metamark function="insertion"/>and <placeName><geogName type="river">Zambezi</geogName></placeName></add> is flooded
+<lb/>and there are large patches
+<lb/>of swamp <add place="marginleft"><metamark function="insertion"/>lying near
+    <lb/>or on <subst><del><unclear cert="low">its</unclear></del><add>the</add></subst> banks
+    <lb/>of the former</add>
+The <term type="tribe">Makololo</term>
+<lb/>were living among these
+<lb/>swamps because of the
+<lb/>protection the deep <add place="below">^</add> <add place="above">reedy</add> rivers
+<lb/>afforded them against
+<lb/>their enemies</p><!-- This is one of the sections with a large blanked out space at the bottom (about two and a half lines). PS  --><!-- from the edge of the paper it looks like a section has been cut out of the manuscript rather than a scanning error, ks --><!-- agreed.JL -->     
+  
+
+<pb facs="liv_000099_0193.jpg" n="0193"/>            
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">4</add> <add place="inspace" hand="#U1" rend="gray right">188</add> <add place="inline" hand="#U2" rend="gray right">100</add></fw>
+<lb/><add place="below">^</add> <add place="marginleft">Now in reference
+    <lb/>to a suitable locality
+    <lb/>for a settlement
+    <lb/>for myself I could
+    <lb/>not conscientiously
+    <lb/>ask them to
+    <lb/>abandon their
+    <lb/>defences for my
+    <lb/>convenience alone
+    <lb/>The healthy
+    <lb/>districts were
+    <lb/>defenceless - and
+    <lb/>the safe localities
+    <lb/>are so deleterious
+    <lb/>to human life
+    <lb/>that the original
+    <lb/><term type="tribe"><choice><orig>Basutus</orig><reg>Basutos</reg></choice></term></add>
+<del type="cancelled" hand="#DL"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-73"/></del>had nearly all been cut off
+<lb/>by the <term type="ailment">fever</term> I <add place="below">^</add> <add place="above">therefore</add> feared to
+<lb/>subject my family to
+<lb/>the scourge - <anchor xml:id="meta-73"/></p>
+<lb/><p>As we were the very first
+<lb/>white men the inhabitants
+<lb/>had ever seen<add place="inline" hand="#U3" rend="red">,</add> we were
+<lb/>visited by prodigious numbers - 
+<lb/>Among the first who
+<lb/>came to see us <del type="strikethrough" hand="#U3" rend="red">we were
+<lb/>struck by</del> <add place="above" hand="#U3" rend="red">was</add> a gentleman
+<lb/><add place="marginleft" hand="#U3" rend="red">who</add> appear<subst><del hand="#U3">ing</del><add place="over-text" hand="#U3" rend="red">ed</add></subst> in a gaudy
+<lb/>gown of printed calico<add place="inline" hand="#U3" rend="red">.</add>
+<lb/>Many of the <term type="tribe">Makololo</term>
+<lb/>besides had garments of
+<lb/>blue, green, and red baize
+<lb/>and also of printed cottons
+<lb/>on enquiry we learned
+<lb/>that these had been purchased
+<lb/><del type="strikethrough" hand="#U3" rend="red">with boys</del> - from a tribe <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-33"/> which
+<lb/>is situated near <placeName><geogName type="plateau">Bihé</geogName></placeName>
+<lb/><add place="marginleft" hand="#U3" rend="red">in exchange for boys</add> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-74"/><seg corresp="#reorder-33">called <term type="tribe">Mambari</term></seg><anchor xml:id="meta-74"/> - <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">This tribe</add><del type="strikethrough" hand="#U3" rend="red">They came
+<lb/>and</del> began the <orgName>slave trade</orgName>
+<lb/>with <persName>Sebituane</persName> only in
+<lb/><date when="1850">1850</date> - and but for the
+<lb/>unwillingness of <persName>Lechulatebe</persName>
+<lb/>to allow us to pass him
+<lb/>we should have been
+<lb/>with <persName>Sebituane</persName> in time
+<lb/>to <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">have</add> prevent<add place="inline" hand="#U3" rend="red">ed</add> it from commencing
+<lb/>at all - The <term type="tribe">Mambari</term>
+<lb/>visited the <term type="occupation">chief</term> of the
+<lb/><term type="tribe">Barotse</term> whom <persName>Sebituane</persName>
+<lb/>conquered and he refused
+
+
+<pb facs="liv_000099_0194.jpg" n="0194"/>          
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">5</add> <add place="inspace" hand="#U1" rend="gray right">189</add></fw>
+<lb/>to allow any one to sell a
+<lb/>child - They never came
+<lb/>back again till <date when="1850">1850</date> and
+<lb/><add place="marginleft" hand="#U3" rend="red">as they</add> <subst><del type="stikethrough" hand="#U3" rend="red">having</del><add place="above" hand="#U3" rend="red">had</add></subst> a number of
+<lb/>old <term type="nationality">Portuguese</term> guns marked
+<lb/>"<foreign xml:lang="pt">Legitimo de Braga</foreign>" which
+<lb/><persName>Sebituane</persName> thought would
+<lb/>be excellent in any other
+<lb/>invasion of <term type="tribe"><choice><sic>Matibele</sic><reg>Matebele</reg></choice></term>
+<lb/>he offered to purchase them
+<lb/>with <term type="animal">cattle</term> or ivory but
+<lb/><subst><del type="strikethrough" hand="#U3" rend="red">they</del><add place="above" hand="#U3" rend="red">the <term type="tribe">Mambari</term></add></subst> refused everything <del type="cancelled">but</del>  
+<lb/><add place="marginleft">except <add place="below">^</add></add> boys - about 14 years of
+<lb/>age - The <term type="tribe">Makololo</term> declare
+<lb/>they never heard of people
+<lb/>being bought and sold till
+<lb/>then and disliked it, but
+<lb/>the desire to possess the
+<lb/>guns prevailed and
+<lb/>eight old guns were
+<lb/>exchanged for as many
+<lb/>boys - These were not
+<lb/><del type="cancelled"><unclear cert="medium">bla</unclear></del> their own children but
+<lb/>captives of the black races
+<lb/>they had conquered <add place="marginleft"><metamark function="insertion"/>I have never
+    <lb/>known <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">in <placeName><bloc>Africa</bloc></placeName></add> an instance
+    <lb/>of a parent
+    <lb/>selling his own
+    <lb/>offspring</add>
+- The
+<lb/><term type="tribe">Makololo</term> were afterwards
+<lb/>incited to make a foray
+<lb/>against some tribes to
+<lb/>the Eastward - The <term type="tribe">Mambari</term>
+<lb/>bargaining to use their
+<lb/>guns for the captives
+<lb/>they might take and the
+<lb/><term type="tribe">Makololo</term> <del type="strikethrough" hand="#U3" rend="red">should</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"><del type="cancelled" hand="#U3" rend="red"><unclear cert="low">wa</unclear></del> were to</add> have
+<lb/>all the <term type="animal">cattle</term> - They went off
+
+
+<pb facs="liv_000099_0195.jpg" n="0195"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">6</add> <add place="inspace" hand="#U1" rend="gray right">190</add></fw>
+<lb/>with at least 200 <orgName>slaves</orgName>
+<lb/>that year - </p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> During this foray the
+<lb/><term type="tribe">Makololo</term> met some <orgName>Arabs</orgName>
+<lb/>from <placeName><geogName type="island">Zanzibar></geogName></placeName> who
+<lb/>presented them with three
+<lb/><term type="nationality">English</term> muskets and
+<lb/>in return <choice><sic>recieved</sic><corr>received</corr></choice> about
+<lb/>30 of their captives - </p>
+<lb/><p>In talking with my
+<lb/>companion over these
+<lb/>matters the idea was suggested
+<lb/>that if the <orgName>slave</orgName> market
+<lb/>were supplied with articles
+<lb/>of <orgName>European</orgName> manufacture
+<lb/><del type="strikethrough">in the way of</del> by legitimate
+<lb/><del type="strikethrough">trade</del> commerce, the trade
+<lb/>in <orgName>slaves</orgName> would become
+<lb/>impossible - It seemed
+<lb/>more feasible to give the goods
+<lb/>for which the people now part
+<lb/>with their <term type="occupation">servants</term> in exchange
+<lb/>for ivory <add place="below">^</add> <add place="marginleft">and other products
+    <lb/>of the country</add>
+and thus prevent
+<lb/>the initiative trade - tha<subst><del>t</del><add place="over-text">n</add><add place="above">n</add></subst> to
+<lb/>put a stop to it <add place="below">^</add> <add place="above">at</add> any of the
+<lb/>subsequent steps - This
+<lb/>could only be effected by
+<lb/><add place="marginleft" hand="#U3" rend="red">establishing <add place="below">^</add></add> a highway from the coast
+<lb/>into the centre of the country
+<lb/>As there was no hope <del type="strikethrough"  hand="#U3" rend="red">of</del>
+<lb/>of the <orgName>Boers</orgName> allowing the
+<lb/>peaceable instruction of
+<lb/>the <orgName>natives</orgName> at <placeName><settlement type="village">Kolobeng</settlement></placeName>
+<lb/>I at once resolved to <del type="cancelled">take</del>   
+<lb/><subst><del type="strikethrough" hand="#U3" rend="red"><unclear cert="medium">save</unclear></del><add place="above" hand="#U3" rend="red">save</add></subst> my family from
+
+
+<pb facs="liv_000099_0196.jpg" n="0196"/>                
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">7</add> <add place="inspace" hand="#U1" rend="gray right">191</add></fw>
+<lb/>exposure to this unhealthy region
+<lb/>by sending them to <placeName><country>England</country></placeName>
+<lb/>and <add place="above" hand="#U3" rend="red">to</add> return alone with a
+<lb/>view to exploring the country
+<lb/>in search of a healthy
+<lb/>district that might prove
+<lb/>a centre of civilization
+<lb/>and open up the <placeName><region>Interior</region></placeName>
+<lb/>by a path to either the 
+<lb/>East or West coast<del type="cancelled" hand="#U3" rend="red">s</del> -
+<lb/>This resolution led me down
+<lb/>to <placeName><settlement type="city">Cape Town</settlement></placeName> in <date when="1852-04"><subst><del>18</del><add place="over-text">A</add></subst>pril 1852</date>
+<lb/><add place="marginleft">being</add> the first time during eleven
+<lb/>years that I had revisited
+<lb/>the scenes of civilization
+<lb/><space extent="3" unit="chars"/>======</p></div>
+
+    <div>
+<pb facs="liv_000099_0197.jpg" n="0197"/>    
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">8</add> <add place="inspace" hand="#U1" rend="gray right">192</add></fw>
+<lb/><head><space extent="6" unit="chars"/><hi rend="double-underline">The <placeName><region>Cape Colony</region></placeName></hi></head>
+<lb/><p>In the minds of many <term type="people"><w>English-
+<lb break="no"/>men</w></term> <del type="cancelled">I find</del> the ideas of the
+<lb/><placeName><region>Cape</region></placeName> and <orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> wars are
+<lb/><add place="marginleft">as <add place="below">^</add></add> inseparably connected as
+<lb/>the Siamese twins, and it is
+<lb/>somewhat difficult for those
+<lb/>who live on a railway
+<lb/>island to realize the idea of
+<lb/>our little unprotected party
+<lb/><add place="marginleft">quietly</add> travelling through the heart of
+<lb/>the colony to the capital <add place="marginleft"><metamark function="insertion"/>in the twentieth
+    <lb/>month of a
+    <lb/><orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> war</add>           
+with
+<lb/>as little sense of danger as
+<lb/>if we had been in <placeName><country>England</country></placeName> 
+<lb/><metamark function="newParagraph" place="marginleft">#</metamark> These <orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> wars are an
+<lb/>unmitigated nuisance - <term type="nationality">English</term>
+<lb/><term type="occupation">colonists</term> are unquestionably
+<lb/>the best in the world - Neither
+<lb/><term type="people">French</term> nor <term type="people">Spaniards</term> nor
+<lb/><term type="people">Portuguese</term> can be compared
+<lb/>to the sturdy manly <term type="nationality">English<del type="strikethrough">man</del></term>
+<lb/><add place="marginleft">emigrant - </add> He knows and acts on the
+<lb/>principle which other nations
+<lb/>are so slow to learn that
+<lb/>wives <subst><del>are</del><add place="over-text">and</add></subst> families are more
+<lb/>essential to prosperous
+<lb/>settlements than kettledrums
+<lb/>and bayonets - The <term type="nationality">English</term>
+<lb/>wife must have a decent
+<lb/>house and things to match
+<lb/>and grumble as he <subst><del type="cancelled"><unclear cert="medium">will</unclear></del><add place="above">may</add></subst>
+<lb/>he must follow her guidance
+<lb/><add place="marginleft">so far, <add place="below">^</add></add> and confess <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">that</add> she is an essential
+
+            
+<pb facs="liv_000099_0198.jpg" n="0198"/>            
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">9</add> <add place="inspace" hand="#U1" rend="gray right">193</add> <add place="inspace above" hand="#U2" rend="gray">105</add></fw>
+<lb/><seg rend="left">element in upholding and promoting</seg> 
+<lb/><del type="strikethrough">civilization</del> - successful colonization</p>
+<lb/><p>All my experience inclines
+<lb/>me to the belief that in their dealings
+<lb/><add place="marginleft">with the <orgName>natives</orgName></add> <del type="cancelled">of</del> the <term type="nationality">English</term> <term type="occupation">trader</term> and <term type="occupation">Colonist</term>
+<lb/><add place="marginleft">have <subst><del type="cancelled">pays</del><add place="above">some</add></subst></add> <del type="cancelled">more</del> regard <del type="cancelled">is paid to the</del> to justice
+<lb/>and honour <del type="cancelled">than they <unclear cert="low">assume</unclear>
+<lb/>credit for</del> - Nowhere can it
+<lb/>be fairly said that the <del type="strikethrough"><unclear cert="high">wide</unclear></del>
+<lb/>world wide reputation of
+<lb/>the <term type="nationality">British</term> <term type="occupation">merchant</term> for
+<lb/>honest determination to fufill
+<lb/>his engagements, has been
+<lb/>so entirely forgot<add place="inline">ten</add> in an
+<lb/><term type="nationality">English</term> community as to
+<lb/><add place="marginleft">have it publicly</add> considered a smart thing
+<lb/>to swindle <add place="marginleft"><metamark function="insertion"/>either black
+    <lb/>or white</add>               
+<del type="strikethough">the <orgName><choice><orig>aboriginies</orig><reg>aborigines</reg></choice></orgName></del> - 
+<lb/>To the poorest and most
+<lb/>degraded the <term type="people">Englishman</term>
+<lb/>says "Live and let live" and
+<lb/>that has been the general
+<lb/>feeling of the <orgName><term type="nationality">English</term> Government</orgName>
+<lb/><add place="marginleft">too - </add> The acts of different <term type="occupation">ministers</term>
+<lb/>have been <choice><sic>capabe</sic><corr>capable</corr></choice> <add place="below">^</add> <add place="above">it is true</add> of bearing
+<lb/>another interpretation,
+<lb/>but it must be conceded
+<lb/>that no disposition has <del type="cancelled">ever</del>
+<lb/><add place="marginleft">of late years</add> <add place="below">^</add> <add place="above">at least</add> been <choice><orig>shewn</orig><reg>shown</reg></choice> by the <term type="nationality">English</term>
+<lb/>nation or <orgName>Government</orgName>
+<lb/>to exalt themselves by the
+<lb/>debasement of the less
+<lb/>favoured portions of humanity
+<lb/><subst><del>t</del><add place="over-text">T</add></subst>here is even a general willingness
+<lb/>to make considerable sacrifices
+<lb/><add place="marginleft">for,</add> and to acknowledge the duty
+                
+                
+<pb facs="liv_000099_0199.jpg" n="0199"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">10</add> <add place="inspace" hand="#U1" rend="gray right">194</add></fw>
+<lb/>of their civilization - But every
+<lb/>now and then we are forced
+<lb/>to hear of the happy homesteads
+<lb/>of <term type="nationality">English</term> <term type="occupation">settlers</term> made desolate
+<lb/>by hordes of ruthless savages - 
+<lb/><subst><del>t</del><add place="over-text">T</add></subst>housands of <term type="animal">sheep</term> <add place="below">^</add> <add place="above">&amp; <term type="animal">cattle</term></add> are driven
+<lb/>off to be devoured in the mountain
+<lb/>fastnesses - The gardens and
+<lb/>fields of the comfortable <del type="cancelled">family</del>
+<lb/><add place="marginleft">families</add> are left desolate while those
+<lb/>whose industry would in
+<lb/>the course of a few years
+<lb/>have rendered them independent,
+<lb/>if they have escaped with
+<lb/>life, are reduced to beggary - 
+<lb/><term type="nationality">English</term> troops are then
+<lb/>sent to chastise the <orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst>s</orgName>
+<lb/><add place="marginleft">and avenge</add> <del type="cancelled">for</del> these fearful outrages,
+<lb/>for it is quite abhorrent
+<lb/>to the <term type="nationality">English</term> nat<subst><del type="cancelled"><unclear cert="medium">ure</unclear></del><add place="below">^</add><add place="above">ure</add></subst> to leave
+<lb/><add place="marginleft"><placeName><country>England</country></placeName>'s</add> <del type="strikethrough">her</del> children unprotected
+<lb/>in the presence of <del type="cancelled">these such</del>
+<lb/>barbarians - The <term type="nationality">English</term>
+<lb/><term type="occupation">soldier</term> fights as bravely there
+<lb/>as anywhere else - The fatigues
+<lb/>of bush fighting are excessively
+<lb/>severe - and the<del type="cancelled">ir</del> privation
+<lb/><add place="marginleft">which must be <add place="below">^</add></add> endured in following a
+<lb/>brave and crafty foe <add place="below">^</add> <add place="above">are</add> such
+<lb/>as can scarcely be imagined
+<lb/>by those who never saw
+<lb/>the fighting ground<del type="cancelled">s</del> - The
+<lb/><term type="occupation">Officers</term> are decimated
+<lb/>by perpetual <term type="aliment">anxiety</term> - 
+<lb/><orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> bullets, and the
+                        
+                
+<pb facs="liv_000099_0200.jpg" n="0200"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">11</add> <add place="inspace" hand="#U1" rend="gray right">195</add></fw>
+<lb/><del type="cancelled">dead</del> certainty that their labours
+<lb/>will be appreciated nowhere,
+<lb/>Millions of Pounds are
+<lb/>cheerfully paid <del type="cancelled">by</del> <add place="below">^</add> <add place="above">out of</add> the <orgName><term type="nationality">British</term>
+<lb/>Treasury</orgName> for the defence
+<lb/>of the Colonial Frontier,
+<lb/>but notwithstanding the
+<lb/>most lavish expenditure
+<lb/>of money and men there
+<lb/><add place="marginleft">never</add> is <del type="strikethrough">not</del> the smallest probability
+<lb/>that <add place="below" hand="#U3" rend="red">^</add> <add place="marginleft" hand="#U3" rend="red"><add place="below">^</add> a future</add> <subst><del type="strikethrough" hand="#U3" rend="red">the next</del><add place="above" hand="#U3" rend="red"><del type="strikethrough" hand="#U3" rend="red">another</del></add></subst> outbreak will
+<lb/>be prevented - </p>
+<lb/><p>As the period of our visit
+<lb/>to the <placeName><region>Cape</region></placeName> happened to be coincident
+<lb/>with the termination of <subst><del>g</del><add place="over-text">a</add></subst> grand
+<lb/>experiment <del type="cancelled">at a</del> <add place="below">^</add> <add place="above">towards a</add> practical
+<lb/>solution of the great <orgName><subst><del>Caffre</del><add place="over-text">Kaffir</add></subst></orgName>
+<lb/>difficulty <metamark function="insertion"/><anchor xml:id="reorder-34"/> noticed <metamark function="reorder" spanTo="#meta-75"/><seg corresp="#reorder-34">above</seg><anchor xml:id="meta-75"/> - <add place="marginleft"><metamark function="insertion"/><del type="cancelled">though</del> <add place="below">^</add> <add place="above">and</add> the
+    <lb/>subject being
+    <lb/>rather out of
+    <lb/>my line and
+    <lb/>certainly not
+    <lb/>one on which
+    <lb/><unclear cert="high">I</unclear> love to dwell 
+    <lb/>I shall only
+    <lb/>offer a <unclear cert="high">rapid</unclear>
+    <lb/>sketch</add>
+<lb/><metamark place="marginleft" function="newParagraph">#</metamark> The interval between <orgName><subst><del>Caffre</del><add place="over-text">Kaffir</add></subst></orgName>
+<lb/>outbreaks had been prolonged
+<lb/>for <del type="cancelled">a great</del> many years
+<lb/>by what has been called
+<lb/>the <persName>Glenelg</persName> or "philanthropic
+<lb/>policy" - This though not <add place="marginleft">perfectly well
+    <lb/>worked out</add>
+<del type="strikethrough">faultless</del> was worthy of the
+<lb/>man whose name it bears,
+<lb/>and incomparably the least
+<lb/>expensive to the mother country
+<lb/>This policy was put an
+<lb/><gap extent="6" unit="lines"/><!-- This is another example of the scanned MS having lines of the page blacked out. The text on the next page follows coherently though, so it may be a rip on the page. PS --> <!-- I think it's been cut out.JL -->
+
+
+<pb facs="liv_000099_0201.jpg" n="0201"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">12</add> <add place="inspace" hand="#U1" rend="gray right">196</add></fw>
+<lb/><choice><sic>an</sic><corr/></choice> end to and a severer system
+<lb/>strongly advocated on<!-- possible previous word beneath 'on'.JL --> the Frontier
+<lb/>called the "<persName><choice><sic>Durban</sic><corr>D'Urban</corr></choice></persName> policy"<!-- as in Benjamin Durban, ks --> was
+<lb/>tried - The former treated the
+<lb/><add place="marginleft">C</add> <orgName><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> as rational creatures
+<lb/>and presupposed <del type="strikethrough">that</del> they had
+<lb/>some sort of natural title to
+<lb/>their lands and if we could
+<lb/>keep a treaty so could they - 
+<lb/>It also went on the basis
+<lb/>of the observation of common
+<lb/>honesty among ourselves as
+<lb/>well as among the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName>
+<lb/><del type="strikethrough">and</del> It was remarkably cheap
+<lb/>to the mother country - </p>
+<lb/><p>The <persName><choice><sic>Durban</sic><corr>D'Urban</corr></choice></persName> policy presupposed
+<lb/>a willingness on the part of
+<lb/>the <term type="nationality">Dutch</term> <term type="occupation">Colonists</term> to turn out
+<lb/>and exterminate the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffers</add></subst></orgName>
+<lb/>if only allowed to do it in
+<lb/>their own way - This could
+<lb/>not be put into operation
+<lb/>because it is a libel to say
+<lb/>that the <term type="people">Dutch</term> in the Colony
+<lb/>are <del type="cancelled">what</del> the bloodthirsty people
+<lb/>this policy represented them
+<lb/>to be - </p>
+<lb/><p>Another plan was tried 
+<lb/>by a gentleman conversant
+<lb/>with <term type="nationality">Indian</term> Affairs - He wished
+<lb/>to adopt the <term type="nationality">Indian</term> plan of
+<lb/>arming one part of the <orgName><subst><del>K</del><add place="over-text">C</add></subst>affirs</orgName>
+<lb/>against another and <unclear cert="low">disciplined</unclear>
+<lb/>a large body of the <orgName><subst><del>K</del><add place="over-text">C</add></subst>affir</orgName> police -
+
+
+<pb facs="liv_000099_0202.jpg" n="0202"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">13</add> <add place="inspace" hand="#U1" rend="gray right">197</add></fw>
+<lb/>then elected himself the paramount
+<lb/><term type="occupation">chief</term> of <placeName><region><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst>land</region></placeName> - He was
+<lb/>unconsciously dealing with the
+<lb/>most devotedly loyal people
+<lb/>on earth - They never <del type="strikethrough">desert</del>
+<lb/><add place="marginleft">leave <add place="below">^</add></add> the ranks of their <term type="occupation">chiefs</term> as
+<lb/><term type="people">French</term>, <term type="people">Russians</term> &amp; even
+<lb/><term type="people">Englishmen</term> do desert to the enemy
+<lb/>So when the watchword was 
+<lb/>given by the great organ of
+<lb/>the war party "<quote>Send away
+<lb/><persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName></quote>" - The <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName>
+<lb/>"<foreign xml:lang="ota"><term type="occupation"><choice><sic>Sippa-his</sic><corr>Sipahi</corr></choice></term></foreign>" went off en masse
+<lb/>to join their proper standard
+<lb/>in the <orgName><choice><sic><unclear cert="medium">Annatolans</unclear></sic><corr>Anatolians</corr></choice></orgName> - Men whose
+<lb/>loyalty to their <term type="occupation">chiefs</term> has
+<lb/>been <del type="strikethrough">but</del> <add place="below">^</add> <add place="above">only barely</add> equalled but not
+<lb/>surpassed by that of the
+<lb/><orgName>Highlanders</orgName> to the <persName>Pretender</persName><!-- Charles Edward Stuart, the 'Young Pretender'. His father, James Edward Stuart, was known as the 'Old Pretender'.JL-->
+<lb/>might one would think
+<lb/>have been turned to better
+<lb/>account than have every
+<lb/>feeling of their devotedness
+<lb/>outraged by a foreigner
+<lb/>pretending to place himself
+<lb/>in the position of their 
+<lb/>paramount <term type="occupation">chief</term> <persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+<lb/>To any one acquainted
+<lb/>with the political constitution
+<lb/>of the <orgName>South African</orgName><!-- orgName seems appropriate, since DL is referring to a larger region and not the country (which doesn't come into being until 1910 with the Union of South Africa).JL --> tribes
+<lb/>no step could have been
+<lb/>devised better adapted for
+<lb/>rousing the wrath of the
+<lb/>entire <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> people than
+
+
+
+<pb facs="liv_000099_0203.jpg" n="0203"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">14</add> <add place="inspace" hand="#U1" rend="gray right">198</add></fw>
+<lb/>most impotent stab at their
+<lb/>nationality - Not even <persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+<lb/>himself could have invented
+<lb/>a more certain and efficient
+<lb/>means of rallying all the
+<lb/>chivalry of <placeName><region><subst><del>k</del><add place="over-text">C</add></subst>affirland</region></placeName> around
+<lb/>him than that "a white man
+<lb/>who had been made a <term type="occupation">chief</term>
+<lb/>by a woman should depose
+<lb/>him who had been made a
+<lb/><term type="occupation">chief</term> by God" - </p>
+<lb/><p>After a desperately
+<lb/>prolonged struggle in which
+<lb/>upwards of two millions of
+<lb/>money were spent. <del type="cancelled">the
+<lb/><persName><choice><orig>Durban</orig><reg>D'Urban</reg></choice></persName> policy <unclear cert="medium">worked</unclear> to</del>
+<lb/><subst><del><unclear cert="medium">be</unclear></del><add place="over-text">The</add></subst> rather dear bought conclusion
+<lb/>was reached that the <persName>D'Urban</persName>
+<lb/>policy is not the solution of the
+<lb/><orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> difficulty for it
+<lb/>was officially declared
+<lb/>by competent authority that
+<lb/><add place="marginleft">a</add> <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> war was equal to one
+<lb/>with the <orgName>Circassians</orgName> or
+<lb/><orgName>Algerine Arabs</orgName> and <persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+<lb/>was not sent away - </p>
+<lb/><p>An experiment had
+<lb/>thus been fairly tried at the
+<lb/>time of our arrival at the
+<lb/><placeName><region>Cape</region></placeName> <subst><del><unclear cert="medium">at</unclear></del><add place="over-text">on</add></subst> a large scale
+<lb/>and in exact accordance
+<lb/>with the <subst><del type="strikethrough">ideas</del><add place="above">views</add></subst> of a large
+<lb/>party on the Frontier - The
+<lb/>measures were as severe
+
+
+<pb facs="liv_000099_0204.jpg" n="0204"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">15</add> <add place="inspace" hand="#U1" rend="gray right">199</add></fw>  
+<lb/>as the most bloody minded
+<lb/>could desire, yet <hi rend="underline">we cannot
+<lb/>exterminate a single <orgName>African</orgName>
+<lb/>tribe</hi> - The race is imperishable
+<lb/>as other things hereafter to be
+<lb/>noticed indicate <del type="cancelled"><unclear cert="medium">this</unclear></del> as well
+<lb/>Whether the <orgName>Kaffirs</orgName> are the
+<lb/>descendants of <persName>Ishmael</persName> may
+<lb/>be gravely questioned - but
+<lb/>certain it is they do in
+<lb/>spite of all we can do "<quote>dwell
+<lb/>bravely in the presence of all
+<lb/>their brethren</quote>" - Their past
+<lb/>seems to forbode that if we
+<lb/>follow the fighting policy
+<lb/>we can only hope for a
+<lb/>permanent peace when
+<lb/>we have depopulated all the
+<lb/>country between <placeName><settlement type="town"><choice><orig>Graham's
+<lb/>town</orig><reg>Grahamstown</reg></choice></settlement></placeName> and <placeName><settlement type="city"><choice><orig>Timbuctu</orig><reg>Timbuktu</reg></choice></settlement></placeName> - And
+<lb/>as we have taken so long and
+<lb/>been at so much expense 
+<lb/>with such small progress
+<lb/>in that direction, such a
+<lb/>consummation implies
+<lb/>a postponement of the
+<lb/>Millenn<del type="strikethrough">n</del>ium to please the
+<lb/>war party for some fifteen
+<lb/>thousand years to come</p>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> If we knew the
+<lb/>causes of the <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> wars
+<lb/>a remedy might be found
+<lb/>but since the <del type="cancelled"><unclear cert="medium">annulment</unclear></del>
+<lb/><choice><orig>cancelment</orig><reg>cancellation</reg></choice> of the rational
+
+
+
+<pb facs="liv_000099_0205.jpg" n="0205"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">16</add> <add place="inspace" hand="#U1" rend="gray right">200</add></fw>
+<lb/><persName>Glenelg</persName> policy all those who
+<lb/>pretend to knowledge of
+<lb/>the difficulty have made
+<lb/>such ridiculous mistakes
+<lb/>in practice and are at
+<lb/>so much variance in their
+<lb/>opinions the enquirer is
+<lb/>quite at sea - Some aver
+<lb/>that <orgName><subst><del>K</del><add place="over-text">C</add></subst>affir</orgName> wars have
+<lb/>been rendered necessary
+<lb/>by the restless thievish
+<lb/>propensities of our savage
+<lb/>neighbours and not
+<lb/>from any injustice or
+<lb/>aggression either on the
+<lb/>part of the <orgName>government</orgName>
+<lb/>or of the inhabitants of
+<lb/>the Frontier - <del type="cancelled"><unclear cert="medium">or was</unclear></del>
+<lb/><add place="marginleft">(Or</add> <del type="cancelled"><unclear cert="low">must be around in</unclear></del> because
+<lb/>it is a fact true of this
+<lb/>as of other colonies that the
+<lb/><orgName>native</orgName> population becomes
+<lb/>worse and not better <del type="strikethrough">by</del>
+<lb/>from its contact with civilization
+<lb/>and a professedly <term type="faith">Christian</term>
+<lb/>people adding that the
+<lb/>grasping encroachments
+<lb/>of the white man from
+<lb/>year to year on the <orgName>native</orgName>
+<lb/>lands is neither an unlikely
+<lb/>mode of teaching the <orgName><subst><del>K</del><add place="over-text">C</add></subst>affirs</orgName>
+<lb/>that honesty is one of
+<lb/>the virtues</p>
+<lb/><p><del type="strikethrough">Or</del> And to complete
+
+
+
+<pb facs="liv_000099_0206.jpg" n="0206"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">17</add> <add place="inspace" hand="#U1" rend="gray right">201</add></fw> 
+<lb/>the catalogue of alleged causes
+<lb/>the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName> themselves say
+<lb/>"<quote>No white man is without
+<lb/>a book - Is it God who gave
+<lb/>this book bids him think
+<lb/>of blood - Some white men
+<lb/>come and say "the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName>
+<lb/>steal" - but the white men
+<lb/>are the robbers - God made
+<lb/>a boundary by the sea
+<lb/>and white man cross it
+<lb/>to rob us of our  country 
+<lb/>When the son of God came
+<lb/>down from Heaven you
+<lb/>white men killed him - <add place="below">^</add> <add place="above">It was not</add> black
+<lb/>men <add place="below">^</add> <add place="above">who</add> did <del type="cancelled">not do</del> that - 
+<lb/><term type="people">Englishmen</term> make <del type="strikethrough">laws about</del>
+<lb/>promises about the land
+<lb/>and break them - They make
+<lb/>a boundary and then take
+<lb/>it away - The reason why
+<lb/>we fight is we do not wish
+<lb/>to live under the <term type="people">English</term> - Is it
+<lb/>God who sent the <term type="people">Englishman</term>
+<lb/>ac<subst><del>c</del><add place="over-text">r</add></subst>oss the sea to take our
+<lb/>country - Is it God who created
+<lb/>him bids him come and
+<lb/>rule over the <term type="occupation">chiefs</term> of
+<lb/>other countries - Is that
+<lb/>right - We are tired of the
+<lb/><term type="people">Englishman</term> on account
+<lb/>of his bad conduct - If he
+<lb/>kills me both he and I will
+<lb/>have to answer before God</quote>" <add place="below">*</add>
+<lb/><add place="inspace"><note>* <bibl>Extracts of a speech of <persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+    <lb/>to <persName>R R Renton</persName> <orgName>United Presbyterian church</orgName> <add place="below"><placeName><country>Scotland</country></placeName></add></bibl></note></add></p>
+
+
+<pb facs="liv_000099_0207.jpg" n="0207"/>             
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">18</add> <add place="inspace" hand="#U1" rend="gray right">202</add></fw>
+<lb/>Now these assertions possess
+<lb/>so much of the recriminatory
+<lb/>character one cannot feel
+<lb/>confidence in either - Still
+<lb/>less can we <choice><sic>concieve</sic><corr>conceive</corr></choice> of those
+<lb/>who have been benefitted by
+<lb/><orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> wars giving an
+<lb/>opinion worth a straw
+<lb/>Yet it is a remarkable
+<lb/>feature in the<del type="cancelled">s</del> case that those
+<lb/>who from a residence on
+<lb/>the spot where supplies
+<lb/><metamark function="ed-mark" place="marginleft" rend="gray" resp="#U2">*</metamark><!-- a star in pencil, possibly querying this section though the purpose is not certain.JL --> from <placeName><country>England</country></placeName> are chiefly
+<lb/>spent and where men
+<lb/>with their wits about them
+<lb/>may make fortunes in
+<lb/>the philanthropic business
+<lb/>of aiding the troops are
+<lb/>generally quite decided
+<lb/>in their opinions as
+<lb/>to the necessity of severe
+<lb/>measures with the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName>
+<lb/>They are particularly active
+<lb/>in pointing out the causes
+<lb/>of the <orgName><subst><del>K</del><add place="over-text">C</add></subst>affir</orgName> wars and boldly
+<lb/>criticise the tactics of <term type="occupation">generals</term>
+<lb/>the conduct of the <term type="occupation">governors</term> -
+<lb/>the thieving of the <orgName><subst><del>K</del><add place="over-text">C</add></subst>affirs</orgName> &amp;
+<lb/>the behaviour of <term type="occupation">missionaries</term>
+<lb/>The<add place="inline">ir</add> lugubrious wailings <del type="cancelled">of</del>
+<lb/><del type="strikethrough">these</del> over the afflicted
+<lb/>Frontier <term type="occupation">farmers</term> are
+<lb/>peculiarly affecting, and as
+<lb/><add place="marginleft">the body of</add> Frontier <term type="occupation">farmers</term> of war
+<lb/>supplies have become
+
+
+
+<pb facs="liv_000099_0208.jpg" n="0208"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">19</add> <add place="inspace" hand="#U1" rend="gray right">203</add></fw>
+<lb/>a moneyed community
+<lb/>possessing great influence
+<lb/>their volunteer lamentations
+<lb/>over the frontier <term type="occupation">farmers</term> of
+<lb/><term type="animal">cattle</term> may well lead some
+<lb/>to suspect that the cry of
+<lb/>distress made in their behalf
+<lb/>is somewhat <add place="below">^</add> <add place="above">like</add> the cry of
+<lb/>agricultural distress which
+<lb/>formerly was rife in
+<lb/><placeName><country>England</country></placeName> <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-76"/>That was as
+    <lb/>non-indicative
+    <lb/>of suffering
+    <lb/>among the
+    <lb/>real <term type="occupation">farmers</term>
+    <lb/>as this is
+    <lb/>non-indicative
+    <lb/>of distress
+    <lb/>in the real
+    <lb/>sufferers
+    <lb/>by <orgName>Caffre</orgName> wars
+    <lb/>Real distress
+    <lb/>existed in
+    <lb/>both cases
+    <lb/>but <del type="strikethrough">Caffre</del>
+    <lb/>war provides
+    <lb/>no relief
+    <lb/>to the needy
+    <lb/><gap extent="2" unit="chars" agent="blot"/> in either
+    <lb/>case - While
+    <lb/>they do
+    <lb/>give competencies
+    <lb/>to the men
+    <lb/>who "give
+    <lb/>tongue"<anchor xml:id="meta-76"/></add>
+- And had a "<bibl>Times</bibl>
+<lb/><term type="occupation">commissioner</term>"<!-- journalist, ks --> accompanied
+<lb/>the army <w><subst><del>i</del><add place="over-text">o</add></subst>n</w> the <placeName><region>Cape</region></placeName> Frontier
+<lb/>the <term type="nationality">English</term> public might
+<lb/>have known ere this
+<lb/>the difference between the
+<lb/>real and the feigned Frontier
+<lb/><term type="occupation">farmers</term></p>
+<lb/><p>It would be a great
+<lb/>mistake <add place="marginleft"><metamark function="insertion"/>to imagine</add> that the <placeName><region>Cape</region></placeName> people
+<lb/>as a body are benefitted by
+<lb/>a state of warfare - It is
+<lb/>a blight on the prosperity of
+<lb/>the country - But since
+<lb/>there is a <add place="below">^</add> <add place="above">small</add> party which has
+<lb/>grown great by <orgName><subst><del>K</del><add place="over-text">C</add></subst>aff<subst><del>ir</del><add place="above">re</add></subst></orgName>
+<lb/>wars, and they are especially
+<lb/>divided in their opinions
+<lb/>as to the causes of the outbreaks
+<lb/><add place="marginleft">but</add> <del type="strikethrough">and</del> always stoutly hold to
+<lb/>the <subst><del type="strikethrough">opinion</del><add place="above">doctrine</add></subst> that <placeName><country>England</country></placeName>
+<lb/>must pay the expenses
+<lb/>It might be well to
+<lb/>ask the <orgName><subst><del>K</del><add place="over-text">C</add></subst>aff<subst><del type="strikethrough">irs</del><add place="above">res</add></subst></orgName> - We have
+
+
+<pb facs="liv_000099_0209.jpg" n="0209"/>             
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">20</add> <add place="inspace" hand="#U1" rend="gray right">204</add></fw>
+<lb/>always but one side of
+<lb/>the question in <orgName><subst><del>K</del><add place="over-text">C</add></subst>aff<subst><del>ir</del><add place="above">re</add></subst></orgName>
+<lb/>difficulties - We never
+<lb/>hear of our defeats except
+<lb/><subst><del>by</del><add place="over-text">fr</add></subst>om the defeated forces
+<lb/><add place="marginleft">In <subst><del type="strikethrough">a</del><add place="above">each</add></subst> war</add> The aggregate is defeat
+<lb/>while all the <del type="cancelled"><unclear cert="medium">defea</unclear></del> details
+<lb/>are victor<subst><del>y</del><add place="over-text">ies</add></subst> Such a
+<lb/>discrepancy could not
+<lb/>occur if we had the
+<lb/><orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> opinions too and - 
+<lb/>perhaps collision might
+<lb/>be avoided <add place="below">^</add> <add place="above">altogether</add> if they
+<lb/>were allowed a voice
+<lb/>in the solution of the difficulty
+<lb/>An <term type="nationality">English</term> <term type="occupation">military official</term>
+<lb/>is well known to have
+<lb/>broken his word of honour
+<lb/>and thereby got a <orgName>Caffre</orgName> <term type="occupation">chief</term>
+<lb/>into his hands - We never
+<lb/>got another - And though
+<lb/>one <term type="occupation">governor</term> declared in
+<lb/>a public dispatch that
+<lb/>"<quote>he had slain <subst><del>9</del><add place="over-text">8</add></subst>0 000 <orgName>Caffres</orgName>
+<lb/>and <choice><sic>and</sic><corr/></choice> 6,000 <orgName>Caffre</orgName>
+<lb/><term type="occupation">chiefs</term> and returned triumphant
+<lb/>and victorious</quote>" <subst><del>we</del><add place="over-text">he</add></subst> never
+<lb/>had a single live <orgName>Caffre</orgName>
+<lb/><term type="occupation">chief</term> to <choice><orig>shew</orig><reg>show</reg></choice> - <persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+<lb/>declared that "<quote>though killed
+<lb/>his bones would rise
+<lb/>up and fight - aye and
+<lb/>his bones' bones would
+<lb/>fight against the <term type="people">English</term> forever</quote>"</p>
+
+
+<pb facs="liv_000099_0210.jpg" n="0210"/>             
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray right">21</add> <add place="inspace" hand="#U1" rend="gray right">205</add></fw>
+<lb/>This <subst><del type="strikethrough">proclamation</del><add place="above">dispatch</add></subst> was <del type="strikethrough">read</del>
+<lb/>written while we were at the <placeName><region>Cape</region></placeName>
+<lb/>The war went on for about
+<lb/>half a year afterwards but as
+<lb/>the entire <orgName>Caffre</orgName> population
+<lb/>has been stated to be only 9<unclear cert="medium">4</unclear>,000
+<lb/>I have never ceased to regret
+<lb/>that we had not a <bibl>Times</bibl>
+<lb/><term type="occupation">commissioner</term> on the spot
+<lb/>as well as at the <placeName><region>Crimea</region></placeName> - It would
+<lb/>be so interesting to discover how
+<lb/>the <orgName>Caffre</orgName> bones got up <del type="strikethrough">and fought</del>
+<lb/>like <persName>Benjamin Franklin</persName>'s
+    <lb/><add place="marginleft">dead</add> <term type="insect">flies</term> from <term type="foodstuff"><placeName><geogName type="island">Madeira</geogName></placeName> wine</term>
+<lb/>and fought with <persName>Sir George
+<lb/>Cathcart</persName> for months <w>after<supplied>-</supplied>
+<lb break="no"/>-wards</w> - If <placeName><country>England</country></placeName> must
+<lb/>pay such enormous sums
+<lb/>and her <orgName>Government</orgName> <subst><del>is</del><add place="over-text">as</add></subst> <subst><del>is</del><add place="over-text">it</add></subst>
+<lb/>certainly <subst><del type="cancelled">the case</del><add place="above">does</add></subst> wishes to deal
+<lb/><del type="strikethrough">fairly</del> and fight fairly <del type="strikethrough">too</del> in
+<lb/>cases of necessity, by all
+<lb/>means let us <space extent="3" unit="chars"/>hear both
+<lb/>sides of the question - What
+<lb/>do the <orgName>Caffres</orgName> <del type="cancelled">and our <term type="occupation">soldiers</term></del>
+<lb/>say? To whom do our <term type="occupation">soldiers</term>
+<lb/>refer as those who alone are
+<lb/>benefitted by the wars? Let us
+<lb/>hear both sides and not go
+<lb/>blundering on at the bidding of
+<lb/>those who not wor<subst><del>th</del><add place="over-text">se</add></subst> than the
+<lb/>generality of men are in a position
+<lb/>to make even the blood of the
+<lb/><term type="nationality">English</term> <term type="occupation">soldier</term> profitable - Let us
+<lb/>have a "<bibl>Times</bibl> <term type="occuption">commissioner"</term></p>
+
+
+<pb facs="liv_000099_0211.jpg" n="0211"/>
+<lb/><gap extent="4" unit="lines"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">206</add></fw>
+<lb/><p>Without supposing these
+<lb/>people to be <del type="strikethrough">either</del> worse than
+<lb/>the general mass of humanity
+<lb/>or that they have acted
+<lb/>otherwise than most men
+<lb/>would have done when
+<lb/>placed in circumstances
+<lb/>where fortunes were to be
+<lb/>made out of the supplies
+<lb/>sent out from <placeName><country>England</country></placeName>
+<lb/>it must be conceded that
+<lb/>the mother country has
+<lb/>gone as far in gratifying
+<lb/>their whim for <orgName>Kaffir</orgName>
+<lb/>wars as the most <w>leech-
+<lb break="no"/>-like</w> portion of humanity
+<lb/>could desire - Their favourite
+<lb/>"<persName>D'Urban</persName> policy" can <hi rend="underline">not</hi> be
+<lb/>worked because as <persName>Sir
+<lb/>Harry Smith</persName> fully proved
+<lb/>by his proclamation inviting
+<lb/>(insulting?) the Colonial
+<lb/><term type="occupation">farmers</term> to "<quote>exterminate"
+<lb/>the <orgName>Kaffirs</orgName></quote>" the <term type="people">Dutch</term> <subst><del type="strikethrough">are</del><add place="above">under</add></subst>
+<lb/><add place="marginleft"><term type="nationality">English</term> law <add place="below">^</add> <add place="above">are</add></add> not the bloodthirsty savages
+<lb/>which the misanthropic
+<lb/>policy presupposes - And
+<lb/>even <del type="cancelled">at</del> among the <orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName>
+<lb/>war party itself there is
+<lb/>no hope of working it
+
+
+<pb facs="liv_000099_0212.jpg" n="0212"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">207</add></fw>
+<lb/>And if <add place="below">^</add> <add place="above"><del type="strikethrough">also</del> in addition</add> he finds the statement I have
+<lb/>made of the invariable friendliness
+<lb/><add place="above"><unclear cert="medium">&amp;</unclear> honesty</add> of the <term type="tribe">Bechuanas</term> such as I describe
+<lb/><del type="cancelled">that he</del> and find it advisable
+<lb/>to make <add place="below">^</add> <add place="above">the same</add> a relaxation of the
+<lb/>powder ordinance in favour
+<lb/>of our friends as we have
+<lb/>done in favour of our
+<lb/>enemies (the <orgName>Boers</orgName>) <space extent="2" unit="chars"/>the
+<lb/>influence and honour of the
+<lb/><term type="nationality">British</term> name will be both
+<lb/>enhanced</p>
+<lb/><space extent="15" unit="lines"/>    
+
+
+<pb facs="liv_000099_0213.jpg" n="0213"/>
+<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">208</add></fw>
+<lb/>children now openly practised
+<lb/>in the Northern part of the <placeName><region><w>Trans-
+<lb break="no"/>vaal</w></region></placeName><!-- this could be coded as a country, since the Republic of Transvaal or the South African Republic came into existence in 1852. But it can also refer broadly to territory north of the Vaal.JL  --> territory was carefully
+<lb/>concealed but immediately
+<lb/>on their <choice><sic>Independance</sic><corr>Independence</corr></choice> being
+<lb/>acknowledged They <choice><sic>mad</sic><corr>made</corr></choice> the
+<lb/>foray against <persName>Sechele</persName> to regain
+<lb/>the <orgName>slaves</orgName> the emancipation
+<lb/>of which having been the
+<lb/>grievance for which most
+<lb/>of them left the Colony - 
+<lb/>And they proclaimed that
+<lb/>the <term type="people">English</term> had now
+<lb/>handed over the whole region
+<lb/>to their will This the
+<lb/><orgName>natives</orgName> who had the highest
+<lb/>respect for the <term type="nationality">English</term> name
+<lb/>did not believe but as
+<lb/>the assertion of the <orgName>Boers</orgName>
+<lb/>seems to be backed by
+<lb/>the operation of the Powder
+<lb/>ordinance <subst><del>we</del><add place="over-text">our</add></subst> fame is
+<lb/>in danger of being tarnished</p>
+<lb/>
+<lb/><p>Now I do not wish
+<lb/>to express an opinion on
+<lb/>the policy of the <choice><sic>Independance</sic><corr>Independence</corr></choice>
+<lb/>of the <placeName><region>Transvaal</region></placeName> <orgName>Boers</orgName>,
+<lb/><del type="cancelled">but the <gap unit="chars" extent="4" agent="illegible"/>that</del> I do beg
+<lb/>that <choice><sic>that</sic><corr/></choice> the <del type="strikethrough"><orgName>Government</orgName></del>
+<lb/>powder <add place="above"><choice><abbr>Ord</abbr><expan>Ordinance</expan></choice></add> - so proper for the
+<lb/><orgName>Kaffirs</orgName> on the East should
+<lb/>not be so worked as to
+<lb/>give the impression of
+
+
+<pb facs="liv_000099_0214.jpg" n="0214"/>
+<lb/>connivance in the enslavement
+<lb/>of the friendly tribes in the West
+<lb/>This impression spreading
+<lb/>rapidly in the far <placeName><region>Interior</region></placeName>
+<lb/>will in all probability as
+<lb/><del type="strikethrough"><unclear cert="medium">made</unclear></del> powerfully destruct my
+<lb/>own future efforts as the
+<lb/>good opinion which had
+<lb/>circulated far and wide
+<lb/>over vast regions formerly
+<lb/>aided my progress And it
+<lb/>will tend to the still farther
+<lb/>development of <term type="nationality">English</term>
+<lb/>commerce and civilisation</p>
+<lb/>
+<lb/><p>If it should be your
+<lb/>pleasure to attend to this very
+<lb/>important subject I would
+<lb/><choice><sic>humby</sic><corr>humbly</corr></choice> beg you to bring
+<lb/>the subject before the
+<lb/>Present Colonial <term type="occupation">Governor</term>
+<lb/><persName>Sir George Grey</persName> and if
+<lb/>His Excellency will examine
+<lb/>the different eulogiums which
+<lb/>have been passed by different 
+<lb/><orgName>Colonial Governments</orgName> or
+<lb/>the <orgName>Griqua</orgName> <term type="occupation">chief</term> <persName>Waterboer</persName>
+<lb/>for his faithful adherence
+<lb/><subst><del>of</del><add place="over-text">to</add></subst> a treaty for the defence
+<lb/>of the North West Frontier
+<lb/>during twenty years
+
+
+<pb facs="liv_000099_0215.jpg" n="0215"/>
+    
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">209</add></fw>
+<lb/>being numbered among the patients - 
+<lb/>Our Maker has surrounded us with
+<lb/>beauty in his fair creation, and
+<lb/>believing that we ought to cultivate
+<lb/>the taste for the beautiful and good
+<lb/><del type="cancelled">my mind</del> I have been in the habit of
+<lb/>admiring his handy works
+<lb/>wherever manifested in nature
+<lb/>or man - This habit of mind
+<lb/>will probably appear in these
+<lb/>pages for I now look with
+<lb/>kindlier feeling on every landscape
+<lb/>and on every class of my
+<lb/>fellow men than persons of <add place="inline" hand="#U2" rend="gray">a</add>
+<lb/>bilious temperament may
+<lb/>think advisable - </p>
+<lb/><p><add place="marginleft" hand="#U2" rend="gray">and now to</add> The objects which I had in view
+<lb/><del type="strikethrough" hand="#U2" rend="gray">may be understood by what follows</del>
+<lb/>Having left <placeName><country>England</country></placeName> in <date when="1846">1846</date> with
+<lb/>instructions from the <orgName>London Missionary
+<lb/>Society</orgName> to endeavour to carry <term type="faith">Christianity</term>
+<lb/>into the countries North or <placeName><settlement type="village">Kuruman</settlement></placeName>
+<lb/>or <placeName><settlement type="village">Lattakoo</settlement></placeName> then their farthest station
+<lb/>inland from the <placeName><region>Cape</region></placeName> <add place="marginleft"><metamark function="insertion"/><supplied cert="high">I</supplied> possessed
+    <lb/><supplied cert="high">an</supplied> intense desire<!-- the binding is obscuring text in the left hand margin. The missing words have been supplied here by editorial judgement.JL-->
+    <lb/><supplied cert="high">to</supplied> become a
+    <lb/><supplied cert="high">pio</supplied>neer of civilisation 
+    <lb/><choice><orig>shewing</orig><reg>showing</reg></choice> that
+    <lb/><supplied cert="high">my</supplied> medical
+    <lb/><supplied cert="high">ed</supplied>ucation rendered
+    <lb/><supplied cert="medium">me</supplied> suitable for
+    <lb/><supplied cert="medium">run</supplied>ning up the
+    <lb/><supplied cert="medium">fl</supplied>ag for other
+    <lb/><term type="occupation"><supplied cert="high">m</supplied>issionaries</term> <add place="inline" hand="#U2" rend="gray">-</add>
+    <lb/><del type="cancelled" rend="gray" hand="#U2"><unclear cert="medium">and</unclear></del></add>
+<del type="cancelled">I</del> <subst><del>a</del><add place="over-text" hand="#U2" rend="gray">A</add></subst>t once <add place="inline" hand="U2" rend="gray">I</add>
+<lb/>proceeded in the direction indicated - 
+<lb/><del type="cancelled">and</del> <subst><del>i</del><add place="over-text">I</add></subst>n order to attain an accurate
+<lb/>knowledge of the language I separated
+<lb/>myself for several months from
+<lb/><orgName>European</orgName> society and gained thereby
+<lb/>a knowledge of the people and
+<lb/><del type="strikethrough">their</del> <del type="strikethrough">w</del> language and way of
+<lb/>thinking which ha<subst><del>ve</del><add place="over-text">s</add></subst> proved
+<lb/>of immense value in intercourse
+<lb/>with them ever since - The tribe
+
+
+<pb facs="liv_000099_0216.jpg" n="0216"/>    
+<lb/><del type="cancelled">to <unclear cert="medium">&amp;</unclear></del>
+<lb/><space  dim="vertical" extent="11" unit="lines"/>
+<lb/><space extent="3" unit="chars"/><add place="inline" hand="#U2" rend="gray"><subst><del type="cancelled"><gap extent="4" unit="chars"/>Before I give</del><add place="above">Before <unclear cert="low">I renew &amp; narrate</unclear></add></subst> our colloquy let me
+<lb/>offer a very brief sketch of this remarkable man who has <gap unit="chars" extent="2" agent="illegible"/>
+<lb/><gap unit="chars" extent="2" agent="illegible"/> embraced <term type="faith">Christianity</term> but expounds its doctrines
+<lb/>to his people <space extent="3" unit="chars"/>et c et c</add>
+<lb/><space dim="vertical" extent="14" unit="lines"/>
+
+
+<pb facs="liv_000099_0217.jpg" n="0217"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">210</add></fw>
+<lb/>for when the rest of the Colony
+<lb/>sent levies of <term type="occupation">volunteers</term>
+<lb/>and even the <orgName>Hottentots</orgName>
+<lb/>turned out by hundreds
+<lb/>The Shopocracy of <metamark function="let-stand" spanTo="#meta-77"/><placeName><settlement type="town"><del type="cancelled"><choice><orig>Graham's
+<lb/>Town</orig><reg>Grahamstown</reg></choice></del></settlement></placeName><anchor xml:id="meta-77"/> to whom every returned
+<lb/><term type="occupation">officer</term> points <del type="cancelled">out</del> as
+<lb/>those who alone are <choice><sic>benefittd</sic><corr>benefitted</corr></choice>
+<lb/>by protective wars, <choice><sic>musterd</sic><corr>mustered</corr></choice>
+<lb/>only <del type="cancelled">36</del> thirty six most
+<lb/>of whom w<del type="cancelled">h</del>ere <add place="below">^</add> <add place="above"><orgName>Hottentot</orgName></add> substitutes
+<lb/><add place="marginleft">who</add> <del type="strikethrough">and</del> remained only a
+<lb/>fortnight under arms. 
+<lb/>No wonder <add place="above">that</add> <persName>Sir George
+<lb/><add place="marginleft">Cathcart</add></persName> complained bitterly <del type="cancelled">of</del>
+<lb/>that not a man of those
+<lb/>for whom he was fighting
+<lb/>would aid him and as the
+<lb/>war drew to a close, <del type="strikethrough">uttered</del>
+<lb/>uttered an ominous threat
+<lb/>against those who continued
+<lb/>to keep up the irritation
+<lb/>of the war for their own ends</p>
+<lb/>
+<lb/><p><del type="cancelled">The <orgName><placeName><region>Cape</region></placeName> Government</orgName>
+<lb/>however</del></p>
+<lb/><p>The influence of the
+<lb/>party referred to may be
+<lb/>understood when it is
+<lb/>mentioned that <persName>Sir Harry
+<lb/>Smith</persName> adopted the watch
+<lb/>word which the organ of
+<lb/>the party <unclear cert="medium">perennially</unclear> proclaimed
+<lb/>as that of the war
+
+
+<pb facs="liv_000099_0218.jpg" n="0218"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">211</add></fw>
+<lb/>declared would <choice><orig>shew</orig><reg>show</reg></choice> the causes
+<lb/>of the <orgName><subst><del>C</del><add place="over-text">K</add></subst>affir</orgName> war and <orgName>Hotenttot</orgName>
+<lb/>rebellion to be "the <term type="occupation">missionaries</term>"</p>
+<lb/><p>Now the proportion which
+<lb/>the community which has been
+<lb/>enriched by <orgName>Kaffir</orgName> wars bears
+<lb/>to the <term type="occupation">missionaries</term> may be
+<lb/> about five hundred to five
+<lb/>And though the latter have on
+<lb/>every occasion lost <w>every<del type="cancelled">thing</del></w>
+<lb/>article <add place="marginleft"><metamark function="insertion"/>of property</add> <add place="above"><del type="strikethrough">of worldly goods</del></add> they possessed if
+<lb/>they are really <metamark function="let-stand" spanTo="#meta-78"/><del type="cancelled">the</del><anchor xml:id="meta-78"/> the <w>mono-
+<lb break="no"/>-maniacs</w> who delight in
+<lb/>arson and murder they have
+<lb/><add place="marginleft">been asserted</add> <del type="cancelled">believed</del> to be - it is no more
+<lb/>than patriotism in these
+<lb/>five hundred who have always
+<lb/>been sane enough to extract
+<lb/>the sweet out of the bitter - <del type="cancelled"><unclear cert="high">line</unclear></del>
+<lb/><add place="marginleft">--</add> <del type="cancelled">their</del> "draw honest gain from the
+<lb/>necessary evils of war" - to
+<lb/>denounce the mad originators
+<lb/>of this most calamitous
+<lb/>state - This they <choice><sic>vigourously</sic><corr>vigorously</corr></choice> did - 
+<lb/><add place="marginleft">by the public 
+    <lb/>press</add> 
+<add place="below">^</add> and in doing so the entire
+<lb/>body felt that their organ acted
+<lb/>nobly - </p>
+<lb/><p>A <orgName>Hottentot</orgName> <term type="occupation">officer</term> named
+<lb/><persName>Botha</persName> was fixed upon as apparently
+<lb/><add place="marginleft">deeply</add> implicated in the <add place="below">^</add> <add place="above">late</add> rebellion &amp;
+<lb/>war - and as he was known
+<lb/><subst><del>as</del><add place="over-text">to</add></subst> be connected with some
+<lb/><term type="occupation">missionaries</term> at the <placeName><settlement type="town">Kat river</settlement></placeName><!-- a reference to the Kat River settlement, rather than simply a reference to the river.JL -->
+<lb/>his trial was loudly demanded
+
+
+
+<pb facs="liv_000099_0219.jpg" n="0219"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">212</add></fw>
+<lb/>as certain to draw out in the
+<lb/>most convincing way the fullest
+<lb/>evidence of thier complicity -
+<lb/>The trial took place in
+<lb/><placeName><settlement type="city">Cape town</settlement></placeName> while I was there
+<lb/>in <date when="1852-05">May 1852</date> - And as I felt
+<lb/>interested in seeing <add place="below">^</add> <add place="above">the</add> judicial
+<lb/>forms <del type="cancelled">after</del> of civilized life
+<lb/>after witnessing those of the
+<lb/><term type="tribe">Bakwains</term> and <term type="tribe">Makololo</term> - 
+<lb/>I attended during the whole
+<lb/>eight days <del type="cancelled">of</del> the case lasted</p>
+<lb/><p>The prisoner <persName>Andries
+<lb/>Botha</persName> was upwards of seventy
+<lb/>years of age - of short stature
+<lb/>and firmly built - his hair
+<lb/>white and features of the
+<lb/>cast of his race - The evidence
+<lb/>of <persName>Sir Andries <w>Stockenstro<del type="strikethrough">o</del>m</w></persName>
+<lb/>and of the <term type="occupation">magistrate</term> <add place="below">^</add> <add place="above">(<persName>M<hi rend="sup">r</hi> Wienand</persName>)</add> of the
+<lb/>district in which the alleged<!-- evidence of previous letters under 'll', but it is unclear.JL -->
+<lb/>rebellion had taken place
+<lb/><del type="cancelled">(<persName>M<hi rend="sup underline">r</hi> Wienand</persName>)</del> <choice><orig>shewed</orig><reg>showed</reg></choice> that
+<lb/>for forty years <add place="below">^</add> <add place="above">he</add> had been
+<lb/>"<quote>a most efficient <term type="occupation">officer</term></quote>"
+<lb/>in the <choice><sic><persName>Queen</persName>s</sic><corr><persName>Queen</persName>'s</corr></choice> service and
+<lb/>had been the "<quote>chief agent in
+<lb/>bringing one <add place="below">^</add> <add place="above">at least</add> of the <orgName><subst><del>C</del><add place="over-text">K</add></subst>affer</orgName> wars
+<lb/>to a successful <subst><del type="strikethrough">conclusion</del><add place="above">close</add></subst></quote>"</p>
+<lb/><p>Against him were arranged
+<lb/>by the <term type="occupation">Attorney General</term> a few
+<lb/><term type="tibe"><choice><orig>Fingoes</orig><reg>Fengu</reg></choice></term><!-- not sure about tagging this as tribe, or whether it should be orgName, ks --><!-- Staying with tribe for now.JL --> who were well known
+<lb/>to be the mortal enemies of
+<lb/>the whole <orgName>Hottentot</orgName> race - and
+<lb/>of <persName>Botha</persName> in particular as
+
+
+
+<pb facs="liv_000099_0220.jpg" n="0220"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">213</add></fw>
+<lb/>a chief man among <subst><del type="cancelled"><unclear cert="medium">those</unclear></del> <add place="above"><del type="cancelled">of</del> that</add></subst> <del type="strikethrough">are</del>
+<lb/><add place="marginleft">tribe living on</add> the Frontier - To these witnesses
+<lb/>were added about half a dozen
+<lb/><orgName>Hottentot</orgName> convicts whose
+<lb/>irons were removed before
+<lb/>they were put into the witness
+<lb/>box <subst><del type="cancelled">but</del><add place="above">and</add></subst> appeared in their
+<lb/>convict dresses - The counsel
+<lb/>for the prisoner objected
+<lb/>to these convicts on the
+<lb/>ground that no witness ought
+<lb/>to be examined here who
+<lb/>would be incompetent
+<lb/>to act as <subst><del type="strikethrough">witness</del><add place="above">such</add></subst> in a case
+<lb/>of treason at <orgName><placeName><settlement type="city">Westminster</settlement></placeName></orgName>
+<lb/>but this was <choice><sic>overuled</sic><corr>overruled</corr></choice> by
+<lb/>the <term type="occupation">Lord Chief Justice</term> who
+<lb/>acted as <term type="occupation">Judge</term> in the case - 
+<lb/>So, here though the <term type="occupation">Attorney
+<lb/>General</term> <del type="strikethough">acted</del> conducted
+<lb/>the case with his well known
+<lb/><add place="marginleft">candour</add> <del type="cancelled">fairness</del> and impartiality
+<lb/>the witnesses may <del type="cancelled">be</del>
+<lb/>fairly be supposed to have
+<lb/>been somewhat influenced
+<lb/>by the removal of their chains
+<lb/>just before entering into
+<lb/>court, to give evidence
+<lb/>as much in favour of
+<lb/>the side for which they
+<lb/>were called as possible -
+<lb/>Some indeed confessed afterward
+<lb/>that <add place="below">^</add> <add place="above">they</add> had <add place="below">^</add> <add place="above"><del type="cancelled">they</del></add> indulged the hope
+<lb/>that the irons were not to be
+<lb/><space extent="16" unit="chars"/>resumed
+
+
+
+<pb facs="liv_000099_0221.jpg" n="0221"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">214</add></fw>
+<lb/>The influence was <add place="below">^</add> <add place="above">thus</add> neither in
+<lb/>favour of the eliciting <del type="cancelled">what the</del>
+<lb/><add place="marginleft"><metamark function="insertion"/>the evidence
+    <lb/><del type="cancelled"><unclear cert="medium">what</unclear> the</del>
+    <lb/>if any
+    <lb/>existed of
+    <lb/>what the</add>
+party organ <subst><del type="cancelled">believed</del><add place="above">asserted</add></subst> to be
+<lb/>the case, that the <term type="occupation">missionaries</term>
+<lb/>were the orignators of the
+<lb/><orgName>Hottentot</orgName> rebellion &amp; <orgName><subst><del>C</del><add place="over-text">K</add></subst>affir</orgName>
+<lb/>war - </p>
+<lb/><p>The prisoner was
+<lb/><choice><orig>shewn</orig><reg>shown</reg></choice> to have absented himself
+<lb/>on one occasion only from
+<lb/>meeting <persName>General Somerset</persName>
+<lb/>on account of that <term type="occupation">officer</term>
+<lb/>being unable to protect
+<lb/>him from the vengeance
+<lb/>of some irregular <term type="tribe"><choice><orig>Fingoe</orig><reg>Fengu</reg></choice></term>
+<lb/>forces who had already
+<lb/>attempted his life - and
+<lb/>for this single breach
+<lb/>of duty <add place="marginleft"><metamark function="insertion"/>fully explained
+    <lb/>to the <term type="occupation">General</term>
+    <lb/>beforehand</add>
+his forty years of
+<lb/>service counted as nothing
+<lb/>and he was sentenced to
+<lb/>death <add place="below">^</add> <subst><add place="above">as a rebel</add> <del type="cancelled">in consequence</del></subst> - 
+<lb/>The <term type="occupation">Governor</term> communted
+<lb/>the sentence to imprisonment
+<lb/><del type="cancelled">of</del> with hard labour <add place="below">^</add> <add place="above">on the roads</add> for life
+<lb/>This after some years was discovered to be illegal and
+<lb/>he has since been kept
+<lb/>a prisoner only - </p>
+<lb/>
+<lb/><p>Now the point of most
+<lb/>importance in this trial
+<lb/>was - the causes of the <orgName>Kaffir</orgName>
+<lb/>war and <orgName>Hottentot</orgName> rebellion</p>
+
+
+<pb facs="liv_000099_0222.jpg" n="0222"/>
+<lb/><p><fw><add place="inline" hand="#U1" rend="gray right">215</add></fw>
+<lb/>The <orgName>Hottentots</orgName> had been placed
+<lb/>by that far seeing and <del type="cancelled"><unclear cert="low">enti</unclear></del>
+<lb/>upright man <persName>Sir Andries
+<lb/>Stockenstrom</persName> as an advanced
+<lb/><choice><sic>gaurd</sic><corr>guard</corr></choice> against the <orgName><subst><del>C</del><add place="over-text">K</add></subst>affirs</orgName>
+<lb/>on <del type="cancelled">a</del>the <placeName><settlement type="town">Kat river</settlement></placeName><!-- probably a reference to the Kat River settlement rather than the river.JL --> - And
+<lb/>were previous to the war
+<lb/>most unjustly deprived of
+<lb/>their arms and some of
+<lb/>their lands by an <term type="occupation">under official</term> <add place="marginleft">whose act
+    <lb/>was when
+    <lb/>too late
+    <lb/>disapproved
+    <lb/>by his
+    <lb/><orgName>government</orgName></add>
+<lb/><del type="cancelled">whom <persName>Sir Harry Smith</persName>
+<lb/>thought he could adroitly
+<lb/>punish by <unclear cert="high">promotion</unclear> <choice><abbr>i- e-</abbr><expan>id est</expan></choice>
+<lb/>appear to <unclear cert="high">disapprove</unclear>
+<lb/>of his acts while <unclear cert="medium">he</unclear> actually
+<lb/><add place="marginleft">upholding</add> by giving him a better situation</del></p>
+<lb/><p>A sudden impulse <del type="cancelled">led</del>
+<lb/>them <add place="marginleft"><metamark function="insertion"/>unarmed
+    <lb/>and unable
+    <lb/>to do otherwise
+    <lb/>from being
+    <lb/>surrounded
+    <lb/>by the enemy</add>
+on the breaking out 
+<lb/>of the <del type="cancelled"><orgName>Kaffir</orgName></del> <add place="below">^</add> <add place="above">war <del type="cancelled"><unclear cert="medium">completely in the power</unclear></del></add> to join in the
+<lb/>ranks of the <subst><del type="strikethrough"><unclear cert="medium">enemy</unclear></del><add place="above"><orgName>Kaffirs</orgName></add></subst> <del type="cancelled"><unclear cert="medium">and</unclear></del> <add place="below">^</add> <add place="above">But</add>
+<lb/>not a syllable could be
+<lb/>elicited tending in any
+<lb/>way to <del type="cancelled">elicit</del> <choice><orig>shew</orig><reg>show</reg></choice> complicity
+<lb/>of any <term type="occupation">missionary</term> of 
+<lb/>any sect whatever Nor
+<lb/>was that now wanted
+<lb/>for the"<bibl><placeName><settlement type="town"><choice><orig>Graham's town</orig><reg>Grahamstown</reg></choice></settlement></placeName>
+<lb/>Journal</bibl>" at once boldly
+<lb/>affirmed that the case was simply this - "<hi rend="underline"><quote>the
+<lb/><term type="nationality">British</term> <term type="occupation">settlers</term> versus
+<lb/>the <del type="cancelled">Cat</del> <placeName><settlement type="town">Kat river settlement</settlement></placeName></quote>"!</hi>
+<lb/>This frank avowal <choice><orig>shews</orig><reg>shows</reg></choice>
+<lb/>how men otherwise estimable
+
+
+<pb facs="liv_000099_0223.jpg" n="0223"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">216</add></fw>
+<lb/>could notwithstanding all that
+<lb/>had been done for them
+<lb/>and by which they had
+<lb/>profited so largely - cooly
+<lb/>place the interests of a <add place="marginleft"><metamark function="insertion"/><unclear cert="low">respectable</unclear>
+    <lb/>but really
+    <lb/>insignificant</add>
+<lb/><del type="cancelled">contemptible <unclear cert="medium">purse proud</unclear>-</del>
+<lb/><del type="cancelled">-</del>part in opposition to <del type="cancelled">that</del>
+<lb/><add place="marginleft">those</add> <add place="below">^</add> of the whole <orgName>Empire</orgName> - Two
+<lb/>millions of money must be
+<lb/>paid by the mother country 
+<lb/>because certain proteges <add place="below"><del type="cancelled">^</del></add>
+<lb/><add place="marginleft"><del type="cancelled"><unclear cert="medium">petulant</unclear> as 
+    <lb/>spoiled children</del></add>
+<add place="below">^</add> wished to possess the <placeName><settlement type="town">Kat
+<lb/>river settlement</settlement></placeName></p>
+<lb/><p>That which renders the
+<lb/>unblushing greediness of this
+<lb/><add place="marginleft">small</add> <add place="below">^</add> portion of our <orgName>empire</orgName>
+<lb/>peculiarly odious is the
+<lb/>altogether un-<term type="nationality">English</term> wish
+<lb/>displayed for aggrandizement
+<lb/>at the expense of the degraded
+<lb/>races in their vicinity <del type="cancelled">even</del>
+<lb/><add place="marginleft">and of</add> <add place="below">^</add> <del type="cancelled">by</del> the blood of the <term type="nationality">English</term>
+<lb/><term type="occupation">soldier</term> - The idea
+<lb/>prevailed extensively that
+<lb/>the <placeName><settlement type="town">Kat River Settlement</settlement></placeName>
+<lb/>belonged to the <orgName>London
+<lb/>Missionary Society</orgName> <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-79"/>This was asserted
+    <lb/>even by a
+    <lb/><term type="occupation">Clergyman</term>
+    <lb/>who ought
+    <lb/>to have
+    <lb/>known better - <anchor xml:id="meta-79"/></add>
+Hence
+<lb/>The cause of the "<term type="people">British</term>
+<lb/><term type="occupation">settlers</term>" required a conviction
+<lb/>of the <term type="occupation">missionaries</term> there - 
+<lb/>This roundabout way
+<lb/>of gaining an end might have
+<lb/>been dispensed with <del type="cancelled">(as
+<lb/><unclear cert="medium">could</unclear> the whole <orgName>Caffre</orgName> war
+<lb/>way of enrichment might</del> 
+<lb/><space extent="18" unit="chars"/><del type="cancelled"><unclear cert="medium">also</unclear>)</del>
+
+
+<pb facs="liv_000099_0224.jpg" n="0224"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">217</add></fw>
+<lb/><add place="marginleft"><del type="cancelled">dispensed 
+    <lb/>with too - </del></add> 
+<w><subst><del>H</del><add place="over-text">h</add></subst>ad</w> <del type="cancelled">it</del> <add place="below">^</add> <add place="above">the unquestionable fact</add> been known that the
+<lb/>Society in question never
+<lb/>possessed an inch of ground
+<lb/>at that settlement<!-- the Kat river settlement --> - The <del type="strikethrough"><unclear cert="medium">wars</unclear></del>
+<lb/>lands of <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-231"/><choice><sic>of</sic><corr/></choice> <orgName>Hottentots</orgName> on<anchor xml:id="meta-231"/></add> the <placeName><settlement type="town">Kat River</settlement></placeName> belonged
+<lb/>to the <orgName><subst><del>g</del><add place="over-text">C</add></subst>rown</orgName> and the location
+<lb/>was formed for political
+<lb/>purposes and with exactly
+<lb/>the same objects in
+<lb/>view as are now expected
+<lb/>to be realised by the <orgName><term type="nationality">German</term>
+<lb/>legion</orgName> - <del type="cancelled">and</del> the defence
+<lb/>of the Frontier while committed
+<lb/>to the <orgName>Hottentots</orgName> involved no
+<lb/><del type="cancelled">political</del> Governmental aid
+<lb/><add place="marginleft">whatever</add> to the <term type="occupation">missionaries</term> who
+<lb/><metamark function="reorder" spanTo="#meta-80"/><seg corresp="#reorder-35">freely</seg><anchor xml:id="meta-80"/> taught them <metamark function="insertion"/><anchor xml:id="reorder-35"/> <del type="strikethrough">whatever</del>
+<lb/>These <orgName>Hottentots</orgName> answered well
+<lb/>the object which the founder
+<lb/>of the settlement <add place="marginleft"><metamark function="insertion"/><persName>(Sir Andries
+    <lb/>Stockenstrom</persName>)</add>
+had in view</p>
+<lb/>
+<lb/><p>They turned out boldly to fight
+<lb/>the <orgName><subst><del>C</del><add place="over-text">K</add></subst>affirs</orgName> <del type="cancelled">and to them and
+<lb/><unclear cert="medium">others</unclear> <gap extent="8" unit="chars"/> other <term type="occupation">Colonists</term>
+<lb/>from distant parts we are
+<lb/>indebted for the permission
+<lb/>to say that efforts have been
+<lb/>made for the defence of the
+<lb/>Frontier by the <term type="occupation">Colonists</term>
+<lb/>themselves</del> in successive wars - 
+<lb/>remained in the field often
+<lb/>without pay and returned
+<lb/>to their families in rags
+<lb/>while the <placeName><settlement type="town"><choice><orig>Grahams town</orig><reg>Grahamstown</reg></choice></settlement></placeName>
+<lb/><term type="occupation">levies</term> played at soldiering 
+<lb/><space extent="18" unit="chars"/>only
+
+
+
+<pb facs="liv_000099_0225.jpg" n="0225"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">218</add></fw>
+<lb/>at ranges convenient for
+<lb/>daily returns to teapot &amp; tills - 
+<lb/>The credit however of
+<lb/>the defence made by both
+<lb/><orgName>Hottentots</orgName> &amp; <term type="occupation">Colonists</term> from
+<lb/>distant parts has always
+<lb/>been appropriated by this
+<lb/>moneyed community whom
+<lb/>we have before remarked
+<lb/>as crouching under the 
+<lb/>term distressed "Frontier
+<lb/><term type="occupation">farmers</term>" <space extent="3" unit="chars"/>The cry <subst><del>of</del><add place="over-text">f</add></subst>or
+<lb/>protection in their case
+<lb/>closely approximates that
+<lb/>of the <term type="occupation">agriculturists</term> in
+<lb/><placeName><country>England</country></placeName> - And the pangs
+<lb/>of distress <unclear cert="medium">felt</unclear> by the
+<lb/><term type="nationality">British</term> <term type="occupation">settlers</term> is as now
+<lb/>indicative of the true sorrow
+<lb/><subst><del>As the</del><add place="over-text">in</add></subst> the real Frontier <term type="occupation">farmers</term>
+<lb/>of <term type="animal">cattle</term> &amp; <term type="foodstuff">grain</term> as the
+<lb/>cry of "agricultural distress"
+<lb/>was in former years
+<lb/><add place="marginleft">non-</add>indicative of <subst><add place="above">suffering</add><del type="strikethrough">poverty</del></subst> in
+<lb/>the <term type="occupation">agricultural labourer</term>
+<lb/>In both cases there was true
+<lb/>suffering but in neither has
+<lb/>the wail been made by the
+<lb/>sufferer - </p>
+<lb/><p>Had the <bibl>Times</bibl> <term type="occupation">commissioner</term>
+<lb/>been the agent of <del type="strikethrough">a paper</del> <add place="below">^</add> <add place="above">the organ &amp;</add> <del type="strikethrough">which</del>
+<lb/><add place="marginleft">of a party <unclear cert="medium">which</unclear></add> had become rich by <term type="nationality">Russian</term>
+<lb/>wars <choice><sic>Even</sic><corr>even</corr></choice> <bibl><choice><sic><persName>M<hi rend="sup underline">r</hi> Russel</persName>s</sic><corr><persName>M<hi rend="sup underline">r</hi> Russell</persName>'s</corr></choice>
+<lb/>graphic narrative</bibl> might
+<lb/>have assumed a modified
+
+
+<pb facs="liv_000099_0226.jpg" n="0226"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">219</add></fw>
+<lb/>form - What then may be
+<lb/>expected to issue from <del type="cancelled">the</del>
+<lb/><add place="marginleft">a</add> paper <del type="cancelled"><unclear cert="medium">itself</unclear></del> <subst><del><unclear cert="medium">du</unclear></del><add place="over-text"><unclear cert="medium">of</unclear></add></subst> which the
+<lb/>staple article <subst><del>was</del><add place="over-text">du</add></subst>ring all
+<lb/>those years <del type="strikethrough">in which</del> of the
+<lb/><add place="marginleft">peaceful
+    <lb/>preservation
+    <lb/>of the</add>
+<add place="below">^</add> <persName>Glenelg</persName> treaties, was "<orgName>Kaffir</orgName>
+<lb/>grievances - "</p>
+<lb/><space dim="vertical" extent="10" unit="lines"/>
+<lb/><p>As the <term type="occupation">missionaries</term>
+<lb/>petitioned in vain for a
+<lb/>commission to sift the
+<lb/>matter to the bottom, and
+<lb/>the <orgName><subst><del>C</del><add place="over-text">K</add></subst>affirs</orgName> themselves are
+<lb/>most anxious to discuss
+<lb/>the matter why should the
+<lb/><add place="marginleft">it</add> <del type="strikethrough">matter</del> not be fully investigate<supplied cert="high">d</supplied>
+<lb/>In all our wars we have
+<lb/>had but one side of the
+<lb/>question - We never hear
+<lb/>the <orgName>Kaffir</orgName> version - We
+<lb/>were compelled to hear the
+<lb/><term type="nationality">Russian</term> views of our
+<lb/>operations in our late
+<lb/>wars - Why not allow our
+<lb/>savage neighbours as we
+<lb/>call them the means of
+<lb/>explaining their views <del type="strikethrough">too</del>
+
+
+
+<pb facs="liv_000099_0227.jpg" n="0227"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">220</add></fw>
+<lb/>and wishes too - My <choice><sic>Earnest</sic><corr>earnest</corr></choice> hope
+<lb/>and prayer is that a <bibl>Times</bibl>
+<lb/><term type="occupation">commissioner</term> may anticipate
+<lb/>the next <orgName>Kaffir</orgName> war by a
+<lb/>searching enquiry among
+<lb/>both <orgName>Kaffirs</orgName> <orgName>Hottentots</orgName> and
+<lb/><term type="occupation">Colonists</term> and I am certain
+<lb/>that if the causes <subst><del>of</del><add place="over-text">of</add></subst> this
+<lb/>chronic warfare were laid
+<lb/>before the <term type="nationality">English</term> public
+<lb/>as fairly as these gentlemen
+<lb/>can, the exposure would
+<lb/>go farther towards the prevention
+<lb/>of another outbreak than
+<lb/>any measure that has yet
+<lb/>been proposed - They at least
+<lb/>will not be afraid of
+<lb/>meeting the <orgName>Kaffirs</orgName> in
+<lb/>argument</p>
+<lb/>
+    </div>
+
+
+    <div>
+<pb facs="liv_000099_0228.jpg" n="0228"/>
+<lb/><fw><add place="inspace" rend="right"><note><date when="1857-01-22">22<hi rend="sup underline">d</hi> <choice><abbr>Jany</abbr><expan>January</expan></choice> 1857</date></note></add> <add place="inspace below" hand="#U1" rend="gray">221</add></fw>
+<lb/><head><space extent="9" unit="chars"/><hi rend="double-underline">Chapter First</hi></head>
+<lb/><p rend="no-indent">The travels of which I now mean
+<lb/>to give a sketch extended from
+<lb/>the <placeName><geogName type="cape">Cape of Good Hope</geogName></placeName>, the southern
+<lb/>extremity of the continent, to
+<lb/><placeName><settlement type="city"><choice><orig>St Paul di Loando</orig><reg>Luanda</reg></choice></settlement></placeName>, the capital
+<lb/>of <del type="cancelled"><placeName><region><choice><orig>Loando</orig><reg>Luanda</reg></choice></region></placeName></del> <add place="below">^</add> <add place="marginleft"><placeName><country>Angola</country></placeName></add> on the <placeName><region>West Coast</region></placeName>, 
+<lb/>and thence <choice><sic>accross</sic><corr>across</corr></choice> the continent
+<lb/>in an oblique direction to <placeName><settlement type="town"><choice><orig>Quilimane</orig><corr>Quelimane</corr></choice></settlement></placeName>
+<lb/>in <placeName><region>Eastern Africa</region></placeName> - They were
+<lb/>commenced in the beginning
+<lb/>of <date when="1852-06">June 185<subst><del><unclear cert="medium">1</unclear></del><add place="over-text">2</add></subst></date> and terminated
+<lb/>in the end of <date when="1856-05">May 1856</date>, a period
+<lb/>of four years, though not of
+<lb/>continuous travel, having been
+<lb/>spent in the <add place="below">^</add> <add place="above">prosecution of the</add> objects for which
+<lb/>the enterprise was undertaken -
+<lb/>And as no one but a <term type="nationality">German</term>
+<lb/>bookworm<!-- possible allusion to Heinrich Barth.JL --> would think of
+<lb/>giving a detailed account of the
+<lb/>ever recurring minutiae of travel,
+<lb/>during <del type="cancelled">that</del> <add place="above">such as</add> period, or lengthy
+<lb/>disquisitions on all that has been
+<lb/>said and written from <persName>Hanno</persName><!-- Carthaginian traveller BC, ks -->
+<lb/>down to our comfortable <term type="occupation">Easy chair
+<lb/>geographers</term> who can <subst><del type="strikethrough">fiercely</del><add place="above">keenly</add></subst>
+<lb/>contend for the exact positions of
+<lb/><add place="marginleft">places</add> about as well known as the garden
+<lb/>of <placeName><geogName>Eden</geogName></placeName>, the reader may expect
+<lb/>from me that information and
+<lb/>those incidents alone which
+<lb/>attract my attention most <choice><sic>stronly</sic><corr>strongly</corr></choice>
+<lb/>and which I hope will convey
+</p>
+    </div>
+</body>
+</text>
+
+</TEI>
