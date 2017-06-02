@@ -108,10 +108,10 @@
 <lb/><placeName><settlement type="town">Linyanti</settlement></placeName> <add place="marginleft"><metamark function="insertion"/>to <placeName><geogName type="lake">Lake
     <lb/>Ngami</geogName></placeName></add>
 dreading the vengeance
-<lb/>of <persName>Sekeletu</persName> for his crime - 
+<lb/>of <persName ref="people.xml#pers0519">Sekeletu</persName> for his crime - 
 <lb/>He was sent for and the
 <lb/><term type="occupation">chief</term> at the Lake<!-- geog: Ngami --> delivered him
-<lb/>up on <persName>Sekeletu</persName> declaring that
+<lb/>up on <persName ref="people.xml#pers0519">Sekeletu</persName> declaring that
 <lb/>he had no intention of punishing
 <lb/>him otherwise than by scolding
 <lb/>He did not even do that as
@@ -126,7 +126,7 @@ dreading the vengeance
 <lb/>as if nothing wrong had been
 <lb/>done by them - All united in
 <lb/>abusing the conduct of
-<lb/><persName>Sekobinyane</persName> - and the <term type="animal">cattle</term>
+    <lb/><persName ref="people.xml#pers0522">Sekobinyane</persName> - and the <term type="animal">cattle</term>
 <lb/>the use of which they had
 <lb/>previously enjoyed having
 <lb/>never been removed from
@@ -154,7 +154,7 @@ dreading the vengeance
 <lb/>that we might return accompanied
 <lb/>with white <term type="occupation">traders</term> we began
 <lb/>again our ascent of the river
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName>Berry</persName></note></add> It was now beginning to
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0262">Berry</persName></note></add> It was now beginning to
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>171</note></add><!-- number is circled.JL --> <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- square bracket corresponds to the circled number.JL -->rise though the <seg type="weather">rains had but
 <lb/>just begun in the valley</seg> - The
 <lb/>banks are low but clearly
@@ -280,7 +280,7 @@ dreading the vengeance
 <lb/><placeName><settlement type="village">Libonta</settlement></placeName></note> <space extent="6" unit="chars"/>We were detained
 <lb/>for days together collecting presents
 <lb/>of <term type="foodstuff">fat</term> and <term type="foodstuff">butter</term> according
-<lb/>to the orders of <persName>Sekeletu</persName> as
+<lb/>to the orders of <persName ref="people.xml#pers0519">Sekeletu</persName> as
 <lb/>presents to the <term type="tribe">Balonda</term> <term type="occupation">chiefs</term>
 <lb/>Much <term type="ailment">fever</term> prevailed, and
 <lb/><term type="ailment">ophthalmia</term> was rife as is
@@ -353,7 +353,7 @@ in front
 <lb/>of the valley begin to approach
 <lb/>nearer the river - The village
 <lb/>itself belongs to two of the chief
-<lb/>wives of <persName>Sebituane</persName> who
+<lb/>wives of <persName ref="people.xml#pers0515">Sebituane</persName> who
 <lb/>furnished us with an <term type="animal"><term type="foodstuff">ox</term></term> and
 <lb/>abundance of other food
 <lb/>The same kindness was
@@ -485,7 +485,7 @@ in front
 <lb/>which at best were but
 <lb/>greasy skins - The picture
 <lb/>was one of perfect peace - </p>
-<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName><unclear cert="medium">Sedg</unclear></persName></hi></note></add> The cooking is usually
+                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></hi></note></add> The cooking is usually
 <lb/>done in their own style
 <lb/>and as they carefully wash
 <lb/><add place="marginleft">the dishes pot &amp;</add> the hands before handling
@@ -854,7 +854,7 @@ and though they eat
 <lb/>of the animal worship of
 <lb/>former times scarcely exist
 <lb/>among the <term type="tribe">Makololo</term> - 
-<lb/><persName>Sebituane</persName> acted on the principle
+<lb/><persName ref="people.xml#pers0515">Sebituane</persName> acted on the principle
 <lb/>"whatever is food for men
 <lb/>is food for me" so men
 
@@ -883,7 +883,7 @@ and though they eat
 <lb/>and not at all inviting for
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>67</note></add> any one <del type="strikethrough">not</del> <add place="below">^</add> <add place="above">except the</add> very hungry - </p>
 <lb/>
-<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName>Berry</persName></hi></note></add> When we had gone <del type="cancelled">twenty</del>
+                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> When we had gone <del type="cancelled">twenty</del>
 <lb/>or <measure>thirty or forty miles</measure> above
 <lb/><placeName><settlement type="village">Libonta</settlement></placeName> we sent eleven of
 <lb/>our <orgName>captives</orgName> to the <del type="strikethrough">North</del> West
@@ -914,7 +914,7 @@ and though they eat
     <lb/>Vardonii</term></hi></foreign> after
     <lb/>the <orgName>African</orgName>
     <lb/><term type="occupation">traveller</term>
-    <lb/><persName>Major Vardon</persName></note></add>
+    <lb/><persName ref="people.xml#pers0557">Major Vardon</persName></note></add>
 <term type="animal">Lechés</term> &amp; 
 <lb/>other <term type="animal">antelopes</term> often till my
 <lb/>men wondering what was

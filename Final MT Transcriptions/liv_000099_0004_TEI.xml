@@ -125,7 +125,7 @@
 <lb/>small farmer in <placeName><geogName type="island">Ulva</geogName></placeName>, where 
 <lb/>my father was born, <add place="below">˄</add> <add place="above">It is</add> one
 <lb/>of that cluster of the <placeName><region>Hebrides</region></placeName> 
-<lb/>thus described by <persName>Walter Scott</persName>
+    <lb/>thus described by <persName ref="people.xml#pers0514">Walter Scott</persName>
 <lb/>"And <placeName><geogName type="island">Ulva</geogName></placeName> dark and <placeName><geogName type="island">Colonsay</geogName></placeName>"
 <lb/>And all the group of islets gay
 <lb/>"That <choice><sic>gaurd</sic><corr>guard</corr></choice> famed <placeName><geogName type="island">Staffa</geogName></placeName> round" <add place="below">*</add></p>
@@ -212,7 +212,7 @@
             
             	<pb facs="liv_000099_0007.jpg" n="0007"/>
 <lb/><space dim="vertical" extent="3" unit="lines"/>
-<lb/><p rend="no-indent"><persName>Hecker</persName> history of
+                <lb/><p rend="no-indent"><persName ref="people.xml#pers0316">Hecker</persName> history of
 <lb/><bibl>Epidemics of <supplied cert="high">the</supplied> Middle ages</bibl></p>             
  
             	<pb facs="liv_000099_0008.jpg" n="0008"/>
@@ -299,7 +299,7 @@ deserves my lasting
 <lb/>with a continuous<add place="inline">ly</add> <add place="above">consistent</add> pious
 <lb/>example such as <add place="below">˄</add> <add place="above">that an episode of which</add> is beautifully
 <lb/>and truthfully portrayed
-<lb/>in <choice><sic><persName>Burn</persName>'s</sic><corr><persName>Burns</persName>'</corr></choice> "<bibl>cottar's saturday
+    <lb/>in <choice><sic><persName ref="people.xml#pers0272">Burn</persName>'s</sic><corr><persName>Burns</persName>'</corr></choice> "<bibl>cottar's saturday
 <lb/>night</bibl> - " He died in <date when="1856-02">February</date> last
 <lb/>in peaceful hope of that mercy
 <lb/>which we all expect through the
@@ -339,7 +339,7 @@ deserves my lasting
 <lb/>breakfast and dinner till eight
 <lb/><choice><sic>oclock</sic><corr>o'clock</corr></choice> again - I read in this
 <lb/>way many of the classical authors
-<lb/>and knew <persName>Virgil</persName> and <persName>Horace</persName>
+    <lb/>and knew <persName ref="people.xml#pers0559">Virgil</persName> and <persName ref="people.xml#pers0322">Horace</persName>
 <lb/>better at sixteen than I do now <unclear cert="high">-</unclear><!-- I think this is an n-dash that has been smudged.JL -->
 <lb/>Our schoolmaster (supported in
 <lb/>part by the company) was
@@ -373,17 +373,17 @@ deserves my lasting
 <lb/><fw><subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">(7</add></del><add place="over-text" hand="#U1" rend="gray">10</add></subst></fw>
 <lb/>to religion, would have preferred
 <lb/>to have seen me at the "<bibl>Cloud of
-<lb/>Witnesses</bibl> or "<bibl><persName>Boston</persName>'s fourfold
+    <lb/>Witnesses</bibl> or "<bibl><persName ref="people.xml#pers0263">Boston</persName>'s fourfold
 <lb/>state</bibl> - "<subst><del>Ou</del><add place="over-text">Our</add></subst> difference of opinion
 <lb/>reached the point of open <gap extent="1" unit="chars" agent="illegible"/>
 <lb/>rebellion and <subst><del type="strikethrough">my</del><add place="above">his</add></subst> last application
 <lb/>of the rod on <add place="below">˄</add> <add place="above">my</add> <subst><del type="cancelled">being desired</del><add place="above">refusal</add></subst> to
-<lb/>peruse "<bibl><persName>Wilberforce</persName>'s practical
+    <lb/>peruse "<bibl><persName ref="people.xml#pers0570">Wilberforce</persName>'s practical
 <lb/><term type="faith">christianity</term></bibl>." <w>Th<subst><del>e</del><add place="over-text">is</add></subst></w> dislike to
 <lb/>dry doctrinal reading <add place="below">˄</add> <add place="above">&amp; to religious</add> <add place="marginleft">reading of every sort</add> continued
 <lb/>for years <add place="below">˄</add> <add place="above">afterwards</add> but having lighted
 <lb/>on those admirable works
-<lb/>of <persName>D<hi rend="sup underline">r</hi> Thomas Dick</persName> - "<bibl>The philosophy
+    <lb/>of <persName ref="people.xml#pers0549">D<hi rend="sup underline">r</hi> Thomas Dick</persName> - "<bibl>The philosophy
 <lb/>of religion</bibl>." and "<bibl>The philosophy
 <lb/>of a future state</bibl>" I was glad
 <lb/>to find my own ideas that
@@ -413,7 +413,7 @@ deserves my lasting
 <lb/><add place="marginleft">in</add> recognizing the plants pointed out
 <lb/>in my first medical book that
 <lb/>extraodinary old <unclear cert="medium"><subst><del>work</del><add place="over-text">Author</add></subst></unclear><!-- the word underneath author is quite unclear but is probably 'work', which is the word that ultimately appears in the published version p.5).JL --> on 
-<lb/>astrological medicine - "<bibl><persName>Culpeper</persName>'s
+    <lb/>astrological medicine - "<bibl><persName ref="people.xml#pers0285">Culpeper</persName>'s
 <lb/>Herbal"</bibl> <space extent="3" unit="chars"/> Limited as my time
 <lb/>was I found opportunities to 
 <lb/>scour the whole countryside
@@ -500,7 +500,7 @@ deserves my lasting
 <lb/><add place="marginleft">and Greek</add> <add place="marginleft">^</add> classes in <placeName><settlement type="city">Glasgow</settlement></placeName> in winter 
 <lb/><add place="marginleft">as also the
 		<lb/>Divinity lectures
-		<lb/>of <persName>D<hi rend="sup underline">r</hi> Wardlaw</persName></add>
+    <lb/>of <persName ref="people.xml#pers0563">D<hi rend="sup underline">r</hi> Wardlaw</persName></add>
 by <del type="cancelled">while</del> working with my hands
 <lb/>in summer , - I never <choice><sic>recieved</sic><corr>received</corr></choice>
 <lb/>a farthing of aid from any one
@@ -515,7 +515,7 @@ by <del type="cancelled">while</del> working with my hands
 <lb/>It "sends neither <term type="faith">Episcopacy</term>
 <lb/>nor <term type="faith">Presbyterianism</term> nor
 <lb/><term type="faith"><choice><sic>Independancy</sic><corr>Independency</corr></choice></term>, but the gospel
-<lb/>of Christ to the heathen" This
+    <lb/>of <persName ref="people.xml#pers0333">Christ</persName> to the heathen" This
 <lb/>exactly agreed with my ideas of
 <lb/>what a <term type="occupation">missionary</term> society
 <lb/>ought to do - but it was not
@@ -627,7 +627,7 @@ and
 <lb/><add place="marginleft">of the working</add> <add place="below">^</add> <del type="strikethrough">of the</del> people <add place="below">^</add> <add place="above">have</add> read history
 <lb/>and are no revolutionary
 <lb/>levellers - <subst><del>We</del><add place="over-text">They</add></subst> rejoice in
-<lb/>the memories of "<quote><persName>Wallace</persName> and
+    <lb/>the memories of "<quote><persName ref="people.xml#pers0561">Wallace</persName> and
 <lb/><persName>Bruce</persName> and 'a' the lave</quote>" <del type="cancelled">they</del>
 <lb/><add place="marginleft">who are</add> still <add place="below">^</add> <add place="above"><del type="cancelled">the</del></add> much <subst><del type="cancelled">loved</del><add place="above">revered as the former</add></subst> champions
 <lb/>of our freedom - and while
@@ -691,7 +691,7 @@ and
 <lb/>from <placeName><geogName type="bay">Algoa</geogName></placeName> I proceeded
 <lb/>in company with another
 <lb/><term type="occupation">missionary</term> to the <term type="tribe">Bakuena</term>
-<lb/>country and found <persName>Sechele</persName>
+<lb/>country and found <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>with his tribe located at
 <lb/><placeName><settlement type="village">Shokuan</settlement></placeName> - I had a very different
 <lb/>object in view than running
@@ -806,7 +806,7 @@ which have proved
 <lb/>accompanied me to <placeName><settlement type="village">Kuruman</settlement></placeName>
 <lb/>I was obliged to restore them
 <lb/>and <w>the<del type="strikethrough">ir</del></w> goods <subst><del>of</del><add place="over-text">to</add></subst> their <term type="occupation">chief</term>
-<lb/><persName>Sekomi</persName> This made a journey
+    <lb/><persName ref="people.xml#pers0520">Sekomi</persName> This made a journey
 <lb/><del type="cancelled">from Shokuan</del> to that <term type="occupation">chief</term>
 <lb/><add place="below">^</add> <add place="above">again</add> necessary and I for the first
 <lb/>time performed a distance of
@@ -1001,7 +1001,7 @@ to form a
 <lb/><metamark function="newParagraph" place="marginleft" resp="#U2" rend="gray">Par</metamark> tribes in <placeName><bloc>Africa</bloc></placeName> - <metamark function="newParagraph" resp="#U2" rend="gray">//</metamark> I attached
 <lb/>myself to the tribe called <term type="tribe">Bakuena</term>
 <lb/>or <term type="tribe">Bakwains</term> the <term type="occupation">chief</term> of which
-<lb/><del type="cancelled">is</del> called <persName>Sechele</persName> <add place="below">˄</add> <add place="above">was</add> then living
+<lb/><del type="cancelled">is</del> called <persName ref="people.xml#pers0516">Sechele</persName> <add place="below">˄</add> <add place="above">was</add> then living
 <lb/><add place="below">˄</add> <add place="above">with his tribe</add> at a place <subst><del>called</del><add place="over-text">named</add></subst> <placeName><settlement type="village">Chonuane</settlement></placeName>
 <lb/>I was from the first struck
                     
@@ -1022,7 +1022,7 @@ to form a
 <lb/>the existence of white men - In his
 <lb/>father's life time two white travellers
 <lb/>whom I suppose to have been
-<lb/><persName>M<hi rend="sup underline">r</hi> Cowan</persName> and <persName>D<hi rend="sup underline">r</hi> Donovan</persName>
+    <lb/><persName>M<hi rend="sup underline">r</hi> Cowan</persName> and <persName ref="people.xml#pers0296">D<hi rend="sup underline">r</hi> Donovan</persName>
 <lb/>passed through the country and
 <lb/>passing down the <placeName><geogName type="river">Limpopo</geogName></placeName>
 <lb/>were all cut off by <term type="ailment">fever</term>

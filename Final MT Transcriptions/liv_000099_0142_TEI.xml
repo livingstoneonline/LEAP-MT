@@ -213,14 +213,14 @@ this part of the
 <lb/>approach to it I begin <add place="below">˄</add> <add place="above">now</add> to doubt
 <lb/>its reality - </p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> My chief object in coming
-<lb/>to the Lake<!-- Lake Ngami --> was to visit <persName>Sebituane</persName>
+<lb/>to the Lake<!-- Lake Ngami --> was to visit <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>the great <term type="occupation">chief</term> of the <term type="tribe">Makololo</term> who
 <lb/>was reported to live some <measure>200
 <lb/>miles beyond</measure> - We had now
 <lb/>come to a half tribe of the <term type="tribe"><w>Bamang<supplied>-</supplied>
 <lb break="no"/>-wato</w></term> called <term type="tribe">Batauana</term><add place="inline" rend="red" hand="#U3">.</add> <subst><del type="strikethrough" hand="#U3" rend="red">under</del><add place="above" hand="#U3" rend="red">Their chief was</add></subst>
 <lb/>a young man named <persName>Lechulatébe</persName>
-<lb/><persName>Sebituane</persName> had conquered his father
+<lb/><persName ref="people.xml#pers0515">Sebituane</persName> had conquered his father
 <lb/><persName>Moremi</persName>, and <persName>Lechulatébe</persName> <choice><sic>recieved</sic><corr>received</corr></choice>
 <lb/>part of his education <add place="below">˄</add> <add place="above">while a captive</add> among
 <lb/>the <del type="cancelled"><term type="tribe">Bakoba</term></del> <term type="tribe">Bayeiye</term> - His uncle
@@ -282,21 +282,21 @@ this part of the
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">138</add> <add place="inspace" hand="#U1" rend="gray right">141</add></fw></p>
 <lb/><p>On the day after our arrival at
 <lb/>the Lake I applied to <persName>Lechulatebe</persName>
-<lb/>for <term type="occupation">guides</term> to <persName>Sebituane</persName>, As he
+<lb/>for <term type="occupation">guides</term> to <persName ref="people.xml#pers0515">Sebituane</persName>, As he
 <lb/>was much afraid of that
 <lb/><term type="occupation">chief</term> he objected <del type="strikethrough" hand="#U3" rend="red">on the score
 <lb/>of</del> fear<add place="inline" hand="#U3" rend="red">ing</add> lest other white men
 <lb/><w><subst><del><unclear cert="medium">w</unclear></del><add place="over-text">s</add></subst>hould</w> go the thither also and give
-<lb/><persName>Sebituane</persName> guns, <subst><del type="strikethrough" hand="#U3" rend="red">but</del><add place="above" hand="#U3" rend="red">whereas</add></subst> if the
+<lb/><persName ref="people.xml#pers0515">Sebituane</persName> guns, <subst><del type="strikethrough" hand="#U3" rend="red">but</del><add place="above" hand="#U3" rend="red">whereas</add></subst> if the
 <lb/><term type="occupation">traders</term> came to him alone the
 <lb/>possession of firearms would
 <lb/>give him such a superiority
-<lb/>that <persName>Sebituane</persName> would be
+<lb/>that <persName ref="people.xml#pers0515">Sebituane</persName> would be
 <lb/>afraid of him - It was in
 <lb/>vain to explain that I would
 <lb/>inculcate peace between them<subst><del type="cancelled">.</del> <add place="above">-</add></subst> that
-<lb/><persName>Sebituane</persName> had been a father to
-<lb/>him and <persName>Sechele</persName>, and was as
+<lb/><persName ref="people.xml#pers0515">Sebituane</persName> had been a father to
+<lb/>him and <persName ref="people.xml#pers0516">Sechele</persName>, and was as
 <lb/>anxious to see me as he <add place="below">˄</add> <add place="above">(<persName>Lechulatebe</persName>)</add> had been
 <lb/>He offered to give me as much
 <lb/>ivory as I needed without
@@ -307,7 +307,7 @@ this part of the
 <lb/>when <persName><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and I were prepared
 <lb/>to start with the <term type="animal">horses</term> only, we
 <lb/><choice><sic>recieved</sic><corr>received</corr></choice> a senseless refusal
-<lb/><add place="marginleft">&amp; <add place="inline" hand="#U3" rend="red">Like</add> <add place="inline" hand="#U3" rend="red"><del type="strikethrough" hand="#U3" rend="red">like</del></add></add> <del type="strikethrough" hand="#U3" rend="red">He</del>, <persName>Sekomi</persName> <del type="strikethrough" hand="#U3" rend="red">- like</del><add place="inline" hand="#U3" rend="red">,</add> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">he</add> sent men to
+    <lb/><add place="marginleft">&amp; <add place="inline" hand="#U3" rend="red">Like</add> <add place="inline" hand="#U3" rend="red"><del type="strikethrough" hand="#U3" rend="red">like</del></add></add> <del type="strikethrough" hand="#U3" rend="red">He</del>, <persName ref="people.xml#pers0520">Sekomi</persName> <del type="strikethrough" hand="#U3" rend="red">- like</del><add place="inline" hand="#U3" rend="red">,</add> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">he</add> sent men to
 <lb/>the <term type="tribe">Bayeiye</term> with orders to refuse
 <lb/>us passage ac<del type="cancelled">c</del>ross the river -
 <lb/>Trying to form a raft at a 
@@ -539,7 +539,7 @@ Three or four feet wide at the
 <lb/><add place="marginleft"><metamark function="newParagraph">#</metamark> Another
     <lb/>closely resembling</add>
 <add place="below">˄</add> <del type="cancelled">This</del> <term type="animal">fish</term> is named <foreign xml:lang="la"><term type="animal">Clarias
-<lb/>capensis</term></foreign> by <persName>D<hi rend="sup">r</hi> Smith</persName> - It is
+    <lb/>capensis</term></foreign> by <persName ref="people.xml#pers0537">D<hi rend="sup">r</hi> Smith</persName> - It is
 <lb/>widely diffused throughout
 <lb/>the <placeName><region>Interior</region></placeName> and often leaves
 <lb/>the rivers for the sake of
@@ -624,7 +624,7 @@ Three or four feet wide at the
 <lb/>remained there till <date when="1850-04">April of 1850</date>, <subst><del type="strikethrough" hand ="#U3" rend="red">I</del> <add place="inline" hand="#U3" rend="red">and</add></subst>
 <lb/><add place="marginleft" hand="#U3" rend="red">then</add> left in company with <persName>M<hi rend="underline sup">rs</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice></persName> and
 <lb/>our three children <add place="marginleft"><metamark function="insertion"/>with the
-	<lb/><persName><term type="occupation">Chief</term> Sechele</persName>
+    <lb/><term type="occupation">Chief</term> <persName ref="people.xml#pers0516">Sechele</persName>
     <lb/>who had now
 	<lb/>brought a
 	<lb/>waggon of
@@ -634,7 +634,7 @@ in order to go
 <lb/>with the intention <add place="above"><del type="strikethrough" rend="red" hand="#U3">to</del></add> <del type="strikethrough">and</del> <add place="above" hand="#U3" rend="red">of</add> <w>proceed<del type="strikethrough">ing</del><add place="above" hand="#U3" rend="red">ing</add></w> up <del type="cancelled">along</del>
 <lb/>the Northern bank till we gained
 <lb/>the <placeName><geogName type="river">Tamunakle</geogName></placeName> <add place="below">˄</add> <add place="above">and <add place="inline" hand="#U3" rend="red">of</add> then</add> ascend<add place="inline" hand="#U3" rend="red">ing</add> that river<!--Tamunakle river-->
-<lb/>to <persName>Sebituane</persName> in the North - <persName>Sekomi</persName>
+    <lb/>to <persName ref="people.xml#pers0515">Sebituane</persName> in the North - <persName ref="people.xml#pers0520">Sekomi</persName>
 <lb/>had given orders to fill up the wells
 <lb/>which we had dug with so much 
 <lb/>labour at <placeName><settlement type="village">Serotli</settlement></placeName>, So we took
@@ -648,7 +648,7 @@ in order to go
 <lb/>to the Lake<add place="inline" hand="#U3" rend="red">,</add><!-- Lake Ngami.JL --> and <add place="inline" hand="#U3" rend="red">I</add> did not wish to
 <lb/>quarrel with him, <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">"Well"</add> he said "<del type="cancelled" hand="#U3" rend="red">Well</del>
 <lb/>you beat me and I am content"</p>
-<lb/><p>Parting with <persName>Sechele</persName> at the ford
+<lb/><p>Parting with <persName ref="people.xml#pers0516">Sechele</persName> at the ford
 <lb/>as he was eager to visit <persName>Lechulatebe</persName>
 <lb/>we went along the Northern woody
 <lb/>bank of the <placeName><geogName type="river">Zouga</geogName></placeName> with
@@ -712,11 +712,11 @@ had died of the <add place="below">˄</add> <add place="above"><term type="ailme
 	<lb/><bibl>this work</bibl>
 	<lb/>by his bereaved
 	<lb/>mother</add>
-<lb/><metamark function="newParagraph">#</metamark> <persName>Sechele</persName> used all his
+<lb/><metamark function="newParagraph">#</metamark> <persName ref="people.xml#pers0516">Sechele</persName> used all his
 <lb/>powers <subst><del>a</del><add place="over-text">of</add></subst><del type="strikethrough">nd</del> eloquence with
 <lb/><persName>Lechulatebe</persName> to induce him
 <lb/>to furnish <term type="occupation">guides</term> that I might
-<lb/>be able to visit <persName>Sebituane</persName> on
+<lb/>be able to visit <persName ref="people.xml#pers0515">Sebituane</persName> on
 <lb/><term type="animal">ox</term> back, while <persName>M<hi rend="sup underline">rs</hi> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName> and the
 <lb/>children remained at <placeName><geogName type="lake">Lake Ngami</geogName></placeName>
 <lb/>He yielded - I had a very superior
@@ -757,7 +757,7 @@ had died of the <add place="below">˄</add> <add place="above"><term type="ailme
 <lb break="no"/>-plaint</w> - As nothing is better
 <lb/>in these cases than change of
 <lb/>place I was forced to give up
-<lb/>the hope of seeing <persName>Sebituane</persName>
+<lb/>the hope of seeing <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>that year so leaving my
 <lb/>gun as part payment for 
 <lb/><term type="occupation">guides</term> next year <subst><del type="strikethrough" hand="#U3" rend="red">I left</del><add place="above" hand="#U3" rend="red">we started</add></subst> for
@@ -797,7 +797,7 @@ had died of the <add place="below">˄</add> <add place="above"><term type="ailme
 <lb/>master</p>
 <lb/><space dim="vertical" extent="2" unit="lines"/>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> Foiled in this second attempt
-<lb/>to reach <persName>Sebituane</persName> we returned
+<lb/>to reach <persName ref="people.xml#pers0515">Sebituane</persName> we returned
 <lb/>again to <placeName><settlement type="village">Kolobeng</settlement></placeName>, whither we
 <lb/>were soon followed by a number
 <lb/>of messengers from that <term type="occupation">chief</term>
@@ -806,8 +806,8 @@ had died of the <add place="below">˄</add> <add place="above"><term type="ailme
 <lb/>three detachments of his men
 <lb/>with thirteen brown <term type="animal">cows</term> to
 <lb/><persName>Lechulatebe</persName> - thirteen white <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red"><term type="animal">cows</term></add> to
-<lb/><persName>Sekomi</persName><!-- some evidence of a word beneath 'Sekomi'.JL --> and thirteen black
-<lb/><term type="animal">cows</term> to <persName>Sechele</persName> with <subst><del type="strikethrough" hand="#U3" rend="red">the</del> <add place="inline" hand="#U3" rend="red">a</add></subst>
+    <lb/><persName ref="people.xml#pers0520">Sekomi</persName><!-- some evidence of a word beneath 'Sekomi'.JL --> and thirteen black
+<lb/><term type="animal">cows</term> to <persName ref="people.xml#pers0516">Sechele</persName> with <subst><del type="strikethrough" hand="#U3" rend="red">the</del> <add place="inline" hand="#U3" rend="red">a</add></subst>
 <lb/>request to each to assist
 <lb/>the white men to reach him -
 <lb/>Their policy however was to keep
@@ -824,20 +824,20 @@ had died of the <add place="below">˄</add> <add place="above"><term type="ailme
 <lb/>all the <subst><del type="strikethrough">tribes</del><add place="above">people</add></subst> around the coasts
 <lb/>Before setting out on our third
 <lb/><del type="strikethrough" hand="#U3" rend="red">and successful</del> journey to
-<lb/><persName>Sebituane</persName> - - it was necessary
+<lb/><persName ref="people.xml#pers0515">Sebituane</persName> - - it was necessary
 	
 	
 	<pb facs="liv_000099_0160.jpg" n="0160"/>
 	
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">152</add> <add place="inspace" hand="#U1" rend="gray right">155</add></fw>	
-<lb/>to visit <placeName><settlement type="village">Kuruman</settlement></placeName> and <persName>Sechele</persName>
+<lb/>to visit <placeName><settlement type="village">Kuruman</settlement></placeName> and <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>eager <add place="marginleft"><metamark function="insertion"/>for the sake
 	<lb/>of the commission
 	<lb/>thereon</add>
 to <subst><del type="strikethrough" hand="#U3" rend="red">obtain</del><add place="above" hand="#U3" rend="red">get</add></subst> the ivory of that
 <lb/><term type="occupation">chief</term> into his own hands allowed
 <lb/>all the messengers to leave
-<lb/>before our return - <persName>Sekomi</persName>
+    <lb/>before our return - <persName ref="people.xml#pers0520">Sekomi</persName>
 <lb/>however was more than usually 
 <lb/>gracious and even furnished
 <lb/>us with a <term type="occupation">guide</term> but <subst><del type="cancelled">No</del><add place="above">no</add></subst> one
@@ -998,10 +998,10 @@ on account of the nitrates
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">15<subst><del>7</del><add place="over-text">6</add></subst></add> <add place="inspace" hand="#U1" rend="gray right">159</add></fw>
 <lb/>moisture seems to insure the
 <lb/>deepest hue - <metamark function="newParagraph" rend="red" resp="#U3">ᒥ</metamark>One of these <orgName>Bushmen</orgName>
-<lb/>named <persName>Shobo</persName> consented to be
+    <lb/>named <persName ref="people.xml#pers0533">Shobo</persName> consented to be
 <lb/>our <term type="occupation">guide</term> over the waste
 <lb/>between these springs and the
-<lb/>country of <persName>Sebituane</persName> - <persName>Shobo</persName>
+    <lb/>country of <persName ref="people.xml#pers0515">Sebituane</persName> - <persName ref="people.xml#pers0533">Shobo</persName>
 <lb/>gave us no hope of water <subst><del type="strikethrough" hand="#U3" rend="red">for</del><add place="above" hand="#U3" rend="red">in</add></subst>
 <lb/>less than a month - <del type="strikethrough" hand="#U3" rend="red">We came</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">Providentially,</add> however <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">we came</add> sooner than we
@@ -1018,7 +1018,7 @@ low scrub in deep sand  - <del type="cancelled">We</del>
 <lb/>exception the most uninviting 
 <lb/>prospect I ever beheld, and
 <lb/>to make matters worse our
-<lb/><term type="occupation">Guide</term> <persName>Shobo</persName> wandered on the
+    <lb/><term type="occupation">Guide</term> <persName ref="people.xml#pers0533">Shobo</persName> wandered on the
 <lb/><choice><sic>seon<add place="inline" hand="#U3" rend="red">˄</add><add place="above" hand="#U3" rend="red">d</add>day</sic><corr>second day</corr></choice> - We coaxed him on
 <lb/>at night but he went to all
 <lb/>points of the compass on the
@@ -1027,7 +1027,7 @@ low scrub in deep sand  - <del type="cancelled">We</del>
 <lb/>season</seg>, and then would sit
 <lb/>down in the path &amp; in his
 <lb/>broken <foreign xml:lang="tn">Sichuana</foreign> say - "All water
-<lb/>all country only" <subst><del>-</del><add place="over-text">,</add></subst> "<persName>Shobo</persName> sleeps",
+    <lb/>all country only" <subst><del>-</del><add place="over-text">,</add></subst> "<persName ref="people.xml#pers0533">Shobo</persName> sleeps",
 <lb/>he breaks down "country only"
 <lb/>and then cooly curl himself up
 <lb/>and go to sleep - The <term type="animal">oxen</term>
@@ -1038,7 +1038,7 @@ low scrub in deep sand  - <del type="cancelled">We</del>
 	
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">15<subst><del>8</del><add place="over-text">7</add></subst></add> <add place="inspace" hand="#U1" rend="gray right">160</add> <add place="inspace" hand="#U2" rend="gray right">72</add></fw>	
 <lb/>and on the morning of the fourth
-<lb/>day <persName>Shobo</persName> after professing
+    <lb/>day <persName ref="people.xml#pers0533">Shobo</persName> after professing
 <lb/>ignorance of every thing
 <lb/>vanished altogether - We went
 <lb/>on in the direction in which

@@ -112,20 +112,20 @@
 <lb/>the <placeName><geogName type="mountains"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice></geogName></placeName> mountains
 <lb/>who are perpetually making
 <lb/>forays are identical - Indeed
-<lb/><choice><sic>M<hi rend="sup underline">s</hi>ers</sic><corr>Messrs.</corr></choice> <persName>Hendrick Potgeiter</persName> &amp;
+    <lb/><choice><sic>M<hi rend="sup underline">s</hi>ers</sic><corr>Messrs.</corr></choice> <persName ref="people.xml#pers0481">Hendrick Potgeiter</persName> &amp;
 <lb/><persName>Pretorius</persName> conscientiously
 <lb/>believed themselves to be
 <lb/><w><subst><del>fu</del><add place="over-text">m</add></subst>ore</w> fully entitled to the
 <lb/>name and blessing of
 <lb/>"Peace-makers" than any
 <lb/><term type="occupation">missionary</term> in the country - </p>
-<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> When <persName>Sekeletu</persName> was
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> When <persName ref="people.xml#pers0519">Sekeletu</persName> was
 <lb/>installed <add place="above" rend="red" hand="#U3">in</add> <del type="strikethrough" rend="red" hand="#U3">into</del> the <term target="occupation">chieftainship</term>
 <lb/>he felt his position rather
 <lb/>insecure for it was believed
 <lb/>that the incantations 
 <lb/>of <persName>Mpepe</persName> had an intimate
-<lb/>connection with <persName>Sebituane</persName>'s
+<lb/>connection with <persName ref="people.xml#pers0515">Sebituane</persName>'s
 <lb/>death - Indeed the latter had
 <lb/>said to his son "that hut of
 <lb/>incantation will prove fatal
@@ -150,7 +150,7 @@
 <lb/>of goods were necessary
 <lb/>for the market - " He seemed
 <lb/>much <add place="above" rend="red" hand="#U3">disconcerted</add> <del type="strikethrough" rend="red" hand="#U3">put about</del> by my
-<lb/>presence there - <persName>Sekeletu</persName> <del type="strikethrough" rend="red" hand="#U3">gave</del>
+<lb/>presence there - <persName ref="people.xml#pers0519">Sekeletu</persName> <del type="strikethrough" rend="red" hand="#U3">gave</del>
 <lb/><add place="marginleft" rend="red" hand="#U3">presented him with</add> <del type="strikethrough" rend="red" hand="#U3">him the present of</del> an <term type="animal">ox</term>
     <lb/>and an <choice><sic><term type="animal">elephant</term>s</sic><corr><term type="animal">elephant</term>'s</corr></choice> tusk
 <lb/>and when he <subst><del type="strikethrough" rend="red" hand="#U3">was</del><add place="above" rend="red" hand="#U3">had</add></subst> departed
@@ -210,7 +210,7 @@ reached them
 <lb/>and were told that if I found
 <lb/>them there I <w><subst><del type="strikethrough" rend="red" hand="#U3">w</del><add place="above" rend="red" hand="#U3">sh</add></subst>ould</w> take all
 <lb/>their <orgName>slaves</orgName> and goods from them and though assured
-<lb/>by <persName>Sekeletu</persName> that I was <del type="cancelled">a</del> not
+<lb/>by <persName ref="people.xml#pers0519">Sekeletu</persName> that I was <del type="cancelled">a</del> not
 <lb/><add place="marginleft">a robber but a</add> man of peace they fled
 <lb/><del type="strikethrough" rend="red" hand="#U3">my presence</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above"><retrace hand="#U3" rend="red">by</retrace> night</add> while  <del type="strikethrough" rend="red" hand="#U3">that</del> <add place="inline" rend="red" hand="#U3">I</add>
 <lb/>was still <measure>60 miles</measure> off -                                  
@@ -231,7 +231,7 @@ reached them
 <lb/>unceremoniously introduced
 <lb/>themselves - While <persName>Mpepe</persName>
 <lb/>feeding them with the <term type="animal">cattle</term>
-<lb/>of <persName>Sekeletu</persName> formed a plan
+<lb/>of <persName ref="people.xml#pers0519">Sekeletu</persName> formed a plan
 <lb/>of raising himself by means
 <lb/>of their firearms to <del type="cancelled">the</del> be
 <lb/>the <term type="occupation">head</term> of the <term type="tribe">Makololo</term> -
@@ -248,7 +248,7 @@ reached them
 <lb/>to strike the first blow so he
 <lb/>provided himself with a
 <lb/>small battle axe with the
-<lb/>intention of cutting <persName>Sekeletu</persName>
+<lb/>intention of cutting <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>down the first time they
 <lb/>met - </p>       
         
@@ -261,7 +261,7 @@ reached them
 <lb/>before attempting to make
 <lb/>a new path to either the East
 <lb/>or West coasts - I proposed
-<lb/>to <persName>Sekeletu</persName> the plan of
+<lb/>to <persName ref="people.xml#pers0519">Sekeletu</persName> the plan of
 <lb/>ascending the great river <!-- Zambezi? sh -->
 <lb/>which we had observed
 <lb/>in <date when="1851">185<subst><del>7</del><add place="over-text">1</add></subst></date><!-- the top part of the number '7' is scored out to give '1', sh  --> - He volunteered to
@@ -281,7 +281,7 @@ had
 <lb/>came among them and
 <lb/>imparted the idea of riding -
 <lb/>All their journeys were performed
-<lb/>on foot - - <persName>Sekeletu</persName> and his
+<lb/>on foot - - <persName ref="people.xml#pers0519">Sekeletu</persName> and his
 <lb/>companions were all
 <lb/>mounted on <term type="animal">oxen</term> though
 <lb/>having neither saddle nor
@@ -294,9 +294,9 @@ had
     <lb/>of a mile</measure> distant
     <lb/>from that of <del type="cancelled">o</del></add> 
 our party <del type="strikethrough">but it</del> and when   
-<lb/>he saw <persName>Sekeletu</persName> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">he</add> ran with
+<lb/>he saw <persName ref="people.xml#pers0519">Sekeletu</persName> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">he</add> ran with
 <lb/>all his might towards
-<lb/>us but <persName>Sekeletu</persName> being
+<lb/>us but <persName ref="people.xml#pers0519">Sekeletu</persName> being
 <lb/>on his <choice><sic>gaurd</sic><corr>guard</corr></choice> galloped
        
     
@@ -307,7 +307,7 @@ our party <del type="strikethrough">but it</del> and when
 <lb/>till all our party came up -
 <lb/><persName>Mpepe</persName> had given his own
 <lb/>party to understand that he
-<lb/>would cut down <persName>Sekeletu</persName>
+<lb/>would cut down <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>either on their first meeting
 <lb/>or at <w>the<del type="strikethrough">ir</del></w> breaking up of
 <lb/>their first conference - The
@@ -320,12 +320,12 @@ I happened to sit down
 <lb/>between the two in the hut
 <lb/>where they met - Being tired
 <lb/>with riding all day in
-<lb/>the sun I asked <persName>Sekeletu</persName>
+<lb/>the sun I asked <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>where I should<!-- possible letter beneath 'sh' but it is illegible.JL --> sleep and
 <lb/>he replied "Come I will <choice><orig>shew</orig><reg>show</reg></choice>
 <lb/>you" As we rose together
 <lb/>I unconsciously covered
-<lb/><persName>Sekeletu</persName>'s body with mine
+<lb/><persName ref="people.xml#pers0519">Sekeletu</persName>'s body with mine
 <lb/>and saved him from
 <lb/>the blow of the assassin
 <lb/>I knew nothing but
@@ -334,7 +334,7 @@ I happened to sit down
 <lb/>arms even after we <add place="below" rend="red" hand="#U3">^</add> <subst><del type="strikethrough" rend="red" hand="#U3">were</del><add place="above" rend="red" hand="#U3">had</add></subst>
 <lb/><add place="marginleft" hand="#U3" rend="red">sat</add> <del type="strikethrough" hand="#U3" rend="red">s<subst><del hand="#U3">i</del><add place="over-text" rend="red" hand="#U3">a</add></subst>t</del> down a thing quite
 <lb/>unusual in the presence
-<lb/>of <term type="occupation">chief</term> - And when <persName>Sekeletu</persName>
+<lb/>of <term type="occupation">chief</term> - And when <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/><choice><orig>shewed</orig><reg>showed</reg></choice> me the hut in which
 <lb/>I was to spend the night he
 <lb/>remarked "that man wishes
@@ -345,7 +345,7 @@ I happened to sit down
                 
         <pb facs="liv_000100_0059.jpg" n="0059"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">55</add> <add place="inspace" hand="#U1" rend="gray right">59</add></fw>
-<lb/><add place="marginleft"><del type="strikethrough" hand="#U3" rend="red">by</del></add> his father's instructions <persName>Sekeletu</persName>
+<lb/><add place="marginleft"><del type="strikethrough" hand="#U3" rend="red">by</del></add> his father's instructions <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>put <persName>Mpepe</persName> to death that night
 <lb/>It was managed so quietly
 <lb/><add place="marginleft" rend="red" hand="#U3">that al</add>though <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">I was sleeping</add> <del type="strikethrough" rend="red" hand="#U3">asleep</del> within a few
@@ -549,7 +549,7 @@ I happened to sit down
 <lb/>made to my hands</p>
 <lb/><space dim="vertical" extent="9" unit="lines"/>
 <lb/><p>Soon after our arrival
-<lb/>at <placeName><settlement type="town">Linyanti</settlement></placeName> <persName>Sekeletu</persName> took
+<lb/>at <placeName><settlement type="town">Linyanti</settlement></placeName> <persName ref="people.xml#pers0519">Sekeletu</persName> took
 <lb/>me aside and pressed me
 <lb/>to mention those things I loved
 <lb/>best and hoped to get from
@@ -568,7 +568,7 @@ I happened to sit down
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">61</add> <add place="inspace" hand="#U1" rend="gray right">65</add></fw>
 <lb/>"it might change his heart
 <lb/>and make him content
-<lb/>with one wife <add place="below">^</add> <add place="above">only</add> like <persName>Sechele</persName>"
+<lb/>with one wife <add place="below">^</add> <add place="above">only</add> like <persName ref="people.xml#pers0516">Sechele</persName>"
 <lb/>It was of little use to urge that<!-- p. 185 Missionary, sh -->
 <lb/>the change of heart implied
 <lb/>a contentment <add place="below">^</add> <add place="above">with one wife</add> equal to his
@@ -611,12 +611,12 @@ I happened to sit down
     <lb/>without anything
     <lb/>to eat or drink - </add>
 I liked    
-<lb/>the frankness of <persName>Sekeletu</persName>,
+<lb/>the frankness of <persName ref="people.xml#pers0519">Sekeletu</persName>,
 <lb/>for nothing is so wearing
 <lb/>to the spirit as talking to
 <lb/>those who agree with
 <lb/>everything advanced</p>
-<lb/><p><persName>Sekeletu</persName> according
+<lb/><p><persName ref="people.xml#pers0519">Sekeletu</persName> according
 <lb/>to the system of the <term type="tribe">Bechuanas</term>
 <lb/>became possessor of
 <lb/>his <choice><sic>fathers</sic><corr>father's</corr></choice> wives and
@@ -638,8 +638,8 @@ and the children that may
 <lb/>he calls his brothers <add place="above">also</add> - <del type="cancelled">As
 <lb/>was the</del> He <add place="below">^</add> <add place="above">thus</add> raises up seed
 <lb/>to his departed relative -
-<lb/>An uncle of <persName>Sekeletu</persName> being a
-<lb/>younger brother of <persName>Sebituane</persName>
+<lb/>An uncle of <persName ref="people.xml#pers0519">Sekeletu</persName> being a
+<lb/>younger brother of <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>got that <term type="occupation">chieftain</term>'s <del type="cancelled">chief</del>
 <lb/><add place="marginleft">head</add> <add place="below"><del type="strikethrough" rend="red" hand="#U3">^</del></add> wife - or queen - There is
 <lb/>always one who enjoys
@@ -653,14 +653,14 @@ and the children that may
 <lb/><add place="marginleft">she <subst><del>she</del><add place="over-text">may</add></subst> happen to be</add> a much younger woman
 <lb/>than the rest<supplied cert="high"/>.</p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The majority of the
-<lb/>wives of <persName>Sebituane</persName> were
+<lb/>wives of <persName ref="people.xml#pers0515">Sebituane</persName> were
 <lb/>given to influential <term type="occupation"><w>under
 <lb break="no"/>-chiefs</w></term> and in reference
 <lb/>to their early casting off the
 <lb/><choice><sic>widows</sic><corr>widow's</corr></choice> weeds a song
 <lb/>was sung saying <del type="strikethrough">it was</del>
 <lb/>the men alone felt the loss
-<lb/>of their father <persName>Sebituane</persName> the
+<lb/>of their father <persName ref="people.xml#pers0515">Sebituane</persName> the
 <lb/>women were so soon
 <lb/>supplied with new husbands
 <lb/><add place="marginleft" rend="red" hand="#U3">that</add> their hearts had not time
@@ -679,7 +679,7 @@ and the children that may
 <lb/>who now remain are a
 <lb/>mere fragment of those
 <lb/>who came to the North
-<lb/>with <persName>Sebituane</persName> - Coming
+<lb/>with <persName ref="people.xml#pers0515">Sebituane</persName> - Coming
 <lb/>from a very healthy climate
 <lb/>in the South they were more
 <lb/><add place="marginleft" rend="red" hand="#U3">subject</add> <del type="strikethrough" rend="red" hand="#U3">obnoxious</del> to the <term type="ailment">febrile
@@ -1040,7 +1040,7 @@ were often
 <lb/><p>I proposed to teach
 <lb/>the <term type="tribe">Makololo</term> to read but
 <lb/>for the reasons mentioned
-<lb/><persName>Sekeletu</persName> at<!-- there is a word beneath 'at' but it is illegible.JL --> first declined
+<lb/><persName ref="people.xml#pers0519">Sekeletu</persName> at<!-- there is a word beneath 'at' but it is illegible.JL --> first declined
 <lb/>After some weeks however
 <lb/>his father in law and some
 <lb/>others determined to brave

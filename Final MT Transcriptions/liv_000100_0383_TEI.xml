@@ -103,7 +103,7 @@
 
     <pb facs="liv_000100_0383.jpg" n="0383"/><!-- p319 Missionary, sh -->             
 <lb/><p><fw n="heading_XXXII"><supplied cert="high">X</supplied>XXII <add place="inspace" hand="#U1" rend="gray right">382</add></fw>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Berry</persName></hi></note></add> After crossing the river
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> After crossing the river
 <lb/><placeName><geogName type="river">Lotembwa</geogName></placeName> we travelled about
 <lb/><measure>eight miles</measure> and came to
 <lb/>the straggling town of <persName>Katema</persName>
@@ -195,7 +195,7 @@ He
     <pb facs="liv_000100_0385.jpg" n="0385"/>               
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">384</add></fw>  
 <lb/>When we rose to take leave all
-<lb/>rose with us - as at <persName>Shinte</persName>'s</p>
+    <lb/>rose with us - as at <persName ref="people.xml#pers0532">Shinte</persName>'s</p>
 <lb/>
 <lb/><p>Returning next morning
 <lb/><persName>Katema</persName> addressed me thus
@@ -294,7 +294,7 @@ He
 <lb/>the best of characters, - and
 <lb/>yet his treatment of us was
 <lb/>wonderfully good and liberal</p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Wheeler</persName></hi></note></add> I complimented him
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0568">Wheeler</persName></hi></note></add> I complimented him
 <lb/><add place="marginleft">on the possession</add> <del type="cancelled">on his</del> of <term type="animal">cattle</term> and pleased him
 <lb/>by telling how he might milk
 <lb/>the cows - <del type="cancelled">He has really a
@@ -415,7 +415,7 @@ when young
     <lb/>to see the magic Lantern - <anchor xml:id="meta-204"/></add>
 <lb/><del type="cancelled">or pr</del></p>    
 <lb/><p>One of the affairs which
-<lb/>had been <choice><orig>intrusted</orig><reg>entrusted</reg></choice> by <persName>Shinte</persName>
+    <lb/>had been <choice><orig>intrusted</orig><reg>entrusted</reg></choice> by <persName ref="people.xml#pers0532">Shinte</persName>
 <lb/>to <persName>Ntemese</persName> was the rescue
 <lb/>of a wife of that <term type="occuapation">chief</term> who
 <lb/>had eloped with a young
@@ -547,7 +547,7 @@ when young
 <lb/>anxious to collect men in
 <lb/>great numbers around them
 <lb/>These <term type="tribe">Balobale</term> would not
-<lb/>go though <persName>Shakatwala</persName> ran
+    <lb/>go though <persName ref="people.xml#pers0529">Shakatwala</persName> ran
 <lb/>after some of them with
 <lb/>a drawn sword - This degree
 <lb/>of liberty to rebel was very striking
@@ -685,7 +685,7 @@ is kept in very neatly
     <lb/>who always
     <lb/>take care to
     <lb/>remind us of
-    <lb/><persName>Santuru</persName> remind
+    <lb/><persName ref="people.xml#pers0441">Santuru</persName> remind
     <lb/>us that this
     <lb/><term type="occupation">chief</term> had
     <lb/>many <term type="animal">doves</term>
@@ -942,16 +942,16 @@ is frequently
     <pb facs="liv_000100_0403.jpg" n="0403"/>               
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">402</add></fw></p> 
 <lb/><p><note place="marginleft"><date when="1854-02-21">21<hi rend="sup underline">st</hi></date></note> Immediately beyond <placeName><geogName type="lake">Dilolo</geogName></placeName><!-- p327, Missionary sh -->
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Berry</persName></hi></note></add> there is a large plain of
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> there is a large plain of
 <lb/><add place="marginleft"><note><del type="cancelled">20</del></note></add> about <del type="strikethrough">fifteen</del> <add place="below">^</add> <measure><add place="above">twenty</add> miles</measure> Here
-<lb/><persName>Shakatwala</persName> insisted on our
+    <lb/><persName ref="people.xml#pers0529">Shakatwala</persName> insisted on our
 <lb/>remaining to get supplies
 <lb/>of food from <persName>Katema</persName>'s
 <lb/>subjects before entering
 <lb/>the uninhabited watery
 <lb/>plains - When asked the
 <lb/>meaning of the name <placeName><geogName type="lake">Dilolo</geogName></placeName>
-<lb/><persName>Shakatwala</persName> gave the following
+    <lb/><persName ref="people.xml#pers0529">Shakatwala</persName> gave the following
 <lb/>account of the formation
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>69</note></add> of the Lake - A female
 <lb/><term type="occupation">chief</term> called <foreign xml:lang="bnt">Moene</foreign> (lord)

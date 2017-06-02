@@ -199,7 +199,7 @@
 <lb/>with an order of honour by the <persName><term type="occupation">King</term> of <placeName><country>Portugal</country></placeName></persName>
 <lb/>as an acknowledgement of his services. <space extent="3" unit="chars"/>He had
 <lb/>all the appearance of a true negro but <w><subst><del>w</del><add place="over-text">c</add></subst>ommanded</w>
-    <lb/>the respect of the people and <persName><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> <choice><abbr>P.</abbr><expan>Pires</expan></choice></persName> who had
+    <lb/>the respect of the people and <persName ref="people.xml#pers0478"><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> <choice><abbr>P.</abbr><expan>Pires</expan></choice></persName> who had
 <lb/>known him for thirty years pronounced him to be a
 <lb/>good man <space extent="5" unit="chars"/>There are only three or four
 <lb/><term type="occupation">priests</term> in <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> all men of colour but
@@ -260,7 +260,7 @@ to furnish them with every article in
 <lb/>of a few <orgName>Protestants</orgName> would soon provoke the
 <lb/><term type="occupation">Priests</term>, if not to love, to good works</p>
 <lb/><p><note><date when="1855-01-01">1<hi rend="sup">st</hi> <choice><abbr>Jan<hi rend="sup underline">y</hi></abbr><expan>January</expan></choice> 1855</date>.</note> <space extent="2" unit="chars"/>Having through the kindness of <!-- p428 Missionary Travels, sh -->
-<lb/><persName><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> Pires</persName> reproduced some <choice><abbr>`</abbr><expan>of</expan></choice> my lost papers I
+    <lb/><persName ref="people.xml#pers0478"><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> Pires</persName> reproduced some <choice><abbr>`</abbr><expan>of</expan></choice> my lost papers I
 <lb/>left <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName> the first day <choice><abbr>`</abbr><expan>of</expan></choice> this year<!-- Grave accent seems to be abbrev for 'of', sh -->
 <lb/>and at <placeName><settlement type="village">Candumba</settlement></placeName> slept in one <del type="strikethrough"><choice><abbr>`</abbr><expan>of</expan></choice> his</del>
 <lb/>the dairy establishments of my friend who
@@ -428,7 +428,7 @@ to furnish them with every article in
 <lb/>alluvial <del type="strikethrough">lands</del> beds <choice><abbr>` '</abbr><expan>of the</expan></choice> ancient rivers as far as
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Kuruman</geogName></placeName>. <space extent="3" unit="chars"/>The brackish nature <choice><abbr>` '</abbr><expan>of the</expan></choice> water
 <lb/>probably enables it to exist here,<!-- Description of bird life follows in printed text, bottom p431, sh --> <space extent="2" unit="chars"/>Before we
-<lb/>reached <placeName><settlement type="village">Cassange</settlement></placeName> we were overtaken by <choice><abbr>'</abbr><expan>the</expan></choice> <persName><term type="occupation"><w>Com-
+    <lb/>reached <placeName><settlement type="village">Cassange</settlement></placeName> we were overtaken by <choice><abbr>'</abbr><expan>the</expan></choice> <persName ref="people.xml#pers0275"><term type="occupation"><w>Com-
 <lb break="no"/>mandant</w></term> <foreign xml:lang="pt"><choice><abbr>Sn.</abbr><expan>Senhor</expan></choice></foreign> Carvalho</persName> <add place="below">^</add> <add place="above" hand="#DL" n="DL">who was</add> returning with a
 <lb/>detachment <choice><abbr>`</abbr><expan>of</expan></choice> fifty men and a field
 <lb/>piece from an unsuccessful search after
@@ -436,14 +436,14 @@ to furnish them with every article in
 <lb/>that he could do was to burn their huts, he
 <lb/>kindly invited me to take up my residence
 <lb/><add place="marginleft" rend="gray" hand="#U1" n="U2"><note>(<metamark function="query">?</metamark></note></add> with him but <add place="marginleft"><metamark function="insertion"/>not wishing to pass by the
-    <lb/>gentleman <del type="strikethrough">who had so</del> <persName><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term>
+    <lb/>gentleman <del type="strikethrough">who had so</del> <persName ref="people.xml#pers0450"><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term>
     <lb/>Neves</persName> who had so kindly</add> 
 <del type="strikethrough">I had concluded to return to
-<lb/><choice><abbr>'</abbr><expan>the</expan></choice> hospitable mansion of <choice><abbr>'</abbr><expan>the</expan></choice> Gentleman <persName><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term>
+    <lb/><choice><abbr>'</abbr><expan>the</expan></choice> hospitable mansion of <choice><abbr>'</abbr><expan>the</expan></choice> Gentleman <persName ref="people.xml#pers0450"><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term>
 <lb/>Neves</persName> who had first</del> received me on my <add place="below">^</add> <add place="above">first</add> arrival
-<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Portuguese</term> possessions <add place="above">I declined</add>. <space extent="3" unit="chars"/><persName><foreign xml:lang="pt"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice></foreign> Rego</persName> had
+    <lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Portuguese</term> possessions <add place="above">I declined</add>. <space extent="3" unit="chars"/><persName ref="people.xml#pers0534"><foreign xml:lang="pt"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice></foreign> Rego</persName> had
 <lb/>been superseded in his command, because
-<lb/><choice><abbr>'</abbr><expan>the</expan></choice> <del type="strikethrough">present</del> <persName><term type="occupation"><choice><abbr>Gov<hi rend="sup">r</hi></abbr><expan>Governor</expan></choice></term> <add place="marginleft"><metamark function="insertion"/>Amaral</add></persName> who had come <add place="below">^</add> <add place="above">into office since my departure from</add> <del type="cancelled">to</del> <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> <del type="strikthrough">since 
+    <lb/><choice><abbr>'</abbr><expan>the</expan></choice> <del type="strikethrough">present</del> <persName ref="people.xml#pers0248"><term type="occupation"><choice><abbr>Gov<hi rend="sup">r</hi></abbr><expan>Governor</expan></choice></term> <add place="marginleft"><metamark function="insertion"/>Amaral</add></persName> who had come <add place="below">^</add> <add place="above">into office since my departure from</add> <del type="cancelled">to</del> <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> <del type="strikthrough">since 
 <lb/>my departure from 
 <lb/>my departure</del> had determined that <choice><abbr>'</abbr><expan>the</expan></choice> law
 <lb/>which requires <choice><abbr>'</abbr><expan>the</expan></choice> office <choice><abbr>`</abbr><expan>of</expan></choice> <term type="occupation">Commandant</term> to be
@@ -453,7 +453,7 @@ to furnish them with every article in
 <lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">111</add></fw>
 <lb/>exclusively occupied by <term type="occupation">military officers</term> of <choice><abbr>'</abbr><expan>the</expan></choice> line
 <lb/>should again come into operation. <space extent="2" unit="chars"/>I was again
-<lb/>most kindly welcomed by my friend <persName><term type="occupation"><choice><abbr>Cap<hi rend="sup">t</hi></abbr><expan>Captain</expan></choice></term> Neves</persName>
+    <lb/>most kindly welcomed by my friend <persName ref="people.xml#pers0450"><term type="occupation"><choice><abbr>Cap<hi rend="sup">t</hi></abbr><expan>Captain</expan></choice></term> Neves</persName>
 <lb/>whom I found labouring under a violent <term type="ailment"><choice><sic>inflamation</sic><corr>inflammation</corr></choice></term>
 <lb/>and <term type="ailment">abscess</term> of <choice><abbr>'</abbr><expan>the</expan></choice> hand <space extent="4" unit="chars"/>There is nothing in <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/>situation <choice><abbr>`</abbr><expan>of</expan></choice> this village to indicate unhealthiness
@@ -473,7 +473,7 @@ to furnish them with every article in
 <lb/>leaves when boiled exude a gummy juice
 <lb/><choice><abbr>wh.</abbr><expan>which</expan></choice> effectually shuts out the external air</p>
 <lb/><p>Many <choice><abbr>` '</abbr><expan>of the</expan></choice> children are cut off by <term type="ailment">fever</term>
-<lb/>A fine boy of <persName><term type="occupation"><choice><abbr>Cap<hi rend="sup underline">t</hi></abbr><expan>Captain</expan></choice></term> Neves</persName> had since my passage
+    <lb/>A fine boy of <persName ref="people.xml#pers0450"><term type="occupation"><choice><abbr>Cap<hi rend="sup underline">t</hi></abbr><expan>Captain</expan></choice></term> Neves</persName> had since my passage
 <lb/>westward shared a similar fate <space extent="2" unit="chars"/>Another child
 <lb/>died during the period of my visit <del type="cancelled" hand="#DL" n="DL" rend="black"><del type="cancelled" rend="gray" hand="#DL" n="DL">and <gap extent="1" unit="chars"/> the</del></del>
 <lb/><retrace hand="#DL" n="DL" rend="black"><add place="marginleft" rend="gray" hand="#DL" n="DL">It</add></retrace> <del type="cancelled" hand="#DL" n="DL"><del type="cancelled" rend="gray" hand="#DL" n="DL">third</del></del> being now sick his mother, a woman of colour
@@ -498,7 +498,7 @@ to furnish them with every article in
 <lb/>mercantile transactions concluded that the
 <lb/>merchants <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName> had simply stolen the
 <lb/>dead <choice><sic>mans</sic><corr>man's</corr></choice> goods and that now <choice><abbr>'</abbr><expan>the</expan></choice> spirit was
-<lb/>killing <choice><abbr>'</abbr><expan>the</expan></choice> child <choice><abbr>`</abbr><expan>of</expan></choice> <persName><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Neves</persName> for <choice><abbr>'</abbr><expan>the</expan></choice> part he had
+    <lb/>killing <choice><abbr>'</abbr><expan>the</expan></choice> child <choice><abbr>`</abbr><expan>of</expan></choice> <persName ref="people.xml#pers0450"><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Neves</persName> for <choice><abbr>'</abbr><expan>the</expan></choice> part he had
 <lb/>in the affair. <space extent="3" unit="chars"/>The <term type="occupation">diviner</term> in his response
 <lb/><del type="strikethrough">showed</del> revealed <choice><abbr>'</abbr><expan>the</expan></choice> impression made on his own
 <lb/>mind by <choice><abbr>'</abbr><expan>the</expan></choice> sale and likewise <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>native</orgName> ideas of
@@ -562,7 +562,7 @@ to furnish them with every article in
 <lb/>of being <choice><abbr>'</abbr><expan>the</expan></choice> cause <choice><abbr>`</abbr><expan>of</expan></choice> his <term type="ailment">sickness</term> while we were at
 <lb/><placeName><settlement type="village">Cassange</settlement></placeName> She offered to take <choice><abbr>'</abbr><expan>the</expan></choice> ordeal as <del type="cancelled">they</del>
 <lb/>she had <choice><abbr>'</abbr><expan>the</expan></choice> idea that it would but prove <del type="cancelled">the</del>
-<lb/><add place="marginleft">her conscious</add> innocence <del type="strikethrough">of <choice><abbr>wh.</abbr><expan>which</expan></choice> she was conscious</del> <space extent="3" unit="chars"/><persName><term type="occupation"><choice><abbr>Cap<hi rend="sup">t</hi></abbr><expan>Captain</expan></choice></term> <choice><abbr>N.</abbr><expan>Neves</expan></choice></persName>
+    <lb/><add place="marginleft">her conscious</add> innocence <del type="strikethrough">of <choice><abbr>wh.</abbr><expan>which</expan></choice> she was conscious</del> <space extent="3" unit="chars"/><persName ref="people.xml#pers0450"><term type="occupation"><choice><abbr>Cap<hi rend="sup">t</hi></abbr><expan>Captain</expan></choice></term> <choice><abbr>N.</abbr><expan>Neves</expan></choice></persName>
 <lb/>refused his consent to her going and thus saved
 <lb/>her life <choice><abbr>wh</abbr><expan>which</expan></choice> would have been sacrificed for the
 <lb/>poison is very virulent; when a strong stomach
@@ -643,7 +643,7 @@ among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>t
 <lb/><term type="occupation"><orgName>native</orgName> traders</term> whom they term "<foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign>"
 <lb/>Two of these called in <choice><abbr>'</abbr><expan>the</expan></choice> history of <placeName><country>Angola</country></placeName> "The
 <lb/>trading blacks" (<foreign xml:lang="pt">os feirantes pretos</foreign>) <persName>Pedro
-<lb/>João Baptista</persName>, <del type="cancelled">&amp; A</del> and <persName>Antonio José</persName>
+    <lb/>João Baptista</persName>, <del type="cancelled">&amp; A</del> and <persName ref="people.xml#pers0335">Antonio José</persName>
 <lb/>having been sent by <del type="cancelled">a</del> <add place="above"><choice><abbr>'</abbr><expan>the</expan></choice> first</add> <term type="occupation"><term type="nationality">Portuguese</term> trader</term> <del type="cancelled">who</del>
 <lb/>that lived at <placeName><settlement type="village">Cassenge</settlement></placeName> actually returned
 <lb/>from some <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="nationality">Portuguese</term> possessions <add place="below" hand="#DL" n="DL">^</add> <add place="below" hand="#DL" n="DL">in the East</add> with
@@ -665,7 +665,7 @@ among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>t
     <lb/><subst><del type="cancelled" hand="#DL" n="DL" rend="gray">case</del><add place="above" hand="#U1" n="U2" rend="gray">fact</add></subst>  has lately
     <lb/>been quoted as
     <lb/>if the men had
-    <lb/>been "<term type="people"><hi rend="underline">Portuguese</hi></term>"</add> <space extent="6" unit="chars"/><persName><choice><abbr>Capt</abbr><expan>Captain</expan></choice> Neves</persName> was now
+    <lb/>been "<term type="people"><hi rend="underline">Portuguese</hi></term>"</add> <space extent="6" unit="chars"/><persName ref="people.xml#pers0450"><choice><abbr>Capt</abbr><expan>Captain</expan></choice> Neves</persName> was now
 <lb/>actively engaged in preparing a present worth
 <lb/>about fifty pounds to be sent by <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign> to
 <lb/><persName>Matiamvo</persName> <space extent="2" unit="chars"/>It consisted of great quantities
@@ -681,7 +681,7 @@ among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>t
 <lb/>he was now furnished with a blunderbuss
 <lb/>mounted as a cannon <choice><abbr>wh</abbr><expan>which</expan></choice> will probably please
 <lb/>him as well. <space extent="4" unit="chars"/><del type="strikethrough">A <term type="nationality">Portuguese</term> gentleman</del>
-<lb/><add place="marginleft" hand="#DL" n="DL"><note><persName>Graça</persName></note></add> <del type="strikethrough">named</del> <space extent="3" unit="chars"/><del type="cancelled">A</del> <persName><foreign xml:lang="pt"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice></foreign> Grassa</persName> and some other
+    <lb/><add place="marginleft" hand="#DL" n="DL"><note><persName ref="person.xml#pers0309">Graça</persName></note></add> <del type="strikethrough">named</del> <space extent="3" unit="chars"/><del type="cancelled">A</del> <persName ref="person.xml#pers0309"><foreign xml:lang="pt"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice></foreign> Grassa</persName> and some other
 <lb/><term type="people">Portuguese</term> have visited this <term type="occupation">chief</term> at different
 <lb/>times but no <orgName>European</orgName> resides beyond <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName>
 <lb/>indeed it is contrary to <choice><abbr>'</abbr><expan>the</expan></choice> policy <choice><abbr>` '</abbr><expan>of the</expan></choice> <orgName><choice><abbr>Gov<hi rend="sup">t</hi></abbr><expan>Government</expan></choice> of <placeName><country>Angola</country></placeName></orgName>
@@ -704,7 +704,7 @@ among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>t
 <lb/>them and treat them as rational beings and
 <lb/>generally get on well with them in consequence</p>
 <lb/><p>I have already remarked on the
-<lb/>unhealthiness <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName> <del type="cancelled">a</del>and <persName><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Neves</persName>
+    <lb/>unhealthiness <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName> <del type="cancelled">a</del>and <persName ref="people.xml#pers0450"><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Neves</persName>
 <lb/>who possesses an <del type="strikethrough">enqu</del> observing turn <choice><abbr>`</abbr><expan>of</expan></choice> mind
 <lb/>had remarked that always when <choice><abbr>'</abbr><expan>the</expan></choice> <seg type="weather">west wind
 <lb/>blows</seg> much <term type="ailment">fever</term><!-- possible letter under 'v' but illegible.JL --> immediately follows   
@@ -789,13 +789,13 @@ among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>t
 <lb/>it is recollected that he bore a weight <choice><abbr>`</abbr><expan>of</expan></choice> 256<choice><abbr>lbs</abbr><expan>pounds</expan></choice></p>
 <lb/><p>The ivory <choice><abbr>wh</abbr><expan>which</expan></choice> comes from <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>east &amp; <choice><abbr>N. E.</abbr><expan>North East</expan></choice> <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName></region></placeName>
 <lb/>is very much larger than any to be found further
-<lb/>South <space extent="3" unit="chars"/><del type="strikethrough"><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term></del> <persName><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Neves</persName> had one weighing 120<choice><abbr>lbs</abbr><expan>pounds</expan></choice>
+    <lb/>South <space extent="3" unit="chars"/><del type="strikethrough"><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term></del> <persName ref="people.xml#pers0450"><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Neves</persName> had one weighing 120<choice><abbr>lbs</abbr><expan>pounds</expan></choice>
 <lb/>and this weight is by no means uncommon 
 <lb/>They have been found <add place="below">^</add> <add place="above">weighing</add> even 158<choice><abbr>lbs</abbr><expan>pounds</expan></choice>. <space extent="5" unit="chars"/>Before
 <lb/>reaching <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> we were again brought to a
 <lb/>stand by <term type="ailment">fever</term> in two <choice><abbr>`</abbr><expan>of</expan></choice> my companions close to
 <lb/><subst><del><unclear cert="medium">a</unclear></del><add place="over-text">the</add></subst> residence of a <term type="person">Portuguese</term> who rejoiced in <choice><abbr>'</abbr><expan>the</expan></choice> name <choice><abbr>`</abbr><expan>of</expan></choice>
-<lb/><persName>William Tell</persName> &amp; who lived <add place="above">here</add> <del type="strikethrough">on <choice><abbr>'</abbr><expan>the</expan></choice> banks of <choice><abbr>'</abbr><expan>the</expan></choice> <subst><del>Q</del><add place="over-text">R</add></subst>iver</del>
+    <lb/><persName ref="people.xml#pers0254">William Tell</persName> &amp; who lived <add place="above">here</add> <del type="strikethrough">on <choice><abbr>'</abbr><expan>the</expan></choice> banks of <choice><abbr>'</abbr><expan>the</expan></choice> <subst><del>Q</del><add place="over-text">R</add></subst>iver</del>
 <lb/>in spite <choice><abbr>` '</abbr><expan>of the</expan></choice> prohibition <choice><abbr>` '</abbr><expan>of the</expan></choice> <choice><abbr>Gov<hi rend="sup underline">t</hi></abbr><expan>Government</expan></choice> <del type="strikethrough">the policy being</del></p>
 <lb/><p>We were using <choice><abbr>'</abbr><expan>the</expan></choice> water <choice><abbr>`</abbr><expan>of</expan></choice> a pond and this gentleman
 <lb/>having come to invite me to dinner drank a little
@@ -808,7 +808,7 @@ among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>t
 <lb/>we generally partook of every water we came to
 <lb/>We had probably thus more disease than others 
 <lb/>might suffer who had better shelter</p>
-<lb/><p><persName>Mr Tell</persName> remarked that his garden was
+    <lb/><p><persName ref="people.xml#pers0254">Mr Tell</persName> remarked that his garden was
 <lb/>rather barren being still as he said wild 
 
 
@@ -882,7 +882,7 @@ and look
 <lb/>before <choice><abbr>'</abbr><expan>the</expan></choice> heat <choice><abbr>` '</abbr><expan>of the</expan></choice> day has become intense, form
 <lb/>pictures <choice><abbr>wh</abbr><expan>which</expan></choice> can never be forgotten</p>
 <lb/><p>We are informed that a <term type="occupation">chief</term> named
-<lb/><persName>Gando</persName> living on <choice><abbr>'</abbr><expan>the</expan></choice> other side <choice><abbr>` '</abbr><expan>of the</expan></choice> river ha<del>d</del><add place="over-text">ving</add>
+    <lb/><persName ref="people.xml#pers0306">Gando</persName> living on <choice><abbr>'</abbr><expan>the</expan></choice> other side <choice><abbr>` '</abbr><expan>of the</expan></choice> river ha<del>d</del><add place="over-text">ving</add>
 <lb/>been accused <choice><abbr>`</abbr><expan>of</expan></choice> witchcraft was killed by
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> ordeal and his body thrown into <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName></p>
 <lb/><p>The <term type="occupation">ferrymen</term> demanded 30 <choice><abbr>yds</abbr><expan>yards</expan></choice> <choice><abbr>`</abbr><expan>of</expan></choice> calico
@@ -1009,8 +1009,8 @@ and look
 <lb/>point on both sides <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> and found <del type="cancelled">it</del>
 <lb/>the river running in <measure>9° 50’ <choice><abbr>S Lat.</abbr><expan>South Latitude</expan></choice> <del type="cancelled">in</del> 18° 34’ <choice><abbr>E</abbr><expan>East</expan></choice>
 <lb/>longitude</measure> <space extent="4" unit="chars"/>On proceeding to our former
-<lb/>station near <choice><abbr>'</abbr><expan>the</expan></choice> village of <del type="cancelled"><persName>Sansawe</persName></del>
-<lb/><persName>Sansawe</persName> he ran to meet us with                        
+    <lb/>station near <choice><abbr>'</abbr><expan>the</expan></choice> village of <del type="cancelled"><persName ref="people.xml#pers0510">Sansawe</persName></del>
+    <lb/><persName ref="people.xml#pers0510">Sansawe</persName> he ran to meet us with                        
 
 
 </p>

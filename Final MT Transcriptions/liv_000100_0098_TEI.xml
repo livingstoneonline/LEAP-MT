@@ -101,7 +101,7 @@
                 <pb facs="liv_000100_0098.jpg" n="0098"/>                  
 <lb/><p><fw n="heading_XX">XX - <add place="inspace" hand="#U2" rend="gray left">93</add> <add place="inspace" hand="#U1" rend="gray right">97</add></fw>
 <lb/>It has been already mentioned<!-- p197 Missionary, sh -->
-<lb/>that the tribes which <persName>Sebituane</persName>
+<lb/>that the tribes which <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>subjected in this great country
 <lb/>pass by the general name
 <lb/>of <foreign xml:lang="tn"><orgName>Makalaka</orgName></foreign> - The <term type="tribe">Makololo</term>
@@ -112,7 +112,7 @@
 <lb/><term type="tribe"><orig>Basut<subst><del>a</del><add place="over-text">u</add></subst></orig><reg>Basuto</reg></term> who came <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-163"/><seg corresp="#reorder-65">from
 <lb/> a comparatively cold and
 <lb/>hilly region in the South</seg><anchor xml:id="meta-163"/> with
-<lb/><metamark function="transposition" place="marginleft" resp="#U3" rend="red"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> <persName>Sebituane</persName> <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-65"/> - When he conquered
+<lb/><metamark function="transposition" place="marginleft" resp="#U3" rend="red"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> <persName ref="people.xml#pers0515">Sebituane</persName> <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-65"/> - When he conquered
 <lb/>various tribes of the <term type="tribe">Bechuanas</term>
 <lb/>as <term type="tribe">Bakwains</term> - <term type="tribe">Bangw<del type="strikethrough">e</del>aketze</term>
 <lb/><term type="tribe">Bamangw<del type="strikethrough">e</del>ato</term> - <term type="tribe">Batauana</term> &amp;c
@@ -180,7 +180,7 @@
 <lb/>of the <subst><del><unclear cert="medium">who</unclear></del><add place="over-text">hoes</add></subst> in use at
 <lb/><placeName><settlement type="town">Linyanti</settlement></placeName> are the tribute
  <lb/>imposed on the <term type="occupation">smiths</term></p>
-<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName>Sekeletu</persName> <choice><sic>recieves</sic><corr>receives</corr></choice> tribute
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName ref="people.xml#pers0519">Sekeletu</persName> <choice><sic>recieves</sic><corr>receives</corr></choice> tribute
 <lb/>from a great number
 <lb/>of tribes in <term type="plant_foodstuff">corn</term> or <term type="plant_foodstuff"><choice><orig>dourha</orig><reg>dourra</reg></choice></term><!-- p198, Missionary, sh -->
 <lb/><term type="foodstuff">ground nuts</term> - hoes - spears
@@ -191,7 +191,7 @@
 <lb/>various <term type="foodstuff">wild fruits</term>
 <lb/>dried - prepared skins, and
 <lb/>ivory - When these articles
-<lb/>appear in the <foreign xml:lang="tn">Kotla</foreign> <persName>Sekeletu</persName>
+<lb/>appear in the <foreign xml:lang="tn">Kotla</foreign> <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>has the honour of dividing
 <lb/>them among the loungers<!-- there is a word beneath 'loungers' but it is illegible.JL -->
 <lb/>who usually congregate
@@ -254,7 +254,7 @@
     <lb/>even the old
     <lb/>must turn out
     <lb/>at the call - In
-    <lb/>the time of <persName>Sebituane</persName><!-- p199, Missionary, sh -->
+    <lb/>the time of <persName ref="people.xml#pers0515">Sebituane</persName><!-- p199, Missionary, sh -->
     <lb/>anyone remaining
     <lb/>in his house was
     <lb/>searched for and
@@ -268,17 +268,17 @@
 <lb/>and a song sung in his
 <lb/>town <subst><del>on</del><add place="over-text">in</add></subst> dances which
 <lb/>manifested joy at the death
-<lb/>of <persName>Sebituane</persName> - He had
+<lb/>of <persName ref="people.xml#pers0515">Sebituane</persName> - He had
 <lb/>enjoined his people to live
 <lb/>in peace with those at the
-<lb/>Lake and <persName>Sekeletu</persName> felt
+<lb/>Lake and <persName ref="people.xml#pers0519">Sekeletu</persName> felt
 <lb/>disposed to follow his advice
 <lb/>but <persName>Lechulatebe</persName> had now
 <lb/>got possession of fire arms
 <lb/>and considered himself more
 <lb/>than a match for the <term type="tribe">Makololo</term>
 <lb/>His father had been dispossessed
-<lb/>of many <term type="animal">cattle</term> by <persName>Sebituane</persName>
+<lb/>of many <term type="animal">cattle</term> by <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>and as forgiveness is
 <lb/>not considered among the
 <lb/>virtues by the heathen he
@@ -311,11 +311,11 @@
 <lb/>advising him to give up
 <lb/>the course he had adopted
 <lb/>and especially the song
-<lb/>because though <persName>Sebituane</persName>
+<lb/>because though <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>was dead the arms with
 <lb/>which he had fought were
 <lb/>still alive and strong - </p>
-<lb/><p><persName>Sekeletu</persName> in order to
+<lb/><p><persName ref="people.xml#pers0519">Sekeletu</persName> in order to
 <lb/>follow up his <choice><sic>fathers</sic><corr>father's</corr></choice> instructions
 <lb/>and promote peace sent
 <lb/>ten <term type="animal">cows</term> to be exchanged
@@ -557,7 +557,7 @@
 <lb/>was the limit of the <term type="tribe">Bechuana<del type="strikethrough">s</del></term>
 <lb/><add place="marginleft" hand="#U3" rend="red"><subst><del hand="#DL"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> this word?</note></del>
     <lb/><add place="over-text" hand="#DL">progress</add></subst></add> 
-<hi rend="red underline" resp="#U3"><w>North<del type="cancelled">ing</del></w></hi> too, <choice><sic>untill</sic><corr>until</corr></choice> <persName>Sebituane</persName>
+<hi rend="red underline" resp="#U3"><w>North<del type="cancelled">ing</del></w></hi> too, <choice><sic>untill</sic><corr>until</corr></choice> <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>pushed his conquests farther</p>
 <lb/>
 <lb/><p>2<hi rend="sup">d</hi> The <term type="tribe">Bakoni</term> and
@@ -738,7 +738,7 @@ much to be wondered at
 <lb/>again departed for the
 <lb/>purpose of ascending
 <lb/>the river from <placeName><settlement type="town">Sesheke</settlement></placeName>
-<lb/>in company with <persName>Sekeletu</persName>
+<lb/>in company with <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/><metamark function="ed-mark" place="marginleft" rend="red" resp="#U3">X</metamark> and about <hi rend=" red underline" resp="#U3">160</hi> attendants<!-- metamark in margin identifies the annotation made in text, sh -->
 <lb/>We had most of the young
 <lb/>men with us and many
@@ -836,7 +836,7 @@ with their
 <lb/>red tunics or various
 <lb/>coloured prints which
 <lb/>the <term type="occupation">chief</term> had bought from
-<lb/><persName>Fleming</persName> - <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">the</add> common <add place="inline" rend="red" hand="#U3">men</add>
+    <lb/><persName ref="people.xml#pers0302">Fleming</persName> - <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">the</add> common <add place="inline" rend="red" hand="#U3">men</add>
 
 
     <pb facs="liv_000100_0116.jpg" n="0116"/>
@@ -852,7 +852,7 @@ with their
 <lb/>to be sent of a <measure>hundred
 <lb/>miles</measure> and are expected
 <lb/>to run all the way - </p>
-<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName>Sekeletu</persName> is always
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName ref="people.xml#pers0519">Sekeletu</persName> is always
 <lb/>accompanied by his own
 <lb/><foreign xml:lang="tn"><orgName>Mopato</orgName></foreign> a number of
 <lb/>young men of his own
@@ -873,7 +873,7 @@ with their
 <lb/>starts forward and seizes
 <lb/>the pot - removing it to
 <lb/>his own companions
-<lb/>The comrades of <persName>Sekeletu</persName>
+<lb/>The comrades of <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>wishing to imitate him
 <lb/>in riding on
 

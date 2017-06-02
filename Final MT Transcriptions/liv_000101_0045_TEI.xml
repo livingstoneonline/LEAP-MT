@@ -113,7 +113,7 @@
 <lb/>down to the coast - The
 <lb/>remaining two were sold for
 <lb/>money to purchase a <term type="animal">horse</term>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>60 lines</note></add> for <persName>Sekeletu</persName> at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> - </p>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>60 lines</note></add> for <persName ref="people.xml#pers0519">Sekeletu</persName> at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> - </p>
 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Powell</persName></hi></note></add> The superiority of this new
 <lb/>market was quite astounding
 <lb/>to my companions and
@@ -222,7 +222,7 @@ in order to
 <lb/>buying or selling people - If
 <lb/>I had not refused to take
 <lb/>a <orgName>slave</orgName> when she was offered
-<lb/>to me by <persName>Shinte</persName> - but as
+    <lb/>to me by <persName ref="people.xml#pers0532">Shinte</persName> - but as
 <lb/>I had always behaved as an
 <lb/><add place="marginleft"><term type="nationality">English</term></add> <term type="occupation">teacher</term> if they now doubted
 <lb/>my intentions they had

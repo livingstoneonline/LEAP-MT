@@ -97,7 +97,7 @@
 <lb/>under the <orgName>Boers</orgName> of the <placeName><geogName type="mountains"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice>
 <lb/>mountains</geogName></placeName> I performed twice
 <lb/>a journey of about <measure><subst><del><unclear cert="medium">230</unclear></del><add place="over-text">300</add></subst> <add place="above">300</add> miles</measure>
-<lb/>to the Eastward of <placeName><settlement type="village">Kolobong</settlement></placeName> - <persName>Sechele</persName>
+<lb/>to the Eastward of <placeName><settlement type="village">Kolobong</settlement></placeName> - <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>had become so obnoxious to the
 <lb/><orgName>Boers</orgName> that though anxious to
 <lb/>accompany me in my journey
@@ -127,7 +127,7 @@ On my last
 <lb/>not come himself - Suppose we
 <lb/>went North, would you come?
 <lb/>He <subst><del type="strikethrough">commenced</del><add place="above">then</add></subst> <add place="below">^</add> <del type="strikethrough">and</del> gave
-<lb/>me the story of <persName>Sebituane</persName> saving
+<lb/>me the story of <persName ref="people.xml#pers0515">Sebituane</persName> saving
 <lb/>his life and expatiated
 <lb/>on the far famed generosity of
 <lb/>that really great man - <w>Th<subst><del>e</del><add place="over-text">i</add></subst>s</w>
@@ -147,8 +147,8 @@ and their well known
 
 <pb facs="liv_000099_0093.jpg" n="0093"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">87</add> <add place="inspace" hand="#U1" rend="gray right">90</add></fw>
-<lb/>to <persName>M<hi rend="sup">r</hi> Hendrick Potgeiter</persName> of the danger of
-<lb/>hindering the gospel of Christ among
+	<lb/>to <persName ref="people.xml#pers0481">M<hi rend="sup">r</hi> Hendrick Potgeiter</persName> of the danger of
+	<lb/>hindering the gospel of <persName ref="people.xml#pers0333">Christ</persName> among
 <lb/>these poor savages he became
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">excessively</del><add place="above" hand="#U3" rend="red">greatly</add></subst> excited
     <add place="marginleft"><metamark function="insertion"/>and called on one
@@ -168,7 +168,7 @@ and their well known
 <lb/>so I commenced getting all
 <lb/>the information I could about
 <lb/>the Desert<!-- the Kalahari desert. JL --> with the intention
-<lb/><subst><del type="strikethrough" hand="#U3" rend="red">to</del><add place="above" hand="#U3" rend="red">of</add></subst> cross<add place="inline" hand="#U3" rend="red">ing</add> it if possible: <persName>Sekomi</persName>
+	<lb/><subst><del type="strikethrough" hand="#U3" rend="red">to</del><add place="above" hand="#U3" rend="red">of</add></subst> cross<add place="inline" hand="#U3" rend="red">ing</add> it if possible: <persName ref="people.xml#pers0520">Sekomi</persName>
 <lb/>the <term type="occupation">chief</term> of the <term type="tribe">Bamangwato</term>
 <lb/><add place="marginleft" hand="#U3" rend="red">was acquainted with</add> <del type="strikethrough" hand="#U3" rend="red"><hi rend="red underline" resp="#U3">had</hi></del> a <subst><del type="cancelled">path</del><add place="above">route</add></subst> which he kept
 <lb/>carefully to himself because
@@ -176,14 +176,14 @@ and their well known
 <lb/>in Ivory and he drew large
 <lb/>quantities <subst><del type="cancelled">of it</del><add place="above">thence</add></subst> periodically
 <lb/>at but small cost to himself - 
-<lb/><persName>Sechele</persName> who valued highly
+<lb/><persName ref="people.xml#pers0516">Sechele</persName> who valued highly
 <lb/>everything <orgName>European</orgName> and
 <lb/>was always <del type="strikethrough" hand="#U3" rend="red">quite wide</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">fully alive</add> <del type="strikethrough" hand="#U3" rend="red">awake</del> to his own interest
 <lb/>was naturally anxious to get
 <lb/>a share of that inviting field - 
 <lb/>He was most anxious to
-<lb/>visit <persName>Sebituane</persName> too, partly
+<lb/>visit <persName ref="people.xml#pers0515">Sebituane</persName> too, partly
 <lb/>perhaps from a wish to
 <lb/><choice><orig>shew</orig><reg>show</reg></choice> off his new acquirements
 <lb/>but chiefly I believe from
@@ -194,34 +194,34 @@ and their well known
 
 <pb facs="liv_000099_0094.jpg" n="0094"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">88</add> <add place="inspace" hand="#U1" rend="gray right">91</add></fw>
-<lb/>In age <add place="below">^</add> <add place="above">and family</add> <persName>Sechele</persName> is the elder <add place="below">^</add> <add place="above">and superior</add> of
-<lb/><persName>Sekomi</persName>, <subst><del type="strikethrough">and</del><add place="above">for</add></subst> when the original
+<lb/>In age <add place="below">^</add> <add place="above">and family</add> <persName ref="people.xml#pers0516">Sechele</persName> is the elder <add place="below">^</add> <add place="above">and superior</add> of
+	<lb/><persName ref="people.xml#pers0520">Sekomi</persName>, <subst><del type="strikethrough">and</del><add place="above">for</add></subst> when the original
 <lb/>tribe broke up <add place="marginleft"><metamark function="insertion"/>into <term type="tribe">Bamangwato</term>
     <lb/><term type="tribe">Bangwaketse</term> &amp;
     <lb/><term type="tribe">Bakuena</term></add>
 The <term type="tribe">Bakuena</term>
 <lb/>returned the hereditary <term type="occupation">chieftainship</term>
-<lb/>So their <term type="occupation">chief</term> <persName>Sechele</persName> possesses
-<lb/>certain advantages over <persName>Sekomi</persName>
+<lb/>So their <term type="occupation">chief</term> <persName ref="people.xml#pers0516">Sechele</persName> possesses
+	<lb/>certain advantages over <persName ref="people.xml#pers0520">Sekomi</persName>
 <lb/>the <term type="occupation">chief</term> of the <term type="tribe">Bamangwato</term> - 
-<lb/><add place="marginleft" rend="gray" resp="#U2"><metamark function="ed-mark">[</metamark> <add place="above"><note>33 <unclear cert="medium"><persName><choice><abbr>Coul<hi rend="sup">t</hi>.</abbr><expan>Coulter</expan></choice></persName></unclear></note></add></add> If the two were travelling <add place="marginleft"><metamark function="insertion"/>or hunting</add> together
-<lb/><persName>Sechele</persName> would take by
+	<lb/><add place="marginleft" rend="gray" resp="#U2"><metamark function="ed-mark">[</metamark> <add place="above"><note>33 <unclear cert="medium"><persName ref="people.xml#pers0282"><choice><abbr>Coul<hi rend="sup">t</hi>.</abbr><expan>Coulter</expan></choice></persName></unclear></note></add></add> If the two were travelling <add place="marginleft"><metamark function="insertion"/>or hunting</add> together
+<lb/><persName ref="people.xml#pers0516">Sechele</persName> would take by
 <lb/>right the heads of the game
-<lb/>shot by <persName>Sekomi</persName> - There are
+	<lb/>shot by <persName ref="people.xml#pers0520">Sekomi</persName> - There are
 <lb/><add place="marginleft">several</add> <add place="below">^</add> vestiges <add place="below">^</add> <add place="above">besides</add> of very ancient partitions
 <lb/><add place="marginleft">and lordships</add> <add place="below">^</add> of tribes - <add place="marginleft"><metamark function="insertion"/>The elder brother of
-    <lb/><persName>Sechele</persName>'s father became
+    <lb/><persName ref="people.xml#pers0516">Sechele</persName>'s father became
     <lb/><term type="ailment">blind</term> and he gave
     <lb/>over the <term type="occupation">chieftainship</term>
-    <lb/>to <persName>Sechele</persName>'s father - The
+    <lb/>to <persName ref="people.xml#pers0516">Sechele</persName>'s father - The
     <lb/><choice><sic>descendants</sic><corr>descendents</corr></choice> of this
     <lb/>man pay no tribute
-    <lb/>to <persName>Sechele</persName> and when
+    <lb/>to <persName ref="people.xml#pers0516">Sechele</persName> and when
     <lb/>the <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">latter</add> address<add place="inline" hand="#U3" rend="red">es</add> the head
     <lb/>of the family he
     <lb/>calls him <foreign xml:lang="und">Kosi</foreign>
     <lb/>or <term type="occupation">chief</term> - though
-    <lb/><persName>Sechele</persName> in every other respect is
+    <lb/><persName ref="people.xml#pers0516">Sechele</persName> in every other respect is
     <lb/>the ruler. </add>
 The other tribes for
 <lb/><add place="marginleft">instance <add place="below">^</add></add> <subst><del type="strikethrough" hand="#U3" rend="red">wont</del><add place="above" hand="#U3" rend="red">will not</add></subst> begin to eat the early
@@ -231,21 +231,21 @@ The other tribes for
 <lb/>there is a public ceremony
 <lb/>on the occasion - the son of
 <lb/>the <term type="occupation">chief</term> being the first to taste
-<lb/>of the new harvest - <persName>Sechele</persName>
+<lb/>of the new harvest - <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>by my advice sent men to 
-<lb/><persName>Sekomi</persName> asking leave <add place="below">^</add> <add place="above">for me</add> to
+	<lb/><persName ref="people.xml#pers0520">Sekomi</persName> asking leave <add place="below">^</add> <add place="above">for me</add> to
 <lb/>pass along his path <del type="strikethrough">for me</del>
 <lb/>accompanying the request
 <lb/>with the present of an <term type="animal">ox</term> - 
-<lb/><persName>Sekomi</persName>'s mother who
+	<lb/><persName ref="people.xml#pers0520">Sekomi</persName>'s mother who
 <lb/>possesses great influence
 <lb/>over him refused because
 <lb/>she had not been acknowledged
 <lb/>This produced a fresh message
 <lb/>and the most honourable
-<lb/>man <add place="below">^</add> <add place="above">in the <term type="tribe">Bakwena</term> tribe</add> next to <persName>Sechele</persName> was
+<lb/>man <add place="below">^</add> <add place="above">in the <term type="tribe">Bakwena</term> tribe</add> next to <persName ref="people.xml#pers0516">Sechele</persName> was
 <lb/>sent with an <term type="animal">ox</term> <add place="below">^</add> <add place="above">each</add> for both
-<lb/><del type="strikethrough">himself</del> <persName>Sekomi</persName> &amp; his mother
+	<lb/><del type="strikethrough">himself</del> <persName ref="people.xml#pers0520">Sekomi</persName> &amp; his mother
 <lb/>This too was met by refusal <supplied cert="high">-</supplied> <add place="below" hand="#U3" rend="red">It</add>
 
 <pb facs="liv_000099_0095.jpg" n="0095"/>
@@ -286,12 +286,12 @@ and many attempts
 <lb/>during <subst><del type="strikethrough" hand="#U3" rend="red">our</del><add place="above" hand="#U3" rend="red">the</add></subst> rainless winter</seg> - 
 <lb/>But having communicated
 <lb/>my intention to an <orgName>African</orgName>
-<lb/><term type="occupation">traveller</term> <persName>Colonel Steele</persName> then <term type="occupation"><choice><sic>Aid-de
+	<lb/><term type="occupation">traveller</term> <persName ref="people.xml#pers0544">Colonel Steele</persName> then <term type="occupation"><choice><sic>Aid-de
 <lb/>camp</sic><corr>Aide-de-camp</corr></choice></term> to the <persName>Marquis of <placeName><region>Tweedale</region></placeName></persName>
 <lb/>at <placeName><settlement type="city">Madras</settlement></placeName> he made it known
 <lb/>to <del type="cancelled">our</del><add place="above" hand="#U3" rend="red">two</add> other <add place="above"><del type="strikethrough" hand="#U3" rend="red">two</del> gentlemen</add> <del type="cancelled">friends</del> <w>who<subst><del>m</del><add place="over-text">se</add></subst></w> <del type="cancelled">we</del>
 <lb/><add place="marginleft">friendship we</add> had made <subst><del type="strikethrough">by</del><add place="above">during their</add></subst> <orgName>African</orgName> travel <choice><abbr>viz.</abbr><expan>videlicet</expan></choice>
-<lb/><persName>Captain Vardon</persName> and <persName>M<hi rend="sup underline">r</hi> 
+	<lb/><persName ref="people.xml#pers0557">Captain Vardon</persName> and <persName>M<hi rend="sup underline">r</hi> 
 <lb/><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> - All of these gentlemen
 <lb/>were so enamoured with <orgName>African</orgName>
 <lb/>hunting and <orgName>African</orgName> <subst><del type="cancelled">hunting</del><add place="above">discovery</add></subst>
@@ -311,7 +311,7 @@ and many attempts
 <lb/>knew of his coming <del type="strikethrough" rend="red" hand="#U3">which he</del>
 <lb/><metamark function="deletion" place="marginleft" rend="red" resp="#U3"/> <del type="strikethrough" rend="red" hand="#U3">did by the overland passage</del>
 <lb/>I had arranged that the payment
-<lb/>for <term type="occupation">guides</term> furnished by <persName>Sechele</persName>
+<lb/>for <term type="occupation">guides</term> furnished by <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>should be the loan of my
 <lb/>waggon to bring out whatever
 <lb/>ivory he might obtain from
@@ -325,12 +325,12 @@ and many attempts
 <lb/>presented a good new waggon
 <lb/>to my little boy - though that
 <lb/>which I actually took to the Lake<!-- Lake Ngami. JL -->
-<lb/><add place="marginleft">to perform <choice><sic><persName>Sechele</persName>s</sic><corr><persName>Sechele</persName>'s</corr></choice> work</add> <add place="below">^</add> was ruined by the <subst><del type="strikethrough">work</del><add place="above">journey</add></subst> yet
+<lb/><add place="marginleft">to perform <choice><sic><persName ref="people.xml#pers0516">Sechele</persName>s</sic><corr><persName ref="people.xml#pers0516">Sechele</persName>'s</corr></choice> work</add> <add place="below">^</add> was ruined by the <subst><del type="strikethrough">work</del><add place="above">journey</add></subst> yet
 <lb/>it is plain that the whole of
 <lb/>the expenses of the discovery
 <lb/>of <placeName><geogName type="lake">Lake Ngami</geogName></placeName> were borne
 <lb/>by <del type="strikethrough">the purse</del> of this gentleman - </p>
-<lb/><p><persName>Sechele</persName> himself would have
+<lb/><p><persName ref="people.xml#pers0516">Sechele</persName> himself would have
 <lb/>come but fearing that the much
 <lb/>talked of assault of the <orgName>Boers</orgName>
 <lb/>might take place during our
@@ -344,7 +344,7 @@ and many attempts
 <lb/>"<subst><del>was</del><add place="over-text">would</add></subst> be as determined as himself
 <lb/>to get through the Desert - "<!-- Kalahari Desert. JL --> Their objects
 <lb/>were <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-14"/> totally different <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-36"/><seg corresp="#reorder-14">however</seg><anchor xml:id="meta-36"/> - </p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName><unclear cert="medium">Wilkes</unclear></persName></note></hi></add><!-- proofing editor's name on marginleft? ks --> While waiting at <placeName><settlement type="village">Kolobong</settlement></placeName> for
+				<lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName ref="people.xml#pers0572"><unclear cert="medium">Wilkes</unclear></persName></note></hi></add><!-- proofing editor's name on marginleft? ks --> While waiting at <placeName><settlement type="village">Kolobong</settlement></placeName> for
 <lb/><del type="strikethrough" hand="#U3" rend="red">the company of</del> <persName>M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> I may
 <lb/>give some <subst><del type="strikethrough" hand="#U3" rend="red">notices</del><add place="above" hand="#U3" rend="red">account</add></subst> <add place="below" hand="#U3" rend="red">^</add>  of the great
 <lb/><placeName><geogName type="desert">Kalahari desert</geogName></placeName> that the reader
@@ -466,7 +466,7 @@ and many attempts
 <lb/>tuber to be beneath - They
 <lb/>then dig down <measure>a foot or
 <lb/>so</measure> and find it - </p>
-<lb/><p><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName><unclear cert="medium">Robinson</unclear></persName></note></hi></add><!-- editors name? ks --> <add place="inline" hand="#U3" rend="red">But</add> <del type="strikethrough" hand="#U3" rend="red">Both</del> the most surprising
+				<lb/><p><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName ref="people.xml#pers0497"><unclear cert="medium">Robinson</unclear></persName></note></hi></add><!-- editors name? ks --> <add place="inline" hand="#U3" rend="red">But</add> <del type="strikethrough" hand="#U3" rend="red">Both</del> the most surprising
 <lb/>plant of the desert is the
 <lb/><term type="plant_foodstuff">bitter water melon</term> - In
 <lb/>years when <seg type="weather">more than the
@@ -559,7 +559,7 @@ and many attempts
 <lb/><p>The <term type="tribe">Bakalahari</term> are traditionally
 <lb/><add place="marginleft" rend="red" hand="#U3">reported to be <add place="below">^</add></add> the oldest of the <term type="tribe">Bechuana</term> tribes
 <lb/>and they possessed enormous herds of the large horned <term type="animal">cattle</term>
-<lb/>mentioned by <persName>Bruce</persName> <subst><del type="strikethrough" rend="red" hand="#U3">before</del><add place="above" rend="red" hand="#U3">until</add></subst>
+	<lb/>mentioned by <persName ref="people.xml#pers0269">Bruce</persName> <subst><del type="strikethrough" rend="red" hand="#U3">before</del><add place="above" rend="red" hand="#U3">until</add></subst>
 <lb/>they were despoiled of them and
 <lb/>driven into the desert by a fresh
 <lb/>migration of the their own nation
@@ -641,7 +641,7 @@ locality <subst><del type="strikethrough" hand="#U3" rend="red">does not alone</
             <lb/>know<add place="inline" hand="#U2" rend="gray">n,</add> as I have
             <lb/>often noticed
             <lb/>when they asked
-            <lb/>"if <persName>Victoria</persName> had
+	<lb/>"if <persName ref="people.xml#pers0486">Victoria</persName> had
             <lb/>many <term type="animal">cows</term>"</add>
 The compact they enter into is
 <lb/>mutually beneficial but injustice
@@ -674,7 +674,7 @@ The compact they enter into is
 <lb/>desert may settle the point
 <lb/>whether it is possessed or
 <lb/>not by a poisoned arrow - 
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend=" underline"><persName><unclear cert="low">Carp</unclear></persName></hi></note></add> <metamark function="newParagraph">#</metamark><!-- this is the proofcorrection mark for insert space, but here  signals a new paragraph. --> The dread of visits from <term type="tribe">Bechuanas</term>
+	<lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend=" underline"><persName ref="people.xml#pers0274"><unclear cert="low">Carp</unclear></persName></hi></note></add> <metamark function="newParagraph">#</metamark><!-- this is the proofcorrection mark for insert space, but here  signals a new paragraph. --> The dread of visits from <term type="tribe">Bechuanas</term>
 <lb/>of strange tribes causes the
 <lb/><term type="tribe">Bakalahari</term> to choose their
 <lb/>residences far from water - 
@@ -811,7 +811,7 @@ The compact they enter into is
 <fw> <add place="inspace" hand="#U2" rend="gray center">104</add> <add place="inspace" hand="#U1" rend="gray right">107</add></fw>
 <lb/>over before reaching the
 <lb/> wells <del type="strikethrough" hand="#U3" rend="red">were not commensurate</del>
-<lb/><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName>Wilkes</persName></note></hi></add><!-- presumably the name of one of Murray's editors.JL --> Just before the arrival of
+	<lb/><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName ref="people.xml#pers0572">Wilkes</persName></note></hi></add><!-- presumably the name of one of Murray's editors.JL --> Just before the arrival of
 <lb/>my companions a party 
 <lb/>of the people of the Lake <add place="marginleft"><metamark function="insertion"/>came to <placeName><settlement type="village">Kolobeng</settlement></placeName>
             <lb/>stating that - 
@@ -1041,7 +1041,7 @@ sufficient for <hi rend="red underline" resp="#U3"><term type="animal">oxen</ter
 <lb/><add place="marginleft" hand="#U3" rend="red">supplying</add> <del type="strikethrough" hand="#U3" rend="red">supplied</del> the river<add place="above" hand="#U3" rend="red">'</add>s flow<add place="inline" hand="#U3" rend="red">,</add>
 <lb/>now no longer run above
 <lb/>the surface - </p>
-    <lb/><p><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName><unclear cert="low">Carp</unclear></persName></note></hi></add><!-- same name as on 0107.JL --> Here though the water was
+				<lb/><p><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName ref="people.xml#pers0274"><unclear cert="low">Carp</unclear></persName></note></hi></add><!-- same name as on 0107.JL --> Here though the water was
 <lb/>perfectly inaccessible to
 <lb/><term type="animal">Elands</term> large numbers
 <lb/>of these fine animals fed

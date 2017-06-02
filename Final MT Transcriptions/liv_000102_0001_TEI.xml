@@ -109,7 +109,7 @@
                 <pb facs="liv_000102_0001.jpg" n="0001"/>               
 <!-- Missionary Travels, foot of p366-367, sh -->
                 
-<lb/><p rend="no-indent"><add place="marginleft" hand="#U1" n="U1" rend="gray"><note>1 pp. 366-367</note></add><!-- the number '1' is within a circle, sh --> of the 5<hi rend="sup underline">th</hi> <persName>Cypriano</persName> <anchor corresp="reorder-3"/> supplied  
+                <lb/><p rend="no-indent"><add place="marginleft" hand="#U1" n="U1" rend="gray"><note>1 pp. 366-367</note></add><!-- the number '1' is within a circle, sh --> of the 5<hi rend="sup underline">th</hi> <persName ref="people.xml#pers0244">Cypriano</persName> <anchor corresp="reorder-3"/> supplied  
 <lb/>my men <metamark function="reorder" spanTo="#meta-10"/><seg corresp="#reorder-3">generously</seg><anchor xml:id="meta-10"/> with
 <lb/><term type="plant_foodstuff">pumpkin</term>s and <term type="plant_foodstuff">maize</term>
 <lb/>and then invited me to
@@ -121,7 +121,7 @@
 <lb/>desert - I felt sincerely
 <lb/>grateful for this <del type="strikethrough" hand="#CL" n="CL">glorious</del> <add place="below">^</add> <add place="marginleft" hand="#CL" n="CL">magnificent</add>
 <lb/>breakfast</p>
-<lb/><p>At dinner <persName>Cypriano</persName> was
+                <lb/><p>At dinner <persName ref="people.xml#pers0244">Cypriano</persName> was
 <lb/>equally <subst><del type="strikethrough" hand="#CL" n="CL">successful</del> <add place="marginleft" hand="#CL" n="CL">bountiful</add></subst> and
 <lb/>several of his friends
 <lb/>joined us <del type="strikethrough">at it in</del> doing
@@ -202,7 +202,7 @@
 <lb/>and basket <choice><abbr>`</abbr><expan>of</expan></choice> <term type="foodstuff">meal</term> weighing 20<choice><abbr>lbs</abbr><expan>pounds</expan></choice> was sold for
 <lb/>1 <choice><orig>½</orig><reg>1/2</reg></choice> <choice><abbr>yds</abbr><expan>yards</expan></choice> of very inferior cotton cloth worth not
 <lb/>more than 3 pence An idea <choice><abbr>` '</abbr><expan>of the</expan></choice> cheapness of
-<lb/>food may be formed from <choice><abbr>'</abbr><expan>the</expan></choice> fact that <persName><choice><abbr>Capt</abbr><expan>Captain</expan></choice>
+    <lb/>food may be formed from <choice><abbr>'</abbr><expan>the</expan></choice> fact that <persName ref="people.xml#pers0450"><choice><abbr>Capt</abbr><expan>Captain</expan></choice>
 <lb/>Neves</persName> purchased 380<choice><abbr>lbs</abbr><expan>pounds</expan></choice> <choice><abbr>`</abbr><expan>of</expan></choice> <term type="plant">tobacco</term> from <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Bangalas</term>
 <lb/>for about 2 pounds Sterling This when carried into
 <lb/><placeName><region>Central Londa</region></placeName> might purchase seven thousand
@@ -267,7 +267,7 @@
 <lb break="no"/>script</w> of <persName>D<hi rend="sup">r</hi> <w>Living-
 <lb break="no"/>stone</w></persName>'s <bibl>Travels in
 <lb/><placeName><bloc>Africa</bloc></placeName></bibl> given by the
-<lb/>author to <persName>D<hi rend="sup underline">r</hi> Keith</persName>
+    <lb/>author to <persName ref="people.xml#pers0354">D<hi rend="sup underline">r</hi> Keith</persName>
 <lb/>of <placeName><settlement type="town">Hamilton</settlement></placeName> - </add></p>
                  
         </div>

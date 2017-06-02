@@ -107,7 +107,7 @@
 <lb/>out on the lands on both
 <lb/>banks towards <placeName><settlement type="town">Sesheke</settlement></placeName> - </p>
 <lb/>
-<lb/><p><persName>Santuru</persName> at whose ancient
+                <lb/><p><persName ref="people.xml#pers0441">Santuru</persName> at whose ancient
 <lb/>granary we are staying was
 <lb/>a great <term type="occupation">hunter</term> and <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">was very</add> fond of
 <lb/>taming wild animals - His
@@ -121,13 +121,13 @@
 <lb/>of <term type="foodstuff">milk</term> and <term type="foodstuff">meal</term> - They were
 <lb/>the wonder of the country till
 <lb/>a stranger happening to come
-<lb/>to visit <persName>Santuru</persName> saw <subst><del type="strikethrough" hand="#U3" rend="red">these animals</del><add place="above" hand="#U3" rend="red">them</add></subst>
+                    <lb/>to visit <persName ref="people.xml#pers0441">Santuru</persName> saw <subst><del type="strikethrough" hand="#U3" rend="red">these animals</del><add place="above" hand="#U3" rend="red">them</add></subst>
 <lb/>reclining in the sun and
 <lb/>speared one of them on the
 <lb/>supposition that it was wild 
 <lb/>The same unlucky accident
 <lb/>happened to one of the <term type="animal">catw</term> I had
-<lb/>brought to <persName>Sekeletu</persName> - A stranger
+<lb/>brought to <persName ref="people.xml#pers0519">Sekeletu</persName> - A stranger
 <lb/>seeing an animal he had never
 <lb/>seen before killed it and
 <lb/>brought the trophy to the <term type="occupation">chief</term>
@@ -142,7 +142,7 @@
 <lb/>which from the swarms of <term type="animal">mice</term>
 <lb/>we stood in great need - </p>
 <lb/><p>On making enquiries to ascertain
-<lb/>whether <persName>Santuru</persName> <add place="marginleft"><metamark function="insertion"/><term type="tribe">the Molŭiana</term></add> had ever been
+    <lb/>whether <persName ref="people.xml#pers0441">Santuru</persName> <add place="marginleft"><metamark function="insertion"/><term type="tribe">the Molŭiana</term></add> had ever been
 <lb/>visited by white men I could
 <lb/>find no vestige of any such
 <lb/>visit - The <term type="tribe">Barotse</term> call themselves
@@ -154,7 +154,7 @@
 <lb/>my enquiries referred to the
 <lb/>identity of <placeName><settlement type="town">Naliele</settlement></placeName> with <placeName><region>Lui</region></placeName> but
 <lb/>there is no evidence of any
-<lb/>of <persName>Santuru</persName>'s people having ever
+    <lb/>of <persName ref="people.xml#pers0441">Santuru</persName>'s people having ever
 <lb/>seen a white man before the
 <lb/>arrival of <persName>Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and myself
 <lb/>in <date when="1851">1851</date> - They have it is true
@@ -165,7 +165,7 @@
 <lb/>he traversed - The year of our
 <lb/>arrival is dignified by the name
 <lb/>of the year when the white men
-<lb/>came or of <choice><sic><persName>Sebituane</persName>s</sic><corr><persName>Sebituane</persName>'s</corr></choice> death
+<lb/>came or of <choice><sic><persName ref="people.xml#pers0515">Sebituane</persName>s</sic><corr><persName ref="people.xml#pers0515">Sebituane</persName>'s</corr></choice> death
 <lb/>but they prefer the former as
 <lb/>they avoid if possible any
 <lb/>direct reference to the departed
@@ -178,7 +178,7 @@
         <pb facs="liv_000100_0146.jpg" n="0146"/>                           
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">141</add> <add place="inspace" hand="#U1" rend="gray right">145</add></fw>
 <lb/><choice><sic>Were</sic><corr/></choice> named Gun - <term type="animal">horse</term> - waggon -
-<lb/><add place="marginleft"><persName>Monare</persName> - <add place="below">^</add></add> <persName>Jesus</persName> - &amp;c - but there is not a
+    <lb/><add place="marginleft"><persName>Monare</persName> - <add place="below">^</add></add> <persName ref="people.xml#pers0333">Jesus</persName> - &amp;c - but there is not a
 <lb/>vestige of anything of the sort
 <lb/>among the <term type="tribe">Barotse</term> - The visit
 <lb/>of a white man is such a remarkable
@@ -186,26 +186,26 @@
 <lb/>place during the last three
 <lb/>hundred years there must have
 <lb/>remained some tradition of it - </p><!-- Kate: evidence of oral historical record -->
-<lb/><p>But <persName>Santuru</persName> was once
+                <lb/><p>But <persName ref="people.xml#pers0441">Santuru</persName> was once
 <lb/>visited by the <term type="tribe">Mambari</term> and
 <lb/>the distinct recollection of that
 <lb/>visit is retained - They came
 <lb/>to purchase <orgName>slaves</orgName> and both
-<lb/><persName>Santuru</persName> and his <term type="occuption">headmen</term> refused
+                    <lb/><persName ref="people.xml#pers0441">Santuru</persName> and his <term type="occuption">headmen</term> refused
 <lb/>them permission to buy any of
 <lb/>his people - The <term type="tribe">Makololo</term> quoted
 <lb/>this precedent when speaking
 <lb/>of the <term type="tribe">Mambari</term> and said they
 <lb/>as the present masters of
 <lb/>the country had as good a right
-<lb/>to expel them as <persName>Santuru</persName> - The
+                    <lb/>to expel them as <persName ref="people.xml#pers0441">Santuru</persName> - The
 <lb/><term type="tribe">Mambari</term> reside near <placeName><geogName type="plateau">Bihe</geogName></placeName> under
 <lb/>an <term type="tribe">Ambonda</term> <term type="occupation">chief</term> named
 <lb/><persName><choice><orig>Kangom-be</orig><reg>Kangombe</reg></choice></persName> - they profess to
 <lb/>use the <orgName>slaves</orgName> for domestic
 <lb/>purposes alone - </p>
 <lb/><p>The town <subst><del>of</del><add place="over-text">or</add></subst> mound <subst><del>or</del><add place="over-text">of</add></subst>
-<lb/><persName>Santuru</persName>'s mother was <choice><orig>shewn</orig><reg>shown</reg></choice>
+    <lb/><persName ref="people.xml#pers0441">Santuru</persName>'s mother was <choice><orig>shewn</orig><reg>shown</reg></choice>
 <lb/>to me - this was the first symptom
 <lb/>of an altered state of feeling <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">with regard</add> to
 <lb/>the female sex <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">that</add> I had observed
@@ -225,7 +225,7 @@
 <lb/>on an artificial mound is
 <lb/>covered with different kinds
 <lb/>of trees transplanted when young
-<lb/>by <add place="below">^</add> <add place="marginleft">himself</add> <del type="strikethrough"><persName>Santuru</persName></del> - They form a
+    <lb/>by <add place="below">^</add> <add place="marginleft">himself</add> <del type="strikethrough"><persName ref="people.xml#pers0441">Santuru</persName></del> - They form a
 <lb/>grove on the end of the mound
 <lb/>in which are to be seen various
 <lb/>instruments of iron just in
@@ -250,7 +250,7 @@ were supported by
 <lb/>the example - When I asked
 <lb/><add place="marginleft" hand="#U3" rend="red">them</add> to part with one of these relics
 <lb/>they replied "o no he refuses"
-<lb/>Who refuses? - <persName>Santuru</persName> <add place="marginleft" hand="#U3" rend="red">was their reply <add place="below">^</add></add> - <choice><orig>shewing</orig><reg>showing</reg></choice>
+    <lb/>Who refuses? - <persName ref="people.xml#pers0441">Santuru</persName> <add place="marginleft" hand="#U3" rend="red">was their reply <add place="below">^</add></add> - <choice><orig>shewing</orig><reg>showing</reg></choice>
 <lb/>their belief in a future state
 <lb/>of existence - After explaining
 
@@ -404,7 +404,7 @@ I imagined
 <lb/>to a final conclusion - <placeName><region>Katonga</region></placeName>
 <lb/>was the best place we had
 <lb/>seen but in order to accomplish
-<lb/>a full search I left <persName>Sekeletu</persName>
+<lb/>a full search I left <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>at <placeName><settlement type="town">Nariele</settlement></placeName> and ascended
 <lb/>the river - He furnished me
 <lb/>with <del type="cancelled">canoes</del> men besides my
@@ -723,7 +723,7 @@ The <term type="animal">lions</term> here roar
 <lb/><term type="person">Portuguese</term> had <orgName>European</orgName> hair
 <lb/>and influenced probably by
 <lb/>the letter of <del type="cancelled">co</del>recommendation
-<lb/>which I held from the <persName>Chevalier
+    <lb/>which I held from the <persName ref="people.xml#pers0297">Chevalier
 <lb/>Duprat</persName> <choice><abbr>H- M- F-</abbr><expan>His Most Faithful</expan></choice> <add place="below" rend="gray" hand="#U2">^</add> <add place="marginleft" hand="#U2" rend="gray">Majesty's</add> <term type="occupation">Arbitrator</term> in
 <lb/>the <orgName>British and Portuguese mixed
 <lb/>commission <del type="cancelled">at</del> <placeName><settlement type="town">Cape town</settlement></placeName></orgName>
@@ -742,7 +742,7 @@ The <term type="animal">lions</term> here roar
 <lb/><add place="marginleft" hand="#U3" rend="red">but</add> little from <del type="cancelled">them</del> our short intercourse
 <lb/><metamark function="placeMark" rend="gray" resp="#U2"/> <metamark function="newParagraph">#</metamark> A party of <orgName>Arabs</orgName> from <placeName><geogName type="island">Zanzibar</geogName></placeName>
 <lb/>were also in the country at
-<lb/>this time - <persName>Sekeletu</persName> had gone
+<lb/>this time - <persName ref="people.xml#pers0519">Sekeletu</persName> had gone
 <lb/>from <placeName><settlement type="town">Naliele</settlement></placeName> to the town
 <lb/>of his mother before we
 <lb/>arrived from the North
@@ -818,7 +818,7 @@ The <term type="animal">lions</term> here roar
 <lb/>speaking about our saviour
 <lb/>I admired the boldness with
 <lb/>which they informed me "that
-<lb/><persName>Christ</persName> was a very good
+    <lb/><persName ref="people.xml#pers0333">Christ</persName> was a very good
 <lb/><term type="occupation">prophet</term> but <persName>Mahomet</persName> was
 <lb/>far greater" and with respect
 <lb/>to their loathing of <term type="foodstuff">pork</term> it may
@@ -855,9 +855,9 @@ The <term type="animal">lions</term> here roar
 <lb/>down the <placeName><geogName type="river">Marile</geogName></placeName> till we
 <lb/>re-entered the <placeName><geogName type="river">Leeambye</geogName></placeName> &amp;
 <lb/>went to the town of <placeName><settlement type="town"><persName><w>Ma-
-<lb break="no"/>-sekeletu</w></persName></settlement></placeName> (Mother of <persName>Sekeletu</persName>
+<lb break="no"/>-sekeletu</w></persName></settlement></placeName> (Mother of <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>opposite the island of
-<lb/><placeName><geogName type="island">Loyela</geogName></placeName> - <del type="strikethrough" hand="#U3" rend="red">He</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"><persName>Sekeletu</persName></add> had always
+<lb/><placeName><geogName type="island">Loyela</geogName></placeName> - <del type="strikethrough" hand="#U3" rend="red">He</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"><persName ref="people.xml#pers0519">Sekeletu</persName></add> had always
 <lb/>supplied me most liberally
 <lb/>with food and as soon
 <lb/>as I arrived presented <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">me with</add> a
@@ -895,7 +895,7 @@ customs eat alone he is
 <lb/>advised them to eat like men
 <lb/>and not <subst><del type="strikethrough" hand="#U3" rend="red">as</del><add place="above" hand="#U3" rend="red">like</add></subst> <term type="animal">vultures</term> - </p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> As this was the first
-<lb/>visit which <persName>Sekeletu</persName> had
+<lb/>visit which <persName ref="people.xml#pers0519">Sekeletu</persName> had
 <lb/>paid to his dominions here
 <lb/>it was a season of great
 <lb/>joy - The <term type="occupation">headmen</term> of each
@@ -963,7 +963,7 @@ The arms and
     <pb facs="liv_000100_0164.jpg" n="0164"/>                           
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">159</add> <add place="inspace" hand="#U1" rend="gray right">163</add></fw>
 <lb/>"It is" replied he, "but it is very nice,
-<lb/>and <persName>Sekeletu</persName> will give us an
+<lb/>and <persName ref="people.xml#pers0519">Sekeletu</persName> will give us an
 <lb/><term type="animal">ox</term> for dancing for him" - He
 <lb/>usually does slaughter an <term type="animal">ox</term>
 <lb/>for the dancers when the work
@@ -979,7 +979,7 @@ The arms and
 <lb/>recommend the <term type="tribe">Makololo</term>
 <lb/>Polka to the dancing world
 <lb/>but I have the authority of no
-<lb/><add place="marginleft">less a person than</add> <persName>Motibe</persName>, <add place="above"><del type="cancelled">no</del></add> <persName>Sekeletu</persName>'s father in law
+<lb/><add place="marginleft">less a person than</add> <persName>Motibe</persName>, <add place="above"><del type="cancelled">no</del></add> <persName ref="people.xml#pers0519">Sekeletu</persName>'s father in law
 <lb/>for saying "it is very nice"
 <lb/>They often asked if white
 <lb/>people ever danced <del type="cancelled">I explained</del>
@@ -996,7 +996,7 @@ The arms and
 
         <pb facs="liv_000100_0165.jpg" n="0165"/>                           
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">160</add> <add place="inspace" hand="#U1" rend="gray right">164</add></fw>
-<lb/><p>As <persName>Sekeletu</persName> had been
+<lb/><p>As <persName ref="people.xml#pers0519">Sekeletu</persName> had been
 <lb/>waiting for me at his Mother's
 <lb/>we left <del type="strikethrough" hand="#U3" rend="red">that</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="#U3" rend="red">the</add> town as soon
 <lb/>as I arrived and proceeded

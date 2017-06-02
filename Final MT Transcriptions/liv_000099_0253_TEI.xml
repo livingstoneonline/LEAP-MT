@@ -96,7 +96,7 @@
     
 <pb facs="liv_000099_0253.jpg" n="0253"/>
 <lb/><p rend="no-indent"><note place="marginleft">XI</note> <fw><add place="inspace" hand="#U2" rend="gray center">206</add> <add place="inspace" rend="gray right" hand="#U1">246</add></fw>
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName>Robinson</persName></note></add> It is not the <term type="animal">springbuck</term> alone
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0497">Robinson</persName></note></add> It is not the <term type="animal">springbuck</term> alone
 <lb/>that manifests this feeling - When
 <lb/><term type="animal">oxen</term> are taken into a country
 <lb/>of high grass they are much
@@ -166,7 +166,7 @@
 <lb/>characteristics of both parents<add place="inline" hand="#U3" rend="red">.</add>
 <lb/>They were governed for many
  <lb/>years by an elected <term type="occupation">chief</term>
-<lb/>named <persName>Waterboer</persName> who by
+    <lb/>named <persName ref="people.xml#pers0565">Waterboer</persName> who by
 <lb/>treaty <choice><sic>recieved</sic><corr>received</corr></choice> <del type="cancelled">a salary about
 <lb/>£<gap extent="3" unit="chars"/></del> <add place="marginleft">small sum</add> per annum from the
 <lb/><orgName>Colonial Government</orgName> for
@@ -192,7 +192,7 @@
     <lb/><supplied cert="high">&amp;</supplied> Labours
     <lb/><supplied cert="high">in</supplied> <placeName><region>South Africa</region></placeName></bibl>"</note></add><!-- I've coded this as <region> rather than "country", since DL is really referring to southern Africa. The country doesn't come into being until 1910 with the Union of South Africa).JL -->
 <lb/>But for <del type="strikethrough" hand="#U3" rend="red">this</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="U3" rend="red">that</add> brave <term type="religion">Christian</term>
-<lb/>man <add place="below">^</add> <add place="above" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><persName>Mr Moffat</persName></del></add> <add place="above"><persName>Waterboer</persName></add> there is every human
+    <lb/>man <add place="below">^</add> <add place="above" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><persName>Mr Moffat</persName></del></add> <add place="above"><persName ref="people.xml#pers0565">Waterboer</persName></add> there is every human
 <lb/>probability that the <choice><sic>North</sic><corr/></choice> <del type="cancelled">&amp;</del> -
 <lb/><add place="marginleft"><hi rend="red underline" resp="#U3">North</hi></add> West <del type="cancelled">frontier</del> would have
 <lb/><del type="strikethrough" hand="#U3" rend="red">been as</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">given the <term type="occupation">Colonists</term> as much</add> <w>trouble<del type="cancelled" rend="red">some</del></w> as the
@@ -202,7 +202,7 @@
 <lb/>had as little scruple <subst><del type="strikethrough" hand="#U3" rend="red">at</del><add place="above" hand="#U3" rend="red">about</add></subst> robbing
 <lb/><term type="occupation">farmers</term> of <term type="animal">cattle</term> as has been
 <lb/>ascribed to the <orgName>Caffres</orgName> - On
-<lb/>the election of <persName>Waterboer</persName> to the
+    <lb/>the election of <persName ref="people.xml#pers0565">Waterboer</persName> to the
 <lb/><term type="occupation">chieftainship</term> he distinctly declared
 <lb/><hi rend="underline">that no marauding should
 <lb/>be allowed</hi> - As the government
@@ -289,7 +289,7 @@ for their
 
     <pb facs="liv_000099_0258.jpg" n="0258"/>    
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray">210</add> <add place="inspace" rend="gray right" hand="#U1">250</add></fw>
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName>Wilkes</persName></note></add> If it had been<add place="inline" hand="#U2" rend="gray">,</add> as it probably
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0572">Wilkes</persName></note></add> If it had been<add place="inline" hand="#U2" rend="gray">,</add> as it probably
 <lb/>was necessary to prevent
 <lb/>supplies of ammunition
 <lb/>from finding their way into
@@ -327,7 +327,7 @@ for their
 
     <pb facs="liv_000099_0259.jpg" n="0259"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">211</add> <add place="inspace" rend="gray right" hand="#U1">251</add></fw>
-<lb/><p>The lamented <persName>Sir George
+                <lb/><p>The lamented <persName ref="person.xml#pers0277">Sir George
 <lb/>Cathcart</persName> apparently unconscious
 <lb/>of what he was doing
 <lb/>entered into a treaty with the
@@ -348,7 +348,7 @@ for their
 <lb/>immediately on the <w>proclama<supplied>-</supplied>
 <lb break="no"/>-tion</w> of their <choice><sic>Independance</sic><corr>Independence</corr></choice><add place="inline" hand="#U2" rend="gray">,</add>
 <lb/>a <orgName>Slave</orgName><add place="inline" hand="#U2" rend="gray">-</add>hunt was made
-<lb/>and <persName>M<hi rend="sup underline">r</hi> Peit Scholz</persName> and
+    <lb/>and <persName ref="people.xml#pers0512">M<hi rend="sup underline">r</hi> Peit Scholz</persName> and
 <lb/>the policy which had been
 <lb/>that of their <choice><sic>hearts</sic><corr>hearts'</corr></choice> desire ever
 <lb/>since the emancipation
@@ -372,7 +372,7 @@ for their
 <lb/>been committed by a man
 <lb/>of local knowledge and
 <lb/>experience as that noble of
-<lb/>colonial birth <persName>Sir Andries
+                    <lb/>colonial birth <persName ref="person.xml#pers0545">Sir Andries
 <lb/>Stockenstrom</persName>, and such
 <lb/>instances of jumbling
 <lb/>friend and foe in the
@@ -438,7 +438,7 @@ for their
 
 <pb facs="liv_000099_0262.jpg" n="0262"/>    
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">214</add> <add place="inspace" rend="gray right" hand="#U1">254</add></fw>
-<lb/><add place="marginleft"><seg rend="vertical"><note><hi rend="underline"><persName>Cross</persName></hi></note></seg></add> We can not fairly compare
+    <lb/><add place="marginleft"><seg rend="vertical"><note><hi rend="underline"><persName ref="people.xml#pers0284">Cross</persName></hi></note></seg></add> We can not fairly compare
 <lb/>these poor people with <w>our-
 <lb break="no"/>-selves</w> who have an atmosphere
 <lb/>of <term type="faith">Christianity</term> and enlightened
@@ -483,7 +483,7 @@ for their
 <lb/>But what do we gain by
 <lb/>the <orgName><subst><del>C</del><add place="over-text">K</add></subst>affir</orgName> war into which
 <lb/>we were plunged by scouting
-<lb/>the <persName>Glenelg</persName> policy - It cost
+    <lb/>the <persName ref="people.xml#pers0310">Glenelg</persName> policy - It cost
 <lb/>us upwards of £2,000,000
 <lb/>and the only thing we have
 <lb/>to show for the money
@@ -602,7 +602,7 @@ for their
 <lb/>they are really <add place="above">true</add> believers" - This
 <lb/>testimony may be considered as
 <lb/>about correct - <del type="cancelled">The</del></p>
-<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName>Wilkes</persName></hi></note></add> There is not much prospect 
+                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0572">Wilkes</persName></hi></note></add> There is not much prospect 
 <lb/>of this country ever producing
 <lb/>much of the materials of
 
@@ -662,7 +662,7 @@ It was in vain
 <lb/><add place="marginleft">or</add> superiority <del type="strikethrough">with</del><add place="above" hand="#U3" rend="red">over</add> <del type="cancelled" hand="#U3" rend="red">the</del> the workman
 <lb/><space dim="vertical" extent="3" unit="lines"/></p>
 <lb/><p><metamark function="placeMark" place="marginleft" resp="#U2" rend="gray"/>
-<lb/><add place="inline" hand="#U2" rend="gray"><note><persName>Wilkes</persName></note></add></p> 
+    <lb/><add place="inline" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0572">Wilkes</persName></note></add></p> 
 <lb/><p>The permanence of the station
 <lb/>called <placeName><settlement type="village">Kuruman</settlement></placeName> depends entirely
 <lb/>on the fine ever flowing
@@ -818,7 +818,7 @@ growing in
 <lb/>would in several <del type="strikethrough" hand="#U3" rend="red">parts</del> <add place="inline" hand="#U3" rend="red">places</add>
 <lb/>perform the part which these
 <lb/>deep cuttings now <del type="strikethrough" hand="#U3" rend="red">answer</del> <add place="inline" hand="#U3" rend="red">do.</add>
-<lb/><add place="inline" hand="#U2" rend="gray"><hi rend="underline"><note><persName>Robinson</persName></note></hi></add></p> 
+    <lb/><add place="inline" hand="#U2" rend="gray"><hi rend="underline"><note><persName ref="people.xml#pers0497">Robinson</persName></note></hi></add></p> 
 <lb/><p>The aspect of this part of
 <lb/>the country <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-89"/>during most
     <lb/>of the year <add place="below" hand="#U3" rend="red">^</add><anchor xml:id="meta-89"/></add>
@@ -1051,7 +1051,7 @@ In my own
 <lb/>referred to for explanation
 <lb/>of any uncommon word. 
 <lb/>One such acting as <term type="occupation">interpreter</term>
-<lb/>to <persName>Sir George Cathcart</persName> actually
+    <lb/>to <persName ref="person.xml#pers0277">Sir George Cathcart</persName> actually
 <lb/>told his <subst><del type="cancelled">employer</del><add place="above">Excellency</add></subst> that the language
 <lb/>of the <term type="tribe"><choice><orig>Basutas</orig><reg>Basutos</reg></choice></term> was not capable
 <lb/>of expressing the substance of a
@@ -1091,7 +1091,7 @@ In my own
 <lb/>It would certainly be no cause
 <lb/>for <add place="below" hand="#U3" rend="red">^</add> <w><add place="above" hand="#U3" rend="red">con</add>gratulation</w> if the <bibl><choice><orig>Sichuana</orig><reg>Setswana</reg></choice>
 <lb/>Bible</bibl> seemed at all likely to
-<lb/>meet the fate of <bibl><persName>Elliot</persName>'s Choctaw
+    <lb/>meet the fate of <bibl><persName ref="people.xml#pers0298">Elliot</persName>'s Choctaw
 <lb/>version</bibl> a specimen of which
 <lb/>may be seen in the library of
 <lb/>one of the <term type="nationality">American</term> colleges

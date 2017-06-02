@@ -231,7 +231,7 @@
 <lb/>of colour - <del type="strikethrough">If you compare
 <lb/>the dialects</del> If the dialects
 <lb/>spoken in the extreme
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName><unclear cert="medium">Thorns</unclear></persName></note> 
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0551"><unclear cert="medium">Thorns</unclear></persName></note> 
     <lb/><note><unclear cert="medium">255</unclear></note></add>
 South <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- square bracket connects to the marginal number.JL -->whether <orgName>Hottentot</orgName>
 <lb/>or <orgName><subst><del>K</del><add place="over-text">C</add></subst>affre</orgName> <del type="cancelled">they will be
@@ -266,7 +266,7 @@ South <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- squar
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>29</note></add> <del type="cancelled">glide in</del> <subst><del type="cancelled">melt</del><add place="below">merge</add></subst> into each
 <lb/> other</p>
 <lb/><space dim="vertical" extent="2" unit="lines"/>      
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><persName>Chester</persName></hi></add> <note place="inline"><date when="1854-03-04">4<hi rend="sup underline">th</hi> March</date></note> Having reached the village
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><persName ref="people.xml#pers0278">Chester</persName></hi></add> <note place="inline"><date when="1854-03-04">4<hi rend="sup underline">th</hi> March</date></note> Having reached the village
 <lb/>of <persName>Njambi</persName> one of the <term type="occupation">chiefs</term>
 <lb/>of the <term type="tribe">Chiboque</term> <del type="cancelled">or as the
 <lb/><term type="nationality">Portuguese</term></del> <w>we<del type="cancelled">n</del></w> intended
@@ -493,7 +493,7 @@ South <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- squar
 <lb/>of blood and though sure of
 <lb/>being able with my <term type="tribe">Makololo</term>
 <lb/>who had been drilled by
-<lb/><persName>Sebituane</persName> to drive off twice
+<lb/><persName ref="people.xml#pers0515">Sebituane</persName> to drive off twice
 <lb/>the number of our assailants
 <lb/>though now a large body
 <lb/>and well armed with both
@@ -600,7 +600,7 @@ We would not
 <lb/>to be allowed to pass
 <lb/>on without having shed
 <lb/>human blood - </p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Dennett</persName></hi></note></add> In the midst of the
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0290">Dennett</persName></hi></note></add> In the midst of the
 <lb/>commotion several <term type="tribe">Chiboque</term>
 <lb/>stole pieces of <term type="foodstuff">meat</term> out
 <lb/>of the sheds of my people,
@@ -621,7 +621,7 @@ We would not
 <lb/><del type="strikethrough"><add place="marginleft">they</add></del> excited my admiration<add place="inline" hand="#U2" rend="gray">;</add>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>37</note></add> They lamented having left
 <lb/>their shields at home
-<lb/>by command of <persName>Sekeletu</persName><add place="inline" rend="gray" hand="#U2">,</add>
+<lb/>by command of <persName ref="people.xml#pers0519">Sekeletu</persName><add place="inline" rend="gray" hand="#U2">,</add>
 <lb/><add place="marginleft">who</add> <del type="cancelled">He</del> feared that if they
 <lb/><del type="strikethrough">had</del> carried these they
 <lb/><add place="marginleft">might</add> <del type="strikethrough">would</del> be more disposed
@@ -732,7 +732,7 @@ We would not
 <lb/>violent fit of <term type="ailment">fever</term><add place="inline" rend="gray" hand="#U2">;</add> The 
 <lb/>continuance of this attack
 <lb/>was a source of much
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>Goodby</note></add> regret<add place="inline" rend="gray" hand="#U2">,</add> for we went <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- square bracket connects to marginal number.JL --><hi rend="gray underline" resp="#U2">on</hi>
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0308">Goodby</persName></note></add> regret<add place="inline" rend="gray" hand="#U2">,</add> for we went <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- square bracket connects to marginal number.JL --><hi rend="gray underline" resp="#U2">on</hi>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>40</note></add> next day to a small
 <lb/>rivulet called <placeName><geogName type="rivulet">Chihuné</geogName></placeName>
 <lb/>in a lovely valley<add place="inline" rend="gray" hand="#U2">,</add> and
@@ -793,7 +793,7 @@ We would not
 <lb/>proceed beyond <placeName><geogName type="rivulet">Chihune</geogName></placeName>
 <lb/>our <term type="occupation">guides</term> wandered away
 <lb/>to the Westward again</del></p>             
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Goodby</persName></hi></note></add> As we have a 
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0308">Goodby</persName></hi></note></add> As we have a 
 <lb/>succession of open lawns
 <lb/>and deep forests it is
 <lb/>interesting to observe
@@ -922,7 +922,7 @@ so he could do no
 
     <pb facs="liv_000100_0451.jpg" n="0451"/>
 <lb/><p rend="no-indent"><fw><add place="inspace" hand="#U1" rend="gray right">450</add></fw>  
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Robinson</persName></hi></note></add> A remarkable peculiarity in the
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0497">Robinson</persName></hi></note></add> A remarkable peculiarity in the
 <lb/>forests of this country is the
 <lb/>absence of thorns - There
 <lb/>are but two exceptions

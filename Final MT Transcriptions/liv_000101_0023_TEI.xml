@@ -215,7 +215,7 @@ and <del type="strikethrough">have</del> obtain
 <lb/>in spite of these people <metamark function="reorder" spanTo="#meta-216"/><seg corresp="#reorder-92">to
 <lb/>the bank</seg><anchor xml:id="meta-216"/> a young half 
 <lb/><add place="marginleft">breed</add> <del type="strikethrough">blood</del> <term type="nationality">Portuguese</term> <term type="occupation">sergeant</term>
-<lb/>of militia, <persName>Cypriano di
+    <lb/>of militia, <persName ref="people.xml#pers0244">Cypriano di
 <lb/>Abreu</persName> made his appearance
 <lb/>and gave the same advice
 <lb/>He had come across the 
@@ -245,7 +245,7 @@ and <del type="strikethrough">have</del> obtain
 <lb/>quietly to the ford they
 <lb/>proceeded no farther
 <lb/>than our sleeping place.</p>
-<lb/><p><persName>Cypriano</persName> assisted us
+                <lb/><p><persName ref="people.xml#pers0244">Cypriano</persName> assisted us
 <lb/>in making a more satisfactory
 <lb/>arrangement with the <term type="occupation">ferrymen</term>
 <lb/>than parting with my 
@@ -278,7 +278,7 @@ and happily
     <pb facs="liv_000101_0027.jpg" n="0027"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">26</add></fw>
 <lb/>enrolled in the <orgName>Militia</orgName> and
-<lb/>our friend <persName>Cypriano</persName> is 
+    <lb/>our friend <persName ref="people.xml#pers0244">Cypriano</persName> is 
 <lb/>the <term type="occupation">commander</term> of a
 <lb/>division established here -
 <lb/>The <term type="tribe">Bangala</term> were very
@@ -302,7 +302,7 @@ and happily
 <lb/>by the <orgName>Government</orgName></p>
 <lb/>
 <lb/><p>We came to the dwelling
-<lb/>of <persName>Cypriano</persName> after <del type="cancelled">it was</del>
+    <lb/>of <persName ref="people.xml#pers0244">Cypriano</persName> after <del type="cancelled">it was</del>
 <lb/>dark and I pitched my
 <lb/>little tent in front of it
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>27</note></add> for the night - We had
@@ -323,16 +323,16 @@ and happily
 <lb/><choice><abbr>viz</abbr><expan>videlicet</expan></choice> - "one who takes care of the
 <lb/>conscience"- They had also
 <lb/>a few <bibl>tracts containing the
-<lb/>lives of the saints</bibl> and <persName>Cypriano</persName>
+    <lb/>lives of the saints</bibl> and <persName ref="people.xml#pers0244">Cypriano</persName>
 <lb/>had a few small images
 <lb/>of saints in wax in his room
-<lb/>One of these was <persName><choice><orig>St Ant<add place="below">^</add><add place="above">h</add>ony</orig><reg>St Anthony</reg></choice></persName>
+    <lb/>One of these was <persName ref="people.xml#pers0502"><choice><orig>St Ant<add place="below">^</add><add place="above">h</add>ony</orig><reg>St Anthony</reg></choice></persName>
 <lb/><del type="cancelled">and a</del> who had he endured
 <lb/>the privations he did in
 <lb/>his cell in looking after
 <lb/>these lost sheep would
 <lb/>have lived to better purpose
-<lb/>Neither <persName>Cypriano</persName> nor
+    <lb/>Neither <persName ref="people.xml#pers0244">Cypriano</persName> nor
 <lb/>his companions knew
 <lb/>what the <bibl><subst><del>b</del><add place="over-text">B</add></subst>ible</bibl> was <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-217"/>but they had
     <lb/>relics in <term type="nationality"><choice><sic>german</sic><corr>German</corr></choice></term>
@@ -371,10 +371,10 @@ than
 <lb/>us here was no doubt owing
 <lb/>to the flattering letters of
 <lb/>recommendation I carried
-<lb/>from the <persName>Chevalier Du Prat</persName>
+    <lb/>from the <persName ref="people.xml#pers0297">Chevalier Du Prat</persName>
 <lb/>of <placeName><geogName type="city"><choice><orig>Cape <del type="cancelled">t</del><add place="below">^</add><add place="marginleft">T<metamark function="subst">/</metamark></add>own</orig><reg>Cape Town</reg></choice></geogName></placeName> but I am
 <lb/>inclined to believe that <add place="inline">my</add>
-<lb/><add place="marginleft">friend</add> <persName>Cypriano</persName> was influenced
+    <lb/><add place="marginleft">friend</add> <persName ref="people.xml#pers0244">Cypriano</persName> was influenced
 <lb/>too by feelings of genuine
 <lb/>kindness for he quite
 <lb/>bared his garden in
@@ -425,7 +425,7 @@ The <term type="foodstuff">farina</term>
 <lb/>have become accustomed
 <lb/>to it relish it even after
 <lb/>they have returned to <placeName><bloc>Europe</bloc></placeName></p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName><unclear cert="medium"><choice><abbr>Den.tt.</abbr><expan>Dennett</expan></choice></unclear></persName></hi></note></add> The <term type="plant_foodstuff">manioc</term> cultivated here 
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0290"><unclear cert="medium"><choice><abbr>Den.tt.</abbr><expan>Dennett</expan></choice></unclear></persName></hi></note></add> The <term type="plant_foodstuff">manioc</term> cultivated here 
 <lb/>is of the sweet variety 
 <lb/>The bitter with which <w>we<del type="cancelled">re</del></w>
 <lb/><add place="marginleft">were</add> <del type="cancelled">are</del> accustomed in <placeName><region>Londa</region></placeName><add place="inline" rend="gray" hand="#U2">,</add>
@@ -500,11 +500,11 @@ The <term type="foodstuff">farina</term>
 <lb/>in order to obtain the
 <lb/>shelter and food of a
 <lb/>prison<add place="inline" hand="#U2" rend="gray">,</add> I gladly accompanied
-<lb/><add place="marginleft"><note><persName>Senhor de
+    <lb/><add place="marginleft"><note><persName ref="people.xml#pers0534">Senhor de
     <lb/>Silva Rego</persName></note></add>
 him to the house of the
 <lb/><term type="occupation">Commandant</term> or <foreign xml:lang="pt"><term type="occupation">Chefe</term></foreign>
-<lb/><persName><add place="marginleft">Senhor de</add> Silva Rego</persName> - Having <choice><orig>shewn</orig><reg>shown</reg></choice>
+    <lb/><persName ref="people.xml#pers0534"><add place="marginleft">Senhor de</add> Silva Rego</persName> - Having <choice><orig>shewn</orig><reg>shown</reg></choice>
 <lb/>my passport to this gentlemen
 <lb/>he politely asked me to
 <lb/>supper<add place="inline" rend="gray" hand="#U2">,</add> <del type="cancelled">with him</del> and as
@@ -512,7 +512,7 @@ him to the house of the
     <lb/>except the 
     <lb/><del type="cancelled"><term type="foodstuff">farina</term></del></add> 
 <del type="cancelled"><add place="above">eaten nothing but</add> only the</del> <term type="foodstuff"><choice><orig>farin<subst><del>h</del><add place="over-text">a</add></subst></orig><reg>farina</reg></choice></term>
-<lb/><del type="cancelled">only</del> of <persName>Cypriano</persName> from the
+    <lb/><del type="cancelled">only</del> of <persName ref="people.xml#pers0244">Cypriano</persName> from the
 <lb/><placeName><geogName type="river">Quango</geogName></placeName> to this, I suspect
 <lb/>I appeared particularly
 <lb/>ravenous to the other
@@ -529,7 +529,7 @@ him to the house of the
 <lb/>appetite is excessively
 <lb/><add place="marginleft" hand="#U2" rend="gray right"><note>34</note></add> keen<add place="inline" rend="gray" hand="#U2">,</add> - and <term type="plant_foodstuff">manioc</term> is
 <lb/>one of the most unsatisfying
-<lb/>kinds of food - <persName><term type="occupation">Captain</term>
+    <lb/>kinds of food - <persName ref="people.xml#pers0450"><term type="occupation">Captain</term>
 <lb/>Antonio Rodrigues Neves</persName>
 <lb/>then <add place= "below">˄</add> <add place="above">kindly</add> invited me to take
 <lb/>up my abode in his
@@ -646,7 +646,7 @@ him to the house of the
 <lb/>I passed among them
 <lb/>they <del type="strikethrough">seem</del> are generally
 <lb/>prosperous - </p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Wheeler</persName></hi></note></add> As I always preferred
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0568">Wheeler</persName></hi></note></add> As I always preferred
 <lb/>to appear in my own
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>37</note></add> proper character I was
 <lb/>an object of <w>the<del type="strikethrough">ir</del></w> curiosity
@@ -758,7 +758,7 @@ made visits
 <lb/>hoisted and trumpets
 <lb/>sounded as an expression 
 <lb/>of joy at the resurrection
-<lb/>of our Lord - <persName>Captain
+    <lb/>of our Lord - <persName ref="people.xml#pers0450">Captain
 <lb/>Neves</persName> invited all the
 <lb/><w>principal<del type="cancelled"><unclear cert="low">it</unclear></del></w> inhabitants
 <lb/>of the place, and <del type="cancelled">he</del>
@@ -903,7 +903,7 @@ were
 <lb/>remarkable that more accurate
 <lb/>information <metamark function="insertion"/><anchor xml:id="reorder-97"/> has not been
 <lb/><add place="marginleft">published</add> <del type="strikethrough">given</del> <metamark function="reorder" spanTo="#meta-225"/><seg corresp="#reorder-97">about this country</seg><anchor xml:id="meta-225"/>,
-<lb/><del type="cancelled">for</del> <persName>Captain Neves</persName> &amp; others
+    <lb/><del type="cancelled">for</del> <persName ref="people.xml#pers0450">Captain Neves</persName> &amp; others
 <lb/>had <w>a<del type="cancelled">n</del></w> <del type="strikethrough">accurate</del> <add place="below">^</add> <add place="above">correct</add> idea of
 <lb/>the courses <subst><del>the</del><add place="over-text">of</add></subst> the rivers and
 <lb/>communicated their knowledge
@@ -927,13 +927,13 @@ were
 <lb/>that <del type="cancelled">to</del> which drains
 <lb/>this valley - The <choice><sic>repitition</sic><corr>repetition</corr></choice>
 <lb/>of the <add place="below">^</add> <add place="above">favourite</add> names of <term type="occupation">chiefs</term> <add place="below" rend="gray" hand="#U2">^</add> <add place="above" rend="gray" hand="#U2">as <persName>Catendé</persName></add> is
-<lb/>also perplexing one <persName>Catende</persName>
+    <lb/>also perplexing one <persName ref="people.xml#pers0276">Catende</persName>
 <lb/><metamark function="unknown" place="marginleft" rend="gray" resp="#U2"/> <del type="strikethrough" rend="gray" hand="#U2">for instance</del> may be <add place="inline" rend="gray" hand="#U2">...</add>
 <lb/>mistaken <del type="cancelled">for another</del>
 <lb/><metamark function="let-stand" spanTo="#meta-226"/><del type="cancelled">for another</del><anchor xml:id="meta-226"/> <del type="cancelled">as readily as</del>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><subst><del type="cancelled" hand="#U2">one</del><add place="above" rend="gray" hand="#U2">20</add></subst> <persName>Donal MacDonalds</persName> <unclear cert="medium">is</unclear>
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><subst><del type="cancelled" hand="#U2">one</del><add place="above" rend="gray" hand="#U2">20</add></subst> <persName ref="people.xml#pers0295">Donal MacDonald</persName> <unclear cert="medium">is</unclear>
     <lb/>the <add place="below">^</add> <add place="above"><unclear corresp="low">same</unclear></add> <term type="occupation">Highland <unclear cert="high">Regent</unclear></term></add>
-<del type="cancelled">our two <persName>Sir Charles Napier</persName><add place="below">s</add>
+    <del type="cancelled">our two <persName ref="person.xml#pers0447">Sir Charles Napier</persName><add place="below">s</add>
 <lb/>for each other - </del> To avoid
 <lb/>this confusion as much
 <lb/>as possible I have refrained
@@ -1000,7 +1000,7 @@ were
 <lb/>were the first white
 <lb/>men we had come to
 <lb/>we sold the tusks belonging
-<lb/>to <persName>Sekeletu</persName> which <del type="strikethrough">we</del>
+<lb/>to <persName ref="people.xml#pers0519">Sekeletu</persName> which <del type="strikethrough">we</del>
 <lb/>had <add place="inline">been</add> brought to test
 <lb/>the difference of prices
 <lb/><del type="strikethrough">between</del> in the <term type="tribe">Makololo</term>

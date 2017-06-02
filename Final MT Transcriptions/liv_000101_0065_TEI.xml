@@ -211,7 +211,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>are still standing</p>
 <lb/><p>We were most kindly 
 <lb/><choice><sic>recieved</sic><corr>received</corr></choice> by the <term type="occupation">Commandant</term>
-<lb/>of <placeName><settlement type="village">Ambaca</settlement></placeName> <persName>Arsenio P. P. <add place="above">de</add> Carpo</persName>
+    <lb/>of <placeName><settlement type="village">Ambaca</settlement></placeName> <persName ref="people.xml#pers0289">Arsenio P. P. <add place="above">de</add> Carpo</persName>
 <lb/>who spoke a little English <del type="strikethrough">&amp;</del>
 <lb/>He recommended <term type="foodstuff">wine</term> for
 <lb/>my debility and here I took
@@ -483,12 +483,12 @@ We met numbers of
 <lb/>keep their families out of the
 <lb/>reach of the <term type="ailment">malaria</term> which
 <lb/>is <choice><sic>suppose</sic><corr>supposed</corr></choice> to prevail most
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName><unclear cert="low">Sowels</unclear></persName></hi></note></add> on the banks of the numerous
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0542"><unclear cert="low">Sowels</unclear></persName></hi></note></add> on the banks of the numerous
 <lb/>little streams which run
 <lb/>among the hills - </p>
-<lb/><p><add place="marginleft"><note><metamark function="flag" spanTo="#meta-293"/><persName>Canto e Castro</persName><anchor xml:id="meta-293"/></note></add><!-- name is circled, ks --> We were most kindly
+            <lb/><p><add place="marginleft"><note><metamark function="flag" spanTo="#meta-293"/><persName ref="people.xml#pers0273">Canto e Castro</persName><anchor xml:id="meta-293"/></note></add><!-- name is circled, ks --> We were most kindly
 <lb/><choice><sic>recieved</sic><corr>received</corr></choice> by the <term type="occupation">Commandant</term>
-<lb/><persName><add place="marginleft"><term  type="occupation">Lieutenant</term></add> Antonio do Canto e Castro</persName> a
+                <lb/><persName ref="people.xml#pers0273"><add place="marginleft"><term  type="occupation">Lieutenant</term></add> Antonio do Canto e Castro</persName> a
 <lb/><add place="marginleft">young</add> gentleman whose whole <w>sub-</w>
 <lb break="no"/>sequent conduct <del type="strikethrough">inspired
 <lb/>m</del> will ever make me
@@ -668,7 +668,7 @@ We met numbers of
 <lb/>trees into planks in
 <lb/>exactly the same manner
 <lb/>as was followed by
-<lb/>the illustrious <bibl><persName>Robinson
+    <lb/>the illustrious <bibl><persName ref="people.xml#pers0497">Robinson
 <lb/><choice><sic>Cruzoe</sic><corr>Crusoe</corr></choice></persName></bibl> - A tree of three
 <lb/>or four feet in diameter
 <lb/><del type="cancelled">was felle</del> and forty or

@@ -261,7 +261,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/><p>While waiting for the
 <lb/>recovery of my men I
 <lb/>visited in company with
-<lb/>my friend <persName>M<hi rend="sup underline">r</hi> Canto</persName> the
+    <lb/>my friend <persName ref="people.xml#pers0273">M<hi rend="sup underline">r</hi> Canto</persName> the
 <lb/>deserted <orgName>convent of 
 <lb/><persName>St Hilarion</persName></orgName> at <placeName><settlement type="village">Bango</settlement></placeName> a
 <lb/><measure>few miles</measure> North <w>W <subst><del>of</del><add place="over-text">est</add></subst></w> of
@@ -270,7 +270,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>valley containing a
 <lb/>population <del type="cancelled">of about</del> numbering
 <lb/>4000 hearths - This is the
-<lb/>abode of the <foreign xml:lang="und"><term type="occupation">Sova</term></foreign> or <term type="occupation"><persName>chief
+    <lb/>abode of the <foreign xml:lang="und"><term type="occupation">Sova</term></foreign> or <term type="occupation"><persName ref="people.xml#pers0257">chief
 <lb/>Bango</persName></term> who still holds
 <lb/>a place of authority
 <lb/>under the <term type="nationality">Portuguese</term> 
@@ -325,7 +325,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 
 <pb facs="liv_000101_0088.jpg" n="0088"/>
 <lb/><fw> <add place="inspace" hand="#U1" n="U1" rend="gray right">86</add></fw>
-<lb/>The <term type="occupation"><persName>chief Bango></persName></term> has built a
+    <lb/>The <term type="occupation"><persName ref="people.xml#pers0257">chief Bango</persName></term> has built a
 <lb/>large <add place="below">^</add> <add place="marginleft">two storey</add> house close by the
 <lb/>convent but superstitious
 <lb/><del type="cancelled">feelings</del> fears<!-- possible letters beneath 'fea' but illegible.JL --> prevent him
@@ -394,7 +394,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
     <lb/>making a
     <lb/>profound
     <lb/>bow <subst><del><unclear cert="medium">in</unclear></del><add place="over-text">to</add></subst>
-    <lb/><persName>M<hi rend="sup">r</hi> Canto</persName> &amp;
+    <lb/><persName ref="people.xml#pers0273">M<hi rend="sup">r</hi> Canto</persName> &amp;
     <lb/>volunteer
     <lb/>to explain
     <lb/>why he
@@ -520,7 +520,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>rejoice if they can say of an enemy "I took him
 <lb/>before the court"</p>
 <lb/>
-<lb/><p rend="no-indent">My friend <persName>Mr Canto</persName> the <term type="occupation">Commandant</term> being
+    <lb/><p rend="no-indent">My friend <persName ref="people.xml#pers0273">Mr Canto</persName> the <term type="occupation">Commandant</term> being
 <lb/>seized with <term type="ailment">fever</term> in a severe form it afforded
 <lb/>me much pleasure to attend him in his sickness
 <lb/>who had been <add place="below">˄</add> <add place="above">so</add> kind to me in mine. <choice><sic>he</sic><corr>He</corr></choice> <subst><del><unclear cert="low">H</unclear></del><add place="over-text">w</add></subst>as for
@@ -560,7 +560,7 @@ there was no <add place="below">^</add> <add place="above">good</add> reason
 <lb/>but there <orgName>slavery</orgName> is unknown. <space extent="4" unit="chars"/>The <term type="nationality">Portuguese</term> do
 <lb/>not seem at all <w>b<subst><del>g</del><add place="over-text">i</add></subst>goted</w> in their attachment to
 <lb/><orgName>slavery</orgName> nor yet in their prejudices against colour
-<lb/><persName>Mr Canto</persName> gave <add place="below">^</add> <subst><del type="cancelled"><unclear cert="medium">me</unclear></del><add place="above">an</add></subst> <w>entertainment<del type="cancelled">s</del></w> in order to
+    <lb/><persName ref="people.xml#pers0273">Mr Canto</persName> gave <add place="below">^</add> <subst><del type="cancelled"><unclear cert="medium">me</unclear></del><add place="above">an</add></subst> <w>entertainment<del type="cancelled">s</del></w> in order to
 <lb/>draw all classes together and promote a general
 <lb/>good will. Two <foreign xml:lang="und"><term type="occupation">Sovas</term></foreign> or <term type="occupation"><orgName>native</orgName> <term type="occupation">chiefs</term></term> were present
 <lb/>and took their places without the least appearance
@@ -582,7 +582,7 @@ there was no <add place="below">^</add> <add place="above">good</add> reason
     <lb/>constantly occurring</add>
 <lb/><del type="strikethrough">persons of colour taking their seats and they were
 <lb/>addressed on terms of equality</del> <space extent="4" unit="chars"/>At this
-<lb/>meeting <persName>Mr Canto</persName> communicated some ideas
+    <lb/>meeting <persName ref="people.xml#pers0273">Mr Canto</persName> communicated some ideas
 <lb/>which I had <subst><del><unclear cert="medium">com</unclear></del><add place="over-text">wri</add></subst>tten out on the dignity of labour
 <lb/>and the superiority of free over <orgName>slave</orgName> labour</p>
 <lb/><p>The <term type="nationality">Portuguese</term> gentlemen present were anxiously
@@ -590,7 +590,7 @@ there was no <add place="below">^</add> <add place="above">good</add> reason
 <lb/>from <persName>M<hi rend="sup">r</hi> Gabriel</persName> <space extent="3" unit="chars"/>They are now in the
 <lb/>transition state from unlawful to lawful
 <lb/>trade and turn eagerly to <term type="plant">cotton</term> <term type="foodstuff">coffee</term> &amp;
-<lb/><term type="foodstuff">sugar</term> as new sources of wealth. <space extent="3" unit="chars"/><persName>Mr Canto</persName>
+    <lb/><term type="foodstuff">sugar</term> as new sources of wealth. <space extent="3" unit="chars"/><persName ref="people.xml#pers0273">Mr Canto</persName>
 <lb/>had been commissioned by them to purchase 3
 <lb/><term type="foodstuff">sugar</term> mills. <del type="cancelled">As</del> <subst><del><unclear cert="medium">our</unclear></del><add place="over-text">Our</add></subst> <choice><orig>cruizers</orig><reg>cruisers</reg></choice> have been the
 <lb/>principal agents in compelling them to abandon
@@ -603,7 +603,7 @@ there was no <add place="below">^</add> <add place="above">good</add> reason
 
 <pb facs="liv_000101_0094.jpg" n="0094"/>
 <lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">91</add></fw>
-<lb/><persName>Lord Clarendon</persName> had been at the trouble of procuring
+    <lb/><persName ref="people.xml#pers0558">Lord Clarendon</persName> had been at the trouble of procuring
 <lb/>fresh <term type="plant">cotton seed</term> through our <term type="occupation">minister at
 <lb/><placeName><settlement type="city">Washington</settlement></placeName></term> and had sent it out to the care
 <lb/>of <term type="occupation"><choice><abbr>H. M.</abbr><expan>Her Majesty's</expan></choice> Commissioner</term> at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>, from probably
@@ -612,7 +612,7 @@ there was no <add place="below">^</add> <add place="above">good</add> reason
 <lb/>It was probably cast into the sea off <placeName><settlement type="village">Ambriz</settlement></placeName>
 <lb/>and my friends at <placeName><settlement type="town">Golungo Alto</settlement></placeName> were left without
 <lb/>the means of commencing a new enterprise</p>
-<lb/><p><space extent="4" unit="chars"/><del type="strikethrough">In speaking to</del> <persName>Mr Canto</persName> mentioned
+    <lb/><p><space extent="4" unit="chars"/><del type="strikethrough">In speaking to</del> <persName ref="people.xml#pers0273">Mr Canto</persName> mentioned
 <lb/>that there is now much more <term type="plant">cotton</term> in the country
 <lb/>than can be consumed and if he had possession of
 <lb/>a few hundred pounds he would buy up all the
@@ -649,7 +649,7 @@ there was no <add place="below">^</add> <add place="above">good</add> reason
 <lb/>discovered the <term type="insect">Tsetse</term> that no insect might light
 <lb/>upon it <space extent="3" unit="chars"/>The change of diet here may have had
 <lb/>some influence in producing the disease for I was
-<lb/>informed by <persName>Dr <choice><sic>Walweitsch</sic><corr>Welwitsch</corr></choice></persName> a <term type="nationality">German</term> <term type="occupation">naturalist</term><!-- Friedrich Martin Josef Welwitsch (1807–1872), Austrian botanist, sh -->
+    <lb/>informed by <persName ref="people.xml#pers0567">Dr <choice><sic>Walweitsch</sic><corr>Welwitsch</corr></choice></persName> a <term type="nationality">German</term> <term type="occupation">naturalist</term><!-- Friedrich Martin Josef Welwitsch (1807–1872), Austrian botanist, sh -->
 <lb/>whom we found pursuing his arduous labours here
 <lb/>that of <subst><del type="cancelled">6</del><add place="above">5</add></subst>8 kinds of grasses found at <placeName><region><choice><orig>Loanda</orig><reg>Luanda</reg></choice></region></placeName> only
 <lb/>3 or 4 <del type="strikethrough">very diminutive</del> species exist here <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>and these of the
@@ -802,7 +802,7 @@ another colony on a branch of the same tree gave
     <lb/>mentioned</add>
 <lb/><note place="marginleft" hand="#DL" n="DL"><date when="1854-12-14"><choice><abbr>Dec</abbr><expan>December</expan></choice> 14</date></note> <del type="cancelled" hand="#DL" n="DL"><date when="1854-11-27">27 <choice><abbr>Nov</abbr><expan>November</expan></choice></date></del> <del type="strikethrough">My men</del> Both myself and men having
 <lb/>recovered from severe attacks of <term type="ailment">fever</term> we left the
-<lb/>hospitable residence of <persName>Mr Canto</persName> with a deep sense
+    <lb/>hospitable residence of <persName ref="people.xml#pers0273">Mr Canto</persName> with a deep sense
 <lb/>of his kindness to us all, and proceeded on our way to
 <lb/><settlement type="village">Ambaca</settlement> <space extent="3" unit="chars"/><seg type="weather">Frequent rains had fallen in <date when="1854-10">October</date>
 <lb/>and <date when="1854-11">November</date> which was nearly always accompanied
@@ -939,12 +939,12 @@ another colony on a branch of the same tree gave
 <lb/>The uniform answer was “O yes there is abundance
 <lb/><add place="marginleft" hand="#DL" n="DL">of all these <add place="below" hand="#DL" n="DL">˄</add></add> in <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName>" <space extent="5" unit="chars"/>But when we arrived <subst><del>in</del><add place="over-text">he</add></subst>re
 <lb/>we found that the answers all referred to the activity
-<lb/>of one man <add place="below" hand="#DL" n="DL">^</add> <persName><add place="above">Colonel</add> Manuel Antonio Pires</persName> <space extent="4" unit="chars"/>The
+    <lb/>of one man <add place="below" hand="#DL" n="DL">^</add> <persName ref="people.xml#pers0478"><add place="above">Colonel</add> Manuel Antonio Pires</persName> <space extent="4" unit="chars"/>The
 <lb/>presence of the <term type="plant">wild grape</term> shows that the
 <lb/><metamark function="query" place="marginleft" resp="#U2" rend="gray">?</metamark> <hi rend="gray underline" hand="#U2" n="U2">tame</hi> might be cultivated with success <space extent="3" unit="chars"/>The
 <lb/><term type="plant_foodstuff">wheat</term> grows <del type="strikethrough">wild</del> well without irrigation
 <lb/>and any one who tasted the <term type="foodstuff">butter</term> &amp; <term type="foodstuff">cheese</term> at the
-<lb/>table of <del type="strikethrough">M<hi rend="sup">r</hi></del> <persName><choice><abbr>Col<del type="cancelled">nel</del></abbr><expan>Colonel</expan></choice> Pires</persName> would prefer them
+    <lb/>table of <del type="strikethrough">M<hi rend="sup">r</hi></del> <persName ref="people.xml#pers0478"><choice><abbr>Col<del type="cancelled">nel</del></abbr><expan>Colonel</expan></choice> Pires</persName> would prefer them
 <lb/>to the <add place="below">^</add> <add place="above">stale</add> produce of the <term type="nationality">Irish</term> dairy in general use
 <lb/>throughout that country <space extent="5" unit="chars"/>The <term type="animal">cattle</term> in
 <lb/>this country are seldom milked on account of
@@ -1042,7 +1042,7 @@ at a <del type="strikethrough">time</del>
 <lb/>of <placeName><country>Angola</country></placeName> we find that the famous <persName><term type="occupation">queen</term>
 <lb/>Donna Anna de Souza</persName> came from 
 <lb/>this vicinity as <term type="occupation">Ambassadress</term> from her
-<lb/>brother <persName>Gola Ban<add place="above">n</add>dy</persName> <term type="occupation">King</term> of the <term type="tribe">Jinga</term> to
+    <lb/>brother <persName ref="people.xml#pers0453">Gola Ban<add place="above">n</add>dy</persName> <term type="occupation">King</term> of the <term type="tribe">Jinga</term> to
 <lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> in <date when="1621">1621</date> to sue for peace, and
 <lb/>astonished the <term type="occupation">Governor</term> by the readiness
 <lb/>of her answers <del type="cancelled">as much as the
@@ -1144,7 +1144,7 @@ at a <del type="strikethrough">time</del>
 <lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">101</add></fw>
 <lb/>kindness of <persName><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> Pire<subst><del type="cancelled" hand="#DL" n="DL">z</del><add place="over-text" hand="#DL" n="DL">s</add></subst></persName> and remained till the end of
 <lb/>year <del type="cancelled">rewritin</del> reproducing my lost dispatches</p>
-<lb/><p><persName><term type="occupation"><choice><abbr>Col.</abbr><expan>Colonel</expan></choice></term> Pires</persName> having another establishment on the
+    <lb/><p><persName ref="people.xml#pers0478"><term type="occupation"><choice><abbr>Col.</abbr><expan>Colonel</expan></choice></term> Pires</persName> having another establishment on the
 <lb/>banks of the <placeName><geogName type="river">Coanza</geogName></placeName> about <measure>6 miles distant</measure>
 <lb/>I visited <subst><del><unclear cert="medium">him</unclear></del><add place="over-text">it w</add></subst>ith him about once a week for the
 <lb/>purpose of recreation <space extent="3" unit="chars"/>The difference of temperature
@@ -1158,7 +1158,7 @@ at a <del type="strikethrough">time</del>
 <lb/>by the thermometer was <del type="strikethrough">seven degrees</del> 7°
 <lb/>The general range <del type="strikethrough">was</del> near the rocks was 67°
 <lb/>at 7 <subst><add place="above">A. M.</add><del type="strikethrough">oclock in the morning</del></subst> 74° at midday and 72°
-<lb/>in the evening <space extent="6" unit="chars"/>A <orgName>slave</orgName> boy belonging to <persName><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term>
+        <lb/>in the evening <space extent="6" unit="chars"/>A <orgName>slave</orgName> boy belonging to <persName ref="people.xml#pers0478"><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term>
 <lb/>Pires</persName> having<!-- possible 'd' under v, but too illegible.JL --> stolen and eaten some <del type="strikethrough"><unclear cert="medium">citrus</unclear> in</del> <term type="plant_foodstuff">lemons</term>
 <lb/>in the evening went to the river to wash his mouth
 <lb/>so as not to be detected by the flavour <space extent="2" unit="chars"/>An
@@ -1172,7 +1172,7 @@ at a <del type="strikethrough">time</del>
 <lb/>element he is cowardly <space extent="3" unit="chars"/>The boy had many
 <lb/>marks of the teeth in his abdomen and thigh &amp;
 <lb/>those of the claws on his lips and arms</p>
-<lb/><p>The <del type="strikethrough">as</del> <orgName>slaves</orgName> in <persName><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> <choice><abbr>P</abbr><expan>Pires</expan></choice></persName>'s establishments appeared
+    <lb/><p>The <del type="strikethrough">as</del> <orgName>slaves</orgName> in <persName ref="people.xml#pers0478"><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> <choice><abbr>P</abbr><expan>Pires</expan></choice></persName>'s establishments appeared
 <lb/>more like <orgName>free <term type="occupation">servants</term></orgName> than any I had elsewhere
 <lb/>seen <choice><sic>everything</sic><corr>Everything</corr></choice> was neat and clean while generally
 <lb/>where <orgName>slaves</orgName> are the only domestics there is an aspect

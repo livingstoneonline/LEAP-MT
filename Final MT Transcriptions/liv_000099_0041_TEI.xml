@@ -169,7 +169,7 @@ and where in
 <lb/><del type="cancelled" hand="#DL"><hi rend="gray underline" resp="#U2">there</hi></del> - Now the belief in <hi rend="gray underline" resp="#DL"><hi rend="underline" resp="#U2">rain making</hi></hi>
 <lb/>is one of the most deeply rooted
 <lb/>articles of faith in this country - 
-<lb/>The <term type="occupation">chief</term> <persName>Sechele</persName> being himself a
+<lb/>The <term type="occupation">chief</term> <persName ref="people.xml#pers0516">Sechele</persName> being himself a
 <lb/>noted <term type="occupation">rain doctor</term> believed in it
 <lb/><add place="marginleft" hand="#U2" rend="gray"><metamark function="insertion"/>implicitly <add place="inline" hand="#DL">implicitly,</add></add> <del type="cancelled">utterly</del> - and he has often assured me
 <lb/>that he found it more difficult
@@ -296,7 +296,7 @@ and where in
 <lb/>yards</measure> <del type="cancelled">distant</del> below the hill <add place="inline">*</add></p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <seg type="weather">Rain however would not
 <lb/>fall</seg> - The <term type="tribe">Bakwains</term> believed that
-<lb/>I had bound <persName>Sechele</persName> with some
+<lb/>I had bound <persName ref="people.xml#pers0516">Sechele</persName> with some
 <lb/><del type="strikethrough">sort of</del> magic spell - And I <choice><sic>recieved</sic><corr>received</corr></choice>
 <lb/>deputations in the evening <del type="strikethrough">from</del>
 <lb/>of the old counsellors entreating me
@@ -306,7 +306,7 @@ and where in
 <lb/>let him this once and we shall
 <lb/>come to the school and <add place="below">^</add> <add place="above">sing &amp;</add> pray as
 <lb/>long as you <subst><del>like</del><add place="over-text">please</add></subst>" It was in
-<lb/>vain to protest that I wished <persName>Sechele</persName>
+<lb/>vain to protest that I wished <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>to act just according to his own
 <lb/>ideas of what was right as he found
 <lb/>the law laid down in the <bibl>Bible</bibl> -
@@ -393,7 +393,7 @@ and where in
 <lb/>follows - The inference is irresistible<anchor xml:id="meta-7"/> 
 <lb/><del type="cancelled">and why should not the <choice><sic>discovers</sic><corr>discoverers</corr></choice>
 <lb/>share in the persecution which
-<lb/><persName>Jenner</persName>, and <persName>Harvey</persName> &amp;c. endured
+    <lb/><persName>Jenner</persName>, and <persName ref="people.xml#pers0314">Harvey</persName> &amp;c. endured
 <lb/>They certainly deserve it seeing
 <lb/>opposition is the only point
 <lb/>of similarity between our friends
@@ -416,7 +416,7 @@ and where in
 <lb/>dislike was <del type="strikethrough">in the gospel</del> -
 <lb/>expressed by a very influential 
 <lb/>and sensible man the uncle
-<lb/>of <persName>Sechele</persName> - "We like you as well
+<lb/>of <persName ref="people.xml#pers0516">Sechele</persName> - "We like you as well
 <lb/>as if you had been born among
 <lb/>us, you are the only white man
 <lb/>we can become familiar with" (<foreign xml:lang="und">thoaela</foreign>)

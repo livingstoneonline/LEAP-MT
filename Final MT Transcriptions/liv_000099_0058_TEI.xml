@@ -231,11 +231,11 @@ of <subst><del>of</del><add place="over-text">c</add></subst>ommerce ought to be
 <lb/>element of <orgName>slavery</orgName> <choice><abbr>viz.</abbr><expan>videlicet</expan></choice> compulsory
 <lb/><add place="marginleft">unpaid</add> labour <del type="cancelled">without payment</del> -
 <lb/>One section of this body under
-<lb/><persName>M<hi rend="sup">r</hi> Hendrick Potgeiter</persName> came in
+    <lb/><persName ref="people.xml#pers0481">M<hi rend="sup">r</hi> Hendrick Potgeiter</persName> came in
 <lb/>as far as the <placeName><geogName type="mountains">Cashan mountains</geogName></placeName>
 <lb/>whence a <orgName>Caffre</orgName> <term type="occupation">chief</term> named
 <lb/><persName>Mosilikatze</persName> had been expelled
-<lb/>by the well known <add place="below">^</add> <add place="above"><orgName>Caffre</orgName></add> <persName>Dingaan</persName>, and
+    <lb/>by the well known <add place="below">^</add> <add place="above"><orgName>Caffre</orgName></add> <persName ref="people.xml#pers0293">Dingaan</persName>, and
 <lb/>a glad welcome was given them
 <lb/>by the <term type="tribe">Bechuana</term> tribes who had just
 <lb/>escaped the hard sway of that cruel
@@ -268,8 +268,8 @@ of <subst><del>of</del><add place="over-text">c</add></subst>ommerce ought to be
 <lb/>instruments of labour on their shoulders
 <lb/>and so far from any wish to conceal
 <lb/>the <choice><sic>meaness</sic><corr>meanness</corr></choice> of employing unpaid
-<lb/>labour <add place="below">^</add> <add place="above">Every one</add> from <persName>M<hi rend="sup underline">r</hi> Potgeiter</persName> and
-<lb/><persName>M<hi rend="sup">r</hi> Gert Kruger</persName><!-- the name is 'Gert Krieger' in the published text p.30. JL --> <add place="below">^</add> <add place="above">the <term type="occupation">commandants</term></add> downwards <del type="cancelled">they</del>
+    <lb/>labour <add place="below">^</add> <add place="above">Every one</add> from <persName ref="people.xml#pers0481">M<hi rend="sup underline">r</hi> Potgeiter</persName> and
+    <lb/><persName ref="people.xml#pers0364">M<hi rend="sup">r</hi> Gert Kruger</persName><!-- the name is 'Gert Krieger' in the published text p.30. JL --> <add place="below">^</add> <add place="above">the <term type="occupation">commandants</term></add> downwards <del type="cancelled">they</del>
 <lb/>lauded <subst><del type="cancelled">their</del><add place="above">his</add></subst> own humanity &amp;
 <lb/>justice in making such a fine
 <lb/><add place="marginleft">equitable <add place="below">^</add></add>  regulation - <add place="below">^</add> <add place="above">"We make</add> "the people work for
@@ -387,7 +387,7 @@ of <subst><del>of</del><add place="over-text">c</add></subst>ommerce ought to be
 <lb/>that follows no qualms of
 <lb/>conscience <subst><del type="cancelled">follow</del><add place="above">ensue</add></subst> It <subst><del type="cancelled">was is</del><add place="above">was</add></subst> a dire
 <lb/>necessity for the sake of peace
-<lb/>Indeed the late <persName>M<hi rend="sup">r</hi> Hendrick Potgeiter</persName>
+    <lb/>Indeed the late <persName ref="people.xml#pers0481">M<hi rend="sup">r</hi> Hendrick Potgeiter</persName>
 <lb/><add place="marginleft">most devoutly</add> believed himself to be the great
 <lb/>peace maker of the country - </p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> But how is it the <orgName>natives</orgName>
@@ -407,7 +407,7 @@ of <subst><del>of</del><add place="over-text">c</add></subst>ommerce ought to be
 <lb/>known either beyond or in the
 <lb/><placeName><region>Cape Colony</region></placeName> - They have defended
 <lb/>themselves when attacked as in
-<lb/>the case<del type="cancelled">s of <unclear cert="low">the ambush</unclear> of</del> <persName>Sechele</persName>
+<lb/>the case<del type="cancelled">s of <unclear cert="low">the ambush</unclear> of</del> <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>but never have engaged in
 <lb/>offensive war with <orgName>Europeans</orgName> <supplied cert="high">-</supplied> 
 <lb/><del type="cancelled"><unclear cert="medium">nor</unclear> have they <unclear cert="low">ever been</unclear> guilty of</del>
@@ -585,7 +585,7 @@ obtained
 <lb/>rather have fled to the <placeName><geogName type="desert">Kalahari
 <lb/>Desert</geogName></placeName> than deliver up their
 <lb/>weapons and become <orgName>slaves</orgName>
-<lb/>I proceeded to the <persName>Commandant
+    <lb/>I proceeded to the <persName ref="people.xml#pers0364">Commandant
 <lb/>M<hi rend="sup">r</hi> Gert Krieger</persName> and representing
 <lb/>the evils which any such
 <lb/>expedition would do prevailed
@@ -599,7 +599,7 @@ obtained
 <lb/>my principles as an <term type="person">Englishman</term>
 <lb/>were not in the way, by referring
 <lb/>to an instance in which
-<lb/><persName>Sechele</persName> had gone with his
+<lb/><persName ref="people.xml#pers0516">Sechele</persName> had gone with his
 <lb/>whole force to punish an
 <lb/><term type="occupation">underchief</term> without my knowledge
 	
@@ -610,21 +610,21 @@ obtained
 <lb/>was led on in his rebellion by
 <lb/><subst><del>a</del><add place="over-text">his</add></subst> father<del type="cancelled">s</del> in law who had
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note><metamark function="query"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> <unclear cert="medium">explain</unclear></note></add> <hi rend="gray underline" resp="#U2">been regicide</hi> in the case of
-<lb/><persName>Sechele</persName>'s father - Several of
+<lb/><persName ref="people.xml#pers0516">Sechele</persName>'s father - Several of
 <lb/>those who remained faithful 
 <lb/>were maltreated by <persName><sic>Kake</sic><corr>Kāke</corr></persName>
 <lb/>while passing to the Desert<!-- geog: Kalahari Desert. JL --> in
 <lb/>search of skins - We had just
 <lb/>come to live with the <term type="tribe">Bakwains</term>
-<lb/>when this happened and <persName>Sechele</persName>
+<lb/>when this happened and <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>consulted me - I advised mild
 <lb/>measures but his messengers 
 <lb/>were taunted with the words - "He
 <lb/>only pretends to wish to follow
-<lb/>the advice of the teacher - <subst><del>he is</del><add place="over-text"><persName>Sechele</persName></add></subst> 
+<lb/>the advice of the teacher - <subst><del>he is</del><add place="over-text"><persName ref="people.xml#pers0516">Sechele</persName></add></subst> 
 <lb/>is a coward - let him come"
 <lb/>The next time the offence was 
-<lb/>repeated <persName>Sechele</persName> told me he
+<lb/>repeated <persName ref="people.xml#pers0516">Sechele</persName> told me he
 <lb/>was going to hunt <term type="animal">elephants</term>
 <lb/>and as I knew the system
 <lb/>of espionage which prevails
@@ -726,11 +726,11 @@ obtained
 <lb/>to count ten or even smaller
 <lb/>numbers - As <persName>M<hi rend="sup">r</hi> <choice><sic>Burchel</sic><corr>Burchell</corr></choice></persName><!-- a reference to William Burchell, author of 'Travels in the Interior of South Africa'. JL --> was
 <lb/>led to believe this of the <term type="tribe">Bechuanas</term>
-<lb/><add place="marginleft">about the very</add> <del type="strikethrough">at a</del> time when <persName>Sechele</persName>'s father
+<lb/><add place="marginleft">about the very</add> <del type="strikethrough">at a</del> time when <persName ref="people.xml#pers0516">Sechele</persName>'s father
 <lb/>counted out one thousand head
 <lb/>of <term type="animal">cattle</term> as a beginning of the
 <lb/>stock of his young son <supplied cert="high">-</supplied> In the
-<lb/>present case <persName>Sechele</persName> knowing
+<lb/>present case <persName ref="people.xml#pers0516">Sechele</persName> knowing
 <lb/>every question put to his people
 <lb/>asked me how they ought to 
 <lb/>answer - My reply was "tell
@@ -773,7 +773,7 @@ obtained
 <lb/>blood shed - Well, news of
 <lb/>these deeds spread quickly among
 <lb/>the <term type="tribe">Bakwains</term> and <bibl>letters were
-<lb/>repeatedly sent to <persName>Sechele</persName></bibl> ordering
+<lb/>repeatedly sent to <persName ref="people.xml#pers0516">Sechele</persName></bibl> ordering
 <lb/>to come and surrender himself
 <lb/>as their vassal - and stop <term type="nationality">English</term>
 <lb/><term type="occupation">traders</term> from coming into the
@@ -781,7 +781,7 @@ obtained
 <lb/>But the discovery of <placeName><geogName type="lake">Lake
 <lb/>Ngami</geogName></placeName> hereafter to be described
 <lb/>made the <term type="occupation">traders</term> come in fivefold
-<lb/><retrace hand="#DL"><add place="marginleft" rend="gray" hand="#U2">greater</add></retrace> numbers and <persName>Sechele</persName> replied
+<lb/><retrace hand="#DL"><add place="marginleft" rend="gray" hand="#U2">greater</add></retrace> numbers and <persName ref="people.xml#pers0516">Sechele</persName> replied
 <lb/>"I was made an independent
 <lb/><term type="occupation">chief</term> <add place="below">^</add> <add place="marginleft"><add place="above">^</add> &amp; placed here</add> by God and not by you
 <lb/>I was never conquered by
@@ -816,7 +816,7 @@ obtained
 <lb/>to benefit the tribes among the <orgName>Boers</orgName>
 <lb/>of <placeName><geogName type="mountains">Magaliesberg</geogName></placeName> by placing <orgName>native</orgName>
 <lb/><term type="occupation">teachers</term> at different points - "You
-<lb/>must teach the blacks" said <persName>M<hi rend="sup">r</hi>
+    <lb/>must teach the blacks" said <persName ref="people.xml#pers0481">M<hi rend="sup">r</hi>
 <lb/>Hendrick Potgeiter</persName> the <unclear cert="medium">thoog</unclear><!-- Potgeiter was known as the Flight Commando, so this word is possibly DL's rendering of the Afrikaans word, 'vlug'.JL --> <term type="occupation"><w>command<supplied>-</supplied>
 <lb break="no"/>ant</w></term> - "that they are not equal
 <lb/>to us" - Other <orgName>Boers</orgName> said I "might
@@ -883,12 +883,12 @@ obtained
 <lb/>the confidence my account of
 <lb/>our <w><subst><del hand="#U2">q</del><add place="over-text" rend="gray" hand="#U2">Q</add></subst>ueen</w> inspired farther on - </p>
 <lb/><p>The <orgName>Boers</orgName> at last encouraged
-<lb/>by the accession of <persName>M<hi rend="sup">r</hi> Pretorius</persName>
+    <lb/>by the accession of <persName ref="people.xml#pers0483">M<hi rend="sup">r</hi> Pretorius</persName>
 <lb/>determined at last to put a 
 <lb/>stop to <term type="nationality">English</term> <term type="occupation">traders</term> going past
 <lb/><placeName><settlement type="village">Kolobeng</settlement></placeName> by dispersing the 
 <lb/>tribe of <term type="tribe">Bakwains</term> and
-<lb/>expelling all <term type="occupation">missionaries</term> - <persName>Sir
+    <lb/>expelling all <term type="occupation">missionaries</term> - <persName ref="person.xml#pers0277">Sir
 <lb/>George Cathcart</persName> proclaimed
 <lb/>their independence - probably the
 <lb/>best thing that could have been 
@@ -950,7 +950,7 @@ obtained
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">84</add> <add place="inspace" hand="#U1" rend="gray right" >77</add></fw>	
 <lb/><metamark function="placeMark"  place="marginleft" rend="gray" resp="#U2"/><!-- pencil line possibly marking the editor's place in the manuscript.JL --> the fragments to the winds - The
 <lb/><orgName>Boers</orgName> 400 in number were
-<lb/>sent by the late <persName>M<hi rend="sup">r</hi> Pretorius</persName> to 
+    <lb/>sent by the late <persName ref="people.xml#pers0483">M<hi rend="sup">r</hi> Pretorius</persName> to 
 <lb/>attack the <term type="tribe">Bakwains</term> in <date when="1852">1852</date>
 <lb/>and boasting that the <term type="people">English</term>
 <lb/>had given up all the blacks
@@ -963,7 +963,7 @@ obtained
 <lb/>besides killing a considerable
 <lb/>number carried off two hundred
 <lb/>of our school children into <orgName>slavery</orgName>
-<lb/>The <orgName>natives</orgName> under <persName>Sechele</persName> defended
+<lb/>The <orgName>natives</orgName> under <persName ref="people.xml#pers0516">Sechele</persName> defended
 <lb/>themselves till the approach of 
 <lb/>night <subst><del>obliged</del><add place="over-text">enabled</add></subst> them to flee to the mountains
 <lb/>and having in that defence
@@ -1088,7 +1088,7 @@ obtained
 <lb/>being <subst><del type="strikethrough" hand="#U3" rend="red">pretty much</del><add place="above" hand="#U3" rend="red">almost entirely</add></subst> <choice><sic>dependant</sic><corr>dependent</corr></choice>
 <lb/>on ourselves - There is something
 <lb/>of the feeling which must
-<lb/>have animated <add place="below" hand="#U3" rend="red">^</add> <persName><add place="above" hand="#U3" rend="red">Alexander</add> Selkirk</persName>
+    <lb/>have animated <add place="below" hand="#U3" rend="red">^</add> <persName ref="people.xml#pers0526"><add place="above" hand="#U3" rend="red">Alexander</add> Selkirk</persName>
 <lb/>on seeing <subst><del type="cancelled">comforts</del><add place="above">conveniences</add></subst> springing up
 <lb/>before <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">him from</add> <subst><del>one's</del><add place="over-text">his</add></subst> own ingenuity,
 <lb/>And married life is all the
@@ -1178,7 +1178,7 @@ over at <subst><del>one</del><add place="over-text">two</add></subst> <del type=
 <lb/><choice><sic>by</sic><corr/></choice> attending to the wants of the body -
 <lb/>The smallest act<add place="inline" rend="red" hand="#U3">s</add> of friendship
 <lb/><add place="marginleft">an obliging</add> <del type="cancelled">a civil</del> word and civil look,
-<lb/>are, as <persName>St Francis Xavier</persName>,
+    <lb/>are, as <persName ref="people.xml#pers0575">St Francis Xavier</persName>,
 <lb/>thought no despicable part
 <lb/>of the <term type="occupation">missionary</term> armour
 <lb/>Here if anywhere love begets
@@ -1208,7 +1208,7 @@ over at <subst><del>one</del><add place="over-text">two</add></subst> <del type=
 <lb/>Being alone we could not divide
 <lb/>the butcher <term type="foodstuff">meat</term> <add place="below">^</add> <add place="above">of a<del type="strikethrough">n</del> slaughtered animal</add> with a prospect
 <lb/>of getting a <del type="cancelled">share in</del> return
-<lb/>with <del type="strikethrough">any</del> regularity - <persName>Sechele</persName>
+<lb/>with <del type="strikethrough">any</del> regularity - <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>had by right of <term type="occupation">chieftainship</term>
 <lb/>the breast of every animal
 <lb/>slaughtered either at home
@@ -1262,7 +1262,7 @@ over at <subst><del>one</del><add place="over-text">two</add></subst> <del type=
 <lb/>eagerness was a very large
 <lb/><term type="animal"><term type="foodstuff">frog</term></term> - called "<foreign xml:lang="und"><term type="animal">Matlametlo</term></foreign>"<add place="above" rend="red" hand="#U3">*</add> 
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>footnote</note></add><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-23"/><metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-24"/><note><add place="inline" rend="red" hand="#U3">*</add> The <term type="animal"><foreign xml:lang="la">Pyxicephalus adspersus</foreign></term>
-<lb/>of <persName>D<hi rend="sup underline">r</hi> Smith</persName> - Length of head
+    <lb/>of <persName ref="people.xml#pers0537">D<hi rend="sup underline">r</hi> Smith</persName> - Length of head
 <lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="ed-mark">X</metamark> note</note></add>&amp; body 5<choice><orig>½</orig><reg>1/2</reg></choice> inches - fore legs 3
 <lb/>hindlegs 6 inches - Width of 
 <lb/>head posteriorly 3 or body 4<choice><orig>½</orig><reg>1/2</reg></choice> 
@@ -1332,7 +1332,7 @@ over at <subst><del>one</del><add place="over-text">two</add></subst> <del type=
 <lb/>disappointment for I had been 
 <lb/>accustomed <del type="strikethrough">been</del> to regard the
 <lb/>song as always emitted by them
-<lb/>when <persName>Tantalus</persName> like they were
+    <lb/>when <persName ref="people.xml#pers0548">Tantalus</persName> like they were
 <lb/>chin deep in water - Their
 <lb/>music was always the
 <lb/>most pleasant that met
@@ -1341,7 +1341,7 @@ over at <subst><del>one</del><add place="over-text">two</add></subst> <del type=
 	
 	<pb facs="liv_000099_0090.jpg" n="0090"/> 
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">87</add> <add place="inspace" hand="#U2" rend="gray right">(60</add> <add place="inspace" hand="#U2" rend="gray right"><del type="strikethrough" hand="#U2" rend="gray">144</del></add></fw>
-<lb/>the sympathy of <persName>Aesop</persName><add place="inline" rend="gray" hand="#U2">,</add> himself
+    <lb/>the sympathy of <persName ref="people.xml#pers0247">Aesop</persName><add place="inline" rend="gray" hand="#U2">,</add> himself
 <lb/>an <orgName>African</orgName><add place="inline" hand="#U2" rend="gray">,</add> in his <bibl>fable
 <lb/>of the "Boys &amp; the <term type="animal">Frogs</term></bibl><add place="inline" rend="red" hand="#U3">.</add>"</p>
 <lb/>
@@ -1398,7 +1398,7 @@ over at <subst><del>one</del><add place="over-text">two</add></subst> <del type=
 <lb/>above ground to begin
 <lb/>the world for themselves 
 <lb/>They look with their gigantic
-<lb/>balls like <persName>Atlas</persName> with 
+    <lb/>balls like <persName ref="people.xml#pers0252">Atlas</persName> with 
 <lb/>the world on his back
 <lb/>only they go backwards 
 <lb/>and with their heads

@@ -424,7 +424,7 @@
 <lb/><metamark function="insertion"/><anchor xml:id="reorder-90"/> added <metamark function="reorder" spanTo="#meta-212"/><seg corresp="#reorder-90">now</seg><anchor xml:id="meta-212"/> the chafing
 <lb/>of my projecting bones
 <lb/>on <del type="strikethrough">my</del> the hard bed - </p> 
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Chester</persName></hi></note></add> On Friday we came
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0278">Chester</persName></hi></note></add> On Friday we came
 <lb/>to a village of civil people
 <lb/>on the banks of the <placeName><geogName type="river">Loajima</geogName></placeName>
 <lb/>itself - and we were wet
@@ -632,7 +632,7 @@ proceed, a few years
 <lb/>has not <add place="below">^</add> <add place="marginleft">penetrated</add> <del type="strikethrugh">penetrated</del><!-- possible letter under 'n' but it is illegible.JL --> the
 <lb/>visits by strangers are
 <lb/>really esteemed a privilege - </p>               
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Goodby</persName></hi></note></add>
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0308">Goodby</persName></hi></note></add>
 <lb/>The village of the old
 <lb/><persName>Ionga Panza</persName> is small
 <lb/>and embowered in lofty
@@ -651,7 +651,7 @@ proceed, a few years
 <lb/>here though the country
 <lb/>is well adapted for
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>63</note></add> them - I suspect this
-<lb/>like the country of <persName>Shinte</persName>
+                    <lb/>like the country of <persName ref="people.xml#pers0532">Shinte</persName>
 <lb/>and <persName>Katéma</persName> must
 <lb/>have been a <term type="insect">Tsetse</term> district
 <lb/>and but recently rendered
@@ -685,9 +685,9 @@ proceed, a few years
 <lb/>demand for payment for
 <lb/>leave to pass was made
 <lb/>on the <date when="1854-03-20">20<hi rend="sup underline">th</hi></date> by old <persName>Ionga Panza</persName>
-<lb/>as by the other <persName>Chiboque</persName>
+<lb/>as by the other <term type="tribe">Chiboque</term>
 <lb/>I offered the shell presented
-<lb/>by <del type="strikethrough">old</del> <persName>Shinte</persName> but <persName>Ionga
+    <lb/>by <del type="strikethrough">old</del> <persName ref="people.xml#pers0532">Shinte</persName> but <persName>Ionga
 <lb/>Panza</persName> said he was
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>64</note></add> too old for ornaments
 <lb/>We might have succeeded
@@ -702,7 +702,7 @@ proceed, a few years
 <lb/>sending for a body
 <lb/>of <term type="tribe">Bangala</term> <term type="occupation">traders</term> with
 <lb/>a view to force us
-<lb/>to sell the tusks of <persName>Sekeletu</persName>
+<lb/>to sell the tusks of <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>and pay them with the
 <lb/><del type="strikethrough">proceeds</del> price - We <subst><del>pr</del><add place="over-text">of</add></subst>fered
 <lb/>to pay them handsomely
@@ -778,7 +778,7 @@ proceed, a few years
 <lb/>as in the other instances
 <lb/>likely to be over powered
 <lb/>by numbers - <del type="cancelled">We offered</del>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="double-underline"><persName>Robinson</persName></hi></note></add>My men offered all their
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="double-underline"><persName ref="people.xml#pers0497">Robinson</persName></hi></note></add>My men offered all their
 <lb/>ornaments and I offered
 <lb/>all my beads &amp; shirts
 <lb/>but though we had come
@@ -840,7 +840,7 @@ proceed, a few years
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>68</note></add> of manner told me to be
 <lb/>comforted. They were all
 <lb/>my children - They knew 
-<lb/>no one but <persName>Sekeletu</persName>
+<lb/>no one but <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>and me - and they would
 <lb/>die for me - They had 
 <lb/>not fought because

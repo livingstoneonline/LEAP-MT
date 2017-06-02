@@ -101,7 +101,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     
     <pb facs="liv_000100_0239.jpg" n="0239"/><!-- p257, Missionary, sh -->                        
 <lb/><p><fw n="heading_XXVI">XXVI <add place="inspace" hand="#U1" rend="gray right">238</add></fw>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName><unclear cert="medium">Sedg</unclear></persName></hi></note></add> My men having never had
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></hi></note></add> My men having never had
 <lb/>firearms in their hands before
 <lb/>found it so difficult to 
 <lb/>hold the muskets steady on
@@ -131,7 +131,7 @@ This
 <lb/>eating the game to killing
 <lb/>it - Sulphur is the remedy
 <lb/>most admired - And I
-<lb/>remember <persName>Sechele</persName> giving
+<lb/>remember <persName ref="people.xml#pers0516">Sechele</persName> giving
 <lb/>a large price for a very
 <lb/>small bit - He also gave
 <lb/>some <choice><sic><term type="animal">elephant</term>s</sic><corr><term type="animal">elephant</term>s'</corr></choice> tusks worth
@@ -147,7 +147,7 @@ This
 <lb/>a <term type="animal">calf</term> was anointed with
 <lb/>a charm and tied to a
 <lb/>tree - It proved decisive,
-<lb/>and <persName>Sechele</persName> remarked it was
+<lb/>and <persName ref="people.xml#pers0516">Sechele</persName> remarked it was
 <lb/>"pleasanter to be <choice><sic>decieved</sic><corr>deceived</corr></choice> than
 <lb/><choice><sic>undecieved</sic><corr>undeceived</corr></choice>" - I offered sulphur
 <lb/>for the same purpose - but
@@ -190,7 +190,7 @@ This
 <lb/>resting on the left shoulder
 <lb/>I wanted steadiness of <del type="strikethrough">aim</del>
 <lb/>aim and it always happened
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName>Sedgwick</persName></note><!-- possibly Adam Sedgwick who wrote the preface to DL's Cambridge Lectures. --></add> that the more hungry the
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0517">Sedgwick</persName></note><!-- possibly Adam Sedgwick who wrote the preface to DL's Cambridge Lectures. --></add> that the more hungry the
 <lb/>party became the more
 <lb/>frequent <del type="strikethrough">were my misses</del>
 <lb/>I missed the animals</p>
@@ -563,7 +563,7 @@ This
 <lb/>relatives - I told the <add place="below">˄</add> <add place="above"><orgName>captive</orgName></add> young
 <lb/>man to tell <persName>Masiko</persName> that he
 <lb/>was very unlike his father
-<lb/><persName>Santuru</persName> who had refused
+    <lb/><persName ref="people.xml#pers0441">Santuru</persName> who had refused
 <lb/>to sell his people to <persName>Mambari</persName>
 
 
@@ -588,8 +588,8 @@ and
 <lb/>our considered rebels - The 
 <lb/>message by <del type="strikethrough">the Ba</del> <persName>Mosantu</persName>
 <lb/>was that "I was sorry to
-<lb/>find that <persName>Santuru</persName> had not
-<lb/>borne a wiser son - <persName>Santuru</persName>
+    <lb/>find that <persName ref="people.xml#pers0441">Santuru</persName> had not
+    <lb/>borne a wiser son - <persName ref="people.xml#pers0441">Santuru</persName>
 <lb/>loved to govern <add place="below">˄</add> <add place="above">men</add> <del type="strikethrough">children</del> but
 <lb/><persName>Masiko</persName> wanted to govern
 <lb/>wild beasts only as he sold 
@@ -677,7 +677,7 @@ and
 <lb/><add place="marginleft"><measure>a hundred miles</measure></add> <add place="below">˄</add> <add place="above">again</add> of a river capable of being
 <lb/>navigated in the same
 <lb/>way as in the <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName> - </p>
-<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName>Berry</persName></hi></note></add> Now I do not say that
+    <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> Now I do not say that
 <lb/>this part of the river presents
 <lb/>a very inviting prospect
 <lb/>for <orgName>European</orgName> enterprise
@@ -910,7 +910,7 @@ and
 <lb/>in company with the old
 <lb/>on sand banks - We made
 <lb/>our fire in <add place="below">˄</add> <add place="above">one of</add> the deserted nests
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note><unclear cert="medium"><persName>Sedg</persName></unclear></note></add> <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>which <w>w<subst><del>as</del><add place="over-text">ere</add></subst></w> strewed all over
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><unclear cert="medium"><persName ref="people.xml#pers0517">Sedg</persName></unclear></note></add> <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>which <w>w<subst><del>as</del><add place="over-text">ere</add></subst></w> strewed all over
 <lb/>with the broken shells - - <del type="strikethrough">When</del>
 <lb/><choice><sic>at</sic><corr>At</corr></choice> the <placeName><geogName type="river">Zouga</geogName></placeName> we <del type="cancelled">ob</del> saw
 <lb/>sixty eggs taken out of one
@@ -1032,7 +1032,7 @@ and
 <lb/>they make a loud champing
 <lb/>noise which when once 
 <lb/>heard is never forgotten - </p>
-<lb/><p><add place="inline" hand="#U2" rend="gray"><note><hi rend="underline"><persName><unclear cert="medium">Sedg</unclear></persName></hi></note></add> 
+    <lb/><p><add place="inline" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></hi></note></add> 
 <lb/>The young in this instance
 <lb/>do not appear wary
 <lb/>They were about <subst><del type="cancelled">six</del><add place="above">ten</add></subst> inches

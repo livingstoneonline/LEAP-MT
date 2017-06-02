@@ -311,7 +311,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>29</note></add> hammering iron - It is this bird
 <lb/>which is famed for his 
 <lb/>friendship for the <term type="animal"><choice><orig>crockodile</orig><reg>crocodile</reg></choice></term>
-<lb/>of the <placeName><geogName type="river">Nile</geogName></placeName> and which <persName>M<hi rend="sup">r</hi> 
+    <lb/>of the <placeName><geogName type="river">Nile</geogName></placeName> and which <persName ref="people.xml#pers0543">M<hi rend="sup">r</hi> 
 <lb/>St John</persName> actually saw <w>per-
 <lb/>-forming</w> the part of tooth
 <lb/>picker to the ugly reptile
@@ -325,8 +325,8 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>as if on that reptile's back
 <lb/>but I never had the good fortune
 <lb/>to witness the operation described
-<lb/>both by <persName>St John</persName> &amp; <persName>Geofrey St-
-<lb/>Hilaire</persName> &amp; <persName>Herodotus</persName> - But that
+    <lb/>both by <persName ref="people.xml#pers0543">St John</persName> &amp; <persName ref="people.xml#pers0307">Geofrey St-
+        <lb/>Hilaire</persName> &amp; <persName ref="people.xml#pers0318">Herodotus</persName> - But that
 <lb/>which neither of these authors knew 
 <lb/><add place="marginleft">my</add> <term type="occupation"><choice><orig><add place="marginleft">head</add> <subst><del>was</del><add place="over-text">boatman</add></subst></orig><reg>head boatman</reg></choice></term> <persName>Mashauana</persName> stopped the
 <lb/><add place="marginleft">canoe to</add> tell us <choice><abbr>viz</abbr><expan>videlicet</expan></choice> - that a <term type="animal">water turtle</term> which
@@ -477,7 +477,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <!-- here -->
     <pb facs="liv_000100_0201.jpg" n="0201"/>
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">200</add></fw> 
-<lb/><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><subst><del type="cancelled"><persName><unclear cert="medium">Dennett</unclear></persName></del><add place="above">Mead</add></subst></hi></add> A fish called <foreign xml:lang="und"><term type="animal">Moshéba</term></foreign> about the
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><subst><del type="cancelled"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="above">Mead</add></subst></hi></add> A fish called <foreign xml:lang="und"><term type="animal">Moshéba</term></foreign> about the
 <lb/>size of a <term type="animal">minnow</term> often skims
 <lb/>along the surface for several 
 <lb/>yards in order to get <del type="cancelled">rid</del> out
@@ -756,12 +756,12 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>up the <placeName><geogName type="river">Leeba</geogName></placeName> in the very
 <lb/>direction we were about
 <lb/>to proceed - <persName>Mpololo</persName> the uncle
-<lb/>of <persName>Sekeletu</persName> is considered the 
+<lb/>of <persName ref="people.xml#pers0519">Sekeletu</persName> is considered the 
 <lb/><term type="occupation">headman</term> of the <placeName><geogName type="valley">Barotse
 <lb/>valley</geogName></placeName> - and the perpetrators
 <lb/>had his full sanction
 <lb/>because <persName>Masiko</persName> a son of 
-<lb/><persName>Santuru</persName> the former <term type="occupation">chief</term>
+    <lb/><persName ref="people.xml#pers0441">Santuru</persName> the former <term type="occupation">chief</term>
 <lb/>of the <term type="tribe">Barotse</term> had fled
 <lb/>high up the <placeName><geogName type="river">Leeambye</geogName></placeName> and
 <lb/>establishing himself there
@@ -780,7 +780,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <pb facs="liv_000100_0209" n="0209"/>                           
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">208</add></fw>  
 <lb/>in direct opposition to the
-<lb/>policy of <persName>Sekeletu</persName> who wished
+<lb/>policy of <persName ref="people.xml#pers0519">Sekeletu</persName> who wished
 <lb/>to be at peace with these
 <lb/>Northern tribes and <persName>Pitsane</persName>
 <lb/>my <term type="occupation">headman</term> was the bearer
@@ -792,7 +792,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>of beads <subst><del><unclear cert="medium">as</unclear></del><add place="over-text">in</add></subst> confirmation
 <lb/>of the message of peace we
 <lb/>were to deliver</p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName><unclear cert="medium">Sedg</unclear></persName></hi></note></add> When we reached <placeName><settlement type="village">Litofe</settlement></placeName>
+    <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></hi></note></add> When we reached <placeName><settlement type="village">Litofe</settlement></placeName>
 <lb/>we <del type="cancelled">s</del>heard that a fresh foray
 <lb/>was in contemplation
 <lb/>but I sent forward orders
@@ -803,7 +803,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>him a bit of my mind to
 <lb/>the effect that as I was
 <lb/>going with the full sanction
-<lb/>of <persName>Sekeletu</persName> if any harm
+<lb/>of <persName ref="people.xml#pers0519">Sekeletu</persName> if any harm
 <lb/>happened to me in consequence
 <lb/>of his ill advised expedition
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>42</note></add> the guilt would rest with
@@ -883,7 +883,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>genius of each people - The
 <lb/><orgName>Makalaka</orgName> love cunning
 <lb/>and the <term type="tribe">Makololo</term> love fighting
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>43</note></add> and others thought if <persName>Sekeletu</persName>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>43</note></add> and others thought if <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>meant them to be at peace
 <lb/>with <persName>Masiko</persName> he ought to
 <lb/>have told them so</p>
@@ -900,7 +900,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>several volunteers even
 <lb/>offered to join our ranks
 <lb/>We however adhered strictly
-<lb/>to the orders of <persName>Sekeletu</persName> as to
+<lb/>to the orders of <persName ref="people.xml#pers0519">Sekeletu</persName> as to
 <lb/>our companions and refused
 <lb/>all others - </p>
 <lb/><p>The people of every village 
@@ -976,7 +976,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>say little about them</p>
 <lb/>
 <lb/><p>We here sent back the
-<lb/>canoe of <persName>Sekeletu</persName> and got the 
+<lb/>canoe of <persName ref="people.xml#pers0519">Sekeletu</persName> and got the 
 <lb/>loan of others from <persName>Mpololo</persName>
 <lb/>Eight riding and seven 
 <lb/>slaughter <term type="animal">oxen</term> were according
@@ -986,7 +986,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>others as presents to the
 <lb/><term type="occupation">chiefs</term> of the <term type="tribe">Balunda</term> - <persName>Mpololo</persName>
 <lb/>was particularly liberal in giving
-<lb/>all that <persName>Sekeletu</persName> ordered though
+<lb/>all that <persName ref="people.xml#pers0519">Sekeletu</persName> ordered though
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>46</note></add> as he feeds on the <term type="animal"><term type="foodstuff">cattle</term></term> he has
 <lb/>in charge he might have felt it
 <lb/>so much abstracted from his
@@ -1005,7 +1005,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 
     <pb facs="liv_000100_0214" n="0214"/>                           
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">213</add></fw>  
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName>Berry</persName></hi></note></add> In coming up the river
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> In coming up the river
 <lb/>to <placeName><settlement type="town">Naliele</settlement></placeName> we met a party 
 <lb/>of fugitive <term type="tribe">Barotse</term> returning
 <lb/>to their homes and as
@@ -1016,17 +1016,17 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>children or <orgName>slaves</orgName> if we
 <lb/>may use the term of a 
 <lb/>young man of the same age
-<lb/>and tribe of <persName>Sekeletu</persName> - who
+<lb/>and tribe of <persName ref="people.xml#pers0519">Sekeletu</persName> - who
 <lb/>being of <choice><sic>a</sic><corr/></choice> an irritable temper
 <lb/><subst><del>was</del><add place="over-text">went</add></subst> by the nickname 
-<lb/><persName>Sekobinyane</persName> = a little slavish 
+    <lb/><persName ref="people.xml#pers0522">Sekobinyane</persName> = a little slavish 
 <lb/>thing - His treatment of 
 <lb/>his <term type="occupation">servants</term> was so bad
 <lb/>that most of them had fled
 <lb/>and when the <term type="tribe">Mambari</term>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>47</note></add> came and contrary to the
-<lb/>orders of <persName>Sekeletu</persName> purchased
-<lb/><orgName>slaves</orgName> <persName>Sekobinyane</persName> <supplied cert="high">sold</supplied> one
+<lb/>orders of <persName ref="people.xml#pers0519">Sekeletu</persName> purchased
+    <lb/><orgName>slaves</orgName> <persName ref="people.xml#pers0522">Sekobinyane</persName> <supplied cert="high">sold</supplied> one
 <lb/>or two of the <term type="tribe">Barotse</term>
 <lb/>children of his village - The
 <lb/>rest fled immediately to
@@ -1034,9 +1034,9 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>in the North and were
 <lb/>gladly <choice><sic>recieved</sic><corr>received</corr></choice> as his subjects
 <lb/><del type="cancelled">Some of When the women</del></p>
-<lb/><p>When <persName>Sekeletu</persName> and I <add place="below">^</add> <add place="above">first</add> ascended
+<lb/><p>When <persName ref="people.xml#pers0519">Sekeletu</persName> and I <add place="below">^</add> <add place="above">first</add> ascended
 <lb/>the <placeName><geogName type="river">Leeambye</geogName></placeName> <subst><del>the fir</del><add place="over-text">we</add></subst> met
-<lb/><persName>Sekobinyane</persName> coming down
+    <lb/><persName ref="people.xml#pers0522">Sekobinyane</persName> coming down
 <lb/>on his way to <placeName><settlement type="town"><choice><orig>Liny-anti</orig><reg>Linyanti</reg></choice></settlement></placeName> -
 <lb/>On being asked the news
 

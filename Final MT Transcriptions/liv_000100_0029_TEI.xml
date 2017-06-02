@@ -140,7 +140,7 @@
 <lb/>a<del type="strikethrough">n</del> great variety of the <term type="plant">papilionaceo<add place="below">us</add></term>
 <lb/>family grow in this <del type="strikethrough">country</del>
 <lb/>part of this country</p>
-<lb/><p><note><date when="1853-03-25">25<hi rend="sup underline">th</hi></date></note> - <persName>Fleming</persName> had <choice><sic>untill</sic><corr>until</corr></choice> now
+                <lb/><p><note><date when="1853-03-25">25<hi rend="sup underline">th</hi></date></note> - <persName ref="people.xml#pers0302">Fleming</persName> had <choice><sic>untill</sic><corr>until</corr></choice> now
 <lb/>always assisted to <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- square bracket connects to the marginal number.JL -->drive his
 <lb/>own waggon <del type="cancelled"><gap extent="2" unit="chars"/></del> but now he
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>109</note></add> <w>knock<del hand="#U3">s</del><add place="over-text" hand="#U3" rend="red">ed</add></w> up as well as his
@@ -181,7 +181,7 @@ by walking
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">27</add> <add place="inspace" hand="#U1" rend="gray right">31</add></fw>
 <lb/>On returning we found that
 <lb/>being left alone had brought
-<lb/>out some of <persName>Fleming</persName>'s energy
+                    <lb/>out some of <persName ref="people.xml#pers0302">Fleming</persName>'s energy
 <lb/>for he had managed to
 <lb/>come up</p>
 <lb/><p>As the water in this pond
@@ -280,7 +280,7 @@ by walking
 <lb/><add place="marginleft" hand="#U3" rend="red">in some places <add place="below" hand="#U3" rend="red">^</add></add> <add place="below" rend="red" hand="#U3">^</add> the poison of <term type="animal">serpents</term> and
 <lb/>a certain bulb are added in
 <lb/>order to increase the virulence
-<lb/><persName>Father Pedro</persName> a <orgName>Jesuit</orgName> who
+    <lb/><persName ref="people.xml#pers0554">Father Pedro</persName> a <orgName>Jesuit</orgName> who
 <lb/>lived at <placeName type="town">Zumbo</placeName> made a 
 <lb/><term type="medicament">balsam</term> containing a number
 <lb/>of plants and <hi rend="underline"><term type="medicament">castor oil</term></hi>
@@ -316,7 +316,7 @@ by walking
 <lb/>fond of a root somewhat
 <lb/>like a <term type="foodstuff">kidney potato</term> and
 <lb/>the kernel of a <term type="foodstuff">nut</term> which
-<lb/><persName>Fleming</persName> thinks a kind of <term type="plant_foodstuff">betel</term> 
+    <lb/><persName ref="people.xml#pers0302">Fleming</persName> thinks a kind of <term type="plant_foodstuff">betel</term> 
 <lb/>The tree is a fine <add place="above">large</add> spreading <add place="inline" hand="#U3" rend="red">one,</add>
 <lb/>and the leaves palmate
 <lb/>From the <subst><del type="strikethrough" hand="#U3" rend="red">numbers</del><add place="above" hand="#U3" rend="red">quantities</add></subst> of <term type="foodstuff">berries</term>
@@ -559,7 +559,7 @@ in the hope of reaching some
 <lb/>of <add place="below">^</add> <add place="marginleft">the strongest</add> <add place="above" hand="#U3" rend="red">of</add> my still weak companions
 <lb/>and cross the river in a
 <lb/>pontoon the gift of <term type="occupation">Captains</term>
-<lb/><persName>Codrington</persName> and <persName>Webb</persName> - We each
+    <lb/><persName ref="people.xml#pers0279">Codrington</persName> and <persName ref="people.xml#pers0566">Webb</persName> - We each
 <lb/>carried some provisions and
 <lb/>a blanket - and passed away
 <lb/>about <measure>20 miles to the Westwards</measure>
@@ -885,7 +885,7 @@ among the tall grass
 <lb/>witnessed the phenomenon
 <lb/>before <del type="strikethrough" hand="#U3" rend="red">on account of our</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">we</add> having <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">on the former occasion</add> departed by night
-<lb/><persName>Sekeletu</persName> now in power
+<lb/><persName ref="people.xml#pers0519">Sekeletu</persName> now in power
 <lb/><choice><sic>recieved</sic><corr>received</corr></choice> us in what is
 <lb/>considered royal style<add place="inline" hand="#U3" rend="red">,</add> <del type="cancelled" hand="#U3" rend="red">by</del>
 <lb/>setting before us a great
@@ -902,15 +902,15 @@ among the tall grass
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">44</add><add place="inspace" hand="#U1" rend="gray right">48</add></fw>                
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The <term type="occupation">court herald</term>
 <lb/>an old man who occupied
-<lb/>the post in <persName>Sebituane</persName>'s time
+<lb/>the post in <persName ref="people.xml#pers0515">Sebituane</persName>'s time
 <lb/>stood up and after some antics<add place="inline" hand="#U3" rend="red">,</add>
 <lb/><add place="marginleft" hand="#U3" rend="red">such</add> as leaping and<!-- possible letters beneath 'a' but they are illegible.JL --> shouting at
 <lb/>the top of his voice<add place="inline" hand="#U3" rend="red">,</add> - roared
 <lb/>out some adulatory sentences
 <lb/>as "<choice><sic>Dont</sic><corr>Don't</corr></choice> I see the white man - 
 <lb/><choice><sic>Dont</sic><corr>Don't</corr></choice> I see the comrade of
-<lb/><persName>Sebituane</persName> - <choice><sic>Dont</sic><corr>Don't</corr></choice> I see the
-<lb/>father of <persName>Sekeletu</persName> <add place="marginleft"><metamark function="insertion"/>"We want sleep"   
+<lb/><persName ref="people.xml#pers0515">Sebituane</persName> - <choice><sic>Dont</sic><corr>Don't</corr></choice> I see the
+<lb/>father of <persName ref="people.xml#pers0519">Sekeletu</persName> <add place="marginleft"><metamark function="insertion"/>"We want sleep"   
     <lb/><supplied cert="high">"</supplied>Give your son
     <lb/>sleep my lord"</add> 
 &amp;c - &amp;c - " The
@@ -927,7 +927,7 @@ among the tall grass
 <lb/>when a person is executed
 <lb/>in public he drags away 
 <lb/>the body - </p>
-<lb/><p>I found <persName>Sekeletu</persName>
+<lb/><p>I found <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>a young man of 18 years
 <lb/>of age of a <del type="cancelled">light</del> <add place="above">dark</add> yellow
 <lb/>colour<add place="inline" hand="#U3" rend="red">,</add> that of which the
@@ -943,7 +943,7 @@ among the tall grass
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">45</add> <add place="inspace" hand="#U1" rend="gray right">49</add></fw>
 <lb/>ability as his father <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">was</add> but is
 <lb/>equally friendly to the <term type="people">English</term>
-<lb/><persName>Sebituane</persName> installed his daughter
+<lb/><persName ref="people.xml#pers0515">Sebituane</persName> installed his daughter
 <lb/><add place="marginleft"><persName>Mamochisane</persName> <add place="below">^</add></add> into the <term type="occupation">chieftainship</term> <add place="below">^</add> <add place="above">long</add> before
 <lb/>his death, but with all his
 <lb/>acuteness the idea of her
@@ -980,12 +980,12 @@ among the tall grass
 <pb facs="liv_000100_0050.jpg" n="0050"/> 
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">46</add> <add place="inspace" hand="#U1" rend="gray right">50</add></fw>
 <lb/>to <persName>Mamochisane</persName> herself that
-<lb/>as soon as <del type="cancelled"><unclear cert="low">sh</unclear></del><persName>Sebituane</persName> died
+<lb/>as soon as <del type="cancelled"><unclear cert="low">sh</unclear></del><persName ref="people.xml#pers0515">Sebituane</persName> died
 <lb/>she said she never would
 <lb/>consent to govern the
 <lb/><term type="tribe">Makololo</term> so long as
 <lb/>she had a brother living
-<lb/><persName>Sekeletu</persName> being afraid of another
+<lb/><persName ref="people.xml#pers0519">Sekeletu</persName> being afraid of another
 <lb/>member of the family <persName>'Mpépe</persName>
 <lb/>who had pretensions to the
 <lb/><term type="occupation">chieftainship</term> urged his
@@ -1021,13 +1021,13 @@ among the tall grass
 <lb/><del type="strikethrough" hand="#U3" rend="red">The difficulty of this case may
 <lb/><choice><sic>percieved</sic><corr>perceived</corr></choice> when</del> <persName>Mpepe</persName>
 <lb/><add place="marginleft" hand="#U3" rend="red">insinuated</add> <del type="strikethrough" hand="#U3" rend="red">held the insinuation</del> that
-<lb/><persName>Sekeletu</persName> was not <del type="strikethrough" hand="#U3" rend="red">really</del> the <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">lawful</add> son
-<lb/>of <persName>Sebituane</persName> on account
+<lb/><persName ref="people.xml#pers0519">Sekeletu</persName> was not <del type="strikethrough" hand="#U3" rend="red">really</del> the <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">lawful</add> son
+<lb/>of <persName ref="people.xml#pers0515">Sebituane</persName> on account
 <lb/>of his mother having been
 <lb/>the wife of another <term type="occuaption">chief</term>
-<lb/>before <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">her</add> marriage with <persName>Sebituane</persName>
+<lb/>before <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">her</add> marriage with <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/><persName>Mamochisane</persName> however
-<lb/>upheld <persName>Sekeletu</persName>'s claims
+<lb/>upheld <persName ref="people.xml#pers0519">Sekeletu</persName>'s claims
 <lb/>and at last stood up in the
 <lb/>assembly and addressed him
 <lb/>with a flood of tears - "I have
@@ -1035,7 +1035,7 @@ among the tall grass
 <lb/>my father wished it - I
 <lb/>always wished to be married
 <lb/>and have a family like
-<lb/>other women - You <persName>Sekeletu</persName>
+<lb/>other women - You <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>must be <term type="occuaption">chief</term> and build
 <lb/>up your father's house"
 <lb/>This was a death blow to
@@ -1045,7 +1045,7 @@ among the tall grass
 <lb/>social and political system
 <lb/>of these people I <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">will</add> add a few
 <lb/>more particulars respecting
-<lb/><persName>Mpepe</persName> - <persName>Sebituane</persName> having
+<lb/><persName>Mpepe</persName> - <persName ref="people.xml#pers0515">Sebituane</persName> having
 <lb/>no son to take the leadership
 <lb/>of the "<foreign xml:lang="tn"><orgName>Mopato</orgName></foreign>" of the age
 <lb/>of his daughter chose him
@@ -1064,7 +1064,7 @@ among the tall grass
 <lb/><persName>Mpepe</persName> removed to the chief
 <lb/>town "<placeName type="village">Naliele</placeName>" and took such
 <lb/>effectual charge of all <add place="above" hand="#U3" rend="red">the <term type="animal">cattle</term></add><add place="inline" hand="#U3" rend="red">,</add> that
-<lb/><persName>Sebituane</persName> saw he could
+<lb/><persName ref="people.xml#pers0515">Sebituane</persName> saw he could
 <lb/>only set matters on their
 <lb/>former <subst><del type="strikethrough" hand="#U3" rend="red">basis</del><add place="above" hand="#U3" rend="red">footing</add></subst> by the severe
 <lb/>measure of <persName>Mpepe</persName>'s execution 

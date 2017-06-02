@@ -434,11 +434,11 @@
 <lb/>A most efficient system
 <lb/>of public instruction was
 <lb/>established in the time
-<lb/>of <term type="occupation">Governor</term> <persName>Sir George Napier</persName>
+    <lb/>of <term type="occupation">Governor</term> <persName ref="person.xml#pers0448">Sir George Napier</persName>
 <lb/>on a plan drawn up in
 <lb/>a great measure by that
 <lb/>accomplished <term type="occupation">philosopher</term>
-<lb/><persName>Sir John Herschel</persName> - the
+    <lb/><persName ref="person.xml#pers0319">Sir John Herschel</persName> - the
 <lb/>system had to contend with
 <lb/>less sectarian rancour than
 <lb/>elsewhere - Indeed <choice><sic>untill</sic><corr>until</corr></choice> quite
@@ -477,8 +477,8 @@
 <lb/>and are seldom sterile - I once
 <lb/>met a worthy matron whose
 <lb/>husband thought it right to
-<lb/>imitate <add place="below" hand="#U3" rend="red">^</add> <add place="marginleft" hand="#U3" rend="red">the conduct of</add> <persName>Abraham</persName> while
-<lb/><persName>Sarah</persName> was barren; she evidently
+    <lb/>imitate <add place="below" hand="#U3" rend="red">^</add> <add place="marginleft" hand="#U3" rend="red">the conduct of</add> <persName ref="people.xml#pers0243">Abraham</persName> while
+<lb/><persName ref="people.xml#pers0511">Sarah</persName> was barren; she evidently
 <lb/>agreed in the propriety of the
 <lb/>measure for she was pleased
 <lb/>to hear the children <add place="below">^</add> <add place="above">by a mother</add> of <unclear cert="high">what</unclear>
@@ -513,7 +513,7 @@
 <lb/>forms<add place="inline" hand="#U3" rend="red">,</add> <del type="cancelled" hand="#U3" rend="red">of</del> the <placeName><region>Interior</region></placeName> <orgName><choice><sic>boers</sic><corr>Boers</corr></choice></orgName>
 <lb/>will become what the
 <lb/>learned imagine <del type="strikethrough" hand="#U3" rend="red">those of</del>
-<lb/>our progenitors <persName>Adam</persName> and <persName>Eve</persName> 
+    <lb/>our progenitors <persName ref="people.xml#pers0245">Adam</persName> and <persName ref="people.xml#pers0299">Eve</persName> 
 <lb/><add place="inline" hand="#U3" rend="red">to have been - </add></p>
 <lb/><space dim="vertical" extent="5" unit="lines"/>
 <lb/><p>The parts of the Colony through

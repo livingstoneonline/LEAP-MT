@@ -97,7 +97,7 @@
                 <!-- Start each page with pagebreak -->
     <pb facs="liv_000099_0001.jpg" n="0001"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">1</add></fw>
-<lb/><opener><salute><persName>The Right. Hon - Labouchere</persName>    
+                <lb/><opener><salute><persName ref="people.xml#pers0365">The Right. Hon - Labouchere</persName>    
 <lb/>       
 <lb/><space extent="9" unit="chars"/>Sir</salute></opener>   
 <lb/>   
@@ -147,16 +147,16 @@
 <lb/>of justice may be judged
 <lb/>of by the fact that when
 <lb/>the <placeName><region>Transvaal</region></placeName> <orgName>Boers</orgName>
-<lb/>attacked the town of <persName>Sechele</persName>
+<lb/>attacked the town of <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>a <term type="occupation">chief</term> living <measure>10<del type="cancelled">°</del> degrees
 <lb/>of Latitude from <placeName><settlement type="city">Cape
 <lb/>Town</settlement></placeName></measure> and contrary to
 <lb/>the express provision in
 <lb/>an <bibl>Article of the treaty</bibl> which
 <lb/>these Boers had entered
-<lb/>into with <persName>Sir George
+    <lb/>into with <persName ref="person.xml#pers0277">Sir George
 <lb/>Cathcart</persName> kidnapped about
-<lb/>200 of <persName>Sechele</persName>'s children
+<lb/>200 of <persName ref="people.xml#pers0516">Sechele</persName>'s children
 <lb/>whom I offered to identify
 <lb/>as members of <persName>M<hi rend="sup">rs</hi> Livingstone</persName><supplied cert="high">'s</supplied>
 <lb/>school, This <term type="occupation">chief</term> travelled
@@ -172,7 +172,7 @@
 <lb/>and his children restored to the
 <lb/>parents</p>
 <lb/>
-<lb/><p>When <persName>Sir George Cathcart</persName>
+                <lb/><p>When <persName ref="person.xml#pers0277">Sir George Cathcart</persName>
 <lb/><add place="marginleft">gave</add> the Rebels <orgName>Boers</orgName> their
 <lb/><choice><sic>indepdendance</sic><corr>independence</corr></choice> he also passed
 <lb/>a <bibl>Powder Ordinance</bibl> by

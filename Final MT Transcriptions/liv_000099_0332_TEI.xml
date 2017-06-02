@@ -117,7 +117,7 @@
 <lb/><w><subst><del hand="#U3">T</del><add place="over-text" rend="red" hand="#U3">t</add></subst>hey</w> believe it has the power
 <lb/>of changing its locality - </p>
 <lb/>
-<lb/><p><add place="marginleft" hand="#U2" rend="gray"><metamark function="placeMark"/> <note><unclear cert="medium"><persName>Bristow</persName></unclear></note></add> On the <date when="1853-01-21">21st <add place="above">January</add></date> we reached <del type="strikethrough" hand="#U3" rend="red">we</del>
+                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><metamark function="placeMark"/> <note><unclear cert="medium"><persName ref="people.xml#pers0266">Bristow</persName></unclear></note></add> On the <date when="1853-01-21">21st <add place="above">January</add></date> we reached <del type="strikethrough" hand="#U3" rend="red">we</del>
 <lb/><del type="strikethrough" hand="#U3" rend="red">reached</del> the wells of <placeName><geogName type="well">Boatlanama</geogName></placeName>
 <lb/>and found them for the first
 <lb/>time empty - <placeName><geogName type="well">Lopepe</geogName></placeName> which
@@ -197,7 +197,7 @@ make a very agreeable dish
 <lb/>covering up the eggs she
 <lb/>leaves them <del type="strikethrough" rend="red" hand="#U3">covered</del> <del type="cancelled">up</del> <w>unti<del type="cancelled">l</del>l</w>
 <lb/>the rains begin to fall and
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName><hi rend="double-underline">Robinson</hi></persName></note></add> the fresh herbage <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>appears - 
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName  ref="people.xml#pers0497"><hi rend="double-underline">Robinson</hi></persName></note></add> the fresh herbage <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>appears - 
 <lb/>The young ones then come
 <lb/>out - their shells still quite soft
 <lb/>and unattended by their dams
@@ -559,7 +559,7 @@ was bitten <del type="cancelled">by the</del>
 
 <pb facs="liv_000099_0344.jpg" n="0344"/>                           
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">329</add></fw>
-<lb/><add place="inline" rend="gray" hand="#U2"><note><persName><unclear cert="medium">Chester</unclear></persName></note></add>
+    <lb/><add place="inline" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0278"><unclear cert="medium">Chester</unclear></persName></note></add>
     <lb/><add place="marginleft"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-115"/>stood on a knoll
     <lb/><measure>300 yards</measure> distant
     <lb/>and roared all
@@ -603,7 +603,7 @@ was bitten <del type="cancelled">by the</del>
     <lb/>to this page</note><anchor xml:id="meta-116"/></add>
 even<add place="inline" hand="U3" rend="red">,</add> but try to draw
 <lb/>him down with <w>the<add place="inline" hand="#U3" rend="red">ir</add></w> claws
-<lb/><persName>Mess<hi rend="sup underline">rs</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and <persName>Vardon</persName>
+    <lb/><persName>Mess<hi rend="sup underline">rs</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and <persName ref="people.xml#pers0557">Vardon</persName>
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">were spectators of</del><add place="above" hand="#U3" rend="red">once saw</add></subst> three
 <lb/><term type="animal">lions</term> endeavouring to
 <lb/>drag down a <term type="animal">buffalo</term>
@@ -775,7 +775,7 @@ even<add place="inline" hand="U3" rend="red">,</add> but try to draw
 <lb/>the yellow tawny colour
 <lb/>At the time of the discovery
 <lb/>of the Lake<!-- Lake Ngami.JL --> Mss<hi rend="sup underline">rs</hi> <persName><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> &amp;
-<lb/><add place="marginleft"><persName>Wilson</persName></add> <del type="strikethrough">a <term type="occupation">trader</term> who accompanied
+    <lb/><add place="marginleft"><persName ref="people.xml#pers0573">Wilson</persName></add> <del type="strikethrough">a <term type="occupation">trader</term> who accompanied
 <lb/>us</del> shot two specimens
 <lb/>of another variety - One
 <lb/>was an old <term type="animal">lion</term> whose
@@ -894,7 +894,7 @@ When in
 <pb facs="liv_000099_0352.jpg" n="0352"/>                         
 <lb/><space extent="3" unit="chars"/><add place="inline">Insert ante - back of page 14
 <lb/>
-<lb/><figure><figDesc>hand pointing to page n="0350"</figDesc></figure></add> <add place="inline" corresp="#add-7">On the plain south of <persName>Sebituane</persName>'s ford
+<lb/><figure><figDesc>hand pointing to page n="0350"</figDesc></figure></add> <add place="inline" corresp="#add-7">On the plain south of <persName ref="people.xml#pers0515">Sebituane</persName>'s ford
 <lb/>a herd of <term type="animal">buffaloes</term> kept a number
 <lb/>of <term type="animals">lions</term> <del type="strikethrough">off</del><add place="above" hand="#U3" rend="red">from</add> <subst><del><unclear cert="low">Being</unclear></del><add place="over-text">their</add></subst> young by the
 <lb/>males turning their heads to the
@@ -945,7 +945,7 @@ I happened to leave a small
 <lb/>near the head but did not
 <lb/>stop to examine - </p>
 <lb/><space dim="vertical" extent="3" unit="lines"/>    
-<lb/><p><add place="inline" hand="#U2" rend="gray"><note><persName>Wilkes</persName></note></add> Some of the <term type="animal">serpents</term> are
+                <lb/><p><add place="inline" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0572">Wilkes</persName></note></add> Some of the <term type="animal">serpents</term> are
 <lb/>particularly venomous. 
 <lb/><w><choice><sic><hi rend="double-underline">o</hi>ne</sic><corr>One</corr></choice></w> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">was</add> killed at <placeName><settlement type="village">Kolobeng</settlement></placeName>
 <lb/>of a dark brown, nearly
@@ -1052,21 +1052,21 @@ I happened to leave a small
 <lb/>of wood, over their shoulders</p>
 <lb/><space dim="vertical" extent="2" unit="lines"/>
 <lb/><p>Some of the <term type="tribe">Bayeiye</term> <add place="marginleft"><metamark function="insertion"/>we met
-    <lb/>at <persName>Sebituane</persName>'s
+    <lb/>at <persName ref="people.xml#pers0515">Sebituane</persName>'s
     <lb/>ford, who</add>
 <lb/>pretended <del type="strikethrough">to render themselves</del>
 <lb/><add place="marginleft">to be <add place="below">^</add></add> innocuous to the bite of
 <lb/><term type="animal">serpents</term>, and <choice><orig>shewed</orig><reg>showed</reg></choice> the
 <lb/>feat of lacerating <subst><del type="strikethrough" hand="#U3" rend="red">their</del><add place="above" hand="#U3" rend="red">the</add></subst>
 <lb/>arms with <subst><del type="strikethrough" rend="red" hand="#U3">the</del><add place="below" rend="red" hand="#U3"><del type="strikethrough" hand="#DL">their</del></add></subst> teeth <del type="strikethrough" hand="#U3" rend="red">of</del>
-<lb/><add place="marginleft"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-237"/><note><del type="cancelled"><choice><sic><persName>Sebituane</persName>s</sic><corr><persName>Sebituane</persName>'s</corr></choice>
+<lb/><add place="marginleft"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-237"/><note><del type="cancelled"><choice><sic><persName ref="people.xml#pers0515">Sebituane</persName>s</sic><corr><persName ref="people.xml#pers0515">Sebituane</persName>'s</corr></choice>
     <lb/>ford</del>
     <lb/><space extent="1" unit="chars"/> <metamark function="query" rend="red" resp="#U3"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></note><anchor xml:id="meta-237"/></add>
 <del type="strikethrough">tame ones</del> of such as are
 <lb/>unfurnished with the poison
 <lb/>fangs <add place="inline">(</add>-<add place="inline">)</add><!-- the dash is circled.JL --> <hi rend="double-underline">T</hi>hey also swallow
 <lb/>the poison by way of
-<lb/>gaining notoriety, but <persName>D<hi rend="sup">r</hi>
+    <lb/>gaining notoriety, but <persName ref="people.xml#pers0537">D<hi rend="sup">r</hi>
 <lb/>Andrew Smith</persName> put <w>the<del type="strikethrough">ir</del></w>
 <lb/>sincerity <add place="marginleft"><metamark function="insertion"/>of such persons</add> to the <subst><del type="cancelled">proof</del><add place="above">test</add></subst> by
 <lb/>offering them the fangs
@@ -1078,7 +1078,7 @@ I happened to leave a small
 <pb facs="liv_000099_0357.jpg" n="0357"/>        <!-- up to here.JL -->                   
 <lb/><p rend="no-indent"><fw><add place="inspace" hand="#U2" rend="gray left"><unclear cert="medium">194</unclear></add></fw></p>
 <lb/><p rend="left">When we reached the <term type="tribe">Bamangwato</term>, the
-<lb/><term type="occupation">chief</term> <persName>Sekomi</persName> was particularly friendly, <del type="strikethrough">-</del> 
+    <lb/><term type="occupation">chief</term> <persName ref="people.xml#pers0520">Sekomi</persName> was particularly friendly, <del type="strikethrough">-</del> 
 <lb/>collected all his people to the <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">religious</add> services <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">we</add> held,
 <lb/>and explained his reasons for compelling
 <lb/>some <term type="people">Englishmen</term> to pay him a <term type="animal">horse</term> - "They
@@ -1089,7 +1089,7 @@ I happened to leave a small
 <lb/>He thus thought extortion better than swindling<add place="below">(</add>.<add place="below">)</add><!-- full stop is circled.JL --> 
 <lb/>I could not detect any <del type="strikethrough" rend="red" hand="#U3">more</del> difference in
 <lb/>the morality of the two<del type="strikethrough">,</del> <add place="above">transactions</add> <del type="strikethrough" rend="red" hand="#U3">than in the dangerousness
-<lb/>of apoplexy &amp; <hi rend="underline"><foreign xml:lang="fr">Coup de Soleil</foreign></hi></del>, but <persName>Sekomi</persName>'s
+    <lb/>of apoplexy &amp; <hi rend="underline"><foreign xml:lang="fr">Coup de Soleil</foreign></hi></del>, but <persName ref="people.xml#pers0520">Sekomi</persName>'s
 <lb/>ideas of <del type="strikethrough" hand="#U3" rend="red">things are</del> honesty are the
 <lb/>lowest I have met with in any
 <lb/><term type="tribe">Bechuana</term> <term type="occupation">chief</term>, and this instance
@@ -1145,7 +1145,7 @@ I happened to leave a small
 <lb/>to exercise his wand on the backs of
 <lb/>the youths may be himself the object
 <lb/>of chastisement by the older, and on
-<lb/>the occasion referred to <persName>Sekomi</persName> himself
+    <lb/>the occasion referred to <persName ref="people.xml#pers0520">Sekomi</persName> himself
 <lb/><choice><sic>recieved</sic><corr>received</corr></choice> a <subst><del type="strikethrough" hand="#U3" rend="red">handsome</del><add place="above" hand="#U3" rend="red">severe</add></subst> cut on the leg
 <lb/>from one of his grey-haired people<add place="below">(</add>.<add place="below">)</add><!-- full stop is circled.JL --> 
 <lb/>On my joking with some of the young

@@ -101,7 +101,7 @@
                 <!-- Start each page with pagebreak -->
                 
                 <pb facs="liv_000100_0168.jpg" n="0168"/>                
-<lb/><p><fw n="heading_XXIII">XXIII <add place="inspace" rend="gray left" hand="#U2"><note><subst><del type="strikethrough" rend="gray" hand="#U2"><persName><unclear cert="medium">Dennett</unclear></persName></del><add place="inspace above" rend="gray left" hand="#U2"><persName>Powell</persName></add></subst></note></add> <add place="inspace" hand="#U1" rend="gray right">167</add></fw>
+                <lb/><p><fw n="heading_XXIII">XXIII <add place="inspace" rend="gray left" hand="#U2"><note><subst><del type="strikethrough" rend="gray" hand="#U2"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="inspace above" rend="gray left" hand="#U2"><persName>Powell</persName></add></subst></note></add> <add place="inspace" hand="#U1" rend="gray right">167</add></fw>
 <lb/><add place="marginleft" rend="gray" hand="#U2">We - </add> entered at <placeName><geogName type="river">Sanshuré</geogName></placeName> and another<!-- p227, Missionary, sh -->
 <lb/>at <placeName><settlement type="town">Sesheke</settlement></placeName> - But the lands
 <lb/><metamark function="unknown" place="marginleft"  rend="gray" resp="#U2"/> both East and West of the
@@ -141,9 +141,9 @@
 
                 <pb facs="liv_000100_0169.jpg" n="0169"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">168</add></fw>
-<lb/>but <persName>Sebituane</persName> always set his
+<lb/>but <persName ref="people.xml#pers0515">Sebituane</persName> always set his
 <lb/>visions down to cowardice and
-<lb/><persName>Sekeletu</persName> only laughed at him
+<lb/><persName ref="people.xml#pers0519">Sekeletu</persName> only laughed at him
 <lb/>now - The general voice
 <lb/>was in my favour so a band
 <lb/>of <add place="below">^</add> <del type="strikethrough">twenty seven</del> <add place="marginleft">Thirty</add> were appointed
@@ -201,7 +201,7 @@
 <lb/>serving me I had to wait
 <lb/>on them I decided that they
 <lb/>should return to the South with
-<lb/><persName>Fleming</persName> as soon as he had<!-- George Fleming, sh -->
+    <lb/><persName ref="people.xml#pers0302">Fleming</persName> as soon as he had<!-- George Fleming, sh -->
 <lb/>finished his trading <supplied cert="high">-</supplied> I was then
 <lb/>entirely dependant on my
 <lb/><del type="cancelled">twenty seven</del> <add place="below">^</add> <add place="marginleft">thirty</add> men whom I
@@ -237,7 +237,7 @@
 <lb/><add place="marginleft">of enemies?"</add> <add place="marginleft">^</add> I replied that none of my friends
 <lb/>would blame them - because I
 <lb/>would leave a book with <del type="cancelled">them</del>
-<lb/><add place="marginleft"><persName>Sekeletu</persName></add> <add place="marginleft">^</add> to be sent to <persName>M<hi rend="sup">r</hi> Moffat</persName> in case
+<lb/><add place="marginleft"><persName ref="people.xml#pers0519">Sekeletu</persName></add> <add place="marginleft">^</add> to be sent to <persName>M<hi rend="sup">r</hi> Moffat</persName> in case
 <lb/>I did not return which would
 <lb/>explain to him all that had
 <lb/><del type="strikethrough">occurred</del> happened <choice><sic>untill</sic><corr>until</corr></choice> the
@@ -278,7 +278,7 @@
 <lb/>soul sadly flurried as
 <lb/>it must be on entering
 <lb/>the spirit world and hoping
-<lb/>that <persName>Jesus</persName> might speak
+    <lb/>that <persName ref="people.xml#pers0333">Jesus</persName> might speak
 <lb/>but one word of peace
 <lb/>for that would establish
 <lb/>in the bosom an <w>ever-
@@ -370,7 +370,7 @@
 <lb/>the same size for medicines
 <lb/>and a third for books my
 <lb/>stock being a <bibl>Nautical Almanac</bibl>
-<lb/><bibl><persName>Thomson</persName>'s Logarithm tables</bibl>
+    <lb/><bibl><persName ref="people.xml#pers0550">Thomson</persName>'s Logarithm tables</bibl>
 <lb/>and a <bibl>Bible</bibl> - A <choice><sic>forth</sic><corr>fourth</corr></choice> box
 <lb/>contained a Magic Lantern
 <lb/>which we found of much
@@ -423,7 +423,7 @@ As I had always
 <lb/>want of "pluck" or because
 <lb/>a large array of baggage<!--p231, Missionary, sh  -->
 <lb/>excited the cupidity of
-<lb/><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName><unclear cert="medium">Sedg</unclear></persName></note></hi></add> the tribes through whose country
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></note></hi></add> the tribes through whose country
 <lb/>we wished to pass - </p>
 <lb/><p>The instruments I carried
 <lb/>though few were the best of their kind
@@ -434,15 +434,15 @@ As I had always
 <lb/>admirable contrivance for enabling
 <lb/>a person to take the exact time of
 <lb/>observations - It was constructed
-<lb/>by <orgName><persName>Dent</persName></orgName> of the <placeName><settlement type="street">Strand</settlement></placeName> (61) for the
+    <lb/>by <orgName><persName ref="people.xml#pers0291">Dent</persName></orgName> of the <placeName><settlement type="street">Strand</settlement></placeName> (61) for the
 <lb/><orgName>Royal Geographical Society</orgName> &amp;
-<lb/>pronounced by <persName>Mr Maclear</persName> to
+    <lb/>pronounced by <persName ref="people.xml#pers0377">Mr Maclear</persName> to
 <lb/>equal most chronometers in
 <lb/>performance - For both these
 <lb/>excellent instruments I have much
 <lb/>pleasure in recording my obligations
-<lb/>to my good friend <persName><term type="occupation">Colonel</term> Steele</persName>
-<lb/>and to <persName>Mr Maclear</persName> for much
+    <lb/>to my good friend <persName ref="people.xml#pers0544"><term type="occupation">Colonel</term> Steele</persName>
+    <lb/>and to <persName ref="people.xml#pers0377">Mr Maclear</persName> for much
 <lb/>of my ability to use them <add place="marginleft"><metamark function="insertion"/>Besides these
     <lb/>I had a thermometer
     <lb/>by <orgName><persName>Dollond</persName></orgName> -
@@ -466,7 +466,7 @@ As I had always
 <lb/><fw><add place="inspace" rend="gray right" hand="#U1">176</add></fw>
 <lb/><p><date when="1853-11-11">11<hi rend="sup underline">th</hi> of November 1853</date> Left the
 <lb/>town of <placeName><settlement type="town">Linyanti</settlement></placeName> accompanied
-<lb/>by <persName>Sekeletu</persName> and his principal
+<lb/>by <persName ref="people.xml#pers0519">Sekeletu</persName> and his principal
 <lb/>men to embark on the <placeName><geogName type="river">Chobe</geogName></placeName>
 <lb/>The <term type="occupation">chief</term> came to the river in order
 <lb/>to see that all was right at
@@ -480,7 +480,7 @@ As I had always
 <lb/>it is a large deep river
 <lb/>The spot of embarkation was
 <lb/>the identical island where we
-<lb/>met <persName>Sebituane</persName> first known
+<lb/>met <persName ref="people.xml#pers0515">Sebituane</persName> first known
 <lb/>as the island of <placeName><geogName type="island">Maunku</geogName></placeName> - one 
 <lb/>of his wives - The <term type="occupation">chief</term> lent
 <lb/>me his own canoe and
@@ -652,7 +652,7 @@ As I had always
 
                 <pb facs="liv_000100_0182.jpg" n="0182"/>    
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">181</add></fw>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName><unclear cert="high">Berry</unclear></persName></note> <del type="cancelled" rend="gray" resp="#U2"><metamark function="placeMark"/></del></add> The <choice><sic>porphoritic</sic><corr>porphyritic</corr></choice> trap contains
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0262"><unclear cert="high">Berry</unclear></persName></note> <del type="cancelled" rend="gray" resp="#U2"><metamark function="placeMark"/></del></add> The <choice><sic>porphoritic</sic><corr>porphyritic</corr></choice> trap contains
 <lb/><choice><sic>chrystals</sic><corr>crystals</corr></choice> which the water
 <lb/>gradually dissolves and leaves
 <lb/>the rock with a worm eaten
@@ -709,12 +709,12 @@ As I had always
     <lb/>flight</add>  
 <metamark function="let-stand" spanTo="#meta-26"/><del type="cancelled">In former
 <lb/>years the</del><anchor xml:id="meta-26"/><!-- the dotted underlining of the preceding words indicates that DL wants them to stand. JL --> <term type="tribe">Bamang-wato</term> men
-<lb/><del type="cancelled"><add place="marginleft">with</add> carrying <persName>Sekomi</persName> as a child
+    <lb/><del type="cancelled"><add place="marginleft">with</add> carrying <persName ref="people.xml#pers0520">Sekomi</persName> as a child
 <lb/><add place="marginleft">in his mother's
     <lb/>arms</add>
 were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>from their women with
-<lb/>the present <term type="occupation">chief</term> <persName>Sekomi</persName>
+    <lb/>the present <term type="occupation">chief</term> <persName ref="people.xml#pers0520">Sekomi</persName>
 <lb/>as a child in his mother's
 <lb/>arms and inveigled on
 <lb/>to one of these islands by
@@ -725,7 +725,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>left to perish after seeing
 <lb/>their wives taken prisoners
 <lb/>by these cruel lords of the
-<lb/><placeName><geogName type="river">Leeambye</geogName></placeName> and <persName>Sekomi</persName> owed
+    <lb/><placeName><geogName type="river">Leeambye</geogName></placeName> and <persName ref="people.xml#pers0520">Sekomi</persName> owed
 <lb/>his life to the compassion
 <lb/>of <del type="cancelled">even</del> one of the <term type="tribe">Bayeiye</term>
 
@@ -772,7 +772,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/><add place="marginleft">North</add> bank of the river and contains
 <lb/>a large population of <term type="tribe">Makalaka</term>
 <lb/>under <persName>Moriantsane</persName> brother
-<lb/>in law of <persName>Sebituane</persName> - There are
+<lb/>in law of <persName ref="people.xml#pers0515">Sebituane</persName> - There are
 <lb/><add place="marginleft">parties of</add> various tribes here assembled
 <lb/>under their respective <w>head<supplied>-</supplied>
 <lb break="no"/>-men</w> but a few <term type="tribe">Makololo</term>
@@ -810,11 +810,11 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>him home - This open defiance
 <lb/>of authority was not resented
 <lb/>by <persName>Moriantsane</persName> but referred
-<lb/><del type="cancelled">to</del> <metamark function="insertion"/><anchor xml:id="reorder-10"/> at <del type="strikethrough"><add place="below">^</add></del> <placeName><settlement type="town">Linyanti</settlement></placeName> <metamark function="reorder" spanTo="#meta-27"/><seg corresp="#reorder-10">to <persName>Sekeletu</persName></seg><anchor xml:id="meta-27"/></p>
+<lb/><del type="cancelled">to</del> <metamark function="insertion"/><anchor xml:id="reorder-10"/> at <del type="strikethrough"><add place="below">^</add></del> <placeName><settlement type="town">Linyanti</settlement></placeName> <metamark function="reorder" spanTo="#meta-27"/><seg corresp="#reorder-10">to <persName ref="people.xml#pers0519">Sekeletu</persName></seg><anchor xml:id="meta-27"/></p>
 <lb/>
 <lb/><p rend="no-indent">A circumstance which happened
 <lb/>here when I was present
-<lb/>with <persName>Sekeletu</persName> <choice><orig>shews</orig><reg>shows</reg></choice> that a
+<lb/>with <persName ref="people.xml#pers0519">Sekeletu</persName> <choice><orig>shews</orig><reg>shows</reg></choice> that a
 <lb/>simple mode of punishment
 <lb/>with which we are familiar
 <lb/>did not strike the <term type="tribe">Makololo</term>
@@ -864,7 +864,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>her own entirely - It became the
 <lb/>property of her whose field
 <lb/>was injured by the crime
-<lb/>When <persName>Sechele</persName> saw the
+<lb/>When <persName ref="people.xml#pers0516">Sechele</persName> saw the
 <lb/><add place="marginleft">convicts</add> <del type="cancelled">criminals</del> working on the
 <lb/>roads in the <placeName><region>Cape Colony</region></placeName>
 <lb/>he at once introduced
@@ -984,7 +984,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
     <lb/>four <term type="animal"><choice><sic>Elephants</sic><corr>Elephant's</corr></choice></term>
     <lb/>tusks with
     <lb/>us belonging
-    <lb/>to <persName>Sekeletu</persName>
+    <lb/>to <persName ref="people.xml#pers0519">Sekeletu</persName>
     <lb/>as a means
     <lb/>of testing the
     <lb/>difference
@@ -1023,7 +1023,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>much less than we got but
 <lb/>my <term type="tribe">Makololo</term> man <persName>Pitsane</persName>
 <lb/>knew of the generous orders
-<lb/>of <persName>Sekeletu</persName> and was not
+<lb/>of <persName ref="people.xml#pers0519">Sekeletu</persName> and was not
 <lb/>at all disposed to allow
 <lb/>them to remain a dead letter
 <lb/>The villages of the <term type="tribe">Banyeti</term>

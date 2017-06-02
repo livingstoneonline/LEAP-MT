@@ -289,7 +289,7 @@
 
     <pb facs="liv_000100_0364.jpg" n="0364"/>               
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">363</add></fw>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Berry</persName></hi></note></add> <date when="1854-02-06">6<hi rend="sup underline">th</hi></date> Soon after starting we crossed
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> <date when="1854-02-06">6<hi rend="sup underline">th</hi></date> Soon after starting we crossed
 <lb/><add place="marginleft"><note><placeName><geogName type="river">Lokalueje</geogName></placeName></note></add> a branch of the <del type="cancelled"><placeName><geogName type="river"><choice><orig>Lokalu<add place="above">e</add>je</orig><reg>Lokalueje</reg></choice></geogName></placeName></del> 
 <lb/>or <placeName><geogName type="river"><choice><orig>Lokal<subst><del type="cancelled">ooz</del><add place="above">ue</add></subst>je</orig><reg>Lokalueje</reg></choice></geogName></placeName> by means of a
 <lb/>canoe - and in the afternoon
@@ -448,8 +448,8 @@
 
     <pb facs="liv_000100_0368.jpg" n="0368"/>               
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">367</add></fw>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Wheeler</persName></hi></note></add> We came to the village of
-<lb/><persName>Soana <choice><sic>m</sic><corr>M</corr></choice>olopo</persName><add place="inline" rend="gray" hand="#U2">,</add> a half brother
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0568">Wheeler</persName></hi></note></add> We came to the village of
+    <lb/><persName ref="people.xml#pers0547">Soana <choice><sic>m</sic><corr>M</corr></choice>olopo</persName><add place="inline" rend="gray" hand="#U2">,</add> a half brother
 <lb/>of <persName>Katema</persName><add place="inline" rend="gray" hand="#U2">,</add> a <measure>few miles</measure>
 <lb/>beyond the <placeName><geogName type="river"><choice><orig>Lokalu<metamark function="let-stand" spanTo="#meta-201"/><del type="strikethrough">e</del><anchor xml:id="meta-201"/>je</orig><reg>Lokalueje</reg></choice></geogName></placeName><add place="inline" rend="gray" hand="#U2">,</add> on the
 <lb/><date when="1854-02-07">7<hi rend="sup underline">th</hi></date> and<add place="inline" rend="gray" hand="#U2">,</add> when we went
@@ -463,7 +463,7 @@
 <lb/>delivered the following sentences
 <lb/>"The journey of the white man
 <lb/>is very proper<add place="inline" rend="gray" hand="#U2">,</add> but
-<lb/><persName>Shinte</persName> has disturbed us
+    <lb/><persName ref="people.xml#pers0532">Shinte</persName> has disturbed us
 <lb/>by <choice><orig>shewing</orig><reg>showing</reg></choice> the <term type="tribe">Makololo</term><add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>who accompany him<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>34</note></add> the path to us - He ought to
@@ -479,9 +479,9 @@
 <lb/>ideas - When we left
 <lb/><persName>Ntemese</persName> continued busily
 <lb/>imparting an idea of all
-<lb/>we had given to <persName>Shinte</persName> &amp;
+    <lb/>we had given to <persName ref="people.xml#pers0532">Shinte</persName> &amp;
 <lb/><persName>Masiko</persName><add place="inline" rend="gray" hand="#U2">,</add> and instilling the
-<lb/>hope that <persName>Soana Molopo</persName> might
+    <lb/>hope that <persName ref="people.xml#pers0547">Soana Molopo</persName> might
 <lb/>expect as much as they had <add place="below"><choice><sic>recieved</sic><corr>received</corr></choice></add>
 
 
@@ -490,7 +490,7 @@
 <lb/>accordingly when we expected
 <lb/>to move on the morning
 <lb/>of the <date when="1854-02-08">8<hi rend="sup underline">th</hi></date> we got some 
-<lb/>hints about the <term type="animal">ox</term> <persName>Soana-
+    <lb/>hints about the <term type="animal">ox</term> <persName ref="people.xml#pers0547">Soana-
 <lb/><choice><sic>m</sic><corr>M</corr></choice>olopo</persName> expected to eat,
 <lb/><add place="marginleft">but <add place="below">^</add></add>  <del type="cancelled">We</del> recommended him to
 <lb/>get the breed for himself<add place="inline" rend="gray" hand="#U2">,</add>
@@ -501,7 +501,7 @@
 <lb/>moreover tried to frighten
 <lb/>us into parting with
 <lb/>an <term type="animal">ox</term><add place="inline" rend="gray" hand="#U2">,</add> by saying that
-<lb/><persName>Soana-Molopo</persName> would
+    <lb/><persName ref="people.xml#pers0547">Soana-Molopo</persName> would
 <lb/>send forward <subst><del>p</del><add place="over-text">a</add></subst> message<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>that we were a marauding
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>35</note></add> party<add place="inline" rend="gray" hand="#U2">,</add> but we bundled
@@ -555,7 +555,7 @@
 <lb/>
 <lb/><p>As usual we were
 <lb/>caught by <seg type="weather">rains</seg><add place="inline" rend="gray" hand="#U2">,</add> after leaving
-<lb/><persName>Soana Molopo</persName>'s and made
+    <lb/><persName ref="people.xml#pers0547">Soana Molopo</persName>'s and made
 <lb/>our booths at the house
 <lb/>of a most intelligent and
 <lb/>friendly man belonging
@@ -634,7 +634,7 @@ If they ever visit
 <lb/><add place="marginleft">the <term type="nationality">Indian</term></add> <del type="cancelled">(</del><term type="plant_foodstuff">Bringalls</term><del type="cancelled">) too</del> - <del type="cancelled">&amp;</del> <term type="plant_foodstuff">yams</term> &amp; <term type="plant_foodstuff">sweet
 <lb/>potatoes</term></p>
 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName><unclear cert="medium">Ker</unclear></persName></hi></note></add> We learned from
-<lb/><persName>Mozinkwa</persName> that <persName>Soana Molopo</persName>
+    <lb/><persName>Mozinkwa</persName> that <persName ref="people.xml#pers0547">Soana Molopo</persName>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>38</note></add> was the elder brother of
 <lb/><persName>Katema</persName> but that he was<!-- p315, Missionary, sh -->
 <lb/><subst><del>s</del><add place="over-text">w</add></subst>anting in wisdom and
@@ -646,7 +646,7 @@ If they ever visit
 <lb/>the birthright to himself
 <lb/>so far as influence in
 <lb/>the country is concerned
-<lb/><add place="marginleft"><persName>Soana</persName>'s</add> <del type="cancelled">His</del> first address to us
+    <lb/><add place="marginleft"><persName ref="people.xml#pers0547">Soana</persName>'s</add> <del type="cancelled">His</del> first address to us
 <lb/>did not savour much
 <lb/>of the <orgName>African</orgName> wisdom</p>
 <lb/><space dim="vertical" extent="2" unit="lines"/>
@@ -696,7 +696,7 @@ If they ever visit
 <lb/><p rend="no-indent"><fw><add place="inspace" hand="#U1" rend="gray right">373</add></fw>
 <lb/>As we were crossing the river
 <lb/>we were joined by a messenger
-<lb/>from <persName>Katema</persName> called <persName>Shakatwala</persName> 
+    <lb/>from <persName>Katema</persName> called <persName ref="people.xml#pers0529">Shakatwala</persName> 
 <lb/>This person was <del type="strikethrough">one of those</del>
 <lb/>a sort of <term type="occupation">steward</term> or <term type="occupation">factotum</term>
 <lb/>to his <term type="occupation">chief</term> - Every <term type="occupation">chief</term> has
@@ -704,12 +704,12 @@ If they ever visit
 <lb/>and though generally poor
 <lb/>they are invariably men
 <lb/>of great shrewdness and
-<lb/>ability - <del type="cancelled"><persName>Shakatwala</persName></del> They
+    <lb/>ability - <del type="cancelled"><persName ref="people.xml#pers0529">Shakatwala</persName></del> They
 <lb/>act the part of messengers
 <lb/>on all important occasions
 <lb/>and possess considerable
 <lb/>authority in the <choice><sic><term type="occupation">chief</term>s</sic><corr><term type="occupation">chief</term>'s</corr></choice> <w>house<supplied>-</supplied>
-<lb break="no"/>-hold</w> - <persName>Shakatwala</persName> informed
+    <lb break="no"/>-hold</w> - <persName ref="people.xml#pers0529">Shakatwala</persName> informed
 <lb/>us that <persName>Katema</persName> had not
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>40</note></add> <choice><sic>recieved</sic><corr>received</corr></choice> precise information
 <lb/>about us but if we were
@@ -879,7 +879,7 @@ If they ever visit
 <lb/>and death - On enquiring
 <lb/>whether human sacrifices
 <lb/>were still made as in
-<lb/>the time of <persName>Pereira</persName> <add place="below">^</add> <add place="above">at <choice><sic><persName>Cazembe</persName>s</sic><corr><persName>Cazembe</persName>'s</corr></choice></add> we were
+    <lb/>the time of <persName>Pereira</persName> <add place="below">^</add> <add place="above">at <choice><sic><persName ref="people.xml#pers0351">Cazembe</persName>s</sic><corr><persName ref="people.xml#pers0351">Cazembe</persName>'s</corr></choice></add> we were
 
 
     <pb facs="liv_000100_0379.jpg" n="0379"/>          

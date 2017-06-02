@@ -109,7 +109,7 @@
 <lb/>the entire <orgName>African</orgName> race</p>
 <lb/>
 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><metamark function="placeMark"/>
-<lb/><note><unclear cert="low"><persName>Daintree</persName> &amp; Co.</unclear></note></add> When converts are made
+    <lb/><note><unclear cert="low"><persName ref="people.xml#pers0288">Daintree</persName> &amp; Co.</unclear></note></add> When converts are made
 <lb/>from heathenism by modern
 <lb/><term type="occupation">missionaries</term> it becomes
 <lb/>an interesting question whether
@@ -331,7 +331,7 @@
 
 
    <pb facs="liv_000099_0285.jpg" n="0285"/>
-<lb/><p><fw><add place="inspace" hand="#U2" rend="gray">237</add></fw> When <persName>Sechele</persName> understood<!-- page looks like it was cropped removing left margin affecting 11th line. sh -->
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray">237</add></fw> When <persName ref="people.xml#pers0516">Sechele</persName> understood<!-- page looks like it was cropped removing left margin affecting 11th line. sh -->
 <lb/>that we could no longer <space extent="3" unit="chars"/><fw><add place="inspace" hand="#U1" rend="gray">277</add></fw> 
 <lb/>remain with him at <placeName><settlement type="village">Kolobeng</settlement></placeName>
 <lb/>he sent his children to <persName>M<hi rend="sup">r</hi>
@@ -355,7 +355,7 @@
 <lb/>the <term type="tribe">Bakwains</term> news of
 <lb/>which were about the end
 <lb/>of that time brought by <persName><w>Ma-
-<lb break="no"/>-sebele</w></persName> the wife of <persName>Sechele</persName> -
+<lb break="no"/>-sebele</w></persName> the wife of <persName ref="people.xml#pers0516">Sechele</persName> -
 <lb/>She had herself been hidden
 <lb/>in a cleft of rock over which
 <lb/>a number of <orgName><choice><sic>boers</sic><corr>Boers</corr></choice></orgName> were
@@ -374,7 +374,7 @@ the<del type="strikethrough">ir</del>
 <lb/>as follows</p><!-- colon and dash occurs in printed work. sh -->
 <lb/><p>"<quote>Friend of my heart<add place="inline" rend="red" hand="#U3">'</add>s love and
 <lb/>of all the confidence of my heart
-<lb/>I am<add place="inline" rend="red" hand="#U3"><del type="cancelled">,</del></add> <persName>Sechele</persName>, I am undone
+<lb/>I am<add place="inline" rend="red" hand="#U3"><del type="cancelled">,</del></add> <persName ref="people.xml#pers0516">Sechele</persName>, I am undone
 <lb/>by the <orgName>Boers</orgName> who attacked me (though
 <lb/>I had no guilt with them<add place="inline" rend="red" hand="#U3">)</add> - They
 <lb/>demanded that I should be
@@ -400,7 +400,7 @@ the<del type="strikethrough">ir</del>
 <lb/>They killed sixty of my people
 <lb/>and captured women and
 <lb/>children and men - And the
-<lb/>mother of <persName><choice><orig>Balering</orig><reg>Baleriling</reg></choice></persName> they also
+    <lb/>mother of <persName ref="people.xml#pers0256"><choice><orig>Balering</orig><reg>Baleriling</reg></choice></persName> they also
 <lb/>took prisoner - they took
 <lb/>all the <term type="animal">cattle</term> and all the goods
 <lb/>of the <term type="tribe">Bakwains</term> - And the
@@ -423,7 +423,7 @@ the<del type="strikethrough">ir</del>
 <lb/>friend now my wife goes
 <lb/>to see the children and <persName>Kobus
 <lb/>Hae</persName> will convey her to you
-<lb/><space extent="7" unit="chars"/>I am <persName>Sechele</persName>
+<lb/><space extent="7" unit="chars"/>I am <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/><space extent="7" unit="chars"/>the son of <persName>Mochoasele</persName></quote>"
 
 
@@ -446,7 +446,7 @@ sent by some of the <orgName>Boers</orgName> to
 <lb/>heard of it and would
 <lb/>at once declare it - But the
 <lb/>only crime imputed <del type="cancelled">was</del> in
-<lb/><add place="marginleft">the papers was</add> "<quote><persName>Sechele</persName> was getting too saucy!</quote>"
+<lb/><add place="marginleft">the papers was</add> "<quote><persName ref="people.xml#pers0516">Sechele</persName> was getting too saucy!</quote>"
 <lb/>The demand made for his
 <lb/>subjection and service in
 <lb/>preventing the <term type="nationality">English</term> <term type="occupation">traders</term>
@@ -460,8 +460,8 @@ sent by some of the <orgName>Boers</orgName> to
 <lb/>as a body into the <orgName>Dutch Reformed</orgName>
 <lb/>Church with great solemnity
 <lb/>and concluded a treaty with
-<lb/><persName>Sir George Cathcart</persName> by means
-<lb/>of the <term type="occupation">Commissioners</term> <persName>Hogg</persName>
+    <lb/><persName ref="person.xml#pers0277">Sir George Cathcart</persName> by means
+    <lb/>of the <term type="occupation">Commissioners</term> <persName ref="people.xml#pers0320">Hogg</persName>
 <lb/>and <persName>Owen</persName> <del type="strikethrough">for</del> stipulating
 <lb/>for freedom of access to
 <lb/>the <placeName><region>Interior</region></placeName> for <term type="people">Englishmen</term>
@@ -480,13 +480,13 @@ sent by some of the <orgName>Boers</orgName> to
 <lb/>of this indiscretion was the
 <lb/>immediate organization
 <lb/>of the expedition against
-<lb/><persName>Sechele</persName> and the destruction
+<lb/><persName ref="people.xml#pers0516">Sechele</persName> and the destruction
 <lb/>of three mission stations - </p>
 <lb/><p><del type="strikethrough">The treaty was made with
-<lb/>the Rebel <persName><choice><abbr>A -</abbr><expan>Andries</expan></choice> <choice><abbr>W -</abbr><expan>Wilhelmus</expan></choice> Pretorius</persName></del>
+    <lb/>the Rebel <persName ref="people.xml#pers0483"><choice><abbr>A -</abbr><expan>Andries</expan></choice> <choice><abbr>W -</abbr><expan>Wilhelmus</expan></choice> Pretorius</persName></del>
 <lb/>The <term type="occupation">missionaries</term> of two of
 <lb/>these being formally expelled <add place="marginleft"><metamark function="insertion"/>the country afterwards</add> 
-<lb/>for mildly remonstrating <add place="marginleft"><metamark function="insertion"/>with the <persName><term type="occupation">Commandant</term>
+    <lb/>for mildly remonstrating <add place="marginleft"><metamark function="insertion"/>with the <persName ref="people.xml#pers0512"><term type="occupation">Commandant</term>
     <lb/>Peit Scholtz</persName></add>
 <lb/>at the sight of the <orgName>Boers</orgName>
 <lb/>driving crowds of children
@@ -494,7 +494,7 @@ sent by some of the <orgName>Boers</orgName> to
 <lb/>from the fight to &amp; from
 <lb/>the waters as is done
 <lb/>with flocks of <term type="animal">goats</term> - From
-<lb/><persName>Sechele</persName> were taken away
+<lb/><persName ref="people.xml#pers0516">Sechele</persName> were taken away
 <lb/>200 of the children most
 <lb/>of whom I could have
 <lb/>identified as belonging
@@ -548,7 +548,7 @@ sent by some of the <orgName>Boers</orgName> to
 <lb/>I <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">felt that I</add> had not a single source
 <lb/>of care <subst><del type="strikethrough" hand="#U3" rend="red">in my rear</del><add place="above" hand="#U3" rend="red">behind me</add></subst> - But
 <lb/>as matter of duty I immediately
-<lb/>volunteered to <persName>Sir George
+    <lb/>volunteered to <persName ref="person.xml#pers0277">Sir George
 <lb/>Cathcart</persName> to identify the
 <lb/>school children consigned
 <lb/>in opposition to <persName>Mr <term type="occupation">Commissioner</term>
@@ -593,7 +593,7 @@ taught
 <lb/>our feelings on many
 <lb/>subjects and towards many
 <lb/>men - Long before I returned
-<lb/>from the North <persName>Sir George
+    <lb/>from the North <persName ref="person.xml#pers0277">Sir George
 <lb/>Cathcart</persName> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">had</add> died bravely fighting
 <lb/>the battles of his country in
 <lb/>the <placeName><region>Crimea</region></placeName> loved and lamented
@@ -604,7 +604,7 @@ taught
 <lb/>by all - His policy was a mistake
 <lb/>but no one <space extent="1" unit="chars"/>doubts the uprightness
 <lb/>of him intentions and aims - </p><!-- end of section excised from published MT.JL -->
-<lb/><p>Very soon after <persName><choice><abbr>A - ..</abbr><expan>Andries</expan></choice> <choice><abbr>W -</abbr><expan>Wilhelmus</expan></choice> Pretorius</persName><!-- text now p119 in Missionary travels. sh -->
+                <lb/><p>Very soon after <persName ref="people.xml#pers0483"><choice><abbr>A - ..</abbr><expan>Andries</expan></choice> <choice><abbr>W -</abbr><expan>Wilhelmus</expan></choice> Pretorius</persName><!-- text now p119 in Missionary travels. sh -->
 <lb/>sent the marauding party
 <lb/>against <placeName><settlement type="village">Kolobeng</settlement></placeName> he too
 <lb/><add place="marginleft" rend="red" hand="#U3">has been</add> <del type="strikethrough" rend="red" hand="#U3">was</del> called away to the Tribunal
@@ -734,7 +734,7 @@ taught
 <lb/><bibl>Bible</bibl> left them by their forefathe<supplied cert="high">rs</supplied>
 <lb/>This <choice><orig>shews</orig><reg>shows</reg></choice> the Latitude &amp;
 <lb/>Longitude of the <choice><sic>garden</sic><corr>Garden</corr></choice> of 
-<lb/><placeName><geogName>Eden</geogName></placeName> - The Pillars of <persName>Hercules</persName>
+    <lb/><placeName><geogName>Eden</geogName></placeName> - The Pillars of <persName ref="people.xml#pers0316">Hercules</persName>
 <lb/>and perhaps the bedstead of
 <lb/><choice><sic>of</sic><corr/></choice> King of <placeName><region>Bashan</region></placeName> - And
 <lb/>being in the <bibl>Bible</bibl> is of
@@ -748,7 +748,7 @@ taught
 <lb/>left - Not a single <term type="occupation">minister</term> or
 <lb/><term type="occupation">missionary</term> accompanied
 <lb/>them in their emigration but
-<lb/>when <persName>Sir Harry Smith</persName> routed
+    <lb/>when <persName ref="person.xml#pers0538">Sir Harry Smith</persName> routed
 <lb/>them at <placeName><settlement type="farm">Boomplaats</settlement></placeName> he most
 
 
@@ -766,7 +766,7 @@ taught
 <lb/>to be <metamark function="insertion" rend="red" resp="#U3"/><add place="marginleft"><metamark function="flag" spanTo="#meta-328" rend="red" resp="#U3"/>at the time<anchor xml:id="meta-328"/></add> in the part of the <placeName><geogName type="mountains"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice>
 <lb/>mountains</geogName></placeName> <metamark function="insertion"/> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">which</add> they were visiting
 <lb/>and found my brethren
-<lb/>residing in the house of <persName>M<hi rend="sup underline">r</hi>
+    <lb/>residing in the house of <persName ref="people.xml#pers0364">M<hi rend="sup underline">r</hi>
 <lb/>Gert Krieger</persName> the <term type="occupation"><w>sub-
 <lb break="no"/>commandant</w></term> who had
 <lb/>first returned from the above
@@ -774,7 +774,7 @@ taught
 <lb/>ammunition pouch shot
 <lb/>away, and who had been
 <lb/>noticed significantly by
-<lb/><persName>Sir Harry</persName> in a proclamation
+    <lb/><persName ref="person.xml#pers0538">Sir Harry</persName> in a proclamation
 <lb/>for <subst><del type="strikethrough">his</del><add place="above">the</add></subst> part <del type="strikethrough" rend="red" hand="#U3">in the rebellion</del><add place="above">he had played in the</add>
 <lb/><add place="marginleft">rebellion</add> I saw in every house I entered
 <lb/><add place="marginleft"><orgName>slave</orgName></add> children who<!-- possible word under 'who' but it is illegible.JL --> had been captured
@@ -834,7 +834,7 @@ taught
 <lb/><term type="occupation">servants</term> willing to risk a
 <lb/>journey to the North and
 <lb/>a man of colour named
-<lb/><persName>George Fleming</persName> who had
+    <lb/><persName ref="people.xml#pers0302">George Fleming</persName> who had
 <lb/>generously been a<subst><del hand="#U3">ss</del><add place="over-text" rend="red" hand="#U3">ss</add></subst>isted by
 <lb/>a mercantile gentleman
 <lb/>of <placeName><settlement type="city">Cape Town</settlement></placeName> to endeavour
@@ -853,7 +853,7 @@ taught
 <lb/>any terms - </p>
 <lb/><p>When we reached <placeName><settlement type="village">Motito</settlement></placeName>
 <lb/><measure>forty miles</measure> off we met
-<lb/><persName>Sechele</persName> on his way as he
+<lb/><persName ref="people.xml#pers0516">Sechele</persName> on his way as he
 <lb/>said "to the Queen of <placeName><country>England</country></placeName>"
 <lb/>Two of his own children
 <lb/>and their mother <add place="below">^</add> <add place="above"><persName>Mabalerileng</persName></add> were among
@@ -878,7 +878,7 @@ taught
 <lb/>of the way and <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" rend="red" hand="#U3"><choice><sic>Endeavouring</sic><corr>endeavouring</corr></choice> to</add>  <choice><sic>dissuad<del type="strikethrough" rend="red" hand="#U3">ing</del></sic><corr>dissuade</corr></choice>
 <lb/>him from the attempt on
 <lb/>account of the knowledge
-<lb/>I possessed of <persName>Sir George
+    <lb/>I possessed of <persName ref="person.xml#pers0277">Sir George
 <lb/>Cathcart</persName>'s policy - He
 <lb/>put the pointed question
 <lb/>"Will the Queen not listen
@@ -891,7 +891,7 @@ taught
 <lb/>the difficulties more fully but
 <lb/><add place="marginleft" rend="red" hand="#U3">nothing could shake</add> his resolution <del type="strikethrough" hand="#U3" rend="red">was <unclear cert="medium">implacable</unclear></del>
 <lb/>When he reached <placeName><settlement type="city">Bloemfontein</settlement></placeName>
-<lb/>he found the army of <persName>Sir
+    <lb/>he found the army of <persName ref="person.xml#pers0277">Sir
 <lb/>George</persName> just returning from
 <lb/>a battle in which both parties<!-- "battle with the Basutos" Miss. Travels p121. sh -->
 <lb/>claim<add place="inline" rend="red" hand="#U3">ed</add> the victory and both
@@ -900,7 +900,7 @@ taught
 <lb/>The <term type="occupation">officers</term> not a whit
 <lb/><choice><orig>chagrinned</orig><reg>chagrined</reg></choice> by their not over
 <lb/>glorious campaign invited
-<lb/><persName>Sechele</persName> to dine with them
+<lb/><persName ref="people.xml#pers0516">Sechele</persName> to dine with them
 <lb/>heard his story and collected
 <lb/>a handsome <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">sum</add> of money
 
@@ -911,12 +911,12 @@ taught
 <lb/>journey to <placeName><country>England</country></placeName> - As a
 <lb/>single word in favour
 <lb/>of the restoration of the
-<lb/>children of <persName>Sechele</persName> would
+<lb/>children of <persName ref="people.xml#pers0516">Sechele</persName> would
 <lb/>have been a virtual <del type="cancelled">declaration</del>
 <lb/>confession of the failure of
 <lb/>his policy at the very outset
-<lb/><add place="marginleft" rend="red" hand="#U3"><persName>Sir George Cathcart</persName></add> <del type="strikethough" rend="red" hand="#U3">he</del> wisely refrained from
-<lb/>noticing him - <persName>Sechele</persName> proceeded
+    <lb/><add place="marginleft" rend="red" hand="#U3"><persName ref="person.xml#pers0277">Sir George Cathcart</persName></add> <del type="strikethough" rend="red" hand="#U3">he</del> wisely refrained from
+<lb/>noticing him - <persName ref="people.xml#pers0516">Sechele</persName> proceeded
 <lb/>to the <placeName><region>Cape</region></placeName> and his resources
 <lb/>being there expended he was
 <lb/>obliged to return to his own
@@ -944,7 +944,7 @@ taught
 
    <pb facs="liv_000099_0301.jpg" n="0301"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">253</add> <add place="inspace" hand="#U1" rend="gray right">293</add> </fw>
-<lb/><p>Having parted with <persName>Sechele</persName> we
+<lb/><p>Having parted with <persName ref="people.xml#pers0516">Sechele</persName> we
 <lb/>skirted along and sometimes
 <lb/>in the <placeName><geogName type="desert">Kalahari desert</geogName></placeName> <add place="marginleft"><metamark function="insertion"/><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-88"/>giving the <orgName>Boers</orgName>
     <lb/>a wide berth<anchor xml:id="meta-88"/></add><!-- metamark here separates two additional texts for two different lines that would have been confusing. sh  --> 
@@ -1034,7 +1034,7 @@ There
 <lb/>Desert<!-- Kalahari Desert. sh --> about the same time
 <lb/>and nearly in the same direction
 <lb/>On returning one of them
-<lb/><persName>Captain Shelley</persName> <subst><del type="strikethrough" hand="#U3" rend="red">in</del><add place="above" rend="red" hand="#U3">while</add></subst> riding
+    <lb/><persName ref="people.xml#pers0531">Captain Shelley</persName> <subst><del type="strikethrough" hand="#U3" rend="red">in</del><add place="above" rend="red" hand="#U3">while</add></subst> riding
 <lb/>forward on <term type="animal">horse</term>back
 <lb/>lost his <subst><del type="cancelled">way</del><add place="above">path</add></subst> and was
 <lb/>obliged to find his <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3"><del type="strikethrough">own</del></add> way <add place="inline" rend="red" hand="#U3">alone</add>
@@ -1050,7 +1050,7 @@ There
 <lb/>endured<add place="inline" rend="red" hand="#U3">;</add> <del type="cancelled" rend="red" hand="#U3">and</del> <subst><del>his</del><add place="over-text">the</add></subst> <del type="cancelled">routes
 <lb/>of <unclear cert="medium">M<hi rend="sup">r</hi> he</unclear> &amp; <persName>M<hi rend="sup">r</hi> Macabe</persName></del>
 <lb/>result of <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-94"/><seg corresp="#reorder-39">both</seg><anchor xml:id="meta-94"/> the exertions
-<lb/>of <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-39"/> <persName>Shelley</persName> and <persName>Macabe</persName> <add place="inline" rend="red" hand="#U3">is to</add>
+    <lb/>of <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-39"/> <persName ref="people.xml#pers0531">Shelley</persName> and <persName>Macabe</persName> <add place="inline" rend="red" hand="#U3">is to</add>
 <lb/><subst><del type="strikethrough" rend="red" hand="#U3">are</del><add place="above" rend="red" hand="#U3">prove</add></subst> that the general
 <lb/>view of the Desert given<!-- Kalahari Desert. sh -->
 <lb/>by the <orgName>natives</orgName> has been

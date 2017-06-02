@@ -100,7 +100,7 @@
         
     <pb facs="liv_000100_0407.jpg" n="0407"/><!-- p329 Missionary, sh -->
 <lb/><p><fw n="heading_XXXIII">XXXIII <add place="inspace" hand="#U2" rend="gray center">1</add> <add place="inspace" hand="#U1" rend="gray right">406</add></fw>  
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline">(250)</hi> <space extent="2" unit="chars"/><persName><unclear cert="low">Thorns</unclear></persName></note></add> <note place="inline"><date when="1854-02-24">24<hi rend="sup underline">th</hi> <hi rend="gray underline" resp="#U2"><choice><abbr>Feb<hi rend="sup">y</hi></abbr><expan>February</expan></choice></hi></date></note> - On reaching <w>un-
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline">(250)</hi> <space extent="2" unit="chars"/><persName ref="people.xml#pers0551"><unclear cert="low">Thorns</unclear></persName></note></add> <note place="inline"><date when="1854-02-24">24<hi rend="sup underline">th</hi> <hi rend="gray underline" resp="#U2"><choice><abbr>Feb<hi rend="sup">y</hi></abbr><expan>February</expan></choice></hi></date></note> - On reaching <w>un-
 <lb break="no"/>flooded</w> lands<!-- letters beneath 'ds' but they are illegible.JL --> beyond the
 <lb/><w>plain<del type="cancelled">s</del></w> we found the villages
 <lb/><add place="marginleft">there <add place="below">^</add></add> acknowledged the authority
@@ -302,7 +302,7 @@
 <lb/>I asked where his father was
 <lb/>"Among the <foreign xml:lang="tn">Barimo</foreign>" was the reply - </p>              
 <lb/><space dim="vertical" rend="line" extent="5"/>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Chester</persName></hi></note></add> When we wished to move on
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0278">Chester</persName></hi></note></add> When we wished to move on
 <lb/><persName>Kabinje</persName> refused a <term type="occupation">guide</term> to the
 <lb/>next village because he was
 <lb/>at war with it but after
@@ -408,7 +408,7 @@
 <lb/><placeName><geogName type="river">Kasai</geogName></placeName> we were subjected
 <lb/>to a trick of which we
 <lb/>had been forewarned
-<lb/>by the people of <persName>Shinte</persName> -
+    <lb/>by the people of <persName ref="people.xml#pers0532">Shinte</persName> -
 <lb/>A knife had been dropped
 <lb/>by one of <persName>Kangenke</persName>'s
 <lb/>people in order to
@@ -447,7 +447,7 @@
 <lb/>were refused with scorn
 <lb/>A shell being round his
 <lb/>neck similar to that which
-<lb/><persName>Shinte</persName> had given me was
+    <lb/><persName ref="people.xml#pers0532">Shinte</persName> had given me was
 <lb/>the object demanded - and
 <lb/>the victim of the trick as we
 <lb/>we all knew it to be was
@@ -488,7 +488,7 @@
 <lb/>position to be seized as
 <lb/>an hostage in case of
 <lb/>my being caught - </p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Dennett</persName></hi></note></add> This trick is but one
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0290">Dennett</persName></hi></note></add> This trick is but one
 <lb/>of a number equally dishonourable
 <lb/>which are practised by
 <lb/>tribes <add place="below" rend="gray" hand="#U2">˅</add> <del type="cancelled" rend="gray" hand="#U2">which</del> <retrace hand="#DL"><add place="above" rend="gray" hand="#U2">that</add></retrace> lie adjacent
@@ -695,7 +695,7 @@ we often saw the boys
 <lb/>man taking no notice
 <lb/>of him he went off
 <lb/>much crest fallen</p>  
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><unclear cert="medium"><persName>Cross</persName></unclear></hi></note></add> My men were much 
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><unclear cert="medium"><persName ref="people.xml#pers0284">Cross</persName></unclear></hi></note></add> My men were much 
 <lb/>astonished as myself at the<!-- p335, Missionary, sh -->
 <lb/>demand for payment
 <lb/>for leave to pass and
@@ -856,7 +856,7 @@ we often saw the boys
 <lb/><add place="marginleft" rend="gray" hand="#U2">˅</add> of stone <del type="cancelled" rend="gray" hand="#U2"><add place="below" rend="gray" hand="#U2">^</add> <add place="above" rend="gray" hand="#U2">a</add></del> as <add place="below">˅</add> <retrace hand="#DL"><add place="above" rend="gray" hand="#U2">much as</add></retrace> we were -
 <lb/>We had not met with
 <lb/>a stone <del type="cancelled">c</del>since leaving
-<lb/><persName>Shinte</persName>'s - The country is
+    <lb/><persName ref="people.xml#pers0532">Shinte</persName>'s - The country is
 <lb/>covered with deep alluvial
 <lb/>soil</p> 
 <lb/>             
@@ -952,7 +952,7 @@ and some
 <lb/>but himself<supplied cert="high">?</supplied>" I felt proud of their
 <lb/>praise -  </p>         
 <lb/>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><persName><unclear cert="low">Thorns</unclear></persName></hi></add> <note place="inline"><date when="1854-03-04"><choice><abbr>Sat</abbr><expan>Saturday</expan></choice> - 4<hi rend="sup underline">th</hi> March</date> -</note> Came to the outskirts
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><persName ref="people.xml#pers0551"><unclear cert="low">Thorns</unclear></persName></hi></add> <note place="inline"><date when="1854-03-04"><choice><abbr>Sat</abbr><expan>Saturday</expan></choice> - 4<hi rend="sup underline">th</hi> March</date> -</note> Came to the outskirts
 <lb/>of the territory of the <term type="tribe">Chiboque</term>
 <lb/>We crossed the <placeName><geogName type="rivulets">Konde</geogName></placeName> and
 <lb/><placeName><geogName type="rivulets">Kaluze</geogName></placeName> rivulets - The former
@@ -1010,7 +1010,7 @@ and some
 <lb/>come just when it was<!-- p388, Missionary, sh -->
 <lb/>possible to admit of <term type="animal">cattle</term>
 <lb/>Hence the success of
-<lb/>both <del type="cancelled">co</del><persName>Katema</persName>, <persName>Shinte</persName> &amp; <persName>Matiamvo</persName>
+                    <lb/>both <del type="cancelled">co</del><persName>Katema</persName>, <persName ref="people.xml#pers0532">Shinte</persName> &amp; <persName>Matiamvo</persName>
 <lb/>with their herds - It would
 <lb/>not be surprising though
 <lb/>they know nothing of the

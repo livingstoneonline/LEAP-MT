@@ -154,7 +154,7 @@
 <lb/>but the village, being in a state of ruin, and
 <lb/>having several pools of stagnant water, is
 <lb/>very unhealthy. The bottom rock is the <choice><sic>akose</sic><corr>arkose</corr></choice>
-<lb/>of <persName><choice><sic>Brogniart</sic><corr>Brongniart</corr></choice></persName>, or granitic grit, and several
+    <lb/>of <persName ref="people.xml#pers0267"><choice><sic>Brogniart</sic><corr>Brongniart</corr></choice></persName>, or granitic grit, and several
 <lb/>conical hills of trap have burst through it.
 <lb/>One standing about <measure>half a mile</measure> west of the
 <lb/>village is called <placeName><geogName type="hill">Baramua<subst><del type="cancelled" hand="#DL" n="DL">u</del><add place="above" hand="#DL" n="DL">n</add></subst>a</geogName></placeName>, which has
@@ -208,7 +208,7 @@
 <lb/>the work of the <term type="occupation">Fathers</term>. As this lies in the
 <lb/><add place="marginleft" hand="#DL" n="DL"><note><placeName><settlement type="town">Manica</settlement></placeName></note></add> direction of a part between <placeName><settlement type="town">Manica</settlement></placeName> and
 <lb/><placeName><settlement type="town"><choice><orig>S<retrace hand="#DL" n="DL">o</retrace>fála</orig><reg>Sofála</reg></choice></settlement></placeName> which has been conjectured to be
-<lb/>the <placeName><region>Ophir</region></placeName> of <persName>King Solomon</persName>, the idea that
+    <lb/>the <placeName><region>Ophir</region></placeName> of <persName ref="people.xml#pers0360">King Solomon</persName>, the idea that
 <lb/>first sprung up in my mind was that these
 <lb/>monuments might be more ancient than the
 <lb/><term type="nationality">Portuguese</term>, but on questioning some persons
@@ -230,7 +230,7 @@
 <lb/>but these cannot have been abundant, for all
 <lb/>the stones of the fort of <placeName><settlement type="town">Sofala</settlement></placeName> are said to
 <lb/>have been brought from <placeName><country>Portugal</country></placeName>. <orgName>Natives</orgName>
-<lb/>whom I have met in the country of <persName>Sekeletu</persName>,
+<lb/>whom I have met in the country of <persName ref="people.xml#pers0519">Sekeletu</persName>,
 <lb/>from <placeName><settlement type="village">Manica</settlement></placeName>, or <placeName><settlement type="village"><choice><orig>Man<note place="above" hand="#DL" n="DL">n</note><del type="strikethrough" hand="#DL" n="DL">i</del>oa</orig><reg>Manoa</reg></choice></settlement></placeName>, as they call it,
 <lb/>state that there are several caves in the
 <lb/>country, and walls of hewn stone, which they
@@ -243,8 +243,8 @@
 <lb/>sea. The <term type="people">Portuguese</term> were driven out of the
 <lb/>country by the <term type="tribe">Landeens</term>, but now talk of
 <lb/>reoccupying <placeName><settlement type="town">Manica</settlement></placeName>.</p>
-<lb/><p><add place="marginleft" hand="#U2" n="U2" rend="black"><note><persName><hi rend="underline"><unclear cert="high">Sorell</unclear></hi></persName></note></add> The most pleasant sight I saw at
-<lb/><placeName><settlement type="town">Senna</settlement></placeName>, was the negroes of <persName>Senhor Isidore</persName>
+    <lb/><p><add place="marginleft" hand="#U2" n="U2" rend="black"><note><persName ref="people.xml#pers0541"><hi rend="underline"><unclear cert="high">Sorell</unclear></hi></persName></note></add> The most pleasant sight I saw at
+        <lb/><placeName><settlement type="town">Senna</settlement></placeName>, was the negroes of <persName ref="people.xml#pers0474">Senhor Isidore</persName>
 <lb/>building boats after the <orgName>European</orgName> model
 <lb/>without anyone to superintend their operations.
 <lb/>They had been instructed by a <orgName>European</orgName>
@@ -252,7 +252,7 @@
 <lb/>down the <term type="plant"><choice><orig>Motou<note place="above" hand="#DL" n="DL">n</note>do</orig><reg>Motondo</reg></choice></term> trees, lay down the
 <lb/>keel, fit in the ribs, and make very neat
 <lb/>boats and launches, valued at from £20
-<lb/>to £100. <persName>Senhor Isidore</persName> had some of
+        <lb/>to £100. <persName ref="people.xml#pers0474">Senhor Isidore</persName> had some of
 <lb/>them instructed also in carpentry <space extent="3" unit="chars"/>at
 <lb/><placeName><settlement type="city"><choice><orig>Rio Janeiro</orig><reg>Rio de Janeiro</reg></choice></settlement></placeName>, and they constructed for him 
 
@@ -314,7 +314,7 @@
 <lb/>which seemed to be about <measure>200 yards broad</measure> - 
 <lb/><retrace hand="#U5" n="U5"><add place="inline" hand="#U2" n="U2" rend="gray">A little further inland</add></retrace>, there is another
 <lb/>rebel stockade, which was attacked by
-<lb/><persName><term type="occupation">Ensign</term> Rebeiro</persName>, with three <orgName>European</orgName> <term type="occupation">soldiers</term>,
+    <lb/><persName ref="people.xml#pers0490"><term type="occupation">Ensign</term> Rebeiro</persName>, with three <orgName>European</orgName> <term type="occupation">soldiers</term>,
 <lb/>and captured<add place="inline" hand="#DL" n="DL">;</add> They disarmed the rebels, and
 <lb/>threw the guns into the water<add place="inline" hand="#DL" n="DL">.</add> This <term type="occupation">Ensign</term>
 <lb/>and <term type="occupation"><choice><orig>Mira<subst><del hand="#DL" n="DL">n</del><add place="over-text" hand="#DL" n="DL">n</add></subst>da</orig><reg>Miranda</reg></choice></term>, volunteered to disperse the
@@ -350,7 +350,7 @@
 <lb/><subst><del type="strikethrough" hand="#DL" n="DL">which</del><add place="inline" hand="#DL" n="DL"><del type="cancelled">&amp;</del></add></subst> <w>contain<subst><del hand="#DL" n="DL">ed</del><add place="over-text" hand="#DL" n="DL">ing</add></subst></w> in the <w>petiol<retrace hand="#DL" n="DL">e</retrace></w> of the leaf a
 <lb/>pleasant tasted nut. This was so esteemed
 <lb/>by <persName>Sebituáne</persName> that he made it part of his
-<lb/>tribute from the subjected tribes <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-326"/><persName>D<hi rend="sup underline">r</hi> Hooker</persName>
+    <lb/>tribute from the subjected tribes <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-326"/><persName ref="people.xml#pers0321">D<hi rend="sup underline">r</hi> Hooker</persName>
     <lb/>kindly informs me
     <lb/><del type="cancelled">thinks</del> that
     <lb/>the <term type="plant">Njefu</term> "<quote>is
@@ -399,7 +399,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <pb facs="liv_000101_0259.jpg" n="0259"/><!-- p664-665, sh -->    
 <lb/><fw><add place="inspace" hand="#U2" n="U2" rend="gray right">8</add> <space extent="3" unit="chars"/><add place="inspace" hand="#U1" n="U1" rend="gray right">207</add></fw>
 <lb/>men. I understand from <persName>Sekwébu</persName>, and
-<lb/><add place="marginleft" hand="#DL" n="DL"><note><persName>Changamera</persName>'s</note></add> from one of the <persName>Changaméra</persName>’s people who lives
+    <lb/><add place="marginleft" hand="#DL" n="DL"><note><persName ref="people.xml#pers0294">Changamera</persName>'s</note></add> from one of the <persName>Changaméra</persName>’s people who lives
 <lb/>at <placeName><settlement type="town">Linyánti</settlement></placeName>, <retrace hand="#U5" n="U5"><add place="inline" rend="gray" hand="#U2" n="U2">and</add></retrace> was present at the attack
 <lb/>on <placeName><settlement type="town">Senna</settlement></placeName>, that they consider the whites as
 <lb/>a conquered tribe.</p>
@@ -412,7 +412,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>grass and reeds, with here and there a few
 <lb/><term type="plant">mango</term> and <term type="plant">cocoa-nut trees</term>. This was the
 <lb/>point which was reached by the late
-<lb/>lamented <persName><term type="occupation">Captain</term> Parker</persName>, who fell at the
+    <lb/>lamented <persName ref="people.xml#pers0470"><term type="occupation">Captain</term> Parker</persName>, who fell at the
 <lb/><placeName><geogName type="river">Sulina</geogName></placeName> mouth of the <placeName><geogName type="river">Danube</geogName></placeName>. I had a strong
 <lb/>desire to follow the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> further, and
 <lb/>ascertain where this enormous body of
@@ -422,7 +422,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>with the capabilities of the river, I felt sure
 <lb/>that his valuable opinion must be in
 <lb/>possession of the <orgName>Admiralty</orgName>. On my arrival
-<lb/>in <placeName><country>England</country></placeName> I applied to <persName><term type="occupation">Captain</term> Washington</persName>
+    <lb/>in <placeName><country>England</country></placeName> I applied to <persName ref="people.xml#pers0564"><term type="occupation">Captain</term> Washington</persName>
 <lb/>the <term type="occupation">Secretary of the <orgName>Admiralty</orgName></term>, and he
 <lb/>promptly furnished the document for
 <lb/>publication by the <orgName>Royal Geographical 
@@ -441,7 +441,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
     <lb/>312—315 in the pamphlet)
     <lb/><add place="inline" hand="#DL" n="DL">with quotation marks along the side &amp;
     <lb/>same type as text</add><anchor xml:id="meta-327"/></note><!-- these notes are enclosed in a large circle, sh -->
-<lb/><add place="marginleft" hand="#U2" n="U2" rend="gray"><note><persName><hi rend="underline">Rieg</hi></persName></note></add> The conclusions of <persName><term type="occupation">Captain</term> Parker</persName> are strengthened
+    <lb/><add place="marginleft" hand="#U2" n="U2" rend="gray"><note><persName><hi rend="underline">Rieg</hi></persName></note></add> The conclusions of <persName ref="people.xml#pers0470"><term type="occupation">Captain</term> Parker</persName> are strengthened
 <lb/>by those of <persName><term type="occupation">Lieutenant</term> A. H. Hoskins</persName>, who was on
 <lb/>the coast at the same time, and also visited this
 <lb/>spot. It ought to be remembered that the
@@ -493,7 +493,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/><p><metamark function="placeMark" place="marginleft" resp="#U2" n="U2"/> <space extent="8" unit="chars"/><note>Footnote</note>
 <lb/><note>* I owe the following information, of a 
 <lb/>much later date, <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">also</add> to the politeness of
-<lb/><persName><term type="occupation">Captain</term> Washington</persName>. <orgName><choice><abbr>H. M.</abbr><expan>Her Majesty's</expan></choice> sloop Grecian</orgName>
+    <lb/><persName ref="people.xml#pers0564"><term type="occupation">Captain</term> Washington</persName>. <orgName><choice><abbr>H. M.</abbr><expan>Her Majesty's</expan></choice> sloop Grecian</orgName>
 <lb/>visited the coast in <date from="1852" to="1853">1852-3</date>, and the master
 <lb/><add place="marginleft" hand="#DL" n="DL"><note><placeName><geogName type="river">Luabo</geogName></placeName></note></add> remarks, that the entrance to the <placeName><geogName type="river">Luabo</geogName></placeName> is
 <lb/>in <measure><choice><abbr>Lat:</abbr><expan>Latitude</expan></choice> 18° 57 <choice><abbr>S.</abbr><expan>South</expan></choice> <choice><abbr>Long.</abbr><expan>Longitude</expan></choice> 36° 12' <choice><abbr>E</abbr><expan>East</expan></choice></measure>, and may
@@ -578,7 +578,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>giving me for the first time<add place="inline" hand="#DL" n="DL">,</add> an appearance
 <lb/>which I had been disposed to laugh at among
 <lb/>the <term type="nationality">Portuguese</term>. <space extent="2" unit="chars"/>At <placeName><settlement type="village">Interra</settlement></placeName> we met
-<lb/><persName>Senhor <choice><orig>Azev<subst><del hand="#DL" n="DL">i</del><add place="over-text" hand="#DL" n="DL">e</add></subst>do</orig><reg>Azevedo</reg></choice></persName>, a man who is well known
+    <lb/><persName ref="people.xml#pers0253">Senhor <choice><orig>Azev<subst><del hand="#DL" n="DL">i</del><add place="over-text" hand="#DL" n="DL">e</add></subst>do</orig><reg>Azevedo</reg></choice></persName>, a man who is well known
 <lb/>by all who ever visited <placeName><settlement type="town">Kilimane</settlement></placeName>, and who
 <lb/>was presented with a gold chronometer watch
 <lb/>by the <orgName>Admiralty</orgName>, for his attentions to
@@ -597,21 +597,21 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>we reached that <subst><del hand="#DL" n="DL"><add place="inline" rend="gray" hand="#U2" n="U2">town</add></del><add place="over-text" hand="#DL" n="DL">village</add></subst> on the <date when="1856-05-20">20<hi rend="sup underline">th</hi> of May 1856</date>,
 <lb/>which wanted only a few days of being 4 years
 <lb/>since I started from <placeName><settlement type="city">Cape Town</settlement></placeName>. Here I was 
-<lb/>received into the house of <persName><term type="occupation">Colonel</term> Galdino
+    <lb/>received into the house of <persName ref="people.xml#pers0461"><term type="occupation">Colonel</term> Galdino
 <lb/>Jose Nunes</persName>, one of the best men in the
 <lb/>country. I had been three years without
 <lb/>hearing from my family; letters having
 <lb/>frequently been sent, but somehow or
 <lb/>other, with but a single exception, they
 <lb/>never reached me. I received, however,
-<lb/>a letter from <persName><term type="occupation">Admiral</term> Trotter</persName>, conveying 
+    <lb/>a letter from <persName ref="people.xml#pers0555"><term type="occupation">Admiral</term> Trotter</persName>, conveying 
 <lb/>information of their welfare, and some
 <lb/>newspapers which were <metamark function="reorder" resp="#DL" n="DL" spanTo="#meta-282"/><seg corresp="#reorder-114">indeed</seg><anchor xml:id="meta-282"/> a treat. <metamark function="insertion" resp="#U2" n="U2"/><anchor xml:id="reorder-114"/>
 <lb/><orgName><choice><abbr>H. M. B.</abbr><expan>Her Majesty's brig</expan></choice> the "Frolic"</orgName> had called to enquire
 <lb/>for me in the <date when="1855-11">November</date> previous, and
-<lb/><persName><term type="occupation">Captain</term> Nolloth</persName> of that ship had most
+    <lb/><persName ref="people.xml#pers0458"><term type="occupation">Captain</term> Nolloth</persName> of that ship had most
 <lb/>considerately left <del type="cancelled" hand="#DL" n="DL">for me</del> a case of <term type="foodstuff">wine</term>,
-<lb/>and his <term type="occupation">surgeon</term> <persName>D<hi rend="sup">r.</hi> Walsh</persName>, divining what
+    <lb/>and his <term type="occupation">surgeon</term> <persName ref="people.xml#pers0562">D<hi rend="sup">r.</hi> Walsh</persName>, divining what
 <lb/>I should need most, left an ounce of
 <lb/><term type="medicament">quinine</term>. These gifts made my heart
 <lb/>overflow. I had not tasted any liquor
@@ -631,7 +631,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>either in favour of or against the <term type="foodstuff">brandy</term>.</p>
 <lb/><p>But my joy on reaching the East
 <lb/>Coast was sadly embittered by the news
-<lb/><add place="marginleft" hand="#U2" n="U2" rend="gray"><note><persName><hi rend="underline">Sedg</hi></persName></note></add> that <persName><term type="occupation">Commander</term> MacLune</persName> of <orgName><choice><abbr>H. M.</abbr><expan>Her Majesty's</expan></choice> Brigantine
+    <lb/><add place="marginleft" hand="#U2" n="U2" rend="gray"><note><persName ref="people.xml#pers0517"><hi rend="underline">Sedg</hi></persName></note></add> that <persName ref="people.xml#pers0398"><term type="occupation">Commander</term> MacLune</persName> of <orgName><choice><abbr>H. M.</abbr><expan>Her Majesty's</expan></choice> Brigantine
 <lb/>"Dart"</orgName> on coming in to <placeName><settlement type="town">Kilimane</settlement></placeName> to pick me
 <lb/>up had, with <persName><term type="occupation">Lieutenant</term> Woodruffe</persName> and
 <lb/>five men, been lost on the bar. I never
@@ -641,7 +641,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>all be cut off from the joys of life in 
 <lb/>generously attempting to render me a 
 <lb/>service. I would here acknowledge my deep
-<lb/>obligations to the <persName>Earl of Clarendon</persName><add place="inline" hand="#DL" n="DL">;</add> <del type="cancelled" hand="#DL" n="DL">and</del> to
+    <lb/>obligations to the <persName ref="people.xml#pers0558">Earl of Clarendon</persName><add place="inline" hand="#DL" n="DL">;</add> <del type="cancelled" hand="#DL" n="DL">and</del> to
 <lb/>the <term type="occupation">Admiral</term> at the <placeName><region>Cape</region></placeName><add place="inline" hand="#DL" n="DL">;</add> and others for
 <lb/>the kind interest they manifested in my
 <lb/>safety; even the enquiries made were very
@@ -649,8 +649,8 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>with feelings of gratitude to the <persName><term type="occupation">Governor</term> of
 <lb/><placeName><country>Mozambique</country></placeName></persName> for offering me a passage in <subst><del hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">the</add></subst>
 <lb/>schooner <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></add> belonging to that province, and I shall
-<lb/>never forget the generous hospitality of <persName><term type="occupation"><choice><abbr>Col:</abbr><expan>Colonel</expan></choice></term> <choice><orig>N<subst><del hand="#DL" n="DL">ine</del><add place="over-text" hand="#DL" n="DL">une</add></subst>s</orig><reg>Nunes</reg></choice></persName>
-<lb/><add place="marginleft" hand="#DL" n="DL"><note><persName>Nunes</persName></note></add> and his nephew, with whom I remained.</p>
+    <lb/>never forget the generous hospitality of <persName ref="people.xml#pers0461" ><term type="occupation"><choice><abbr>Col:</abbr><expan>Colonel</expan></choice></term> <choice><orig>N<subst><del hand="#DL" n="DL">ine</del><add place="over-text" hand="#DL" n="DL">une</add></subst>s</orig><reg>Nunes</reg></choice></persName>
+        <lb/><add place="marginleft" hand="#DL" n="DL"><note><persName ref="people.xml#pers0461">Nunes</persName></note></add> and his nephew, with whom I remained.</p>
 <lb/><p>One of the discoveries I have made, is, that there
 <lb/>is a vast number of good people in the world,
 <lb/>and I do most devoutly tender my unfeigned
@@ -658,7 +658,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>watched over me in every position, and influenced
 <lb/>the hearts of both black and white to regard
 <lb/>me with favour.</p>
-<lb/><p>With the united testimony of <persName><term type="occupation"><choice><abbr>Capt.</abbr><expan>Captain</expan></choice></term> Parker</persName>
+    <lb/><p>With the united testimony of <persName ref="people.xml#pers0470"><term type="occupation"><choice><abbr>Capt.</abbr><expan>Captain</expan></choice></term> Parker</persName>
 <lb/>and <persName><term type="occupation"><choice><abbr>Lieu<hi rend="sup">t</hi>.</abbr><expan>Lieutenant</expan></choice></term> Hoskins</persName>, added to my own
 <lb/>observation, there can be no reasonable doubt
 
@@ -694,7 +694,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>personally makes me wish for <del type="cancelled" hand="#DL" n="DL"><add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">them</add></del> a return of
 <lb/>their ancient prosperity, and the most liberal
 <lb/>and generous act of the enlightened young
-<lb/>king <persName><choice><abbr>H. M.</abbr><expan>His Majesty</expan></choice> Don Pedro</persName>, in sending out orders
+    <lb/>king <persName ref="people.xml#pers0359"><choice><abbr>H. M.</abbr><expan>His Majesty</expan></choice> Don Pedro</persName>, in sending out orders
 <lb/> to support my late companions at the
 <lb/>public expense of the <placeName><country>Province of Mozambique</country></placeName>
 <lb/>until my return to claim them, leads me
@@ -881,7 +881,7 @@ which brings us to the
 <lb/>was so scarce in consequence of a dearth,
 <lb/>that they were compelled to suffer some
 <lb/>hunger. They would fain have come further,
-<lb/>for when <persName>Sekeletu</persName> parted with them, his
+<lb/>for when <persName ref="people.xml#pers0519">Sekeletu</persName> parted with them, his
 <lb/>orders were that none of them should
 <lb/>turn until they had reached <persName>Ma Robert</persName>,
 <lb/>and brought her back with them. On my
@@ -895,11 +895,11 @@ which brings us to the
 <lb/>had in our charge, and sent the former back as
 <lb/>clothing, to those who remained at <placeName><settlement type="town">Tete</settlement></placeName>. As
 <lb/>there were still twenty of the latter left I deposited
-<lb/>them with <persName><term type="occupation">Colonel</term> Nunes</persName>, that in case of
+    <lb/>them with <persName ref="people.xml#pers0461"><term type="occupation">Colonel</term> Nunes</persName>, that in case of
 <lb/>anything happening to prevent my return,
 <lb/>the impression might not be produced in the
-<lb/>country that I had made away with <persName>Sekeletu</persName>’s
-<lb/>ivory. I instructed <persName><term type="occupation">Colonel</term> Nunes</persName> in case of
+<lb/>country that I had made away with <persName ref="people.xml#pers0519">Sekeletu</persName>’s
+    <lb/>ivory. I instructed <persName ref="people.xml#pers0461"><term type="occupation">Colonel</term> Nunes</persName> in case of
 
 
 <pb facs="liv_000101_0272.jpg" n="0272"/><!-- p676-667, sh -->    
@@ -907,12 +907,12 @@ which brings us to the
 <lb/>my death, to sell the tusks, and deliver the
 <lb/>proceeds to my men, but I intended if my life
 <lb/>should be prolonged, to purchase the goods
-<lb/>ordered by <persName>Sekeletu</persName> in <placeName><country>England</country></placeName>, with my own
+<lb/>ordered by <persName ref="people.xml#pers0519">Sekeletu</persName> in <placeName><country>England</country></placeName>, with my own
 <lb/>money, and pay myself on my return out
 <lb/>of the price of the ivory<choice><sic>, this</sic><corr>. This</corr></choice> I explained to
 <lb/>the men fully, and they understanding the
 <lb/>matter replied "Nay Father, you will not die,
-<lb/>you will return to take us back to <persName>Sekeletu</persName>".
+<lb/>you will return to take us back to <persName ref="people.xml#pers0519">Sekeletu</persName>".
 <lb/>They promised to wait till I came back, and
 <lb/>on my part I assured them that nothing but
 <lb/>death would prevent my return. This I said,

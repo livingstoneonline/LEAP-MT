@@ -106,7 +106,7 @@
 <lb/>and in turn advised us
 <lb/>not to be alarmed for they
 <lb/>would not think of ascribing
-<lb/>the death to us - That <persName>Sebituane</persName>
+<lb/>the death to us - That <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>had just gone the way of his
 <lb/>fathers and though the
 <lb/>father had gone he had left
@@ -136,7 +136,7 @@
 
     <pb facs="liv_000099_0191.jpg" n="0191"/>   
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">2</add> <add place="inspace" hand="#U1" rend="gray right">186</add></fw>
-<lb/><add place="inline">At</add> <add place="below">^</add> <persName>Sebituane</persName>'s death the <term type="occupation">chieftainship</term>
+<lb/><add place="inline">At</add> <add place="below">^</add> <persName ref="people.xml#pers0515">Sebituane</persName>'s death the <term type="occupation">chieftainship</term>
 <lb/>devolved <metamark function="insertion"/><anchor xml:id="reorder-32"/> on a daughter named 
 <lb/><persName>Ma mo-chisane</persName> <metamark function="reorder" spanTo="#meta-72"/><seg corresp="#reorder-32">as her father
 <lb/>intended</seg><anchor xml:id="meta-72"/> - He had promised
@@ -255,16 +255,16 @@ The <term type="tribe">Makololo</term>
 <lb/>is situated near <placeName><geogName type="plateau">Bihé</geogName></placeName>
 <lb/><add place="marginleft" hand="#U3" rend="red">in exchange for boys</add> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-74"/><seg corresp="#reorder-33">called <term type="tribe">Mambari</term></seg><anchor xml:id="meta-74"/> - <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">This tribe</add><del type="strikethrough" hand="#U3" rend="red">They came
 <lb/>and</del> began the <orgName>slave trade</orgName>
-<lb/>with <persName>Sebituane</persName> only in
+<lb/>with <persName ref="people.xml#pers0515">Sebituane</persName> only in
 <lb/><date when="1850">1850</date> - and but for the
 <lb/>unwillingness of <persName>Lechulatebe</persName>
 <lb/>to allow us to pass him
 <lb/>we should have been
-<lb/>with <persName>Sebituane</persName> in time
+<lb/>with <persName ref="people.xml#pers0515">Sebituane</persName> in time
 <lb/>to <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">have</add> prevent<add place="inline" hand="#U3" rend="red">ed</add> it from commencing
 <lb/>at all - The <term type="tribe">Mambari</term>
 <lb/>visited the <term type="occupation">chief</term> of the
-<lb/><term type="tribe">Barotse</term> whom <persName>Sebituane</persName>
+<lb/><term type="tribe">Barotse</term> whom <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>conquered and he refused
 
 
@@ -276,7 +276,7 @@ The <term type="tribe">Makololo</term>
 <lb/><add place="marginleft" hand="#U3" rend="red">as they</add> <subst><del type="stikethrough" hand="#U3" rend="red">having</del><add place="above" hand="#U3" rend="red">had</add></subst> a number of
 <lb/>old <term type="nationality">Portuguese</term> guns marked
 <lb/>"<foreign xml:lang="pt">Legitimo de Braga</foreign>" which
-<lb/><persName>Sebituane</persName> thought would
+<lb/><persName ref="people.xml#pers0515">Sebituane</persName> thought would
 <lb/>be excellent in any other
 <lb/>invasion of <term type="tribe"><choice><sic>Matibele</sic><reg>Matebele</reg></choice></term>
 <lb/>he offered to purchase them
@@ -525,7 +525,7 @@ with
 <lb/>outbreaks had been prolonged
 <lb/>for <del type="cancelled">a great</del> many years
 <lb/>by what has been called
-<lb/>the <persName>Glenelg</persName> or "philanthropic
+    <lb/>the <persName ref="people.xml#pers0310">Glenelg</persName> or "philanthropic
 <lb/>policy" - This though not <add place="marginleft">perfectly well
     <lb/>worked out</add>
 <del type="strikethrough">faultless</del> was worthy of the
@@ -540,7 +540,7 @@ with
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">12</add> <add place="inspace" hand="#U1" rend="gray right">196</add></fw>
 <lb/><choice><sic>an</sic><corr/></choice> end to and a severer system
 <lb/>strongly advocated on<!-- possible previous word beneath 'on'.JL --> the Frontier
-<lb/>called the "<persName><choice><sic>Durban</sic><corr>D'Urban</corr></choice></persName> policy"<!-- as in Benjamin Durban, ks --> was
+    <lb/>called the "<persName ref="people.xml#pers0287"><choice><sic>Durban</sic><corr>D'Urban</corr></choice></persName> policy"<!-- as in Benjamin Durban, ks --> was
 <lb/>tried - The former treated the
 <lb/><add place="marginleft">C</add> <orgName><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> as rational creatures
 <lb/>and presupposed <del type="strikethrough">that</del> they had
@@ -553,7 +553,7 @@ with
 <lb/>well as among the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName>
 <lb/><del type="strikethrough">and</del> It was remarkably cheap
 <lb/>to the mother country - </p>
-<lb/><p>The <persName><choice><sic>Durban</sic><corr>D'Urban</corr></choice></persName> policy presupposed
+        <lb/><p>The <persName ref="people.xml#pers0287"><choice><sic>Durban</sic><corr>D'Urban</corr></choice></persName> policy presupposed
 <lb/>a willingness on the part of
 <lb/>the <term type="nationality">Dutch</term> <term type="occupation">Colonists</term> to turn out
 <lb/>and exterminate the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffers</add></subst></orgName>
@@ -587,7 +587,7 @@ with
 <lb/>So when the watchword was 
 <lb/>given by the great organ of
 <lb/>the war party "<quote>Send away
-<lb/><persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName></quote>" - The <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName>
+    <lb/><persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName></quote>" - The <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName>
 <lb/>"<foreign xml:lang="ota"><term type="occupation"><choice><sic>Sippa-his</sic><corr>Sipahi</corr></choice></term></foreign>" went off en masse
 <lb/>to join their proper standard
 <lb/>in the <orgName><choice><sic><unclear cert="medium">Annatolans</unclear></sic><corr>Anatolians</corr></choice></orgName> - Men whose
@@ -602,7 +602,7 @@ with
 <lb/>outraged by a foreigner
 <lb/>pretending to place himself
 <lb/>in the position of their 
-<lb/>paramount <term type="occupation">chief</term> <persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+    <lb/>paramount <term type="occupation">chief</term> <persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
 <lb/>To any one acquainted
 <lb/>with the political constitution
 <lb/>of the <orgName>South African</orgName><!-- orgName seems appropriate, since DL is referring to a larger region and not the country (which doesn't come into being until 1910 with the Union of South Africa).JL --> tribes
@@ -616,7 +616,7 @@ with
 <pb facs="liv_000099_0203.jpg" n="0203"/>             
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">14</add> <add place="inspace" hand="#U1" rend="gray right">198</add></fw>
 <lb/>most impotent stab at their
-<lb/>nationality - Not even <persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+    <lb/>nationality - Not even <persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
 <lb/>himself could have invented
 <lb/>a more certain and efficient
 <lb/>means of rallying all the
@@ -630,16 +630,16 @@ with
 <lb/>prolonged struggle in which
 <lb/>upwards of two millions of
 <lb/>money were spent. <del type="cancelled">the
-<lb/><persName><choice><orig>Durban</orig><reg>D'Urban</reg></choice></persName> policy <unclear cert="medium">worked</unclear> to</del>
+    <lb/><persName ref="people.xml#pers0287"><choice><orig>Durban</orig><reg>D'Urban</reg></choice></persName> policy <unclear cert="medium">worked</unclear> to</del>
 <lb/><subst><del><unclear cert="medium">be</unclear></del><add place="over-text">The</add></subst> rather dear bought conclusion
-<lb/>was reached that the <persName>D'Urban</persName>
+    <lb/>was reached that the <persName ref="people.xml#pers0287">D'Urban</persName>
 <lb/>policy is not the solution of the
 <lb/><orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> difficulty for it
 <lb/>was officially declared
 <lb/>by competent authority that
 <lb/><add place="marginleft">a</add> <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> war was equal to one
 <lb/>with the <orgName>Circassians</orgName> or
-<lb/><orgName>Algerine Arabs</orgName> and <persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+    <lb/><orgName>Algerine Arabs</orgName> and <persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
 <lb/>was not sent away - </p>
 <lb/><p>An experiment had
 <lb/>thus been fairly tried at the
@@ -692,7 +692,7 @@ with
 
 <pb facs="liv_000099_0205.jpg" n="0205"/>             
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">16</add> <add place="inspace" hand="#U1" rend="gray right">200</add></fw>
-<lb/><persName>Glenelg</persName> policy all those who
+    <lb/><persName ref="people.xml#pers0310">Glenelg</persName> policy all those who
 <lb/>pretend to knowledge of
 <lb/>the difficulty have made
 <lb/>such ridiculous mistakes
@@ -765,7 +765,7 @@ with
 <lb/>of his bad conduct - If he
 <lb/>kills me both he and I will
 <lb/>have to answer before God</quote>" <add place="below">*</add>
-<lb/><add place="inspace"><note>* <bibl>Extracts of a speech of <persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+    <lb/><add place="inspace"><note>* <bibl>Extracts of a speech of <persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
     <lb/>to <persName>R R Renton</persName> <orgName>United Presbyterian church</orgName> <add place="below"><placeName><country>Scotland</country></placeName></add></bibl></note></add></p>
 
 
@@ -902,7 +902,7 @@ with
 <lb/><term type="occupation">chiefs</term> and returned triumphant
 <lb/>and victorious</quote>" <subst><del>we</del><add place="over-text">he</add></subst> never
 <lb/>had a single live <orgName>Caffre</orgName>
-<lb/><term type="occupation">chief</term> to <choice><orig>shew</orig><reg>show</reg></choice> - <persName><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+    <lb/><term type="occupation">chief</term> to <choice><orig>shew</orig><reg>show</reg></choice> - <persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
 <lb/>declared that "<quote>though killed
 <lb/>his bones would rise
 <lb/>up and fight - aye and
@@ -924,9 +924,9 @@ with
 <lb/>as well as at the <placeName><region>Crimea</region></placeName> - It would
 <lb/>be so interesting to discover how
 <lb/>the <orgName>Caffre</orgName> bones got up <del type="strikethrough">and fought</del>
-<lb/>like <persName>Benjamin Franklin</persName>'s
+    <lb/>like <persName ref="people.xml#pers0303">Benjamin Franklin</persName>'s
     <lb/><add place="marginleft">dead</add> <term type="insect">flies</term> from <term type="foodstuff"><placeName><geogName type="island">Madeira</geogName></placeName> wine</term>
-<lb/>and fought with <persName>Sir George
+    <lb/>and fought with <persName ref="person.xml#pers0277">Sir George
 <lb/>Cathcart</persName> for months <w>after<supplied>-</supplied>
 <lb break="no"/>-wards</w> - If <placeName><country>England</country></placeName> must
 <lb/>pay such enormous sums
@@ -969,8 +969,8 @@ with
 <lb/>wars as the most <w>leech-
 <lb break="no"/>-like</w> portion of humanity
 <lb/>could desire - Their favourite
-<lb/>"<persName>D'Urban</persName> policy" can <hi rend="underline">not</hi> be
-<lb/>worked because as <persName>Sir
+    <lb/>"<persName ref="people.xml#pers0287">D'Urban</persName> policy" can <hi rend="underline">not</hi> be
+    <lb/>worked because as <persName ref="person.xml#pers0538">Sir
 <lb/>Harry Smith</persName> fully proved
 <lb/>by his proclamation inviting
 <lb/>(insulting?) the Colonial
@@ -1009,7 +1009,7 @@ with
 <lb/>concealed but immediately
 <lb/>on their <choice><sic>Independance</sic><corr>Independence</corr></choice> being
 <lb/>acknowledged They <choice><sic>mad</sic><corr>made</corr></choice> the
-<lb/>foray against <persName>Sechele</persName> to regain
+<lb/>foray against <persName ref="people.xml#pers0516">Sechele</persName> to regain
 <lb/>the <orgName>slaves</orgName> the emancipation
 <lb/>of which having been the
 <lb/>grievance for which most
@@ -1061,12 +1061,12 @@ with
 <lb/><choice><sic>humby</sic><corr>humbly</corr></choice> beg you to bring
 <lb/>the subject before the
 <lb/>Present Colonial <term type="occupation">Governor</term>
-<lb/><persName>Sir George Grey</persName> and if
+    <lb/><persName ref="person.xml#pers0311">Sir George Grey</persName> and if
 <lb/>His Excellency will examine
 <lb/>the different eulogiums which
 <lb/>have been passed by different 
 <lb/><orgName>Colonial Governments</orgName> or
-<lb/>the <orgName>Griqua</orgName> <term type="occupation">chief</term> <persName>Waterboer</persName>
+    <lb/>the <orgName>Griqua</orgName> <term type="occupation">chief</term> <persName ref="people.xml#pers0565">Waterboer</persName>
 <lb/>for his faithful adherence
 <lb/><subst><del>of</del><add place="over-text">to</add></subst> a treaty for the defence
 <lb/>of the North West Frontier
@@ -1149,7 +1149,7 @@ with
 <lb/>of whom w<del type="cancelled">h</del>ere <add place="below">^</add> <add place="above"><orgName>Hottentot</orgName></add> substitutes
 <lb/><add place="marginleft">who</add> <del type="strikethrough">and</del> remained only a
 <lb/>fortnight under arms. 
-<lb/>No wonder <add place="above">that</add> <persName>Sir George
+    <lb/>No wonder <add place="above">that</add> <persName ref="person.xml#pers0277">Sir George
 <lb/><add place="marginleft">Cathcart</add></persName> complained bitterly <del type="cancelled">of</del>
 <lb/>that not a man of those
 <lb/>for whom he was fighting
@@ -1165,7 +1165,7 @@ with
 <lb/><p>The influence of the
 <lb/>party referred to may be
 <lb/>understood when it is
-<lb/>mentioned that <persName>Sir Harry
+    <lb/>mentioned that <persName ref="person.xml#pers0538">Sir Harry
 <lb/>Smith</persName> adopted the watch
 <lb/>word which the organ of
 <lb/>the party <unclear cert="medium">perennially</unclear> proclaimed
@@ -1204,7 +1204,7 @@ with
 <lb/>body felt that their organ acted
 <lb/>nobly - </p>
 <lb/><p>A <orgName>Hottentot</orgName> <term type="occupation">officer</term> named
-<lb/><persName>Botha</persName> was fixed upon as apparently
+    <lb/><persName ref="people.xml#pers0264">Botha</persName> was fixed upon as apparently
 <lb/><add place="marginleft">deeply</add> implicated in the <add place="below">^</add> <add place="above">late</add> rebellion &amp;
 <lb/>war - and as he was known
 <lb/><subst><del>as</del><add place="over-text">to</add></subst> be connected with some
@@ -1227,20 +1227,20 @@ with
 <lb/><term type="tribe">Bakwains</term> and <term type="tribe">Makololo</term> - 
 <lb/>I attended during the whole
 <lb/>eight days <del type="cancelled">of</del> the case lasted</p>
-<lb/><p>The prisoner <persName>Andries
+        <lb/><p>The prisoner <persName ref="people.xml#pers0264">Andries
 <lb/>Botha</persName> was upwards of seventy
 <lb/>years of age - of short stature
 <lb/>and firmly built - his hair
 <lb/>white and features of the
 <lb/>cast of his race - The evidence
-<lb/>of <persName>Sir Andries <w>Stockenstro<del type="strikethrough">o</del>m</w></persName>
+            <lb/>of <persName ref="person.xml#pers0545">Sir Andries <w>Stockenstro<del type="strikethrough">o</del>m</w></persName>
 <lb/>and of the <term type="occupation">magistrate</term> <add place="below">^</add> <add place="above">(<persName>M<hi rend="sup">r</hi> Wienand</persName>)</add> of the
 <lb/>district in which the alleged<!-- evidence of previous letters under 'll', but it is unclear.JL -->
 <lb/>rebellion had taken place
 <lb/><del type="cancelled">(<persName>M<hi rend="sup underline">r</hi> Wienand</persName>)</del> <choice><orig>shewed</orig><reg>showed</reg></choice> that
 <lb/>for forty years <add place="below">^</add> <add place="above">he</add> had been
 <lb/>"<quote>a most efficient <term type="occupation">officer</term></quote>"
-<lb/>in the <choice><sic><persName>Queen</persName>s</sic><corr><persName>Queen</persName>'s</corr></choice> service and
+            <lb/>in the <choice><sic><persName ref="people.xml#pers0486">Queen</persName>s</sic><corr><persName ref="people.xml#pers0486">Queen</persName>'s</corr></choice> service and
 <lb/>had been the "<quote>chief agent in
 <lb/>bringing one <add place="below">^</add> <add place="above">at least</add> of the <orgName><subst><del>C</del><add place="over-text">K</add></subst>affer</orgName> wars
 <lb/>to a successful <subst><del type="strikethrough">conclusion</del><add place="above">close</add></subst></quote>"</p>
@@ -1249,7 +1249,7 @@ with
 <lb/><term type="tibe"><choice><orig>Fingoes</orig><reg>Fengu</reg></choice></term><!-- not sure about tagging this as tribe, or whether it should be orgName, ks --><!-- Staying with tribe for now.JL --> who were well known
 <lb/>to be the mortal enemies of
 <lb/>the whole <orgName>Hottentot</orgName> race - and
-<lb/>of <persName>Botha</persName> in particular as
+    <lb/>of <persName ref="people.xml#pers0264">Botha</persName> in particular as
 
 
 
@@ -1310,7 +1310,7 @@ party organ <subst><del type="cancelled">believed</del><add place="above">assert
 <lb/><p>The prisoner was
 <lb/><choice><orig>shewn</orig><reg>shown</reg></choice> to have absented himself
 <lb/>on one occasion only from
-<lb/>meeting <persName>General Somerset</persName>
+    <lb/>meeting <persName ref="people.xml#pers0540">General Somerset</persName>
 <lb/>on account of that <term type="occupation">officer</term>
 <lb/>being unable to protect
 <lb/>him from the vengeance
@@ -1342,7 +1342,7 @@ his forty years of
 <lb/><p><fw><add place="inline" hand="#U1" rend="gray right">215</add></fw>
 <lb/>The <orgName>Hottentots</orgName> had been placed
 <lb/>by that far seeing and <del type="cancelled"><unclear cert="low">enti</unclear></del>
-<lb/>upright man <persName>Sir Andries
+    <lb/>upright man <persName ref="person.xml#pers0545">Sir Andries
 <lb/>Stockenstrom</persName> as an advanced
 <lb/><choice><sic>gaurd</sic><corr>guard</corr></choice> against the <orgName><subst><del>C</del><add place="over-text">K</add></subst>affirs</orgName>
 <lb/>on <del type="cancelled">a</del>the <placeName><settlement type="town">Kat river</settlement></placeName><!-- probably a reference to the Kat River settlement rather than the river.JL --> - And
@@ -1355,7 +1355,7 @@ his forty years of
     <lb/>disapproved
     <lb/>by his
     <lb/><orgName>government</orgName></add>
-<lb/><del type="cancelled">whom <persName>Sir Harry Smith</persName>
+    <lb/><del type="cancelled">whom <persName ref="person.xml#pers0538">Sir Harry Smith</persName>
 <lb/>thought he could adroitly
 <lb/>punish by <unclear cert="high">promotion</unclear> <choice><abbr>i- e-</abbr><expan>id est</expan></choice>
 <lb/>appear to <unclear cert="high">disapprove</unclear>
@@ -1459,7 +1459,7 @@ Hence
 <lb/><metamark function="reorder" spanTo="#meta-80"/><seg corresp="#reorder-35">freely</seg><anchor xml:id="meta-80"/> taught them <metamark function="insertion"/><anchor xml:id="reorder-35"/> <del type="strikethrough">whatever</del>
 <lb/>These <orgName>Hottentots</orgName> answered well
 <lb/>the object which the founder
-<lb/>of the settlement <add place="marginleft"><metamark function="insertion"/><persName>(Sir Andries
+    <lb/>of the settlement <add place="marginleft"><metamark function="insertion"/><persName ref="person.xml#pers0545">(Sir Andries
     <lb/>Stockenstrom</persName>)</add>
 had in view</p>
 <lb/>
@@ -1530,7 +1530,7 @@ had in view</p>
 <lb/><add place="marginleft">peaceful
     <lb/>preservation
     <lb/>of the</add>
-<add place="below">^</add> <persName>Glenelg</persName> treaties, was "<orgName>Kaffir</orgName>
+    <add place="below">^</add> <persName ref="people.xml#pers0310">Glenelg</persName> treaties, was "<orgName>Kaffir</orgName>
 <lb/>grievances - "</p>
 <lb/><space dim="vertical" extent="10" unit="lines"/>
 <lb/><p>As the <term type="occupation">missionaries</term>
@@ -1606,7 +1606,7 @@ had in view</p>
 <lb/>ever recurring minutiae of travel,
 <lb/>during <del type="cancelled">that</del> <add place="above">such as</add> period, or lengthy
 <lb/>disquisitions on all that has been
-<lb/>said and written from <persName>Hanno</persName><!-- Carthaginian traveller BC, ks -->
+    <lb/>said and written from <persName ref="people.xml#pers0313">Hanno</persName><!-- Carthaginian traveller BC, ks -->
 <lb/>down to our comfortable <term type="occupation">Easy chair
 <lb/>geographers</term> who can <subst><del type="strikethrough">fiercely</del><add place="above">keenly</add></subst>
 <lb/>contend for the exact positions of

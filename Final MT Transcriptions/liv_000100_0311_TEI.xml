@@ -102,7 +102,7 @@
                           
     <pb facs="liv_000100_0311.jpg" n="0311"/>               
 <lb/><p><fw n="heading_XXIX">XXIX <add place="inspace" hand="#U1" rend="gray right">310</add></fw>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName>Robinson</persName></note></add> I explained to them again<!-- p289 middle, Missionary, sh -->
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0497">Robinson</persName></note></add> I explained to them again<!-- p289 middle, Missionary, sh -->
 <lb/>&amp; again that when it was
 <lb/>said we came out of the
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>49</note></add> sea it did not mean that
@@ -135,7 +135,7 @@
 <lb/>glen and on a little rill
 <lb/>which flows into it from
 <lb/><add place="marginleft"><del type="cancelled"><gap extent="4" unit="chars"/></del></add> <del type="cancelled">the Southern side</del> Western side
-<lb/>stands the town of <persName>Kabompo</persName>
+    <lb/>stands the town of <persName ref="people.xml#pers0532">Kabompo</persName>
 <lb/>or as he likes best to be called <add place="below"><persName>Shinté</persName></add>
     
     
@@ -280,12 +280,12 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>specimens among ourselves</p>
 <lb/><space dim="vertical" extent="8" unit="lines"/>
 <lb/><p rend="no-indent"><note place="inline"><date when="1854-01-17">17<hi rend="sup underline">th</hi> Tuesday</date></note> <space extent="4" unit="chars"/>We were honoured with
-<lb/>a grand reception by <persName>Shinte</persName> about
-<lb/>one <choice><sic>oclock</sic><corr>o'clock</corr></choice> - <persName>Sambanza</persName> claimed the
+    <lb/>a grand reception by <persName ref="people.xml#pers0532">Shinte</persName> about
+    <lb/>one <choice><sic>oclock</sic><corr>o'clock</corr></choice> - <persName ref="people.xml#pers0506">Sambanza</persName> claimed the
 <lb/>honour of presenting <subst><del>me</del><add place="over-text">us</add></subst> <persName>Manenko</persName>
 <lb/>being <add place="below">^</add> <add place="marginleft">slightly</add> indisposed - The <orgName><orgName>Native</orgName> <term type="people">Portuguese</term></orgName>
 <lb/>and <term type="tribe"><choice><orig>Mam<metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>bari</orig><reg>Mambari</reg></choice></term><!-- function of gray barcket is unclear but it connects to the marginal numner.JL --> went fully armed with
-<lb/>guns in order to give <persName>Shinte</persName> <del type="strikethrough">a</del> a
+    <lb/>guns in order to give <persName ref="people.xml#pers0532">Shinte</persName> <del type="strikethrough">a</del> a
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>203</note></add><!-- the number is enclosed in a circle, sh --> <del type="strikethrough">parting</del> salute - They had their <term type="occupation">drummer</term>
 <lb/>and <del type="strikethrough">higher</del> <term type="occupation">trumpeter</term> making as
 
@@ -298,7 +298,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>54</note></add> yards square</measure> and two graceful
     <lb/>specimens of the <hi rend="underline"><foreign xml:lang="la"><term type="plant">ficus indica</term></foreign></hi>
 <lb/>stood near one end - Under<!-- possible letter under 'r' but it is illegible.JL --> one
-<lb/>of these sat <persName>Shinte</persName> on a sort of
+    <lb/>of these sat <persName ref="people.xml#pers0532">Shinte</persName> on a sort of
 <lb/>throne covered with a <term type="animal">leopard</term>'s
 <lb/>skin; He had on a checked jacket
 <lb/>and kilt of scarlet baize edged
@@ -319,13 +319,13 @@ and <term type="plant_foodstuff">bananas</term>
 <del type="cancelled">As we entered
 <lb/>the <foreign xml:lang="tn">kotla</foreign> the party of <term type="tribe">Manenko</term> clapped
 <lb/>their hands vigorously as a
-<lb/>salutation to <persName>Shinte</persName></del></p>
+    <lb/>salutation to <persName ref="people.xml#pers0532">Shinte</persName></del></p>
 <lb/><p><del type="cancelled">Behind him sat eighty or one
 <lb/>hundred women</del></p>
 <lb/><p>When we entered the <foreign xml:lang="tn">kotla</foreign> <subst><del><unclear cert="medium">we</unclear></del><add place="over-text">the</add></subst>
 <lb/>whole party of <term type="tribe">Manenko</term> saluted
-<lb/><add place="marginleft"><persName>Shinte</persName></add> <del type="cancelled">him</del> by clapping their hands &amp;
-<lb/><persName>Sambanza</persName> did obeisance by
+    <lb/><add place="marginleft"><persName ref="people.xml#pers0532">Shinte</persName></add> <del type="cancelled">him</del> by clapping their hands &amp;
+    <lb/><persName ref="people.xml#pers0506">Sambanza</persName> did obeisance by
 <lb/>rubbing his chest &amp; arms 
 <lb/>with ashes - - One of the trees
 <lb/>being unoccupied I retreated to it
@@ -351,7 +351,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>I thought of trying whether they
 <lb/>could not make us take to
 <lb/>our heels - As we <subst><del>s</del><add place="over-text">d</add></subst>id not they<!-- p292 Missionary, sh -->
-<lb/>turned round towards <persName>Shinte</persName>
+    <lb/>turned round towards <persName ref="people.xml#pers0532">Shinte</persName>
 <lb/>and saluted him then retired
 <lb/>When all had come and were
 <lb/>seated then began the curious
@@ -364,9 +364,9 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>to one side to avoid another
 <lb/>running backwards or forwards
 <lb/><del type="cancelled">Sp</del> leaping &amp;c - Here - the spokesman
-<lb/>of <persName>Nyamoana</persName> and <persName>Sambanza</persName>
+    <lb/>of <persName>Nyamoana</persName> and <persName ref="people.xml#pers0506">Sambanza</persName>
 <lb/>stalked backwards &amp; forwards
-<lb/>in front of <persName>Shinte</persName> and gave
+    <lb/>in front of <persName ref="people.xml#pers0532">Shinte</persName> and gave
 <lb/>forth in a loud voice all
 <lb/>they had been able to learn
 <lb/>either from ourselves or
@@ -388,20 +388,20 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>fibbing perhaps not - They rather
 <lb/>thought he was - But as the
 <lb/><term type="tribe">Balonda</term> had good hearts and
-<lb/><persName>Shinte</persName> had never done any harm
+    <lb/><persName ref="people.xml#pers0532">Shinte</persName> had never done any harm
 <lb/>to any one he had better <choice><sic>recieve</sic><corr>receive</corr></choice>
 <lb/><add place="marginleft">the white man</add> <del type="strikethrough">him</del> well and send him on
-<lb/>his way. - <persName>Sambanza</persName> was
+    <lb/>his way. - <persName ref="people.xml#pers0506">Sambanza</persName> was
 <lb/><choice><sic>gailly</sic><corr>gaily</corr></choice> attired and <subst><del>a</del><add place="over-text">b</add></subst>esides a
 <lb/>profusion of beads had a
 <lb/>cloth so long <add place="below" hand="#CL">^</add> <add place="above" hand="#CL">that</add> a boy carried it
 <lb/>after him as a train</p>
 <lb/>
-<lb/><p>Behind <persName>Shinte</persName> sat about
+                <lb/><p>Behind <persName ref="people.xml#pers0532">Shinte</persName> sat about
 <lb/>a hundred women clothed in
 <lb/>their best, which best happened
 <lb/>to be a profusion of red blaize
-<lb/>The chief wife of <persName>Shinte</persName> <add place="marginleft"><metamark function="insertion"/>one of the
+                    <lb/>The chief wife of <persName ref="people.xml#pers0532">Shinte</persName> <add place="marginleft"><metamark function="insertion"/>one of the
     <lb/><term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> or
     <lb/><term type="tribe"><choice><orig>Zul<subst><del>a</del><add place="over-text">u</add></subst>s</orig><reg>Zulus</reg></choice></term></add> 
 sat
@@ -414,7 +414,7 @@ sat
 <lb/>of plaintive ditty but it was
 <lb/>impossible for any of us
 <lb/>to catch whether it was in
-<lb/>praise of the speaker, of <persName>Shinte</persName>
+                    <lb/>praise of the speaker, of <persName ref="people.xml#pers0532">Shinte</persName>
 <lb/>or of themselves - This was
 
 
@@ -431,7 +431,7 @@ sat
 <lb/>here they expressed approbation
 <lb/>by clapping their hands and
 <lb/>laughing to different speakers
-<lb/>and <persName>Shinte</persName> frequently turned
+                    <lb/>and <persName ref="people.xml#pers0532">Shinte</persName> frequently turned
 <lb/>round and spoke to them</p>
 <lb/><p>A party of <add place="marginleft"><metamark function="insertion"/><term type="occupation">Musicians</term> consisting of</add> three <term type="occupation">drummers</term>
 <lb/><space extent="17" unit="chars"/> and four
@@ -483,9 +483,9 @@ sat
 <lb/>the ear - In <placeName><country>Angola</country></placeName> the
 <lb/><term type="people">Portuguese</term> use the <foreign xml:lang="bnt">Marimba</foreign>
 <lb/>in their dances - </p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName><unclear cert="medium">Cross</unclear></persName></hi></note></add> When nine speakers
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0284"><unclear cert="medium">Cross</unclear></persName></hi></note></add> When nine speakers
 <lb/>had concluded their <subst><del type="strikethrough" hand="#CL">speeches</del><add place="above" hand="#CL">orations</add></subst>
-<lb/><persName>Shinte</persName> stood up and so did
+                    <lb/><persName ref="people.xml#pers0532">Shinte</persName> stood up and so did
 <lb/>all the people - He had maintained
 <lb/>true <orgName>African</orgName> dignity of manner<!-- p294, Missionary, sh -->
 <lb/>all the while, but my people
@@ -504,7 +504,7 @@ sat
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>59</note></add> their guns.</p>
 <lb/><p rend="no-indent"><note place="inline"><date when="1854-01-18">18<hi rend="sup underline">th</hi></date></note> <space extent="4" unit="chars"/> <del type="strikethrough">On Wedends</del> We were <choice><sic>awaked</sic><corr>awakened</corr></choice>
 <lb/>during the night by a messenger
-<lb/>from <del type="strikethrough"><persName>Kabompo</persName></del> <persName>Shinte</persName> requesting
+    <lb/>from <del type="strikethrough"><persName ref="people.xml#pers0532">Kabompo</persName></del> <persName ref="people.xml#pers0532">Shinte</persName> requesting
 <lb/><choice><sic>at</sic><corr>a</corr></choice> visit at a very unseasonable
 <lb/>hour - As I was just in
 <lb/>the <term type="ailment">sweating</term> stage of an intermittent
@@ -526,7 +526,7 @@ sat
 <lb/>However at ten next
 <lb/>morning we went and
 <lb/>were led into the courts
-<lb/>of <persName>Shinte</persName> <add place="below">^</add> <add place="marginleft">the walls of
+    <lb/>of <persName ref="people.xml#pers0532">Shinte</persName> <add place="below">^</add> <add place="marginleft">the walls of
     <lb/>woven rods</add> 
 all very neat and
 <lb/>high - Many trees stood
@@ -549,14 +549,14 @@ all very neat and
 <lb/>leaves but <choice><orig>shewed</orig><reg>showed</reg></choice> its relationship
 <lb/>to the <term type="nationality">Indian</term> <term type="plant">Banian</term> by sending
 <lb/>down shoots towards the
-<lb/>ground - <persName>Shinte</persName> soon came
+    <lb/>ground - <persName ref="people.xml#pers0532">Shinte</persName> soon came
 <lb/>and appeared a man of
 <lb/>upwards of <del type="cancelled">forty</del> fifty <add place="below">^</add> <add place="above">five</add> years
 <lb/>of age of frank and open
 <lb/>countenance - <subst><del>He</del><add place="over-text">and</add></subst> and about the
 <lb/>middle height - He seemed in
 <lb/><hi rend="gray underline" resp="#U2">good</hi> <metamark function="ed-mark" rend="gray" resp="#U2">⎡</metamark><!-- this may function as a place marker, as the large slashes do.JL-->humour and said he
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName>Chester</persName></note></add> had expected yesterday that
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0278">Chester</persName></note></add> had expected yesterday that
 <lb/>a man who came from
 <lb/>the <w><subst><del>G</del><add place="over-text">g</add></subst>ods</w> would have <del type="cancelled">come</del>
 <lb/>approached and talked to him
@@ -599,7 +599,7 @@ all very neat and
 <lb/>(crossbreeds) and <term type="tribe">Mambari</term>
 <lb/><subst><del><unclear cert="medium">al</unclear></del><add place="over-text">on</add></subst>ly - <del type="strikethrough">He presented</del></p>
 <lb/><p><subst><del>I ha</del><add place="over-text">On</add></subst> learning from some
-<lb/>of the people that "<persName>Shinte</persName>'s
+    <lb/>of the people that "<persName ref="people.xml#pers0532">Shinte</persName>'s
 <lb/>mouth was bitter for want
 <lb/>of tasting <term type="animal_foodstuff">ox</term> flesh" I presented
 <lb/>him with one <del type="cancelled">of</del> to his
@@ -655,7 +655,7 @@ and explained that "this
 <lb/>was her white man, she
 <lb/>had brought him here and
 <lb/>that therefore the <term type="animal">ox</term> was
-<lb/>hers not <persName>Shinte</persName>'s - <del type="strikethrough">She took</del>
+    <lb/>hers not <persName ref="people.xml#pers0532">Shinte</persName>'s - <del type="strikethrough">She took</del>
 <lb/><add place="marginleft"><metamark function="insertion"/>She ordered her
     <lb/>men to
     <lb/>bring it</add> 
@@ -667,12 +667,12 @@ and explained that "this
     <pb facs="liv_000100_0325.jpg" n="0325"/>               
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">324</add></fw>
 <lb/>This is mentioned exactly as it
-<lb/>happened and <persName>Shinte</persName> did not
+    <lb/>happened and <persName ref="people.xml#pers0532">Shinte</persName> did not
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>63</note></add> seem at all annoyed by the
 <lb/>occurrence</p>
 <lb/>
 <lb/><p rend="no-indent"><note place="inline"><date when="1854-01-19">19<hi rend="sup underline">th</hi></date></note> I was <choice><sic>awaked</sic><corr>awakened</corr></choice> <add place="below">^</add> <add place="above">at an</add> early <add place="below">^</add> <add place="above">hour</add> by
-<lb/>a messenger from <persName>Shinte</persName>
+    <lb/>a messenger from <persName ref="people.xml#pers0532">Shinte</persName>
 <lb/>but I had just got the thirst
 <lb/>of a raging <term type="ailment">fever</term> <choice><sic>asuaged</sic><corr>assuaged</corr></choice> by
 <lb/>the bursting forth of a copious
@@ -686,9 +686,9 @@ and explained that "this
 <lb/>delay which occurred probably
 <lb/>on account of the divination
 <lb/>being unfavourable - "They
-<lb/>could not find <persName>Shinte</persName>" When
+    <lb/>could not find <persName ref="people.xml#pers0532">Shinte</persName>" When
 <lb/>I returned to bed another message<!-- p296, Missionary, sh -->
-<lb/>was <choice><sic>recieved</sic><corr>received</corr></choice> "<persName>Shinte</persName><!-- evidence of letters beneath 'n' but they are illegible.JL --> wished
+    <lb/>was <choice><sic>recieved</sic><corr>received</corr></choice> "<persName ref="people.xml#pers0532">Shinte</persName><!-- evidence of letters beneath 'n' but they are illegible.JL --> wished
 <lb/>to say all he had to <subst><add place="above">tell me</add><del type="strikethrough">say</del></subst> at
 <lb/>once" - This was too tempting
 <lb/>an offer so <subst><del>he</del><add place="over-text">we</add></subst> went &amp; he
@@ -719,19 +719,19 @@ and explained that "this
 <lb/>I suspect he likes the remedy
 <lb/>pretty well even though he has
 <lb/>no <term type="ailment">fever</term> - He had always
-<lb/>been a friend to <persName>Sebituane</persName>
-<lb/>and now that his son <add place="below">^</add> <add place="above"><persName>Sekeletu</persName></add> was
-<lb/>in his place <del type="strikethrough">he</del> <add place="below">^</add> <add place="above"><persName>Shinte</persName></add> was not
-<lb/>a friend but <add place="inline">a</add> <del type="cancelled"><persName>Sekeletu</persName>'s</del> father
+<lb/>been a friend to <persName ref="people.xml#pers0515">Sebituane</persName>
+<lb/>and now that his son <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0519">Sekeletu</persName></add> was
+    <lb/>in his place <del type="strikethrough">he</del> <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0532">Shinte</persName></add> was not
+<lb/>a friend but <add place="inline">a</add> <del type="cancelled"><persName ref="people.xml#pers0519">Sekeletu</persName>'s</del> father
 <lb/><add place="marginleft">to him,</add> and if a son asks a favour
 <lb/>the father must <del type="cancelled">do it</del> give
 <lb/>it - <space extent="3" unit="chars"/>He was highly pleased
 <lb/>with the large calabashes of
 <lb/><term type="foodstuff">clarified butter</term> and <term type="foodstuff">fat</term>
-<lb/>which <persName>Sekeletu</persName> had sent him
+<lb/>which <persName ref="people.xml#pers0519">Sekeletu</persName> had sent him
 <lb/>and wished to detain <persName>Kolimbota</persName>
 <lb/>that he might send a present
-<lb/>back to <persName>Sekeletu</persName> by his
+<lb/>back to <persName ref="people.xml#pers0519">Sekeletu</persName> by his
 <lb/>hands - This proposition
 <lb/>we afterwards discovered
 <lb/>was <persName>Kolimbota</persName>'s own as
@@ -748,7 +748,7 @@ and explained that "this
     <pb facs="liv_000100_0327.jpg" n="0327"/>               
 
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">326</add></fw>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Dennett</persName></hi></note></add> We were particularly
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0290">Dennett</persName></hi></note></add> We were particularly
 <lb/>struck in passing through
 <lb/>the village with the <del type="cancelled">punti</del>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>65</note></add> punctiliousness of manners
@@ -760,13 +760,13 @@ and explained that "this
 <lb/>and chest<subst><del hand="#U2">:</del><add place="over-text" rend="gray" hand="#U2">,</add></subst> <del type="cancelled">cont</del> They continue
 <lb/>the salutation <add place="below">^</add> <add place="above">of clapping their hands</add> <choice><sic>untill</sic><corr>until</corr></choice> the
 <lb/>great ones have passed<add place="inline" rend="gray" hand="#U2">;</add>
-<lb/><persName><choice><orig><subst><del>T</del><add place="over-text">S</add></subst>ambanza</orig><reg>Sambanza</reg></choice></persName> knelt down
+    <lb/><persName ref="people.xml#pers0506"><choice><orig><subst><del>T</del><add place="over-text">S</add></subst>ambanza</orig><reg>Sambanza</reg></choice></persName> knelt down
 <lb/>in this manner till the
-<lb/>Son of <persName>Shinte</persName> had passed him</p>
+    <lb/>Son of <persName ref="people.xml#pers0532">Shinte</persName> had passed him</p>
 <lb/><p>We several times saw
 <lb/>the woman<add place="inline" hand="#U2" rend="gray">,</add> who occupies the
 <lb/>position of <term type="occupation">drawer of water</term>
-<lb/>for <persName>Shinte</persName> <subst><del hand="#U2">-</del><add place="over-text" rend="gray" hand="#U2">,</add></subst> she rings a
+    <lb/>for <persName ref="people.xml#pers0532">Shinte</persName> <subst><del hand="#U2">-</del><add place="over-text" rend="gray" hand="#U2">,</add></subst> she rings a
 <lb/>bell as she passes along
 <lb/>to give warning to all to
 <lb/>keep out of her way;
@@ -786,7 +786,7 @@ and explained that "this
     
     <pb facs="liv_000100_0328.jpg" n="0328"/>               
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">327</add></fw>
-<lb/>fled into the country of <persName>Shinte</persName>
+    <lb/>fled into the country of <persName ref="people.xml#pers0532">Shinte</persName>
 <lb/>and located himself without
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>66</note></add> <choice><orig>shewing</orig><reg>showing</reg></choice> himself to the <term type="occupation">chief</term><add place="inline" hand="#U2" rend="gray">;</add>  
 <lb/>This was considered an<!-- p297, Missionary, sh -->
@@ -805,7 +805,7 @@ and explained that "this
 <lb/>No <term type="occupation">chief</term> in the South would
 <lb/>treat a fugitive in this way -
 <lb/><w><subst><del>m</del><add place="over-text">M</add></subst>y</w> men were horrified at
-<lb/>the act even though old <persName>Shinte</persName>
+    <lb/>the act even though old <persName ref="people.xml#pers0532">Shinte</persName>
 <lb/>and his counsel had some
 <lb/><choice><orig>shew</orig><reg>show</reg></choice> of reason on their side <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-194"/>And both the
     <lb/><term type="tribe">Barotse</term> &amp; the
@@ -821,7 +821,7 @@ and explained that "this
     <lb/>remain long
     <lb/>with <del type="strikethrough">their
     <lb/>present <term type="occupation">chief</term></del>
-    <lb/><persName>Shinte</persName> - <del type="strikethrough">They</del>
+    <lb/><persName ref="people.xml#pers0532">Shinte</persName> - <del type="strikethrough">They</del>
     <lb/>My men excited
     <lb/>the wonder of
     <lb/>this people by
@@ -842,7 +842,7 @@ and explained that "this
 <lb/>happened so close to the town<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/><add place="above">where there are no beasts of prey<add place="inline" rend="gray" hand="#U2">,</add></add> 
 <lb/>that we <del type="cancelled"><unclear cert="medium">I</unclear></del> suspect some of the
-<lb/>high men of <persName>Shinte</persName>'s court
+    <lb/>high men of <persName ref="people.xml#pers0532">Shinte</persName>'s court
 
 
     <pb facs="liv_000100_0329.jpg" n="0329"/>               
@@ -871,7 +871,7 @@ and explained that "this
     <lb/>have no
     <lb/>redress<add place="inline" rend="gray" hand="#U2">,</add> for
     <lb/>even</add>
-<lb/><del type="cancelled">and</del> <persName>Shinte</persName> himself seems
+    <lb/><del type="cancelled">and</del> <persName ref="people.xml#pers0532">Shinte</persName> himself seems
 <lb/>fond of working in the dark
 <lb/>One night he sent for me<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>though I always stated I liked
@@ -948,7 +948,7 @@ and explained that "this
 
     <pb facs="liv_000100_0331.jpg" n="0331"/>               
 <lb/><fw><add place="inspace" rend="gray left" hand="#U2">69</add> <add place="inspace" hand="#U1" rend="gray right">330</add></fw>
-<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName>Shinte</persName> was most anxious
+    <lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName ref="people.xml#pers0532">Shinte</persName> was most anxious
 <lb/>to see the pictures of the <w>Magic<del type="cancelled"><unclear cert="medium">k</unclear></del></w>
 <lb/>Lantern<add place="inline" rend="gray" hand="#U2">;</add> - But <term type="ailment">fever</term> had
 <lb/><add place="marginleft">so</add> <del type="cancelled">such a</del> weakening <add place="inline">an</add> effect
@@ -963,7 +963,7 @@ and explained that "this
 <lb/>of court beauties <del type="cancelled">around</del>
 <lb/>near him as at the reception.
 <lb/>The first picture exhibited
-<lb/>was <persName>Abraham</persName> <del type="strikethrough"><add place="below">^</add></del> <del type="strikethrough"><add place="marginleft">knife in hand</add></del> about to
+    <lb/>was <persName ref="people.xml#pers0243">Abraham</persName> <del type="strikethrough"><add place="below">^</add></del> <del type="strikethrough"><add place="marginleft">knife in hand</add></del> about to
 <lb/>slaughter <del type="cancelled"><persName>Isaac</persName></del> his son
 <lb/><persName>Isaac</persName><add place="inline" rend="gray" hand="#U2">;</add> - It was <choice><orig>shewn</orig><reg>shown</reg></choice>
 <lb/>as large as life<add place="inline" rend="gray" hand="#U2">,</add> and
@@ -998,7 +998,7 @@ and explained that "this
 <lb/>the little idol huts and
 <lb/><term type="plant">tobacco bushes</term><add place="inline" rend="gray" hand="#U2">;</add> - We could
 <lb/>not get <add place="below">^</add> <add place="above">one of</add> them back again
-<lb/><persName>Shinte</persName><add place="inline" rend="gray" hand="#U2">,</add> however<add place="inline" rend="gray" hand="#U2">,</add> sat bravely
+    <lb/><persName ref="people.xml#pers0532">Shinte</persName><add place="inline" rend="gray" hand="#U2">,</add> however<add place="inline" rend="gray" hand="#U2">,</add> sat bravely
 <lb/>through the whole<add place="inline" rend="gray" hand="#U2">,</add> and examined
 <lb/>with interest the instrument
 <lb/>afterwards - An explanation
@@ -1074,7 +1074,7 @@ and explained that "this
 <lb/><add place="marginleft">even in the</add> mornings &amp; evenings</seg></p>
 <lb/><space dim="vertical" extent="2" unit="lines"/>
 <lb/><p><note place="inline"><date when="1854-01-24">24<hi rend="sup underline">th</hi></date></note> We expected <supplied cert="high">to</supplied> have started
-<lb/>today but <persName>Sambanza</persName><add place="inline" rend="gray" hand="#U2">,</add> who
+    <lb/>today but <persName ref="people.xml#pers0506">Sambanza</persName><add place="inline" rend="gray" hand="#U2">,</add> who
 <lb/>had been sent off early
 <lb/>in the morning for guides<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>returned at midday
@@ -1092,7 +1092,7 @@ and explained that "this
 <lb/>their faces sound asleep<add place="inline" rend="gray" hand="#U2">;</add> This
 <lb/>peculiarity <add place="below">^</add> <add place="above">of posture</add> was ascribed by
 <lb/>no less an authority than
-<lb/><persName>Aristotle</persName> to <term type="foodstuff">wine</term><add place="inline" rend="gray" hand="#U2">,</add> - while those
+    <lb/><persName ref="people.xml#pers0251">Aristotle</persName> to <term type="foodstuff">wine</term><add place="inline" rend="gray" hand="#U2">,</add> - while those
 <lb/>who were sent asleep by <term type="foodstuff">beer</term>
 <lb/>were believed "to lie upon
 <lb/>their backs"</p>
