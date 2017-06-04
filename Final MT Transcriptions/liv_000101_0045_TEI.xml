@@ -114,7 +114,7 @@
 <lb/>remaining two were sold for
 <lb/>money to purchase a <term type="animal">horse</term>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>60 lines</note></add> for <persName ref="people.xml#pers0519">Sekeletu</persName> at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> - </p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Powell</persName></hi></note></add> The superiority of this new
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0482">Powell</persName></hi></note></add> The superiority of this new
 <lb/>market was quite astounding
 <lb/>to my companions and
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>281</note><!-- number enclosed in a circle, sh --></add> they began to abuse the
@@ -278,7 +278,7 @@ in order to
 <lb/>station of the <term type="nationality">Portuguese</term>
 <lb/>in <placeName><bloc>Western Africa</bloc></placeName> is <measure><choice><abbr>Lat -</abbr><expan>Latitude</expan></choice> 9° 37'
 <lb/>South - and <choice><abbr>Long -</abbr><expan>Longitude</expan></choice> 17° 43'
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><unclear cert="medium">Powell</unclear></note></add> East</measure> - consequently we had
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><unclear cert="medium"><persName ref="people.xml#pers0482">Powell</persName></unclear></note></add> East</measure> - consequently we had
 <lb/>still about <measure>300 miles</measure>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note><unclear cert="low">282 <metamark function="ed-mark" place="above">--------</metamark></unclear></note></add> to traverse before we could
 <lb/>reach the coast - We had
@@ -591,7 +591,7 @@ lowered the temperature
 <lb/>that they were lodgings for
 <lb/>certain inconvenient <w>bed<supplied cert="high">-</supplied>
 <lb break="no"/>-fellows</w></p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Powell</persName></hi></note></add> <date when="1854-04-27">27<hi rend="sup underline">th</hi></date> Five <choice><sic>hours</sic><corr>hours'</corr></choice> ride through
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0482">Powell</persName></hi></note></add> <date when="1854-04-27">27<hi rend="sup underline">th</hi></date> Five <choice><sic>hours</sic><corr>hours'</corr></choice> ride through
 <lb/>a pleasant <del type="strikethrough">well</del> country
 <lb/>of forest and meadow like
 <lb/><placeName><region>Londa</region></placeName> <add place="below">^</add> <add place="marginleft">brought us</add> to a village of <term type="tribe">Basongo</term>
@@ -755,7 +755,7 @@ lowered the temperature
 <lb/>but had never before
 <lb/>seen wheat growing.
 <lb/>This small field was
-<lb/>cultivated by <persName>M<hi rend="sup underline">r</hi> Miland</persName>
+    <lb/>cultivated by <persName ref="people.xml#pers0435">M<hi rend="sup underline">r</hi> Miland</persName>
 <lb/>an <choice><sic>agreable</sic><corr>agreeable</corr></choice> <term type="nationality">Portuguese</term>
 <lb/><term type="occupation"><del type="cancelled"><unclear cert="medium">g</unclear></del>merchant</term> - His garden 
 <lb/>was interesting as <choice><orig>shewing</orig><reg>showing</reg></choice>
@@ -887,7 +887,7 @@ lowered the temperature
 <lb/><metamark function="reorder" rend="gray" resp="#U2" spanTo="#meta-151"/><seg corresp="#reorder-61"><del type="strikethrough">also</del></seg><anchor xml:id="meta-151"/> from the more <!-- DL has drawn a circle around the word "also" sh -->
 <lb/>distant villages for the
 <lb/>sake of gain - </p>
-<lb/><p><persName>Pitsane</persName> and another of
+                <lb/><p><persName ref="people.xml#pers0479">Pitsane</persName> and another of
 <lb/>the men had violent attacks
 <lb/>of<del type="cancelled">or</del> <term type="ailment">fever</term>, and it was no 
 <lb/>wonder for the damp<del type="cancelled">f</del>ness

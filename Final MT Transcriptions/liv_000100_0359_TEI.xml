@@ -101,7 +101,7 @@
                 
     <pb facs="liv_000100_0359.jpg" n="0359"/>               
 <lb/><p><fw n="heading_XXXI">XXXI <add place="inspace" hand="#U1" rend="gray right">358</add></fw>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Mead</persName></hi></note></add> The reason why these extensive<!-- 1st para p310, Missionary, sh -->
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0400">Mead</persName></hi></note></add> The reason why these extensive<!-- 1st para p310, Missionary, sh -->
 <lb/><del type="cancelled"><subst><del><unclear cert="medium">trees</unclear></del><add place="over-text">p</add></subst></del> plains are covered
 <lb/>with grasses only and
 <lb/>the little islands with
@@ -227,7 +227,7 @@
 <lb/>huts to save the men
 <lb/>the trouble of booth making
 <lb/>I suspect that the <bibl>story 
-<lb/>in <persName>Park</persName></bibl> of the men
+    <lb/>in <persName ref="people.xml#pers0469">Park</persName></bibl> of the men
 <lb/>lifting up the hut to place
 <lb/>it on the <term type="animal">lion</term> referred
 <lb/>to the roof only - <del type="cancelled">It is</del> We leave
@@ -247,7 +247,7 @@
 <lb/>Indeed they always <del type="cancelled">d</del> did
 <lb/>I would not but contrast
 <lb/>their conduct with that
-<lb/>of <persName>Ntemese</persName> - He was thoroughly
+    <lb/>of <persName ref="people.xml#pers0459">Ntemese</persName> - He was thoroughly
     
 
     <pb facs="liv_000100_0363.jpg" n="0363"/>               
@@ -277,7 +277,7 @@
 <lb/>before we <del type="cancelled">could</del> went many
 <lb/>miles by some deep
 <lb/>valley every one of which
-<lb/>was full of water - <persName>Ntemese</persName>
+    <lb/>was full of water - <persName ref="people.xml#pers0459">Ntemese</persName>
 <lb/>continued to plait his basket
 <lb/>with all his might &amp;
 <lb/>would not come to our
@@ -456,7 +456,7 @@
 <lb/>to visit him<add place="inline" rend="gray" hand="#U2">,</add> <del type="strikethrough">he was</del> found<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>him sitting<add place="inline" rend="gray" hand="#U2">,</add> with about one
 <lb/>hundred men - He called
-<lb/>on <persName>Ntemese</persName> to give some
+    <lb/>on <persName ref="people.xml#pers0459">Ntemese</persName> to give some
 <lb/>account of us<add place="inline" rend="gray" hand="#U2">,</add> though
 <lb/>no doubt had been done
 <lb/>in private before. Then
@@ -477,10 +477,10 @@
 <lb/>down familiarly and
 <lb/>giving him a few of our
 <lb/>ideas - When we left
-<lb/><persName>Ntemese</persName> continued busily
+    <lb/><persName ref="people.xml#pers0459">Ntemese</persName> continued busily
 <lb/>imparting an idea of all
     <lb/>we had given to <persName ref="people.xml#pers0532">Shinte</persName> &amp;
-<lb/><persName>Masiko</persName><add place="inline" rend="gray" hand="#U2">,</add> and instilling the
+<lb/><persName ref="people.xml#pers0327">Masiko</persName><add place="inline" rend="gray" hand="#U2">,</add> and instilling the
     <lb/>hope that <persName ref="people.xml#pers0547">Soana Molopo</persName> might
 <lb/>expect as much as they had <add place="below"><choice><sic>recieved</sic><corr>received</corr></choice></add>
 
@@ -496,7 +496,7 @@
 <lb/>get the breed for himself<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>seeing his country was
 <lb/>so well adapted for
-<lb/><add place="marginleft">rearing <add place="below">^</add></add>  them - <del type="strikethrough">And</del> <persName>Ntemese</persName>
+    <lb/><add place="marginleft">rearing <add place="below">^</add></add>  them - <del type="strikethrough">And</del> <persName ref="people.xml#pers0459">Ntemese</persName>
 <lb/>refused to move - - He
 <lb/>moreover tried to frighten
 <lb/>us into parting with
@@ -527,7 +527,7 @@
     <pb facs="liv_000100_0370.jpg" n="0370"/>               
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">369</add></fw>
 <lb/>viewed as great savages<add place="inline" rend="gray" hand="#U2">,</add><!-- p314, Missionary, sh -->
-<lb/><del type="strikethrough">and</del> but <persName>Ntemese</persName> could not
+    <lb/><del type="strikethrough">and</del> but <persName ref="people.xml#pers0459">Ntemese</persName> could not
 <lb/>justly look <del type="strikethrough">down upon</del>
 <lb/><add place="marginleft">with scorn</add> on them<add place="inline" rend="gray" hand="#U2">,</add> for he has the mark
 <lb/>of a gash on his arm
@@ -538,7 +538,7 @@
 <lb/><term type="tribe">Makololo</term> do till asked about
 <lb/>a scar in his back betokening
 <lb/>anything but bravery</p>
-<lb/><p><persName>Ntimese</persName> was useful
+                <lb/><p><persName ref="people.xml#pers0459">Ntimese</persName> was useful
 <lb/>in <del type="strikethrough">such</del> cases <del type="cancelled"><subst><del>as</del><add place="over-text">in</add></subst> which</del>
 <lb/>like that of <date when="1854-02-06">Monday</date><add place="inline" rend="gray" hand="#U2">,</add> in
 <lb/>which we came upon
@@ -550,7 +550,7 @@
 <lb/><add place="marginleft">so</add> terrified<add place="inline" rend="gray" hand="#U2">,</add> that one woman
 <lb/>nearly went into <term type="ailment">convulsions</term>
 <lb/>from fear - When they
-<lb/><w>sa<subst><del>y</del><add place="over-text">w</add></subst></w> and heard <persName>Ntimese</persName>
+                    <lb/><w>sa<subst><del>y</del><add place="over-text">w</add></subst></w> and heard <persName ref="people.xml#pers0459">Ntimese</persName>
 <lb/>their terror subsided.</p>
 <lb/>
 <lb/><p>As usual we were
@@ -589,7 +589,7 @@
 <lb/>me to bring her a cloth
 <lb/>from the white man's
 <lb/>country but when we
-<lb/>returned poor <persName>Mozinkwa</persName>'s
+<lb/>returned poor <persName ref="people.xml#pers0430">Mozinkwa</persName>'s
 <lb/>wife was in her grave<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>and he as is the custom
 <lb/>had abandoned trees<add place="inline" rend="gray" hand="#U2">,</add> garden<add place="inline" rend="gray" hand="#U2">,</add>
@@ -617,7 +617,7 @@ If they ever visit
 
     <pb facs="liv_000100_0372.jpg" n="0372"/>      
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">371</add></fw>
-<lb/><persName>Mozinkwa</persName>'s wife had <term type="plant">cotton</term>
+    <lb/><persName ref="people.xml#pers0430">Mozinkwa</persName>'s wife had <term type="plant">cotton</term>
 <lb/>growing all round her
 <lb/>compound and several
 <lb/>plants used as <term type="foodstuff">relishes</term>
@@ -634,7 +634,7 @@ If they ever visit
 <lb/><add place="marginleft">the <term type="nationality">Indian</term></add> <del type="cancelled">(</del><term type="plant_foodstuff">Bringalls</term><del type="cancelled">) too</del> - <del type="cancelled">&amp;</del> <term type="plant_foodstuff">yams</term> &amp; <term type="plant_foodstuff">sweet
 <lb/>potatoes</term></p>
 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName><unclear cert="medium">Ker</unclear></persName></hi></note></add> We learned from
-    <lb/><persName>Mozinkwa</persName> that <persName ref="people.xml#pers0547">Soana Molopo</persName>
+    <lb/><persName ref="people.xml#pers0430">Mozinkwa</persName> that <persName ref="people.xml#pers0547">Soana Molopo</persName>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>38</note></add> was the elder brother of
 <lb/><persName>Katema</persName> but that he was<!-- p315, Missionary, sh -->
 <lb/><subst><del>s</del><add place="over-text">w</add></subst>anting in wisdom and
@@ -654,7 +654,7 @@ If they ever visit
 
     <pb facs="liv_000100_0373.jpg" n="0373"/>               
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">372</add></fw>
-    <lb/><note place="marginleft"><date when="1854-02-10">Friday 10<hi rend="sup underline">th</hi></date></note> On leaving <choice><sic><persName>Mozinkwa</persName>s</sic><corr><persName>Mozinkwa</persName>'s</corr></choice>
+    <lb/><note place="marginleft"><date when="1854-02-10">Friday 10<hi rend="sup underline">th</hi></date></note> On leaving <choice><sic><persName ref="people.xml#pers0430">Mozinkwa</persName>s</sic><corr><persName ref="people.xml#pers0430">Mozinkwa</persName>'s</corr></choice>
 <lb/>hospitable mansion we
 <lb/>crossed another stream about
 <lb/><measure>forty yards wide</measure> in canoes
@@ -719,8 +719,8 @@ If they ever visit
 <lb/>proceeded forthwith but
 <lb/>were turned aside by
 <lb/>the strategy of our friend
-<lb/><persName>Ntemese</persName> to the village
-<lb/>of <persName>Quendende</persName> the father <w>in<supplied>-</supplied>
+    <lb/><persName ref="people.xml#pers0459">Ntemese</persName> to the village
+    <lb/>of <persName ref="people.xml#pers0487">Quendende</persName> the father <w>in<supplied>-</supplied>
 <lb break="no"/>-law</w> of <persName>Katema</persName> - This
 <lb/>fine old man was so
 <lb/>very polite we did not
@@ -758,7 +758,7 @@ If they ever visit
 <lb/>given from pure generosity
 <lb/>The first time I came to this
 <lb/>conclusion was at the
-<lb/>house of <persName>Mozinkwa</persName> - Scarcely
+    <lb/>house of <persName ref="people.xml#pers0430">Mozinkwa</persName> - Scarcely
 <lb/>anyone <add place="below">^</add> <add place="above">of my men</add> re<metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>turned<!-- square bracket relates to the marginal number.JL --> from
 <lb/>it without something in
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>240</note></add><!-- number circled --> his hand - and as they
@@ -823,7 +823,7 @@ If they ever visit
 <lb/>all in good health could
 <lb/>enjoy the fine green scenery <supplied cert="high">-</supplied> </p> 
 <lb/><space dim="vertical" unit="lines" extent="2"/>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note>43 <space extent="2" unit="chars"/><hi rend="underline"><persName>Mead</persName></hi></note></add> <choice><sic><persName>Quendende</persName>s</sic><corr><persName>Quendende</persName>'s</corr></choice> <subst><del>was</del><add place="over-text">h</add></subst>ead was
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note>43 <space extent="2" unit="chars"/><hi rend="underline"><persName ref="people.xml#pers0400">Mead</persName></hi></note></add> <choice><sic><persName ref="people.xml#pers0487">Quendende</persName>s</sic><corr><persName ref="people.xml#pers0487">Quendende</persName>'s</corr></choice> <subst><del>was</del><add place="over-text">h</add></subst>ead was
 <lb/>a good specimen of the greater
 <lb/><add place="marginleft">crop of</add> <w>wool<del type="strikethrough">iness</del></w> with which the
 <lb/>negroes of <placeName><region>Londa</region></placeName> are furnished
@@ -858,20 +858,20 @@ If they ever visit
 <lb/>
 <lb/><p>We here met with some
 <lb/>people from the town of
-<lb/><persName>Matiamvo</persName> (<persName>Muata yanvo</persName>) who
+    <lb/><persName ref="people.xml#pers0444">Matiamvo</persName> (<persName ref="people.xml#pers0444">Muata yanvo</persName>) who
 <lb/>had been sent to announce
 <lb/>the death of the late <term type="occupation">chieftain</term>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>44</note></add> of that name. <persName>Matiamvo</persName> is the
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note>44</note></add> of that name. <persName ref="people.xml#pers0444">Matiamvo</persName> is the
 <lb/>hereditary title - <foreign xml:lang="und">Muata</foreign> meaning
 <lb/><term type="occupation">lord</term> or <term type="occupation">chief</term> - The late <del type="strikethrough"><term type="occupation">chief</term></del>
-<lb/><persName>Matiamvo</persName> seems from <w>the<del type="cancelled">ir</del></w>
+    <lb/><persName ref="people.xml#pers0444">Matiamvo</persName> seems from <w>the<del type="cancelled">ir</del></w>
 <lb/>report <add place="below">^</add> <add place="marginleft">of these men</add> to have been <term type="ailment">insane</term>
 <lb/>for he is said to have sometimes
 <lb/>indulged a whim of running
 <lb/>a muck in the town and
 <lb/>beheading whoever he met,
 <lb/><choice><sic>untill</sic><corr>until</corr></choice> he had quite a heap
-<lb/>of <add place="below">˅</add> <add place="marginleft">human</add> heads - <del type="cancelled">They</del> <add place="below">^</add> <add place="above"><persName>Matiamvo</persName></add> explained this
+    <lb/>of <add place="below">˅</add> <add place="marginleft">human</add> heads - <del type="cancelled">They</del> <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0444">Matiamvo</persName></add> explained this
 <lb/>conduct by saying that <subst><del><unclear cert="medium">he</unclear></del><add place="over-text">his</add></subst>
 <lb/>people were too many &amp; he
 <lb/>wanted to diminish them
@@ -879,14 +879,14 @@ If they ever visit
 <lb/>and death - On enquiring
 <lb/>whether human sacrifices
 <lb/>were still made as in
-    <lb/>the time of <persName>Pereira</persName> <add place="below">^</add> <add place="above">at <choice><sic><persName ref="people.xml#pers0351">Cazembe</persName>s</sic><corr><persName ref="people.xml#pers0351">Cazembe</persName>'s</corr></choice></add> we were
+    <lb/>the time of <persName ref="people.xml#pers0475">Pereira</persName> <add place="below">^</add> <add place="above">at <choice><sic><persName ref="people.xml#pers0351">Cazembe</persName>s</sic><corr><persName ref="people.xml#pers0351">Cazembe</persName>'s</corr></choice></add> we were
 
 
     <pb facs="liv_000100_0379.jpg" n="0379"/>          
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">378</add></fw>
 <lb/>informed that these had never
 <lb/>been so common as was
-<lb/>represented to <persName>Pereira</persName> but that
+    <lb/>represented to <persName ref="people.xml#pers0475">Pereira</persName> but that
 <lb/>it occasionally happened when
 <lb/>certain charms were needed
 <lb/>by the <term type="occupation">chief</term> a man was slaughtered
@@ -901,7 +901,7 @@ If they ever visit
 <lb/>by the <term type="tribe">Mokololo</term> and when
 <lb/>they found that all my people
 <lb/>held <term type="animal">cattle</term> we were told that
-<lb/><persName>Matiamvo</persName> alone had a herd -
+    <lb/><persName ref="people.xml#pers0444">Matiamvo</persName> alone had a herd -
 <lb/>One very intelligent man among
 <lb/>them asked if he should make
 <lb/>a canoe and take it down
@@ -912,7 +912,7 @@ If they ever visit
 <lb/>was important as <choice><orig>shewing</orig><reg>showing</reg></choice>
 <lb/>the knowledge of a water
 <lb/>communication <subst><del>an</del><add place="over-text">f</add></subst>rom
-<lb/>the country of <persName>Matiamvo</persName> to
+    <lb/>the country of <persName ref="people.xml#pers0444">Matiamvo</persName> to
 <lb/>the <term type="tribe">Makololo</term> <add place="marginleft"><metamark function="insertion"/>and the river
     <lb/>runs through
     <lb/>a fertile
@@ -936,15 +936,15 @@ If they ever visit
 <lb/>of their perpetual forays that
 <lb/>they <subst><del>are</del><add place="over-text">ha</add></subst>ve not been known
 <lb/>in <placeName><region>Londa</region></placeName> <subst><del>bu</del><add place="over-text">ex</add></subst>cept as ruthless
-<lb/>destroyers - The People <add place="below">^</add> <add place="above"><del type="cancelled">Lond</del> in <persName>Matiamvo</persName>'s country</add> submit <add place="below">^</add> <add place="above">to</add> much
+    <lb/>destroyers - The People <add place="below">^</add> <add place="above"><del type="cancelled">Lond</del> in <persName ref="people.xml#pers0444">Matiamvo</persName>'s country</add> submit <add place="below">^</add> <add place="above">to</add> much
 <lb/><add place="marginleft">wrong <add place="below">^</add> </add>from their <term type="occupation">chiefs</term> and no
 <lb/>voice can be raised <del type="strikethrough">in <placeName><region>Londa</region></placeName></del>
 <lb/><add place="marginleft">against cruelty</add> because they are afraid to
 <lb/>flee elsewhere - </p>
-<lb/><p><add place="marginleft">The <subst><del type="cancelled">situation</del><add place="above">position</add></subst> of</add> the village of <persName>Quendende</persName> is <measure>11° 41' 17 South</measure>
+                <lb/><p><add place="marginleft">The <subst><del type="cancelled">situation</del><add place="above">position</add></subst> of</add> the village of <persName ref="people.xml#pers0487">Quendende</persName> is <measure>11° 41' 17 South</measure>
 <lb/><measure><choice><abbr>Long</abbr><expan>Longitude</expan></choice> - 22° 16'</measure> - This we left
-<lb/>in company with <add place="below">^</add> <add place="above"><persName>Quendende</persName> and</add> the <term type="occupation">headman</term>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>46</note></add> and the <term type="occupation">ambassadors</term> of <persName>Matiamvo</persName>
+                    <lb/>in company with <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0487">Quendende</persName> and</add> the <term type="occupation">headman</term>
+                    <lb/><add place="marginleft" rend="gray" hand="#U2"><note>46</note></add> and the <term type="occupation">ambassadors</term> of <persName ref="people.xml#pers0444">Matiamvo</persName>
 <lb/>on the <date when="1854-02-13">13<hi rend="sup">th</hi></date> and after <measure>two or three
 <lb/>miles March</measure> to the <choice><abbr>N- W- </abbr><expan>North West</expan></choice> came
 <lb/>to the ford of the <placeName><geogName type="river">Lotembwa</geogName></placeName>
@@ -959,7 +959,7 @@ If they ever visit
 <lb/>paddle more than <measure>half a
 <lb/>mile</measure> to get free of the water
 <lb/>A fire, <add place="above">was</add> <del type="strikethrough">having been</del> lit to
-<lb/>warm <subst><del>the</del><add place="over-text">old</add></subst> <persName>Quendende</persName> and
+                    <lb/>warm <subst><del>the</del><add place="over-text">old</add></subst> <persName ref="people.xml#pers0487">Quendende</persName> and
 <lb/>enable him to dry his
 <lb/>tobacco leaves <subst><del>His</del><add place="over-text">The</add></subst> leaves
 <lb/>are taken from the plant
@@ -989,7 +989,7 @@ If they ever visit
 <lb/>to be genuine negroes though
 <lb/>neither they nor the <term type="tribe">Balonda</term>
 <lb/>follow closely the typical
-<lb/>form of that people - <persName>Quendende</persName>
+                    <lb/>form of that people - <persName ref="people.xml#pers0487">Quendende</persName>
 <lb/>said <subst><del>were</del><add place="over-text">if</add></subst> he were present
 <lb/>on these occasions he
 <lb/>would hide his people
@@ -997,8 +997,8 @@ If they ever visit
 <lb/>slaughtered - As we go North
 <lb/>the people become more
 <lb/><add place="marginleft"><w>blo<subst><del>d</del><add place="over-text">o</add></subst>dily</w> <add place="below">^</add></add>  superstitious <del type="cancelled">&amp; more though</del> </p>
-<lb/><p>If <del type="cancelled"><persName>Matiamvo</persName></del> the late
-<lb/><persName>Matiamvo</persName> <subst><del>takes</del><add place="over-text">took</add></subst> a fancy 
+                <lb/><p>If <del type="cancelled"><persName ref="people.xml#pers0444">Matiamvo</persName></del> the late
+                    <lb/><persName ref="people.xml#pers0444">Matiamvo</persName> <subst><del>takes</del><add place="over-text">took</add></subst> a fancy 
 <lb/>to any thing such as my
 <lb/><del type="strikethrough"><add place="marginleft">silver</add></del> watch chain which was
 <lb/>silver wire <del type="cancelled">plaited</del> - and
@@ -1025,7 +1025,7 @@ If they ever visit
 <lb/>has been <subst><del>a</del><add place="over-text">t</add></subst>he case frequently
 <lb/><add place="marginleft">and</add> <del type="strikethrough">but</del> nearly all the visitants
 <lb/>he <add place="below">^</add> <add place="above">ever</add> had were men of colour
-<lb/>On asking if <persName>Matiamvo</persName> did
+                    <lb/>On asking if <persName ref="people.xml#pers0444">Matiamvo</persName> did
 <lb/>not know he was a man
 <lb/>and would be judged in
 <lb/>company with those he

@@ -102,7 +102,7 @@
 <lb/>and I could understand the 
 <lb/>thankfulness of poor <term type="tribe">Bakwain</term>
 <lb/>women (in <subst><del>an</del><add place="over-text">the</add></subst> interesting condition)
-<lb/>to <persName>M<hi rend="sup underline">rs</hi> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName> for a little <term type="foodstuff">milk</term> or <term type="foodstuff">meat</term> - </p> 
+    <lb/>to <persName ref="people.xml#pers0373">M<hi rend="sup underline">rs</hi> <choice><abbr>L.</abbr><expan>Livingstone</expan></choice></persName> for a little <term type="foodstuff">milk</term> or <term type="foodstuff">meat</term> - </p> 
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> Had there been no other adverse
 <lb/>influences at work the general
 <lb/>uncertainty though <add place="below">^</add> <add place="above">not</add> absolute want
@@ -234,7 +234,7 @@ of <subst><del>of</del><add place="over-text">c</add></subst>ommerce ought to be
     <lb/><persName ref="people.xml#pers0481">M<hi rend="sup">r</hi> Hendrick Potgeiter</persName> came in
 <lb/>as far as the <placeName><geogName type="mountains">Cashan mountains</geogName></placeName>
 <lb/>whence a <orgName>Caffre</orgName> <term type="occupation">chief</term> named
-<lb/><persName>Mosilikatze</persName> had been expelled
+    <lb/><persName ref="people.xml#pers0446">Mosilikatze</persName> had been expelled
     <lb/>by the well known <add place="below">^</add> <add place="above"><orgName>Caffre</orgName></add> <persName ref="people.xml#pers0293">Dingaan</persName>, and
 <lb/>a glad welcome was given them
 <lb/>by the <term type="tribe">Bechuana</term> tribes who had just
@@ -242,7 +242,7 @@ of <subst><del>of</del><add place="over-text">c</add></subst>ommerce ought to be
 <lb/><term type="occupation">chieftain</term> - They came with the
 <lb/>prestige of white men and deliverers,
 <lb/>but the <term type="tribe">Bechuanas</term> soon found
-<lb/><del type="cancelled">that</del> as they express it, "that <persName>Mosilikatze</persName>
+    <lb/><del type="cancelled">that</del> as they express it, "that <persName ref="people.xml#pers0446">Mosilikatze</persName>
 <lb/>was cruel to his enemies <subst><del>but</del><add place="over-text">and</add></subst> kind to those
 <lb/>he conquered, but the <orgName>Boers</orgName> destroy
 <lb/>their enemies and make <orgName>slaves</orgName>
@@ -724,7 +724,7 @@ obtained
 <lb/><choice><sic>to</sic><corr/></choice> his <term type="occupation">chief</term> - I believe that in this
 <lb/>way have arisen tales of inability
 <lb/>to count ten or even smaller
-<lb/>numbers - As <persName>M<hi rend="sup">r</hi> <choice><sic>Burchel</sic><corr>Burchell</corr></choice></persName><!-- a reference to William Burchell, author of 'Travels in the Interior of South Africa'. JL --> was
+    <lb/>numbers - As <persName ref="people.xml#pers0271">M<hi rend="sup">r</hi> <choice><sic>Burchel</sic><corr>Burchell</corr></choice></persName><!-- a reference to William Burchell, author of 'Travels in the Interior of South Africa'. JL --> was
 <lb/>led to believe this of the <term type="tribe">Bechuanas</term>
 <lb/><add place="marginleft">about the very</add> <del type="strikethrough">at a</del> time when <persName ref="people.xml#pers0516">Sechele</persName>'s father
 <lb/>counted out one thousand head
@@ -785,7 +785,7 @@ obtained
 <lb/>"I was made an independent
 <lb/><term type="occupation">chief</term> <add place="below">^</add> <add place="marginleft"><add place="above">^</add> &amp; placed here</add> by God and not by you
 <lb/>I was never conquered by
-<lb/><persName>Mosilikatze</persName> as those tribes whom
+    <lb/><persName ref="people.xml#pers0446">Mosilikatze</persName> as those tribes whom
 <lb/>you rule over - And the <term type="people">English</term>
 <lb/>are my friends <del type="strikethrough">and</del> I <subst><del>gave</del><add place="over-text">get</add></subst> <del type="cancelled">me</del>
 <lb/>everything I wish from them -
@@ -894,7 +894,7 @@ obtained
 <lb/>best thing that could have been 
 <lb/>done in the circumstances of
 <lb/>the case - The policy, however
-<lb/>of <choice><abbr>H. M.</abbr><expan>Her Majesty's</expan></choice> <term type="occupation">commissioner</term> <persName>Owen</persName>
+    <lb/>of <choice><abbr>H. M.</abbr><expan>Her Majesty's</expan></choice> <term type="occupation">commissioner</term> <persName ref="people.xml#pers0467">Owen</persName>
 <lb/>acting <subst><del type="cancelled">by</del><add place="above">under</add></subst> the authority of that
 <lb/>noble hearted man was very
 <lb/>questionable - These <term type="occupation">commissioners</term>
@@ -976,7 +976,7 @@ obtained
 <lb/>in the protection of the <orgName>natives</orgName> 
 <lb/>was plundered in revenge - <term type="people">English</term>
 <lb/>gentlemen who had come in the
-<lb/>footsteps of <persName>M<hi rend="sup">r</hi> Cumming</persName> to hunt
+    <lb/>footsteps of <persName ref="people.xml#pers0286">M<hi rend="sup">r</hi> Cumming</persName> to hunt
 <lb/>in the country beyond had also
 <lb/>deposited large quantities of
 <lb/>stores for the return journeys
@@ -1025,8 +1025,8 @@ obtained
             	<pb facs="liv_000099_0082.jpg" n="0082"/> 
 <lb/><p rend="no-indent"><note place="inspace"><hi rend="double-underline">to follow</hi> <metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-18"/>III <add place="inspace" hand="#U2" rend="gray left">IV?</add></note><anchor xml:id="meta-18"/><!-- metamark querying DL's chapter numbering, circled in pencil, ks --> <space extent="9" unit="chars"/><fw><add place="inspace" hand="#U2" rend="gray"><note><metamark function="flag" spanTo="#meta-228"/>86 <gap extent="3" unit="chars" agent="illegible"/></note><anchor xml:id="meta-228"/></add><!-- 86 and the illegible word are circled in pencil.JL --> <add place="inspace" hand="#U2" rend="gray">52 <del type="strikethrough" hand="#U2">136</del></add> <add place="inspace below" hand="#U1" rend="gray">79</add></fw></p>
 <lb/><p><space extent="1" unit="chars"/><add place="inline" rend="red" hand="#U3">The following memorandums are appended</add> 
-<lb/><space extent="3" unit="chars"/><del type="strikethrough" rend="red" hand="#U3"><del type="cancelled" hand="#DL">Having married Mary the eldest
-<lb/>daughter of <persName>Revd Robert Moffat</persName></del></del>
+    <lb/><space extent="3" unit="chars"/><del type="strikethrough" rend="red" hand="#U3"><del type="cancelled" hand="#DL">Having married <persName ref="people.xml#pers0373">Mary</persName> the eldest
+    <lb/>daughter of <persName ref="people.xml#pers0411">Revd Robert Moffat</persName></del></del>
 <lb/><add place="above" rend="red" hand="#U3">in the hope that</add> <del type="strikethrough" rend="red" hand="#U3"><del type="cancelled" hand="#DL">of <settlement type="village">Kuruman</settlement> <unclear cert="low">in</unclear> <add place="below">^</add> <unclear cert="low"><add place="above">January</add> 1845</unclear></del></del> a short sketch<!-- I am fairly certain I can transcribe more of this but will need to review it either from the manuscript or through a graphics programme, ks --><!-- I've supplemented this.JL -->
 <lb/>of <orgName>African</orgName> Housekeeping may
 <lb/><add place="marginleft" rend="red" hand="#U3" ><del type="cancelled" rend="red" hand="#U3">perhaps</del></add> prove interesting <add place="above" rend="red" hand="#U3" >to the Reader</add> - The entire absence
@@ -1132,7 +1132,7 @@ obtained
 <lb/><add place="marginleft"><subst><del>is</del><add place="over-text">was</add></subst></add> <subst><del>then</del><add place="over-text">thus</add></subst> exchanged for the unskilled
 <lb/>Dinner <add place="marginleft"><metamark function="insertion"/>and an hour's 
     <lb/>rest</add> 
-over at <subst><del>one</del><add place="over-text">two</add></subst> <del type="cancelled"><persName>M<hi rend="sup">rs</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice></persName> <unclear cert="medium">to teach</unclear></del> <add place="above">the wife</add>
+    over at <subst><del>one</del><add place="over-text">two</add></subst> <del type="cancelled"><persName ref="people.xml#pers0373">M<hi rend="sup">rs</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice></persName> <unclear cert="medium">to teach</unclear></del> <add place="above">the wife</add>
 <lb/><add place="marginleft">attended</add> <del type="cancelled">in</del> <add place="below">^</add> her infant school which
 <lb/>the young who were left <del type="strikethrough" hand="#U3" rend="red">entirely</del>
 	

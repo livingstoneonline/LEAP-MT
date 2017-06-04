@@ -649,7 +649,7 @@ detached from the parts
 <lb/><del type="strikethrough"><add place="marginleft" hand="#U3" rend="red"><note><metamark function="ed-mark">X</metamark> <metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> meaning
     <lb/>who?</note></add></del>       
 <metamark function="flag" place="marginleft" rend="red" resp="#U3" spanTo="#meta-140"/><add place="marginleft"><del type="strikethrough">under</del> <add place="below">˄</add></add> <del type="strikethrough">of</del> <add place="below">˄</add> <add place="above">under</add> <persName>Horoye</persName> - This <add place="below">˄</add> <add place="above"><metamark function="ed-mark" rend="red" resp="#U3">X</metamark>man <persName>Horoye</persName> a</add> specimen of
-<lb/>that tribe <subst><del type="strikethrough">as well as his sons</del><add place="above">and his son <persName>Mokantsa</persName></add></subst><anchor xml:id="meta-140"/>
+    <lb/>that tribe <subst><del type="strikethrough">as well as his sons</del><add place="above">and his son <persName ref="people.xml#pers0414">Mokantsa</persName></add></subst><anchor xml:id="meta-140"/>
 <lb/><add place="marginleft">&amp; others</add> were at least 6 <choice><abbr>ft</abbr><expan>feet</expan></choice> high and
 <lb/>of a darker colour than
 <lb/>the <orgName>Bushmen</orgName> of the South
@@ -664,7 +664,7 @@ detached from the parts
 <lb/><placeName><geogName type="desert">Kalahari</geogName></placeName> - The animal they
 <lb/>refrain from eating is
 <lb/>the <term type="animal">goat</term> which fact mentioned
-<lb/>by <persName>Mokantsa</persName> is proof of
+    <lb/>by <persName ref="people.xml#pers0414">Mokantsa</persName> is proof of
 <lb/>their hatred of domestic
 <lb/>animals - They are a merry
 <lb/>laughing set and do not tell
@@ -752,7 +752,7 @@ detached from the parts
 <lb/>more and of course spent
 <lb/>all the force of their bullets
 <lb/>on the air - One <term type="animal">elephant</term>
-<lb/>was found by <persName>Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
+    <lb/>was found by <persName ref="people.xml#pers0466">Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
 <lb/>with quite a crowd of
 <lb/>bullets in his side fired
 <lb/>in this style and they had
@@ -784,7 +784,7 @@ detached from the parts
 <lb/>with <persName>Kaisa</persName> the <term type="occupation">headman</term>
 <lb/>of a village of <term type="tribe">Mashona</term> <subst><del type="strikethrough" hand="#U3" rend="red">which</del><add place="above" hand="#U3" rend="red">who</add></subst> 
 <lb/>had fled from the iron sway
-<lb/>of <persName><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName> whose country
+    <lb/>of <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName> whose country
 <lb/>lies <w><subst><del>e</del><add place="over-text">E</add></subst>ast</w> of this - I wished him
 <lb/>to take charge of a <bibl>packet of
 <lb/>letters</bibl> for home to be delivered

@@ -546,7 +546,7 @@
 
 <pb facs="liv_000100_0109.jpg" n="0109"/>     
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">104</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">12</add></del><add place="over-text" hand="#U1" rend="gray right">108</add></subst></fw>
-<lb/>The <term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> of <persName><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName>
+    <lb/>The <term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> of <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName>
 <lb/>living a short distance <placeName><region>South
 <lb/>of the <placeName><geogName type="river">Zambesi</geogName></placeName></region></placeName>, and other
 <lb/>tribes living a little South
@@ -563,7 +563,7 @@
 <lb/><p>2<hi rend="sup">d</hi> The <term type="tribe">Bakoni</term> and
 <lb/><term type="tribe"><choice><orig>Basutu<del type="cancelled">s</del></orig><reg>Basuto</reg></choice></term> <add place="below">^</add> <add place="above">division</add> <w>contain<add place="inline" hand="#U3" rend="red">s</add></w> in the
 <lb/>South all those tribes which
-<lb/>acknowledge <persName>Moshesh</persName><!-- p202, Missionary, sh -->
+    <lb/>acknowledge <persName ref="people.xml#pers0426">Moshesh</persName><!-- p202, Missionary, sh -->
 <lb/>as their paramount <term type="occupation">chief</term>
 <lb/><add place="below">^</add> <add place="marginleft">The <term type="tribe">Batau</term>
     <lb/>The <term type="tribe">Baputi</term>
@@ -579,7 +579,7 @@ and some <term type="occupation">mountaineers</term>
 <lb/>to this day and they ascribe
 <lb/>their having left off the
 <lb/>odious practice of entrapping
-<lb/>human prey to <persName>Moshesh</persName>
+    <lb/>human prey to <persName ref="people.xml#pers0426">Moshesh</persName>
 <lb/>having given them <term type="animal">cattle</term>
 <lb/>They are <del type="cancelled">d</del> called <term type="tribe">Marimo</term>
 <lb/>and <term type="tribe">Maya bathu</term> = men eaters
@@ -613,7 +613,7 @@ and some <term type="occupation">mountaineers</term>
 <lb/>propensities quite beyond
 <lb/>the range of <term type="nationality">English</term>
 <lb/>influence and law - The
-<lb/><term type="tribe"><choice><orig>Basutu</orig><reg>Basuto</reg></choice></term> under <persName>Moshesh</persName>
+    <lb/><term type="tribe"><choice><orig>Basutu</orig><reg>Basuto</reg></choice></term> under <persName ref="people.xml#pers0426">Moshesh</persName>
 <lb/>are equally fond of cultivating
 <lb/>the soil <space extent="3" unit="chars"/>The chief labour
 <lb/>of hoeing - driving away
@@ -686,7 +686,7 @@ much to be wondered at
 <lb/>on the <term type="tribe"><choice><orig>Basutus</orig><reg>Basutos</reg></choice></term> for the
 <lb/><term type="foodstuff">grain</term> they consume - <add place="inline">*</add> <add place="marginleft"><note>(foot note)
     <lb/>* see <bibl>two lectures
-    <lb/>by <persName><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice> <unclear cert="low">E -</unclear>
+        <lb/>by <persName ref="people.xml#pers0539"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice> <unclear cert="low">E -</unclear>
     <lb/>Solomon</persName></bibl><!-- not able to identify or find this person, sh --><!-- likely to be Edward Solomon, ordained in Cape Town in October 1841, who gave "Two Lectures on the Native Tribes of the interior, delivered before the Mechanics' Institute, Cape Town", in 1855..JL -->
     <lb/>delivered before
     <lb/>the <orgName><choice><sic>Mechanics

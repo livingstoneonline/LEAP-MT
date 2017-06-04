@@ -142,7 +142,7 @@
 <lb/>and <placeName><geogName type="river">Tamunakle</geogName></placeName> more
 <lb/>than in any other part of
 <lb/>the country - The headman
-<lb/>of this village <persName>Majane</persName> <del type="strikethrough" hand="#U3" rend="red">seemed</del>
+    <lb/>of this village <persName ref="people.xml#pers0382">Majane</persName> <del type="strikethrough" hand="#U3" rend="red">seemed</del>
 <lb/>seemed a little wanting in
 <lb/>ability but had <add place="below">˄</add> <add place="above">had</add> wit enough
 <lb/>to promote a younger member
@@ -427,7 +427,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>met on the <placeName><geogName type="river">Chobe</geogName></placeName> were delighted
 <lb/>to meet us - And as their <term type="occupation">chief</term>
 <lb/><persName ref="people.xml#pers0515">Sebituane</persName> was about <measure>twenty
-<lb/>miles</measure> down the river<!-- geogName: Chobe --> <persName>M<hi rend="sup">r</hi> <abbr>O - </abbr><expan>Oswell</expan></persName>
+    <lb/>miles</measure> down the river<!-- geogName: Chobe --> <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <abbr>O - </abbr><expan>Oswell</expan></persName>
 <lb/>and I proceeded in canoes
 <lb/>to his temporary residence
 <lb/>He had come from the <term type="tribe">Barotse</term>
@@ -465,7 +465,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>mischief would follow
 <lb/>He presented us with an <term type="animal">ox</term> <add place="below">˄</add>
 <lb/><add place="marginleft">and a jar of <term type="foodstuff">honey</term></add> as food and handed us over
-<lb/>to the care of <persName>Mahale</persName> who had
+    <lb/>to the care of <persName ref="people.xml#pers0378">Mahale</persName> who had
 <lb/>headed the party to <placeName><settlement type="village">Kolobeng</settlement></placeName> &amp;
 <lb/>would now fain <del type="strikethrough" rend="red" hand="#U3">take</del> <add place="below">˄</add> <add place="marginleft" hand="#U3" rend="red">appropriate to himself</add> the
 <lb/>whole credit of <del type="cancelled" rend="red" hand="#U3">their</del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above">our</add> coming
@@ -477,7 +477,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 
 <pb facs="liv_000099_0176.jpg" n="0176"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right">168</add> <add place="inspace" rend="gray right" hand="#U1">171</add></fw>
-<lb/><add place="marginleft">could</add> <subst><del>is</del><add place="over-text">be</add></subst> returned to this <term type="occupation">chief</term> <persName>Mahale</persName>
+    <lb/><add place="marginleft">could</add> <subst><del>is</del><add place="over-text">be</add></subst> returned to this <term type="occupation">chief</term> <persName ref="people.xml#pers0378">Mahale</persName>
 <lb/>became <subst><del type="cancelled"><unclear cert="low">honour</unclear></del><add place="above">owner</add></subst> of them too -
 <lb/>Long before it was day <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>came and sitting down by
@@ -503,7 +503,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>than any <term type="occupation">chief</term> I ever met
 <lb/>He was the greatest <term type="occupation">warrior</term>
 <lb/>ever heard of beyond the
-<lb/>colony for unlike <persName><choice><orig>Mosilikatz</orig><reg>Mosilikatse</reg></choice></persName>
+    <lb/>colony for unlike <persName ref="people.xml#pers0446"><choice><orig>Mosilikatz</orig><reg>Mosilikatse</reg></choice></persName>
     <lb/>and <persName ref="people.xml#pers0293">Dingaan</persName> &amp;c - he always
 <lb/>led his men into battle himself
 <lb/>When he saw the enemy
@@ -552,7 +552,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>the <term type="tribe">Bakwains</term> - <term type="tribe">Bakatla</term> and
 <lb/><term type="tribe">Bahurutse</term> to eat him up
 <lb/><add place="inspace"><note>* See an account of this affair
-<lb/>in <choice><sic><persName>Moffat</persName>s</sic><corr><persName>Moffat</persName>'s</corr></choice> <bibl>Missionary enterprise
+    <lb/>in <choice><sic><persName ref="people.xml#pers0411">Moffat</persName>s</sic><corr><persName ref="people.xml#pers0411">Moffat</persName>'s</corr></choice> <bibl>Missionary enterprise
 <lb/><space extent="13" unit="chars"/>in <placeName><bloc>Africa</bloc></placeName></bibl></note></add>
 
 
@@ -561,10 +561,10 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>Placing his men in front
 <lb/>and <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">the</add> women behind the <term type="animal">cattle</term>
 <lb/>he routed the whole <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">of his enemies</add> at one blow <add place="marginleft"><metamark function="insertion"/>Having thus
-    <lb/>conquered <persName>Makabe</persName>
+    <lb/>conquered <persName ref="people.xml#pers0383">Makabe</persName>
     <lb/>the <term type="occupation">chief</term> of the <term type="tribe"><choice><sic>Bangwak<add place="below">^</add><add place="above">etse</add></sic><corr>Bangwaketse</corr></choice></term>
     <lb/><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-67"/><del type="cancelled">and sat himself
-    <lb/>down in <choice><sic><persName>Makabe</persName>s</sic><corr><persName>Makabe</persName>'s</corr></choice>
+        <lb/>down in <choice><sic><persName ref="people.xml#pers0383">Makabe</persName>s</sic><corr><persName ref="people.xml#pers0383">Makabe</persName>'s</corr></choice>
     <lb/>town</del> he took<anchor xml:id="meta-67"/>
     <lb/>immediate possession
     <lb/>of that <term type="occupation">chief</term>'s
@@ -739,7 +739,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>never lost their love for this
 <lb/>fine healthy spot - </p>
 <lb/><p>But the <term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> a <orgName>Kaffir</orgName>
-<lb/><add place="marginleft">or <term type="tribe">Zul<subst><del type="strikethrough">a</del><add place="above">u</add></subst></term></add> tribe under <persName><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName> crossed
+    <lb/><add place="marginleft">or <term type="tribe">Zul<subst><del type="strikethrough">a</del><add place="above">u</add></subst></term></add> tribe under <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName> crossed
 <lb/>the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> and attacking
 <lb/>him in this chosen spot captured
 <lb/>his <term type="animal">cattle</term> and women - Rallying
@@ -797,11 +797,11 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>be killed, they are <subst><del type="strikethrough">your</del><add place="above">thy</add></subst> future
 <lb/>tribe - They are <subst><del type="strikethrough">your</del><add place="above">thy</add></subst> city let them
 <lb/>be spared <subst><del type="cancelled">to build</del><add place="above">to cause</add></subst> <subst><del type="cancelled">you up - "</del> <add place="above">thee to build"</add></subst>
-<lb/>"And thou <persName><choice><orig>Ramosinini</orig><reg>Ramosinii</reg></choice></persName> Thy
+    <lb/>"And thou <persName ref="people.xml#pers0499"><choice><orig>Ramosinini</orig><reg>Ramosinii</reg></choice></persName> Thy
 <lb/>village will perish utterly" - If
-<lb/><persName>Mokari</persName> removes from that village
+    <lb/><persName ref="people.xml#pers0415">Mokari</persName> removes from that village
 <lb/>he will perish first, and thou
-<lb/><persName><choice><orig>Ramosinini</orig><reg>Ramosinii</reg></choice></persName> wilt be the last to 
+    <lb/><persName ref="people.xml#pers0499"><choice><orig>Ramosinini</orig><reg>Ramosinii</reg></choice></persName> wilt be the last to 
 <lb/>die - Concerning himself he
 <lb/>added<del type="strikethrough">"</del> "The gods have caused other
 <lb/>men to drink water but to me 
@@ -836,7 +836,7 @@ I have given
 <lb/>they attacked him first - 
 <lb/><del type="strikethrough" hand="#U3" rend="red"><add place="marginleft" hand="#U3" rend="red">At</add> Though</del> <w><subst><del hand="#U3">h</del><add place="over-text" hand="#U3" rend="red">H</add></subst>e</w> had ascended the
 <lb/><placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName><add place="inline" hand="#U3" rend="red">,</add> <del type="strikethrough" hand="#U3" rend="red">he</del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">but</add> was followed
-<lb/>by <term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> as <persName><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName>
+    <lb/>by <term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> as <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName>
 <lb/>never could forgive the
 <lb/>former defeats - They came
 <lb/>up the river in a very large
@@ -863,7 +863,7 @@ I have given
 <lb/>they had only to perform the part
 <lb/>of executioners on the adults &amp;
 <lb/>incorporate the rest into their own
-<lb/>tribe - <del type="cancelled">Sebit</del> <persName><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName> was
+    <lb/>tribe - <del type="cancelled">Sebit</del> <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName> was
 <lb/>goaded on by his <term type="occupation">warriors</term> to
 <lb/>revenge this loss - so he sent
 <lb/>an immense army carrying
@@ -904,12 +904,12 @@ I have given
 <lb/>the rest</del> <add place="marginleft" hand="#U3" rend="red">completed their
     <lb/>destruction</add> 
  - only five men returned
-<lb/>to <persName><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName></p>
+    <lb/>to <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName></p>
 <lb/><p><add place="marginleft" hand="#U3" rend="red"><persName ref="people.xml#pers0515">Sebituane</persName></add> <del type="strikethrough" hand="#U3" rend="red">He</del> had now not only <w>con<supplied>-</supplied>
 <lb break="no"/>quered</w> all the black tribes
 <lb/>over an immense tract
 <lb/>of country<add place="inline" hand="#U3" rend="red">;</add> but made himself
-<lb/>dreaded by the terrible <persName><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName>
+    <lb/>dreaded by the terrible <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName>
 <lb/>He never could trust <subst><del>him</del><add place="over-text">this</add></subst>
 <lb/>ferocious<!-- the 'i' is dotted by #U3.JL --> <term type="occupation">chief</term><add place="inline" hand="#U3" rend="red">,</add> however <add place="inline" hand="#U3" rend="red">-</add>
 <lb/>And as the <term type="occupation">chiefs</term> on the
@@ -927,7 +927,7 @@ I have given
 <lb/>trade from penetrating into
 <lb/>the great valley - Of the
 <lb/><term type="occupation">chiefs</term> who escaped he said
-<lb/><add place="inline" hand="#U3" rend="red">"</add>they love <persName><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName><add place="inline" hand="#U3" rend="red">,</add> let
+    <lb/><add place="inline" hand="#U3" rend="red">"</add>they love <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName><add place="inline" hand="#U3" rend="red">,</add> let
 <lb/>them live with him - The
 <lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> is my line<!-- the 'i' is dotted in red by #U3.JL --> of 
 <lb/>defence<add place="above" hand="#U3" rend="red">"</add> and men were
@@ -997,7 +997,7 @@ I have given
 <lb/>was that I should remain
 <lb/>in the pursuit of my objects
 <lb/>as a <term type="occupation">missionary</term> while
-<lb/><persName>M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> should explore
+    <lb/><persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> should explore
 <lb/>the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> to the East - Poor
 <lb/><persName ref="people.xml#pers0515">Sebituane</persName> however just
 <lb/>after realizing what he
@@ -1037,7 +1037,7 @@ I have given
 <lb/>himself up a little from
 <lb/>his prone position, called
 <lb/>a <term type="occupation">servant</term> and said "Take
-    <lb/><persName ref="people.xml#pers0374">Robert</persName> to <persName>Maunku</persName> (one
+    <lb/><persName ref="people.xml#pers0374">Robert</persName> to <persName ref="people.xml#pers0406">Maunku</persName> (one
 <lb/>of his wives) and tell her
 <lb/>to give him some milk"
 <lb/>These were <subst><del>his</del><add place="over-text">the</add></subst> last words

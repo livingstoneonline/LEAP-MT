@@ -272,7 +272,7 @@
 <lb/>stood at the gateway
 <lb/>He would rather die than
 <lb/>see his father imposed
-<lb/>on - but I ordered <persName>Mosantu</persName>
+    <lb/>on - but I ordered <persName ref="people.xml#pers0425">Mosantu</persName>
 <lb/>to take him out of the
 <lb/>way and he did it
 <lb/>promptly and allowed
@@ -331,7 +331,7 @@
     <pb facs="liv_000100_0461.jpg" n="0461"/><!-- p349 Missionary travels, sh -->
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">460</add></fw>  
 <lb/>did not deign to appear except
-<lb/><add place="marginleft"><note><persName>Matiamvo</persName></note></add> under the <hi rend="underline">alias</hi> <persName>Matiamvo</persName>
+    <lb/><add place="marginleft"><note><persName ref="people.xml#pers0395">Matiamvo</persName></note></add> under the <hi rend="underline">alias</hi> <persName ref="people.xml#pers0395">Matiamvo</persName>
 <lb/>to get <term type="animal">cattle</term> for his own
 <lb/>use and expressed sorrow
 <lb/>that I had none wherewith
@@ -383,8 +383,8 @@
 <lb/>atmosphere prevented my
 <lb/>seeing the creeping plants
 <lb/>in time to duck under
-<lb/>them so <del type="cancelled">I was</del> <persName>Pitsane</persName>
-<lb/><persName>Mohorisi</persName> and I who <add place="below">^</add> <add place="above">alone</add> were
+    <lb/>them so <del type="cancelled">I was</del> <persName ref="people.xml#pers0479">Pitsane</persName>
+    <lb/><persName ref="people.xml#pers0413">Mohorisi</persName> and I who <add place="below">^</add> <add place="above">alone</add> were
 <lb/>mounted were often caught
 <lb/>and as there is no stopping
 <lb/>of the <term type="animal">oxen</term> when they have
@@ -961,8 +961,8 @@ We now slaughtered
 <lb/>over and again when
 <lb/>all were over but
 <lb/>my principal man
-<lb/><add place="marginleft"><note><persName>Pitsané</persName></note></add> <del type="cancelled">any</del> <persName>Pitsané</persName> and myself
-<lb/><add place="marginleft"><note><persName><choice><orig>Loyank<subst><del>a</del><add place="over-text">é</add></subst></orig><reg>Loyanké</reg></choice></persName></note></add> <persName><choice><orig>Loyank<subst><del>a</del><add place="over-text">e</add></subst></orig><reg>Loyanke</reg></choice></persName> took off his
+    <lb/><add place="marginleft"><note><persName ref="people.xml#pers0479">Pitsané</persName></note></add> <del type="cancelled">any</del> <persName ref="people.xml#pers0479">Pitsané</persName> and myself
+    <lb/><add place="marginleft"><note><persName ref="people.xml#pers0375"><choice><orig>Loyank<subst><del>a</del><add place="over-text">é</add></subst></orig><reg>Loyanké</reg></choice></persName></note></add> <persName ref="people.xml#pers0375"><choice><orig>Loyank<subst><del>a</del><add place="over-text">e</add></subst></orig><reg>Loyanke</reg></choice></persName> took off his
 <lb/>cloth and paid my
 <lb/>passage with it - The
 <lb/><term type="tribe">Makololo</term> always ferried

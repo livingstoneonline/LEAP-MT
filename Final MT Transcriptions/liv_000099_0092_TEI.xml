@@ -287,11 +287,11 @@ and many attempts
 <lb/>But having communicated
 <lb/>my intention to an <orgName>African</orgName>
 	<lb/><term type="occupation">traveller</term> <persName ref="people.xml#pers0544">Colonel Steele</persName> then <term type="occupation"><choice><sic>Aid-de
-<lb/>camp</sic><corr>Aide-de-camp</corr></choice></term> to the <persName>Marquis of <placeName><region>Tweedale</region></placeName></persName>
+		<lb/>camp</sic><corr>Aide-de-camp</corr></choice></term> to the <persName ref="people.xml#pers0315">Marquis of <placeName><region>Tweedale</region></placeName></persName>
 <lb/>at <placeName><settlement type="city">Madras</settlement></placeName> he made it known
 <lb/>to <del type="cancelled">our</del><add place="above" hand="#U3" rend="red">two</add> other <add place="above"><del type="strikethrough" hand="#U3" rend="red">two</del> gentlemen</add> <del type="cancelled">friends</del> <w>who<subst><del>m</del><add place="over-text">se</add></subst></w> <del type="cancelled">we</del>
 <lb/><add place="marginleft">friendship we</add> had made <subst><del type="strikethrough">by</del><add place="above">during their</add></subst> <orgName>African</orgName> travel <choice><abbr>viz.</abbr><expan>videlicet</expan></choice>
-	<lb/><persName ref="people.xml#pers0557">Captain Vardon</persName> and <persName>M<hi rend="sup underline">r</hi> 
+	<lb/><persName ref="people.xml#pers0557">Captain Vardon</persName> and <persName ref="people.xml#pers0466">M<hi rend="sup underline">r</hi> 
 <lb/><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> - All of these gentlemen
 <lb/>were so enamoured with <orgName>African</orgName>
 <lb/>hunting and <orgName>African</orgName> <subst><del type="cancelled">hunting</del><add place="above">discovery</add></subst>
@@ -302,7 +302,7 @@ and many attempts
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">90</add> <add place="inspace" hand="#U2" rend="gray right">5-</add> <add place="inspace" hand="#U1" rend="gray right">93</add></fw>
 <lb/>in being able to leave <placeName><country>India</country></placeName> to undertake
 <lb/>afresh the pleasures &amp; pains of
-<lb/>desert life, I believe <persName>M<hi rend="sup">r</hi> <choice><abbr>O.</abbr><expan>Oswell</expan></choice></persName> came
+	<lb/>desert life, I believe <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><abbr>O.</abbr><expan>Oswell</expan></choice></persName> came
 <lb/><add place="marginleft">from his high position</add> at a very considerable pecuniary
 <lb/>sacrifice, and with no other
 <lb/>end in view but to extend
@@ -317,8 +317,8 @@ and many attempts
 <lb/>ivory he might obtain from
 <lb/>the <term type="occupation">chief</term> at the Lake<!-- Lake Ngami.JL --> - And I
 <lb/>adhered to the bargain though
-<lb/>when at last <persName>M<hi rend="sup underline">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> did 
-<lb/>come (bringing <persName>M<hi rend="sup underline">r</hi> Murray</persName> with him)
+	<lb/>when at last <persName ref="people.xml#pers0466">M<hi rend="sup underline">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> did 
+	<lb/>come (bringing <persName ref="people.xml#pers0442">M<hi rend="sup underline">r</hi> Murray</persName> with him)
 <lb/>he undertook to defray the
 <lb/>entire expenses of <add place="below">^</add> <add place="above">the</add> <term type="occupation">guides</term>, and
 <lb/>as he had already generously
@@ -340,12 +340,12 @@ and many attempts
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">91</add> <add place="inspace" hand="#U1" rend="gray right">94</add></fw>
 <lb/>to me for taking him away, I
 <lb/>dissuaded him against it by
-<lb/>saying that he knew <persName>M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
+	<lb/>saying that he knew <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
 <lb/>"<subst><del>was</del><add place="over-text">would</add></subst> be as determined as himself
 <lb/>to get through the Desert - "<!-- Kalahari Desert. JL --> Their objects
 <lb/>were <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-14"/> totally different <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-36"/><seg corresp="#reorder-14">however</seg><anchor xml:id="meta-36"/> - </p>
 				<lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName ref="people.xml#pers0572"><unclear cert="medium">Wilkes</unclear></persName></note></hi></add><!-- proofing editor's name on marginleft? ks --> While waiting at <placeName><settlement type="village">Kolobong</settlement></placeName> for
-<lb/><del type="strikethrough" hand="#U3" rend="red">the company of</del> <persName>M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> I may
+					<lb/><del type="strikethrough" hand="#U3" rend="red">the company of</del> <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> I may
 <lb/>give some <subst><del type="strikethrough" hand="#U3" rend="red">notices</del><add place="above" hand="#U3" rend="red">account</add></subst> <add place="below" hand="#U3" rend="red">^</add>  of the great
 <lb/><placeName><geogName type="desert">Kalahari desert</geogName></placeName> that the reader
 <lb/>may understand <subst><del type="strikethrough" hand="#U3" rend="red">exactly</del><add place="above" hand="#U3" rend="red">in some degree</add></subst> the
@@ -834,7 +834,7 @@ The compact they enter into is
             <lb/>impossible for
             <lb/>waggons</add>
  - <metamark function="newParagraph" rend="gray" resp="#U2">⎡⎡</metamark><metamark function="newParagraph" rend="red" resp="#U3">⎡</metamark><w>Mess<subst><del type="cancelled" hand="#U3" rend="red">ers</del><add place="above">rs</add></subst></w>
-<lb/><persName><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and <persName>Murray</persName> came
+	<lb/><persName ref="people.xml#pers0466"><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and <persName ref="people.xml#pers0442">Murray</persName> came
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">in</del><add place="above" hand="#U3" rend="red">at</add></subst>  the end of <date when="1849-05">May</date> and we
 <lb/>all made a fair start for
 <lb/>unknown region on
@@ -945,7 +945,7 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <lb/>supply for some <del type="cancelled">70 or</del> 80 <term type="animal">oxen</term>,
 <lb/>20 <term type="animal">horses</term>, and an equal
 <lb/>number of men - Our <term type="occupation">guide</term>
-<lb/><persName>Ramotobi</persName>, who had spent
+	<lb/><persName ref="people.xml#pers0489">Ramotobi</persName>, who had spent
 <lb/>his youth in the desert,
 <lb/>declared that though appearances
 <lb/>were against us, there was

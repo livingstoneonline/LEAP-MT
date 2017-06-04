@@ -187,12 +187,12 @@
 <lb/>threatened to invade the Colony <add place="inline">*</add> <add place="marginleft"><note><add place="inline" hand="#U3" rend="red">Note</add> 
     <lb/>For an account
     <lb/><supplied cert="high">of</supplied> this see
-    <lb/><choice><sic><persName>Moffat</persName>s</sic><corr><persName>Moffat</persName>'s</corr></choice> <del type="cancelled"><bibl><term type="occupation">missionary</term>
+    <lb/><choice><sic><persName ref="people.xml#pers0411">Moffat</persName>s</sic><corr><persName ref="people.xml#pers0411">Moffat</persName>'s</corr></choice> <del type="cancelled"><bibl><term type="occupation">missionary</term>
     <lb/>enterprise</bibl></del> "<bibl>Scenes
     <lb/><supplied cert="high">&amp;</supplied> Labours
     <lb/><supplied cert="high">in</supplied> <placeName><region>South Africa</region></placeName></bibl>"</note></add><!-- I've coded this as <region> rather than "country", since DL is really referring to southern Africa. The country doesn't come into being until 1910 with the Union of South Africa).JL -->
 <lb/>But for <del type="strikethrough" hand="#U3" rend="red">this</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="U3" rend="red">that</add> brave <term type="religion">Christian</term>
-    <lb/>man <add place="below">^</add> <add place="above" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><persName>Mr Moffat</persName></del></add> <add place="above"><persName ref="people.xml#pers0565">Waterboer</persName></add> there is every human
+    <lb/>man <add place="below">^</add> <add place="above" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><persName ref="people.xml#pers0411">Mr Moffat</persName></del></add> <add place="above"><persName ref="people.xml#pers0565">Waterboer</persName></add> there is every human
 <lb/>probability that the <choice><sic>North</sic><corr/></choice> <del type="cancelled">&amp;</del> -
 <lb/><add place="marginleft"><hi rend="red underline" resp="#U3">North</hi></add> West <del type="cancelled">frontier</del> would have
 <lb/><del type="strikethrough" hand="#U3" rend="red">been as</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">given the <term type="occupation">Colonists</term> as much</add> <w>trouble<del type="cancelled" rend="red">some</del></w> as the
@@ -544,7 +544,7 @@ for their
 <lb/>poor clothing and behave
 <lb/>with a decorum certainly superior
 <lb/>to what seems to have been the
-<lb/>case in the time of <persName>M<hi rend="sup underline">r</hi> Samuel
+    <lb/>case in the time of <persName ref="people.xml#pers0473">M<hi rend="sup underline">r</hi> Samuel
 <lb/>Pepys</persName> in <placeName><settlement type="city">London</settlement></placeName> - Sunday
 <lb/>is well observed and even
 <lb/>in localities where no <term type="occupation">missionary</term>
@@ -680,7 +680,7 @@ It was in vain
 <lb/>not detect any diminution
 <lb/>in the flow of this gushing
 <lb/>fountain during my residence
-<lb/>in the country but when <persName>M<hi rend="sup underline">r</hi>
+    <lb/>in the country but when <persName ref="people.xml#pers0411">M<hi rend="sup underline">r</hi>
 <lb/>Moffat</persName> first attempted a settlement
 
 
@@ -884,7 +884,7 @@ which has
 <lb/><add place="marginleft" hand="#U3" rend="red">it</add> <del type="strikethrough" hand="#U3" rend="red">they</del> can be observed by man
 <lb/>for having measured a young
 <lb/><add place="marginleft" hand="#U3" rend="red">tree of this species</add> <del type="strikethrough" hand="#U3" rend="red">one</del> growing in the corner
-<lb/>of <choice><sic><persName>Mr Moffat</persName>s's</sic><corr><persName>Mr Moffat</persName>'s</corr></choice> garden <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- bracket connects to marginal number.JL --><del type="cancelled"><unclear cert="medium">at</unclear></del> near
+    <lb/>of <choice><sic><persName ref="people.xml#pers0411">Mr Moffat</persName>s's</sic><corr><persName ref="people.xml#pers0411">Mr Moffat</persName>'s</corr></choice> garden <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- bracket connects to marginal number.JL --><del type="cancelled"><unclear cert="medium">at</unclear></del> near
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>81</note></add> the water I found <del type="strikethrough" hand="#U3" rend="red">after a number
 <lb/>of years</del> that it <del type="strikethrough" hand="#U3" rend="red">had</del> increased
 <lb/>at the rate of <choice><orig>¼</orig><reg>1/4</reg></choice> of an inch in
@@ -956,7 +956,7 @@ It <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="#U3
 <lb/><add place="marginleft">the plant</add> <del type="cancelled">it</del> as a medicine</p>
 <lb/>
 <lb/><p>During the period of my visit
-<lb/>at <placeName><settlement type="village">Kuruman</settlement></placeName> <persName>M<hi rend="sup underline">r</hi> Moffat</persName> who has
+    <lb/>at <placeName><settlement type="village">Kuruman</settlement></placeName> <persName ref="people.xml#pers0411">M<hi rend="sup underline">r</hi> Moffat</persName> who has
 <lb/>been a <term type="occupation">missionary</term> in <placeName><bloc>Africa</bloc></placeName>
 <lb/>during upwards of forty years
 <lb/>and is well known by his
@@ -1010,7 +1010,7 @@ In my own
 <lb/>reiteration - The capabilities
 <lb/>of this language may be inferred
 <lb/>from the fact that the <bibl>Pentateuch</bibl>
-<lb/>is fully expressed in <del type="strikethrough" hand="#U3" rend="red">the</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"><persName>Mr Moffat</persName>'s</add> translation
+    <lb/>is fully expressed in <del type="strikethrough" hand="#U3" rend="red">the</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"><persName ref="people.xml#pers0411">Mr Moffat</persName>'s</add> translation
 <lb/>in fewer words than in the <bibl>Greek
 <lb/>Septuagint</bibl>, and in a very considerably
 <lb/>smaller number than in our
@@ -1057,7 +1057,7 @@ In my own
 <lb/>of expressing the substance of a
 <lb/><add place="marginleft"><term type="occupation">chief</term>'s</add> <del type="strikethrough">a</del> diplomatic paper - While every one
 <lb/>who knows the <term type="occupation">chief</term> who sent
-<lb/>it <add place="marginleft"><metamark function="insertion"/>(<persName>Moshesh</persName>)</add> <del type="cancelled">would assert</del> <add place="below">^</add> <add place="above">well know</add> that he could in
+    <lb/>it <add place="marginleft"><metamark function="insertion"/>(<persName ref="people.xml#pers0426">Moshesh</persName>)</add> <del type="cancelled">would assert</del> <add place="below">^</add> <add place="above">well know</add> that he could in
 <lb/>his own tongue have expressed
 <lb/>it all <add place="below">^</add> <metamark function="insertion" rend="red" resp="#U3"/><add place="above">over again</add> in three or four different
 <lb/>ways - </p>

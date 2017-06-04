@@ -352,7 +352,7 @@ make a very agreeable dish
 <lb/><space extent="3" unit="chars"/> <placeName><settlement type="village">Chonuane</settlement></placeName> while we
 <lb/>were in the act of removing
 <lb/>to <placeName><settlement type="village">Kolobeng</settlement></placeName> that the <orgName>natives</orgName>
-<lb/>who remained with <persName>M<hi rend="sup">rs</hi> <choice><abbr>L-</abbr><expan>Livingstone</expan></choice></persName>
+    <lb/>who remained with <persName ref="people.xml#pers0373">M<hi rend="sup">rs</hi> <choice><abbr>L-</abbr><expan>Livingstone</expan></choice></persName>
 <lb/>were tempted to stir out of
 <lb/>doors in the evenings</add></p>
 
@@ -511,7 +511,7 @@ was bitten <del type="cancelled">by the</del>
 <lb/><term type="animal">cat</term> - On <choice><sic>Another</sic><corr>another</corr></choice> occasion
 <lb/>a man on <term type="animal">horse</term>back
 <lb/><del type="cancelled" hand="#U2" rend="gray"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></del> found a <term type="animal">lion<add place="below">^</add><add place="above">ess</add></term> spring on the
-<lb/>after quarter of <del type="strikethrough" hand="#U2" rend="gray">his</del> <add place="below" rend="gray" hand="#U2">^</add> <add place="marginleft"><hi rend="red underline" resp="#U3"><choice><sic><persName>Mr Oswel</persName>'s</sic><corr><persName>Mr Oswell</persName>'s</corr></choice></hi> <add place="below">^</add></add> <term type="animal">horse</term>
+    <lb/>after quarter of <del type="strikethrough" hand="#U2" rend="gray">his</del> <add place="below" rend="gray" hand="#U2">^</add> <add place="marginleft"><hi rend="red underline" resp="#U3"><choice><sic><persName ref="people.xml#pers0466">Mr Oswel</persName>'s</sic><corr><persName>Mr Oswell</persName>'s</corr></choice></hi> <add place="below">^</add></add> <term type="animal">horse</term>
 <lb/><add place="marginleft">but</add> <del type="cancelled">and</del> turning round <add place="below">^</add> <add place="above">he</add> shot
 <lb/>him dead in the neck - 
 <lb/>By accident <del type="strikethrough" hand="#U3" rend="red">the</del> <add place="inline" hand="#U3" rend="red">a</add> <term type="animal">horse</term>
@@ -603,7 +603,7 @@ was bitten <del type="cancelled">by the</del>
     <lb/>to this page</note><anchor xml:id="meta-116"/></add>
 even<add place="inline" hand="U3" rend="red">,</add> but try to draw
 <lb/>him down with <w>the<add place="inline" hand="#U3" rend="red">ir</add></w> claws
-    <lb/><persName>Mess<hi rend="sup underline">rs</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and <persName ref="people.xml#pers0557">Vardon</persName>
+    <lb/>Mess<hi rend="sup underline">rs</hi> <persName ref="people.xml#pers0466"><choice><sic>Oswel</sic><corr>Oswell</corr></choice> and <persName ref="people.xml#pers0557">Vardon</persName>
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">were spectators of</del><add place="above" hand="#U3" rend="red">once saw</add></subst> three
 <lb/><term type="animal">lions</term> endeavouring to
 <lb/>drag down a <term type="animal">buffalo</term>
@@ -774,7 +774,7 @@ even<add place="inline" hand="U3" rend="red">,</add> but try to draw
 <lb/>as a whole all look of
 <lb/>the yellow tawny colour
 <lb/>At the time of the discovery
-<lb/>of the Lake<!-- Lake Ngami.JL --> Mss<hi rend="sup underline">rs</hi> <persName><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> &amp;
+    <lb/>of the Lake<!-- Lake Ngami.JL --> Mss<hi rend="sup underline">rs</hi> <persName ref="people.xml#pers0466"><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> &amp;
     <lb/><add place="marginleft"><persName ref="people.xml#pers0573">Wilson</persName></add> <del type="strikethrough">a <term type="occupation">trader</term> who accompanied
 <lb/>us</del> shot two specimens
 <lb/>of another variety - One

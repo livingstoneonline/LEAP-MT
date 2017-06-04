@@ -461,7 +461,7 @@
     <lb/>of their <orgName>Hottentot</orgName>
     <lb/><orgName>slaves</orgName></add>
 <w><subst><del>B</del><add place="over-text">b</add></subst>ut</w> as every now and then
-<lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> <unclear cert="medium">omit</unclear></note></add> <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-232"/>some <persName>Rip Van <add place="marginleft"><metamark function="insertion"/><del type="cancelled"><unclear cert="medium">Getze</unclear></del></add> Winkle</persName> starts
+    <lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> <unclear cert="medium">omit</unclear></note></add> <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-232"/>some <persName ref="people.xml#pers0495">Rip Van <add place="marginleft"><metamark function="insertion"/><del type="cancelled"><unclear cert="medium">Getze</unclear></del></add> Winkle</persName> starts
 <lb/>forth at the <placeName><region>Cape</region></placeName> to justify in
 <lb/>the public prints the deeds<anchor xml:id="meta-232"/>
 <lb/>of blood and <orgName>slave</orgName>hunting

@@ -138,7 +138,7 @@
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">2</add> <add place="inspace" hand="#U1" rend="gray right">186</add></fw>
 <lb/><add place="inline">At</add> <add place="below">^</add> <persName ref="people.xml#pers0515">Sebituane</persName>'s death the <term type="occupation">chieftainship</term>
 <lb/>devolved <metamark function="insertion"/><anchor xml:id="reorder-32"/> on a daughter named 
-<lb/><persName>Ma mo-chisane</persName> <metamark function="reorder" spanTo="#meta-72"/><seg corresp="#reorder-32">as her father
+    <lb/><persName ref="people.xml#pers0405">Ma mo-chisane</persName> <metamark function="reorder" spanTo="#meta-72"/><seg corresp="#reorder-32">as her father
 <lb/>intended</seg><anchor xml:id="meta-72"/> - He had promised
 <lb/>to <choice><orig>shew</orig><reg>show</reg></choice> us his country and
 <lb/>select a suitable locality for
@@ -150,7 +150,7 @@
 <lb/>message came from her  
 <lb/><add place="marginleft">and when it did she</add> <subst><del>giving</del><add place="over-text">gave</add></subst> us perfect liberty to
 <lb/>visit any part of the
-<lb/>country we chose - <persName>Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
+    <lb/>country we chose - <persName ref="people.xml#pers0466">Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
 <lb/>and I therefore proceeded
 <lb/><measure>130 miles</measure> <add place="below">^</add> <add place="above">to the <choice><abbr>N. E.</abbr><expan>North East</expan></choice></add> to <placeName><settlement type="town">Sesheke</settlement></placeName> and
 <lb/>in the end of <date when="1851-06">June 1851</date> were
@@ -179,7 +179,7 @@
 <lb/><del type="cancelled" hand="#U3" rend="red">or</del> at the time when the river<!-- the Zambesi. JL -->
 <lb/>is about its lowest - and yet
 <lb/>we saw from <measure>300 to 600 yards</measure>
-<lb/>of deep flowing water - <persName>M<hi rend="sup underline">r</hi>
+    <lb/>of deep flowing water - <persName ref="people.xml#pers0466">M<hi rend="sup underline">r</hi>
 <lb/><choice><abbr>O.</abbr><expan>Oswell</expan></choice></persName> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">said he had</add> never <subst><del type="strikethrough" hand="#U3" rend="red">saw</del><add place="above" hand="#U3" rend="red">seen</add></subst> such a fine 
 <lb/>river<!-- the Zambesi.JL --> even in <placeName><country>India</country></placeName> - <del type="cancelled" hand="#U3" rend="red">and</del><add place="below" hand="#U3" rend="red"><del type="cancelled" hand="#DL"><unclear cert="low">that</unclear></del></add>
 <lb/>at the <seg type="weather">period of annual
@@ -594,7 +594,7 @@ with
 <lb/>loyalty to their <term type="occupation">chiefs</term> has
 <lb/>been <del type="strikethrough">but</del> <add place="below">^</add> <add place="above">only barely</add> equalled but not
 <lb/>surpassed by that of the
-<lb/><orgName>Highlanders</orgName> to the <persName>Pretender</persName><!-- Charles Edward Stuart, the 'Young Pretender'. His father, James Edward Stuart, was known as the 'Old Pretender'.JL-->
+    <lb/><orgName>Highlanders</orgName> to the <persName ref="people.xml#pers0546">Pretender</persName><!-- Charles Edward Stuart, the 'Young Pretender'. His father, James Edward Stuart, was known as the 'Old Pretender'.JL-->
 <lb/>might one would think
 <lb/>have been turned to better
 <lb/>account than have every
@@ -766,7 +766,7 @@ with
 <lb/>kills me both he and I will
 <lb/>have to answer before God</quote>" <add place="below">*</add>
     <lb/><add place="inspace"><note>* <bibl>Extracts of a speech of <persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
-    <lb/>to <persName>R R Renton</persName> <orgName>United Presbyterian church</orgName> <add place="below"><placeName><country>Scotland</country></placeName></add></bibl></note></add></p>
+        <lb/>to <persName ref="people.xml#pers0491">R R Renton</persName> <orgName>United Presbyterian church</orgName> <add place="below"><placeName><country>Scotland</country></placeName></add></bibl></note></add></p>
 
 
 <pb facs="liv_000099_0207.jpg" n="0207"/>             
@@ -1234,10 +1234,10 @@ with
 <lb/>white and features of the
 <lb/>cast of his race - The evidence
             <lb/>of <persName ref="person.xml#pers0545">Sir Andries <w>Stockenstro<del type="strikethrough">o</del>m</w></persName>
-<lb/>and of the <term type="occupation">magistrate</term> <add place="below">^</add> <add place="above">(<persName>M<hi rend="sup">r</hi> Wienand</persName>)</add> of the
+            <lb/>and of the <term type="occupation">magistrate</term> <add place="below">^</add> <add place="above">(<persName ref="people.xml#pers0569">M<hi rend="sup">r</hi> Wienand</persName>)</add> of the
 <lb/>district in which the alleged<!-- evidence of previous letters under 'll', but it is unclear.JL -->
 <lb/>rebellion had taken place
-<lb/><del type="cancelled">(<persName>M<hi rend="sup underline">r</hi> Wienand</persName>)</del> <choice><orig>shewed</orig><reg>showed</reg></choice> that
+            <lb/><del type="cancelled">(<persName ref="people.xml#pers0569">M<hi rend="sup underline">r</hi> Wienand</persName>)</del> <choice><orig>shewed</orig><reg>showed</reg></choice> that
 <lb/>for forty years <add place="below">^</add> <add place="above">he</add> had been
 <lb/>"<quote>a most efficient <term type="occupation">officer</term></quote>"
             <lb/>in the <choice><sic><persName ref="people.xml#pers0486">Queen</persName>s</sic><corr><persName ref="people.xml#pers0486">Queen</persName>'s</corr></choice> service and
@@ -1515,7 +1515,7 @@ had in view</p>
 <lb/><p>Had the <bibl>Times</bibl> <term type="occupation">commissioner</term>
 <lb/>been the agent of <del type="strikethrough">a paper</del> <add place="below">^</add> <add place="above">the organ &amp;</add> <del type="strikethrough">which</del>
 <lb/><add place="marginleft">of a party <unclear cert="medium">which</unclear></add> had become rich by <term type="nationality">Russian</term>
-<lb/>wars <choice><sic>Even</sic><corr>even</corr></choice> <bibl><choice><sic><persName>M<hi rend="sup underline">r</hi> Russel</persName>s</sic><corr><persName>M<hi rend="sup underline">r</hi> Russell</persName>'s</corr></choice>
+    <lb/>wars <choice><sic>Even</sic><corr>even</corr></choice> <bibl><choice><sic><persName ref="people.xml#pers0500">M<hi rend="sup underline">r</hi> Russel</persName>s</sic><corr><persName ref="people.xml#pers0500">M<hi rend="sup underline">r</hi> Russell</persName>'s</corr></choice>
 <lb/>graphic narrative</bibl> might
 <lb/>have assumed a modified
 

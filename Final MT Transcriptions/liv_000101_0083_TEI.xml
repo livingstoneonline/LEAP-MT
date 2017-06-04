@@ -169,7 +169,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>observed that <del type="strikethrough">men</del> several men who had begun
 <lb/>with no capital but honest industry had
 <lb/>in the course of a few years acquired a comfortable <add place="below">^</add> <add place="above">subsistence</add>
-<lb/><del type="strikethrough">competency</del> <add place="marginleft"><metamark function="insertion"/>One of these <persName>Mr Pinto</persName> <add place="below">^</add> <add place="above"><persName>Pinto</persName></add> <del type="strikethrough">fairly</del> generously
+    <lb/><del type="strikethrough">competency</del> <add place="marginleft"><metamark function="insertion"/>One of these <persName ref="people.xml#pers0477">Mr Pinto</persName> <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0477">Pinto</persName></add> <del type="strikethrough">fairly</del> generously
     <lb/>furnished me with a
     <lb/><choice><sic>a</sic><corr/></choice> good supply of his excellent
     <lb/><term type="plant_foodstuff">coffee</term> and my men
@@ -587,7 +587,7 @@ there was no <add place="below">^</add> <add place="above">good</add> reason
 <lb/>and the superiority of free over <orgName>slave</orgName> labour</p>
 <lb/><p>The <term type="nationality">Portuguese</term> gentlemen present were anxiously
 <lb/>expecting an arrival of <del type="strikethrough">fresh</del> <term type="nationality">American</term> <term type="plant">cotton seed</term>
-<lb/>from <persName>M<hi rend="sup">r</hi> Gabriel</persName> <space extent="3" unit="chars"/>They are now in the
+    <lb/>from <persName ref="people.xml#pers0304">M<hi rend="sup">r</hi> Gabriel</persName> <space extent="3" unit="chars"/>They are now in the
 <lb/>transition state from unlawful to lawful
 <lb/>trade and turn eagerly to <term type="plant">cotton</term> <term type="foodstuff">coffee</term> &amp;
     <lb/><term type="foodstuff">sugar</term> as new sources of wealth. <space extent="3" unit="chars"/><persName ref="people.xml#pers0273">Mr Canto</persName>
@@ -830,14 +830,14 @@ another colony on a branch of the same tree gave
 <lb/>country reputed to <del type="strikethrough">contain</del> yield Petroleum
 <lb/>but the geological formation being mica schist
 <lb/>dipping towards the eastward did not promise
-<lb/>much for our finding it. <add place="below">Our hospitable friend</add> <add place="below">^</add> <persName>Mr Mellot</persName>
+    <lb/>much for our finding it. <add place="below">Our hospitable friend</add> <add place="below">^</add> <persName ref="people.xml#pers0434">Mr Mellot</persName>
 
 
 <pb facs="liv_000101_0099.jpg" n="0099"/><!-- p418, Missionary, sh -->
 <lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">96</add></fw>
 <lb/>accompanied us to another little river <subst><del>th</del><add place="over-text">c</add></subst>alled the
 <lb/><placeName><geogName type="river">Quango</geogName></placeName> where I saw two fine boys the sons of the <term type="occupation"><w>sub-
-<lb break="no"/>Commandant</w></term> <add place="below" hand="#DL" n="DL">^</add> <add place="marginleft" hand="#DL" n="DL"><persName>M<hi rend="sup underline">r</hi> Feltao</persName></add> who though only from 6 to 8 years
+    <lb break="no"/>Commandant</w></term> <add place="below" hand="#DL" n="DL">^</add> <add place="marginleft" hand="#DL" n="DL"><persName ref="people.xml#pers0433">M<hi rend="sup underline">r</hi> Feltao</persName></add> who though only from 6 to 8 years
 <lb/>old were subject to <term type="ailment">fever</term>. <space extent="3" unit="chars"/><del type="strikethrough">Our</del> We then passed
 <lb/>on in the <seg type="weather">bright sunlight the whole country looking so
 <lb/>fresh and green after the rains</seg> and everything so cheering
@@ -913,7 +913,7 @@ another colony on a branch of the same tree gave
     <lb/>has manifest
     <lb/>advantages</add>
 <lb/>Before <del type="cancelled">On</del> leaving <placeName><settlement type="village">Ambaca</settlement></placeName> we received a present
-<lb/>of ten head of <term type="animal">cattle</term> from <add place="below">^</add> <add place="above"><persName>Mr Schut<del type="striekthrough">t</del></persName></add> <del type="strikethrough">a <term type="occupation">merchant</term> in</del> of
+    <lb/>of ten head of <term type="animal">cattle</term> from <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0513">Mr Schut<del type="striekthrough">t</del></persName></add> <del type="strikethrough">a <term type="occupation">merchant</term> in</del> of
 <lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> and as it shows the cheapness of
 <lb/>provisions here I may mention that the cost was
 <lb/>only about a guinea per head. <space extent="3" unit="chars"/>On crossing the 
@@ -1039,7 +1039,7 @@ at a <del type="strikethrough">time</del>
 <lb/><term type="occupation">queen</term> who reigned here - In looking
 <lb/>at these rude attempts at commemoration
 <lb/>one feels the value of letters - In the history
-<lb/>of <placeName><country>Angola</country></placeName> we find that the famous <persName><term type="occupation">queen</term>
+    <lb/>of <placeName><country>Angola</country></placeName> we find that the famous <persName ref="people.xml#pers0464"><term type="occupation">queen</term>
 <lb/>Donna Anna de Souza</persName> came from 
 <lb/>this vicinity as <term type="occupation">Ambassadress</term> from her
     <lb/>brother <persName ref="people.xml#pers0453">Gola Ban<add place="above">n</add>dy</persName> <term type="occupation">King</term> of the <term type="tribe">Jinga</term> to
@@ -1094,7 +1094,7 @@ at a <del type="strikethrough">time</del>
     <lb/>I saw a boy sold
     <lb/>for twelve shillings
     <lb/>he said that he belonged
-    <lb/>to the country of <persName>Matiamvo</persName></add>  
+    <lb/>to the country of <persName ref="people.xml#pers0444">Matiamvo</persName></add>  
 <space extent="3" unit="chars"/>The <term type="tribe">Libollo</term> on
 <lb/>the <choice><abbr>S.</abbr><expan>South</expan></choice> have not so good a character but the
 <lb/><placeName><geogName type="river">Coanza</geogName></placeName> is always deep enough to form a good

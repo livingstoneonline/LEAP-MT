@@ -101,7 +101,7 @@
                 <!-- Start each page with pagebreak -->
                 
                 <pb facs="liv_000100_0168.jpg" n="0168"/>                
-                <lb/><p><fw n="heading_XXIII">XXIII <add place="inspace" rend="gray left" hand="#U2"><note><subst><del type="strikethrough" rend="gray" hand="#U2"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="inspace above" rend="gray left" hand="#U2"><persName>Powell</persName></add></subst></note></add> <add place="inspace" hand="#U1" rend="gray right">167</add></fw>
+                <lb/><p><fw n="heading_XXIII">XXIII <add place="inspace" rend="gray left" hand="#U2"><note><subst><del type="strikethrough" rend="gray" hand="#U2"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="inspace above" rend="gray left" hand="#U2"><persName ref="people.xml#pers0482">Powell</persName></add></subst></note></add> <add place="inspace" hand="#U1" rend="gray right">167</add></fw>
 <lb/><add place="marginleft" rend="gray" hand="#U2">We - </add> entered at <placeName><geogName type="river">Sanshuré</geogName></placeName> and another<!-- p227, Missionary, sh -->
 <lb/>at <placeName><settlement type="town">Sesheke</settlement></placeName> - But the lands
 <lb/><metamark function="unknown" place="marginleft"  rend="gray" resp="#U2"/> both East and West of the
@@ -237,7 +237,7 @@
 <lb/><add place="marginleft">of enemies?"</add> <add place="marginleft">^</add> I replied that none of my friends
 <lb/>would blame them - because I
 <lb/>would leave a book with <del type="cancelled">them</del>
-<lb/><add place="marginleft"><persName ref="people.xml#pers0519">Sekeletu</persName></add> <add place="marginleft">^</add> to be sent to <persName>M<hi rend="sup">r</hi> Moffat</persName> in case
+    <lb/><add place="marginleft"><persName ref="people.xml#pers0519">Sekeletu</persName></add> <add place="marginleft">^</add> to be sent to <persName ref="people.xml#pers0411">M<hi rend="sup">r</hi> Moffat</persName> in case
 <lb/>I did not return which would
 <lb/>explain to him all that had
 <lb/><del type="strikethrough">occurred</del> happened <choice><sic>untill</sic><corr>until</corr></choice> the
@@ -314,7 +314,7 @@
 <lb/>of the <term type="tribe">Makololo</term> - They took all
 <lb/>the articles except one box
 <lb/>into their huts - And two warriors<!-- p230, Missionary, sh -->
-<lb/><add place="marginleft"><persName>Ponuane</persName> &amp; <persName>Mahale</persName></add> <add place="marginleft">^</add>  brought froward each a
+    <lb/><add place="marginleft"><persName ref="people.xml#pers0480">Ponuane</persName> &amp; <persName ref="people.xml#pers0378">Mahale</persName></add> <add place="marginleft">^</add>  brought froward each a
 <lb/>fine <term type="animal"><choice><sic>hiefer</sic><corr>heifer</corr></choice> calf</term> - After
 <lb/>performing a number of
 <lb/>warlike evolutions they asked
@@ -474,7 +474,7 @@ As I had always
 <lb/>of the <placeName><geogName type="river">Chobe</geogName></placeName> before reaching
 <lb/>the main stream - This bifurcation
 <lb/>must be the reason why it
-<lb/>appeared so small to <persName>Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
+    <lb/>appeared so small to <persName ref="people.xml#pers0466">Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
 <lb/>and myself in <date when="1851">1851</date> -<!-- exact date not given, sh --> When all
 <lb/>the departing branches re-enter
 <lb/>it is a large deep river
@@ -771,7 +771,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/><placeName><settlement type="town">Sesheke</settlement></placeName> - It stands on the
 <lb/><add place="marginleft">North</add> bank of the river and contains
 <lb/>a large population of <term type="tribe">Makalaka</term>
-<lb/>under <persName>Moriantsane</persName> brother
+    <lb/>under <persName ref="people.xml#pers0420">Moriantsane</persName> brother
 <lb/>in law of <persName ref="people.xml#pers0515">Sebituane</persName> - There are
 <lb/><add place="marginleft">parties of</add> various tribes here assembled
 <lb/>under their respective <w>head<supplied>-</supplied>
@@ -787,7 +787,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>was discovered as the <w>per-
 <lb break="no"/>-petrator</w> of the deed - His object
 <lb/>had been to get a share of
-<lb/>the <term type="foodstuff">meat</term> as <del type="cancelled">the</del> <persName>Moriantsane</persName>
+    <lb/>the <term type="foodstuff">meat</term> as <del type="cancelled">the</del> <persName ref="people.xml#pers0420">Moriantsane</persName>
 <lb/>is known to be liberal with
 <lb/>any food that comes into
 <lb/>his hands - The culprit was
@@ -809,7 +809,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>had been bound and took
 <lb/>him home - This open defiance
 <lb/>of authority was not resented
-<lb/>by <persName>Moriantsane</persName> but referred
+    <lb/>by <persName ref="people.xml#pers0420">Moriantsane</persName> but referred
 <lb/><del type="cancelled">to</del> <metamark function="insertion"/><anchor xml:id="reorder-10"/> at <del type="strikethrough"><add place="below">^</add></del> <placeName><settlement type="town">Linyanti</settlement></placeName> <metamark function="reorder" spanTo="#meta-27"/><seg corresp="#reorder-10">to <persName ref="people.xml#pers0519">Sekeletu</persName></seg><anchor xml:id="meta-27"/></p>
 <lb/>
 <lb/><p rend="no-indent">A circumstance which happened
@@ -857,7 +857,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>sentenced to raise an amount
 <lb/>of <term type="plant_foodstuff">corn</term> proportioned to their
 <lb/>offences - </p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName>Powell</persName></note></hi></add> Among the <term type="tribe">Bakwains</term>
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName ref="people.xml#pers0482">Powell</persName></note></hi></add> Among the <term type="tribe">Bakwains</term>
 <lb/>a woman who stole from
 <lb/>the garden of another was
 <lb/>obliged to part with her
@@ -923,7 +923,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>for which I had got the
 <lb/>uvula excised at the <placeName><region>Cape</region></placeName>
 <lb/>They were always very attentive
-<lb/>and <persName>Moriantsane</persName> in order
+    <lb/>and <persName ref="people.xml#pers0420">Moriantsane</persName> in order
 <lb/>as he thought to please me
 <lb/>on one occasion rose up
 <lb/>in the middle of the discourse
@@ -997,7 +997,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
     <lb/>the white
     <lb/>traders from
     <lb/>the South</add>
-<del type="strikethrough"><unclear cert="medium">N</unclear></del> <persName>Moriantsane</persName> supplied
+    <del type="strikethrough"><unclear cert="medium">N</unclear></del> <persName ref="people.xml#pers0420">Moriantsane</persName> supplied
 <lb/>us well with <term type="foodstuff">honey</term> <add place="below">^</add> <add place="above"><term type="foodstuff">milk</term></add> and
 <lb/><term type="foodstuff">meal</term> The rains were just
 <lb/>commencing in this part
@@ -1021,7 +1021,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">190</add></fw>
 <lb/>We might have <subst><del>bee</del><add place="over-text">do</add></subst>ne with
 <lb/>much less than we got but
-<lb/>my <term type="tribe">Makololo</term> man <persName>Pitsane</persName>
+    <lb/>my <term type="tribe">Makololo</term> man <persName ref="people.xml#pers0479">Pitsane</persName>
 <lb/>knew of the generous orders
 <lb/>of <persName ref="people.xml#pers0519">Sekeletu</persName> and was not
 <lb/>at all disposed to allow

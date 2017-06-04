@@ -114,7 +114,7 @@
 <lb/>that we might make for
 <lb/>ourselves the best lodgings
 <lb/>we could <add place="above">of the</add> <add place="below">^</add> <del type="strikethrough">with</del>  trees and 
-<lb/>grass, while <persName>Ntemese</persName> was
+    <lb/>grass, while <persName ref="people.xml#pers0459">Ntemese</persName> was
 <lb/>taken to <persName>Katema</persName> to undergo
 <lb/>the usual process of
 <lb/>pumping as to our past
@@ -141,7 +141,7 @@
 
     <pb facs="liv_000100_0384.jpg" n="0384"/>               
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">383</add></fw> 
-<lb/><persName>Ntemese</persName> gave our history and
+    <lb/><persName ref="people.xml#pers0459">Ntemese</persName> gave our history and
 <lb/><persName>Katema</persName> placed sixteen large
 <lb/>baskets of <term type="foodstuff">meal</term> before us
 <lb/>half a dozen <term type="animal"><term type="foodstuff">fowls</term></term> and a
@@ -200,9 +200,9 @@ He
 <lb/><p>Returning next morning
 <lb/><persName>Katema</persName> addressed me thus
 <lb/>"I am the great <foreign xml:lang="bnt">Moene</foreign> <add place="below">^</add> <add place="marginleft">(lord)</add> <persName>Katema</persName>
-<lb/>the fellow of <persName>Matiamvo</persName>,
+    <lb/>the fellow of <persName ref="people.xml#pers0444">Matiamvo</persName>,
 <lb/>There is no one in this
-<lb/>country equal to <persName>Matiamvo</persName>
+    <lb/>country equal to <persName ref="people.xml#pers0444">Matiamvo</persName>
 <lb/>and me - I have always
 <lb/>lived here - and my <w>fore-
 <lb break="no"/>fathers</w> too - There is the
@@ -321,7 +321,7 @@ when young
 <lb/>them - When <persName>Katema</persName> wishes
 <lb/>to slaughter one he is obliged
 <lb/>to shoot it as if it were a
-<lb/><term type="animal">buffalo</term> - <persName>Matiamvo</persName> is said
+                    <lb/><term type="animal">buffalo</term> - <persName ref="people.xml#pers0444">Matiamvo</persName> is said
 <lb/>to possess a herd of <term type="animal">cattle</term>
 <lb/>in a similar state - I never
 <lb/>could ascertain the reason
@@ -387,7 +387,7 @@ when young
     <lb/>what I had given
     <lb/>them to produce so
     <lb/>much excitement<!-- p322 Missionary, sh -->
-    <lb/><persName>Ntemese</persName> replied
+    <lb/><persName ref="people.xml#pers0459">Ntemese</persName> replied
     <lb/><w><supplied cert="high">i</supplied>t</w> was their custom
     <lb/>&amp; they meant no
     <lb/>harm - The <w>com-
@@ -416,7 +416,7 @@ when young
 <lb/><del type="cancelled">or pr</del></p>    
 <lb/><p>One of the affairs which
     <lb/>had been <choice><orig>intrusted</orig><reg>entrusted</reg></choice> by <persName ref="people.xml#pers0532">Shinte</persName>
-<lb/>to <persName>Ntemese</persName> was the rescue
+    <lb/>to <persName ref="people.xml#pers0459">Ntemese</persName> was the rescue
 <lb/>of a wife of that <term type="occuapation">chief</term> who
 <lb/>had eloped with a young
 <lb/>man belonging to <persName>Katema</persName>
@@ -429,7 +429,7 @@ when young
 <lb/>to a <term type="occupation">chief</term> against his own
 <lb/>will I have met with in
 <lb/>the <placeName><region>Interior</region></placeName> I am anxious
-<lb/>to mention it -- On <persName>Ntemese</persName> 
+    <lb/>to mention it -- On <persName ref="people.xml#pers0459">Ntemese</persName> 
 <lb/>claiming her as his master's
 <lb/>wife she protested loudly
 <lb/>against it saying "she
@@ -459,7 +459,7 @@ when young
 <lb/>know of distant tribes - An
 <lb/>old man who said he had been
 <lb/>born about the same time
-<lb/>as <subst><del>M</del><add place="over-text">the</add></subst> late <persName>Matiamvo</persName> and
+    <lb/>as <subst><del>M</del><add place="over-text">the</add></subst> late <persName ref="people.xml#pers0444">Matiamvo</persName> and
 <lb/>had been his constant companion
 
 
@@ -494,7 +494,7 @@ when young
 <lb/>which flows Southwards
 <lb/>or South South East - but they<!-- p323, Missionary, sh -->
 <lb/>had never gone far down
-<lb/>it as <persName>Matiamvo</persName> had always
+    <lb/>it as <persName ref="people.xml#pers0444">Matiamvo</persName> had always
 <lb/>been afraid of encountering
 <lb/>a people who from the
 <lb/>description given I could
@@ -515,8 +515,8 @@ when young
 <lb/>well peopled <subst><del>with</del><add place="over-text">and</add></subst> <add place="below">^</add> <add place="above">there are</add> large patches
 <lb/>of forest - In this report <w>h<subst><del>is</del><add place="over-text">e</add></subst></w>
 <lb/>agreed perfectly with the
-<lb/>people of <persName>Matiamvo</persName> whom
-<lb/>we had met at <persName>Quendende</persName>'s
+    <lb/>people of <persName ref="people.xml#pers0444">Matiamvo</persName> whom
+    <lb/>we had met at <persName ref="people.xml#pers0487">Quendende</persName>'s
 <lb/>village - But we never
 <lb/>could get him or any one
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>58</note></add> in this quarter to draw
@@ -756,7 +756,7 @@ is kept in very neatly
 <lb/>are seldom so numerous
 <lb/>as to <w>distu<subst><del>rb</del><add place="over-text">r</add></subst>b</w> the slumbers
 <lb/>of a weary man</p>
-<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <add place="marginleft below" rend="gray" hand="#U2"><note><persName>Mead</persName></note></add> But though this region
+                <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <add place="marginleft below" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0400">Mead</persName></note></add> But though this region
 <lb/>is free from common
 <lb/>insect plagues and from
 <lb/><term type="insect">tsetse</term>, it has others - Feeling
@@ -955,8 +955,8 @@ is frequently
 <lb/>account of the formation
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>69</note></add> of the Lake - A female
 <lb/><term type="occupation">chief</term> called <foreign xml:lang="bnt">Moene</foreign> (lord)
-<lb/><persName>Moneng-a</persName> came one evening
-<lb/>to the village of <del type="cancelled">a</del> <persName>Mosogo</persName> <del type="cancelled">a
+    <lb/><persName ref="people.xml#pers0418">Moneng-a</persName> came one evening
+    <lb/>to the village of <del type="cancelled">a</del> <persName ref="people.xml#pers0428">Mosogo</persName> <del type="cancelled">a
 <lb/>a man who lived on its
 <lb/>banks on the spot now
 <lb/>forming the lake on the
@@ -968,7 +968,7 @@ is frequently
 gone
 <lb/>to hunt with his <term type="animal">dogs</term> -
 <lb/>She asked for a supply
-<lb/>&amp; <persName>Mosogo</persName>'s wife gave
+    <lb/>&amp; <persName ref="people.xml#pers0428">Mosogo</persName>'s wife gave
 <lb/>her <del type="cancelled">a good</del> <subst><del>s</del><add place="over-text">a</add></subst> sufficient
 <lb/>quantity - Proceeding
 <lb/>to another village
@@ -992,7 +992,7 @@ taunted
 <lb/>in slow time and <del type="strikethrough">as
 <lb/>she</del> uttered <del type="strikethrough">the last note
 <lb/>on</del> her own name
-<lb/><persName>Monenga-wōō</persName> - As she prolonged
+    <lb/><persName ref="people.xml#pers0418">Monenga-wōō</persName> - As she prolonged
 <lb/>the last note - the village -
 <lb/>people <del type="cancelled">&amp;</del> fowls <add place="below">^</add> <add place="above">&amp; <term type="animal">dogs</term></add> sank into
 <lb/>the space now called
@@ -1009,7 +1009,7 @@ taunted
 <lb/>"<foreign xml:lang="und">ilolo</foreign>" despair because
 <lb/>this man gave up hope
 <lb/>when his family was
-<lb/>ruined<!-- letters under 'ui' but they are illegible.JL --> - <persName>Monenga</persName> was
+    <lb/>ruined<!-- letters under 'ui' but they are illegible.JL --> - <persName ref="people.xml#pers0418">Monenga</persName> was
 <lb/>put to death - This may
 <lb/>be a faint tradition
 <lb/>of the deluge - and it is

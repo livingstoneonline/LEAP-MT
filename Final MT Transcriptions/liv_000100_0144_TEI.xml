@@ -156,12 +156,12 @@
 <lb/>there is no evidence of any
     <lb/>of <persName ref="people.xml#pers0441">Santuru</persName>'s people having ever
 <lb/>seen a white man before the
-<lb/>arrival of <persName>Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and myself
+    <lb/>arrival of <persName ref="people.xml#pers0466">Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and myself
 <lb/>in <date when="1851">1851</date> - They have it is true
 <lb/>no written records but any <w>remark<supplied>-</supplied>
 <lb break="no"/>-able</w> event here is commemorated<!-- kate:good example of identification of different forms of historical record by DL -->
 <lb/>in names as <del type="cancelled">happened</del> was 
-<lb/>observed by <persName>Park</persName><!-- Mungo Park. PS --> <add place="marginleft"><metamark function="insertion"/>to be the case</add> in the countries
+    <lb/>observed by <persName ref="people.xml#pers0469">Park</persName><!-- Mungo Park. PS --> <add place="marginleft"><metamark function="insertion"/>to be the case</add> in the countries
 <lb/>he traversed - The year of our
 <lb/>arrival is dignified by the name
 <lb/>of the year when the white men
@@ -170,8 +170,8 @@
 <lb/>they avoid if possible any
 <lb/>direct reference to the departed
 <lb/><metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-180"/><seg corresp="#reorder-81">Great numbers of children
-<lb/>were named</seg><anchor xml:id="meta-180"/> after <subst><del type="cancelled" hand="#U3" rend="red"><persName>M<hi rend="sup underline">rs</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice>'s</persName></del><add place="above" hand="#U3" rend="red">my wife's</add></subst> first
-<lb/>visit <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-81"/> <persName>MaRobert</persName> - or mother of <persName>Robert</persName>
+    <lb/>were named</seg><anchor xml:id="meta-180"/> after <subst><del type="cancelled" hand="#U3" rend="red"><persName  ref="people.xml#pers0373">M<hi rend="sup underline">rs</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice>'s</persName></del><add place="above" hand="#U3" rend="red">my wife's</add></subst> first
+    <lb/>visit <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-81"/> <persName  ref="people.xml#pers0373">MaRobert</persName> - or mother of <persName>Robert</persName>
 <lb/>her eldest child - others were
 
 
@@ -819,7 +819,7 @@ The <term type="animal">lions</term> here roar
 <lb/>I admired the boldness with
 <lb/>which they informed me "that
     <lb/><persName ref="people.xml#pers0333">Christ</persName> was a very good
-<lb/><term type="occupation">prophet</term> but <persName>Mahomet</persName> was
+    <lb/><term type="occupation">prophet</term> but <persName ref="people.xml#pers0438">Mahomet</persName> was
 <lb/>far greater" and with respect
 <lb/>to their loathing of <term type="foodstuff">pork</term> it may
 <lb/>have some foundation in
@@ -854,7 +854,7 @@ The <term type="animal">lions</term> here roar
 <lb/>our <orgName>Arab</orgName> friends we proceeded
 <lb/>down the <placeName><geogName type="river">Marile</geogName></placeName> till we
 <lb/>re-entered the <placeName><geogName type="river">Leeambye</geogName></placeName> &amp;
-<lb/>went to the town of <placeName><settlement type="town"><persName><w>Ma-
+    <lb/>went to the town of <placeName><settlement type="town"><persName ref="people.xml#pers0408"><w>Ma-
 <lb break="no"/>-sekeletu</w></persName></settlement></placeName> (Mother of <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>opposite the island of
 <lb/><placeName><geogName type="island">Loyela</geogName></placeName> - <del type="strikethrough" hand="#U3" rend="red">He</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"><persName ref="people.xml#pers0519">Sekeletu</persName></add> had always
@@ -954,7 +954,7 @@ The arms and
 <lb/>might be an excuse for making
 <lb/>the perspiration stream off
 <lb/>their bodies with the <w>exertion<del type="strikethrough">s</del></w>
-<lb/><del type="cancelled">made</del> - <subst><add place="above"><persName>Motibe</persName></add><del type="cancelled">Some</del></subst> <add place="below">^</add> <add place="above"><del type="cancelled">one</del></add> asked what
+    <lb/><del type="cancelled">made</del> - <subst><add place="above"><persName ref="people.xml#pers0443">Motibe</persName></add><del type="cancelled">Some</del></subst> <add place="below">^</add> <add place="above"><del type="cancelled">one</del></add> asked what
 <lb/>I thought of the <term type="tribe">Makololo</term>
 <lb/>dance - I replied "it is very
 <lb/>hard work &amp; <add place="below">^</add> <add place="above">brings</add> very small profit"
@@ -979,7 +979,7 @@ The arms and
 <lb/>recommend the <term type="tribe">Makololo</term>
 <lb/>Polka to the dancing world
 <lb/>but I have the authority of no
-<lb/><add place="marginleft">less a person than</add> <persName>Motibe</persName>, <add place="above"><del type="cancelled">no</del></add> <persName ref="people.xml#pers0519">Sekeletu</persName>'s father in law
+    <lb/><add place="marginleft">less a person than</add> <persName ref="people.xml#pers0443">Motibe</persName>, <add place="above"><del type="cancelled">no</del></add> <persName ref="people.xml#pers0519">Sekeletu</persName>'s father in law
 <lb/>for saying "it is very nice"
 <lb/>They often asked if white
 <lb/>people ever danced <del type="cancelled">I explained</del>

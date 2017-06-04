@@ -221,7 +221,7 @@ become as strongly
 <lb/>I <subst><del type="cancelled">did not</del><add place="above">never</add></subst> <add place="below">˄</add> <add place="above"><choice><sic>never</sic><corr/></choice></add> enquired the name
 <lb/>but I have no doubt that 
 <lb/>it exists in the language,
-<lb/><del type="cancelled" hand="DL"><metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-95"/></del><persName>Otto Von Guerrike</persName> is said by
+    <lb/><del type="cancelled" hand="DL"><metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-95"/></del><persName ref="people.xml#pers0312">Otto Von Guerrike</persName> is said by
     <lb/><persName ref="people.xml#pers0326">Baron Humbolt</persName> to have
 <lb/>been th<supplied cert="high">e</supplied> first that ever
 <lb/>observed this effect in <add place="marginleft"><metamark function="insertion"/><placeName><bloc>Europe</bloc></placeName></add>
@@ -376,7 +376,7 @@ become as strongly
 <lb/>boy <add place="marginleft"><metamark function="insertion"/><persName>Khari</persName> son of 
     <lb/><persName ref="people.xml#pers0516">Sechele</persName></add> 
 was returned to his
-<lb/>mother <persName>Ma-balerileng</persName> - The 
+    <lb/>mother <persName ref="people.xml#pers0416">Ma-balerileng</persName> - The 
 <lb/><metamark function="ed-mark" place="marginleft" rend="gray" resp="#U2">X</metamark> child had been allowed
 <lb/>to roll into the fire and
 <lb/>there were three large
@@ -424,19 +424,19 @@ was returned to his
 <lb/>being more <del type="cancelled">esteemed</del> <add place="above">welcome</add> than girls - The
 <lb/>parents take the name of the child &amp; often address
 <lb/>their children as <foreign xml:lang="tn">Ma</foreign> or <foreign xml:lang="tn">Ra</foreign> - (mother &amp; father)
-    <lb/>Our eldest boy being named <persName ref="people.xml#pers0374">Robert</persName> <persName>M<hi rend="sup underline">rs</hi>
+    <lb/>Our eldest boy being named <persName ref="people.xml#pers0374">Robert</persName> <persName  ref="people.xml#pers0373">M<hi rend="sup underline">rs</hi>
 <lb/><choice><abbr>L -</abbr><expan>Livingstone</expan></choice></persName> was after his birth always addressed
-<lb/>as <persName>Marobert</persName> - instead of <persName>Mary</persName> her maiden
+    <lb/>as <persName  ref="people.xml#pers0373">Marobert</persName> - instead of <persName ref="people.xml#pers0373">Mary</persName> her maiden
 <lb/>name - </p>
 <lb/><p>I have examined several cases in
 <lb/>which a grandmother has taken upon herself
-<lb/>to suckle a grandchild - <persName>Masina</persName> of <placeName><settlement type="village">Kuruman</settlement></placeName>
+    <lb/>to suckle a grandchild - <persName  ref="people.xml#pers0409">Masina</persName> of <placeName><settlement type="village">Kuruman</settlement></placeName>
     <lb/>had no children after the birth<!-- 'birth' may be scored out - but it could equally just be a smudge since the word appears in the published text.JL --> of her <add place="below">^</add> <add place="above">daughter</add> <persName ref="person.xml#pers0535">Sina</persName>
     <lb/>and had no milk after <persName ref="person.xml#pers0535">Sina</persName> was weaned
 <lb/>which usually is deferred till the child is
     <lb/>two or three years old - <persName ref="person.xml#pers0535">Sina</persName> married
 <lb/>when she was 17 or 18 and had twins
-<lb/><persName>Masina</persName> <add place="below">^</add> <add place="above">after at least 15 <choice><sic>years</sic><corr>years'</corr></choice> interval</add> took possession of one of
+    <lb/><persName  ref="people.xml#pers0409">Masina</persName> <add place="below">^</add> <add place="above">after at least 15 <choice><sic>years</sic><corr>years'</corr></choice> interval</add> took possession of one of
 <lb/>them applied it to her breast and <metamark function="let-stand" spanTo="#meta-97"/><del type="strikethrough" hand="#U3" rend="red"><term type="foodstuff">milk</term>
 <lb/>followed so that she was able to</del> nurse<add place="inline" hand="#U3" rend="red">d</add>
 <lb/>the child <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"><choice><sic>Entirely</sic><corr>entirely</corr></choice></add> - <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-233"/><del type="strikethrough" hand="#U3" rend="red">On examination it seemed like</del><anchor xml:id="meta-97"/> <add place="marginright" hand="#U3" rend="red"><note>omit</note></add>
@@ -479,7 +479,7 @@ no longer <subst><add place="above">necessary</add><del type="cancelled">desirab
 <lb/><del type="strikethrough">Clark</del> Cathcart</persName></p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> In conversation with
 <lb/>some of my friends here I 
-<lb/>learned that <persName>Maleke</persName> <subst><del>the</del><add place="over-text">a</add></subst>
+    <lb/>learned that <persName ref="people.xml#pers0385">Maleke</persName> <subst><del>the</del><add place="over-text">a</add></subst>
 <lb/><term type="occupation">chief</term> of the <term type="tribe">Bakwains</term> who
 <lb/>formerly lived in <placeName><settlement type="village">Litubaruba</settlement></placeName> 
 <lb/>was killed by the bite of
@@ -497,7 +497,7 @@ no longer <subst><add place="above">necessary</add><del type="cancelled">desirab
 <lb/><fw><add place="inspace" hand="#U1" rend="gray left">8+</add></fw>
 <lb/><add place="inline" corresp="#add-16"><del type="strikethrough" rend="red" hand="#U3"><del type="cancelled" hand="#DL">and a fluid resembling</del> <add place="below">^</add> <add place="above">and</add> <metamark function="let-stand" spanTo="#meta-99"/><term type="foodstuff">milk</term> soon
 <lb/>follows</del><anchor xml:id="meta-99"/> <space extent="1" unit="chars"/>In <subst><del type="strikethrough" hand="#U3" rend="red">such</del><add place="above" rend="red" hand="#U3">some</add></subst> cases<add place="inline" rend="red" hand="#U3">,</add> as that of
-<lb/><persName>Mabogosing</persName> the chief wife of <persName>Mahure</persName> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">who was</add>
+    <lb/><persName ref="people.xml#pers0404">Mabogosing</persName> the chief wife of <persName ref="people.xml#pers038o">Mahure</persName> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">who was</add>
 <lb/><add place="above">about 35 years of age</add> the child was not entirely <choice><sic>dependant</sic><corr>dependent</corr></choice>
 <lb/>on <del type="strikethrough" rend="red" hand="#U3">the produce of</del> the grand <w>mother<del type="strikethrough" hand="#U3" rend="red">s</del></w> <metamark function="let-stand" spanTo="#meta-100"/><del type="strikethrough" rend="red" hand="#U3">breast</del><anchor xml:id="meta-100"/>
 <lb/>as he mother suckled it too - I had
@@ -1111,7 +1111,7 @@ answer
     <lb/>climates - A
     <lb/><choice><sic>vegetabe</sic><corr>vegetable</corr></choice> diet
     <lb/>causes <term type="ailment">acidity</term> &amp; <term type="ailment">heartburn</term><anchor xml:id="meta-109"/></add>
-<lb/><persName>M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> declares this
+    <lb/><persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> declares this
 <lb/>climate <subst><del type="strikethrough" hand="#U3" rend="red">far</del><add place="above" hand="#U3" rend="red">much</add></subst> superior
 <lb/>to that of <placeName><country>Peru</country></placeName> as far as
 <lb/>pleasure is concerned

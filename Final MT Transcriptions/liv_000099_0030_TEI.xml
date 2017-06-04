@@ -109,7 +109,7 @@
 <lb/>just as it began to dawn his herald
 <lb/>proclaimed in a loud voice that he
 <lb/>had come to revenge the death of
-<lb/><persName>Mochoasele</persName> - <del type="strikethrough">the pain</del> this was
+    <lb/><persName ref="people.xml#pers0429">Mochoasele</persName> - <del type="strikethrough">the pain</del> this was
 <lb/>followed by <metamark function="insertion"/><anchor xml:id="reorder-12"/> <del type="strikethrough">a</del> beating <add place="below">^</add> <add place="above">loudly</add> on their shields
 <lb/><metamark function="reorder" spanTo="#meta-33"/><seg corresp="#reorder-12">of <persName ref="people.xml#pers0515">Sebituane</persName>'s people</seg><anchor xml:id="meta-33"/> all round the
 <lb/>town <unclear cert="medium">-</unclear> The panic was tremendous
@@ -244,7 +244,7 @@
 <lb/>that from being comparatively
 <lb/>thin the effect <add place="above">of</add> having been
 <lb/>fond of the chase <del type="cancelled">that</del> he became
-<lb/>quite corpulent, <persName><choice><sic>Mr Oswel</sic><corr>Mr Oswell</corr></choice></persName> <del type="cancelled">gave</del>
+    <lb/>quite corpulent, <persName ref="people.xml#pers0466"><choice><sic>Mr Oswel</sic><corr>Mr Oswell</corr></choice></persName> <del type="cancelled">gave</del>
 <lb/>gave him his first lesson
 <lb/><add place="marginleft">at figures</add> <add place="marginleft">^</add> and he acquired the alphabet
 <lb/>on the first day of my residence

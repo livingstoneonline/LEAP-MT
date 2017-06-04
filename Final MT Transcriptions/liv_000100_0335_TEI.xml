@@ -123,7 +123,7 @@
 <lb/><add place="marginleft"><metamark function="insertion"/>his advice and
     <lb/>remain</add> 
     <del type="cancelled">remain</del> - <space extent="3" unit="chars"/><persName ref="people.xml#pers0506">Sambanza</persName> staggered
-<lb/>to <persName>Manenko</persName>'s hut, she
+<lb/>to <persName ref="people.xml#pers0388">Manenko</persName>'s hut, she
 <lb/>however who had never
 <lb/>promised "to <add place="below">^</add> <add place="above">love</add> honour and
 <lb/>obey him", <del type="cancelled">had not been
@@ -177,7 +177,7 @@ a string
 <lb/>tusk worth ten Pounds - 
 <lb/>At our last interview old
     <lb/><persName ref="people.xml#pers0532">Shinte</persName> pointed out our
-<lb/><add place="marginleft"><note><persName>Intemesi</persName></note></add> <term type="occupation">principal guide</term> <del type="strikethrough">N</del> <persName>Intemesi</persName>
+    <lb/><add place="marginleft"><note><persName ref="people.xml#pers0459">Intemesi</persName></note></add> <term type="occupation">principal guide</term> <del type="strikethrough">N</del> <persName ref="people.xml#pers0459">Intemesi</persName>
 <lb/>a man about fifty
 <lb/>who was he said ordered
 
@@ -237,7 +237,7 @@ a string
 <lb/>who worked in iron
 <lb/>the one of which abounds
 <lb/>in their hills</p>
-<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <add place="marginleft" rend="gray" hand="#U2"><note><persName><unclear cert="medium">Mead</unclear></persName></note></add> The country through
+                <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0400"><unclear cert="medium">Mead</unclear></persName></note></add> The country through
 <lb/>which we passed possessed
 <lb/>the same general character
 <lb/>of flatness and forest <retrace hand="#DL"><add place="inline" rend="gray" hand="#U2">that</add></retrace>
@@ -367,7 +367,7 @@ a string
 <lb/>and <term type="ailment">expectoration</term></p>
 <lb/>
 <lb/><p>Our <term type="occupation">chief guide</term><!-- Missionary travels p 304, sh -->
-<lb/><persName>Ntemesa</persName> sent orders to
+    <lb/><persName ref="people.xml#pers0459">Ntemesa</persName> sent orders to
 <lb/>all the villages around
 
 
@@ -423,7 +423,7 @@ a string
 <lb/>their <term target="foodstuff">potage</term> then all stood
 <lb/>up and clapped their
 <lb/>hands and praised
-<lb/><persName>Ntemesa</persName> for it - The
+    <lb/><persName ref="people.xml#pers0459">Ntemesa</persName> for it - The
 <lb/><term type="tribe">Makololo</term> who are
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>9</note></add> accustomed to the most
 <lb/>free and easy manners
@@ -553,7 +553,7 @@ as we could
 <lb/>equivalent - One village
 <lb/>had lately come hither
 <lb/>from the country of
-<lb/><persName>Matiamvo</persName> - They of
+    <lb/><persName ref="people.xml#pers0444">Matiamvo</persName> - They of
 <lb/>course continue to
 <lb/>acknowledge him as
 <lb/><term type="occupation">paramount chief</term> but
@@ -593,7 +593,7 @@ gone thither for the
 <lb/>inhabitants of the villages
 <lb/>at which we were staying
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>13</note></add> respecting the visit of
-                    <lb/><persName>Pereira</persName> and <persName ref="people.xml#pers0366">Lacerda</persName> to
+                    <lb/><persName ref="people.xml#pers0475">Pereira</persName> and <persName ref="people.xml#pers0366">Lacerda</persName> to
 <lb/>that town - An old grey
 <lb/>headed man replied that
 <lb/>they had often heard of
@@ -642,7 +642,7 @@ gone thither for the
 <lb/>for that were disposed
 <lb/>to follow the dictation
 <lb/>of everyone we met - When
-<lb/><persName>Ntemesa</persName> our <term type="occupation">guide</term> refused
+    <lb/><persName ref="people.xml#pers0459">Ntemesa</persName> our <term type="occupation">guide</term> refused
 <lb/>to stir <add place="marginleft"><metamark function="insertion"/><w>to<add place="above">wards</add></w> <del type="strikethrough">cross</del> the
     <lb/><placeName><geogName type="river">Leeba</geogName></placeName> <del type="strikethrough">from</del>
     <lb/>on the <date when="1854-01-31">31<hi rend="sup underline">st</hi> January</date></add> 
@@ -650,7 +650,7 @@ they would make
 <lb/>no effort to induce him
 <lb/>to go but <del type="cancelled">I</del> <add place="below">^</add> <add place="above">having</add> ordered them
 <lb/>to get ready <del type="strikethrough">and</del> when
-<lb/><persName>Ntemesa</persName> saw the
+    <lb/><persName ref="people.xml#pers0459">Ntemesa</persName> saw the
 <lb/>preparation he soon followed
 <lb/>our example <del type="strikethrough">and</del> It
 <lb/>took us <measure>about four
@@ -724,12 +724,12 @@ they would make
 <lb/>Two on the side of the
 <lb/>river we had left - The
 <lb/>country there is named
-<lb/><placeName><region>Mokwankwa</region></placeName> - And there <persName>Ntemese</persName>
+                    <lb/><placeName><region>Mokwankwa</region></placeName> - And there <persName ref="people.xml#pers0459">Ntemese</persName>
                     <lb/>informed us one of <persName ref="people.xml#pers0532">Shinte</persName>'s
 <lb/>children was born when
 <lb/>he was in his progress
 <lb/>southwards from the country
-<lb/>of <persName>Matiamvo</persName> - This part
+                    <lb/>of <persName ref="people.xml#pers0444">Matiamvo</persName> - This part
 <lb/>of the country would thus
 <lb/>seem to have been <del type="cancelled" rend="gray" hand="#U2">but</del>
 
@@ -740,7 +740,7 @@ they would make
                     <lb/><persName ref="people.xml#pers0532">Shinte</persName><add place="inline" rend="gray" hand="#U2">.</add> - He told me himself
 <lb/>that he had come into his
 <lb/>present country by command
-<lb/>of <persName>Matiamvo</persName></p>
+                    <lb/>of <persName ref="people.xml#pers0444">Matiamvo</persName></p>
 <lb/><p>Here we were surprised
 <lb/>to hear <term type="nationality">English</term> <term type="plant">cotton</term> cloth
 <lb/>much more eagerly
@@ -756,7 +756,7 @@ they would make
 <lb/>are rare<add place="inline" hand="#U2" rend="gray">,</add> and a very
 <lb/>small piece of calico
 <lb/>is of great value</p>
-<lb/><p><note place="inline"><date when="1854-02-01">1<hi rend="sup underline">st</hi> <choice><abbr>Feb-</abbr><expan>February</expan></choice></date></note> <space extent="2" unit="chars"/><persName>Ntemese</persName> sent in
+                <lb/><p><note place="inline"><date when="1854-02-01">1<hi rend="sup underline">st</hi> <choice><abbr>Feb-</abbr><expan>February</expan></choice></date></note> <space extent="2" unit="chars"/><persName ref="people.xml#pers0459">Ntemese</persName> sent in
 <lb/>the midst of the <seg type="weather">heavy
 <lb/>rains which continued
 <lb/>all morning</seg> to say he
@@ -802,12 +802,12 @@ they would make
 <lb/>more wonderful things
 <lb/>than their forefathers</p>
 <lb/>                
-<lb/><p>One of <persName>Ntemese</persName>'s
+                <lb/><p>One of <persName ref="people.xml#pers0459">Ntemese</persName>'s
 <lb/>men stole a <term type="animal">fowl</term> given
 <lb/>me by the lady of the village<add place="inline" hand="#U2" rend="gray">.</add>
 <lb/>When charged with the
 <lb/>theft - <add place="inline" hand="#U2" rend="gray">,</add> <choice><sic>Everyone</sic><corr>everyone</corr></choice> of <del type="strikethrough">his</del>
-<lb/><add place="marginleft"><persName>Ntemese</persName>'s</add> party vociferated <del type="strikethrough">their</del> his
+                    <lb/><add place="marginleft"><persName ref="people.xml#pers0459">Ntemese</persName>'s</add> party vociferated <del type="strikethrough">their</del> his
 
 
     <pb facs="liv_000100_0353.jpg" n="0353"/>                           
@@ -817,7 +817,7 @@ they would make
 <lb/>their loud asseverations
 <lb/>and gesticulations for some
 <lb/>minutes<add place="inline" rend="gray" hand="#U2" >,</add> one of my men
-<lb/><persName>Loyanka</persName> went off to the
+                    <lb/><persName ref="people.xml#pers0375">Loyanka</persName> went off to the
 <lb/>village<add place="inline" rend="gray" hand="#U2">,</add> brought the lady
 <lb/>who had presented the
 <lb/><term type="animal">fowl</term> as able to identify it <add place="inline" rend="gray" hand="#U2">-</add>
@@ -826,19 +826,19 @@ they would make
 <lb/>The <term type="tribe">Balonda</term> collected
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>19</note></add> round him evincing
 <lb/>great wrath<add place="inline"  rend="gray" hand="#U2">,</add> but <del type="cancelled">he</del>
-<lb/><persName>Loyanka</persName> seized his battle
+                    <lb/><persName ref="people.xml#pers0375">Loyanka</persName> seized his battle
 <lb/>axe in the proper manner
 <lb/>for striking<add place="inline" hand="#U2" rend="gray">,</add> - and placing
 <lb/>himself on a little hillock
 <lb/>soon made them moderate
-<lb/>their tones<add place="inline" rend="gray" hand="#U2">.</add> - <persName>Ntemese</persName> then
+                    <lb/>their tones<add place="inline" rend="gray" hand="#U2">.</add> - <persName ref="people.xml#pers0459">Ntemese</persName> then
 <lb/>called on me to send one
 <lb/>of my people to search
 <lb/>the huts if I suspected
 <lb/>his people - The man
 <lb/>sent soon found it<add place="inline" hand="#U2" rend="gray">,</add> and
 <lb/>brought it out to the
-<lb/>confusion of <persName>Ntemese</persName>
+                    <lb/>confusion of <persName ref="people.xml#pers0459">Ntemese</persName>
 <lb/>and laughter of our
 <lb/>party - <space extent="2" unit="chars"/>This incident
 <lb/>is mentioned to <choice><orig>shew</orig><reg>show</reg></choice>
@@ -876,7 +876,7 @@ among the <term type="tribe">Makololo</term><add place="inline" hand="#U2" rend=
 <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName><unclear cert="medium">Ker</unclear></persName></hi></note></add> As the people on the banks
 <lb/>of the <placeName><geogName type="river">Leeba</geogName></placeName> were the
     <lb/>last of <persName ref="people.xml#pers0532">Shinte</persName>'s <subst><del>people</del><add place="over-text">tribe</add></subst>
-<lb/>over which <persName>Ntemese</persName> had
+    <lb/>over which <persName ref="people.xml#pers0459">Ntemese</persName> had
 <lb/>power he was naturally
 <lb/>anxious to remain as
 <lb/>long as possible - He
@@ -917,7 +917,7 @@ among the <term type="tribe">Makololo</term><add place="inline" hand="#U2" rend=
 <lb/>in the shallowest parts
 <lb/>We deviated somewhat
 <lb/>from our <choice><abbr>N- W-</abbr><expan>North West</expan></choice> course
-<lb/>by the direction of <persName>Ntemese</persName>
+    <lb/>by the direction of <persName ref="people.xml#pers0459">Ntemese</persName>
 <lb/>and <choice><sic>keep</sic><corr>kept</corr></choice> the hills <placeName><geogName type="hill">Peeri</geogName></placeName>
 <lb/>nearly on our right
 <lb/>during a great part
@@ -930,7 +930,7 @@ among the <term type="tribe">Makololo</term><add place="inline" hand="#U2" rend=
 
     <pb facs="liv_000100_0356.jpg" n="0356"/>                           
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">355</add></fw>
-<lb/>to <persName>Ntemese</persName> are at present
+    <lb/>to <persName ref="people.xml#pers0459">Ntemese</persName> are at present
 <lb/>impassable being thigh deep
 <lb/>The plains are so perfectly
 <lb/>level that <seg type="weather">rain water
@@ -980,7 +980,7 @@ grass
 <lb/><placeName><region>Londa</region></placeName> as softening their
 <lb/>horny soles - The only
 <lb/>information we can
-<lb/>glean is from <persName>Ntemesi</persName>
+    <lb/>glean is from <persName ref="people.xml#pers0459">Ntemesi</persName>
 <lb/>who points out the
 <lb/>different localities as
 <lb/>we pass along and among
@@ -999,7 +999,7 @@ grass
     <lb/>does not argue
     <lb/>superior morality
     <lb/>in other respects
-    <lb/>or else <persName>Ntemese</persName>
+    <lb/>or else <persName ref="people.xml#pers0459">Ntemese</persName>
     <lb/>any injunctions
     <lb/>his Mama may
     <lb/>have given not
@@ -1018,7 +1018,7 @@ The <term type="tribe">Bechuanas</term>
 <lb/>any expectations of
 <lb/>becoming heirs to his
 <lb/><term type="animal">cattle</term> - Our <term type="tribe">Bakwain</term>
-<lb/><term type="occupation">guide</term> to the Lake, <persName>Rachosi</persName>,
+    <lb/><term type="occupation">guide</term> to the Lake, <persName ref="people.xml#pers0488">Rachosi</persName>,
 <lb/>told me that his mother
 <lb/>lived in the country of
 <lb/><persName ref="people.xml#pers0515">Sebituane</persName> but though

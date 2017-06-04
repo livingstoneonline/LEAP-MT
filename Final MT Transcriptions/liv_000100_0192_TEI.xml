@@ -328,7 +328,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <lb/>both by <persName ref="people.xml#pers0543">St John</persName> &amp; <persName ref="people.xml#pers0307">Geofrey St-
         <lb/>Hilaire</persName> &amp; <persName ref="people.xml#pers0318">Herodotus</persName> - But that
 <lb/>which neither of these authors knew 
-<lb/><add place="marginleft">my</add> <term type="occupation"><choice><orig><add place="marginleft">head</add> <subst><del>was</del><add place="over-text">boatman</add></subst></orig><reg>head boatman</reg></choice></term> <persName>Mashauana</persName> stopped the
+<lb/><add place="marginleft">my</add> <term type="occupation"><choice><orig><add place="marginleft">head</add> <subst><del>was</del><add place="over-text">boatman</add></subst></orig><reg>head boatman</reg></choice></term> <persName ref="people.xml#pers0393">Mashauana</persName> stopped the
 <lb/><add place="marginleft">canoe to</add> tell us <choice><abbr>viz</abbr><expan>videlicet</expan></choice> - that a <term type="animal">water turtle</term> which
 <lb/><add place="marginleft">we found had</add> in trying to ascend a steep bank <add place="marginleft"><metamark function="insertion"/>to lay her eggs
     <lb/>has toppled
@@ -477,7 +477,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <!-- here -->
     <pb facs="liv_000100_0201.jpg" n="0201"/>
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">200</add></fw> 
-    <lb/><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><subst><del type="cancelled"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="above">Mead</add></subst></hi></add> A fish called <foreign xml:lang="und"><term type="animal">Moshéba</term></foreign> about the
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><subst><del type="cancelled"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="above"><persName ref="people.xml#pers0400">Mead</persName></add></subst></hi></add> A fish called <foreign xml:lang="und"><term type="animal">Moshéba</term></foreign> about the
 <lb/>size of a <term type="animal">minnow</term> often skims
 <lb/>along the surface for several 
 <lb/>yards in order to get <del type="cancelled">rid</del> out
@@ -611,7 +611,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>front as it has done within
 <lb/>the last <measure>four degrees of
 <lb/>Latitude</measure> it will be indeed
-<lb/><add place="marginleft" rend="gray" hand="#U2"><persName>Mead</persName></add> a lovely land</p>
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><persName ref="people.xml#pers0400">Mead</persName></add> a lovely land</p>
 <lb/><p>We all felt great
 <lb/>lassitude in travelling - <seg type="weather">The 
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>167</note></add><!-- the number is enclosed in a circle, sh --> <w>atmo<metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>sphere</w><!-- square bracket corresponds to the circled number.JL --> is oppressive both
@@ -629,7 +629,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>for I drink enormous
 <lb/>quantities of water to supply
 <lb/>its place - </p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Powell</persName></hi></note></add> <del>our</del><add place="over-text">When</add> under <choice><orig>weigh</orig><reg>way</reg></choice> our
+    <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0482">Powell</persName></hi></note></add> <del>our</del><add place="over-text">When</add> under <choice><orig>weigh</orig><reg>way</reg></choice> our
 <lb/>usual procedure is thus
 <lb/>We get up a little before five in
 <lb/>the morning - It is then beginning
@@ -755,12 +755,12 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>a foray to the North and
 <lb/>up the <placeName><geogName type="river">Leeba</geogName></placeName> in the very
 <lb/>direction we were about
-<lb/>to proceed - <persName>Mpololo</persName> the uncle
+    <lb/>to proceed - <persName ref="people.xml#pers0432">Mpololo</persName> the uncle
 <lb/>of <persName ref="people.xml#pers0519">Sekeletu</persName> is considered the 
 <lb/><term type="occupation">headman</term> of the <placeName><geogName type="valley">Barotse
 <lb/>valley</geogName></placeName> - and the perpetrators
 <lb/>had his full sanction
-<lb/>because <persName>Masiko</persName> a son of 
+<lb/>because <persName ref="people.xml#pers0327">Masiko</persName> a son of 
     <lb/><persName ref="people.xml#pers0441">Santuru</persName> the former <term type="occupation">chief</term>
 <lb/>of the <term type="tribe">Barotse</term> had fled
 <lb/>high up the <placeName><geogName type="river">Leeambye</geogName></placeName> and
@@ -770,7 +770,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>the remaining <term type="tribe">Barotse</term>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>41</note></add> from their allegiance -
 <lb/><persName>Lerimo</persName>'s party had taken
-<lb/>some of this <persName>Masiko</persName>'s <del type="cancelled">chil</del>
+<lb/>some of this <persName ref="people.xml#pers0327">Masiko</persName>'s <del type="cancelled">chil</del>
 <lb/>subjects prisoners and 
 <lb/>destroyed several villages
 <lb/>of the <term type="tribe">Balonda</term> to whom we
@@ -782,9 +782,9 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>in direct opposition to the
 <lb/>policy of <persName ref="people.xml#pers0519">Sekeletu</persName> who wished
 <lb/>to be at peace with these
-<lb/>Northern tribes and <persName>Pitsane</persName>
+    <lb/>Northern tribes and <persName ref="people.xml#pers0479">Pitsane</persName>
 <lb/>my <term type="occupation">headman</term> was the bearer
-<lb/>of orders to <persName>Mpololo</persName> to furnish <supplied cert="high">us</supplied>
+    <lb/>of orders to <persName ref="people.xml#pers0432">Mpololo</persName> to furnish <supplied cert="high">us</supplied>
 <lb/>with presents for the very
 <lb/><term type="occupation">chiefs</term> they had attacked -
 <lb/>Thus we were to get large pots
@@ -797,9 +797,9 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>was in contemplation
 <lb/>but I sent forward orders
 <lb/>to disband it immediately
-<lb/>At <persName>Masekeletu</persName>'s town we
+        <lb/>At <persName ref="people.xml#pers0408">Masekeletu</persName>'s town we
 <lb/>reached the head offender
-<lb/><persName>Mpololo</persName> himself and gave
+        <lb/><persName ref="people.xml#pers0432">Mpololo</persName> himself and gave
 <lb/>him a bit of my mind to
 <lb/>the effect that as I was
 <lb/>going with the full sanction
@@ -807,7 +807,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>happened to me in consequence
 <lb/>of his ill advised expedition
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>42</note></add> the guilt would rest with
-<lb/>him - <persName>MaSekeletu</persName> who was
+        <lb/>him - <persName ref="people.xml#pers0408">MaSekeletu</persName> who was
 <lb/>present heartily approved all
 <lb/>I said and farther suggested
 <lb/>that all the <orgName>captives</orgName> 
@@ -817,7 +817,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 
     <pb facs="liv_000100_0210" n="0210"/>                           
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">209</add></fw>  
-<lb/><choice><orig>shew</orig><reg>show</reg></choice> <persName>Masiko</persName> that the guilt
+<lb/><choice><orig>shew</orig><reg>show</reg></choice> <persName ref="people.xml#pers0327">Masiko</persName> that the guilt
 <lb/>of the foray lay not with the
 <lb/>superior persons of the
 <lb/><term type="tribe">Makololo</term> but with a mere
@@ -828,7 +828,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>previously come to the
 <lb/>conclusion of suggesting
 <lb/>we were pleased to hear
-<lb/><persName>Mpololo</persName> agree to do what
+        <lb/><persName ref="people.xml#pers0432">Mpololo</persName> agree to do what
 <lb/>he was advised and as 
 <lb/>he asked me to lay the
 <lb/>matter before the <term type="occupation">under
@@ -861,7 +861,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <lb/>animals but
     <lb/>brave against
     <lb/>men <metamark function="ed-mark" place="below" rend="gray" resp="#U2">X</metamark><anchor xml:id="meta-256"/></add> 
-<persName>Mpololo</persName>
+        <persName ref="people.xml#pers0432">Mpololo</persName>
 <lb/>took all the guilt upon <w>him<supplied>-</supplied>
 <lb break="no"/>-self</w> before the people <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-257"/>and delivered
     <lb/>up a <orgName>captive</orgName>
@@ -875,7 +875,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <lb/>of the prisoners
     <lb/>free<anchor xml:id="meta-257"/></add> 
 - Some
-<lb/>thought as <persName>Masiko</persName> had
+<lb/>thought as <persName ref="people.xml#pers0327">Masiko</persName> had
 <lb/>tried to take their children
 <lb/>by stratagem they ought to
 <lb/>take his by force as
@@ -885,13 +885,13 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>and the <term type="tribe">Makololo</term> love fighting
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>43</note></add> and others thought if <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>meant them to be at peace
-<lb/>with <persName>Masiko</persName> he ought to
+<lb/>with <persName ref="people.xml#pers0327">Masiko</persName> he ought to
 <lb/>have told them so</p>
 
 
     <pb facs="liv_000100_0211" n="0211"/>                           
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">210</add></fw>  
-<lb/><del type="strikethrough"><persName>Masiko</persName></del> It is rather dangerous
+<lb/><del type="strikethrough"><persName ref="people.xml#pers0327">Masiko</persName></del> It is rather dangerous
 <lb/>to tread in the footsteps of a
 <lb/>marauding party with people
 <lb/>of the same tribe as the
@@ -977,24 +977,24 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>
 <lb/><p>We here sent back the
 <lb/>canoe of <persName ref="people.xml#pers0519">Sekeletu</persName> and got the 
-<lb/>loan of others from <persName>Mpololo</persName>
+    <lb/>loan of others from <persName ref="people.xml#pers0432">Mpololo</persName>
 <lb/>Eight riding and seven 
 <lb/>slaughter <term type="animal">oxen</term> were according
 <lb/>to the orders of that <term type="occupation">chief</term> also
 <lb/>furnished - Some were intended
 <lb/>for our own use and
 <lb/>others as presents to the
-<lb/><term type="occupation">chiefs</term> of the <term type="tribe">Balunda</term> - <persName>Mpololo</persName>
+    <lb/><term type="occupation">chiefs</term> of the <term type="tribe">Balunda</term> - <persName ref="people.xml#pers0432">Mpololo</persName>
 <lb/>was particularly liberal in giving
 <lb/>all that <persName ref="people.xml#pers0519">Sekeletu</persName> ordered though
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>46</note></add> as he feeds on the <term type="animal"><term type="foodstuff">cattle</term></term> he has
 <lb/>in charge he might have felt it
 <lb/>so much abstracted from his
-<lb/>own perquisites - <persName>Mpololo</persName> now
+    <lb/>own perquisites - <persName ref="people.xml#pers0432">Mpololo</persName> now
 <lb/>acts the great man and is followed
 <lb/><seg rend="left">everywhere by a crowd of toadies, who sing songs
 <lb/>in disparagement of <persName>Mpépe</persName> of whom he always
-<lb/>lived in fear - While <persName>Mpepe</persName> was alive
+<lb/>lived in fear - While <persName ref="people.xml#pers0431">Mpepe</persName> was alive
 <lb/>he was <space extent="2" unit="chars"/>regaled with the same fulsome
 <lb/>adulation &amp; now they curse him - They
 <lb/>are very foul-tongued - Equals in meeting
@@ -1030,7 +1030,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>or two of the <term type="tribe">Barotse</term>
 <lb/>children of his village - The
 <lb/>rest fled immediately to
-<lb/><persName>Masiko</persName> a <term type="tribe">Barotse</term> <term type="occupation">chief</term>
+<lb/><persName ref="people.xml#pers0327">Masiko</persName> a <term type="tribe">Barotse</term> <term type="occupation">chief</term>
 <lb/>in the North and were
 <lb/>gladly <choice><sic>recieved</sic><corr>received</corr></choice> as his subjects
 <lb/><del type="cancelled">Some of When the women</del></p>

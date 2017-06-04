@@ -244,14 +244,14 @@ succeeded in raising
 <pb facs="liv_000099_0121.jpg" n="0121"/>
 
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">113</add> <add place="inspace" hand="#U1" rend="gray right">116</add></fw>
-<lb/>unfeigned disgust - "It is <persName><w>Ra-
+    <lb/>unfeigned disgust - "It is <persName ref="people.xml#pers0489"><w>Ra-
     <lb break="no"/>-Motobi</w></persName>"! He belonged to <persName ref="people.xml#pers0520">Sekomi</persName>
 <lb/>but had fled to <persName ref="people.xml#pers0516">Sechele</persName> and 
 <lb/>as fugitives in this country are
 <lb/>always well <choice><sic>recieved</sic><corr>received</corr></choice> and
 <lb/>may even afterwards visit
 <lb/>the tribe from which they have
-<lb/>escaped <persName>Ramotobi</persName> was in
+    <lb/>escaped <persName ref="people.xml#pers0489">Ramotobi</persName> was in
 <lb/>no danger though doing that which
 <lb/>he knew to be directly opposed
 <lb/>to the interests of his own <term type="occupation">chief</term>
@@ -268,8 +268,8 @@ succeeded in raising
 <lb/>that if you leave the wells 
 <lb/>and walk <measure>a quarter of a
 <lb/>mile</measure> in any direction it is
-<lb/>difficult to return - <persName><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> &amp;
-<lb/><persName>Murray</persName> went out on one
+                    <lb/>difficult to return - <persName ref="people.xml#pers0466"><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> &amp;
+                    <lb/><persName ref="people.xml#pers0442">Murray</persName> went out on one
 <lb/>occasion to get an <term type="animal">Eland</term>
 <lb/>and were accompanied by
 <lb/>one of the <term type="tribe">Bakalahari</term> - The
@@ -433,7 +433,7 @@ But there is
 <lb/>stands but it was now dry
 <lb/>and at night our trocheamer
 <lb/><choice><orig>shewed</orig><reg>showed</reg></choice> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">that</add> we had made but
-<lb/><measure><subst><del>two</del><add place="over-text">25</add></subst> miles from <placeName><geogName type="fountain">Serotli</geogName></placeName></measure> <persName><w>Ra-
+                    <lb/><measure><subst><del>two</del><add place="over-text">25</add></subst> miles from <placeName><geogName type="fountain">Serotli</geogName></placeName></measure> <persName ref="people.xml#pers0489"><w>Ra-
 <lb break="no" />motobi</w></persName> was angry at the 
 <lb/>slowness of our progress
 <lb/>and told us that the <add place="below">^</add> <add place="above">next</add> water being
@@ -474,9 +474,9 @@ But there is
 <lb/>them forward with the <term type="occupation">guide</term>
 <lb/>as a means of making
 <lb/>a desperate effort in case
-<lb/>the <term type="animal">oxen</term> should fail - <persName>Murray</persName>
+                    <lb/>the <term type="animal">oxen</term> should fail - <persName ref="people.xml#pers0442">Murray</persName>
 <lb/>went forward with them
-<lb/><del type="strikethrough"><term type="animal">horses</term></del> while <persName><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and I
+                    <lb/><del type="strikethrough"><term type="animal">horses</term></del> while <persName ref="people.xml#pers0466"><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and I
 <lb/>remained <del type="strikethrough">in order</del> <add place="above">to</add> bring the
 <lb/>waggons <add place="below">^</add> <add place="above">on</add> <add place="marginleft"><metamark function="insertion"/>on their trail</add> As far as the <term type="animal">cattle</term>
 <lb/>could drag them <add place="above" hand="#U3" rend="red">intending</add> <del type="strikethrough" rend="red">and</del> then <add place="above" hand="#U3" rend="red">to</add> send
@@ -501,7 +501,7 @@ But there is
 <lb/>and turn<subst><del type="strikethrough">ing</del><add place="over-text">ed</add></subst> aside to follow
 <lb/>the<subst><del>se</del><add place="over-text">m</add></subst> <del type="strikethrough">found</del> an <term type="animal">antelope</term> had
 <lb/><add place="below">^</add> <add place="above">been</add> ensnared in one of the<del type="strikethrough">ir</del> <add place="above"><orgName>Bushmen</orgName></add> pitfalls
-<lb/><persName>Murray</persName> <add place="below">^</add> <add place="above"><del type="cancelled">who</del></add> <del type="cancelled">had</del> followed <persName>Ramotobi</persName>
+                    <lb/><persName>Murray</persName> <add place="below">^</add> <add place="above"><del type="cancelled">who</del></add> <del type="cancelled">had</del> followed <persName ref="people.xml#pers0489">Ramotobi</persName>
 <lb/>most trustingly along the
 <lb/><orgName>Bushmen</orgName> spoor, though
 <lb/>that led <add place="marginleft"><metamark function="insertion"/>them both
@@ -517,7 +517,7 @@ But there is
 <lb/>The knowledge <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-24"/> of this trackless
 <lb/>waste of scrub through which
 <lb/>we were now passing, <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-48"/><seg corresp="#reorder-24">still
-<lb/>retained by <persName>Ramotobi</persName></seg><anchor xml:id="meta-48"/> seemed
+    <lb/>retained by <persName ref="people.xml#pers0489">Ramotobi</persName></seg><anchor xml:id="meta-48"/> seemed
 <lb/><del type="strikethrough">to me</del> admirable - <del type="strikethrough" hand="#U3" rend="red">I could only
 <lb/>see</del> <add place="above" hand="#U3" rend="red">To me</add> one clump of bushes &amp;
 <lb/>trees <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">seemed</add> exactly like another but
@@ -581,7 +581,7 @@ But there is
 <lb/>enough of water to admit <del type="cancelled">of</del>
 <lb/>of <add place="below">^</add> <add place="marginleft">permanent</add> wells in several parts of
 <lb/>it - <space extent="4" unit="chars"/> We had now the assurance
-<lb/>from <persName>Ramotobi</persName> that we should
+    <lb/>from <persName ref="people.xml#pers0489">Ramotobi</persName> that we should
 <lb/>suffer no more from thirst
 <lb/>Twice we found rain water
 <lb/>in the <placeName><geogName type="river">Mokoko</geogName></placeName> before we
@@ -616,12 +616,12 @@ But there is
 <lb/>with those now alive in the
 <lb/>Lake -</p> 
 <lb/><p>When we left the <placeName><geogName type="river">Mokoko</geogName></placeName>
-<lb/><persName>Ramotobi</persName> seemed for the first
+    <lb/><persName ref="people.xml#pers0489">Ramotobi</persName> seemed for the first
 <lb/>time to be at a loss as to which
 <lb/>direction to <subst><del type="strikethrough" hand="#U3" rend="red">travel</del><add place="above" hand="#U3" rend="red">take</add></subst> - He had passed
 <lb/>only once away to the West of 
 <lb/>the <placeName><geogName type="river">Mokoko</geogName></placeName> the scenes of his
-<lb/>boyhood - But <persName>M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> while
+    <lb/>boyhood - But <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> while
 <lb/>riding in front of the waggons
 <lb/>happened to spy a <orgName>Bushwoman</orgName>
 <lb/>running away in a bent
@@ -681,7 +681,7 @@ But there is
 <lb/>casting a <w>b<subst><del>l</del><add place="over-text">e</add></subst>autiful</w> blue haze
 <lb/>over the white incrustations
 <lb/>making the whole look exactly
-<lb/>like a Lake - <persName><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> threw his
+                    <lb/>like a Lake - <persName ref="people.xml#pers0466"><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> threw his
 <lb/>hat up in the air at the sight
 <lb/>and shouted out a huzza which
 <lb/>made the poor <orgName>Bushwoman</orgName>
@@ -737,7 +737,7 @@ But there is
 <lb/><orgName>Hotentots</orgName> ran off towards the
 <lb/>deceitful pools - A herd of <term type="animal">Zebras</term>
 <lb/><add place="marginleft">in the mirage <add place="below">^</add></add> looked so exactly like <term type="animal">Elephants</term>
-<lb/>that <persName><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> began to saddle a <term type="animal">horse</term>
+    <lb/>that <persName ref="people.xml#pers0466"><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> began to saddle a <term type="animal">horse</term>
 <lb/>in order to hunt them - but a 
 <lb/><add place="marginleft">sort of <add place="below">^</add></add> break in the haze dispelled the
 <lb/>illusion - <add place="below">^</add> <add place="marginleft">on the <date when="1849-07-04">4<hi rend="sup underline">th</hi> July</date></add> We went forward
@@ -762,7 +762,7 @@ But there is
     <lb/>cattle</term> - They seem
     <lb/>allied to the
     <lb/><orgName>Hottentot</orgName> family - </add>
-<persName>M<hi rend="sup">r</hi> <choice><abbr>O</abbr><expan>Oswell</expan></choice></persName>
+    <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><abbr>O</abbr><expan>Oswell</expan></choice></persName>
 <lb/>in trying to cross the river got
 <lb/>his <term type="animal">horse</term> <del type="strikethrough">nearly</del> bogged in
 <lb/>the swampy bank - Two <term type="tribe">Bakwains</term>
@@ -801,7 +801,7 @@ But there is
 <lb/><orgName>bushmen</orgName>, found our way
 <lb/>to the waters - This was the
 <lb/>first time <hi rend="underline">they</hi> had seen
-<lb/><persName>Ramotobi</persName> - "You have reached
+                    <lb/><persName ref="people.xml#pers0489">Ramotobi</persName> - "You have reached
 <lb/>the river now", said they;
 <lb/>and we<add place="inline" hand="#U3" rend="red">,</add> quite disposed to laugh
 <lb/>as having won the game, felt
@@ -842,7 +842,7 @@ But there is
 <lb/>understood that we were still
 <lb/>a considerable distance from
 <lb/>the <placeName><geogName type="lake">Ngami</geogName></placeName>, all the waggons
-<lb/>and <term type="animal">oxen</term> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-51"/><seg corresp="#reorder-26">were left<add place="below" hand="#U3" rend="red">here</add></seg><anchor xml:id="meta-51"/> except <persName>M<hi rend="sup">r</hi>
+    <lb/>and <term type="animal">oxen</term> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-51"/><seg corresp="#reorder-26">were left<add place="below" hand="#U3" rend="red">here</add></seg><anchor xml:id="meta-51"/> except <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi>
 <lb/><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>'s, which was the smallest
 <lb/>and one team, - <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-26"/> in the hope that
 <lb/>the<add place="inline" hand="#U3" rend="red">y</add> <del type="strikethrough" hand="#U3" rend="red">rest</del> would be recruited for
@@ -1072,7 +1072,7 @@ and that coming down
 <lb/>the region to be clearly a
 <lb/>hollow - The point of the
 <lb/>ebullition of water <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">as shown</add> by one of
-<lb/><persName>Newman</persName>'s barometric thermometer
+                    <lb/><persName ref="people.xml#pers0451">Newman</persName>'s barometric thermometer
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">being</del><add place="above" hand="#U3" rend="red">was</add></subst> only <add place="above">between</add> 207<choice><orig>½</orig><reg>1/2</reg></choice> &amp; 206°<add place="inline" hand="#U3" rend="red">,</add> giving
 <lb/>an elevation of not much
 <lb/>more than <measure>2000 feet above

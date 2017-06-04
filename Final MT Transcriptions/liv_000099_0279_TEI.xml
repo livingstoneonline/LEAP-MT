@@ -334,10 +334,10 @@
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray">237</add></fw> When <persName ref="people.xml#pers0516">Sechele</persName> understood<!-- page looks like it was cropped removing left margin affecting 11th line. sh -->
 <lb/>that we could no longer <space extent="3" unit="chars"/><fw><add place="inspace" hand="#U1" rend="gray">277</add></fw> 
 <lb/>remain with him at <placeName><settlement type="village">Kolobeng</settlement></placeName>
-<lb/>he sent his children to <persName>M<hi rend="sup">r</hi>
+    <lb/>he sent his children to <persName ref="people.xml#pers0411">M<hi rend="sup">r</hi>
 <lb/>Moffat</persName> at <placeName><settlement type="village">Kuruman</settlement></placeName> for
 <lb/>instruction in all the <w>know-
-<lb break="no"/>-ledge</w> of the white men - <persName>M<hi rend="above">r</hi> <choice><abbr>M</abbr><expan>Moffat</expan></choice></persName> 
+    <lb break="no"/>-ledge</w> of the white men - <persName ref="people.xml#pers0411">M<hi rend="above">r</hi> <choice><abbr>M</abbr><expan>Moffat</expan></choice></persName> 
 <lb/>very liberally received at once
 <lb/>an accession <add place="below">^</add> <add place="above">of five</add> to his fami<del type="cancelled">i</del>ly
 <lb/><metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>with their attendants - <del type="cancelled">Before</del> 
@@ -354,7 +354,7 @@
 <lb/>attack of the <orgName>Boers</orgName> on
 <lb/>the <term type="tribe">Bakwains</term> news of
 <lb/>which were about the end
-<lb/>of that time brought by <persName><w>Ma-
+    <lb/>of that time brought by <persName ref="people.xml#pers0407"><w>Ma-
 <lb break="no"/>-sebele</w></persName> the wife of <persName ref="people.xml#pers0516">Sechele</persName> -
 <lb/>She had herself been hidden
 <lb/>in a cleft of rock over which
@@ -369,7 +369,7 @@ the<del type="strikethrough">ir</del>
 <lb/>her head, she took off her
 <lb/>armlets as play things to <add place="below" hand="#U3" rend="red">^</add> <add place="marginleft" hand="#U3" rend="red">quiet the Child</add> <del type="strikethrough" rend="red" hand="#U3">still her</del><!-- full stop occurs in printed work. sh -->
 <lb/>She brought <bibl>a letter</bibl> which
-<lb/>tells its own tale to <persName>Rev<hi rend="sup">d</hi> <choice><abbr>R</abbr><expan>Robert</expan></choice> Moffat</persName>
+    <lb/>tells its own tale to <persName ref="people.xml#pers0411">Rev<hi rend="sup">d</hi> <choice><abbr>R</abbr><expan>Robert</expan></choice> Moffat</persName>
 <lb/><del type="cancelled" hand="#U3" rend="red">"</del> nearly literally translated it <subst><del type="strikethrough" rend="red" hand="#U3">runs</del><add place="below" hand="#U3" rend="red">was</add></subst>
 <lb/>as follows</p><!-- colon and dash occurs in printed work. sh -->
 <lb/><p>"<quote>Friend of my heart<add place="inline" rend="red" hand="#U3">'</add>s love and
@@ -411,7 +411,7 @@ the<del type="strikethrough">ir</del>
 <lb/>five and a cannon and
 <lb/>after they had stolen my
 <lb/>own waggon and that of
-<lb/><persName>Macabe</persName> then the number
+    <lb/><persName ref="people.xml#pers0397">Macabe</persName> then the number
 <lb/>of their waggons (counting the
 <lb/>cannon as one) was Eighty    
 <lb/><del type="cancelled">four</del> eight - All the goods
@@ -424,7 +424,7 @@ the<del type="strikethrough">ir</del>
 <lb/>to see the children and <persName>Kobus
 <lb/>Hae</persName> will convey her to you
 <lb/><space extent="7" unit="chars"/>I am <persName ref="people.xml#pers0516">Sechele</persName>
-<lb/><space extent="7" unit="chars"/>the son of <persName>Mochoasele</persName></quote>"
+    <lb/><space extent="7" unit="chars"/>the son of <persName ref="people.xml#pers0429">Mochoasele</persName></quote>"
 
 
 <pb facs="liv_000099_0288.jpg" n="0288"/>
@@ -433,7 +433,7 @@ the<del type="strikethrough">ir</del>
 <lb/>accordance with the account
 <lb/><add place="below">^</add> <add place="marginleft">given by the
     <lb/><orgName>native</orgName> <term type="occupation">teacher</term>
-    <lb/><persName>Mebalwe</persName> and 
+    <lb/><persName ref="people.xml#pers0401">Mebalwe</persName> and 
     <lb/>also that</add> 
 sent by some of the <orgName>Boers</orgName> to
 <lb/>the public colonial papers - The
@@ -462,7 +462,7 @@ sent by some of the <orgName>Boers</orgName> to
 <lb/>and concluded a treaty with
     <lb/><persName ref="person.xml#pers0277">Sir George Cathcart</persName> by means
     <lb/>of the <term type="occupation">Commissioners</term> <persName ref="people.xml#pers0320">Hogg</persName>
-<lb/>and <persName>Owen</persName> <del type="strikethrough">for</del> stipulating
+    <lb/>and <persName ref="people.xml#pers0467">Owen</persName> <del type="strikethrough">for</del> stipulating
 <lb/>for freedom of access to
 <lb/>the <placeName><region>Interior</region></placeName> for <term type="people">Englishmen</term>
 <lb/>and that no <orgName>slavery</orgName> should
@@ -551,7 +551,7 @@ sent by some of the <orgName>Boers</orgName> to
     <lb/>volunteered to <persName ref="person.xml#pers0277">Sir George
 <lb/>Cathcart</persName> to identify the
 <lb/>school children consigned
-<lb/>in opposition to <persName>Mr <term type="occupation">Commissioner</term>
+    <lb/>in opposition to <persName ref="people.xml#pers0467">Mr <term type="occupation">Commissioner</term>
 <lb/>Owen</persName>'s jocular treaty to hopeless
 <lb/><orgName>slavery</orgName>, and claimed <unclear cert="medium">compensation</unclear>
 <lb/>for the plunder I had suffered
@@ -710,7 +710,7 @@ taught
 <lb/>of its great population, the
 <lb/>men of whom we now
 <lb/>speak actually fined a
-<lb/>gentleman <add place="marginleft"><metamark function="insertion"/><persName><supplied cert="high">(J</supplied>oseph Macabe</persName>) <add place="below"><choice><abbr>Esqr</abbr><expan>Esquire</expan></choice></add></add> in the sum of
+    <lb/>gentleman <add place="marginleft"><metamark function="insertion"/><persName ref="people.xml#pers0397"><supplied cert="high">(J</supplied>oseph Macabe</persName>) <add place="below"><choice><abbr>Esqr</abbr><expan>Esquire</expan></choice></add></add> in the sum of
 <lb/>500 dollars for publishing
 
 
@@ -856,7 +856,7 @@ taught
 <lb/><persName ref="people.xml#pers0516">Sechele</persName> on his way as he
 <lb/>said "to the Queen of <placeName><country>England</country></placeName>"
 <lb/>Two of his own children
-<lb/>and their mother <add place="below">^</add> <add place="above"><persName>Mabalerileng</persName></add> were among
+    <lb/>and their mother <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0416">Mabalerileng</persName></add> were among
 <lb/>the captives and being strongly
 <lb/>embued with the then very
 <lb/>prevalent notion of <choice><sic><placeName><country>England</country></placeName>s</sic><corr><placeName><country>England</country></placeName>'s</corr></choice>
@@ -960,7 +960,7 @@ There
 <lb/>large supply of <term type="plant_foodstuff">melons</term> had
 <lb/>appeared and we had the
 <lb/>pleasure of meeting with
-<lb/><persName><choice><abbr>J -</abbr><expan>Joseph</expan></choice> Macabe</persName> <choice><abbr>Esq<hi rend="sup underline">r</hi></abbr><expan>Esquire</expan></choice> returning
+    <lb/><persName ref="people.xml#pers0397"><choice><abbr>J -</abbr><expan>Joseph</expan></choice> Macabe</persName> <choice><abbr>Esq<hi rend="sup underline">r</hi></abbr><expan>Esquire</expan></choice> returning
 <lb/>from <placeName><geogName type="lake">Lake Ngami</geogName></placeName> which
 <lb/>he had succeeded in reaching
 <lb/>by going right across
@@ -1003,18 +1003,18 @@ There
 <lb/>seen it all - His estimate
 <lb/>of the extent of the Lake is<!-- Lake Ngami. sh -->
 <lb/>higher then that given
-<lb/>by <persName>M<hi rend="sup underline">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and myself
+    <lb/>by <persName ref="people.xml#pers0466">M<hi rend="sup underline">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and myself
 <lb/>or about <measure>90 or 100 miles
-<lb/>in circumference</measure> - <add place="marginleft"><metamark function="insertion"/><persName>M<hi rend="sup underline">r</hi> Macabe</persName>'s
+    <lb/>in circumference</measure> - <add place="marginleft"><metamark function="insertion"/><persName ref="people.xml#pers0397">M<hi rend="sup underline">r</hi> Macabe</persName>'s
     <lb/>companion
-    <lb/><persName>Mahar</persName> was
+        <lb/><persName ref="people.xml#pers0379">Mahar</persName> was
     <lb/>mistaken by
     <lb/>a tribe of <term type="tribe">Barolongs</term>
     <lb/>for a <orgName>Boer</orgName>
     <lb/>and shot as
     <lb/>he approached
     <lb/>their village
-    <lb/>When <persName>Macabe</persName>
+        <lb/>When <persName ref="people.xml#pers0397">Macabe</persName>
     <lb/>came up &amp;
     <lb/>explained <del type="cancelled">the</del>
     <lb/>his nationality
@@ -1042,15 +1042,15 @@ There
 <lb/>of miles</measure> distant - Reaching
 <lb/>that station shirtless and
 <lb/>as brown as a <orgName>Griqua</orgName>
-<lb/>he was <choice><sic>recieved</sic><corr>received</corr></choice> by <persName>M<hi rend="sup underline">rs</hi>
+    <lb/>he was <choice><sic>recieved</sic><corr>received</corr></choice> by <persName ref="people.xml#pers0410">M<hi rend="sup underline">rs</hi>
 <lb/>Moffat</persName> as one with a
 <lb/>salutation in <term type="nationality">Dutch</term> - His
 <lb/>sufferings must have been
 <lb/><add place="marginleft" rend="red" hand="#U3">far</add> more severe than we
 <lb/>endured<add place="inline" rend="red" hand="#U3">;</add> <del type="cancelled" rend="red" hand="#U3">and</del> <subst><del>his</del><add place="over-text">the</add></subst> <del type="cancelled">routes
-<lb/>of <unclear cert="medium">M<hi rend="sup">r</hi> he</unclear> &amp; <persName>M<hi rend="sup">r</hi> Macabe</persName></del>
+    <lb/>of <unclear cert="medium">M<hi rend="sup">r</hi> he</unclear> &amp; <persName ref="people.xml#pers0397">M<hi rend="sup">r</hi> Macabe</persName></del>
 <lb/>result of <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-94"/><seg corresp="#reorder-39">both</seg><anchor xml:id="meta-94"/> the exertions
-    <lb/>of <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-39"/> <persName ref="people.xml#pers0531">Shelley</persName> and <persName>Macabe</persName> <add place="inline" rend="red" hand="#U3">is to</add>
+    <lb/>of <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-39"/> <persName ref="people.xml#pers0531">Shelley</persName> and <persName ref="people.xml#pers0397">Macabe</persName> <add place="inline" rend="red" hand="#U3">is to</add>
 <lb/><subst><del type="strikethrough" rend="red" hand="#U3">are</del><add place="above" rend="red" hand="#U3">prove</add></subst> that the general
 <lb/>view of the Desert given<!-- Kalahari Desert. sh -->
 <lb/>by the <orgName>natives</orgName> has been

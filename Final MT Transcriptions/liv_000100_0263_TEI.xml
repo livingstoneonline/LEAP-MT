@@ -109,7 +109,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/><p><add place="marginleft" rend="gray" resp="#U2"><note>5</note></add> 
     <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0278">Chester</persName></note></add> When we came to that
 <lb/>part of the river opposite to
-<lb/>the village of <persName>Manenko</persName> the
+<lb/>the village of <persName ref="people.xml#pers0388">Manenko</persName> the
 <lb/>first female <term type="occupation">chief</term> we
 <lb/><del type="strikethrough">had</del> met two of the people
 <lb/>called <term type="tribe">Balunda</term> or <term type="tribe">Balŏnda</term>
@@ -156,7 +156,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>for disturbing the <metamark function="insertion"/><anchor xml:id="reorder-20"/> previously
 <lb/><del type="cancelled"><metamark function="reorder" spanTo="#meta-186"/></del>existing<anchor xml:id="meta-186"/> <metamark function="reorder" spanTo="#meta-258"/><seg corresp="#reorder-20">peace</seg><anchor xml:id="meta-258"/> - They then
 <lb/>went away to report us
-<lb/>to <persName>Manenko</persName> - </p>
+<lb/>to <persName ref="people.xml#pers0388">Manenko</persName> - </p>
 <lb/><p>When the strangers visited
 <lb/>us again in the evening they
 <lb/>were accompanied by
@@ -169,7 +169,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <lb/><placeName><country>Angola</country></placeName> - <persName ref="people.xml#pers0518">Sekelenke</persName> had
 <lb/>fled and was now living
 <lb/>with his village as a
-<lb/>vassal of <persName>Masiko</persName> - As notices
+<lb/>vassal of <persName ref="people.xml#pers0327">Masiko</persName> - As notices
 <lb/>of such men will perhaps
 <lb/>convey the best idea of
 <lb/>the <add place="below">^</add> <add place="above">state - of the</add> inhabitants to the
@@ -184,7 +184,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>his villagers to hunt <term type="animal">elephants</term>
 <lb/>on the right bank of the
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>3</note></add> <placeName><geogName type="river">Leeba</geogName></placeName> and now was on
-<lb/>his way back to <persName>Masiko</persName> -
+<lb/>his way back to <persName ref="people.xml#pers0327">Masiko</persName> -
 <lb/>He sent me a dish of
 <lb/>boiled <term type="foodstuff"><term type="animal">zebra</term>'s flesh</term> and
 <lb/>a request that I should
@@ -208,7 +208,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>in which I was shunned
 <lb/>in this quarter - <del type="strikethrough">As it</del> </p>
 <lb/><p>As it would have been
-<lb/>impolitic to pass <persName>Manenko</persName>
+<lb/>impolitic to pass <persName ref="people.xml#pers0388">Manenko</persName>
 <lb/>or any <term type="occupation">chief</term> without at
 <lb/>least <choice><orig>shewing</orig><reg>showing</reg></choice> so much respect
 <lb/>as to call &amp; explain the objects
@@ -219,7 +219,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>of our passing through the country
 <lb/>we <del type="cancelled">w</del> waited <subst><del type="cancelled">one</del><add place="above">two</add></subst> entire days
 <lb/>for the return of the messengers
-<lb/>to <persName>Manenko</persName> - And as I could not
+<lb/>to <persName ref="people.xml#pers0388">Manenko</persName> - And as I could not
 <lb/>hurry matters <subst><del>aw</del><add place="over-text">I</add></subst> went into
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>4</note></add> the country <choice><sic>ajacent</sic><corr>adjacent</corr></choice> to search
 <lb/>for <term type="foodstuff">meat</term> for the camp -
@@ -299,12 +299,12 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
         <lb/><add place="marginleft" rend="gray" hand="#U2"><note>6</note></add> say Good bye and <persName ref="people.xml#pers0518">Sekelenke</persName>
 <lb/>himself sent to say he had
 <lb/>gone to visit a wife living
-<lb/>in the village of <persName>Manenko</persName> -
+<lb/>in the village of <persName ref="people.xml#pers0388">Manenko</persName> -
 <lb/>As he was probably in the
 <lb/>party before us I replied
 <lb/>that it was all right and when
 <lb/>my people came up from
-<lb/><choice><sic>up from</sic><corr/></choice> <persName>Masiko</persName> I would
+<lb/><choice><sic>up from</sic><corr/></choice> <persName ref="people.xml#pers0327">Masiko</persName> I would
 <lb/>go to my wife too - It was a
 <lb/>mere <orgName>African</orgName> manoeuvre
 <lb/>to gain information and
@@ -321,7 +321,7 @@ all the <term type="animal">zebras</term> are in these
 <lb/>parts though the country
 <lb/>is perfectly flat</p>
     <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0290">Dennett</persName></hi></note></add> To our first message
-<lb/>of an offer <add place="inline">of</add> <del type="cancelled">to</del> a visit <add place="below">^</add> <add place="above">of explanation to</add> <persName>Manenko</persName>
+<lb/>of an offer <add place="inline">of</add> <del type="cancelled">to</del> a visit <add place="below">^</add> <add place="above">of explanation to</add> <persName ref="people.xml#pers0388">Manenko</persName>
 <lb/>we got an answer with a
 <lb/>basket of <term type="plant_foodstuff">Manioc roots</term> that
 <lb/><del type="strikethrough">she</del> we must remain where
@@ -339,7 +339,7 @@ all the <term type="animal">zebras</term> are in these
     <lb/>lady</del></add> 
 <del type="cancelled">This</del> I declined <add place="below">^</add> <add place="above">going at all</add> and proceeded
 <lb/>up the river to the <del type="cancelled">village of
-<lb/><persName>Manenko</persName>'s aunt <persName>Nyamoana</persName></del>
+    <lb/><persName ref="people.xml#pers0388">Manenko</persName>'s aunt <persName ref="people.xml#pers0463">Nyamoana</persName></del>
 <lb/>small river <placeName><geogName type="river">Makondo</geogName></placeName> which
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>7</note></add> enters the <placeName><geogName type="river">Leeba</geogName></placeName> from the
 <lb/>East - and is between <measure>twenty &amp; thirty yards <add place="below">^</add> <add place="above">broad</add></measure></p>
@@ -370,7 +370,7 @@ all the <term type="animal">zebras</term> are in these
 <lb/>and we were informed
 <lb/>that this is the spot where
 <lb/>the <term type="tribe">Mambari</term> cross in coming
-<lb/>to <persName>Masiko</persName> - Their visits explain
+<lb/>to <persName ref="people.xml#pers0327">Masiko</persName> - Their visits explain
     <lb/>why <persName ref="people.xml#pers0518">Sekelenke</persName> <w>ke<subst><del>eps</del><add place="over-text">pt</add></subst></w> his
 <lb/>tusks so carefully - These <term type="tribe">Mambari</term>
 <lb/>are very enterprising <subst><del type="cancelled"><term type="occupation">traders</term></del><add place="above"><term type="occupation">merchants</term></add></subst>
@@ -408,7 +408,7 @@ all the <term type="animal">zebras</term> are in these
 <lb/>the expression "Say, ye are gods!"</p>
 <lb/><p>When about to leave the
 <lb/><term type="tribe">Makondo</term> - one of my men had
-<lb/>dreamed that <persName>Mosantu</persName> was
+    <lb/>dreamed that <persName ref="people.xml#pers0425">Mosantu</persName> was
 <lb/>shut up in a stockade <del type="cancelled">and
 <lb/>unable to</del> a prisoner - this
 <lb/>dream depressed the spirits
@@ -597,9 +597,9 @@ nearly <subst><del>in</del><add place="over-text">half</add></subst> <add place=
 <lb/>dissolve the poison &amp; act as a charm</p>
 <lb/><p>On the <date when="1854-01-06">6<hi rend="sup underline">th</hi> January</date> we reached
 <lb/>the village of another female
-<lb/>chief named <persName>Nyamoana</persName>
+    <lb/>chief named <persName ref="people.xml#pers0463">Nyamoana</persName>
 <lb/>who is said to be the mother
-<lb/>of <persName>Manenko</persName> and sister of
+<lb/>of <persName ref="people.xml#pers0388">Manenko</persName> and sister of
     <lb/><persName ref="people.xml#pers0532">Shinte</persName> or <persName ref="people.xml#pers0532">Kabompo</persName> the
 <lb/>greatest <term type="tribe"><choice><sic>Balond</sic><corr>Balonda</corr></choice></term> <term type="occupation">chief</term> in
 <lb/>this part of the country
@@ -667,7 +667,7 @@ nearly <subst><del>in</del><add place="over-text">half</add></subst> <add place=
 <lb/>with the uncivilized is
 <lb/>unquestionably the best -
 <lb/><persName>Kolimbota</persName> repeated what I
-<lb/>had said to him to <choice><sic><persName>Nyamoana</persName>s</sic><corr><persName>Nyamoana</persName>'s</corr></choice>
+    <lb/>had said to him to <choice><sic><persName ref="people.xml#pers0463">Nyamoana</persName>s</sic><corr><persName ref="people.xml#pers0463">Nyamoana</persName>'s</corr></choice>
 <lb/><term type="occupation">talker</term> - He delivered it all
 <lb/>verbatim to her husband and
 <lb/>he repeated it again to her
@@ -794,7 +794,7 @@ nearly <subst><del>in</del><add place="over-text">half</add></subst> <add place=
 <lb/>in which we wished to go
 <lb/>I was desirous of proceeding
 <lb/>farther in the same direction
-<lb/>with the canoes - but <persName>Nyamoana</persName>
+    <lb/>with the canoes - but <persName ref="people.xml#pers0463">Nyamoana</persName>
 <lb/>was anxious that we should
 <lb/>allow her people to conduct
 
@@ -827,11 +827,11 @@ nearly <subst><del>in</del><add place="over-text">half</add></subst> <add place=
 <lb/>their enemies - This produced
 <lb/>considerable effect on my
 <lb/>companions and inclination
-<lb/>to follow the plan of <persName>Nyamoana</persName>
+    <lb/>to follow the plan of <persName ref="people.xml#pers0463">Nyamoana</persName>
 <lb/>and go to the Town of her
 <lb/>brother rather than ascend the
 <lb/><placeName><geogName type="river">Leeba</geogName></placeName> - The arrival of
-<lb/><persName>Manenko</persName> herself on the
+<lb/><persName ref="people.xml#pers0388">Manenko</persName> herself on the
 <lb/>scene threw so much weight
 <lb/>into the scale on their side
 <lb/>that I was forced to yield
@@ -840,7 +840,7 @@ nearly <subst><del>in</del><add place="over-text">half</add></subst> <add place=
 
     <pb facs="liv_000100_0281.jpg" n="0281"/>
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">280</add></fw>
-<lb/><persName>Manenko</persName> <del type="strikethrough">was</del> is a tall strapping
+<lb/><persName ref="people.xml#pers0388">Manenko</persName> <del type="strikethrough">was</del> is a tall strapping
 <lb/>woman about twenty <del type="cancelled">her husb</del>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>19</note></add> distinguished by a profusion
 <lb/>of ornaments and medicines
@@ -866,7 +866,7 @@ charms. <subst><del type="cancelled">She</del> <add place="above">Her body</add>
     <lb/><add place="marginleft"><note><persName ref="people.xml#pers0506">Sambanza</persName></note></add> with her husband <persName ref="people.xml#pers0506"><choice><orig>Sambanz<del type="cancelled">a</del></orig><reg>Sambanza</reg></choice></persName><metamark function="ed-mark" place="above">x</metamark>
 <lb/>they listened for some time
 <lb/>to the statements I was making
-<lb/>to the people of <persName>Nyamoana</persName>
+    <lb/>to the people of <persName ref="people.xml#pers0463">Nyamoana</persName>
 <lb/>and the husband acting as <term type="occupation">spokesman</term>
 <lb/>commenced an oration
 <lb/>stating the reasons for their
@@ -928,7 +928,7 @@ to keep one foot apart from
     <lb/>I smiles at <persName ref="people.xml#pers0506">Sambanza</persName>'s walk
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>21</note></add> the people remarked "that <choice><orig>shews</orig><reg>shows</reg></choice>
 <lb/>lordship in these parts"</p>
-    <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0572">M<hi rend="sup underline">r</hi> Wilkes</persName></hi></note></add> <persName>Manenko</persName> was quite
+    <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0572">M<hi rend="sup underline">r</hi> Wilkes</persName></hi></note></add> <persName ref="people.xml#pers0388">Manenko</persName> was quite
 <lb/>decided in the policy of friendship
 <lb/>with the <term type="tribe">Makololo</term><add place="inline" rend="gray" hand="#U2">,</add> and by
 <lb/>way of cementing the bond,
@@ -959,11 +959,11 @@ to keep one foot apart from
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">283</add></fw>
 <lb/><del type="strikethrough">Soon after On the same
 <lb/>evening that</del> On the evening
-<lb/>of the day in which <persName>Manenko</persName>
+<lb/>of the day in which <persName ref="people.xml#pers0388">Manenko</persName>
 <lb/>arrived we were delighted
-<lb/><add place="marginleft"><note><persName>Mosantu</persName></note></add> by the appearance of <persName>Mosantu</persName>
+    <lb/><add place="marginleft"><note><persName ref="people.xml#pers0425">Mosantu</persName></note></add> by the appearance of <persName ref="people.xml#pers0425">Mosantu</persName>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>22</note></add> and an imposing embassy
-<lb/>from <persName>Masiko</persName><add place="inline" rend="gray" hand="#U2">;</add> - It consisted
+<lb/>from <persName ref="people.xml#pers0327">Masiko</persName><add place="inline" rend="gray" hand="#U2">;</add> - It consisted
 <lb/>of all his <term type="occupation">underchiefs</term><add place="inline" rend="gray" hand="#U2">,</add> and
 <lb/>they brought a large <term type="animal">Elephant</term>'s
 <lb/>tusk - <add place="inline" rend="gray" hand="#U2">,</add> two calabashes of <term type="foodstuff">honey</term>
@@ -975,7 +975,7 @@ to keep one foot apart from
 <lb/>men's goods at hand that
     <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0290">Dennet</persName></note></add> he could <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- function of gray bracket is unclear. It possibly marks where the editor has begun work.JL -->afford to give presents
 <lb/>of them<add place="inline" rend="gray" hand="#U2">,</add> - They might be intended
-<lb/><add place="marginleft">too,</add> for <del type="cancelled"><unclear cert="medium">M</unclear></del> <persName>Mosantu</persName> - <persName>Masiko</persName> <del type="strikethrough">is</del>
+    <lb/><add place="marginleft">too,</add> for <del type="cancelled"><unclear cert="medium">M</unclear></del> <persName ref="people.xml#pers0425">Mosantu</persName> - <persName ref="people.xml#pers0327">Masiko</persName> <del type="strikethrough">is</del>
 <lb/>expressed delight by his principal
 <lb/>men at the return of the <orgName>captives</orgName><add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>and at the proposal of peace
@@ -1009,7 +1009,7 @@ to keep one foot apart from
 <lb/>as genuine<add place="inline" rend="gray" hand="#U2">,</add> and avoid
 <lb/>in future to give them
 <lb/>any cause for marauding
-<lb/>I presented <persName>Masiko</persName> with
+<lb/>I presented <persName ref="people.xml#pers0327">Masiko</persName> with
 <lb/>an <term type="animal">ox</term> provided by <persName ref="people.xml#pers0519">Sekeletu</persName><add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>as provisions for ourselves
 <lb/>All these people are excessively
@@ -1029,7 +1029,7 @@ to keep one foot apart from
 <lb/>in their love for it the <term type="people">English</term>
 <lb/><supplied cert="high">show</supplied> both good taste and sound
 <lb/>sense - - As it was nominally
-<lb/>for <persName>Masiko</persName><add place="inline" rend="gray" hand="#U2">,</add> his men were
+<lb/>for <persName ref="people.xml#pers0327">Masiko</persName><add place="inline" rend="gray" hand="#U2">,</add> his men were
 <lb/>very anxious to get my sanction
 <lb/>for slaughtering it on the
 <lb/>spot - I replied that when<!-- previous letter under 'w' but it is illegible.JL --> it
@@ -1049,19 +1049,19 @@ to keep one foot apart from
     <lb/>present
     <lb/>with in
     <lb/>return for
-    <lb/><persName>Masiko</persName>'s
+    <lb/><persName ref="people.xml#pers0327">Masiko</persName>'s
     <lb/>generosity</add></p>
 <lb/><p>We were now without
 <lb/>any provisions except a
 <lb/>small dole of <term type="plant_foodstuff">manioc</term> roots
-<lb/>each evening from <persName>Nyamoana</persName><add place="inline" rend="gray" hand="#U2">,</add>
+    <lb/>each evening from <persName ref="people.xml#pers0463">Nyamoana</persName><add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>which<add place="inline" rend="gray" hand="#U2">,</add> when eaten raw<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>produce poisonous effects
 <lb/>A small bit of loaf made
 <lb/>from the last morsel of
 <lb/><term type="plant_foodstuff">maize meal</term> from <placeName><settlement type="village">Libonta</settlement></placeName>
 <lb/>was all my stock<add place="inline" rend="gray" hand="#U2">;</add> - and
-<lb/>our friends from <persName>Masiko</persName>
+<lb/>our friends from <persName ref="people.xml#pers0327">Masiko</persName>
 <lb/>were equally destitute<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>yet we all rejoiced so much
 <lb/>at their arrival that
@@ -1070,7 +1070,7 @@ to keep one foot apart from
 <lb/>of our party meeting with
 <lb/>relatives and friends
 <lb/>among the <term type="tribe">Barotse</term> of
-<lb/><persName>Masiko</persName><add place="inline" rend="gray" hand="#U2">,</add> had many old
+<lb/><persName ref="people.xml#pers0327">Masiko</persName><add place="inline" rend="gray" hand="#U2">,</add> had many old
 <lb/>tales to tell<add place="inline" rend="gray" hand="#U2">,</add> and after pleasant
 <lb/>hungry converse by day
 <lb/>we regaled <del type="cancelled">th</del> our friends
@@ -1078,7 +1078,7 @@ to keep one foot apart from
 <lb/>by night<add place="inline" rend="gray" hand="#U2">,</add> - <del type="strikethrough">I would have</del>
 <lb/>and in order to make the thing
 <lb/><subst><del>as</del><add place="over-text">of</add></subst> as much use to all we
-<lb/>removed our camp up to the village <add place="below">of <persName>Nyamoana</persName></add>
+    <lb/>removed our camp up to the village <add place="below">of <persName ref="people.xml#pers0463">Nyamoana</persName></add>
 
 </p>
 

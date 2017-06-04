@@ -141,7 +141,7 @@
     
     <pb facs="liv_000100_0312.jpg" n="0312"/>               
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">311</add></fw>
-<lb/>When <persName>Manenko</persName> thought the sun
+<lb/>When <persName ref="people.xml#pers0388">Manenko</persName> thought the sun
 <lb/>was high enough for us
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>50</note></add> to make a lucky entrance
 <lb/>we found the town embowered<!-- p290, Missionary, sh -->
@@ -282,7 +282,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/><p rend="no-indent"><note place="inline"><date when="1854-01-17">17<hi rend="sup underline">th</hi> Tuesday</date></note> <space extent="4" unit="chars"/>We were honoured with
     <lb/>a grand reception by <persName ref="people.xml#pers0532">Shinte</persName> about
     <lb/>one <choice><sic>oclock</sic><corr>o'clock</corr></choice> - <persName ref="people.xml#pers0506">Sambanza</persName> claimed the
-<lb/>honour of presenting <subst><del>me</del><add place="over-text">us</add></subst> <persName>Manenko</persName>
+<lb/>honour of presenting <subst><del>me</del><add place="over-text">us</add></subst> <persName ref="people.xml#pers0388">Manenko</persName>
 <lb/>being <add place="below">^</add> <add place="marginleft">slightly</add> indisposed - The <orgName><orgName>Native</orgName> <term type="people">Portuguese</term></orgName>
 <lb/>and <term type="tribe"><choice><orig>Mam<metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>bari</orig><reg>Mambari</reg></choice></term><!-- function of gray barcket is unclear but it connects to the marginal numner.JL --> went fully armed with
     <lb/>guns in order to give <persName ref="people.xml#pers0532">Shinte</persName> <del type="strikethrough">a</del> a
@@ -364,7 +364,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>to one side to avoid another
 <lb/>running backwards or forwards
 <lb/><del type="cancelled">Sp</del> leaping &amp;c - Here - the spokesman
-    <lb/>of <persName>Nyamoana</persName> and <persName ref="people.xml#pers0506">Sambanza</persName>
+    <lb/>of <persName ref="people.xml#pers0463">Nyamoana</persName> and <persName ref="people.xml#pers0506">Sambanza</persName>
 <lb/>stalked backwards &amp; forwards
     <lb/>in front of <persName ref="people.xml#pers0532">Shinte</persName> and gave
 <lb/>forth in a loud voice all
@@ -637,7 +637,7 @@ he had
 <lb/>is a plant which requires
 <lb/>the very best soil</p>
 <lb/><p>During this time
-<lb/><persName>Manenko</persName> had been very busy
+<lb/><persName ref="people.xml#pers0388">Manenko</persName> had been very busy
 <lb/>with all her people in
 <lb/>getting up a very pretty hut
 <lb/>and court yard - to be as

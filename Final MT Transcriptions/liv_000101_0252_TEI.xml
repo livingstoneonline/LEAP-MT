@@ -106,7 +106,7 @@
 <!-- text same as image 238, then 242 and on, sh -->
 <pb facs="liv_000101_0252.jpg" n="0252"/><!-- p.659, last line of page - 660, Missionary Travels, sh -->
 <lb/><p rend="no-indent"><note place="marginleft" hand="#U1" n="U1" rend="gray">P. 659
-<lb/><space extent="2" unit="chars"/>-677</note> <add place="inspace" hand="#U2" n="U2" rend="black"><persName><hi rend="underline"><unclear cert="low">Riegs</unclear></hi></persName></add> <fw><add place="inspace" hand="#U2" n="U2" rend="gray right">1</add> <space extent="2" unit="chars"/><add place="inspace" hand="#U1" n="U1" rend="gray right">200</add></fw></p>
+    <lb/><space extent="2" unit="chars"/>-677</note> <add place="inspace" hand="#U2" n="U2" rend="black"><persName ref="people.xml#pers0494"><hi rend="underline"><unclear cert="low">Riegs</unclear></hi></persName></add> <fw><add place="inspace" hand="#U2" n="U2" rend="gray right">1</add> <space extent="2" unit="chars"/><add place="inspace" hand="#U1" n="U1" rend="gray right">200</add></fw></p>
 <lb/><p>Another effort has been made to attract
 <lb/>commercial enterprise into this region by offering
 <lb/>permission to any mining company, willing to
@@ -375,7 +375,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>of these plants in such abundance <retrace hand="#DL" n="DL"><add place="inline" rend="gray" hand="#U2" n="U2">in</add></retrace> the
 <lb/><placeName><geogName type="river">Shire</geogName></placeName>, may <choice><orig>shew</orig><reg>show</reg></choice> that it flows from large
 <lb/>collections of still water</p>
-<lb/><p rend="no-indent"><add place="inline" hand="#U2" n="U2" rend="black"><note><persName><hi rend="underline">Richards</hi></persName></note></add> A <measure>few miles</measure> beyond the <placeName><geogName type="river">Shíre</geogName></placeName>, we left the
+    <lb/><p rend="no-indent"><add place="inline" hand="#U2" n="U2" rend="black"><note><persName ref="people.xml#pers0492"><hi rend="underline">Richards</hi></persName></note></add> A <measure>few miles</measure> beyond the <placeName><geogName type="river">Shíre</geogName></placeName>, we left the
 <lb/>hills entirely, and sailed between extensive
 <lb/>flats. The banks, seen in the distance, are
 <lb/>covered with trees. We slept on a large
@@ -441,7 +441,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
     <lb/>312—315 in the pamphlet)
     <lb/><add place="inline" hand="#DL" n="DL">with quotation marks along the side &amp;
     <lb/>same type as text</add><anchor xml:id="meta-327"/></note><!-- these notes are enclosed in a large circle, sh -->
-    <lb/><add place="marginleft" hand="#U2" n="U2" rend="gray"><note><persName><hi rend="underline">Rieg</hi></persName></note></add> The conclusions of <persName ref="people.xml#pers0470"><term type="occupation">Captain</term> Parker</persName> are strengthened
+    <lb/><add place="marginleft" hand="#U2" n="U2" rend="gray"><note><persName ref="people.xml#pers0494"><hi rend="underline">Rieg</hi></persName></note></add> The conclusions of <persName ref="people.xml#pers0470"><term type="occupation">Captain</term> Parker</persName> are strengthened
 <lb/>by those of <persName><term type="occupation">Lieutenant</term> A. H. Hoskins</persName>, who was on
 <lb/>the coast at the same time, and also visited this
 <lb/>spot. It ought to be remembered that the
@@ -829,7 +829,7 @@ which brings us to the
 <lb/>to have been the case, the people would have
 <lb/>raised themselves in the scale by barter,
 <lb/>and have become, like the <term type="tribe">Basutos</term> of
-<lb/><persName>Moshesh</persName> and people of <placeName><settlement type="village">Kuruman</settlement></placeName>, possessed
+    <lb/><persName ref="people.xml#pers0426">Moshesh</persName> and people of <placeName><settlement type="village">Kuruman</settlement></placeName>, possessed
 <lb/>of fire arms, and the <orgName>Boers</orgName> would never
 <lb/>have made the attack at all. We ought
 <lb/>to encourage the <orgName>Africans</orgName> to cultivate for

@@ -122,7 +122,7 @@
     <lb/>on account of
     <lb/>its having an
     <lb/>eye</add></p>          
-<lb/><p>The father in law <del type="cancelled"><add place="below">^</add> <add place="above">of <persName ref="people.xml#pers0519">Sekeletu</persName></add></del> <persName>Motibe</persName>
+                <lb/><p>The father in law <del type="cancelled"><add place="below">^</add> <add place="above">of <persName ref="people.xml#pers0519">Sekeletu</persName></add></del> <persName ref="people.xml#pers0443">Motibe</persName>
 <lb/>in beginning to learn seemed
 <lb/>to himself in the position
 <lb/>of the <term type="occupation">doctor</term> who was obliged
@@ -197,7 +197,7 @@ and when at some
 
     <pb facs="liv_000100_0078.jpg" n="0078"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">73</add> <add place="inspace" hand="#U1" rend="gray right">77</add></fw>
-<lb/>knowing that <persName>Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> would
+    <lb/>knowing that <persName ref="people.xml#pers0466">Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> would
 <lb/>no more trade than myself
 <lb/>and that the people of the
 <lb/>Lake would be disappointed
@@ -940,7 +940,7 @@ in order
 
 <pb facs="liv_000100_0097.jpg" n="0097"/> 
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">92</add> <add place="inspace" hand="#U1" rend="gray right">96</add></fw>
-<lb/>The great <term type="occupation">chief</term> <persName>Moshesh</persName>
+    <lb/>The great <term type="occupation">chief</term> <persName ref="people.xml#pers0426">Moshesh</persName>
 <lb/><add place="marginleft">affords</add> <del type="strikethrough" hand="#U3" rend="red">gives</del> an example to his
 <lb/>people annually <subst><del type="strikethrough" hand="#U3" rend="red">of</del><add place="above">by</add></subst> not
 <lb/>only <w>tak<subst><del>e</del><add place="over-text" hand="#U3" rend="red">ing</add></subst></w> the hoe in

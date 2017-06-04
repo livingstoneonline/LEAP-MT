@@ -193,7 +193,7 @@
 <lb/>of the tradition for the sake of which
 <lb/>principally I refer to <del type="cancelled">the</del> genealogy
 <lb/><foreign xml:lang="la"><choice><abbr>et all.</abbr><expan>et alia</expan></choice></foreign> - His father fell fighting
-<lb/>at <placeName><settlement type="village">Culloden</settlement></placeName> on the side of the <persName>Pretender</persName>
+    <lb/>at <placeName><settlement type="village">Culloden</settlement></placeName> on the side of the <persName ref="people.xml#pers0546">Pretender</persName>
 <lb/>He had thus been guilty of treason
 <lb/>which had it only been successful
 <lb/><metamark function="deletion" place="marginleft" rend="gray" resp="#U2" /><!-- this is the proof correction mark for delete. JL --> would have been loyalty of the first
@@ -235,7 +235,7 @@ I leave this word with you. Be
         <lb/>motto - </add> 
 This <add place="below">˄</add> <subst><del type="cancelled">was</del><add place="above">event took place</add></subst> at a time              
 <lb/>when the <orgName>Highlanders</orgName> <retrace hand="#DL"><add place="marginleft" hand="#U2" rend="gray"><metamark function="insertion"/>according to 
-        <lb/><persName>Macaulay</persName></add></retrace>
+    <lb/><persName ref="people.xml#pers0376">Macaulay</persName></add></retrace>
 were much
 <lb/>like the <term type="region">Cape</term> <orgName><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> and any 
 <lb/>one <add place="below">˄</add> <add place="above">it was said,</add> could escape punishment
@@ -406,7 +406,7 @@ deserves my lasting
 <lb/>enterprise</p>
 <lb/><p>In botany I had the guidance
 <lb/>of a book on the plants of
-<lb/><placeName><region>Lanarkshire</region></placeName> by "<persName>Patrick</persName>" <del type="cancelled">which</del>
+    <lb/><placeName><region>Lanarkshire</region></placeName> by "<persName ref="people.xml#pers0472">Patrick</persName>" <del type="cancelled">which</del>
 	
 	<pb facs="liv_000099_0013.jpg" n="0013"/>
 <lb/><fw><subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">(8</add></del><add place="over-text" hand="#U1" rend="gray">11</add></subst></fw>
@@ -861,10 +861,10 @@ to form a
 <lb/>to each other - I being down below
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>- <metamark function="query">?</metamark> of <unclear cert="medium">what</unclear>?</note></add> on the plain with a <orgName>native</orgName> <add place="below">^</add> <subst><del type="strikethrough"><hi rend="gray underline" resp="#U2"><term type="occupation">teacher</term></hi></del><add place="above"><term type="occupation">schoolmaster</term></add></subst> <add place="below" hand="#U2" rend="gray">^</add>  
 <lb/>a most excellent man, called
-<lb/><persName>Mebalwe</persName>, saw one of the <term type="animal">lions</term>
+    <lb/><persName ref="people.xml#pers0401">Mebalwe</persName>, saw one of the <term type="animal">lions</term>
 <lb/>sitting on a piece of rock within
 <lb/>the now closed circle of men -
-<lb/><persName>Mebalwe</persName> fired at it before I could
+    <lb/><persName ref="people.xml#pers0401">Mebalwe</persName> fired at it before I could
 <lb/>and the ball struck the rock on
 <lb/>which the animal was sitting
 <lb/>He bit at the spot struck as a
@@ -897,7 +897,7 @@ to form a
 <lb/>and fired <del type="cancelled">two</del> both barrels into
 <lb/>it - The men then called out
 <lb/>"he is shot" "he is shot - " Others cried
-<lb/>he has been shot by <subst><del type="cancelled"><persName>Matlatle</persName></del><add place="above">another</add></subst> too
+    <lb/>he has been shot by <subst><del type="cancelled"><persName ref="people.xml#pers0396">Matlatle</persName></del><add place="above">another</add></subst> too
 <lb/>Let us go to him." I did not see
 <lb/>any one else shoot at him, so
 <lb/>I said "stop a little till I load again"
@@ -917,7 +917,7 @@ to form a
 <lb/>I turned round <add place="below">^</add> <add place="above">to relieve <choice><sic>mysef</sic><corr>myself</corr></choice> of the weight</add> as he had one
 <lb/>paw on the back of <unclear cert="high">my</unclear> head
 <lb/>and saw <subst><del>him</del><add place="over-text">his</add></subst> eyes directed
-<lb/>to <persName>Mebalwe</persName> who was trying
+    <lb/>to <persName ref="people.xml#pers0401">Mebalwe</persName> who was trying
 <lb/>to shoot him at a distance
 <lb/>of <measure>10 or 15 yards</measure> - His gun
 <lb/><del type="strikethrough">missed</del> being a flint one
@@ -927,7 +927,7 @@ to form a
 <lb/>I had saved <add place="below">˄</add> <add place="above">before</add> after he had been
 <lb/>tossed by a <term type="animal">buffalo</term> attempted
 <lb/>to spear the <term type="animal">lion</term> when he was
-<lb/>biting <persName>Mebalwe</persName> - He left <persName>Mebalwe</persName>
+    <lb/>biting <persName ref="people.xml#pers0401">Mebalwe</persName> - He left <persName ref="people.xml#pers0401">Mebalwe</persName>
 <lb/>caught this man by the shoulder
 <lb/>and then his <del type="cancelled">wounds</del><add place="above">bullets</add> took
 <lb/>effect for he fell down dead
@@ -1017,12 +1017,12 @@ to form a
 <lb/>offer a brief sketch of his
 <lb/><w>car<del type="strikethrough">r</del>eer</w></p>
 <lb/><p>His great grandfather
-<lb/><persName>Mochoasele</persName> was a great traveller
+    <lb/><persName ref="people.xml#pers0429">Mochoasele</persName> was a great traveller
 <lb/>and the first that ever told of
 <lb/>the existence of white men - In his
 <lb/>father's life time two white travellers
 <lb/>whom I suppose to have been
-    <lb/><persName>M<hi rend="sup underline">r</hi> Cowan</persName> and <persName ref="people.xml#pers0296">D<hi rend="sup underline">r</hi> Donovan</persName>
+    <lb/><persName ref="people.xml#pers0283">M<hi rend="sup underline">r</hi> Cowan</persName> and <persName ref="people.xml#pers0296">D<hi rend="sup underline">r</hi> Donovan</persName>
 <lb/>passed through the country and
 <lb/>passing down the <placeName><geogName type="river">Limpopo</geogName></placeName>
 <lb/>were all cut off by <term type="ailment">fever</term>

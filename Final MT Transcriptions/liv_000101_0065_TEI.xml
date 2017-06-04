@@ -715,7 +715,7 @@ We met numbers of
 
 <pb facs="liv_000101_0080.jpg" n="0080"/>  
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right">41</add> <add place="inspace" hand="#U1" rend="gray right">78</add></fw> 
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName>Powell</persName></note></add> of trees had been planted along
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0482">Powell</persName></note></add> of trees had been planted along
 <lb/>each side of the road
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>290</note></add> with <term type="plant_foodstufff"><choice><orig>pine apples</orig><reg>pineapples</reg></choice></term> and
 <lb/>flowers between - This

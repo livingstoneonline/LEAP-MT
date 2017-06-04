@@ -872,7 +872,7 @@ were
 
 
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">40</add></fw></p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName>Mead</persName></hi></note></add> From the village of <placeName><geogName type="village">Cassangé</geogName></placeName>
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0400">Mead</persName></hi></note></add> From the village of <placeName><geogName type="village">Cassangé</geogName></placeName>
 <lb/>we have a good view
 <lb/>of the surrounding country -
 <lb/>It is a gently undulating
