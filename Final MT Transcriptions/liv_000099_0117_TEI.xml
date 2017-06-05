@@ -332,7 +332,7 @@ But there is
 
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">115</add> <add place="inspace" hand="#U1" rend="gray right">118</add> <add place="inspace" hand="#U2" rend="gray right">30</add></fw>   
 <lb/>to indicate mental imbecility
-<lb/>"Well <persName>Livingston</persName> <hi rend="underline">has</hi> played
+    <lb/>"Well <persName ref="people.xml#pers0372"><choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName> <hi rend="underline">has</hi> played
 <lb/>us a pretty trick giving us
 <lb/>in charge of an idiot - Catch
 <lb/>me trusting him again - What
@@ -356,7 +356,7 @@ But there is
 <lb/>kind occur - A man may tell
 <lb/>his interpreter to say he is a
 <lb/>member of the <add place="below">^</add> <add place="above">family of the</add> <term type="occupation">chief</term> of the white
-<lb/>men - "<hi rend="underline">Yes, you speak like a <term type="occupation">chief"</term></hi>
+<lb/>men - "<hi rend="underline">Yes, you speak like a <term type="occupation">chief</term>"</hi>
 <lb/><add place="marginleft">is the reply <add place="below">^</add> </add> meaning, that a <term type="occupation">chief</term> may talk
 <lb/>nonsense without any one
 <lb/>daring to contradict him - 

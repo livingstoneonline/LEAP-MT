@@ -319,7 +319,7 @@ South <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- squar
 <lb/>man ought to impose a
 <lb/>tribute on a party that
 <lb/>did not trade in <orgName>slaves</orgName> 
-<lb/>The <term type="occupant">servants</term> who brought 
+<lb/>The <term type="occupation">servants</term> who brought 
 <lb/>the message said that
 <lb/>when sent to the <term type="tribe">Mambari</term>
 <lb/>they had always got a
@@ -656,7 +656,7 @@ We would not
 <lb/>were familiar with the
 <lb/>visits of <orgName><term type="occupation"><orgName>slave</orgName> traders</term></orgName><add place="inline" rend="gray" hand="#U2">,</add> and
 <lb/>that it was the opinion 
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>38</note></add> of our <term type="occupation">guides</term> from <persName>Kangenke</persName>
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note>38</note></add> of our <term type="occupation">guides</term> from <persName ref="people.xml#pers0342">Kangenke</persName>
 <lb/>that <del type="strikethrough">they</del> so many
 <lb/>of my companions would
 <lb/>be demanded from me
@@ -737,7 +737,7 @@ We would not
 <lb/>rivulet called <placeName><geogName type="rivulet">Chihuné</geogName></placeName>
 <lb/>in a lovely valley<add place="inline" rend="gray" hand="#U2">,</add> and
 <lb/>had for a wonder
-<lb/>a <term type="weather">clear sky</term> - and a clear
+<lb/>a <seg type="weather">clear sky</seg> - and a clear
 <lb/>moon - but such was
 <lb/>the confusion produced
 <lb/>in the mind by the

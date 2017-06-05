@@ -132,7 +132,7 @@
 <del type="cancelled">they</del> it does not so soon pall upon their palates
 <lb/>as one might imagine when told that it <del type="cancelled" hand="#DL" n="DL">is</del>
 <lb/><add place="marginleft" hand="#DL" n="DL">constitutes</add> their principal food <space extent="6" unit="chars"/>The leaves, boiled
-<lb/>make an excellent <term type="plant_foodstuff">vegetable</term> for <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">the</add> table and
+<lb/>make an excellent <term type="foodstuff">vegetable</term> for <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">the</add> table and
 <lb/>when eaten by <term type="animal">goats</term> their <term type="foodstuff">milk</term> is much
 <lb/>increased <space extent="3" unit="chars"/>The wood is a good fuel and
 <lb/>yields a large quantity of potash. <space extent="2" unit="chars"/>If planted
@@ -171,7 +171,7 @@
 <lb/>of the <term type="occupation">carriers</term> and <orgName>slaves</orgName> <del type="strikethrough">by me</del> over a footpath</p>
 <lb/><p><placeName><settlement type="town">Cambambe</settlement></placeName> to which the <add place="below">^</add> <del type="strikethrough"><add place="above">canoe</add></del> navigation
 <lb/>of the <placeName><settlement type="town">Coanza</settlement></placeName> reaches is reported to be <measure>thirty
-<lb/>leagues</measure> below <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName> <space extent="2" unit="chars"/>A large waterfall
+<lb/>leagues</measure> below <placeName><region>Pungo Andongo</region></placeName> <space extent="2" unit="chars"/>A large waterfall
 <lb/>is the limit on that side and another exists
 <lb/>higher up at the confluence of the <placeName><geogName type="river">Lombe</geogName></placeName>
 <lb/>over which <term type="animal">hippopotami</term> and <term type="animal">elephants</term>
@@ -261,7 +261,7 @@ to furnish them with every article in
 <lb/><term type="occupation">Priests</term>, if not to love, to good works</p>
 <lb/><p><note><date when="1855-01-01">1<hi rend="sup">st</hi> <choice><abbr>Jan<hi rend="sup underline">y</hi></abbr><expan>January</expan></choice> 1855</date>.</note> <space extent="2" unit="chars"/>Having through the kindness of <!-- p428 Missionary Travels, sh -->
     <lb/><persName ref="people.xml#pers0478"><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> Pires</persName> reproduced some <choice><abbr>`</abbr><expan>of</expan></choice> my lost papers I
-<lb/>left <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName> the first day <choice><abbr>`</abbr><expan>of</expan></choice> this year<!-- Grave accent seems to be abbrev for 'of', sh -->
+<lb/>left <placeName><region>Pungo Andongo</region></placeName> the first day <choice><abbr>`</abbr><expan>of</expan></choice> this year<!-- Grave accent seems to be abbrev for 'of', sh -->
 <lb/>and at <placeName><settlement type="village">Candumba</settlement></placeName> slept in one <del type="strikethrough"><choice><abbr>`</abbr><expan>of</expan></choice> his</del>
 <lb/>the dairy establishments of my friend who
 <lb/>had sent forward orders for an ample
