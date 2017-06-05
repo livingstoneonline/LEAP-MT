@@ -318,7 +318,7 @@ and happily
 <lb/><fw> <add place="inspace" hand="#U1" rend="gray right">27</add></fw>
 <lb/>a small <bibl>cyclopaedia</bibl> and a
 <lb/><bibl><term type="nationality">Portuguese</term> dictionary</bibl> - in which
-<lb/>the definition of a "<term type="occuption">Priest</term>"
+<lb/>the definition of a "<term type="occupation">Priest</term>"
 <lb/><add place="marginleft">seemed</add> <add place="below">^</add> <del type="strikethrough">sounded</del> <del type="cancelled"><add place="below">^</add> <add place="above">rather</add></del> strange to a <orgName>Protestant</orgName>
 <lb/><choice><abbr>viz</abbr><expan>videlicet</expan></choice> - "one who takes care of the
 <lb/>conscience"- They had also
@@ -411,7 +411,7 @@ The <term type="foodstuff">farina</term>
 <lb/>Next day this is roasted
 <lb/>slightly on a metal plate
 <lb/>over a fire and is then
-<lb/>used with <term type="food">meat</term> as a <term type="food">vegetable</term>
+<lb/>used with meat as a vegetable
 
 
     <pb facs="liv_000101_0030.jpg" n="0030"/>
@@ -719,7 +719,7 @@ but that
 <lb/><placeName><geogName type="village">Cassangé</geogName></placeName> - The coloured 
 <lb/>population dressed up a
 <lb/>figure intended to represent
-<lb/><persName>Judas Iscariot</persName> and paraded
+    <lb/><persName ref="people.xml#pers0336">Judas Iscariot</persName> and paraded
 <lb/>him <add place="marginleft"><metamark function="insertion"/>on a riding <term type="animal">ox</term></add> about the village;
 <lb/>sneers and maledictions
 <lb/>were freely bestowed on
@@ -899,7 +899,7 @@ were
 <lb/>West of this and we
 <lb/>should not see that river
 <lb/>till we <del type="strikethrough">were</del> came near
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>43</note></add> <placeName><settlement type="village">Pungo Andongo</settlement></placeName> - It is somewhat
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>43</note></add> <placeName><region>Pungo Andongo</region></placeName> - It is somewhat
 <lb/>remarkable that more accurate
 <lb/>information <metamark function="insertion"/><anchor xml:id="reorder-97"/> has not been
 <lb/><add place="marginleft">published</add> <del type="strikethrough">given</del> <metamark function="reorder" spanTo="#meta-225"/><seg corresp="#reorder-97">about this country</seg><anchor xml:id="meta-225"/>,
@@ -926,7 +926,7 @@ were
 <lb/>but all insignificant except
 <lb/>that <del type="cancelled">to</del> which drains
 <lb/>this valley - The <choice><sic>repitition</sic><corr>repetition</corr></choice>
-<lb/>of the <add place="below">^</add> <add place="above">favourite</add> names of <term type="occupation">chiefs</term> <add place="below" rend="gray" hand="#U2">^</add> <add place="above" rend="gray" hand="#U2">as <persName>Catendé</persName></add> is
+<lb/>of the <add place="below">^</add> <add place="above">favourite</add> names of <term type="occupation">chiefs</term> <add place="below" rend="gray" hand="#U2">^</add> <add place="above" rend="gray" hand="#U2">as <persName ref="people.xml#pers0276">Catendé</persName></add> is
     <lb/>also perplexing one <persName ref="people.xml#pers0276">Catende</persName>
 <lb/><metamark function="unknown" place="marginleft" rend="gray" resp="#U2"/> <del type="strikethrough" rend="gray" hand="#U2">for instance</del> may be <add place="inline" rend="gray" hand="#U2">...</add>
 <lb/>mistaken <del type="cancelled">for another</del>

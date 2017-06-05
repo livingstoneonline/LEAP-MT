@@ -686,7 +686,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>for the night - <term type="foodstuff">Coffee</term> again
 <lb/>and a <term type="foodstuff">biscuit</term> or a piece
 <lb/>of coarse <term type="foodstuff">bread</term> made of <term type="foodstuff">maize
-<lb/>meal</term> or that of the <term type="occupation">native</term> <term type="plant_foodstuff">corn</term>
+<lb/>meal</term> or that of the native <term type="plant_foodstuff">corn</term>
 <lb/>(<term type="plant_foodstuff"><orgName>Caffre</orgName> Sorghum</term>) make the bill 
 <lb/>of fare for the evening
 <lb/>unless we have been fortunate 
@@ -751,7 +751,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>occurred on our way up
 <lb/>to <placeName><settlement type="village">Nameta</settlement></placeName> - There we heard
 <lb/>that a party of the <term type="tribe">Makololo</term>
-<lb/>headed by <persName>Lerimo</persName> had made
+    <lb/>headed by <persName ref="people.xml#pers0369">Lerimo</persName> had made
 <lb/>a foray to the North and
 <lb/>up the <placeName><geogName type="river">Leeba</geogName></placeName> in the very
 <lb/>direction we were about
@@ -769,7 +769,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>near <placeName><settlement type="town">Naliele</settlement></placeName> to draw away
 <lb/>the remaining <term type="tribe">Barotse</term>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>41</note></add> from their allegiance -
-<lb/><persName>Lerimo</persName>'s party had taken
+    <lb/><persName ref="people.xml#pers0369">Lerimo</persName>'s party had taken
 <lb/>some of this <persName ref="people.xml#pers0327">Masiko</persName>'s <del type="cancelled">chil</del>
 <lb/>subjects prisoners and 
 <lb/>destroyed several villages
@@ -811,7 +811,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>present heartily approved all
 <lb/>I said and farther suggested
 <lb/>that all the <orgName>captives</orgName> 
-<lb/>taken by <persName>Lerimo</persName> should be
+        <lb/>taken by <persName ref="people.xml#pers0369">Lerimo</persName> should be
 <lb/>returned by my hand to
 
 
@@ -836,7 +836,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>we reached that place on the
 <lb/><date when="1853-12-09">9<hi rend="sup">th</hi> December</date> did so in an
 <lb/>assembly (<foreign xml:lang="tn">picho</foreign>) called expressly
-<lb/>for the purpose - <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-256"/><persName>Lerimo</persName> was
+        <lb/>for the purpose - <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-256"/><persName ref="people.xml#pers0369">Lerimo</persName> was
     <lb/>present and
     <lb/>felt rather <w>crest -
     <lb break="no"/>fallen</w> when his
@@ -993,7 +993,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <lb/>own perquisites - <persName ref="people.xml#pers0432">Mpololo</persName> now
 <lb/>acts the great man and is followed
 <lb/><seg rend="left">everywhere by a crowd of toadies, who sing songs
-<lb/>in disparagement of <persName>Mpépe</persName> of whom he always
+    <lb/>in disparagement of <persName ref="people.xml#pers0431">Mpépe</persName> of whom he always
 <lb/>lived in fear - While <persName ref="people.xml#pers0431">Mpepe</persName> was alive
 <lb/>he was <space extent="2" unit="chars"/>regaled with the same fulsome
 <lb/>adulation &amp; now they curse him - They

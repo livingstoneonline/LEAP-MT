@@ -533,7 +533,7 @@
 <lb/>the distress its non-removal
 <lb/>in the natural manner
 <lb/>caused - She was a beautiful
-<lb/>creature and <persName>Lebeole</persName> <add place="marginleft"><metamark function="insertion"/>a <term type="tribe">Makololo</term>
+    <lb/>creature and <persName ref="people.xml#pers0367">Lebeole</persName> <add place="marginleft"><metamark function="insertion"/>a <term type="tribe">Makololo</term>
     <lb/>who accompanied
     <lb/>me</add>
 speaking   
@@ -793,7 +793,7 @@ speaking
 <lb/><del type="cancelled"><gap extent="2" unit="chars"/> they</del> have left no memorial
 <lb/>behind them - We dug out
 <lb/>some of an inferior kind
-<lb/>of <term target="plant_foodstuff">yam</term> <space extent="9" unit="chars"/>from his
+<lb/>of <term type="plant_foodstuff">yam</term> <space extent="9" unit="chars"/>from his
 <lb/>garden but one never expects
 <lb/>to find a grave nor a stone
 <lb/>of remembrance set up in
@@ -865,20 +865,20 @@ is the true
     
         <pb facs="liv_000100_0139.jpg" n="0139"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">134</add> <add place="inspace" hand="#U1" rend="gray right">138</add></fw>
-<lb/>exactly as <placeName><geogName type="region">Lower Egypt</geogName></placeName> is
+<lb/>exactly as <placeName><region>Lower Egypt</region></placeName> is
 <lb/><seg type="weather">flooded by the <placeName><geogName type="river">Nile</geogName></placeName></seg> The
 <lb/>villages of the <term type="tribe">Barotse</term> are
 <lb/>built on mounds some of
 <lb/>which are said to have
 <lb/>been raised artificially by
-    <lb/><persName ref="people.xml#pers0441">Santuru</persName> a former <term type="occuaption">chief</term> of
+    <lb/><persName ref="people.xml#pers0441">Santuru</persName> a former <term type="occupation">chief</term> of
 <lb/>the <term type="tribe">Barotse</term> and during
 <lb/>the <seg type="weather">inundation</seg> the whole
 <lb/>valley assumes the appearance
 <lb/>of <w>a<del type="strikethrough">n</del></w> <del type="strikethrough">immense</del> large lake
 <lb/>with the villages on the
 <lb/>mounds as islands just
-<lb/>as occurs in <placeName><geogName type="country">Egypt</geogName></placeName> with
+<lb/>as occurs in <placeName><country>Egypt</country></placeName> with
 <lb/>villages of the <term type="people">Egyptians</term>
 <lb/>Some portion of this <seg type="weather">waters
 <lb/>of inundation</seg> <w>come<add place="inline" rend="red" hand="#U3">s</add></w> from

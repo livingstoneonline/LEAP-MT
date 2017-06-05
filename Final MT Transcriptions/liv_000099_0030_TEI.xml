@@ -255,12 +255,12 @@
 <lb/><fw><add place="inline" hand="#U2" rend="gray right">29</add> <add place="inline" rend="gray right" hand="#U1">32</add></fw>
 <lb/>for I never went into the town
 <lb/>but was pressed to hear him read
-<lb/>some chapters of the <bibl>bible</bibl> <add place="marginleft"><metamark function="insertion"/><persName>Isaiah</persName> was a
+    <lb/>some chapters of the <bibl>bible</bibl> <add place="marginleft"><metamark function="insertion"/><persName ref="people.xml#pers0330">Isaiah</persName> was a
 		<lb/>great favourite
 		<lb/>and he used
 		<lb/>the same phrase
 		<lb/>nearly as our
-		<lb/><term type="occupatoin">Professor</term> of
+		<lb/><term type="occupation">Professor</term> of
 		<lb/>Greek at <placeName><settlement type="city">Glasgow</settlement></placeName>
     <lb/><persName ref="person.xml#pers0508">Sir D. K. Sandford</persName>
 		<lb/>used respecting
@@ -271,7 +271,7 @@
 		<lb/>"He was a fine"
     <lb/>fellow that <persName ref="people.xml#pers0504">Paul</persName>"
 		<lb/>"He was a fine
-		<lb/>man that <persName>Isaiah</persName>
+        <lb/>man that <persName ref="people.xml#pers0330">Isaiah</persName>
 		<lb/>He knew how 
 		<lb/>to speak"</add> 
 and

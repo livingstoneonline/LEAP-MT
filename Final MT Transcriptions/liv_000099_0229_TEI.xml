@@ -150,7 +150,7 @@
 <lb/>physical appearance and
 <lb/>population These are more
 <lb/>marked beyond <w>than<add place="above" rend="red" hand="#U3">an</add></w> within<!-- I think maybe the editor is clarifying the word. it looks like 'them', but it might be a badly written 'than', sh --><!-- Agreed. DL has initially written 'than', but the editor is adding clarity.JL -->
-<lb/>the Colony - At some points
+    <lb/>the <placeName><region>Colony</region></placeName> - At some points
 <lb/><del type="cancelled"><unclear cert="low">too</unclear></del>, one district seems to be
 <lb/>continued <subst><del type="cancelled">into</del><add place="above">in</add></subst> and merge into
 <lb/>the other, but the general
@@ -307,7 +307,7 @@
 <lb/>by the geological formation
 <lb/>of the country - There <subst><del><unclear cert="medium">is a</unclear></del><add place="over-text">seems</add></subst> 
 <lb/><add place="marginleft">to be</add> a rim or fringe of ancient
-<lb/>rocks <del type="cancelled">all</del> round <placeName><region>the great
+<lb/>rocks <del type="cancelled">all</del> round the <placeName><region>great
 <lb/>central valley</region></placeName> which generally
 <lb/>dip into an ancient basin
 <lb/><del type="cancelled">wh</del> the bottom of which is
@@ -396,7 +396,7 @@
 <lb break="no"/>hesitatingly</w> recommend
 <lb/>any <term type="occupation">farmer</term> at all afraid
 <lb/>of that complaint to
-<lb/>try the Colony in preference
+    <lb/>try the <placeName><region>Colony</region></placeName> in preference
 <lb/>to <space extent="3" unit="chars"/><placeName><geogName type="island">Madeira</geogName></placeName> <space extent="3" unit="chars"/>With the
 <lb/>means of education already
 <lb/>possessed and the onward
@@ -516,7 +516,7 @@
     <lb/>our progenitors <persName ref="people.xml#pers0245">Adam</persName> and <persName ref="people.xml#pers0299">Eve</persName> 
 <lb/><add place="inline" hand="#U3" rend="red">to have been - </add></p>
 <lb/><space dim="vertical" extent="5" unit="lines"/>
-<lb/><p>The parts of the Colony through
+                <lb/><p>The parts of the <placeName><region>Colony</region></placeName> through
 <lb/>which we passed were
 <lb/>of sterile aspect and <del type="strikethrough">as the
 <lb/>time of our passing was</del> being
@@ -703,13 +703,13 @@
 <lb/>would have been to a
 <lb/><orgName>Rhenish</orgName> <term type="occupation">missionary</term> I met
 <lb/>at a part in the West of the
-<lb/>colony called <placeName><settlement type="village">Ebenezer</settlement></placeName>
+    <lb/><placeName><region>colony</region></placeName> called <placeName><settlement type="village">Ebenezer</settlement></placeName>
 <lb/>whose children had never
 <lb/>seen flowers though old
 <lb/>enough to talk about them - </p>
 <lb/><p><del type="cancelled" rend="gray" hand="#U2"><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/></del> The slow pace at which
 <lb/>we wound our way through
-<lb/>the Colony made almost
+    <lb/>the <placeName><region>Colony</region></placeName> made almost
 <lb/>any subject interesting - The
 <lb/>attention is attracted to the names
 <lb/>of different places because
@@ -900,7 +900,7 @@
 <lb/>than <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">a</add> pastoral people - Each
 <lb/>farm must have its fountain
 <lb/>and where no such supply of
-<lb/>water exists the <term type="orgName">Government</term>
+<lb/>water exists the <orgName>Government</orgName>
 <lb/>lands are unsaleable - An acre
 <lb/>in <placeName><country>England</country></placeName> is thus <subst><del>oft</del><add place="over-text">m</add></subst>ore valuable
 <lb/>than a <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">square</add> mile in <placeName><bloc>Africa</bloc></placeName> - But
@@ -931,7 +931,7 @@
 <lb/>prejudicial to the country behind
 <lb/>for <subst><del type="strikethrough">industry</del><add place="above">labour</add></subst> which would
 <lb/>be directed to the improvement
-<lb/>of the Colony is withdrawn
+    <lb/>of the <placeName><region>Colony</region></placeName> is withdrawn
 <lb/>and expended in a mode of
 <lb/>life little adapted for the exercise
 <lb/>of industrial habits - That however

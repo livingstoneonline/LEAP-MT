@@ -126,7 +126,7 @@
 <lb/><add place="marginleft">reedy</add> pool was also dry - The hot
 <lb/>salt spring of <placeName><geogName type="fountain">Serinane</geogName></placeName> East of
 <lb/><placeName><geogName type="well">Lopepe</geogName></placeName> <subst><del><unclear cert="medium">was</unclear></del><add place="over-text">being</add></subst> undrinkable
-<lb/>we pushed on to <placeName><settlement type="town">Mashue</settlement></placeName>
+<lb/>we pushed on to <placeName><geogName type="well">Mashue</geogName></placeName>
 <lb/><add place="marginleft">for</add> <del type="strikethrough">with</del> its delicious waters
 <lb/>In travelling through this country
 <lb/>the olfactory <del type="strikethrough">organ</del> nerves
@@ -264,7 +264,7 @@ make a very agreeable dish
 <lb break="no"/><add place="marginleft">-wards <add place="below">^</add></add></w> away from that line has much
 <lb/>more acute eyesight &amp; is much <add place="marginleft">more wary</add></p>
 <lb/><p>All the wild animals are subject
-<lb/>to <term type="ailment_animla">intestinal worms</term> besides,
+<lb/>to <term type="ailment_animal">intestinal worms</term> besides,
 <lb/>I have observed bunches of a
 <lb/><term type="animal">tape</term>like <term type="animal">worm</term> - thread and
 <lb/>short <term type="animal">worms</term> of enlarged size
@@ -538,7 +538,7 @@ was bitten <del type="cancelled">by the</del>
 <lb/>of a man</del> on another
 <lb/>occasion <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">one of our party was</add> lying sound
 <lb/>asleep between two <orgName>natives</orgName>
-<lb/>behind a bush at <placeName><settlement type="village">Mashue</settlement></placeName>
+<lb/>behind a bush at <placeName><geogName type="well">Mashue</geogName></placeName>
 <lb/>The fire was nearly out
 <lb/>at their feet in consequence
 <lb/>of <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">their</add> all being <subst><del type="strikethrough" hand="#U3" rend="red">utterly</del><add place="above" hand="#U3" rend="red">completely</add></subst> tired
@@ -592,7 +592,7 @@ was bitten <del type="cancelled">by the</del>
 <lb/>carcase along - <add place="below">^</add> <add place="above">the ground</add> They have
 <lb/>sprung on some occasions
 <lb/>on to the hind quarters of
-<lb/>a<del type="strikethrough">n</del> <del type="cancelled"><gap extent="1" unit="chars"/></del> <term type="type">horse</term> but no one
+<lb/>a<del type="strikethrough">n</del> <del type="cancelled"><gap extent="1" unit="chars"/></del> <term type="animal">horse</term> but no one
 <lb/>has ever seen them on the
 <lb/>withers of a <term type="animal">giraffe</term> - - They
 <lb/>do not mount on the
@@ -603,7 +603,7 @@ was bitten <del type="cancelled">by the</del>
     <lb/>to this page</note><anchor xml:id="meta-116"/></add>
 even<add place="inline" hand="U3" rend="red">,</add> but try to draw
 <lb/>him down with <w>the<add place="inline" hand="#U3" rend="red">ir</add></w> claws
-    <lb/>Mess<hi rend="sup underline">rs</hi> <persName ref="people.xml#pers0466"><choice><sic>Oswel</sic><corr>Oswell</corr></choice> and <persName ref="people.xml#pers0557">Vardon</persName>
+    <lb/>Mess<hi rend="sup underline">rs</hi> <persName ref="people.xml#pers0466"><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and <persName ref="people.xml#pers0557">Vardon</persName>
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">were spectators of</del><add place="above" hand="#U3" rend="red">once saw</add></subst> three
 <lb/><term type="animal">lions</term> endeavouring to
 <lb/>drag down a <term type="animal">buffalo</term>
@@ -840,7 +840,7 @@ and both were
 <lb/>than those farther south. <del type="cancelled"><metamark function="insertion"/></del> We
 <lb/>scarcely ever heard them roar at all <add place="below">-</add></p>
 <lb/><p><metamark function="insertion"/><anchor xml:id="add-5"/> In the country adjacent
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>87</note></add> to <placeName><settlement type="town">Mashüe</settlement></placeName> great numbers
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>87</note></add> to <placeName><geogName type="well">Mashüe</geogName></placeName> great numbers
 <lb/>of different kinds of <term type="animal">mice</term>
 <lb/><add place="marginleft"><note>*<hi rend="underline"><foreign xml:lang="la"><term type="animal">Mus Lehocla</term></foreign></hi> (<bibl><persName>Smith</persName></bibl>)</note></add> <del type="strikethrough">are</del> exist - <add place="inline">*</add> The ground is
 <lb/>often so undermined with
@@ -896,7 +896,7 @@ When in
 <lb/>
 <lb/><figure><figDesc>hand pointing to page n="0350"</figDesc></figure></add> <add place="inline" corresp="#add-7">On the plain south of <persName ref="people.xml#pers0515">Sebituane</persName>'s ford
 <lb/>a herd of <term type="animal">buffaloes</term> kept a number
-<lb/>of <term type="animals">lions</term> <del type="strikethrough">off</del><add place="above" hand="#U3" rend="red">from</add> <subst><del><unclear cert="low">Being</unclear></del><add place="over-text">their</add></subst> young by the
+<lb/>of <term type="animal">lions</term> <del type="strikethrough">off</del><add place="above" hand="#U3" rend="red">from</add> <subst><del><unclear cert="low">Being</unclear></del><add place="over-text">their</add></subst> young by the
 <lb/>males turning their heads to the
 <lb/>enemy - The young and <term type="animal">cows</term>
 <lb/>were in the rear - One toss

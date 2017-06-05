@@ -547,7 +547,7 @@ then part with mutual
 <lb/>path which leads from
 <lb/><placeName><settlement type="village">Cassange</settlement></placeName> and <placeName><geogName type="plateau">Bihe</geogName></placeName> to
     <lb/><persName ref="people.xml#pers0444">Matiamvo</persName> - by a <term type="occupation">head-man</term>
-<lb/>named <persName>Kamboela</persName> - This
+    <lb/>named <persName ref="people.xml#pers0341">Kamboela</persName> - This
 <lb/>was a well beaten <w>foot<supplied>-</supplied>
 <lb break="no"/>path</w> and soon after
 <lb/>entering upon it we
@@ -784,7 +784,7 @@ meadow
 <lb/>severe <add place="marginleft"><metamark function="insertion"/>from having
     <lb/>lived on
     <lb/><term type="plant_foodstuff">manioc</term> <add place="below">^</add> <add place="above">alone</add>, since
-    <lb/>leaving <persName>Ionga
+    <lb/>leaving <persName ref="people.xml#pers0328">Ionga
     <lb/>Panza</persName>'s - we<metamark function="substitution">/</metamark></add> 
 slaughtered one of
 <lb/>our four remaining <term type="animal"><term type="foodstuff">oxen</term></term> <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-266"/>The people of
@@ -810,7 +810,7 @@ slaughtered one of
 <lb/>nor <term type="plant_foodstuff">manioc</term> but would
 <lb/>have been comfortable had
 <lb/>not the <term type="tribe">Bashinje</term> <term type="occupation">chief</term>
-<lb/><persName>Sansáwé</persName> pestered us for the
+<lb/><persName ref="people.xml#pers0510">Sansáwé</persName> pestered us for the
 <lb/>customary present - The
 <lb/><orgName>native</orgName> <term type="occupation">traders</term> informed
 <lb/>us that a display of force

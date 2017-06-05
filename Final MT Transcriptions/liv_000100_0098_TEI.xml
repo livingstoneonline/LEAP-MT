@@ -148,8 +148,8 @@
 <lb/>principal <term type="foodstuff">grain</term> - with
 <lb/><term type="plant_foodstuff">maize</term>, two kinds of <term type="foodstuff">beans</term>
 <lb/><term type="foodstuff">Earth nuts</term> (<foreign xml:lang="la"><term type="foodstuff"><choice><orig>arachis hypogoea</orig><reg>arachis hypogaea</reg></choice></term></foreign>)
-<lb/><term type="foodstuff">pumpkins</term> <term type="foodstuff">water melons</term>
-<lb/>and <term type="foodstuff">cucumbers</term> - <seg type="weather">They
+<lb/><term type="plant_foodstuff">pumpkins</term> <term type="plant_foodstuff">water melons</term>
+<lb/>and <term type="plant_foodstuff">cucumbers</term> - <seg type="weather">They
 <lb/>depend for success entirely
 <lb/>upon rain</seg> - Those who
 <lb/>live in the <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName>
@@ -221,7 +221,7 @@
 <lb/>aggrieved because they
 <lb/>had been overlooked fled
 <lb/>to other <term type="occupation">chiefs</term> - One such
-<lb/>having fled to <persName>Lechulatebe</persName>
+    <lb/>having fled to <persName ref="people.xml#pers0370">Lechulatebe</persName>
 <lb/>was encouraged to go
 <lb/>to a village of the <term type="tribe">Bapalleng</term>
 <lb/>on the river <placeName><geogName type="river">Chō</geogName></placeName> or <placeName><geogName type="river">Tsō</geogName></placeName>
@@ -233,7 +233,7 @@
     <lb/><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> on the 8th day</del></note><anchor xml:id="meta-164"/></add>    
 <term type="tribe">Makololo</term> because they
 <lb/>all felt it to be a personal
-<lb/>loss - Some of <choice><sic><persName>Lechulatebe</persName>s</sic><corr><persName>Lechulatebe</persName>'s</corr></choice>
+    <lb/>loss - Some of <choice><sic><persName ref="people.xml#pers0370">Lechulatebe</persName>s</sic><corr><persName ref="people.xml#pers0370">Lechulatebe</persName>'s</corr></choice>
 <lb/>people having come <del type="cancelled"><hi rend="red underline" resp="#U3">on</hi></del><metamark function="ed-mark" place="above" rend="red" resp="#U3">X</metamark> 
 <lb/><del type="cancelled"><hi rend="red underline" resp="#U3">the 8<hi rend="sup">th</hi></hi></del> a demonstration
 <lb/>was made in which about
@@ -242,7 +242,7 @@
 <lb/>fight - The principal
 <lb/><term type="occupation">warriors</term> pointed their
 <lb/>spears towards the Lake
-<lb/>where <persName>Lechulatebe</persName> lives
+    <lb/>where <persName ref="people.xml#pers0370">Lechulatebe</persName> lives
 <lb/>and every thrust in that
 <lb/>direction was answered
 <lb/><del type="strikethrough">by</del> <add place="marginleft"><metamark function="insertion" rend="red" resp="#U3"/>by all with</add> the shout "hōō" while
@@ -263,7 +263,7 @@
 
 <pb facs="liv_000100_0102.jpg" n="0102"/>             
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">97</add> <add place="inspace" hand="#U1" rend="gray right">101</add></fw>
-<lb/>This offence of <persName>Lechulatebe</persName>
+    <lb/>This offence of <persName ref="people.xml#pers0370">Lechulatebe</persName>
 <lb/>was aggravated by repetition
 <lb/>and a song sung in his
 <lb/>town <subst><del>on</del><add place="over-text">in</add></subst> dances which
@@ -273,7 +273,7 @@
 <lb/>in peace with those at the
 <lb/>Lake and <persName ref="people.xml#pers0519">Sekeletu</persName> felt
 <lb/>disposed to follow his advice
-<lb/>but <persName>Lechulatebe</persName> had now
+    <lb/>but <persName ref="people.xml#pers0370">Lechulatebe</persName> had now
 <lb/>got possession of fire arms
 <lb/>and considered himself more
 <lb/>than a match for the <term type="tribe">Makololo</term>
@@ -307,7 +307,7 @@
 <lb/>to the enormity of <add place="below" hand="#U3" rend="red">^</add> <add place="marginleft" hand="#U3" rend="red"> the crime</add> <del type="cancelled">taking</del>
 <lb/><add place="marginleft"><add place="inline" rend="red" hand="#U3">of</add> destroying <add place="below">^</add></add> human life</p>
 <lb/><p><metamark function="placeMark" rend="gray" resp="#U2"/> I sent a message at
-<lb/>the same time to <persName>Lechulatebe</persName>
+    <lb/>the same time to <persName ref="people.xml#pers0370">Lechulatebe</persName>
 <lb/>advising him to give up
 <lb/>the course he had adopted
 <lb/>and especially the song
@@ -339,7 +339,7 @@
 <lb/>One of the men who had hoes
 <lb/>was trying to purchase in
 <lb/>a village without formal
-<lb/>leave from <persName>Lechulatebe</persName>,
+    <lb/>leave from <persName ref="people.xml#pers0370">Lechulatebe</persName>,
 <lb/>This <term type="occupation">chief</term> punished <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">him</add> by
 <lb/>making him sit some
 <lb/>hours on the broiling
@@ -390,7 +390,7 @@
 <lb/>for whom the <term type="tribe">Makololo</term>
 <lb/>entertained the most <choice><sic>sovreign</sic><corr>sovereign</corr></choice>
 <lb/>contempt - The young men
-<lb/>would remark "<persName>Lechulatebe</persName>
+    <lb/>would remark "<persName ref="people.xml#pers0370">Lechulatebe</persName>
 <lb/>is herding our <term type="animal">cows</term> for us"
 <lb/>"Let us only go we shall "lift"
 <lb/><del type="strikethrough"><add place="marginleft" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> prize</note></add></del> the price" <subst><del>&amp;c -</del><add place="over-text">of</add></subst> them in sheep" &amp;c</p>
