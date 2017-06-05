@@ -143,7 +143,7 @@
     <pb facs="liv_000099_0280.jpg" n="0280"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">232</add> <add place="inspace" hand="#U1" rend="gray right">272</add></fw>
 <lb/>they were when by an edict of
-<lb/>the <term type="occupation">queen</term> of that island<!-- country Madagascar. SH --> the
+<lb/>the <term target="occupation">queen</term> of that island<!-- country Madagascar. SH --> the
 <lb/><term type="occupation">missionaries</term> ceased their
 <lb/>teaching - </p>
 <lb/><p>In <placeName><region>South Africa</region></placeName> such
@@ -404,7 +404,7 @@ the<del type="strikethrough">ir</del>
 <lb/>took prisoner - they took
 <lb/>all the <term type="animal">cattle</term> and all the goods
 <lb/>of the <term type="tribe">Bakwains</term> - And the
-<lb/>house of <persName ref="people.xml#pers0372"><choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName> they
+<lb/>house of <persName><choice><orig>Livingston</orig><reg>Livingstone</reg></choice></persName> they
 <lb/>plundered taking away all
 <lb/>his goods - The number of
 <lb/>waggons they had was eighty
@@ -421,7 +421,7 @@ the<del type="strikethrough">ir</del>
 <lb/>And of the <orgName>Boers</orgName> were killed
 <lb/>twenty eight - Yes - my beloved
 <lb/>friend now my wife goes
-<lb/>to see the children and <persName ref="people.xml#pers0361">Kobus
+<lb/>to see the children and <persName>Kobus
 <lb/>Hae</persName> will convey her to you
 <lb/><space extent="7" unit="chars"/>I am <persName ref="people.xml#pers0516">Sechele</persName>
     <lb/><space extent="7" unit="chars"/>the son of <persName ref="people.xml#pers0429">Mochoasele</persName></quote>"
@@ -538,8 +538,8 @@ sent by some of the <orgName>Boers</orgName> to
     <lb/>waste of <bibl>lexicons</bibl>
     <lb/><bibl>dictionaries</bibl>
     <lb/><bibl>classical</bibl> &amp;
-    <lb/><bibl>medical</bibl>
-    <lb/>books &amp;c -
+    <lb/><bibl>medical
+    <lb/>books</bibl> &amp;c -
     <lb/>the companions
     <lb/>of my boyhood</add>
 <lb/>It set <w>m<subst><del>e</del><add place="over-text">y</add></subst></w> <w><subst><del>co</del><add place="over-text">m</add></subst>ind</w> completely
@@ -570,7 +570,7 @@ sent by some of the <orgName>Boers</orgName> to
 <lb/>so cavalierly<add place="inline" rend="red" hand="#U3">,</add> <del type="strikethrough" rend="red" hand="#U3"><choice><abbr>viz -</abbr><expan>videlicet</expan></choice></del> As the <orgName>Boers</orgName>
 <lb/>were notoriously intent on
 <lb/>the <w>practi<subst><del>s</del><add place="over-text">c</add></subst>e</w> of <orgName>slave</orgName> hunting
-<lb/><add place="marginleft"><note><metamark function="query">?</metamark> <persName ref="people.xml#pers0372"><choice><abbr>DL</abbr><expan>David Livingstone</expan></choice></persName>-</note>
+<lb/><add place="marginleft"><note><metamark function="query">?</metamark> <persName><choice><abbr>DL</abbr><expan>David Livingstone</expan></choice></persName>-</note>
     <lb/><add place="inline" rend="red" hand="#U3"><note>(<metamark function="query"><choice><abbr>qu</abbr><expan>query</expan></choice></metamark> - <metamark function="stet">stet</metamark>.)</note></add></add> 
 and <orgName>slavery</orgName>, whether a
 <lb/>policy favourable to this
@@ -841,7 +841,7 @@ taught
 <lb/>to establish a trade with the
 <lb/><term type="tribe"><choice><sic>Makolo</sic><corr>Makololo</corr></choice></term>, had also managed
 <lb/>to get a similar number
-<lb/>we left <placeName><settlement type="village">Kuruman</settlement></placeName> on the
+<lb/>we left <placeName><settlement type="town">Kuruman</settlement></placeName> on the
     <lb/><date when="1852-11-20">20<hi rend="sup underline">th</hi> <choice><abbr>Nov<hi rend="sup underline">r</hi><expan>November</expan></abbr></choice></date> and proceeded
 <lb/>on our journey - Our <term type="occupation">servants</term>
 <lb/>were the worst possible

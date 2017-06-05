@@ -137,7 +137,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/><add place="marginleft">of the country</add> hollowed into cisterns . As the <term type="tribe">Kisama</term> Country
 <lb/>is ill supplied with water otherwise, the <term type="nationality">Portuguese</term>
 <lb/>were soon obliged to retreat. <space extent="2" unit="chars"/>Their Country
-<lb/>near to <placeName><settlement type="village">Massangano</settlement></placeName> is low <del type="cancelled">lying</del> and marshy
+<lb/>near to <placeName><settlement type="village">Massangano</settlement></placeName> is low <term type="cancelled">lying</term> and marshy
 <lb/>but becomes more elevated in the distance
 <lb/>and beyond them lie the <add place="below">^</add> <del type="cancelled"><add place="above">d</add></del> lofty dark <add place="below">^</add> <add place="above">mountain</add> ranges <del type="cancelled" hand="#DL" n="DL">of
 <lb/>mountains</del> of the <term type="tribe">Libollo</term> another powerful
@@ -843,7 +843,7 @@ another colony on a branch of the same tree gave
 <lb/>fresh and green after the rains</seg> and everything so cheering
 <lb/>one could not but wonder to find the country so
 <lb/>feverish <space extent="3" unit="chars"/>We found <del type="strikethrough">at</del> on reaching <placeName><settlement type="village">Ambaca</settlement></placeName>
-    <lb/>that the gallant old <term type="occupation">soldier</term> <persName ref="people.xml#pers0391">Laurence Jose Marquis</persName>
+<lb/>that the gallant old <term type="occupation">soldier</term> <persName>Laurence Jose Marquis</persName>
 <lb/>had since our passing <placeName><region><choice><orig>Icol<subst><del>oi</del><add place="over-text">lo</add></subst> i Bengo</orig><reg>Icolo e Bengo</reg></choice></region></placeName> been <!-- Ícolo e Bengo, sh -->
 <lb/>promoted on account of his <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">stern</add> integrity to the <choice><abbr>Gov<hi rend="sup underline">t</hi></abbr><expan>Government</expan></choice>
 <lb/>of this important district <space extent="5" unit="chars"/><del type="strikethrough" hand="#DL" n="DL">These command-</del>
@@ -918,7 +918,7 @@ another colony on a branch of the same tree gave
 <lb/>provisions here I may mention that the cost was
 <lb/>only about a guinea per head. <space extent="3" unit="chars"/>On crossing the 
 <lb/><placeName><geogName type="river">Lucalla</geogName></placeName> we made a detour to the South in order
-<lb/>to visit the famous rocks of <placeName><region>Pungo Andongo</region></placeName>
+<lb/>to visit the famous rocks of <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName>
 <lb/><choice><sic>as</sic><corr>As</corr></choice> soon as we cross<del type="cancelled" >ed</del> the rivulet <placeName><geogName type="rivulet">Lotete</geogName></placeName> a change
 <lb/>in the vegetation of the country is apparent
 <lb/>We find trees identical with those to be seen south
@@ -933,11 +933,11 @@ another colony on a branch of the same tree gave
 
 <pb facs="liv_000101_0101.jpg" n="0101"/><!-- p421 Missionary, sh -->    
 <lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">98</add></fw>
-<lb/>to <placeName><region>Pungo Andongo</region></placeName>. Do you grow <term type="plant_foodstuff">wheat</term>? “O yes
-<lb/>in <placeName><region>Pungo Andongo</region></placeName>" <term type="plant_foodstuff">Grapes</term>, <term type="plant_foodstuff">Figs</term> or <term type="plant_foodstuff">Peaches</term>? "O yes
-<lb/>in <placeName><region>Pungo Andongo</region></placeName>" <space extent="3" unit="chars"/>Do you make <term type="foodstuff">butter</term>, <term type="foodstuff">cheese</term> &amp;c
+<lb/>to <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName>. Do you grow <term type="plant_foodstuff">wheat</term>? “O yes
+<lb/>in <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName>" <term type="plant_foodstuff">Grapes</term>, <term type="plant_foodstuff">Figs</term> or <term type="plant_foodstuff">Peaches</term>? "O yes
+<lb/>in <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName>" <space extent="3" unit="chars"/>Do you make <term type="foodstuff">butter</term>, <term type="foodstuff">cheese</term> &amp;c
 <lb/>The uniform answer was “O yes there is abundance
-<lb/><add place="marginleft" hand="#DL" n="DL">of all these <add place="below" hand="#DL" n="DL">˄</add></add> in <placeName><region>Pungo Andongo</region></placeName>" <space extent="5" unit="chars"/>But when we arrived <subst><del>in</del><add place="over-text">he</add></subst>re
+<lb/><add place="marginleft" hand="#DL" n="DL">of all these <add place="below" hand="#DL" n="DL">˄</add></add> in <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName>" <space extent="5" unit="chars"/>But when we arrived <subst><del>in</del><add place="over-text">he</add></subst>re
 <lb/>we found that the answers all referred to the activity
     <lb/>of one man <add place="below" hand="#DL" n="DL">^</add> <persName ref="people.xml#pers0478"><add place="above">Colonel</add> Manuel Antonio Pires</persName> <space extent="4" unit="chars"/>The
 <lb/>presence of the <term type="plant">wild grape</term> shows that the
@@ -956,7 +956,7 @@ another colony on a branch of the same tree gave
 <lb/>much reason for carefully avoiding a few drops 
 <lb/>in their <term type="foodstuff">coffee</term> <del type="strikethrough">after dinner</del> after having devoured
 <lb/>ten times the amount in the shape of <term type="foodstuff">cheese</term> at
-<lb/>dinner <space extent="9" unit="chars"/>The fort of <placeName><region>Pungo Andongo</region></placeName>
+<lb/>dinner <space extent="9" unit="chars"/>The <placeName><settlement type="fort">fort of <placeName><region>Pungo Andongo</region></placeName></settlement></placeName>
 <lb/>is situated in the midst of a group of curious
 <lb/>columnar shaped rocks each of which is upwards
 <lb/>of three hundred feet in height <space extent="3" unit="chars"/>They are composed
@@ -979,7 +979,7 @@ another colony on a branch of the same tree gave
 <lb/>though I am not aware of anyone having actually seen
 <lb/>a seam of coal tilted up to a surface in <placeName><country>Angola</country></placeName>
 <lb/>as we have at <placeName><settlement type="town">Tete</settlement></placeName> <space extent="4" unit="chars"/>The gigantic pillars
-<lb/>of <placeName><region>Pungo Andongo</region></placeName> have been formed by a current
+<lb/>of <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName> have been formed by a current
 <lb/>of the sea coming from the <choice><abbr>S. S. E.</abbr><expan>South South East</expan></choice> <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>for seen
     <lb/>from the
     <lb/>top they appear
@@ -1114,7 +1114,7 @@ at a <del type="strikethrough">time</del>
 <lb/>gone to the bottom of the sea in the mail packet
 <lb/>"<orgName>Forerunner</orgName>" <space extent="2" unit="chars"/>This <del type="strikethrough">intelligence</del> <add place="below">^</add> <add place="above">feeling</add> was however
 <lb/>tempered with the consoling fact that my friend
-    <lb/><persName ref="people.xml#pers0261"><term type="occupation">Lieutenant</term> Bedingfeld</persName> to whose care I <del type="strikethrough">had</del> <w>com-
+<lb/><persName><term type="occupation">Lieutenant</term> Bedingfeld</persName> to whose care I <del type="strikethrough">had</del> <w>com-
 <lb break="no"/>omitted</w> them though in the most imminent
 <lb/>danger had not shared a similar fate</p>
 <lb/><p>These papers being lost I availed myself of the
@@ -1207,7 +1207,7 @@ at a <del type="strikethrough">time</del>
 <lb/>country <space extent="3" unit="chars"/>The people persist however in
 <lb/>spite of the most stringent enforcement of the
 <lb/>law <space extent="11" unit="chars"/>The country between
-<lb/>the <placeName><region>Coanza</region></placeName> and <placeName><region>Pungo Andongo</region></placeName> is covered
+<lb/>the <placeName><region>Coanza</region></placeName> and <placeName><geogName type="rocks">Pungo Andongo</geogName></placeName> is covered
 <lb/>with low trees, bushes and fine pasturage
 <lb/>In <del type="strikethrough">among</del> the latter we were pleased to see
 <lb/>our old acquaintance the gaudy <term type="plant"><choice><sic>gladiolis</sic><corr>gladiolus</corr></choice></term>

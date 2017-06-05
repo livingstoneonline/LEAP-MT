@@ -103,7 +103,7 @@
         
     <pb facs="liv_000100_0335.jpg" n="0335"/><!-- p299, missionary travels, sh -->
 <lb/><p><fw n="heading_XXX">XXX <add place="inspace" hand="#U1" rend="gray right">334</add></fw>
-    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0355">Kerr</persName></hi></note></add> <persName ref="people.xml#pers0506">Sambanza</persName> however had got
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName>Kerr</persName></hi></note></add> <persName ref="people.xml#pers0506">Sambanza</persName> however had got
 <lb/>into a state of inebriation
 <lb/>from indulging in <term type="foodstuff">mead</term>
 <lb/>similar to that which
@@ -134,7 +134,7 @@
 <lb/>so she bundled him cooly
 <lb/>into the hut &amp; put him to
 <lb/>bed - </p>
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><del type="cancelled" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0355">Kerr</persName></hi></note></del></add> As the last proof of
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><del type="cancelled" hand="#U2" rend="gray"><note><hi rend="underline"><persName>Kerr</persName></hi></note></del></add> As the last proof of
     <lb/>friendship <persName ref="people.xml#pers0532">Shinte</persName> came into
 <lb/>my tent though it could
 <lb/>scarcely contain more
@@ -197,7 +197,7 @@ a string
 <lb/><del type="strikethrough">only</del> the good words <add place="inline">only</add> of
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>3</note></add> the <term type="occupation">guides</term> which were to
 <lb/>aid me from the next
-<lb/><term type="occupation">chief</term> (<persName ref="people.xml#pers0348">Katema</persName><del type="cancelled">'s</del>) on to the sea 
+<lb/><term type="occupation">chief</term> (<persName>Katema</persName><del type="cancelled">'s</del>) on to the sea 
 <lb/>There they were to turn but
 <lb/>he gave a good supply
 <lb/>of food for the journey
@@ -420,7 +420,7 @@ a string
 <lb/>in our presence - When
 <lb/>it was cooked they retired
 <lb/>into a thicket and <choice><sic>eat</sic><corr>ate</corr></choice>
-<lb/>their <term type="foodstuff">potage</term> then all stood
+<lb/>their <term target="foodstuff">potage</term> then all stood
 <lb/>up and clapped their
 <lb/>hands and praised
     <lb/><persName ref="people.xml#pers0459">Ntemesa</persName> for it - The
@@ -873,7 +873,7 @@ among the <term type="tribe">Makololo</term><add place="inline" hand="#U2" rend=
 <lb/>so virtuous as those who
 <lb/>have no idols - </p>
 <lb/><space dim="vertical" extent="2" unit="chars"/>                
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0355"><unclear cert="medium">Ker</unclear></persName></hi></note></add> As the people on the banks
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName><unclear cert="medium">Ker</unclear></persName></hi></note></add> As the people on the banks
 <lb/>of the <placeName><geogName type="river">Leeba</geogName></placeName> were the
     <lb/>last of <persName ref="people.xml#pers0532">Shinte</persName>'s <subst><del>people</del><add place="over-text">tribe</add></subst>
     <lb/>over which <persName ref="people.xml#pers0459">Ntemese</persName> had

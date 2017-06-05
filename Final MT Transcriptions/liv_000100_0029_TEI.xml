@@ -242,7 +242,7 @@ by walking
 <lb/>are equally terrible - <del type="strikethrough" hand="#U3" rend="red">They hear</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">He is heard</add> <del type="strikethrough" hand="#U3" rend="red">him</del> moaning in distress
 <lb/>and <del type="cancelled" hand="#U3" rend="red">he</del> becomes furious
-<lb/>biting the trees and ground
+<lb/>biting the <term type="plant">trees</term> and ground
 <lb/>in rage - </p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> As the <orgName>Bushmen</orgName> have
 <lb/>the reputation of curing <w>the<subst><del>is</del><add place="over-text">e</add></subst></w>
@@ -337,7 +337,7 @@ by walking
 <lb/>take care of themselves - </p>
 <lb/><p>None of the men <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">of our party</add> had died but
 <lb/>two seemed unlikely to recover
-    <lb/>and <persName ref="people.xml#pers0352">Kibopechoe</persName> my willing
+<lb/>and <persName>Kibopechoe</persName> my willing
 <lb/><term type="tribe">Mokwain</term><!-- this would perhaps better be marked up as "person" since this is a reference to a single individual from the Kwena.JL --> at last became
 <lb/>troubled with <term type="ailment">boils</term> and then
 <lb/>got all the symptoms of <term type="ailment">fever</term>
@@ -755,7 +755,7 @@ among the tall grass
 <lb/>curious birds too jerk<!-- possible letters beneath 'jerk' but they are illegible.JL -->
 <lb/>and wriggle among these
 <lb/>reedy masses and we
-<lb/><w>hear<add place="inline" hand="#U3" rend="red">d</add></w> <del type="strikethrough">unearthly</del> human
+<lb/><w>hear<add place="inline" hand="#U3" rend="red">d</add></w> <term type="strikethrough">unearthly</term> human
 <lb/>like voices and unearthly
 <lb/>sounds with splash guggle
 <lb/>jupp - as if rare fun were
@@ -1024,7 +1024,7 @@ among the tall grass
 <lb/><persName ref="people.xml#pers0519">Sekeletu</persName> was not <del type="strikethrough" hand="#U3" rend="red">really</del> the <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">lawful</add> son
 <lb/>of <persName ref="people.xml#pers0515">Sebituane</persName> on account
 <lb/>of his mother having been
-<lb/>the wife of another <term type="occupation">chief</term>
+<lb/>the wife of another <term type="occuaption">chief</term>
 <lb/>before <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">her</add> marriage with <persName ref="people.xml#pers0515">Sebituane</persName>
     <lb/><persName ref="people.xml#pers0405">Mamochisane</persName> however
 <lb/>upheld <persName ref="people.xml#pers0519">Sekeletu</persName>'s claims
@@ -1036,7 +1036,7 @@ among the tall grass
 <lb/>always wished to be married
 <lb/>and have a family like
 <lb/>other women - You <persName ref="people.xml#pers0519">Sekeletu</persName>
-<lb/>must be <term type="occupation">chief</term> and build
+<lb/>must be <term type="occuaption">chief</term> and build
 <lb/>up your father's house"
 <lb/>This was a death blow to
 <lb/>the hopes of <persName ref="people.xml#pers0431">Mpepe</persName> - </p>

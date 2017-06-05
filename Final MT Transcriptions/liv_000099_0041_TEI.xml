@@ -197,7 +197,7 @@ and where in
 <lb/>trades</del> - A <orgName>native</orgName> <term type="occupation">smith</term> taught me
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note><metamark function="query">?</metamark> iron</note></add> to weld and having improved by
 <lb/>scraps of information in that line
-<lb/>and in <choice><sic>capentering</sic><corr>carpentering</corr></choice> and gardening
+<lb/>and in <term type="occupation"><choice><sic>capentering</sic><corr>carpentering</corr></choice></term> and <term type="occupation">gardening</term>
 <lb/>and as my wife could make
 <lb/>candles soap and clothes we
 	
@@ -334,7 +334,7 @@ and where in
 <lb/>all the right out human feeling</del></del>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note><retrace hand="#DL"><metamark function="deletion"/></retrace><!-- the proof correction mark for deletion. JL -->
     <lb/><choice><abbr>dele</abbr><expan>delete</expan></choice>
-    <lb/><persName ref="people.xml#pers0334">JM</persName></note></add>
+    <lb/><persName>JM</persName></note></add>
 <del type="cancelled"><del type="cancelled" hand="#U2">on which the knowing ones at home
 <lb/>work when they explain the rationale
     <lb/>of the operation of <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0423">Morrison</persName>'s</add> vegetable pills -
@@ -354,7 +354,7 @@ and where in
 <lb/>good <term type="medicament">antispasmodic</term> under the
 <lb/>name of "<foreign xml:lang="nl">klipsweit</foreign>" = stone sweat)
 <lb/>The internal parts of different animals
-<lb/>as <choice><sic><term type="animal">Jackalls</term></sic><corr><term type="animal">jackals</term>'</corr></choice> livers <metamark function="reorder" spanTo="#meta-5"/><seg corresp="#reorder-1"><choice><sic><term type="animal">Lion</term>'s</sic><corr><term type="animal">lions</term>'</corr></choice></seg><anchor xml:id="meta-5"/> <metamark function="insertion"/><anchor xml:id="reorder-2"/> and
+<lb/>as <choice><sic><term type="animal">Jackalls</term></sic><corr><term type="animal">jackals</term>'</corr></choice> livers <metamark function="reorder" spanTo="#meta-5"/><seg corresp="#reorder-1"><choice><sic><term type="animal">Lion</term>'s</sic><corr><term type="animal">lions'</term></corr></choice></seg><anchor xml:id="meta-5"/> <metamark function="insertion"/><anchor xml:id="reorder-2"/> and
 <lb/><metamark function="reorder" spanTo="#meta-6"/><seg corresp="#reorder-2"><choice><sic><term type="animal">baboons</term></sic><corr><term type="animal">baboons</term>'</corr></choice></seg><anchor xml:id="meta-6"/> <metamark function="insertion"/><anchor xml:id="reorder-1"/> hearts and heavy calculi
 <lb/>from the bowels of old <term type="animal">cows</term>
 <lb/><term type="animal">serpents</term> skins &amp; vertebrae - And
@@ -385,7 +385,7 @@ and where in
 <lb/>irresistible in <placeName><country>England</country></placeName> in <date when="1857">1857</date> -
 <lb/><del type="cancelled">The same looseness of reasoning</del>
 <lb/>Have we aught else in support of
-    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><metamark function="query"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> <unclear cert="low"><persName ref="people.xml#pers0334">JM</persName></unclear></note></add> the powers of the <term type="medicament">Homoeopathic 
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note><metamark function="query"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> <unclear cert="low"><persName>JM</persName></unclear></note></add> the powers of the <term type="medicament">Homoeopathic 
 <lb/>globule</term>? A powerful medicine
 <lb/>capable of appreciable effects is
 <lb/>manipulated into a decimal
@@ -393,7 +393,7 @@ and where in
 <lb/>follows - The inference is irresistible<anchor xml:id="meta-7"/> 
 <lb/><del type="cancelled">and why should not the <choice><sic>discovers</sic><corr>discoverers</corr></choice>
 <lb/>share in the persecution which
-    <lb/><persName ref="people.xml#pers0332">Jenner</persName>, and <persName ref="people.xml#pers0314">Harvey</persName> &amp;c. endured
+    <lb/><persName>Jenner</persName>, and <persName ref="people.xml#pers0314">Harvey</persName> &amp;c. endured
 <lb/>They certainly deserve it seeing
 <lb/>opposition is the only point
 <lb/>of similarity between our friends
@@ -709,8 +709,8 @@ Well I always thought
 <lb/>the different <foreign xml:lang="und">Hopos</foreign> in a single
 <lb/>week and as every one both rich
 <lb/>and poor partook of the prey, the
-<lb/>>meat counteracted the bad effects
-<lb/>of an exclusively vegetable diet -
+<lb/><term type="foodstuff">meat</term> counteracted the bad effects
+<lb/>of an exclusively <term type="foodstuff">vegetable</term> diet -
 <lb/>When the poor who had no <term type="foodstuff">salt</term>
 <lb/>were forced to live exclusively on
 <lb/>roots they were often troubled <del type="strikethrough">by</del>
@@ -743,7 +743,7 @@ Well I always thought
 <lb/>for these articles of food
 <lb/>This continued as long as
 <lb/>I was confined to an exclusively
-<lb/>vegetable diet - And when
+<lb/><term type="foodstuff">vegetable</term> diet - And when
 <lb/>I procured a meal of <term type="foodstuff">flesh</term>
 <lb/>though boiled in perfectly fresh
 <lb/>rain water it tasted as

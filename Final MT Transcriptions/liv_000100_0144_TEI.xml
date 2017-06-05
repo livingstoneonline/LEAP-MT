@@ -142,7 +142,7 @@
 <lb/>which from the swarms of <term type="animal">mice</term>
 <lb/>we stood in great need - </p>
 <lb/><p>On making enquiries to ascertain
-    <lb/>whether <persName ref="people.xml#pers0441">Santuru</persName> <add place="marginleft"><metamark function="insertion"/> the <term type="tribe">Molŭiana</term></add> had ever been
+    <lb/>whether <persName ref="people.xml#pers0441">Santuru</persName> <add place="marginleft"><metamark function="insertion"/><term type="tribe">the Molŭiana</term></add> had ever been
 <lb/>visited by white men I could
 <lb/>find no vestige of any such
 <lb/>visit - The <term type="tribe">Barotse</term> call themselves
@@ -191,7 +191,7 @@
 <lb/>the distinct recollection of that
 <lb/>visit is retained - They came
 <lb/>to purchase <orgName>slaves</orgName> and both
-                    <lb/><persName ref="people.xml#pers0441">Santuru</persName> and his <term type="occupation">headmen</term> refused
+                    <lb/><persName ref="people.xml#pers0441">Santuru</persName> and his <term type="occuption">headmen</term> refused
 <lb/>them permission to buy any of
 <lb/>his people - The <term type="tribe">Makololo</term> quoted
 <lb/>this precedent when speaking
@@ -201,7 +201,7 @@
                     <lb/>to expel them as <persName ref="people.xml#pers0441">Santuru</persName> - The
 <lb/><term type="tribe">Mambari</term> reside near <placeName><geogName type="plateau">Bihe</geogName></placeName> under
 <lb/>an <term type="tribe">Ambonda</term> <term type="occupation">chief</term> named
-                    <lb/><persName ref="people.xml#pers0343"><choice><orig>Kangom-be</orig><reg>Kangombe</reg></choice></persName> - they profess to
+<lb/><persName><choice><orig>Kangom-be</orig><reg>Kangombe</reg></choice></persName> - they profess to
 <lb/>use the <orgName>slaves</orgName> for domestic
 <lb/>purposes alone - </p>
 <lb/><p>The town <subst><del>of</del><add place="over-text">or</add></subst> mound <subst><del>or</del><add place="over-text">of</add></subst>
@@ -726,7 +726,7 @@ The <term type="animal">lions</term> here roar
     <lb/>which I held from the <persName ref="people.xml#pers0297">Chevalier
 <lb/>Duprat</persName> <choice><abbr>H- M- F-</abbr><expan>His Most Faithful</expan></choice> <add place="below" rend="gray" hand="#U2">^</add> <add place="marginleft" hand="#U2" rend="gray">Majesty's</add> <term type="occupation">Arbitrator</term> in
 <lb/>the <orgName>British and Portuguese mixed
-<lb/>commission <del type="cancelled">at</del> <placeName><settlement type="city">Cape town</settlement></placeName></orgName>
+<lb/>commission <del type="cancelled">at</del> <placeName><settlement type="town">Cape town</settlement></placeName></orgName>
 <lb/>was evidently anxious to
 <lb/><choice><orig>shew</orig><reg>show</reg></choice> me all the kindness in
 <lb/>his power - These persons
@@ -854,8 +854,8 @@ The <term type="animal">lions</term> here roar
 <lb/>our <orgName>Arab</orgName> friends we proceeded
 <lb/>down the <placeName><geogName type="river">Marile</geogName></placeName> till we
 <lb/>re-entered the <placeName><geogName type="river">Leeambye</geogName></placeName> &amp;
-    <lb/>went to the town of <persName ref="people.xml#pers0408"><w>Ma-
-<lb break="no"/>-sekeletu</w></persName> (Mother of <persName ref="people.xml#pers0519">Sekeletu</persName>
+    <lb/>went to the town of <placeName><settlement type="town"><persName ref="people.xml#pers0408"><w>Ma-
+<lb break="no"/>-sekeletu</w></persName></settlement></placeName> (Mother of <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>opposite the island of
 <lb/><placeName><geogName type="island">Loyela</geogName></placeName> - <del type="strikethrough" hand="#U3" rend="red">He</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red"><persName ref="people.xml#pers0519">Sekeletu</persName></add> had always
 <lb/>supplied me most liberally

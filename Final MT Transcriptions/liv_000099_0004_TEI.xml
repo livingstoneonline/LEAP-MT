@@ -237,7 +237,7 @@ This <add place="below">˄</add> <subst><del type="cancelled">was</del><add plac
 <lb/>when the <orgName>Highlanders</orgName> <retrace hand="#DL"><add place="marginleft" hand="#U2" rend="gray"><metamark function="insertion"/>according to 
     <lb/><persName ref="people.xml#pers0376">Macaulay</persName></add></retrace>
 were much
-    <lb/>like the <placeName><region>Cape</region></placeName> <orgName><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> and any 
+<lb/>like the <term type="region">Cape</term> <orgName><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> and any 
 <lb/>one <add place="below">˄</add> <add place="above">it was said,</add> could escape punishment
 <lb/>for theft by presenting a share
 <lb/><metamark function="query" place="marginleft" resp="#U2" rend="gray">?</metamark> of the plunder to his <term type="occupation">chieftain</term>.
@@ -414,7 +414,7 @@ deserves my lasting
 <lb/>in my first medical book that
 <lb/>extraodinary old <unclear cert="medium"><subst><del>work</del><add place="over-text">Author</add></subst></unclear><!-- the word underneath author is quite unclear but is probably 'work', which is the word that ultimately appears in the published version p.5).JL --> on 
     <lb/>astrological medicine - "<bibl><persName ref="people.xml#pers0285">Culpeper</persName>'s
-<lb/>Herbal</bibl>" <space extent="3" unit="chars"/> Limited as my time
+<lb/>Herbal"</bibl> <space extent="3" unit="chars"/> Limited as my time
 <lb/>was I found opportunities to 
 <lb/>scour the whole countryside
 <lb/>"collecting simples" - Deep and
@@ -512,8 +512,8 @@ by <del type="cancelled">while</del> working with my hands
 <lb/>joining the <orgName>London Missionary
 <lb/>Society</orgName> on account of its
 <lb/>perfectly unsectarian character<add place="inline" rend="gray" hand="#U2">.</add>
-<lb/>It "sends neither <orgName>Episcopacy</orgName>
-<lb/>nor <orgName>Presbyterianism</orgName> nor
+<lb/>It "sends neither <term type="faith">Episcopacy</term>
+<lb/>nor <term type="faith">Presbyterianism</term> nor
 <lb/><term type="faith"><choice><sic>Independancy</sic><corr>Independency</corr></choice></term>, but the gospel
     <lb/>of <persName ref="people.xml#pers0333">Christ</persName> to the heathen" This
 <lb/>exactly agreed with my ideas of

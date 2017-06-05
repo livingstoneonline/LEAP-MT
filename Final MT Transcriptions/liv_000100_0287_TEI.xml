@@ -175,7 +175,7 @@
 <lb/><term type="plant_foodstuff">Manioc</term> roots in the morning
 <lb/>and had determined to carry
 <lb/>our baggage to her uncle's
-    <lb/><persName ref="people.xml#pers0532">Kabompo</persName> or <persName ref="people.xml#pers0532">Shinté</persName> <subst><del hand="#U2">-</del><add place="over-text" rend="gray" hand="#U2">;</add></subst> We
+    <lb/><persName ref="people.xml#pers0532">Kabompo</persName> or <persName>Shinté</persName> <subst><del hand="#U2">-</del><add place="over-text" rend="gray" hand="#U2">;</add></subst> We
 <lb/>had a sample<!-- there is a pencil squiggle but since it doesn't seem to have a function it has not been recorded as a metamark.JL -->  of what she
 <lb/>could do with her tongue
 
@@ -872,7 +872,7 @@ A piece of
 <lb/>and everything else I could urge
 <lb/>was answered in the genuine
 <lb/><choice><sic>pertinaceous</sic><corr>pertinacious</corr></choice> lady style - She
-<lb/>ground some <term type="foodstuff">meal</term> for me
+<lb/>ground some <term target="foodstuff">meal</term> for me
 <lb/>with her own hands and
 <lb/>when she brought it told me
 <lb/>she had actually gone to a
@@ -893,7 +893,7 @@ A piece of
     <lb/><placeName><settlement type="city">London</settlement></placeName></add> 
 when obliged
 <lb/>to eat the same roots while
-<lb/>a <orgName>slave</orgName> in the <placeName><bloc>West Indies</bloc></placeName>
+<lb/>a <term type="occupation">slave</term> in the <placeName><bloc>West Indies</bloc></placeName>
 <lb/><subst><del>S</del><add place="over-text">T</add></subst>he day (<date when="1854-01-14">Saturday 14<hi rend="sup underline">th</hi></date>) for a wonder
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>45</note></add> was fair and the <seg type="weather">sun
 <lb/>shone</seg> so as to allow us to
@@ -1019,7 +1019,7 @@ I <w><subst><del>c</del><add place="over-text">w</add></subst>ould</w> <del type
 <lb/>had sent forward notice
 <lb/>of their appraoch from
 <lb/>another quarter (the West)
-    <lb/>Could this be <persName ref="people.xml#pers0260">Barth</persName> or <persName ref="people.xml#pers0363">Krapf</persName>
+    <lb/>Could this be <persName ref="people.xml#pers0260">Barth</persName> or <persName>Krapf</persName>
 <lb/>How pleasant to meet
 <lb/>with <orgName>Europeans</orgName> in such
 <lb/>an out of the way region<!-- evidence of overwriting but it is illegible.JL-->
