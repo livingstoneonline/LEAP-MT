@@ -606,13 +606,13 @@ obtained
 	
 	<pb facs="liv_000099_0071.jpg" n="0071"/> 
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">75</add> <add place="inspace" hand="#U1" rend="gray right">68</add></fw>		
-<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName>Kāke</persName> an <term type="occupation">underchief</term> rebelled and
+    <lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName ref="people.xml#pers0357">Kāke</persName> an <term type="occupation">underchief</term> rebelled and
 <lb/>was led on in his rebellion by
 <lb/><subst><del>a</del><add place="over-text">his</add></subst> father<del type="cancelled">s</del> in law who had
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note><metamark function="query"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> <unclear cert="medium">explain</unclear></note></add> <hi rend="gray underline" resp="#U2">been regicide</hi> in the case of
 <lb/><persName ref="people.xml#pers0516">Sechele</persName>'s father - Several of
 <lb/>those who remained faithful 
-    <lb/>were maltreated by <persName><sic>Kake</sic><corr>Kāke</corr></persName>
+    <lb/>were maltreated by <persName ref="people.xml#pers0357"><sic>Kake</sic><corr>Kāke</corr></persName>
 <lb/>while passing to the Desert<!-- geog: Kalahari Desert. JL --> in
 <lb/>search of skins - We had just
 <lb/>come to live with the <term type="tribe">Bakwains</term>

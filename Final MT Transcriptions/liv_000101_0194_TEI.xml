@@ -183,8 +183,8 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>country afford must have been inhabited for a long period
 <lb/>for <choice><abbr>'</abbr><expan>the</expan></choice> millstones of gneiss and trap and quartz were worn
 <lb/>down two and a half inches perpendicularly <space extent="2" unit="chars"/>The ivory
-    <lb/>grave stones <del type="strikethrough">do not</del> soon rot away <space extent="3" unit="chars"/>Those of <persName ref="people.xml#pers0439">Moyara</persName>'s
-<lb/>father who must <choice><sic>have</sic><corr>haved</corr></choice> died not more than a dozen years ago
+    <lb/>grave stones <del type="strikethrough">do not</del> soon rot away <space extent="3" unit="chars"/>Those of <persName><persName ref="people.xml#pers0439">Moyara</persName>'s
+<lb/>father</persName> who must <choice><sic>have</sic><corr>haved</corr></choice> died not more than a dozen years ago
 <lb/>were crumbling into powder and we found this to be generally
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> case all over <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Batoka</term> country. <space extent="3" unit="chars"/>The region around
 <lb/>is pretty well covered with forest but there is abundance of open
@@ -1061,10 +1061,10 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>The arrow heads were heated before shooting into a town and
 <lb/>when a wound was inflicted on either man or beast great
     <lb/>confusion ensued <space extent="3" unit="chars"/>After <persName ref="people.xml#pers0476">Pingola</persName> came <persName ref="people.xml#pers0515">Sebituane</persName> and
-<lb/>after him <del type="cancelled">came</del> the <term type="tribe">Matebele</term> of <persName>Moselekatse</persName> and these
+    <lb/>after him <del type="cancelled">came</del> the <term type="tribe">Matebele</term> of <persName ref="people.xml#pers0446">Moselekatse</persName> and these
 <lb/>successive inroads have reduced the <term type="tribe">Batoka</term> to a state in
 <lb/><choice><abbr>wh</abbr><expan>which</expan></choice> they naturally rejoice at <choice><abbr>'</abbr><expan>the</expan></choice> prospect of deliverance &amp; peace
-<lb/>We spent <date when="1855-12-10">Sunday the 10<hi rend="sup underline">th</hi></date> at <choice><abbr>'</abbr><expan>the</expan></choice> village of <persName>Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="above" hand="#DL" n="DL">e</add></subst></persName> who is considered
+    <lb/>We spent <date when="1855-12-10">Sunday the 10<hi rend="sup underline">th</hi></date> at <choice><abbr>'</abbr><expan>the</expan></choice> village of <persName ref="people.xml#pers0419">Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="above" hand="#DL" n="DL">e</add></subst></persName> who is considered
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">chief</term> of all <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Batoka</term> we have seen <space extent="3" unit="chars"/><choice><sic>he</sic><corr>He</corr></choice> lives near to <choice><abbr>'</abbr><expan>the</expan></choice> hill
 <lb/><placeName><geogName type="hill">Kisekise</geogName></placeName> whence we have a view of at least <measure>40 miles</measure> of open
 <lb/>undulating country covered with short grass and having but
@@ -1093,7 +1093,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>times they lived in large towns <space extent="2" unit="chars"/>In <choice><abbr>'</abbr><expan>the</expan></choice> distance <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">(<choice><abbr>S. E.</abbr><expan>South East</expan></choice>)</add> we see ranges of
 <lb/>dark mountains along <choice><abbr>'</abbr><expan>the</expan></choice> banks of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <metamark function="insertion"/><anchor xml:id="add-98"/> <del type="cancelled" hand="#DL" n="DL">and</del> <subst><del type="strikethrough" hand="#DL" n="DL">on</del><add place="above" hand="#DL" n="DL">On</add></subst> <choice><abbr>'</abbr><expan>the</expan></choice> north we
 <lb/>have mountains appearing above <choice><abbr>'</abbr><expan>the</expan></choice> horizon <choice><abbr>wh</abbr><expan>which</expan></choice> are said to be on
-<lb/><choice><abbr>'</abbr><expan>the</expan></choice> banks of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Kafue</geogName></placeName> <space extent="8" unit="chars"/>The <term type="occupation">chief</term> <persName>Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="above" hand="#DL" n="DL">e</add></subst></persName> came to us
+    <lb/><choice><abbr>'</abbr><expan>the</expan></choice> banks of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Kafue</geogName></placeName> <space extent="8" unit="chars"/>The <term type="occupation">chief</term> <persName ref="people.xml#pers0419">Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="above" hand="#DL" n="DL">e</add></subst></persName> came to us
 <lb/>on Sunday <choice><abbr>mor.</abbr><expan>morning</expan></choice> wrapped in a large cloth and rolled himself
 <lb/>about in <choice><abbr>'</abbr><expan>the</expan></choice> dust screaming <del type="cancelled">kin</del> "<foreign xml:lang="und">Kina bomba</foreign>" as they all do
 <lb/>The sight of great naked men wallowing on <choice><abbr>'</abbr><expan>the</expan></choice> ground though
@@ -1103,7 +1103,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>is difficult to restrain them as any attempt</del> <space unit="chars" extent="3"/>One of his
 <lb/>wives accompanied him <add place="below" hand="#DL" n="DL">^</add><anchor xml:id="add-99"/> <choice><sic>she</sic><corr>She</corr></choice> had a little battle axe in
 <lb/>her hand and <del type="strikethrough" hand="#DL" n="DL">seemed</del> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">helped her husband to scream - she was</add> much excited for <subst><del type="strikethrough" hand="#DL" n="DL">they</del><add place="above" hand="#DL" n="DL">she</add></subst> had never
-<lb/>seen a white man before <space extent="3" unit="chars"/>We rather liked <persName>Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="above" hand="#DL" n="DL">e</add></subst></persName> for
+    <lb/>seen a white man before <space extent="3" unit="chars"/>We rather liked <persName ref="people.xml#pers0419">Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="above" hand="#DL" n="DL">e</add></subst></persName> for
 <lb/>he soon felt at home amongst us and kept up conversation
 <lb/>during much of <choice><abbr>'</abbr><expan>the</expan></choice> day <space extent="3" unit="chars"/>One <term type="occupation">head man</term> of a village after
 <lb/>another arrived and each of them supplied us liberally with
@@ -1115,7 +1115,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>send for all his people to make a dance about it. <space extent="3" unit="chars"/>In
 <lb/>telling them that my object was to open up a path whereby
 <lb/>they might avoid <choice><abbr>'</abbr><expan>the</expan></choice> guilt of selling their children by getting
-<lb/>merchandise for ivory and asked <persName>Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName> with about 150
+    <lb/>merchandise for ivory and asked <persName ref="people.xml#pers0419">Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName> with about 150
 <lb/>of his men if they would like a white man to live amongst
 <lb/>them and teach them <del type="cancelled">and be one of a chain of stations
 <lb/>towards <choice><abbr>'</abbr><expan>the</expan></choice> coast</del> all expressed high satisfaction at <choice><abbr>'</abbr><expan>the</expan></choice> prospect
@@ -1169,7 +1169,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>The language is a dialect of <choice><abbr>'</abbr><expan>the</expan></choice> other negro languages in <choice><abbr>'</abbr><expan>the</expan></choice> great
 <lb/>valley and as many of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Bakota</term> living under <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Makololo</term>
 <lb/>understand both it and <choice><abbr>'</abbr><expan>the</expan></choice> Sichuana<!-- Setswana language, sh --> <term type="occupation">missionaries</term> could soon
-<lb/>acquire it through that medium <space extent="4" unit="chars"/><persName>Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName> had never
+    <lb/>acquire it through that medium <space extent="4" unit="chars"/><persName ref="people.xml#pers0419">Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName> had never
 <lb/>been visited by any white man but had seen black <orgName><term type="occupation"><orgName>native</orgName>
 <lb/>traders</term></orgName> who he said came for ivory but not for <orgName>slaves</orgName> 
 <lb/><choice><sic>he</sic><corr>He</corr></choice> had heard of white men passing far to <choice><abbr>'</abbr><expan>the</expan></choice> east of him to
@@ -1187,13 +1187,13 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>who know <del type="strikethrough" hand="#DL" n="DL">it</del> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">the land</add> thoroughly declare that it is all garden ground
 <lb/>together and that <w>the<del type="strikethrough">s</del></w> more tender <subst><del type="strikethrough" hand="#DL" n="DL">plants</del><add place="above" hand="#DL" n="DL">grains</add></subst> <choice><abbr>wh.</abbr><expan>which</expan></choice> require richer
 <lb/>soil than <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant_foodstuff">common corn</term> (<hi rend="underline"><term type="plant_foodstuff">holeus sorgham</term></hi>) require no care
-<lb/>here <space extent="6" unit="chars"/><add place="below">^</add><anchor xml:id="add-101"/><anchor xml:id="add-123"/> <persName>Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName> came on Monday morning and on
+    <lb/>here <space extent="6" unit="chars"/><add place="below">^</add><anchor xml:id="add-101"/><anchor xml:id="add-123"/> <persName ref="people.xml#pers0419">Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName> came on Monday morning and on
 <lb/>parting presented us with a piece of a <term type="animal"><term type="foodstuff">buffalo</term></term> <choice><abbr>wh.</abbr><expan>which</expan></choice> had been
 <lb/>killed <choice><abbr>'</abbr><expan>the</expan></choice> day before by <term type="animal">lions</term> <space extent="4" unit="chars"/>We crossed <choice><abbr>'</abbr><expan>the</expan></choice> rivulet <placeName><geogName type="rivulet">Mako<subst><del type="cancelled" hand="#DL" n="DL">a</del><add place="above" hand="#DL" n="DL">e</add></subst></geogName></placeName>
 <lb/><choice><abbr>wh.</abbr><expan>which</expan></choice> runs westward into <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Kafue</geogName></placeName> <del type="strikethrough" hand="#DL" n="DL">and</del> <add place="marginbottom" hand="#DL" n="DL"><metamark function="insertion"/>We now went Northwards in order to
     <lb/>visit <persName ref="people.xml#pers0527">Semalembue</persName> an influential <term type="occupation">chief</term> there </add> 
 <supplied cert="high">and</supplied> slept at <choice><abbr>'</abbr><expan>the</expan></choice> village of
-<lb/><persName>Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName>'s sister who also passes by <choice><abbr>'</abbr><expan>the</expan></choice> same name <del type="cancelled"><add place="below">^</add></del> <space extent="2" unit="chars"/><choice><sic>both</sic><corr>Both</corr></choice> he
+    <lb/><persName ref="people.xml#pers0419">Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName>'s sister who also passes by <choice><abbr>'</abbr><expan>the</expan></choice> same name <del type="cancelled"><add place="below">^</add></del> <space extent="2" unit="chars"/><choice><sic>both</sic><corr>Both</corr></choice> he
 <lb/>and his sister are feminine in their appearance but disfigured
 
 
@@ -1207,7 +1207,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">188</add></fw>
 <lb/>by <choice><abbr>'</abbr><expan>the</expan></choice> foolish custom of knocking out <choice><abbr>'</abbr><expan>the</expan></choice> upper front teeth <space extent="2" unit="chars"/>It is
 <lb/>not often that jail birds turn out well but <choice><abbr>'</abbr><expan>the</expan></choice> first person who
-<lb/>appeared to welcome us at <choice><abbr>'</abbr><expan>the</expan></choice> village of <persName>Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName>'s sister was <choice><abbr>'</abbr><expan>the</expan></choice>
+    <lb/>appeared to welcome us at <choice><abbr>'</abbr><expan>the</expan></choice> village of <persName ref="people.xml#pers0419">Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName>'s sister was <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/>prisoner we had released in <choice><abbr>'</abbr><expan>the</expan></choice> way <space extent="2" unit="chars"/><choice><sic>he</sic><corr>He</corr></choice> came with a handsome
 <lb/>present of <term type="plant_foodstuff">corn</term> and <term type="foodstuff">meal</term> and after praising our kindness to <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/>villagers who had assembled around us <add place="below">^</add><anchor xml:id="add-102"/> <add place="above"><choice><sic>he</sic><corr>He</corr></choice> then</add> set off and brought
@@ -1220,7 +1220,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>the <choice><abbr>N. E.</abbr><expan>North East</expan></choice> or <choice><abbr>E.</abbr><expan>East</expan></choice> while in <placeName><region>Londa</region></placeName> and <placeName><country>Angola</country></placeName> they are from the <choice><abbr>N.</abbr><expan>North</expan></choice></p>
 <lb/><p>At <placeName><region>Pungo Andongo</region></placeName> for instance <choice><abbr>'</abbr><expan>the</expan></choice> white wash is all removed
 <lb/>from the north side of <choice><abbr>'</abbr><expan>the</expan></choice> houses -  <space extent="3" unit="chars"/>It cleared up however about
-<lb/>midday and <persName>Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName>'s sister conducted us a <measure>mile or two</measure> upon
+    <lb/>midday and <persName><persName ref="people.xml#pers0419">Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName>'s sister</persName> conducted us a <measure>mile or two</measure> upon
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> road <space extent="3" unit="chars"/>On parting she said that she had sent orders forward
 <lb/>to a distant village to send food to <choice><abbr>'</abbr><expan>the</expan></choice> point where we should
 <lb/>sleep <space extent="3" unit="chars"/>In expressing her joy at <choice><abbr>'</abbr><expan>the</expan></choice> prospect of living in peace
