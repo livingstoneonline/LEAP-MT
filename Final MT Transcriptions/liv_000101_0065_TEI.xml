@@ -123,7 +123,7 @@
 <lb/><add place="marginleft">on the bank</add> <add place="below">^</add> <del type="cancelled">there</del> - <del type="cancelled">But we passed</del>
 <lb/>This I regretted for all the
 <lb/><term type="people">Portuguese</term> were very
-<lb/>kind and like the <orgName>Boers</orgName> 
+    <lb/>kind and like the <orgName ref="orgName.xml#org0038">Boers</orgName> 
 <lb/>placed in similar
 <lb/>circumstances feel
 <lb/><add place="marginleft">it</add> <del type="cancelled"><add place="below">^</add></del> a slight to be passed
@@ -289,7 +289,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>of the labours of the <orgName>Jesuits</orgName>
 <lb/><subst><del>o</del><add place="over-text">f</add></subst>or they taught the people
 <lb/>of <placeName><settlement type="village">Ambaca</settlement></placeName> usually termed
-<lb/><orgName>Ambacistas</orgName> and ever since
+    <lb/><orgName ref="orgName.xml#org0035">Ambacistas</orgName> and ever since
 <lb/>the expulsion of the <term type="occupation">teachers</term>
 <lb/>by the <persName><term type="occupation">Marquis</term> of <placeName><settlement type="town">Pombal</settlement></placeName></persName>
 <lb/><choice><sic>The<del type="cancelled">y</del></sic><corr>the</corr></choice> <add place="below">^</add> <add place="marginleft"><orgName>natives</orgName></add> have continued to teach

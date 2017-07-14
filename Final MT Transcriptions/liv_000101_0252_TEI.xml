@@ -147,7 +147,7 @@
 <lb/><fw><add place="inspace" hand="#U2" n="U2" rend="gray right">2</add> <space extent="2" unit="chars"/><add place="inspace" hand="#U1" n="U1" rend="gray right">201</add></fw>
 <lb/>kettle drums, we might hope for a return of
 <lb/>prosperity to <placeName><region>Eastern <placeName><bloc>Africa</bloc></placeName></region></placeName>.</p>
-<lb/><p>The village of <placeName><settlement type="town">Senna</settlement></placeName> stands on the right
+    <lb/><p>The village of <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> stands on the right
 <lb/>bank of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>. There are many reedy
 <lb/>islands in front of it, and there is much bush
 <lb/>in the country adjacent. The soil is fertile,
@@ -162,11 +162,11 @@
 <lb/>"carry a child on the back". It is <measure>300 or 400
 <lb/>feet high</measure>, and on the top lie two dismounted
 <lb/>cannon which were used to frighten away
-<lb/>the <term type="tribe">Laudeens</term>, who in one attack upon <placeName><settlement type="town">Senna</settlement></placeName>
+        <lb/>the <term type="tribe">Laudeens</term>, who in one attack upon <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>
 <lb/>killed 150 of the inhabitants. The prospect from 
 <lb/><placeName><geogName type="hill">Baramua<subst><del type="cancelled" hand="#DL" n="DL">u</del><add place="below" hand="#DL" n="DL">^</add><add place="above" hand="#DL" n="DL">n</add></subst>a</geogName></placeName> is very fine, Below on the
 <lb/>eastward lies the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> with the village
-<lb/>of <placeName><settlement type="town">Senna</settlement></placeName>, and some <measure>twenty or thirty miles</measure>
+        <lb/>of <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>, and some <measure>twenty or thirty miles</measure>
 <lb/><add place="marginleft" hand="#DL" n="DL"><note><placeName><geogName type="mountain">Morumbála</geogName></placeName></note></add> beyond stands the lofty mountain <placeName><geogName type="mountain">Morumbala</geogName></placeName>
 <lb/>probably <measure>3000 or 4000 feet high</measure>. It is of an
 <lb/>oblong shape and from its physiognomy
@@ -178,7 +178,7 @@
 <lb/>and the <subst><del type="strikethrough" hand="#DL" n="DL">inhabitants</del><add place="above" hand="#DL" n="DL"><term type="occupation">mountaineers</term></add></subst> are at present not
 <lb/>friendly with the <term type="people">Portuguese</term>. They have
 <lb/>plenty of garden ground and running water
-<lb/>on its summit. My friends at <placeName><settlement type="town">Senna</settlement></placeName> declined
+        <lb/>on its summit. My friends at <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> declined
 
 
 <pb facs="liv_000101_0254.jpg" n="0254"/><!-- p661, sh -->    
@@ -189,10 +189,10 @@
 <lb/>come close to the river and terminate in <placeName><geogName type="mountain">Morumbala</geogName></placeName>.
 <lb/><add place="marginleft" hand="#DL" n="DL"><note><placeName><geogName type="river">Shíre</geogName></placeName></note></add> Many of them are conical, and the <placeName><geogName type="river">Shire</geogName></placeName> is
 <lb/>reported to flow amongst them and to come
-<lb/>on the <placeName><settlement type="town">Senna</settlement></placeName> side of <placeName><geogName type="mountain">Morumbala</geogName></placeName>, before
+        <lb/>on the <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> side of <placeName><geogName type="mountain">Morumbala</geogName></placeName>, before
 <lb/>joining the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>. All around to the <w>South-
 <lb break="no"/>east</w>, the country is flat, and covered with forest,
-<lb/>but near to <placeName><settlement type="town">Senna</settlement></placeName>, a number of little abrupt
+        <lb/>but near to <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>, a number of little abrupt
 <lb/>conical hills diversify the scenery. To the
 <lb/>west and north, the country is also flat forest,
 <lb/>which gives it a sombre appearance, but just
@@ -244,7 +244,7 @@
 <lb/>country by the <term type="tribe">Landeens</term>, but now talk of
 <lb/>reoccupying <placeName><settlement type="town">Manica</settlement></placeName>.</p>
     <lb/><p><add place="marginleft" hand="#U2" n="U2" rend="black"><note><persName ref="people.xml#pers0541"><hi rend="underline"><unclear cert="high">Sorell</unclear></hi></persName></note></add> The most pleasant sight I saw at
-        <lb/><placeName><settlement type="town">Senna</settlement></placeName>, was the negroes of <persName ref="people.xml#pers0474">Senhor Isidore</persName>
+        <lb/><placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>, was the negroes of <persName ref="people.xml#pers0474">Senhor Isidore</persName>
 <lb/>building boats after the <orgName>European</orgName> model
 <lb/>without anyone to superintend their operations.
 <lb/>They had been instructed by a <orgName>European</orgName>
@@ -272,7 +272,7 @@
 <lb/>is perfectly healthy, well watered and <retrace hand="#U5" n="U5"><add place="inline" hand="#U2" n="U2" rend="gray">where</add></retrace>
 <lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2" n="U2">?</metamark> the <placeName><geogName type="river">Shire</geogName></placeName> is deep enough for the purpose of
 <lb/>navigation at its base; <del type="strikethrough" hand="#DL" n="DL">but the people of
-<lb/><placeName><settlement type="town">Senna</settlement></placeName> are not at present on friendly terms
+    <lb/><placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> are not at present on friendly terms
 <lb/>with the inhabitants there</del>. As the next 
 <lb/>resource, I <subst><del type="strikethrough" hand="#DL" n="DL">recommended</del><add place="above" hand="#DL" n="DL">proposed</add></subst> removal to the 
 <lb/>harbour of <placeName><settlement type="village">Mitilone</settlement></placeName>, which is at one of the
@@ -291,7 +291,7 @@
 <lb/>employed to carry government goods in canoes
 <lb/>up to <placeName><settlement type="town">Tete</settlement></placeName>. They were much pleased <retrace hand="#U5" n="U5"><add place="inline" rend="gray" hand="#U2" n="U2">at getting</add></retrace>
 <lb/>this work. On the <date when="1856-05-11">11<hi rend="sup underline">th</hi></date> the whole of the
-<lb/>inhabitants of <placeName><settlement type="town">Senna</settlement></placeName>, with the <term type="occupation">Commandant</term>,
+    <lb/>inhabitants of <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>, with the <term type="occupation">Commandant</term>,
 <lb/>accompanied us to the boats. A venerable
 
 
@@ -305,7 +305,7 @@
 <lb/>abundantly supplied with provisions by the
     <lb/><term type="occupation">Commandant</term> and <persName ref="people.xml#pers0301">Senhor Ferrão</persName>, and sailed
 <lb/>pleasantly down the broad river. About
-<lb/><measure>thirty miles</measure> below <placeName><settlement type="town">Senna</settlement></placeName> we passed the mouth
+    <lb/><measure>thirty miles</measure> below <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> we passed the mouth
 <lb/>of the river <placeName><geogName type="river">Zangwe</geogName></placeName> on our right, which
 <lb/>farther up goes by the name of <placeName><geogName type="river">Pungue</geogName></placeName>;
 <lb/>and <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-112"/> close to the end of a low range into which
@@ -319,7 +319,7 @@
 <lb/>threw the guns into the water<add place="inline" hand="#DL" n="DL">.</add> This <term type="occupation">Ensign</term>
 <lb/>and <term type="occupation"><choice><orig>Mira<subst><del hand="#DL" n="DL">n</del><add place="over-text" hand="#DL" n="DL">n</add></subst>da</orig><reg>Miranda</reg></choice></term>, volunteered to disperse the
 <lb/>people of <placeName><settlement type="village">Kisaka</settlement></placeName>, who were riding roughshod
-<lb/>over the inhabitants of <placeName><settlement type="town">Senna</settlement></placeName>, but the offer
+    <lb/>over the inhabitants of <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>, but the offer
 <lb/>was declined, the few real <term type="people">Portuguese</term> fearing
 <lb/>the disloyal <orgName>half-castes</orgName> among whom they dwell<add place="inline" hand="#DL" n="DL">.</add>
 <lb/><orgName>Slavery</orgName> and immorality have here done
@@ -336,7 +336,7 @@
 <pb facs="liv_000101_0258.jpg" n="0258"/><!-- p663-664, sh -->    
 <lb/><fw><add place="inspace" hand="#U2" n="U2" rend="gray right">7</add> <space extent="2" unit="chars"/><add place="inspace" hand="#U1" n="U1" rend="gray right">206</add></fw>
 <lb/>and habit of a <orgName>slave</orgName> <del type="cancelled" hand="#DL" n="DL"><add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">I hope this may meet change.</add></del>. There is no <term type="occupation">priest</term> at 
-<lb/><placeName><settlement type="town">Senna</settlement></placeName>, nor school, though there are ruins
+    <lb/><placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>, nor school, though there are ruins
 <lb/>of churches and convents.</p>
 <lb/><p>On passing the <placeName><geogName type="river">Shire</geogName></placeName>, we observed great
 <lb/>quantities of the plant <term type="plant">Alfacinya</term> <del type="cancelled" hand="#DL" n="DL"><metamark function="insertion" resp="#DL" n="DL"/></del> already
@@ -389,7 +389,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>imagined, would levy a tribute upon us, 
 <lb/>for this they are accustomed to do to passengers.
 <lb/>I regret that we did not meet them, for
-<lb/>though they are named <orgName>Caffres</orgName>, I am not
+        <lb/>though they are named <orgName ref="orgName.xml#org0042">Caffres</orgName>, I am not
 <lb/>sure whether they are of the <term type="tribe">Zulu</term> family
 <lb/>or of the <term type="tribe">Mashona</term>. I should have liked
 <lb/>to have formed their acquaintance, and
@@ -401,7 +401,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>men. I understand from <persName ref="people.xml#pers0525">Sekwébu</persName>, and
         <lb/><add place="marginleft" hand="#DL" n="DL"><note><persName ref="people.xml#pers0294">Changamera</persName>'s</note></add> from one of the <persName ref="people.xml#pers0294">Changaméra</persName>’s people who lives
 <lb/>at <placeName><settlement type="town">Linyánti</settlement></placeName>, <retrace hand="#U5" n="U5"><add place="inline" rend="gray" hand="#U2" n="U2">and</add></retrace> was present at the attack
-<lb/>on <placeName><settlement type="town">Senna</settlement></placeName>, that they consider the whites as
+        <lb/>on <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>, that they consider the whites as
 <lb/>a conquered tribe.</p>
 <lb/><p><add place="marginleft" hand="#DL" n="DL"><note><placeName><settlement type="village">Mazaro</settlement></placeName></note></add> The <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> at <placeName><settlement type="village">Mazáro</settlement></placeName> is a magnificent
 <lb/>river, <measure>more than half a mile wide</measure> and
@@ -421,9 +421,9 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>to this point, and had been highly pleased
 <lb/>with the capabilities of the river, I felt sure
 <lb/>that his valuable opinion must be in
-<lb/>possession of the <orgName>Admiralty</orgName>. On my arrival
+    <lb/>possession of the <orgName ref="orgName.xml#org0032">Admiralty</orgName>. On my arrival
     <lb/>in <placeName><country>England</country></placeName> I applied to <persName ref="people.xml#pers0564"><term type="occupation">Captain</term> Washington</persName>
-<lb/>the <term type="occupation">Secretary of the <orgName>Admiralty</orgName></term>, and he
+    <lb/>the <term type="occupation">Secretary of the <orgName ref="orgName.xml#org0032">Admiralty</orgName></term>, and he
 <lb/>promptly furnished the document for
 <lb/>publication by the <orgName>Royal Geographical 
 <lb/>Society</orgName>.</p>
@@ -461,7 +461,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>and we were even now obliged to carry all our
 <lb/>luggage by land for about <measure>15 miles</measure>. As
 <lb/><placeName><settlement type="town">Kilimanè</settlement></placeName> is called in all the <term type="nationality">Portuguese</term>
-<lb/>documents, the capital of the rivers of <placeName><settlement type="town">Senna</settlement></placeName>,
+    <lb/>documents, the capital of the rivers of <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>,
 <lb/>it seemed strange to me that the capital
 <lb/>should be built at a point where there was
 <lb/>no direct water conveyance to the magnificent 
@@ -517,7 +517,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>landlocked and hidden amongst the trees.
 <lb/><add place="marginleft" hand="#DL" n="DL"><note><placeName><geogName type="river">Maiüdo</geogName></placeName></note></add> <metamark function="query" place="marginleft" resp="#U2" n="U2" rend="gray">?</metamark> The <del type="cancelled">Maiúdo</del> <placeName><geogName type="river"><hi rend="gray underline" resp="#U2" n="U2">Maiúdo</hi></geogName></placeName>, in <measure>18° 52' <choice><abbr>S.</abbr><expan>South</expan></choice> and 36°
     <lb/>12' <choice><abbr>E.</abbr><expan>East</expan></choice></measure> <hi rend="underline">is not mentioned in <bibl><persName ref="people.xml#pers0324">Horsburgh</persName></bibl>, nor laid
-<lb/>down in the <bibl><orgName>Admiralty</orgName> Chart</bibl></hi>, but is nevertheless
+        <lb/>down in the <bibl><orgName ref="orgName.xml#org0032">Admiralty</orgName> Chart</bibl></hi>, but is nevertheless
 <lb/>one of some importance, and appeared to be one
 <lb/>of the principal stations for shipping <orgName>slaves</orgName>, as
 <lb/>the boats found two Barracoons, about
@@ -581,7 +581,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
     <lb/><persName ref="people.xml#pers0253">Senhor <choice><orig>Azev<subst><del hand="#DL" n="DL">i</del><add place="over-text" hand="#DL" n="DL">e</add></subst>do</orig><reg>Azevedo</reg></choice></persName>, a man who is well known
 <lb/>by all who ever visited <placeName><settlement type="town">Kilimane</settlement></placeName>, and who
 <lb/>was presented with a gold chronometer watch
-<lb/>by the <orgName>Admiralty</orgName>, for his attentions to
+    <lb/>by the <orgName ref="orgName.xml#org0032">Admiralty</orgName>, for his attentions to
 <lb/><term type="nationality">English</term> <term type="occupation">officers</term>. He immediately tendered
 <lb/>his large sailing launch, which had a
 <lb/>house in the stern. This was greatly in
@@ -670,7 +670,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>delta is claimed by the <term type="people">Portuguese</term> and the 
 <lb/>southern bank of the <placeName><geogName type="river">Luabo</geogName></placeName> or <placeName><geogName type="river">Cuama</geogName></placeName>, as this part
 <lb/>of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> is sometimes called, is owned by
-<lb/>independent <orgName>natives</orgName> of the <orgName>Caffre</orgName> family. The
+        <lb/>independent <orgName>natives</orgName> of the <orgName ref="orgName.xml#org0042">Caffre</orgName> family. The
 <lb/><term type="people">Portuguese</term> are thus near the main entrance to
 <lb/>the new central region, and as they have of late
 <lb/>years shown <add place="below">^</add> <add place="above">in</add> an enlightened and liberal spirit
@@ -815,7 +815,7 @@ which brings us to the
 <lb/>Seven years were spent at <placeName><settlement type="village">Kolobeng</settlement></placeName> in
 <lb/>instructing my friends there. But the
 <lb/>country being incapable of raising materials
-<lb/>for exportation, when the <orgName>Boers</orgName> made their
+    <lb/>for exportation, when the <orgName ref="orgName.xml#org0038">Boers</orgName> made their
 <lb/>murderous attack and scattered the tribe
 
 
@@ -830,7 +830,7 @@ which brings us to the
 <lb/>raised themselves in the scale by barter,
 <lb/>and have become, like the <term type="tribe">Basutos</term> of
     <lb/><persName ref="people.xml#pers0426">Moshesh</persName> and people of <placeName><settlement type="village">Kuruman</settlement></placeName>, possessed
-<lb/>of fire arms, and the <orgName>Boers</orgName> would never
+    <lb/>of fire arms, and the <orgName ref="orgName.xml#org0038">Boers</orgName> would never
 <lb/>have made the attack at all. We ought
 <lb/>to encourage the <orgName>Africans</orgName> to cultivate for
 <lb/>our markets as the most effectual means,
@@ -850,7 +850,7 @@ which brings us to the
     <lb/>among the
     <lb/><term type="tribe">Matebele</term> -
     <lb/>The</add> 
-<add place="below" hand="#DL" n="DL">^</add> <orgName>Church</orgName> <del type="cancelled" hand="#DL" n="DL">or</del> <orgName>Wesleyan</orgName> or <subst><add place="above" hand="#DL" n="DL"><orgName>Baptist</orgName></add><del type="strikethrough" hand="#DL" n="DL">any other body</del></subst>
+    <add place="below" hand="#DL" n="DL">^</add> <orgName ref="orgName.xml#org0045">Church</orgName> <del type="cancelled" hand="#DL" n="DL">or</del> <orgName>Wesleyan</orgName> or <subst><add place="above" hand="#DL" n="DL"><orgName ref="orgName.xml#org0037">Baptist</orgName></add><del type="strikethrough" hand="#DL" n="DL">any other body</del></subst>
 <lb/>would find desirable locations among
 <lb/>the <term type="tribe">Batoka</term>. <del type="cancelled" hand="#DL" n="DL"><metamark function="insertion" resp="#DL" n="DL"/></del> The Country is so extensive
 <lb/>there is no fear of clashing<add place="inline" hand="#DL" n="DL">,</add> <add place="marginbottom" hand="#DL" n="DL"><metamark function="insertion"/>All <del type="cancelled" hand="#DL" n="DL"><add place="above" hand="#DL" n="DL"><unclear cert="medium">churches</unclear></add> sorts find they</del> <add place="below">classes of</add> <orgName>Christians</orgName> find that sectarian rancour
@@ -865,7 +865,7 @@ which brings us to the
 <pb facs="liv_000101_0271.jpg" n="0271"/><!-- p676, sh -->    
 <lb/><fw><add place="inspace" hand="#U2" n="U2" rend="gray right">20</add> <space extent="3" unit="chars"/><add place="inspace" hand="#U1" n="U1" rend="gray right">219</add></fw>
 <lb/>on the unhealthy coast entails. <del type="strikethrough" hand="#DL" n="DL">I specify the
-<lb/><orgName>Church</orgName> and <orgName>Wesleyan Societies</orgName> because of
+    <lb/><orgName ref="orgName.xml#org0045">Church</orgName> and <orgName>Wesleyan Societies</orgName> because of
 <lb/>their riches and influence, and</del> <choice><sic>while</sic><corr>While</corr></choice> respectfully
 <lb/>submitting the plan <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>to these
 <lb/>influential

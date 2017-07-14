@@ -94,12 +94,12 @@
 <lb/><p rend="no-indent"><note place="marginleft">V.</note> <fw><add place="inspace" hand="#U2" rend="gray">86</add> <add place="inspace" hand="#U1" rend="gray right">89</add></fw>
 <lb/><add place="inline" hand="#U2" rend="gray left"><note><unclear cert="low">Coultart</unclear></note></add><!-- possibly the name of the editor working on the manuscript.JL --> <space extent="2" unit="chars"/> =====</p>
 <lb/><p>In trying to benefit the tribes living
-<lb/>under the <orgName>Boers</orgName> of the <placeName><geogName type="mountains"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice>
+	<lb/>under the <orgName ref="orgName.xml#org0038">Boers</orgName> of the <placeName><geogName type="mountains"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice>
 <lb/>mountains</geogName></placeName> I performed twice
 <lb/>a journey of about <measure><subst><del><unclear cert="medium">230</unclear></del><add place="over-text">300</add></subst> <add place="above">300</add> miles</measure>
 <lb/>to the Eastward of <placeName><settlement type="village">Kolobong</settlement></placeName> - <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>had become so obnoxious to the
-<lb/><orgName>Boers</orgName> that though anxious to
+	<lb/><orgName ref="orgName.xml#org0038">Boers</orgName> that though anxious to
 <lb/>accompany me in my journey
 <lb/>he dared not trust himself
 <lb/>among them - <add place="marginleft"><metamark function="insertion"/>This did not arise
@@ -107,7 +107,7 @@
     <lb/><term type="animal">cattle</term> stealing for <subst><del type="cancelled" hand="#U3" rend="red">a
     <lb/>charge of that which</del><add place="above" hand="#U3" rend="red">that crime,</add></subst>
     <lb/><del type="cancelled" hand="#U3" rend="red">is</del> so common among
-    <lb/>the <orgName>Caffres</orgName><add place="inline" hand="#U3" rend="red">,</add> was never
+	<lb/>the <orgName ref="orgName.xml#org0042">Caffres</orgName><add place="inline" hand="#U3" rend="red">,</add> was never
     <lb/><del type="cancelled" hand="#U3" rend="red">made</del><add place="above" hand="#U3" rend="red">charged</add> against his
     <lb/>tribe or indeed against
     <lb/>any <term type="tribe">Bechuana</term> tribe
@@ -134,7 +134,7 @@ On my last
 <lb/>was the first time I had
 <lb/>thought of crossing the Desert<!-- the Kalahari desert. JL --> 
 <lb/>to <placeName><geogName type="lake">Lake Ngami</geogName></placeName> - The conduct
-<lb/>of the <orgName>Boers</orgName> in sending a letter
+	<lb/>of the <orgName ref="orgName.xml#org0038">Boers</orgName> in sending a letter
 <lb/><add place="marginleft"><metamark function="insertion"/>designed to <del type="cancelled" hand="#DL"><del type="cancelled" hand="#U3" rend="red">produce</del></del><add place="above" hand="#U3" rend="red">procure</add> 
     <lb/>my removal out
     <lb/>of the country</add>
@@ -270,7 +270,7 @@ and many attempts
 <lb/>in the direction indicated,
 <lb/>but it was found impossible
 <lb/>even for <orgName>Griquas</orgName> who having
-<lb/>some <orgName>Bushman</orgName> blood in
+	<lb/>some <orgName ref="orgName.xml#org0041">Bushman</orgName> blood in
 <lb/>them may be supposed more
 <lb/>capable of enduring thirst than
 <lb/><orgName>Europeans</orgName> - It was clear then
@@ -332,7 +332,7 @@ and many attempts
 <lb/>by <del type="strikethrough">the purse</del> of this gentleman - </p>
 <lb/><p><persName ref="people.xml#pers0516">Sechele</persName> himself would have
 <lb/>come but fearing that the much
-<lb/>talked of assault of the <orgName>Boers</orgName>
+	<lb/>talked of assault of the <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>might take place during our
 <lb/>absence and blame be attached
 
@@ -377,7 +377,7 @@ and many attempts
 <pb facs="liv_000099_0099.jpg" n="0099"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">92</add> <add place="inspace" hand="#U1" rend="gray right">95</add></fw>
 <lb/>the tackless plains - The inhabitants
-<lb/><orgName>Bushmen</orgName> and <term type="tribe">Bakalahari</term>
+	<lb/><orgName ref="orgName.xml#org0041">Bushmen</orgName> and <term type="tribe">Bakalahari</term>
 <lb/>prey on the game and on
 <lb/>the countless numbers of
     <lb/><add place="marginleft" hand="#U2" rend="gray">a<!--unclear whether this is the addition of "a" or an editor mark, ks --></add> small <foreign xml:lang="la"><term type="animal">Rodenti<subst><del type="cancelled" hand="#U2" rend="gray">ae</del><add place="above" hand="#U2" rend="gray">a</add></subst></term></foreign> and small
@@ -508,16 +508,16 @@ and many attempts
 <pb facs="liv_000099_0103.jpg" n="0103"/>
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">96</add> <add place="inspace" hand="#U1" rend="gray right">99</add></fw>
 <lb/>The human inhabitants <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">of this tract of Country</add> consist
-<lb/>of <orgName>Bushmen</orgName> and <term type="tribe">Bakalahari</term> - The
+	<lb/>of <orgName ref="orgName.xml#org0041">Bushmen</orgName> and <term type="tribe">Bakalahari</term> - The
 <lb/>former probably the <orgName>aborigin<subst><del type="cancelled">al</del><add place="above">es</add></subst></orgName> of
 <lb/>the Southern position of the continent
 <lb/>the latter the remnants of the first
 <lb/>emigration of <term type="tribe">Bechuanas</term> - The
-<lb/><orgName>Bushmen</orgName> live in the desert from
+	<lb/><orgName ref="orgName.xml#org0041">Bushmen</orgName> live in the desert from
 <lb/>choice, the <term type="tribe">Bakalahari</term> from
 <lb/>compulsion, &amp; both possess<del type="cancelled">ing</del> an
 <lb/><add place="marginleft">intense</add> <del type="strikethrough">insatiable</del> love of liberty - The
-<lb/><orgName>Bushmen</orgName> are the only real nomades
+	<lb/><orgName ref="orgName.xml#org0041">Bushmen</orgName> are the only real nomades
 <lb/>in the country - they never
 <lb/>cultivate the soul nor rear any
 <lb/>domestic animal save wretched
@@ -529,7 +529,7 @@ and many attempts
 <lb/>place &amp; <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">thus</add> <w>prov<subst><del>i</del><add place="over-text">e</add></subst><del type="cancelled">ng</del></w> as <subst><del type="strikethrough" hand="#U3" rend="red">natural</del><add place="above" hand="#U3" rend="red">completely</add></subst>
 <lb/>a check upon <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">their</add> inordinate increase
 <lb/>as the other carnivori are - <del type="cancelled" hand="#U3" rend="red">Their</del>
-<lb/><add place="marginleft" hand="#U3" rend="red">The</add> chief subsistence <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">of the <orgName>Bushmen</orgName></add> is the <term type="foodstuff">meat of
+	<lb/><add place="marginleft" hand="#U3" rend="red">The</add> chief subsistence <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">of the <orgName ref="orgName.xml#org0041">Bushmen</orgName></add> is the <term type="foodstuff">meat of
 <lb/>game</term> but that is eked out by
 <lb/>what the women collect of
 <lb/><term type="plant_foodstuff">roots</term> and <term type="foodstuff_plant">beans</term> and <term type="plant_foodstuff">fruits</term> of
@@ -567,7 +567,7 @@ and many attempts
 <pb facs="liv_000099_0105.jpg" n="0105"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">98</add> <add place="inspace" hand="#U1" rend="gray right">101</add> <add place="inspace" hand="#U2" rend="gray right">13</add></fw>
 <lb/>Living ever since on the same
-<lb/>plains with the <orgName>Bushmen</orgName> subject
+	<lb/>plains with the <orgName ref="orgName.xml#org0041">Bushmen</orgName> subject
 <lb/>to the same <del type="strikethrough" hand="#U3" rend="red">climatical</del> influences <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">of climate</add>
 <lb/>enduring the same thirst and
 <lb/>subsisting on the same food
@@ -666,7 +666,7 @@ The compact they enter into is
 <lb/>go into a village and domineer
 <lb/>over the whole with impunity
 <lb/>but when these same adventurers
-<lb/>meet the <orgName>Bushmen</orgName> they are fain
+	<lb/>meet the <orgName ref="orgName.xml#org0041">Bushmen</orgName> they are fain
 <lb/>to change their manners to fawning 
 <lb/>sycophancy - They know <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">that</add> if
 <lb/>the request for tobacco is
@@ -764,7 +764,7 @@ The compact they enter into is
 <lb/>told us ancient stories perished
 <lb/>in these flights - An intelligent
 <lb/><metamark function="flag" resp="#U3" rend="red" spanTo="#meta-39"/><subst><del type="strikethrough" hand="#U3" rend="red">man</del><add place="above" hand="#U3" rend="red"><orgName>native</orgName></add></subst> related to me how the
-<lb/><add place="marginleft" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark> omit</note></add> <orgName>Bushmen</orgName> effectually baulked
+	<lb/><add place="marginleft" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark> omit</note></add> <orgName ref="orgName.xml#org0041">Bushmen</orgName> effectually baulked
 <lb/>a party of his tribe wh<subst><del>o</del><add place="over-text">i</add></subst>ch<!-- the 'i' in which is dotted in red.JL -->
 
 <pb facs="liv_000099_0110.jpg" n="0110"/>
@@ -774,7 +774,7 @@ The compact they enter into is
 <lb/>as he said that no thing human
 <lb/><metamark function="flag" place="marginleft" resp="#U2" rend="gray" spanTo="#meta-40"/>could subsist without water 
 <lb/>they were coolly told by these 
-<lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark> omit</note></add> <orgName>Bushmen</orgName> that they did - 
+	<lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark> omit</note></add> <orgName ref="orgName.xml#org0041">Bushmen</orgName> that they did - 
 <lb/>Expecting to <del type="cancelled" hand="#U3" rend="red">find</del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">find</add> him out
 <lb/>they resolved to watch them
 <lb/>night and day - They <w>per-
@@ -790,7 +790,7 @@ The compact they enter into is
 <lb/><add place="inline" hand="#U3" rend="red">up</add> <del type="strikethrough" rend="red" hand="#U3">&amp; up</del> started the <term type="tribe">Bakwain</term> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">exclaiming</add>
 <lb/>"Yak, Yak! these are not<anchor xml:id="meta-40"/>
 <lb/>men let us go - " probably
-<lb/><subst><del type="strikethrough" hand="#U3" rend="red">they</del><add place="above" hand="#U3" rend="red">the <orgName>Bushmen</orgName></add></subst> had been subsisting
+	<lb/><subst><del type="strikethrough" hand="#U3" rend="red">they</del><add place="above" hand="#U3" rend="red">the <orgName ref="orgName.xml#org0041">Bushmen</orgName></add></subst> had been subsisting
 <lb/> on a store hidden under
 <lb/>ground which had eluded
 <lb/>the<del type="cancelled" hand="#U3" rend="red">ir</del> vigilance <add place="inline" hand="#U3" rend="red">of their visitors.</add><anchor xml:id="meta-39"/></p>

@@ -317,7 +317,7 @@ The <term type="tribe">Makololo</term>
 <lb/>that year - </p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> During this foray the
 <lb/><term type="tribe">Makololo</term> met some <orgName>Arabs</orgName>
-<lb/>from <placeName><geogName type="island">Zanzibar></geogName></placeName> who
+<lb/>from <placeName><geogName type="island">Zanzibar</geogName></placeName> who
 <lb/>presented them with three
 <lb/><term type="nationality">English</term> muskets and
 <lb/>in return <choice><sic>recieved</sic><corr>received</corr></choice> about
@@ -345,7 +345,7 @@ and thus prevent
 <lb/><add place="marginleft" hand="#U3" rend="red">establishing <add place="below">^</add></add> a highway from the coast
 <lb/>into the centre of the country
 <lb/>As there was no hope <del type="strikethrough"  hand="#U3" rend="red">of</del>
-<lb/>of the <orgName>Boers</orgName> allowing the
+    <lb/>of the <orgName ref="orgName.xml#org0038">Boers</orgName> allowing the
 <lb/>peaceable instruction of
 <lb/>the <orgName>natives</orgName> at <placeName><settlement type="village">Kolobeng</settlement></placeName>
 <lb/>I at once resolved to <del type="cancelled">take</del>   
@@ -377,7 +377,7 @@ and thus prevent
 <lb/><head><space extent="6" unit="chars"/><hi rend="double-underline">The <placeName><region>Cape Colony</region></placeName></hi></head>
 <lb/><p>In the minds of many <term type="people"><w>English-
 <lb break="no"/>men</w></term> <del type="cancelled">I find</del> the ideas of the
-<lb/><placeName><region>Cape</region></placeName> and <orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> wars are
+    <lb/><placeName><region>Cape</region></placeName> and <orgName ref="orgName.xml#org0042">Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> wars are
 <lb/><add place="marginleft">as <add place="below">^</add></add> inseparably connected as
 <lb/>the Siamese twins, and it is
 <lb/>somewhat difficult for those
@@ -387,11 +387,11 @@ and thus prevent
 <lb/><add place="marginleft">quietly</add> travelling through the heart of
 <lb/>the colony to the capital <add place="marginleft"><metamark function="insertion"/>in the twentieth
     <lb/>month of a
-    <lb/><orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> war</add>           
+    <lb/><orgName ref="orgName.xml#org0042">Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> war</add>           
 with
 <lb/>as little sense of danger as
 <lb/>if we had been in <placeName><country>England</country></placeName> 
-<lb/><metamark function="newParagraph" place="marginleft">#</metamark> These <orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> wars are an
+    <lb/><metamark function="newParagraph" place="marginleft">#</metamark> These <orgName ref="orgName.xml#org0042">Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> wars are an
 <lb/>unmitigated nuisance - <term type="nationality">English</term>
 <lb/><term type="occupation">colonists</term> are unquestionably
 <lb/>the best in the world - Neither
@@ -471,7 +471,7 @@ with
 <lb/>if they have escaped with
 <lb/>life, are reduced to beggary - 
 <lb/><term type="nationality">English</term> troops are then
-<lb/>sent to chastise the <orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst>s</orgName>
+    <lb/>sent to chastise the <orgName ref="orgName.xml#org0042">Kaff<subst><del>re</del><add place="over-text">ir</add></subst>s</orgName>
 <lb/><add place="marginleft">and avenge</add> <del type="cancelled">for</del> these fearful outrages,
 <lb/>for it is quite abhorrent
 <lb/>to the <term type="nationality">English</term> nat<subst><del type="cancelled"><unclear cert="medium">ure</unclear></del><add place="below">^</add><add place="above">ure</add></subst> to leave
@@ -489,7 +489,7 @@ with
 <lb/>the fighting ground<del type="cancelled">s</del> - The
 <lb/><term type="occupation">Officers</term> are decimated
 <lb/>by perpetual <term type="aliment">anxiety</term> - 
-<lb/><orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> bullets, and the
+    <lb/><orgName ref="orgName.xml#org0042">Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> bullets, and the
                         
                 
 <pb facs="liv_000099_0200.jpg" n="0200"/>             
@@ -510,7 +510,7 @@ with
 <lb/>to the <placeName><region>Cape</region></placeName> happened to be coincident
 <lb/>with the termination of <subst><del>g</del><add place="over-text">a</add></subst> grand
 <lb/>experiment <del type="cancelled">at a</del> <add place="below">^</add> <add place="above">towards a</add> practical
-<lb/>solution of the great <orgName><subst><del>Caffre</del><add place="over-text">Kaffir</add></subst></orgName>
+    <lb/>solution of the great <orgName ref="orgName.xml#org0042"><subst><del>Caffre</del><add place="over-text">Kaffir</add></subst></orgName>
 <lb/>difficulty <metamark function="insertion"/><anchor xml:id="reorder-34"/> noticed <metamark function="reorder" spanTo="#meta-75"/><seg corresp="#reorder-34">above</seg><anchor xml:id="meta-75"/> - <add place="marginleft"><metamark function="insertion"/><del type="cancelled">though</del> <add place="below">^</add> <add place="above">and</add> the
     <lb/>subject being
     <lb/>rather out of
@@ -521,7 +521,7 @@ with
     <lb/>I shall only
     <lb/>offer a <unclear cert="high">rapid</unclear>
     <lb/>sketch</add>
-<lb/><metamark place="marginleft" function="newParagraph">#</metamark> The interval between <orgName><subst><del>Caffre</del><add place="over-text">Kaffir</add></subst></orgName>
+    <lb/><metamark place="marginleft" function="newParagraph">#</metamark> The interval between <orgName ref="orgName.xml#org0042"><subst><del>Caffre</del><add place="over-text">Kaffir</add></subst></orgName>
 <lb/>outbreaks had been prolonged
 <lb/>for <del type="cancelled">a great</del> many years
 <lb/>by what has been called
@@ -542,7 +542,7 @@ with
 <lb/>strongly advocated on<!-- possible previous word beneath 'on'.JL --> the Frontier
     <lb/>called the "<persName ref="people.xml#pers0287"><choice><sic>Durban</sic><corr>D'Urban</corr></choice></persName> policy"<!-- as in Benjamin Durban, ks --> was
 <lb/>tried - The former treated the
-<lb/><add place="marginleft">C</add> <orgName><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> as rational creatures
+    <lb/><add place="marginleft">C</add> <orgName ref="orgName.xml#org0042"><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> as rational creatures
 <lb/>and presupposed <del type="strikethrough">that</del> they had
 <lb/>some sort of natural title to
 <lb/>their lands and if we could
@@ -550,13 +550,13 @@ with
 <lb/>It also went on the basis
 <lb/>of the observation of common
 <lb/>honesty among ourselves as
-<lb/>well as among the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName>
+    <lb/>well as among the <orgName ref="orgName.xml#org0042"><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName>
 <lb/><del type="strikethrough">and</del> It was remarkably cheap
 <lb/>to the mother country - </p>
         <lb/><p>The <persName ref="people.xml#pers0287"><choice><sic>Durban</sic><corr>D'Urban</corr></choice></persName> policy presupposed
 <lb/>a willingness on the part of
 <lb/>the <term type="nationality">Dutch</term> <term type="occupation">Colonists</term> to turn out
-<lb/>and exterminate the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffers</add></subst></orgName>
+            <lb/>and exterminate the <orgName ref="orgName.xml#org0042"><subst><del>Kaffirs</del><add place="over-text">Caffers</add></subst></orgName>
 <lb/>if only allowed to do it in
 <lb/>their own way - This could
 <lb/>not be put into operation
@@ -587,10 +587,10 @@ with
 <lb/>So when the watchword was 
 <lb/>given by the great organ of
 <lb/>the war party "<quote>Send away
-    <lb/><persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName></quote>" - The <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName>
+    <lb/><persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName></quote>" - The <orgName ref="orgName.xml#org0042"><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName>
 <lb/>"<foreign xml:lang="ota"><term type="occupation"><choice><sic>Sippa-his</sic><corr>Sipahi</corr></choice></term></foreign>" went off en masse
 <lb/>to join their proper standard
-<lb/>in the <orgName><choice><sic><unclear cert="medium">Annatolans</unclear></sic><corr>Anatolians</corr></choice></orgName> - Men whose
+    <lb/>in the <orgName ref="orgName.xml#org0036"><choice><sic><unclear cert="medium">Annatolans</unclear></sic><corr>Anatolians</corr></choice></orgName> - Men whose
 <lb/>loyalty to their <term type="occupation">chiefs</term> has
 <lb/>been <del type="strikethrough">but</del> <add place="below">^</add> <add place="above">only barely</add> equalled but not
 <lb/>surpassed by that of the
@@ -609,7 +609,7 @@ with
 <lb/>no step could have been
 <lb/>devised better adapted for
 <lb/>rousing the wrath of the
-<lb/>entire <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> people than
+    <lb/>entire <orgName ref="orgName.xml#org0042"><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> people than
 
 
 
@@ -634,12 +634,12 @@ with
 <lb/><subst><del><unclear cert="medium">be</unclear></del><add place="over-text">The</add></subst> rather dear bought conclusion
     <lb/>was reached that the <persName ref="people.xml#pers0287">D'Urban</persName>
 <lb/>policy is not the solution of the
-<lb/><orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> difficulty for it
+    <lb/><orgName ref="orgName.xml#org0042"><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> difficulty for it
 <lb/>was officially declared
 <lb/>by competent authority that
-<lb/><add place="marginleft">a</add> <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> war was equal to one
-<lb/>with the <orgName>Circassians</orgName> or
-    <lb/><orgName>Algerine Arabs</orgName> and <persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
+    <lb/><add place="marginleft">a</add> <orgName ref="orgName.xml#org0042"><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> war was equal to one
+<lb/>with the <orgName ref="orgName.xml#org0046">Circassians</orgName> or
+    <lb/><orgName ref="orgName.xml#org0034">Algerine Arabs</orgName> and <persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
 <lb/>was not sent away - </p>
 <lb/><p>An experiment had
 <lb/>thus been fairly tried at the
@@ -659,7 +659,7 @@ with
 <lb/>tribe</hi> - The race is imperishable
 <lb/>as other things hereafter to be
 <lb/>noticed indicate <del type="cancelled"><unclear cert="medium">this</unclear></del> as well
-<lb/>Whether the <orgName>Kaffirs</orgName> are the
+    <lb/>Whether the <orgName ref="orgName.xml#org0042">Kaffirs</orgName> are the
     <lb/>descendants of <persName ref="people.xml#pers0331">Ishmael</persName> may
 <lb/>be gravely questioned - but
 <lb/>certain it is they do in
@@ -683,7 +683,7 @@ with
 <lb/>war party for some fifteen
 <lb/>thousand years to come</p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> If we knew the
-<lb/>causes of the <orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> wars
+    <lb/>causes of the <orgName ref="orgName.xml#org0042"><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> wars
 <lb/>a remedy might be found
 <lb/>but since the <del type="cancelled"><unclear cert="medium">annulment</unclear></del>
 <lb/><choice><orig>cancelment</orig><reg>cancellation</reg></choice> of the rational
@@ -732,12 +732,12 @@ with
 <pb facs="liv_000099_0206.jpg" n="0206"/>             
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">17</add> <add place="inspace" hand="#U1" rend="gray right">201</add></fw> 
 <lb/>the catalogue of alleged causes
-<lb/>the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName> themselves say
+    <lb/>the <orgName ref="orgName.xml#org0042"><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName> themselves say
 <lb/>"<quote>No white man is without
 <lb/>a book - Is it God who gave
 <lb/>this book bids him think
 <lb/>of blood - Some white men
-<lb/>come and say "the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName>
+    <lb/>come and say "the <orgName ref="orgName.xml#org0042"><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName>
 <lb/>steal" - but the white men
 <lb/>are the robbers - God made
 <lb/>a boundary by the sea
@@ -777,7 +777,7 @@ with
 <lb/>confidence in either - Still
 <lb/>less can we <choice><sic>concieve</sic><corr>conceive</corr></choice> of those
 <lb/>who have been benefitted by
-<lb/><orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> wars giving an
+    <lb/><orgName ref="orgName.xml#org0042"><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> wars giving an
 <lb/>opinion worth a straw
 <lb/>Yet it is a remarkable
 <lb/>feature in the<del type="cancelled">s</del> case that those
@@ -792,7 +792,7 @@ with
 <lb/>generally quite decided
 <lb/>in their opinions as
 <lb/>to the necessity of severe
-<lb/>measures with the <orgName><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName>
+    <lb/>measures with the <orgName ref="orgName.xml#org0042"><subst><del>Kaffirs</del><add place="over-text">Caffres</add></subst></orgName>
 <lb/>They are particularly active
 <lb/>in pointing out the causes
 <lb/>of the <orgName><subst><del>K</del><add place="over-text">C</add></subst>affir</orgName> wars and boldly
@@ -831,11 +831,11 @@ with
     <lb/>of distress
     <lb/>in the real
     <lb/>sufferers
-    <lb/>by <orgName>Caffre</orgName> wars
+    <lb/>by <orgName ref="orgName.xml#org0042">Caffre</orgName> wars
     <lb/>Real distress
     <lb/>existed in
     <lb/>both cases
-    <lb/>but <del type="strikethrough">Caffre</del>
+    <lb/>but <del type="strikethrough"><orgName ref="orgName.xml#org0042">Caffre</orgName></del>
     <lb/>war provides
     <lb/>no relief
     <lb/>to the needy
@@ -884,7 +884,7 @@ with
 <lb/>are victor<subst><del>y</del><add place="over-text">ies</add></subst> Such a
 <lb/>discrepancy could not
 <lb/>occur if we had the
-<lb/><orgName><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> opinions too and - 
+<lb/><orgName ref="orgName.xml#org0042"><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst></orgName> opinions too and - 
 <lb/>perhaps collision might
 <lb/>be avoided <add place="below">^</add> <add place="above">altogether</add> if they
 <lb/>were allowed a voice
@@ -892,16 +892,16 @@ with
 <lb/>An <term type="nationality">English</term> <term type="occupation">military official</term>
 <lb/>is well known to have
 <lb/>broken his word of honour
-<lb/>and thereby got a <orgName>Caffre</orgName> <term type="occupation">chief</term>
+    <lb/>and thereby got a <orgName ref="orgName.xml#org0042">Caffre</orgName> <term type="occupation">chief</term>
 <lb/>into his hands - We never
 <lb/>got another - And though
 <lb/>one <term type="occupation">governor</term> declared in
 <lb/>a public dispatch that
-<lb/>"<quote>he had slain <subst><del>9</del><add place="over-text">8</add></subst>0 000 <orgName>Caffres</orgName>
-<lb/>and <choice><sic>and</sic><corr/></choice> 6,000 <orgName>Caffre</orgName>
+    <lb/>"<quote>he had slain <subst><del>9</del><add place="over-text">8</add></subst>0 000 <orgName ref="orgName.xml#org0042">Caffres</orgName>
+    <lb/>and <choice><sic>and</sic><corr/></choice> 6,000 <orgName ref="orgName.xml#org0042">Caffre</orgName>
 <lb/><term type="occupation">chiefs</term> and returned triumphant
 <lb/>and victorious</quote>" <subst><del>we</del><add place="over-text">he</add></subst> never
-<lb/>had a single live <orgName>Caffre</orgName>
+    <lb/>had a single live <orgName ref="orgName.xml#org0042">Caffre</orgName>
     <lb/><term type="occupation">chief</term> to <choice><orig>shew</orig><reg>show</reg></choice> - <persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
 <lb/>declared that "<quote>though killed
 <lb/>his bones would rise
@@ -916,14 +916,14 @@ with
 <lb/>written while we were at the <placeName><region>Cape</region></placeName>
 <lb/>The war went on for about
 <lb/>half a year afterwards but as
-<lb/>the entire <orgName>Caffre</orgName> population
+    <lb/>the entire <orgName ref="orgName.xml#org0042">Caffre</orgName> population
 <lb/>has been stated to be only 9<unclear cert="medium">4</unclear>,000
 <lb/>I have never ceased to regret
 <lb/>that we had not a <bibl>Times</bibl>
 <lb/><term type="occupation">commissioner</term> on the spot
 <lb/>as well as at the <placeName><region>Crimea</region></placeName> - It would
 <lb/>be so interesting to discover how
-<lb/>the <orgName>Caffre</orgName> bones got up <del type="strikethrough">and fought</del>
+    <lb/>the <orgName ref="orgName.xml#org0042">Caffre</orgName> bones got up <del type="strikethrough">and fought</del>
     <lb/>like <persName ref="people.xml#pers0303">Benjamin Franklin</persName>'s
     <lb/><add place="marginleft">dead</add> <term type="insect">flies</term> from <term type="foodstuff"><placeName><geogName type="island">Madeira</geogName></placeName> wine</term>
     <lb/>and fought with <persName ref="person.xml#pers0277">Sir George
@@ -936,7 +936,7 @@ with
 <lb/>cases of necessity, by all
 <lb/>means let us <space extent="3" unit="chars"/>hear both
 <lb/>sides of the question - What
-<lb/>do the <orgName>Caffres</orgName> <del type="cancelled">and our <term type="occupation">soldiers</term></del>
+    <lb/>do the <orgName ref="orgName.xml#org0042">Caffres</orgName> <del type="cancelled">and our <term type="occupation">soldiers</term></del>
 <lb/>say? To whom do our <term type="occupation">soldiers</term>
 <lb/>refer as those who alone are
 <lb/>benefitted by the wars? Let us
@@ -965,7 +965,7 @@ with
 <lb/>it must be conceded that
 <lb/>the mother country has
 <lb/>gone as far in gratifying
-<lb/>their whim for <orgName>Kaffir</orgName>
+    <lb/>their whim for <orgName ref="orgName.xml#org0042">Kaffir</orgName>
 <lb/>wars as the most <w>leech-
 <lb break="no"/>-like</w> portion of humanity
 <lb/>could desire - Their favourite
@@ -975,11 +975,11 @@ with
 <lb/>by his proclamation inviting
 <lb/>(insulting?) the Colonial
 <lb/><term type="occupation">farmers</term> to "<quote>exterminate"
-<lb/>the <orgName>Kaffirs</orgName></quote>" the <term type="people">Dutch</term> <subst><del type="strikethrough">are</del><add place="above">under</add></subst>
+    <lb/>the <orgName ref="orgName.xml#org0042">Kaffirs</orgName></quote>" the <term type="people">Dutch</term> <subst><del type="strikethrough">are</del><add place="above">under</add></subst>
 <lb/><add place="marginleft"><term type="nationality">English</term> law <add place="below">^</add> <add place="above">are</add></add> not the bloodthirsty savages
 <lb/>which the misanthropic
 <lb/>policy presupposes - And
-<lb/>even <del type="cancelled">at</del> among the <orgName>Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName>
+    <lb/>even <del type="cancelled">at</del> among the <orgName ref="orgName.xml#org0042">Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName>
 <lb/>war party itself there is
 <lb/>no hope of working it
 
@@ -994,7 +994,7 @@ with
 <lb/>powder ordinance in favour
 <lb/>of our friends as we have
 <lb/>done in favour of our
-<lb/>enemies (the <orgName>Boers</orgName>) <space extent="2" unit="chars"/>the
+    <lb/>enemies (the <orgName ref="orgName.xml#org0038">Boers</orgName>) <space extent="2" unit="chars"/>the
 <lb/>influence and honour of the
 <lb/><term type="nationality">British</term> name will be both
 <lb/>enhanced</p>
@@ -1021,7 +1021,7 @@ with
 <lb/><orgName>natives</orgName> who had the highest
 <lb/>respect for the <term type="nationality">English</term> name
 <lb/>did not believe but as
-<lb/>the assertion of the <orgName>Boers</orgName>
+    <lb/>the assertion of the <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>seems to be backed by
 <lb/>the operation of the Powder
 <lb/>ordinance <subst><del>we</del><add place="over-text">our</add></subst> fame is
@@ -1030,11 +1030,11 @@ with
 <lb/><p>Now I do not wish
 <lb/>to express an opinion on
 <lb/>the policy of the <choice><sic>Independance</sic><corr>Independence</corr></choice>
-<lb/>of the <placeName><region>Transvaal</region></placeName> <orgName>Boers</orgName>,
+    <lb/>of the <placeName><region>Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName>,
 <lb/><del type="cancelled">but the <gap unit="chars" extent="4" agent="illegible"/>that</del> I do beg
 <lb/>that <choice><sic>that</sic><corr/></choice> the <del type="strikethrough"><orgName>Government</orgName></del>
 <lb/>powder <add place="above"><choice><abbr>Ord</abbr><expan>Ordinance</expan></choice></add> - so proper for the
-<lb/><orgName>Kaffirs</orgName> on the East should
+    <lb/><orgName ref="orgName.xml#org0042">Kaffirs</orgName> on the East should
 <lb/>not be so worked as to
 <lb/>give the impression of
 
@@ -1179,7 +1179,7 @@ with
 <lb/>rebellion to be "the <term type="occupation">missionaries</term>"</p>
 <lb/><p>Now the proportion which
 <lb/>the community which has been
-<lb/>enriched by <orgName>Kaffir</orgName> wars bears
+    <lb/>enriched by <orgName ref="orgName.xml#org0042">Kaffir</orgName> wars bears
 <lb/>to the <term type="occupation">missionaries</term> may be
 <lb/> about five hundred to five
 <lb/>And though the latter have on
@@ -1334,7 +1334,7 @@ his forty years of
 <lb/>
 <lb/><p>Now the point of most
 <lb/>importance in this trial
-<lb/>was - the causes of the <orgName>Kaffir</orgName>
+    <lb/>was - the causes of the <orgName ref="orgName.xml#org0042">Kaffir</orgName>
 <lb/>war and <orgName>Hottentot</orgName> rebellion</p>
 
 
@@ -1369,8 +1369,8 @@ his forty years of
     <lb/>surrounded
     <lb/>by the enemy</add>
 on the breaking out 
-<lb/>of the <del type="cancelled"><orgName>Kaffir</orgName></del> <add place="below">^</add> <add place="above">war <del type="cancelled"><unclear cert="medium">completely in the power</unclear></del></add> to join in the
-<lb/>ranks of the <subst><del type="strikethrough"><unclear cert="medium">enemy</unclear></del><add place="above"><orgName>Kaffirs</orgName></add></subst> <del type="cancelled"><unclear cert="medium">and</unclear></del> <add place="below">^</add> <add place="above">But</add>
+    <lb/>of the <del type="cancelled"><orgName ref="orgName.xml#org0042">Kaffir</orgName></del> <add place="below">^</add> <add place="above">war <del type="cancelled"><unclear cert="medium">completely in the power</unclear></del></add> to join in the
+    <lb/>ranks of the <subst><del type="strikethrough"><unclear cert="medium">enemy</unclear></del><add place="above"><orgName ref="orgName.xml#org0042">Kaffirs</orgName></add></subst> <del type="cancelled"><unclear cert="medium">and</unclear></del> <add place="below">^</add> <add place="above">But</add>
 <lb/>not a syllable could be
 <lb/>elicited tending in any
 <lb/>way to <del type="cancelled">elicit</del> <choice><orig>shew</orig><reg>show</reg></choice> complicity
@@ -1431,7 +1431,7 @@ Hence
 <lb/>This roundabout way
 <lb/>of gaining an end might have
 <lb/>been dispensed with <del type="cancelled">(as
-<lb/><unclear cert="medium">could</unclear> the whole <orgName>Caffre</orgName> war
+    <lb/><unclear cert="medium">could</unclear> the whole <orgName ref="orgName.xml#org0042">Caffre</orgName> war
 <lb/>way of enrichment might</del> 
 <lb/><space extent="18" unit="chars"/><del type="cancelled"><unclear cert="medium">also</unclear>)</del>
 
@@ -1530,7 +1530,7 @@ had in view</p>
 <lb/><add place="marginleft">peaceful
     <lb/>preservation
     <lb/>of the</add>
-    <add place="below">^</add> <persName ref="people.xml#pers0310">Glenelg</persName> treaties, was "<orgName>Kaffir</orgName>
+    <add place="below">^</add> <persName ref="people.xml#pers0310">Glenelg</persName> treaties, was "<orgName ref="orgName.xml#org0042">Kaffir</orgName>
 <lb/>grievances - "</p>
 <lb/><space dim="vertical" extent="10" unit="lines"/>
 <lb/><p>As the <term type="occupation">missionaries</term>
@@ -1544,7 +1544,7 @@ had in view</p>
 <lb/>In all our wars we have
 <lb/>had but one side of the
 <lb/>question - We never hear
-<lb/>the <orgName>Kaffir</orgName> version - We
+    <lb/>the <orgName ref="orgName.xml#org0042">Kaffir</orgName> version - We
 <lb/>were compelled to hear the
 <lb/><term type="nationality">Russian</term> views of our
 <lb/>operations in our late
@@ -1560,9 +1560,9 @@ had in view</p>
 <lb/>and wishes too - My <choice><sic>Earnest</sic><corr>earnest</corr></choice> hope
 <lb/>and prayer is that a <bibl>Times</bibl>
 <lb/><term type="occupation">commissioner</term> may anticipate
-<lb/>the next <orgName>Kaffir</orgName> war by a
+    <lb/>the next <orgName ref="orgName.xml#org0042">Kaffir</orgName> war by a
 <lb/>searching enquiry among
-<lb/>both <orgName>Kaffirs</orgName> <orgName>Hottentots</orgName> and
+    <lb/>both <orgName ref="orgName.xml#org0042">Kaffirs</orgName> <orgName>Hottentots</orgName> and
 <lb/><term type="occupation">Colonists</term> and I am certain
 <lb/>that if the causes <subst><del>of</del><add place="over-text">of</add></subst> this
 <lb/>chronic warfare were laid
@@ -1574,7 +1574,7 @@ had in view</p>
 <lb/>any measure that has yet
 <lb/>been proposed - They at least
 <lb/>will not be afraid of
-<lb/>meeting the <orgName>Kaffirs</orgName> in
+    <lb/>meeting the <orgName ref="orgName.xml#org0042">Kaffirs</orgName> in
 <lb/>argument</p>
 <lb/>
     </div>
@@ -1611,7 +1611,7 @@ had in view</p>
 <lb/>geographers</term> who can <subst><del type="strikethrough">fiercely</del><add place="above">keenly</add></subst>
 <lb/>contend for the exact positions of
 <lb/><add place="marginleft">places</add> about as well known as the garden
-<lb/>of <placeName><geogName>Eden</geogName></placeName>, the reader may expect
+<lb/>of <placeName><geogName type="garden">Eden</geogName></placeName>, the reader may expect
 <lb/>from me that information and
 <lb/>those incidents alone which
 <lb/>attract my attention most <choice><sic>stronly</sic><corr>strongly</corr></choice>

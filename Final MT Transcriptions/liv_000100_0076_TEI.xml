@@ -336,7 +336,7 @@ to come for that purpose
 <lb/>my salary of £100 per annum
 <lb/>This sum is sufficient to
 <lb/>enable a <subst><del type="strikethrough">man</del><add place="above"><term type="occupation">missionary</term></add></subst> to live comfortably
-<lb/>in <placeName><region>South Africa</region></placeName><!-- DL is referring to southern Africa rather than the later country, South Africa. --> supposing
+<lb/>in <placeName><country>South Africa</country></placeName><!-- DL is referring to southern Africa rather than the later country, South Africa. --> supposing
 <lb/>he has a garden capable of
 <lb/>yielding <term type="plant_foodstuff">corn</term> &amp; vegetables
 <lb/>or if he makes a journey
@@ -869,7 +869,7 @@ in order
 <lb/>A present is usually given
 <lb/>in return for the hospitality
 <lb/>but except in cases where
-<lb/>their <orgName>aboriginal</orgName> customs
+    <lb/>their <orgName ref="orgName.xml#org0031">aboriginal</orgName> customs
 <lb/>have been modified <subst><del>by</del><add place="over-text">no</add></subst>thing
 <lb/>would be asked - <orgName>Europeans</orgName>
 <lb/>spoil the<del type="cancelled">s</del> feeling that
@@ -935,7 +935,7 @@ in order
 <lb/>their hoes in hand - a
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">phenomenon</del><add place="above" hand="#U3" rend="red">state of things</add></subst> never witnessed
 <lb/>at <placeName><settlement type="village">Kolobeng</settlement></placeName> or in any
-<lb/><term type="tribe">Bechuana</term> or <orgName>Caffre</orgName> tribe
+    <lb/><term type="tribe">Bechuana</term> or <orgName ref="orgName.xml#org0042">Caffre</orgName> tribe
 
 
 <pb facs="liv_000100_0097.jpg" n="0097"/> 

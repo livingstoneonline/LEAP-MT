@@ -129,7 +129,7 @@ before they
 <lb/>of any form of public worship
 <lb/>or of idols or of formal
 <lb/>prayers or sacrifice makes
-<lb/>both <orgName>Caffres</orgName> and <term type="tribe">Bechuanas</term>
+    <lb/>both <orgName ref="orgName.xml#org0042">Caffres</orgName> and <term type="tribe">Bechuanas</term>
 <lb/>appear as among the most
 <lb/>godless <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">races</add> of mortals known
 <lb/><add place="inline" hand="#U3" rend="red">anywhere.</add></p>
@@ -152,7 +152,7 @@ before they
 <lb/>well named <del type="strikethrough"><placeName><geogName type="well">Orapa</geogName></placeName> <placeName><geogName type="well">Thutsa</geogName></placeName></del>
 <lb/><placeName><geogName type="well">Orapa</geogName></placeName> &amp; another <w><subst><del>n</del><add place="over-text">c</add></subst>alled</w> <placeName><geogName type="well">Thutsa</geogName></placeName>
 <lb/>the water is <term type="foodstuff">salt</term> and purgative
-<lb/>The salt pan <placeName><geogName type="saltpan">Chuantsa</geogName></placeName> having
+<lb/>The salt pan <placeName><geogName type="pan">Chuantsa</geogName></placeName> having
 <lb/><add place="marginleft">a cake</add> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">of <term type="foodstuff">salt</term></add> 1<choice><orig>₁/₂</orig><reg>1/2</reg></choice> inches in <add place="above" hand="#U3" rend="red">thickness</add> <del type="strikethrough" rend="red" hand="#U3">diameter of <term type="foodstuff">salt</term></del>
 <lb/>is about <measure>10 miles</measure> to the <choice><abbr>N- E-</abbr><expan>North East</expan></choice> of
 <lb/><placeName><geogName type="well">Orapa</geogName></placeName> <space extent="3" unit="chars"/>This <subst><del type="cancelled" hand="#U3" rend="red"><term type="foodstuff">salt</term></del><add place="above" hand="#U3" rend="red">deposit</add></subst> contains
@@ -322,7 +322,7 @@ that only by great labour
 <lb/>with all his wariness resist
 <lb/>the excessive desire to slake
 <lb/>his burning thirst - It is a 
-<lb/><orgName><choice><sic>bushman</sic><corr>Bushman</corr></choice></orgName> practice to take
+    <lb/><orgName ref="orgName.xml#org0041"><choice><sic>bushman</sic><corr>Bushman</corr></choice></orgName> practice to take
 <lb/>advantage of its piteous
 <lb/>necessities for most of the
 <lb/>feathers they <subst><del type="cancelled" hand="#U3" rend="red">bring</del><add place="above">obtain</add></subst> are procured
@@ -398,7 +398,7 @@ that only by great labour
 <lb/>in which I <add place="below">˄</add> <add place="above">ever</add> had any share
 <lb/>in <term type="occupation">hangman</term> hunting - We
 <lb/>passed over the immense
-<lb/>pan <placeName><geogName type="saltpan">Ntwetwe</geogName></placeName> on which
+<lb/>pan <placeName><geogName type="pan">Ntwetwe</geogName></placeName> on which
 <lb/>the latitude could be taken as
 <lb/>at sea - Great tracts of
 <lb/>this part of the country are
@@ -645,14 +645,14 @@ detached from the parts
 <pb facs="liv_000100_0019.jpg" n="0019"/>
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">15</add> <add place="inspace" rend="gray right" hand="#U2">15</add> <add place="inspace" rend="gray right" hand="#U1">19</add></fw> 
 <lb/>At <placeName><settlement type="village">Rapesh</settlement></placeName> we came among
-<lb/>our old friends the <orgName>Bushmen</orgName>
+    <lb/>our old friends the <orgName ref="orgName.xml#org0041">Bushmen</orgName>
 <lb/><del type="strikethrough"><add place="marginleft" hand="#U3" rend="red"><note><metamark function="ed-mark">X</metamark> <metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> meaning
     <lb/>who?</note></add></del>       
     <metamark function="flag" place="marginleft" rend="red" resp="#U3" spanTo="#meta-140"/><add place="marginleft"><del type="strikethrough">under</del> <add place="below">˄</add></add> <del type="strikethrough">of</del> <add place="below">˄</add> <add place="above">under</add> <persName ref="people.xml#pers0323">Horoye</persName> - This <add place="below">˄</add> <add place="above"><metamark function="ed-mark" rend="red" resp="#U3">X</metamark>man <persName ref="people.xml#pers0323">Horoye</persName> a</add> specimen of
     <lb/>that tribe <subst><del type="strikethrough">as well as his sons</del><add place="above">and his son <persName ref="people.xml#pers0414">Mokantsa</persName></add></subst><anchor xml:id="meta-140"/>
 <lb/><add place="marginleft">&amp; others</add> were at least 6 <choice><abbr>ft</abbr><expan>feet</expan></choice> high and
 <lb/>of a darker colour than
-<lb/>the <orgName>Bushmen</orgName> of the South
+    <lb/>the <orgName ref="orgName.xml#org0041">Bushmen</orgName> of the South
 <lb/>They have always plenty of
 <lb/>food and water and as
 <lb/>they frequent the <placeName><geogName type="river">Zouga</geogName></placeName> as <add place="above" hand="#U3" rend="red">do</add>
@@ -672,7 +672,7 @@ detached from the parts
 <lb/>in their superstitions observances
 <lb/>more appearance of worship
 <lb/>than the <term type="tribe">Bechuanas</term> and
-<lb/>at a <orgName><choice><sic>bushman</sic><corr>Bushman</corr></choice></orgName>'s grave we
+    <lb/>at a <orgName ref="orgName.xml#org0041"><choice><sic>bushman</sic><corr>Bushman</corr></choice></orgName>'s grave we
 <lb/>once came to on the <placeName><geogName type="river">Zouga</geogName></placeName> 
 <lb/>the observances <choice><orig>shewed</orig><reg>showed</reg></choice> distinctly
 <lb/>that they regarded the dead as
@@ -693,7 +693,7 @@ detached from the parts
 <lb/>chase on account of its
 <lb/>coolness - Hunting this<!-- p166 Missionary, sh -->
 <lb/><add place="marginleft" rend="red" hand="#U3"><note><del type="strikethrough" hand="#DL"><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark></del> sport</note></add> animal is the best <hi rend="red underline" resp="#U3">test</hi> <add place="marginleft"><metamark function="insertion"/>of courage</add> this
-<lb/>country affords - The <orgName>Bushmen</orgName>
+    <lb/>country affords - The <orgName ref="orgName.xml#org0041">Bushmen</orgName>
 <lb/>choose the moment succeeding
 <lb/>a charge when <add place="above" hand="#U3" rend="red">the <term type="animal">elephant</term></add> <del type="strikethrough" hand="#U3" rend="red">he</del> is out of
 <lb/>breath to run in and give
@@ -703,7 +703,7 @@ detached from the parts
 <lb/>advantage over us but
 <lb/>I believe that with half their 
 <lb/>training <term type="people">Englishmen</term> would
-<lb/>beat the <orgName>Bushmen</orgName> - Our
+    <lb/>beat the <orgName ref="orgName.xml#org0041">Bushmen</orgName> - Our
 <lb/>present form of civilization
 <lb/>does not necessarily produce
 <lb/>effeminacy though it
@@ -718,8 +718,8 @@ detached from the parts
 <lb/>in order to form an idea
 <lb/>of <add place="inline" hand="#U3" rend="red">the</add> probable <add place="marginleft"><metamark function="insertion"/>annual</add> <add place="above"><del type="cancelled">annual</del></add> destruction  of
 <lb/>this noble animal - There were
-<lb/>parties of <del type="strikethrough"><orgName>Boers</orgName></del> - <orgName>Griquas</orgName>
-<lb/><term type="tribe">Bechuanas</term> <add place="below">˄</add> <add place="above"><orgName>Boers</orgName></add> and <term type="people">Englishmen</term>
+    <lb/>parties of <del type="strikethrough"><orgName ref="orgName.xml#org0038">Boers</orgName></del> - <orgName>Griquas</orgName>
+    <lb/><term type="tribe">Bechuanas</term> <add place="below">˄</add> <add place="above"><orgName ref="orgName.xml#org0038">Boers</orgName></add> and <term type="people">Englishmen</term>
 
 
 <pb facs="liv_000100_0021.jpg" n="0021"/>
@@ -735,12 +735,12 @@ detached from the parts
 <lb/>that the average for the <orgName>natives</orgName>
 <lb/>was under one per man
 <lb/>for the <orgName>Griquas</orgName> one per man
-<lb/>for the <orgName>Boers</orgName> two and
+    <lb/>for the <orgName ref="orgName.xml#org0038">Boers</orgName> two and
 <lb/>for the <term type="people">English</term><del type="cancelled">man</del> <add place="above"><term type="occupation">Officers</term></add> <metamark function="insertion"/><anchor xml:id="reorder-53"/> 20 each
 <lb/><metamark function="reorder" spanTo="#meta-141"/><seg corresp="#reorder-53">who hunted <term type="animal">elephants</term></seg><anchor xml:id="meta-141"/> - This
 <lb/>
 <lb/>was the more remarkable as
-<lb/>the <orgName>Griquas</orgName> <orgName>Boers</orgName> &amp; <term type="tribe">Bechuanas</term>
+    <lb/>the <orgName>Griquas</orgName> <orgName ref="orgName.xml#org0038">Boers</orgName> &amp; <term type="tribe">Bechuanas</term>
 <lb/>employed both <term type="animal">dogs</term> and
 <lb/><orgName>natives</orgName> to assist them
 <lb/>while the <term type="people">Englishmen</term>
@@ -791,7 +791,7 @@ detached from the parts
 <lb/>when as is the custom of the<!-- p167 Missionary, sh -->
 <lb/><term type="tribe">Bamangwato</term> the <term type="tribe">Bechuanas</term>
 <lb/>come here in search of skins
-<lb/>and food among the <orgName>Bushmen</orgName>
+    <lb/>and food among the <orgName ref="orgName.xml#org0041">Bushmen</orgName>
 <lb/>But he could not be made
 <lb/>to comprehend that there was no
 <lb/>danger in them - He feared
@@ -859,7 +859,7 @@ detached from the parts
 <lb/>with his <w>usual<del type="cancelled">l</del></w> <del type="strikethrough" hand="#U3" rend="red">nicety</del> <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" hand="#U3" rend="red">delicacy of taste <add place="below">^</add></add> feeds
 <lb/>much on it - On emerging <add place="inline" hand="#U3" rend="red">on</add> to
 <lb/>the plains beyond we found
-<lb/>a number of <orgName><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName> who
+    <lb/>a number of <orgName ref="orgName.xml#org0041"><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName> who
 <lb/>afterwards proved very serviceable
 <lb/><seg type="weather">The rains had been copious</seg>
 <lb/>and great numbers of pools 
@@ -897,7 +897,7 @@ and on the <date when="1853-03-01">10<hi rend="sup">th</hi> March</date> we
 <lb/>myself - He managed the <term type="animal">oxen</term>
 <lb/>while I attended to the wants
 <lb/>of the patients and went out
-<lb/>occasionally with the <orgName>Bushmen</orgName>
+    <lb/>occasionally with the <orgName ref="orgName.xml#org0041">Bushmen</orgName>
 <lb/>to get a <term type="animal">Zebra</term> or <term type="animal">buffalo</term> so as
 <lb/>to induce them to remain
 <lb/>with us - The grass here was
@@ -972,7 +972,7 @@ and on the <date when="1853-03-01">10<hi rend="sup">th</hi> March</date> we
 <lb/>but making beds for these
 <lb/>our worst cases I with the
 <lb/>help<!-- there is a word beneath 'help' but it is illegible.JL --> of the <term type="tribe">Bakwain</term> and
-<lb/>the <orgName>Bushmen</orgName> moved slowly
+    <lb/>the <orgName ref="orgName.xml#org0041">Bushmen</orgName> moved slowly
 <lb/>on - We had to nurse the sick
 <lb/>like children And like children
 <lb/>recovering from illness the
@@ -1027,7 +1027,7 @@ and
     <lb/>acting than
     <lb/>if I</add> 
 had been beholding them in
-<lb/>a dream - The <orgName>Bushmen</orgName>
+    <lb/>a dream - The <orgName ref="orgName.xml#org0041">Bushmen</orgName>
 <lb/>know and eat them - but
 <lb/>they are not good on account
 <lb/>of the great <subst><del type="strikethrough">size</del><add place="above">astringency</add></subst> of the seeds

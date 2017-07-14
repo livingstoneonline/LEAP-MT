@@ -229,7 +229,7 @@ when <del type="cancelled">these most degraded
 <lb/>that some have supposed
 <lb/>them <del type="strikethrough">destitute</del> entirely ignorant
 <lb/><add place="marginleft" rend="red" hand="#U3">on the subject -</add> <del type="strikethrough" rend="red" hand="#U3">of them</del>- At <placeName><settlement type="village"><choice><orig>LotLakane</orig><reg>Lotlakani</reg></choice></settlement></placeName> 
-<lb/>we met an old <orgName>Bushman</orgName>
+    <lb/>we met an old <orgName ref="orgName.xml#org0041">Bushman</orgName>
 <lb/>who at first seemed to have
 <lb/>no conception of morality
 <lb/>whatever - <add place="inline" rend="gray" hand="#U2">;</add> When his heart<!-- p159 of Travels. sh -->
@@ -267,11 +267,11 @@ were
 <add place="inline" rend="red" hand="#U3">-</add> he had only the idea of
 <lb/>a <term type="occupation">chief</term><add place="inline" rend="gray" hand="#U2">,</add> and was all
     <lb/>the while referring to <persName ref="people.xml#pers0520">Sekomi</persName><add place="inline" rend="gray" hand="#U2">,</add>
-<lb/>and a party of rebel <orgName><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName><add place="inline" rend="gray" hand="#U2">,</add>
+    <lb/>and a party of rebel <orgName ref="orgName.xml#org0041"><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName><add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>against whom he had been
 <lb/>sent - If I had known
 <lb/>the name for God in the
-<lb/><orgName>Bushman</orgName> tongue the
+    <lb/><orgName ref="orgName.xml#org0041">Bushman</orgName> tongue the
 <lb/>mistake could scarcely
 <lb/>have occurred - </p>
 

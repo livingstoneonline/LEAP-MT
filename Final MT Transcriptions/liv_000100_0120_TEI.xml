@@ -865,7 +865,7 @@ is the true
     
         <pb facs="liv_000100_0139.jpg" n="0139"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">134</add> <add place="inspace" hand="#U1" rend="gray right">138</add></fw>
-<lb/>exactly as <placeName><region>Lower Egypt</region></placeName> is
+    <lb/>exactly as <placeName><region>Lower <placeName><country>Egypt</country></placeName></region></placeName> is
 <lb/><seg type="weather">flooded by the <placeName><geogName type="river">Nile</geogName></placeName></seg> The
 <lb/>villages of the <term type="tribe">Barotse</term> are
 <lb/>built on mounds some of
@@ -967,7 +967,7 @@ is the true
 <lb/>justified their acts by the
     <lb/>evidence given by <persName ref="people.xml#pers0405">Mamochisane</persName>
 <lb/>and calmly added "you see
-<lb/>we are still <orgName>Boers</orgName>, we are
+    <lb/>we are still <orgName ref="orgName.xml#org0038">Boers</orgName>, we are
 <lb/>not yet taught" - </p>
 <lb/><p><persName ref="people.xml#pers0431">Mpepe</persName> had given full
 <lb/>permission to the <term type="tribe">Mambari</term>

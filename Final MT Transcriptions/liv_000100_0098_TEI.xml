@@ -142,7 +142,7 @@
 <lb/>the decree "all are children of
 <lb/>the <term type="occupation">chief</term>"</p>
 <lb/><space dim="vertical" extent="5" unit="lines"/>
-<lb/><p><del type="strikethrough" hand="#U3" rend="red">They</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">The <foreign xml:lang="tn"><orgName>Makalaka</orgName></foreign></add> cultivate the <term type="plant_foodstuff"><orgName>Caffre</orgName>
+                <lb/><p><del type="strikethrough" hand="#U3" rend="red">They</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">The <foreign xml:lang="tn"><orgName>Makalaka</orgName></foreign></add> cultivate the <term type="plant_foodstuff"><orgName ref="orgName.xml#org0042">Caffre</orgName>
 <lb/>sorghum</term> or <del type="cancelled">dourha dur</del> 
 <lb/><term type="plant_foodstuff"><choice><orig>Dourha</orig><reg>Dourra</reg></choice></term> - (doora) as the
 <lb/>principal <term type="foodstuff">grain</term> - with
@@ -464,8 +464,8 @@
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">102</add> <add place="inspace" hand="#U1" rend="gray right">106</add></fw>
 <lb/>Most other tribes are known
 <lb/>by the terms applied to them
-<lb/>by strangers as the <orgName>Caffres</orgName>, <orgName>Hottentots</orgName>
-<lb/>&amp; <orgName>Bushmen</orgName> - The <term type="tribe">Bechuanas</term>
+    <lb/>by strangers as the <orgName ref="orgName.xml#org0042">Caffres</orgName>, <orgName>Hottentots</orgName>
+    <lb/>&amp; <orgName ref="orgName.xml#org0041">Bushmen</orgName> - The <term type="tribe">Bechuanas</term>
 <lb/>alone use the term themselves
 <lb/>as a generic term for the whole
 <lb/>nation - They have managed
@@ -497,7 +497,7 @@
 <lb/>Africans</orgName><!-- I've used orgName here rather than "people",since Livingstone is referring to a range of ethnic groups rather than South African as a national identity.JL --> into three
 <lb/>divisions - <add place="below">^</add> <add place="above">1st</add> The <term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> or
 <lb/><term type="tribe">Makonko-bi</term> <del type="cancelled" hand="#U3" rend="red">are</del><add place="inline" hand="#U3" rend="red">,</add> the
-<lb/><orgName>Caffre</orgName> family living on the
+    <lb/><orgName ref="orgName.xml#org0042">Caffre</orgName> family living on the
 <lb/>Eastern side of the country - 
 <lb/><add place="marginleft" hand="#U3" rend="red">2nd</add> The <term type="people">Bakoni</term> or <del type="cancelled">tribes
 <lb/>living</del> <term type="tribe"><choice><orig>Basutu</orig><reg>Basuto</reg></choice></term> - <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">3rd</add> the <term type="tribe">Bechuanas</term>
@@ -511,12 +511,12 @@
 <lb/>tribes living in or <add place="above">adjacent to</add> <del type="cancelled">on the
 <lb/>borders of</del> The Great <placeName><geogName type="desert">Kalahari
 <lb/>desert</geogName></placeName> - </p>
-<lb/><p><add place="marginleft" hand="#U3" rend="red">1st.</add> The <orgName>Caffres</orgName> are divided by
+                <lb/><p><add place="marginleft" hand="#U3" rend="red">1st.</add> The <orgName ref="orgName.xml#org0042">Caffres</orgName> are divided by
 <lb/>themselves into various sub
 <lb/>divisions as <term type="tribe">Amakosa</term>
 <lb/><term type="tribe">Amapanda</term> <del type="cancelled" hand="#U3" rend="red">&amp;c - &amp;c -</del> and other
 <lb/>well known <subst><del type="strikethrough" hand="#U3" rend="red">terms</del><add place="above" hand="#U3" rend="red">titles</add></subst> - They
-<lb/>consider the name <orgName>Caffre</orgName> as
+                    <lb/>consider the name <orgName ref="orgName.xml#org0042">Caffre</orgName> as
 <lb/>an insulting epithet - <del type="strikethrough">As my
 <lb/>remarks are <choice><sic>intend</sic><corr>intended</corr></choice> to
 <lb/>apply more particularly
@@ -606,7 +606,7 @@ and some <term type="occupation">mountaineers</term>
 <lb/>raise very large quantities
 <lb/>of <term type="foodstuff">grain</term> It is among
 <lb/>them that the more distant
-<lb/><orgName><choice><sic>boers</sic><corr>Boers</corr></choice></orgName> revel in slothful
+    <lb/><orgName ref="orgName.xml#org0038"><choice><sic>boers</sic><corr>Boers</corr></choice></orgName> revel in slothful
 <lb/>abundance on their industry
 <lb/>and follow <w>the<del type="cancelled">ir</del></w> <orgName>slave</orgName>
 <lb/>hunting and <term type="animal">cattle</term> stealing
@@ -636,13 +636,13 @@ and some <term type="occupation">mountaineers</term>
 <lb/>seems to be not much
 <lb/>known that the <orgName>South,
 <lb/>Africans</orgName>, with the exception
-<lb/>of the <orgName>Hottentots</orgName> and <orgName>Bushmen</orgName>
+    <lb/>of the <orgName>Hottentots</orgName> and <orgName ref="orgName.xml#org0041">Bushmen</orgName>
 <lb/>are and always have been
 <lb/><term type="occupation">agriculturalists</term> - <del type="strikethrough" rend="red" hand="#U3">The want</del>
 <lb/><add place="marginleft" rend="red" hand="#U3">It has never been
     <lb/>borne in mind</add> 
 <del type="cancelled" rend="red" hand="#U3">of knowledge</del> that in our
-<lb/><orgName>Caffre</orgName> wars we have been
+    <lb/><orgName ref="orgName.xml#org0042">Caffre</orgName> wars we have been
 <lb/>trying to wrest lands from
 <lb/>a people possessing in
 <lb/>a strong degree the same
@@ -664,7 +664,7 @@ much to be wondered at
     <lb/>held in <placeName><settlement type="city">Cape town</settlement></placeName></add> 
 <add place="below">^</add> in <date when="1855">1855</date> - <del type="cancelled" rend="red" hand="#U3">expressed</del> a strong
 <lb/>desire that <del type="cancelled" hand="#U3" rend="red">that</del> the
-<lb/><orgName>Caffres</orgName> might become
+    <lb/><orgName ref="orgName.xml#org0042">Caffres</orgName> might become
 <lb/>an agricultural people - 
 <lb/>a wish similar to what
 <lb/>a man might express if
@@ -694,7 +694,7 @@ much to be wondered at
 <lb/>and generally the <term type="tribe">Zulu<del type="cancelled">s</del></term>
 <lb/>of <placeName><region>Natal</region></placeName> can raise <term type="foodstuff">grain</term>
 <lb/>cheap enough to drive
-<lb/>the <orgName>Dutch African</orgName> <term type="occupation">farmer</term> 
+    <lb/>the <orgName ref="orgName.xml#org0038">Dutch African</orgName> <term type="occupation">farmer</term> 
 <lb/>out of the market</p>
 <lb/><space dim="vertical" extent="2" unit="lines"/>
 <lb/><p>3<hi rend="sup underline">d</hi> The <term type="tribe">Bakalahari</term> or<!-- p202, last para, Missionary, sh -->

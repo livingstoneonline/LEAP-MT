@@ -656,7 +656,7 @@ among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>t
 <lb/><del type="cancelled" hand="#DL" n="DL">of</del> <add place="below" hand="#DL" n="DL">^</add> <add place="marginleft" hand="#DL" n="DL">of so important a</add> communication between <placeName><country>Mozambique</country></placeName> and
 <lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName><retrace hand="#DL" n="DL"><add place="inline" rend="gray" hand="#DL" n="DL">"</add></retrace> <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>This is the only
     <lb/>instance of
-    <lb/><orgName><orgName>native</orgName> <term type="nationality">Portuguese</term></orgName>
+    <lb/><orgName ref="orgName.xml#org0033"><orgName>native</orgName> <term type="nationality">Portuguese</term></orgName>
     <lb/><add place="below">^</add> <add place="above">subjects</add> crossing the
     <lb/>continent - No
     <lb/><orgName>European</orgName> ever
@@ -918,10 +918,10 @@ and look
 <lb/><add place="marginleft">was</add> a welcome feast to themselves <space extent="3" unit="chars"/>On the
 <lb/>eastern side <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> we passed on without
 <lb/>visiting our friend <choice><abbr>` '</abbr><expan>of the</expan></choice> conical head dress to <choice><abbr>'</abbr><expan>the</expan></choice>
-<lb/>residence <choice><abbr>`</abbr><expan>of</expan></choice> some <orgName>Ambacistas</orgName> who had crossed
+    <lb/>residence <choice><abbr>`</abbr><expan>of</expan></choice> some <orgName ref="orgName.xml#org0035">Ambacistas</orgName> who had crossed
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> river in order to secure <choice><abbr>'</abbr><expan>the</expan></choice> first chances of
 <lb/>trade in wax <space extent="4" unit="chars"/>I have before remarked
-<lb/>on <choice><abbr>'</abbr><expan>the</expan></choice> knowledge <add place="below">^</add> <add place="above">of reading &amp; writing</add> these <term type="tribe">Ambacistas</term> possess they
+    <lb/>on <choice><abbr>'</abbr><expan>the</expan></choice> knowledge <add place="below">^</add> <add place="above">of reading &amp; writing</add> these <orgName ref="orgName.xml#org0035">Ambacistas</orgName> possess they
 <lb/>are famed for their love of <metamark function="transposition" place="above" resp="#U2" n="U2" rend="gray">2</metamark>learning of <metamark function="transposition" place="above" resp="#U2" n="U2" rend="gray">1</metamark>all
 <lb/>sorts within their reach, a knowledge <choice><abbr>` '</abbr><expan>of the</expan></choice> history
 <lb/>of <placeName><country>Portugal</country></placeName> - <term type="nationality">Portuguese</term> law &amp;c &amp;c  <space extent="2" unit="chars"/><del type="strikethrough">They are
@@ -995,7 +995,7 @@ and look
 <lb/>fashion with <choice><abbr>'</abbr><expan>the</expan></choice> somewhat <term type="nationality">Egyptian</term> cast of <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/>countenance in <subst><del>L</del><add place="over-text">s</add></subst>ome parts of <placeName><region>Londa</region></placeName>
 <lb/>reminded me strongly of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Egyptian</term> paintings in <choice><abbr>'</abbr><expan>the</expan></choice>
-<lb/><orgName>British Museum</orgName> <space extent="3" unit="chars"/>We had now <seg type="weather">rains 
+<lb/><orgName ref="orgName.xml#org0040">British Museum</orgName> <space extent="3" unit="chars"/>We had now <seg type="weather">rains 
 <lb/>every day and <choice><abbr>'</abbr><expan>the</expan></choice> sky seldom presented that
 <lb/>cloudless aspect and clear blue so common
 <lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> dry lands of the south <space extent="3" unit="chars"/>The heavens are

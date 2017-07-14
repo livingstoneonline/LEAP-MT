@@ -157,7 +157,7 @@
 <lb/>we come into Independent
 <lb/>territory inhabited by <orgName>Griquas</orgName>
 <lb/>and <term type="tribe">Bechuanas</term>, The former
-<lb/>are of <term type="nationality">Dutch</term> and <orgName>Hottentot</orgName> <add place="marginleft"><metamark function="insertion"/>and <orgName><choice><sic>bushman</sic><corr>Bushman</corr></choice></orgName></add> extraction
+    <lb/>are of <term type="nationality">Dutch</term> and <orgName>Hottentot</orgName> <add place="marginleft"><metamark function="insertion"/>and <orgName ref="orgName.xml#org0041"><choice><sic>bushman</sic><corr>Bushman</corr></choice></orgName></add> extraction
 <lb/>of various degrees of remoteness
 <lb/><add place="marginleft" hand="#U3" rend="red">Cross-breeds</add><!-- unusual symbol above the second 'e'.JL --> <del type="cancelled"><hi rend="red underline" resp="#U3">Bastards</hi></del> of the first generations
 <lb/><subst><del>are</del><add place="over-text">con</add></subst>sider themselves superior
@@ -201,7 +201,7 @@
 <lb/>numbers among them who
 <lb/>had as little scruple <subst><del type="strikethrough" hand="#U3" rend="red">at</del><add place="above" hand="#U3" rend="red">about</add></subst> robbing
 <lb/><term type="occupation">farmers</term> of <term type="animal">cattle</term> as has been
-<lb/>ascribed to the <orgName>Caffres</orgName> - On
+    <lb/>ascribed to the <orgName ref="orgName.xml#org0042">Caffres</orgName> - On
     <lb/>the election of <persName ref="people.xml#pers0565">Waterboer</persName> to the
 <lb/><term type="occupation">chieftainship</term> he distinctly declared
 <lb/><hi rend="underline">that no marauding should
@@ -230,7 +230,7 @@
 <lb/>effects of the introduction of
 <lb/>ardent <term type="foodstuff">spirits</term> among his
 <lb/>people he with characteristic
-<lb/>energy decreed that any <orgName>Boer</orgName>
+    <lb/>energy decreed that any <orgName ref="orgName.xml#org0038">Boer</orgName>
 <lb/>or <orgName>Griqua</orgName> bringing <del type="cancelled">it</del>
 <lb/><term type="foodstuff">brandy</term> into the country
 <lb/>should have his property in
@@ -240,7 +240,7 @@
 <lb/>farther East were unable
 <lb/>to carry this law into effect
 <lb/>as he did - hence the greater
-<lb/>facility with which <orgName>Boers</orgName>
+    <lb/>facility with which <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>in that direction got them
 <lb/>to part with their farms</add>
     
@@ -296,12 +296,12 @@ for their
 <lb/>the country, one would
 <lb/>have thought that the exception
 <lb/>should not have been made
-<lb/>in favour of either <orgName>Boers</orgName>
-<lb/>or <orgName>Caffres</orgName> our openly
+    <lb/>in favour of either <orgName ref="orgName.xml#org0038">Boers</orgName>
+    <lb/>or <orgName ref="orgName.xml#org0042">Caffres</orgName> our openly
 <lb/>avowed enemies<add place="inline" hand="#U2" rend="gray">;</add> <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>but the
 <lb/>exception has been made <add place="below" hand="#U2" rend="gray">,</add>
 <lb/>and is still continued in
-<lb/>their<add place="inline" hand="#U2" rend="gray">,</add> (the <choice><sic><orgName>Boer</orgName>'s</sic><corr><orgName>Boers</orgName>'</corr></choice>) favour
+    <lb/>their<add place="inline" hand="#U2" rend="gray">,</add> (the <choice><sic><orgName ref="orgName.xml#org0038">Boer</orgName>'s</sic><corr><orgName ref="orgName.xml#org0038">Boers</orgName>'</corr></choice>) favour
 <lb/>and the <term type="tribe">Bechuanas</term> and
 <lb/><orgName>Griquas</orgName><add place="inline" hand="#U2" rend="gray">,</add> our constant friends
 <lb/>are debarred from obtaining
@@ -331,7 +331,7 @@ for their
 <lb/>Cathcart</persName> apparently unconscious
 <lb/>of what he was doing
 <lb/>entered into a treaty with the
-<lb/><placeName><region>Transvaal</region></placeName> <orgName>Boers</orgName> in which
+                    <lb/><placeName><region>Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName> in which
 <lb/>articles were introduced for
 <lb/>the free passage of <term type="nationality">English</term>
 <lb/><term type="occupation">traders</term> to the North<add place="inline" hand="#U2" rend="gray">,</add> and
@@ -343,7 +343,7 @@ for their
 <lb/>alone they dare attempt
 <lb/>to enslave (the <term type="tribe">Bechuanas</term>)
 <lb/>were rendered quite defenceless
-<lb/>The <orgName>Boers</orgName> never attempt
+                    <lb/>The <orgName ref="orgName.xml#org0038">Boers</orgName> never attempt
 <lb/>to fight with <orgName><subst><del>C</del><add place="over-text">K</add></subst>affirs</orgName><add place="inline" hand="#U2" rend="gray">,</add> <del type="strikethrough" hand="#U2" rend="gray">-</del> But
 <lb/>immediately on the <w>proclama<supplied>-</supplied>
 <lb break="no"/>-tion</w> of their <choice><sic>Independance</sic><corr>Independence</corr></choice><add place="inline" hand="#U2" rend="gray">,</add>
@@ -505,7 +505,7 @@ for their
 <lb/><p rend="no-indent"><fw><add place="inspace" hand="#U2" rend="gray left">216</add> <add place="inspace" rend="gray right" hand="#U1">256</add></fw></p>
 <lb/><p>The <orgName>Griquas</orgName> and <term type="tribe">Bechuanas</term>
 <lb/>were in former times <del type="strikethrough">were</del>
-<lb/><add place="marginleft">clad</add> <del type="strikehthrough">clothed</del> <add place="below">^</add> <add place="above">much like the <orgName>Caffres</orgName></add> if such a word may
+    <lb/><add place="marginleft">clad</add> <del type="strikehthrough">clothed</del> <add place="below">^</add> <add place="above">much like the <orgName ref="orgName.xml#org0042">Caffres</orgName></add> if such a word may
 <lb/>be used to signify <add place="above">scarcely any</add> <del type="strikethrough">no</del> clothing
 <lb/>at all - A bunch of leather strings
 <lb/>about <del type="cancelled">a</del> 18 inches long hung
@@ -763,7 +763,7 @@ It was in vain
 <lb/><add place="marginleft">honour to</add> preserve in<add place="inline" hand="#U3" rend="red">,</add> though told by a
 <lb/><term type="occupation">missionary</term> that they can never
 <lb/>force water to run up hill - </p>
-<lb/><p><add place="marginleft">It is interesting to observe</add> the industry of <subst><del type="cancelled">the</del><add place="above">many</add></subst> <orgName>Boers</orgName> in this
+                <lb/><p><add place="marginleft">It is interesting to observe</add> the industry of <subst><del type="cancelled">the</del><add place="above">many</add></subst> <orgName ref="orgName.xml#org0038">Boers</orgName> in this
 <lb/><add place="marginleft">region</add> in making long and deep canals
 
 
@@ -961,7 +961,7 @@ It <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="#U3
 <lb/>during upwards of forty years
 <lb/>and is well known by his
 <lb/>interesting work "<bibl>scenes &amp; labours
-<lb/>in <placeName><region>South Africa</region></placeName></bibl>"<!-- I've coded this as <region> rather than "country", since DL is really referring to southern Africa. The country doesn't come into being until 1910 with the Union of South Africa).JL --> was busily
+<lb/>in <placeName><country>South Africa</country></placeName></bibl>"<!-- I've coded this as <region> rather than "country", since DL is really referring to southern Africa. The country doesn't come into being until 1910 with the Union of South Africa).JL --> was busily
 <lb/>engaged in carrying through the
 <lb/>press with which his station
 <lb/>is furnished the <bibl>Bible in the
@@ -1024,7 +1024,7 @@ In my own
 <lb/>an attribute of the human mind
 <lb/>and thought - and the inflexions
 <lb/><del type="cancelled">proofs</del> various as they are in
-<lb/>the most barbarous (as the <orgName>Bushmen</orgName>)
+    <lb/>the most barbarous (as the <orgName ref="orgName.xml#org0041">Bushmen</orgName>)
 <lb/>are probably only proofs of the race
 <lb/>being human and endowed
 <lb/>with the power of <del type="cancelled"><subst><del>thought</del><add place="over-text">thinking</add></subst></del> <add place="marginleft"><metamark function="insertion"/>thinking</add> - The

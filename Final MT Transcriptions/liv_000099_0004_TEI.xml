@@ -237,7 +237,7 @@ This <add place="below">˄</add> <subst><del type="cancelled">was</del><add plac
 <lb/>when the <orgName>Highlanders</orgName> <retrace hand="#DL"><add place="marginleft" hand="#U2" rend="gray"><metamark function="insertion"/>according to 
     <lb/><persName ref="people.xml#pers0376">Macaulay</persName></add></retrace>
 were much
-    <lb/>like the <placeName><region>Cape</region></placeName> <orgName><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> and any 
+    <lb/>like the <placeName><region>Cape</region></placeName> <orgName ref="orgName.xml#org0042"><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> and any 
 <lb/>one <add place="below">˄</add> <add place="above">it was said,</add> could escape punishment
 <lb/>for theft by presenting a share
 <lb/><metamark function="query" place="marginleft" resp="#U2" rend="gray">?</metamark> of the plunder to his <term type="occupation">chieftain</term>.
@@ -569,7 +569,7 @@ no matter by whom <add place="below">^</add> <add place="above">practised</add> 
 <lb/>as <orgName>slaves</orgName> whose blood boils
 <lb/>at the thought of oppression -
 <lb/>and who glory in being the
-<lb/>sons of the <orgName>Covenanters</orgName>
+<lb/>sons of the <orgName ref="orgName.xml#org0048">Covenanters</orgName>
 <lb/>and of the<del type="cancelled">m</del> men who bled
 <lb/>at <placeName><settlement type="town">Bannockburn</settlement></placeName> - Though
 <lb/>we are the victims of great
@@ -732,7 +732,7 @@ which have proved
 <lb/>Northwards to visit the <term type="tribe">Bakaa</term>
 <lb/>and <term type="tribe">Bamangwato</term> and the
 <lb/><foreign xml:lang="tn"><orgName>Makalaka</orgName></foreign> living between <measure>22° &amp; 23
-<lb/><add place="marginleft">south <choice><abbr>Lat-</abbr><expan>Latitude</expan></choice></add></measure> <subst><del>This part</del><add place="over-text">The <placeName><geogName>Bakaa mountains</geogName></placeName></add></subst> had been
+<lb/><add place="marginleft">south <choice><abbr>Lat-</abbr><expan>Latitude</expan></choice></add></measure> <subst><del>This part</del><add place="over-text">The <placeName><geogName type="mountains">Bakaa mountains</geogName></placeName></add></subst> had been
 <lb/>visited before by a <term type="occupation">trader</term> who
 <lb/>with his people all perished
 <lb/>from <term type="ailment">fever</term> - In going round

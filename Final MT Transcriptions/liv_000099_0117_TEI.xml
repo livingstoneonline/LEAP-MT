@@ -493,17 +493,17 @@ But there is
 <lb/>be near the water they were
 <lb/><add place="marginleft">just</add> alongside the waggons - The
 <lb/><term type="occupation">guide</term> <add place="below">^</add> <add place="above">had</add> come across the fresh
-<lb/>footprints of some <orgName>Bushmen</orgName> <add place="marginleft"><metamark function="insertion"/>who had gone
+                    <lb/>footprints of some <orgName ref="orgName.xml#org0041">Bushmen</orgName> <add place="marginleft"><metamark function="insertion"/>who had gone
     <lb/>in an opposite
     <lb/>direction to that
     <lb/>we wished <del type="cancelled">him</del>
     <lb/>to go</add>
 <lb/>and turn<subst><del type="strikethrough">ing</del><add place="over-text">ed</add></subst> aside to follow
 <lb/>the<subst><del>se</del><add place="over-text">m</add></subst> <del type="strikethrough">found</del> an <term type="animal">antelope</term> had
-<lb/><add place="below">^</add> <add place="above">been</add> ensnared in one of the<del type="strikethrough">ir</del> <add place="above"><orgName>Bushmen</orgName></add> pitfalls
+                    <lb/><add place="below">^</add> <add place="above">been</add> ensnared in one of the<del type="strikethrough">ir</del> <add place="above"><orgName ref="orgName.xml#org0041">Bushmen</orgName></add> pitfalls
                     <lb/><persName>Murray</persName> <add place="below">^</add> <add place="above"><del type="cancelled">who</del></add> <del type="cancelled">had</del> followed <persName ref="people.xml#pers0489">Ramotobi</persName>
 <lb/>most trustingly along the
-<lb/><orgName>Bushmen</orgName> spoor, though
+                    <lb/><orgName ref="orgName.xml#org0041">Bushmen</orgName> spoor, though
 <lb/>that led <add place="marginleft"><metamark function="insertion"/>them both
     <lb/>away from 
     <lb/>the water 
@@ -623,7 +623,7 @@ But there is
 <lb/>the <placeName><geogName type="river">Mokoko</geogName></placeName> the scenes of his
     <lb/>boyhood - But <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> while
 <lb/>riding in front of the waggons
-<lb/>happened to spy a <orgName>Bushwoman</orgName>
+    <lb/>happened to spy a <orgName ref="orgName.xml#org0041">Bushwoman</orgName>
 <lb/>running away in a bent
 <lb/>position in order to escape
 <lb/>observation - Thinking it to be
@@ -684,7 +684,7 @@ But there is
                     <lb/>like a Lake - <persName ref="people.xml#pers0466"><choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> threw his
 <lb/>hat up in the air at the sight
 <lb/>and shouted out a huzza which
-<lb/>made the poor <orgName>Bushwoman</orgName>
+                    <lb/>made the poor <orgName ref="orgName.xml#org0041">Bushwoman</orgName>
 <lb/>and <term type="tribe">Bakwains</term> think him mad -
 
 
@@ -703,14 +703,14 @@ But there is
 <lb/><measure>300 miles distant</measure> - <del type="strikethrough" hand="#U3" rend="red">The</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">One</add> reason
 <lb/><add place="marginleft" hand="#U3" rend="red">of our mistake</add> was <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">that</add> the river <hi rend="gray underline" resp="#U2"><placeName><geogName type="river">Zou<add place="above" rend="gray" hand="#U2">u</add>ga</geogName></placeName></hi> was often
 <lb/>spoken of by the same name
-<lb/>as the Lake <choice><abbr>viz - </abbr><expan>videlicet</expan></choice> <placeName><geogName type="lake">Noka ea Botletli</geogName></placeName></p>
+<lb/>as the Lake viz - <placeName><geogName type="river">Noka ea Botletli</geogName></placeName></p>
 <lb/><p>Looking to the West <add place="below">^</add> <add place="above">&amp; <choice><abbr>Nor</abbr><expan>North</expan></choice> West</add> from
 <lb/><placeName><geogName type="pan">Nchokotsa</geogName></placeName> we could see columns
 <lb/>of black smoke exactly like
 <lb/>those from a steam engine
 <lb/>rising to the clouds and were
 <lb/>assured that these <add place="below" hand="#U3" rend="red">^</add> <add place="above">arose</add> <subst><del><unclear cert="low">came</unclear></del><add place="over-text">from</add></subst> the
-<lb/><metamark function="placeMark" place="marginleft"/><!-- a line in the margin, possibly marking DL's place while proofreading.JL --> reeds of the <placeName><geogName type="lake">Noka ea Botletli</geogName></placeName> on
+<lb/><metamark function="placeMark" place="marginleft"/><!-- a line in the margin, possibly marking DL's place while proofreading.JL --> reeds of the <placeName><geogName type="river">Noka ea Botletli</geogName></placeName> on
 <lb/>fire - The mirage on these
 <lb/>salinas was marvellous - It
 <lb/>is never I believe seen in
@@ -790,7 +790,7 @@ But there is
 <lb/><term type="tribe">Bamangwato</term>, who had
 <lb/>been sent on before us
                     <lb/>by <persName ref="people.xml#pers0520">Sekomi</persName> to drive away
-<lb/>all the <orgName>Bushmen</orgName> and
+                    <lb/>all the <orgName ref="orgName.xml#org0041">Bushmen</orgName> and
 <lb/><term type="tribe">Bakalahari</term> from our path,
 <lb/>came and sat down by our
 <lb/>fire - We had seen their footsteps
@@ -798,7 +798,7 @@ But there is
 <lb/>watched our slow movements
 <lb/>forward, and wondered to
 <lb/>see how we, without any
-<lb/><orgName>bushmen</orgName>, found our way
+                    <lb/><orgName ref="orgName.xml#org0041">bushmen</orgName>, found our way
 <lb/>to the waters - This was the
 <lb/>first time <hi rend="underline">they</hi> had seen
                     <lb/><persName ref="people.xml#pers0489">Ramotobi</persName> - "You have reached

@@ -317,7 +317,7 @@ except that of the
 <lb/>the desert<!--geog:--> in the <placeName><region>valley of the <placeName><geogName type="river">Nile</geogName></placeName></region></placeName>
 <lb/>But here the <term type="tribe">Banyeti</term> have
 <lb/>fine gardens and raise large
-<lb/>quantities of <term type="plant_foodstuff">maize</term> - <del type="cancelled"><term type="plant_foodstuff"><orgName>Caffre</orgName> sorghum</term> </del>
+    <lb/>quantities of <term type="plant_foodstuff">maize</term> - <del type="cancelled"><term type="plant_foodstuff"><orgName ref="orgName.xml#org0042">Caffre</orgName> sorghum</term> </del>
 <lb/><term type="plant_foodstuff">millet</term> (<term type="plant_foodstuff"><orgName><subst><del>C</del><add place="over-text">K</add></subst>affir</orgName> sorghum</term>) of large
 <lb/><term type="foodstuff">grain</term> and beautifully white 
 <lb/>They raise also <term type="plant_foodstuff">yams</term> - <term type="plant_foodstuff">sugar
@@ -664,7 +664,7 @@ The <term type="animal">lions</term> here roar
 <lb/>so we let him enjoy himself
 <lb/>certain that he durst not
 <lb/>have been guilty of the impertinence
-<lb/>in the <placeName><region><orgName>Bushman</orgName> country</region></placeName>
+    <lb/>in the <placeName ref="orgName.xml#org0041"><region><orgName>Bushman</orgName> country</region></placeName>
 <lb/>Wherever the game abounds
 <lb/>there these animals exist
 <lb/>in proportionate numbers
@@ -717,7 +717,7 @@ The <term type="animal">lions</term> here roar
 <lb/>where large game abounds <add place="inline" hand="#U3" rend="red">-</add>
 <lb/>the <term type="animal">mice</term> and <term type="animal">moles</term> <add place="below">^</add> <add place="above"><del type="strikethrough" hand="#U3" rend="red">for food</del></add> which
 <lb/>infest the country - The half breed
-<lb/>or <orgName><orgName>native</orgName> <term type="people">Portuguese</term></orgName> could all
+    <lb/>or <orgName ref="orgName.xml#org0033"><orgName>native</orgName> <term type="people">Portuguese</term></orgName> could all
 <lb/>read and write and the head of
 <lb/>the party <del type="cancelled">seemed</del> if not a real
 <lb/><term type="person">Portuguese</term> had <orgName>European</orgName> hair
@@ -725,7 +725,7 @@ The <term type="animal">lions</term> here roar
 <lb/>the letter of <del type="cancelled">co</del>recommendation
     <lb/>which I held from the <persName ref="people.xml#pers0297">Chevalier
 <lb/>Duprat</persName> <choice><abbr>H- M- F-</abbr><expan>His Most Faithful</expan></choice> <add place="below" rend="gray" hand="#U2">^</add> <add place="marginleft" hand="#U2" rend="gray">Majesty's</add> <term type="occupation">Arbitrator</term> in
-<lb/>the <orgName>British and Portuguese mixed
+<lb/>the <orgName ref="orgName.xml#org0039">British and Portuguese mixed
 <lb/>commission <del type="cancelled">at</del> <placeName><settlement type="city">Cape town</settlement></placeName></orgName>
 <lb/>was evidently anxious to
 <lb/><choice><orig>shew</orig><reg>show</reg></choice> me all the kindness in

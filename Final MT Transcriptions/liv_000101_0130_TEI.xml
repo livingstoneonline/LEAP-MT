@@ -282,7 +282,7 @@ seemed to produce an instant
 
 <pb facs="liv_000101_0134.jpg" n="0134"/><!-- p446-447, sh -->
 <lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">129</add></fw> 
-<lb/>They are by no means equal to <choice><abbr>'</abbr><expan>the</expan></choice> <orgName><placeName><region>Cape</region></placeName> Caffres</orgName> in any
+    <lb/>They are by no means equal to <choice><abbr>'</abbr><expan>the</expan></choice> <orgName ref="orgName.xml#org0042"><placeName><region>Cape</region></placeName> Caffres</orgName> in any
 <lb/>respect whatever <space unit="chars" extent="3"/><metamark function="newParagraph">⎦</metamark>In <choice><abbr>'</abbr><expan>the</expan></choice> evening we came to
     <lb/><persName ref="people.xml#pers0445">Moena<del type="cancelled">ki</del> Kikanje</persName> and found him a sensible
 <lb/>man. <add place="inline">He</add> <del type="strikethrough">This</del> is <choice><abbr>'</abbr><expan>the</expan></choice> last <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="tribe">Chiboque</term> <term type="occupation">chiefs</term> <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>in this direction</add> and is
@@ -946,7 +946,7 @@ I picked
 <lb/>and other tender plants are killed
 <lb/>while <choice><abbr>'</abbr><expan>the</expan></choice> same <del type="strikethrough">plants</del> kinds in spots sheltered
 <lb/>by forests continue green though <choice><abbr>'</abbr><expan>the</expan></choice> whole year
-<lb/>All <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region><placeName><region>interior</region></placeName> <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><region>South Africa</region></placeName></region></placeName> has a distinct
+<lb/>All <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region><placeName><region>interior</region></placeName> <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><country>South Africa</country></placeName></region></placeName> has a distinct
 <lb/>winter <add place="below">^</add> <add place="above"><choice><abbr>'</abbr><expan>the</expan></choice> cold</add> varying in intensity <del type="strikethrough">of cold</del> with <choice><abbr>'</abbr><expan>the</expan></choice> latitudes
 <lb/><seg type="weather">In <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region><placeName><region>interior</region></placeName> parts of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>Cape Colony</region></placeName></region></placeName> <choice><abbr>'</abbr><expan>the</expan></choice> cold in <choice><abbr>'</abbr><expan>the</expan></choice> 
 <lb/>winter is often <del type="strikethrough"><unclear cert="medium">intense</unclear></del> severe and <choice><abbr>'</abbr><expan>the</expan></choice> ground is

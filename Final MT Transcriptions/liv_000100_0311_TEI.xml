@@ -195,7 +195,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>staring at us for an hour
 <lb/>they began to disperse</p>
 <lb/>                
-<lb/><p>The two <orgName><orgName>African</orgName> <term type="people">Portuguese</term></orgName>
+                <lb/><p>The two <orgName ref="orgName.xml#org0033"><orgName>African</orgName> <term type="people">Portuguese</term></orgName>
 <lb/>(crossbreeds) of whom we had
 <lb/>heard, had erected a little
 <lb/>encampment opposite <del type="cancelled">ours</del>
@@ -244,7 +244,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>negroes having much more
 <lb/>wool on their heads and
 <lb/>bodies than any of the <term type="tribe">Bechuana<del type="cancelled">s</del></term>
-<lb/>or <orgName>Caffre</orgName> tribes - They are<!-- p291, Missionary, sh -->
+    <lb/>or <orgName ref="orgName.xml#org0042">Caffre</orgName> tribes - They are<!-- p291, Missionary, sh -->
 <lb/>generally very dark in colour
 <lb/>and from among them
 <lb/>have been drawn many of
@@ -283,7 +283,7 @@ and <term type="plant_foodstuff">bananas</term>
     <lb/>a grand reception by <persName ref="people.xml#pers0532">Shinte</persName> about
     <lb/>one <choice><sic>oclock</sic><corr>o'clock</corr></choice> - <persName ref="people.xml#pers0506">Sambanza</persName> claimed the
 <lb/>honour of presenting <subst><del>me</del><add place="over-text">us</add></subst> <persName ref="people.xml#pers0388">Manenko</persName>
-<lb/>being <add place="below">^</add> <add place="marginleft">slightly</add> indisposed - The <orgName><orgName>Native</orgName> <term type="people">Portuguese</term></orgName>
+    <lb/>being <add place="below">^</add> <add place="marginleft">slightly</add> indisposed - The <orgName ref="orgName.xml#org0033"><orgName>Native</orgName> <term type="people">Portuguese</term></orgName>
 <lb/>and <term type="tribe"><choice><orig>Mam<metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>bari</orig><reg>Mambari</reg></choice></term><!-- function of gray barcket is unclear but it connects to the marginal numner.JL --> went fully armed with
     <lb/>guns in order to give <persName ref="people.xml#pers0532">Shinte</persName> <del type="strikethrough">a</del> a
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>203</note></add><!-- the number is enclosed in a circle, sh --> <del type="strikethrough">parting</del> salute - They had their <term type="occupation">drummer</term>
@@ -595,7 +595,7 @@ all very neat and
 <lb/>hair - your clothing too is
 <lb/>different from any we have
 <lb/>ever seen too" - They had been
-<lb/>visited by <orgName><orgName>Native</orgName> <term type="people">Portuguese</term></orgName>
+    <lb/>visited by <orgName ref="orgName.xml#org0033"><orgName>Native</orgName> <term type="people">Portuguese</term></orgName>
 <lb/>(crossbreeds) and <term type="tribe">Mambari</term>
 <lb/><subst><del><unclear cert="medium">al</unclear></del><add place="over-text">on</add></subst>ly - <del type="strikethrough">He presented</del></p>
 <lb/><p><subst><del>I ha</del><add place="over-text">On</add></subst> learning from some

@@ -103,7 +103,7 @@
 <lb/><p><fw rend="center">(68*)</fw>
 <lb/><addSpan spanTo="#longadd-18" corresp="#add-18"/>be effected<add place="inline" rend="red" hand="#U3">,</add> by establishing a highway from the coast
 <lb/>into the centre of the country. <metamark function="newParagraph" rend="red" resp="#U3">⎡</metamark>As there was no hope <metamark function="newParagraph" place="marginright" rend="red" resp="#U3">⎡</metamark><metamark function="substitution" place="marginright">/</metamark>
-<lb/>of the <orgName>Boers</orgName> allowing the peaceable instruction of the
+    <lb/>of the <orgName ref="orgName.xml#org0038">Boers</orgName> allowing the peaceable instruction of the
 <lb/><orgName>natives</orgName> at <placeName><settlement type="village">Kolobeng</settlement></placeName><add place="inline" rend="red" hand="#U3">,</add> I at once resolved to save my
 <lb/>family from exposure to this unhealthy region by
 <lb/>sending them to <placeName><country>England</country></placeName>, and to return alone<add place="inline" rend="red" hand="#U2">,</add> with a
@@ -122,7 +122,7 @@
 <lb/>Our route to <placeName><settlement type="city">Cape Town</settlement></placeName> led us to pass
 <lb/>through the centre of the Colony during
 <lb/><unclear cert="medium"><metamark function="placeMark"/></unclear> the Twentieth month of a 
-<lb/><orgName>Caffre</orgName> War, and if those who
+    <lb/><orgName ref="orgName.xml#org0042">Caffre</orgName> War, and if those who
 <lb/>periodically pay enormous
 <lb/>sums for these inglorious
 <lb/>affairs<add place="inline" rend="gray" hand="#U1">,</add> wish to know how
@@ -193,7 +193,7 @@
 <lb/>be attributed to the <del type="cancelled">laborious</del>
 <lb/>voluntary aid of the excellent
 <lb/>and laborious <term type="occupation">astronomer</term>
-<lb/>of the <orgName><placeName><region>Cape</region></placeName> Observatory</orgName> - 
+    <lb/>of the <orgName ref="orgName.xml#org0043"><placeName><region>Cape</region></placeName> Observatory</orgName> - 
 <lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> Chapter</note></add> <add place="inline"><note>(After this insert part of 66 - Having sent my family &amp;c)</note></add>
 
 

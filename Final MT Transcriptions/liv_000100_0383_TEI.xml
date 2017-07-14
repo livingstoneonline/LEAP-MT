@@ -162,7 +162,7 @@
     <lb/><persName ref="people.xml#pers0340">Kangenke</persName> <term type="occupation">chief</term> of <placeName><region>Lobale</region></placeName>
 <lb/>on account of his
 <lb/>selling their relatives to the
-<lb/><orgName><orgName>native</orgName> <term type="people">Portuguese</term></orgName> who
+    <lb/><orgName ref="orgName.xml#org0033"><orgName>native</orgName> <term type="people">Portuguese</term></orgName> who
 <lb/>frequent his country - He
 <lb/>is a tall man about forty
 <lb/>years of age and <add place="below">^</add> <add place="above">his head</add> was
@@ -332,7 +332,7 @@ when young
 <lb/><p>As <persName ref="people.xml#pers0348">Katema</persName> did not
 <lb/>offer an <term type="animal">ox</term> as would have
 <lb/>been done by a <term type="tribe">Makololo</term>
-<lb/><w>o<subst><del>f</del><add place="over-text">r</add></subst></w> <orgName>Caffre</orgName> <term type="occupation">chief</term> we slaughtered
+    <lb/><w>o<subst><del>f</del><add place="over-text">r</add></subst></w> <orgName ref="orgName.xml#org0042">Caffre</orgName> <term type="occupation">chief</term> we slaughtered
 <lb/>one of our own and all
 <lb/>of us were delighted to get a
 <lb/>meal of <term type="foodstuff">meat</term> after subsisting

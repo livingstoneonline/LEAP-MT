@@ -111,14 +111,14 @@
     <lb/>at last<add place="inline" hand="#U3" rend="red">,</add> we all loved <persName ref="people.xml#pers0533">Shobo</persName>
 <lb/>a <del type="cancelled">wonderful</del> fine specimen
 <lb/>of that wonderful people the
-<lb/><orgName>Bushmen</orgName> -</p>
+    <lb/><orgName ref="orgName.xml#org0041">Bushmen</orgName> -</p>
 <lb/><p>Next day we came to a village
 <lb/>of <term type="tribe">Banajoa</term> a tribe which 
 <lb/>extends far to the Eastward
 <lb/>They were living on the borders
 <lb/>of a marsh in which the
 <lb/><metamark function="ed-mark" place="marginleft" rend="gray" resp="#U2">X</metamark><!-- the mark is also circled.JL --> <placeName><geogName type="river">Mababe</geogName></placeName> terminates - they had
-<lb/>lost their crop of <term type="foodstuff_plant">corn</term> (<term type="plant_foodstuff"><orgName>Caffer</orgName> sorghum</term>)
+    <lb/>lost their crop of <term type="foodstuff_plant">corn</term> (<term type="plant_foodstuff"><orgName ref="orgName.xml#org0042">Caffer</orgName> sorghum</term>)
 <lb/>and now subsided almost
 <lb/>entirely on the <term type="foodstuff">root</term> called
 <lb/><metamark function="ed-mark" place="marginleft" rend="gray" resp="#U2">X</metamark><!-- the mark is also circled.JL --> "<foreign xml:lang="und"><term type="plant">Tsitla</term></foreign>", a kind of <term type="plant"><choice><sic>aroi<hi rend="gray underline" resp="#U2">dorioea</hi></sic><corr>aroidoea</corr></choice></term> which
@@ -665,7 +665,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>the <placeName><geogName type="river">Teoughe</geogName></placeName> to the Hill <placeName><geogName type="hill">Sorila</geogName></placeName>
 <lb/>and crossed over a swampy
 <lb/>country to the Eastwards
-<lb/>The low lying <placeName><geogName type="riverbasin">basin of the
+<lb/>The low lying <placeName><geogName type="basin">basin of the
 <lb/><placeName><geogName type="river">Leeambye</geogName></placeName></geogName></placeName> presented no
 <lb/>attractions <add place="inline" hand="#U3" rend="red">to</add> a pastoral tribe
 <lb/>like his so he moved down 
@@ -738,7 +738,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right">174</add> <add place="inspace" rend="gray right" hand="#U1">177</add></fw>
 <lb/>never lost their love for this
 <lb/>fine healthy spot - </p>
-<lb/><p>But the <term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> a <orgName>Kaffir</orgName>
+                <lb/><p>But the <term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> a <orgName ref="orgName.xml#org0042">Kaffir</orgName>
     <lb/><add place="marginleft">or <term type="tribe">Zul<subst><del type="strikethrough">a</del><add place="above">u</add></subst></term></add> tribe under <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName> crossed
 <lb/>the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> and attacking
 <lb/>him in this chosen spot captured

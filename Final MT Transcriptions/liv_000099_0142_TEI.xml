@@ -847,7 +847,7 @@ to <subst><del type="strikethrough" hand="#U3" rend="red">obtain</del><add place
 <lb/>we found  that the main spring
 <lb/>of the gun of another of his men
 <lb/>who was well acquainted with
-<lb/>the <orgName>Bushman</orgName> through whose
+    <lb/>the <orgName ref="orgName.xml#org0041">Bushman</orgName> through whose
 <lb/>country we should pass, had
 <lb/>opportunely broken - I never
 <lb/>undertook to mend a gun
@@ -869,7 +869,7 @@ to <subst><del type="strikethrough" hand="#U3" rend="red">obtain</del><add place
 <lb/><term type="plant">Mopane</term> and <term type="plant">Baobab trees</term>
 <lb/><subst><del>In</del><add place="over-text">On</add></subst> several parts of this we
 <lb/>found large salt pans, one
-<lb/>of which <placeName><geogName type="saltpan">Ntwetwe</geogName></placeName> is <measure>15
+<lb/>of which <placeName><geogName type="pan">Ntwetwe</geogName></placeName> is <measure>15
 <lb/>miles broad &amp; 100 long - </measure>
 	
 	
@@ -890,8 +890,8 @@ to <subst><del type="strikethrough" hand="#U3" rend="red">obtain</del><add place
 <lb/>of the <placeName><geogName type="river">Zouga</geogName></placeName> - The salt dissolved
 <lb/>in the water had by this
 <lb/>means all been translated to one
-<lb/><add place="marginleft" hand="#U3" rend="red">pan</add> in that direction named <del type="cancelled"><placeName><geogName type="feature"><unclear cert="low">Tlanye</unclear></geogName></placeName></del><!-- feature may not be the best way of describing this pan.JL -->
-<lb/><add place="marginleft"><placeName><geogName type="feature">Chuantsa</geogName></placeName></add>, on it we see a cake of salt 
+<lb/><add place="marginleft" hand="#U3" rend="red">pan</add> in that direction named <del type="cancelled"><placeName><geogName type="pan"><unclear cert="low">Tlanye</unclear></geogName></placeName></del><!-- feature may not be the best way of describing this pan.JL -->
+<lb/><add place="marginleft"><placeName><geogName type="pan">Chuantsa</geogName></placeName></add>, on it we see a cake of salt 
 <lb/>and lime <subst><del type="strikethrough" hand="#U3" rend="red">one</del><add place="above" hand="#U3" rend="red">an inch</add></subst> &amp; a half <del type="strikethrough" hand="#U3" rend="red">inches</del>
 <lb/>thick - All the others have
 <lb/>an efflorescence of lime and 
@@ -969,8 +969,8 @@ on account of the nitrates
 <lb/>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> We found a <add place="below">˄</add> <add place="above">great</add> number of
 <lb/>wells in this tufa - A place
-<lb/>called <placeName><geogName type="feature">Matlomagan-yana</geogName></placeName>
-<lb/>or the "<placeName><geogName type="feature">Links</geogName></placeName>" is quite a
+<lb/>called <placeName><geogName type="well">Matlomagan-yana</geogName></placeName>
+<lb/>or the "<placeName><geogName type="well">Links</geogName></placeName>" is quite a
 <lb/>chain of these never failing
 <lb/>springs - As they <seg type="weather">occasionally
 <lb/>fill in seasons when no
@@ -981,8 +981,8 @@ on account of the nitrates
 <lb/>they <choice><sic>recieve</sic><corr>receive</corr></choice> some water by
 <lb/>percolation from the river
 <lb/>system <add place="marginleft"><metamark function="insertion"/>in the country</add> beyond - Among these
-<lb/><placeName><geogName type="feature">links</geogName></placeName> we found many
-<lb/>families of <orgName>Bushmen</orgName> and
+<lb/>links we found many
+    <lb/>families of <orgName ref="orgName.xml#org0041">Bushmen</orgName> and
 <lb/>unlike those on the plains
 <lb/>of the <placeName><geogName type="desert">Kalahari</geogName></placeName> who are
 <lb/>generally of short stature &amp;
@@ -997,7 +997,7 @@ on account of the nitrates
 	
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">15<subst><del>7</del><add place="over-text">6</add></subst></add> <add place="inspace" hand="#U1" rend="gray right">159</add></fw>
 <lb/>moisture seems to insure the
-<lb/>deepest hue - <metamark function="newParagraph" rend="red" resp="#U3">ᒥ</metamark>One of these <orgName>Bushmen</orgName>
+    <lb/>deepest hue - <metamark function="newParagraph" rend="red" resp="#U3">ᒥ</metamark>One of these <orgName ref="orgName.xml#org0041">Bushmen</orgName>
     <lb/>named <persName ref="people.xml#pers0533">Shobo</persName> consented to be
 <lb/>our <term type="occupation">guide</term> over the waste
 <lb/>between these springs and the

@@ -204,7 +204,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/><p>I believe that the <placeName><region>Interior</region></placeName> of this country presents a
 <lb/>much more inviting field for the <term type="occupation">Philanthropist</term>
 <lb/>than does the West coast where <term type="occupation">missionaries</term>
-<lb/>of the <orgName><choice><sic>church missionary</sic><corr>Church Missionary</corr></choice></orgName> <add place="below">^</add> <add place="above"><orgName>United Presbyterian</orgName></add> &amp; other societies have
+<lb/>of the <orgName ref="orgName.xml#org0045"><choice><sic>church missionary</sic><corr>Church Missionary</corr></choice></orgName> <add place="below">^</add> <add place="above"><orgName>United Presbyterian</orgName></add> &amp; other societies have
 <lb/>long laboured with <del type="cancelled">the</del> most <subst><del type="cancelled">marvellous</del><add place="above">astonishing</add></subst> <w>devoted<supplied>-</supplied>
 <lb break="no"/>ness</w> and <add place="below">^</add> <add place="above">never flagging</add> zeal - There the <term type="ailment">fevers</term> are much
 <lb/>more virulent <del type="cancelled"><subst><del>than</del><add place="over-text">and</add></subst></del> <add place="above">&amp;</add> more speedily fatal
@@ -580,7 +580,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>the rivers in the <placeName><geogName type="valley">valley of the <placeName><geogName type="river">Leeambye</geogName></placeName></geogName></placeName>
 <lb/>have slopes down to their beds – Indeed
 <lb/>many parts are much like the <placeName><geogName type="river">Thames</geogName></placeName>
-<lb/>at the "<placeName><geogName type="island">Isle of Dogs</geogName></placeName>" only the <placeName><geogName type="river">Leeambye</geogName></placeName>
+<lb/>at the "<placeName><geogName type="isle">Isle of Dogs</geogName></placeName>" only the <placeName><geogName type="river">Leeambye</geogName></placeName>
 <lb/>has to rise <measure>twenty or thirty feet</measure> before
 <lb/>it can overflow its meadows - The<del type="strikethrough">y</del> <add place="above">rivers</add>
 <lb/>have each a bed of low water which
@@ -760,12 +760,12 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
     <lb/>as well it may be mentioned that <persName ref="people.xml#pers0443">Motibe</persName> parried <del type="strikethrough"><choice><abbr>'</abbr><expan>the</expan></choice> impu</del>   the imputation
 <lb/><choice><abbr>` '</abbr><expan>of the</expan></choice> guilt of marauding by every possible subterfuge <choice><sic>he</sic><corr>He</corr></choice> would
 <lb/>not admit that they had done wrong and laid <choice><abbr>'</abbr><expan>the</expan></choice> guilt <choice><abbr>` '</abbr><expan>of the</expan></choice> wars
-<lb/>in <choice><abbr>wh.</abbr><expan>which</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Mokololo</term> had engaged on <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>Boers</orgName> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Matebele</term> and every
+    <lb/>in <choice><abbr>wh.</abbr><expan>which</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Mokololo</term> had engaged on <choice><abbr>'</abbr><expan>the</expan></choice> <orgName ref="orgName.xml#org0038">Boers</orgName> <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Matebele</term> and every
     <lb/>other tribe except <subst><del type="strikethrough" hand="#DL" n="DL">their</del><add place="above" hand="#DL" n="DL">his</add></subst> own <space extent="3" unit="chars"/>When quite a youth <persName ref="people.xml#pers0443">Motibe</persName>
-<lb/><add place="marginleft" hand="#DL" n="DL">^</add><anchor xml:id="add-44"/> had been attacked by a party <choice><abbr>`</abbr><expan>of</expan></choice> <orgName>Boers</orgName> <choice><sic><subst><del type="strikethrough">and</del><add place="above">he</add></subst></sic><corr>He</corr></choice> hid himself in an
+    <lb/><add place="marginleft" hand="#DL" n="DL">^</add><anchor xml:id="add-44"/> had been attacked by a party <choice><abbr>`</abbr><expan>of</expan></choice> <orgName ref="orgName.xml#org0038">Boers</orgName> <choice><sic><subst><del type="strikethrough">and</del><add place="above">he</add></subst></sic><corr>He</corr></choice> hid himself in an
 <lb/><choice><sic><term type="animal">anteater</term>s</sic><corr><term type="animal">anteater</term>'s</corr></choice> hole but was drawn out and thrashed with a whip
 <lb/>of <term type="animal">hippopotamus</term> hide: when enjoined to live in peace he
-<lb/>would reply "teach <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>Boers</orgName> <metamark function="reorder" resp="#DL" n="DL" spanTo="#meta-270"/><seg corresp="#reorder-102">first</seg><anchor xml:id="meta-270"/> to lay down their arms <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-102"/>”
+    <lb/>would reply "teach <choice><abbr>'</abbr><expan>the</expan></choice> <orgName ref="orgName.xml#org0038">Boers</orgName> <metamark function="reorder" resp="#DL" n="DL" spanTo="#meta-270"/><seg corresp="#reorder-102">first</seg><anchor xml:id="meta-270"/> to lay down their arms <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="reorder-102"/>”
     <lb/>Yet <persName ref="people.xml#pers0443">Motibe</persName> on other occasions seemed to feel <choice><abbr>'</abbr><expan>the</expan></choice> difference
 <lb/>between those who are <orgName>Christians</orgName> indeed and those who are so
 <lb/>only in name <space extent="2" unit="chars"/>In all our discussions we parted good

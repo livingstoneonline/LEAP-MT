@@ -146,14 +146,14 @@
 <lb break="no"/>-findence</w> in the <term type="nationality">English</term> sense
 <lb/>of justice may be judged
 <lb/>of by the fact that when
-<lb/>the <placeName><region>Transvaal</region></placeName> <orgName>Boers</orgName>
+    <lb/>the <placeName><region>Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>attacked the town of <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>a <term type="occupation">chief</term> living <measure>10<del type="cancelled">°</del> degrees
 <lb/>of Latitude from <placeName><settlement type="city">Cape
 <lb/>Town</settlement></placeName></measure> and contrary to
 <lb/>the express provision in
 <lb/>an <bibl>Article of the treaty</bibl> which
-<lb/>these Boers had entered
+    <lb/>these <orgName ref="orgName.xml#org0038">Boers</orgName> had entered
     <lb/>into with <persName ref="person.xml#pers0277">Sir George
 <lb/>Cathcart</persName> kidnapped about
 <lb/>200 of <persName ref="people.xml#pers0516">Sechele</persName>'s children
@@ -173,7 +173,7 @@
 <lb/>parents</p>
 <lb/>
                 <lb/><p>When <persName ref="person.xml#pers0277">Sir George Cathcart</persName>
-<lb/><add place="marginleft">gave</add> the Rebels <orgName>Boers</orgName> their
+                    <lb/><add place="marginleft">gave</add> the Rebels <orgName ref="orgName.xml#org0038">Boers</orgName> their
 <lb/><choice><sic>indepdendance</sic><corr>independence</corr></choice> he also passed
 <lb/>a <bibl>Powder Ordinance</bibl> by
 <lb/>which ammunition to any
@@ -184,11 +184,11 @@
 <lb/>country of the <orgName>Griquas</orgName> &amp;
 <lb/><term type="tribe">Bechuanas</term> - This I beg you
 <lb/>to observe has no reference
-<lb/>to the <orgName>Caffres</orgName> on our <placeName><region>Eastern
+                    <lb/>to the <orgName ref="orgName.xml#org0042">Caffres</orgName> on our <placeName><region>Eastern
 <lb/>Frontier<del type="strikethrough">s</del></region></placeName> - It refers entirely
 <lb/>to the West, and as there
 <lb/>is not <subst><del>a</del><add place="over-text">t</add></subst>he smallest doubt
-<lb/>that these <placeName><region>Transvaal</region></placeName> <orgName>Boers</orgName>
+                    <lb/>that these <placeName><region>Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>continue in the open violation
 <lb/>of the treaty to enslave the
 <lb/><orgName>natives</orgName> the enforcement
@@ -199,7 +199,7 @@
 <lb/>to unintentional but direct
 <lb/>aid to <orgName>Slavery</orgName></p>
 <lb/>
-<lb/><p><space extent="4" unit="chars"/>So long as the <orgName>Boers</orgName>
+                <lb/><p><space extent="4" unit="chars"/>So long as the <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>retained the name of <term type="nationality">British</term>
 <lb/>subjects the practice of
 <lb/>buying &amp; selling <orgName>native</orgName>

@@ -160,7 +160,7 @@
 <lb/>very refreshing as <del type="strikethrough" hand="#U3" rend="red">it</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">the water</add> found
 <lb/>its way down into <del type="strikethrough">my</del> <add place="above"><del type="strikethrough" hand="#U3" rend="red">the</del></add> <add place="above" hand="#U3" rend="red">my</add> shoes
 <lb/>In the evening we met some
-<lb/><orgName>Bushmen</orgName> who volunteered
+                    <lb/><orgName ref="orgName.xml#org0041">Bushmen</orgName> who volunteered
 <lb/>to <choice><orig>shew</orig><reg>show</reg></choice> us a pool &amp; having
 <lb/>unyoked I walked <measure>some
 <lb/>miles</measure> in search of it. As
@@ -186,7 +186,7 @@ by walking
 <lb/>come up</p>
 <lb/><p>As the water in this pond
 <lb/>dried up we were obliged to
-<lb/>move on again - One of the <orgName>Bushmen</orgName>
+    <lb/>move on again - One of the <orgName ref="orgName.xml#org0041">Bushmen</orgName>
 <lb/><add place="marginleft">took out</add> <del type="cancelled">their</del> his dice and after throwing
 <lb/>them said - God told him to go
 <lb/>home = He threw again in order
@@ -198,7 +198,7 @@ by walking
 <lb/>very great distance
 <lb/>The <term type="animal">lions</term> here are not often
 <lb/>heard - They seem to have a
-<lb/>wholesome dread of the <orgName>Bushmen</orgName>
+    <lb/>wholesome dread of the <orgName ref="orgName.xml#org0041">Bushmen</orgName>
 <lb/>who when they observe evidence
 <lb/>of <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" hand="#U3" rend="red">a <term type="animal">lion</term>'s</add> <del type="strikethrough" hand="#U3" rend="red">him</del> having made a full
 <lb/>meal follow up his spoor
@@ -244,7 +244,7 @@ by walking
 <lb/>and <del type="cancelled" hand="#U3" rend="red">he</del> becomes furious
 <lb/>biting the trees and ground
 <lb/>in rage - </p>
-<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> As the <orgName>Bushmen</orgName> have
+                <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> As the <orgName ref="orgName.xml#org0041">Bushmen</orgName> have
 <lb/>the reputation of curing <w>the<subst><del>is</del><add place="over-text">e</add></subst></w>
 <lb/><add place="marginleft"><term type="ailment">wounds</term> of this</add> <w><subst><del>w</del><add place="over-text">p</add></subst>oison</w> I asked how <del type="strikethrough" hand="#U3" rend="red">that</del> <add place="inline" hand="#U3" rend="red">this</add>
 <lb/>was effected - They <del type="strikethrough" hand="#U3" rend="red">say</del> <add place="inline" hand="#U3" rend="red">said</add>
@@ -309,7 +309,7 @@ by walking
 <lb/>a mixture of fat or oil and
 <lb/><term type="plant"><term type="medicament"><choice><sic>ppecacuan-ha</sic><corr>ipecacuanha</corr></choice></term></term> relieves the
 <lb/>pain</p>
-<lb/><p>The <orgName>Bushmen</orgName> here are
+                <lb/><p>The <orgName ref="orgName.xml#org0041">Bushmen</orgName> here are
 <lb/>generally fine well made men
 <lb/>and are nearly <choice><sic>independant</sic><corr>independent</corr></choice>
 <lb/>of everyone - They were
@@ -321,7 +321,7 @@ by walking
 <lb/>and the leaves palmate
 <lb/>From the <subst><del type="strikethrough" hand="#U3" rend="red">numbers</del><add place="above" hand="#U3" rend="red">quantities</add></subst> of <term type="foodstuff">berries</term>
 <lb/>and <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">the number of</add> game in these parts
-<lb/><add place="marginleft" hand="#U3" rend="red">the <orgName>Bushmen</orgName></add> <del type="strikethrough" hand="#U3" rend="red">they</del> can scarcely ever be <del type="cancelled" hand="#U3" rend="red">ill</del>
+                    <lb/><add place="marginleft" hand="#U3" rend="red">the <orgName ref="orgName.xml#org0041">Bushmen</orgName></add> <del type="strikethrough" hand="#U3" rend="red">they</del> can scarcely ever be <del type="cancelled" hand="#U3" rend="red">ill</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">badly</add> off for food - As I could
 <lb/>without much difficulty
 <lb/>keep them well supplied
@@ -419,7 +419,7 @@ by walking
 <lb/><choice><sic>nothing</sic><corr/></choice> else to ponder on
 <lb/>but <del type="cancelled">those</del> <add place="above">sins</add> we <w><del type="cancelled">sh</del><add place="above">w</add>ould</w> rather
 <lb/>forget is <subst><del type="cancelled">a <choice><sic>grewsome</sic><corr>gruesome</corr></choice></del><add place="above">a sad <del type="cancelled">prosp</del></add></subst> prospect<anchor xml:id="meta-145"/></p>
-<lb/><p>Our <orgName><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName> wished to
+                <lb/><p>Our <orgName ref="orgName.xml#org0041"><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName> wished to
 <lb/>leave and as there is no use
 <lb/>in trying to thwart these
 <lb/><choice><sic>Independant</sic><corr>independent</corr></choice> gentlemen I
@@ -436,7 +436,7 @@ by walking
 <lb/>very tame - <term type="animal">Khoodoos</term> and
 <lb/><term type="animal">giraffe</term> <subst><del type="strikethrough" hand="#U3" rend="red">stand</del><add place="above" hand="#U3" rend="red">stood</add></subst> gazing as I
 <lb/>sometimes went out with
-<lb/>the <orgName>Bushmen</orgName> - A <term type="animal">lion</term> came
+                    <lb/>the <orgName ref="orgName.xml#org0041">Bushmen</orgName> - A <term type="animal">lion</term> came
 <lb/>at day break and went round
 <lb/>and round the <term type="animal">oxen</term> I could
 <lb/>only get a glimpse of him
@@ -522,7 +522,7 @@ by walking
 <lb/>were in the valley and
 <lb/>the only gap in the whole
 <lb/>country destitute of <term type="insect">Tsetse</term>
-<lb/>In company with the <orgName><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName>
+    <lb/>In company with the <orgName ref="orgName.xml#org0041"><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName>
 <lb/>I explored all the <del type="cancelled"><unclear cert="medium">canal</unclear></del> banks
 <lb/>of the <placeName><geogName type="river">Sanshureh</geogName></placeName> to the west
 <lb/>till we came into <term type="insect">tsetse</term>
@@ -550,7 +550,7 @@ by walking
     <lb/>waggon</add> 
 in the hope of reaching some    
 <lb/>of the <term type="tribe">Makololo</term> on the <placeName><geogName type="river">Chobe</geogName></placeName>
-<lb/>that my <orgName><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName> friends
+    <lb/>that my <orgName ref="orgName.xml#org0041"><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName> friends
 <lb/>became quite tired of the
 <lb/>work - By <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">means of</add> presents I got them
 <lb/>to remain some days but at

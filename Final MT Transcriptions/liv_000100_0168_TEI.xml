@@ -292,7 +292,7 @@
 <lb/>as I was determined to
 <lb/>"succeed or perish" in the
 <lb/>attempt to open this part
-<lb/>of <placeName><bloc>Africa</bloc></placeName> - The <orgName>Boers</orgName>
+    <lb/>of <placeName><bloc>Africa</bloc></placeName> - The <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/><add place="marginbottom" rend="gray center" hand="#U2"><note>5</note></add>
   
   
@@ -447,7 +447,7 @@ As I had always
     <lb/>I had a thermometer
     <lb/>by <orgName><persName>Dollond</persName></orgName> -
     <lb/>A compass
-    <lb/>from the <orgName><placeName><region>Cape</region></placeName> Observatory</orgName>
+    <lb/>from the <orgName ref="orgName.xml#org0043"><placeName><region>Cape</region></placeName> Observatory</orgName>
     <lb/>and a small
     <lb/>pocket one 
     <lb/>in addition

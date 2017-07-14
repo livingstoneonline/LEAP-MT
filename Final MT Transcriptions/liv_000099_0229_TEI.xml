@@ -169,7 +169,7 @@
 <lb/>watered with streams and
 <lb/>flowing rivers - The <seg type="weather">annual
 <lb/>supply of rain is considerable</seg>
-<lb/>and the inhabitants <add place="marginleft"><metamark function="insertion"/>(<orgName>Caffres</orgName> or <term type="tribe"><choice><orig>Zulas</orig><reg>Zulus</reg></choice></term>)</add> are
+    <lb/>and the inhabitants <add place="marginleft"><metamark function="insertion"/>(<orgName ref="orgName.xml#org0042">Caffres</orgName> or <term type="tribe"><choice><orig>Zulas</orig><reg>Zulus</reg></choice></term>)</add> are
 <lb/>tall muscular and well
 <lb/>made. They are shrewd
 <lb/>energetic and brave <del type="cancelled">and</del>
@@ -208,7 +208,7 @@
 <lb/>well as a pastoral people
 <lb/>are a comparatively timid
 <lb/>race, and inferior to the
-<lb/><add place="marginleft"><orgName>Kaffirs</orgName></add> <del type="cancelled"><orgName>Caffres</orgName></del> in physical development</p>
+    <lb/><add place="marginleft"><orgName ref="orgName.xml#org0042">Kaffirs</orgName></add> <del type="cancelled"><orgName ref="orgName.xml#org0042">Caffres</orgName></del> in physical development</p>
 <lb/>
 <lb/><p>The Western zone is still
 <lb/>more level than the middle
@@ -453,7 +453,7 @@
     <lb/>not and probably
     <lb/><del type="strikethrough">would</del> not
     <lb/><unclear cert="high">be</unclear> confounded
-    <lb/>with some <orgName>Boer</orgName>
+    <lb/>with some <orgName ref="orgName.xml#org0038">Boer</orgName>
     <lb/>who fled from
     <lb/><term type="nationality">British</term> rule
     <lb/>on account
@@ -471,7 +471,7 @@
 <lb/>by those who know not
 <lb/>the real composition of the
 <lb/><placeName><region>Cape</region></placeName> community - </p>
-<lb/><p>Population among the <orgName>Boers</orgName>
+                <lb/><p>Population among the <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>increases rapidly - They marry
 <lb/>soon - have children late
 <lb/>and are seldom sterile - I once
@@ -493,12 +493,12 @@
 <lb/>and <del type="strikethrough" hand="#U3" rend="red">will</del> when it <subst><del type="strikethrough" hand="#U3" rend="red">comes</del><add place="above" hand="#U3" rend="red">came</add></subst> of
 <lb/>age <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">has</add> portion<add place="inline" hand="#U3" rend="red">ed</add> it as his own - 
 <lb/><add place="marginleft" rend="red" hand="#U3"><metamark function="newParagraph">ᒥ</metamark>Two</add> <metamark function="newParagraph" rend="red" resp="#U3">⎡</metamark><hi rend="red underline" resp="#U3">Two</hi> centuries of the <placeName><region>South
-<lb/>African</region></placeName> climate has not had
+    <lb/>African</region></placeName> climate has not had
 
 
 <pb facs="liv_000099_0239.jpg" n="0239"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">192</add> <add place="inspace" hand="#U1" rend="gray right">232</add></fw>
-<lb/>much effect upon the <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">physical condition of the <orgName>Boers</orgName> - </add> <del type="cancelled">race</del> - They
+                    <lb/>much effect upon the <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">physical condition of the <orgName ref="orgName.xml#org0038">Boers</orgName> - </add> <del type="cancelled">race</del> - They
 <lb/>are a shade darker <del type="strikethrough">than <orgName>Europeans</orgName></del>
 <lb/>or rather ruddier<add place="inline" hand="#U3" rend="red">,</add> than <orgName>Europeans</orgName>
 <lb/><del type="strikethrough" hand="#U3" rend="red">on the body</del> - <add place="inline" hand="#U3" rend="red">and</add> <choice><sic>Are</sic><corr>are</corr></choice> never cadaverous
@@ -510,7 +510,7 @@
 <lb/>other <orgName>African</orgName> tribes, and it
 <lb/>is probable that <subst><del type="cancelled">they</del><add place="above" hand="#U3" rend="red">in</add></subst> <del type="cancelled">will get</del>
 <lb/>colour and strong robust
-<lb/>forms<add place="inline" hand="#U3" rend="red">,</add> <del type="cancelled" hand="#U3" rend="red">of</del> the <placeName><region>Interior</region></placeName> <orgName><choice><sic>boers</sic><corr>Boers</corr></choice></orgName>
+                    <lb/>forms<add place="inline" hand="#U3" rend="red">,</add> <del type="cancelled" hand="#U3" rend="red">of</del> the <placeName><region>Interior</region></placeName> <orgName ref="orgName.xml#org0038"><choice><sic>boers</sic><corr>Boers</corr></choice></orgName>
 <lb/>will become what the
 <lb/>learned imagine <del type="strikethrough" hand="#U3" rend="red">those of</del>
     <lb/>our progenitors <persName ref="people.xml#pers0245">Adam</persName> and <persName ref="people.xml#pers0299">Eve</persName> 
@@ -617,7 +617,7 @@
 <lb/><p>As this new vegetation is
 <lb/>better adapted for <term type="animal">sheep</term> and <term type="animal">goats</term>
 <lb/>in a dry country than grass the
-<lb/><orgName><choice><sic>boers</sic><corr>Boers</corr></choice></orgName> supplement the latter by
+    <lb/><orgName ref="orgName.xml#org0038"><choice><sic>boers</sic><corr>Boers</corr></choice></orgName> supplement the latter by
 <lb/>imitating the process by which
 <lb/>graminivorous <term type="animal">antelopes</term> have
 <lb/>so abundantly disseminated the
@@ -726,7 +726,7 @@
 <lb/><space extent="8" unit="chars"/><term type="animal">Bluebucks</term>
 <lb/><space extent="8" unit="chars"/><term type="animal">Steinbucks</term>
 <lb/>and the <term type="animal">Ostrich</term> (<foreign xml:lang="la"><term type="animal">Struthio</term></foreign> <space extent="4" unit="chars"/>)
-<lb/>continue like the <orgName>Bushmen</orgName> to
+    <lb/>continue like the <orgName ref="orgName.xml#org0041">Bushmen</orgName> to
 <lb/>hold a precarious existence
 <lb/>when all the rest are gone
 <lb/>The <term type="animal">Elephant</term> the most sagacious
@@ -865,7 +865,7 @@
 <lb/><term type="tribe">Bakwains</term> abandoned at
 <lb/>the usual period of harvest
 <lb/>because there was no prospect 
-<lb/>of the <term type="plant_foodstuff">corn</term> (<hi rend="underline"><term type="plant_foodstuff"><orgName>Caffre</orgName> sorghum</term></hi>
+    <lb/>of the <term type="plant_foodstuff">corn</term> (<hi rend="underline"><term type="plant_foodstuff"><orgName ref="orgName.xml#org0042">Caffre</orgName> sorghum</term></hi>
 <lb/>bearing that year - The
 <lb/><term type="animal">Khoodoo</term> is remarkably fond
 <lb/>of the green stalks of this
@@ -892,7 +892,7 @@
 <lb/>the tribe - In <del type="cancelled">In</del> <subst><del>the</del><add place="over-text">the</add></subst> case of <term type="animal">horses</term>
 <lb/>not one would have been left - </p>
 <lb/>
-<lb/><p>The farms of the <orgName>Boers</orgName> <del type="cancelled"><w>con<supplied>-</supplied>
+                <lb/><p>The farms of the <orgName ref="orgName.xml#org0038">Boers</orgName> <del type="cancelled"><w>con<supplied>-</supplied>
 <lb break="no"/>sist</w></del> <add place="marginleft">consist</add> generally of a small patch
 <lb/>of cultivated land in the midst
 <lb/>of some miles of pasturage
@@ -906,7 +906,7 @@
 <lb/>than a <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">square</add> mile in <placeName><bloc>Africa</bloc></placeName> - But
 <lb/>the country is prosperous and
 <lb/>capable of great improvement
-<lb/>The industry of the <orgName>Boers</orgName> bodes
+                    <lb/>The industry of the <orgName ref="orgName.xml#org0038">Boers</orgName> bodes
 <lb/>well for the future formation
 <lb/>of dams and tanks and greater
 <lb/>fruitfulness - </p>
@@ -950,7 +950,7 @@ The original
 <lb/>idea of a title seems to have
 <lb/>been <add place="below">˄</add> <add place="above">that</add> "subduing" or <w>cultivati<subst><del>on</del><add place="over-text">ng</add></subst></w>
 <lb/>gave that right - But this
-<lb/>rather <orgName>Chartist</orgName> principle
+<lb/>rather <orgName ref="orgName.xml#org0044">Chartist</orgName> principle
 <lb/>must be <choice><sic>recieved</sic><corr>received</corr></choice> with limitations
 <lb/>for its recognition in <placeName><country>England</country></placeName>
 <lb/>would lead to the seizure of
@@ -967,7 +967,7 @@ The original
 <lb/>under the plo<subst><del hand="#U3">w</del><add place="over-text" hand="#U3" rend="red">ugh</add></subst> than is
 <lb/>subjected to the <orgName>native</orgName> hoe
 <lb/>for it is an undisputed
-<lb/>fact that the <orgName><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> <add place="below">˄</add> <add place="above"><term type="tribe"><choice><orig>Basutus</orig><reg>Basutos</reg></choice></term></add> cultivate
+    <lb/>fact that the <orgName ref="orgName.xml#org0042"><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> <add place="below">˄</add> <add place="above"><term type="tribe"><choice><orig>Basutus</orig><reg>Basutos</reg></choice></term></add> cultivate
 <lb/>largely - , <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">and</add> undersell our <term type="occupation">farmers</term>
 <lb/>wherever they have a fair
 <lb/>field and no favour, - And

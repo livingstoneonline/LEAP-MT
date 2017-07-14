@@ -151,7 +151,7 @@
 <lb/>are not all <add place="below">^</add> <add place="above">quite</add> black <add place="below">^</add> <add place="above">in colour</add> - Many incline
 <lb/>to that <del type="strikethrough">colour</del> of bronze and
 <lb/>others are as light <del type="strikethrough">coloured</del>
-<lb/><add place="marginleft">in hue <add place="below">^</add></add> as the <orgName>Bushmen</orgName> - who it may
+    <lb/><add place="marginleft">in hue <add place="below">^</add></add> as the <orgName ref="orgName.xml#org0041">Bushmen</orgName> - who it may
 <lb/>be remembered afford a proof
 <lb/>that heat alone does not
 <lb/>cause <add place="below">˄</add> <add place="above"><del type="strikethrough">deep</del></add> blackness, <subst><del type="strikethrough">and</del><add place="above">but <del type="strikethrough">also</del></add></subst> that
@@ -170,7 +170,7 @@
 <lb/>humid central basin appear
 <lb/>of a sickly sallow hue
 <lb/><del type="strikethrough">and</del> when compared with
-<lb/>the <orgName>aboriginal</orgName> inhabitants
+    <lb/>the <orgName ref="orgName.xml#org0031">aboriginal</orgName> inhabitants
 <lb/>The <term type="tribe">Batoka</term> also who
 <lb/>lived <subst><del>on</del><add place="over-text">in</add></subst> an elevated
 <lb/>region are when seen
@@ -246,7 +246,7 @@ South <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- squar
 <lb/>to be cognate - But if
 <lb/>the dialects of extreme
 <lb/>points are compared
-<lb/>as that of the <orgName>Caffres</orgName>
+    <lb/>as that of the <orgName ref="orgName.xml#org0042">Caffres</orgName>
 <lb/>and the tribes near the
 <lb/><placeName><region>Equator</region></placeName> it is more
 <lb/>difficult to <choice><orig>recognize</orig><reg>recognise</reg></choice>
