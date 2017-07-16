@@ -280,7 +280,7 @@ by walking
 <lb/><add place="marginleft" hand="#U3" rend="red">in some places <add place="below" hand="#U3" rend="red">^</add></add> <add place="below" rend="red" hand="#U3">^</add> the poison of <term type="animal">serpents</term> and
 <lb/>a certain bulb are added in
 <lb/>order to increase the virulence
-    <lb/><persName ref="people.xml#pers0554">Father Pedro</persName> a <orgName>Jesuit</orgName> who
+    <lb/><persName ref="people.xml#pers0554">Father Pedro</persName> a <orgName ref="orgName.xml#org0060">Jesuit</orgName> who
 <lb/>lived at <placeName type="town">Zumbo</placeName> made a 
 <lb/><term type="medicament">balsam</term> containing a number
 <lb/>of plants and <hi rend="underline"><term type="medicament">castor oil</term></hi>
@@ -1047,7 +1047,7 @@ among the tall grass
 <lb/>more particulars respecting
 <lb/><persName ref="people.xml#pers0431">Mpepe</persName> - <persName ref="people.xml#pers0515">Sebituane</persName> having
 <lb/>no son to take the leadership
-<lb/>of the "<foreign xml:lang="tn"><orgName>Mopato</orgName></foreign>" of the age
+    <lb/>of the "<foreign xml:lang="tn"><orgName ref="orgName.xml#org0071">Mopato</orgName></foreign>" of the age
 <lb/>of his daughter chose him
 <lb/>as the nearest male relative
 <lb/>to occupy that post - And

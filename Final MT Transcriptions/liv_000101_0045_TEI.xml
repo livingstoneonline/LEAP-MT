@@ -694,7 +694,7 @@ lowered the temperature
 <lb/>some <subst><del type="strikethrough">persons</del><add place="above"><orgName>natives</orgName></add></subst> bore
 <lb/>to certain of our own
     <lb/>notabilities - The <orgName ref="orgName.xml#org0041">Bushmen</orgName>
-<lb/>and <orgName>Hottentots</orgName> are exceptions
+    <lb/>and <orgName ref="orgName.xml#org0058">Hottentots</orgName> are exceptions
 <lb/>to these remarks for both<!-- possible letters beneath 'bo' but they are illegible.JL -->
 <lb/>the shape of their heads
 <lb/>and growth of wool 
@@ -778,7 +778,7 @@ lowered the temperature
 <lb/>or nearly <measure>300 miles</measure> from
 <lb/>the West coast where it was
 <lb/>first introduced by the
-<lb/><orgName>Jesuit</orgName> <term type="occupation">missionaries</term> - </p>
+    <lb/><orgName ref="orgName.xml#org0060">Jesuit</orgName> <term type="occupation">missionaries</term> - </p>
 <lb/><p>We spent <date when="1854-04-30">Sunday 30<hi rend="sup underline">th</hi>
 <lb/>April</date> at <placeName><settlement type="village">Ngio</settlement></placeName> <del type="cancelled">(soft g) Njeeo)</del>
 <lb/>close to the ford of the <placeName><geogName type="river">Quize</geogName></placeName>

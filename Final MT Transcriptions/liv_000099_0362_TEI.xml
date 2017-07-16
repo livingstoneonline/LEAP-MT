@@ -113,7 +113,7 @@
 that <del type="cancelled">bold young</del> innovators 
 <lb/>ought to be made to propose
 <lb/>their new <del type="cancelled">measures</del><add place="above"><del type="cancelled">ones</del></add> <add place="above">measures</add> as the 
-<lb/><orgName>Locrians</orgName> did in the case of 
+<lb/><orgName ref="orgName.xml#org0063">Locrians</orgName> did in the case of 
 <lb/>new laws<add place="inline" rend="red" hand="#U3">,</add> with ropes
 <lb/>around their necks - </p>
                 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note>94</note> <note><persName ref="people.xml#pers0278">Chester</persName></note></add> The <del type="strikethrough">circumcision</del>
@@ -754,7 +754,7 @@ When caught they
 <lb/>flavour which only the
 <lb/>keen <w>a<add place="below" rend="red" hand="#U3">^</add><add place="above" rend="red" hand="#U3">p</add>petite</w> of the Desert<!-- Kalahari Desert, sh -->
 <lb/>can reconcile one to - The
-<lb/><orgName>Hottentots</orgName> use their trousers
+    <lb/><orgName ref="orgName.xml#org0058">Hottentots</orgName> use their trousers
 <lb/>to carry home the twenty or
 <lb/>twenty five <term type="foodstuff">eggs</term> usually
 <lb/>found in a nest and it

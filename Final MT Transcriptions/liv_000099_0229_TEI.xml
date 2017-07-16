@@ -458,7 +458,7 @@
     <lb/><term type="nationality">British</term> rule
     <lb/>on account
     <lb/><supplied cert="high">of</supplied> the emancipation
-    <lb/>of their <orgName>Hottentot</orgName>
+    <lb/>of their <orgName ref="orgName.xml#org0058">Hottentot</orgName>
     <lb/><orgName>slaves</orgName></add>
 <w><subst><del>B</del><add place="over-text">b</add></subst>ut</w> as every now and then
     <lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> <unclear cert="medium">omit</unclear></note></add> <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-232"/>some <persName ref="people.xml#pers0495">Rip Van <add place="marginleft"><metamark function="insertion"/><del type="cancelled"><unclear cert="medium">Getze</unclear></del></add> Winkle</persName> starts
@@ -701,7 +701,7 @@
 <lb/><placeName><country>Portugal</country></placeName> - What a boon a
 <lb/><term type="plant">vine</term> of the sort contemplated
 <lb/>would have been to a
-<lb/><orgName>Rhenish</orgName> <term type="occupation">missionary</term> I met
+    <lb/><orgName ref="orgName.xml#org0078">Rhenish</orgName> <term type="occupation">missionary</term> I met
 <lb/>at a part in the West of the
     <lb/><placeName><region>colony</region></placeName> called <placeName><settlement type="village">Ebenezer</settlement></placeName>
 <lb/>whose children had never
@@ -734,7 +734,7 @@
 <lb/>first, The <term type="animal">gnu</term> and <term type="animal">ostrich</term>
 <lb/>the most wary and the most
 <lb/>stupid last The first emigrants
-<lb/>found the <orgName>Hottentots</orgName> in possession
+    <lb/>found the <orgName ref="orgName.xml#org0058">Hottentots</orgName> in possession
 <lb/>of prodigious herds of fine
 <lb/><term type="animal">cattle</term> but no <term type="animal">horses</term>, <term type="animal">asses</term>
 <lb/>or <term type="animal">camels</term> - The original <term type="animal">cattle</term> 
@@ -764,7 +764,7 @@
 <lb/>between <add place="marginleft"><metamark function="insertion"/>the North Eastern
     <lb/><orgName>Arabs</orgName> and</add> 
 <del type="cancelled">the Bechuana and</del>    
-<lb/><add place="marginleft" hand="#U3" rend="red">the</add> <orgName>Hottentot</orgName> tribes to prevent the
+    <lb/><add place="marginleft" hand="#U3" rend="red">the</add> <orgName ref="orgName.xml#org0058">Hottentot</orgName> tribes to prevent the
 <lb/>different hordes as they felt
 <lb/>their way Southwards <del type="strikethrough" hand="#U3" rend="red">to</del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">from</add> <w>indulg<subst><del hand="#U3">e</del><add place="over-text" hand="#U3" rend="red">ing</add></subst></w> 
 <lb/>their taste for the possession
@@ -818,7 +818,7 @@
 <lb/>in a troop of fifty <term type="animal">horses</term> 
 <lb/>This barrier then seems to
 <lb/>explain the absence of the
-<lb/><term type="animal">horse</term> among the <orgName>Hottentots</orgName>
+    <lb/><term type="animal">horse</term> among the <orgName ref="orgName.xml#org0058">Hottentots</orgName>
 <lb/>though it is not opposed to
 <lb/>the southern migration of
 <lb/><term type="animal">cattle</term> <term type="animal">sheep</term> and <term type="animal">goats</term></p>

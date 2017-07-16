@@ -150,8 +150,8 @@
 <lb/>an experiment could not
 <lb/>be made for such a variety
 <lb/>of <term type="faith">Christian</term> sects have followed
-<lb/>the footsteps of <choice><sic><orgName>the London
-<lb/>Missionary Society</orgName>s</sic><corr><orgName>the London Missionary Society</orgName>'s</corr></choice> successful
+    <lb/>the footsteps of the <choice><sic><orgName ref="orgName.xml#org0064">London
+        <lb/>Missionary Society</orgName>s</sic><corr><orgName ref="orgName.xml#org0064">London Missionary Society</orgName>'s</corr></choice> successful
 <lb/>career that converts of one
 <lb/>denomination if left to <del type="cancelled">themselves</del>
 <lb/>their own resources are eagerly
@@ -167,14 +167,14 @@
 <lb/>a proper sphere for their peculiar
 <lb/>operations - In addition to a
 <lb/>well organized and efficient
-<lb/><orgName>Dutch Reformed</orgName> <choice><sic>established</sic><corr>Established</corr></choice>
+<lb/><orgName ref="orgName.xml#org0050">Dutch Reformed</orgName> <choice><sic>established</sic><corr>Established</corr></choice>
 <lb/>Church we have schools for
 <lb/>secular instruction maintained
 <lb/>by <orgName>Government</orgName> in every
 <lb/>village of any extent in
 <lb/>the Colony, we have a number
-<lb/>of other sects as the <orgName>Wesleyans</orgName>
-<lb/><orgName>Episcopalians</orgName> <orgName>Moravians</orgName>
+    <lb/>of other sects as the <orgName ref="orgName.xml#org0087">Wesleyans</orgName>
+<lb/><orgName ref="orgName.xml#org0053">Episcopalians</orgName> <orgName ref="orgName.xml#org0072">Moravians</orgName>
 <lb/>all piously labouring at the
 <lb/>same good work<!-- full stop occurs in printed work. SH --> Now
     
@@ -313,8 +313,8 @@
 <lb/>feelings inimical to any body
 <lb/><add place="marginleft">of</add> <orgName>Christians</orgName> for I never as
 <lb/>a <term type="occupation">missionary</term> felt myself
-<lb/>to be either <orgName>Presbyterian</orgName>
-<lb/><orgName>Episcopalian</orgName> or <orgName><choice><sic>Independant</sic><corr>Independent</corr></choice></orgName>
+    <lb/>to be either <orgName ref="orgName.xml#org0075">Presbyterian</orgName>
+    <lb/><orgName ref="orgName.xml#org0053">Episcopalian</orgName> or <orgName ref="orgName.xml#org0059"><choice><sic>Independant</sic><corr>Independent</corr></choice></orgName>
 <lb/>or called upon in any way
 <lb/>to love less one sect than
 <lb/>another - My earnest desire
@@ -380,7 +380,7 @@ the<del type="strikethrough">ir</del>
 <lb/>demanded that I should be
 <lb/>in their kingdom and I refused
 <lb/>They demanded that I should
-<lb/>prevent the <term type="nationality">English</term> &amp; <orgName>Griquas</orgName>
+    <lb/>prevent the <term type="nationality">English</term> &amp; <orgName ref="orgName.xml#org0057">Griquas</orgName>
 <lb/>from passing - (Northwards)
 <lb/>I replied these are my friends
 <lb/>and I can prevent no one (of them)
@@ -457,7 +457,7 @@ the<del type="strikethrough">ir</del>
 <lb/>that everything was done
 <lb/>in perfectly orthodox style
     <lb/><add place="marginleft">These <orgName ref="orgName.xml#org0038">Boers</orgName></add> <del type="strikethrough">They</del> <del type="cancelled"><unclear cert="medium">cou</unclear></del> had just been received
-<lb/>as a body into the <orgName>Dutch Reformed</orgName>
+    <lb/>as a body into the <orgName ref="orgName.xml#org0050">Dutch Reformed</orgName>
 <lb/>Church with great solemnity
 <lb/>and concluded a treaty with
     <lb/><persName ref="person.xml#pers0277">Sir George Cathcart</persName> by means
@@ -1041,7 +1041,7 @@ There
 <lb/>to <placeName><settlement type="village">Kuruman</settlement></placeName> some <measure>hundreds
 <lb/>of miles</measure> distant - Reaching
 <lb/>that station shirtless and
-<lb/>as brown as a <orgName>Griqua</orgName>
+    <lb/>as brown as a <orgName ref="orgName.xml#org0057">Griqua</orgName>
     <lb/>he was <choice><sic>recieved</sic><corr>received</corr></choice> by <persName ref="people.xml#pers0410">M<hi rend="sup underline">rs</hi>
 <lb/>Moffat</persName> as one with a
 <lb/>salutation in <term type="nationality">Dutch</term> - His

@@ -464,7 +464,7 @@
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">102</add> <add place="inspace" hand="#U1" rend="gray right">106</add></fw>
 <lb/>Most other tribes are known
 <lb/>by the terms applied to them
-    <lb/>by strangers as the <orgName ref="orgName.xml#org0042">Caffres</orgName>, <orgName>Hottentots</orgName>
+    <lb/>by strangers as the <orgName ref="orgName.xml#org0042">Caffres</orgName>, <orgName ref="orgName.xml#org0058">Hottentots</orgName>
     <lb/>&amp; <orgName ref="orgName.xml#org0041">Bushmen</orgName> - The <term type="tribe">Bechuanas</term>
 <lb/>alone use the term themselves
 <lb/>as a generic term for the whole
@@ -636,7 +636,7 @@ and some <term type="occupation">mountaineers</term>
 <lb/>seems to be not much
 <lb/>known that the <orgName>South,
 <lb/>Africans</orgName>, with the exception
-    <lb/>of the <orgName>Hottentots</orgName> and <orgName ref="orgName.xml#org0041">Bushmen</orgName>
+    <lb/>of the <orgName ref="orgName.xml#org0058">Hottentots</orgName> and <orgName ref="orgName.xml#org0041">Bushmen</orgName>
 <lb/>are and always have been
 <lb/><term type="occupation">agriculturalists</term> - <del type="strikethrough" rend="red" hand="#U3">The want</del>
 <lb/><add place="marginleft" rend="red" hand="#U3">It has never been
@@ -668,7 +668,7 @@ much to be wondered at
 <lb/>an agricultural people - 
 <lb/>a wish similar to what
 <lb/>a man might express if
-<lb/>he rose in the <orgName><placeName>Mansion
+    <lb/>he rose in the <orgName ref="orgName.xml#org0067"><placeName>Mansion
 <lb/>House</placeName> of <placeName><settlement type="city">London</settlement></placeName></orgName> and
 <lb/>hoped the <term type="nationality">English</term> would
 <lb/>learn to eat <term type="foodstuff">roast beef</term>
@@ -689,7 +689,7 @@ much to be wondered at
         <lb/>by <persName ref="people.xml#pers0539"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice> <unclear cert="low">E -</unclear>
     <lb/>Solomon</persName></bibl><!-- not able to identify or find this person, sh --><!-- likely to be Edward Solomon, ordained in Cape Town in October 1841, who gave "Two Lectures on the Native Tribes of the interior, delivered before the Mechanics' Institute, Cape Town", in 1855..JL -->
     <lb/>delivered before
-    <lb/>the <orgName><choice><sic>Mechanics
+    <lb/>the <orgName ref="orgName.xml#org0069"><choice><sic>Mechanics
     <lb/>Institute</sic><corr>Mechanics' Institute</corr></choice></orgName> <placeName><settlement type="city">Cape town</settlement></placeName></note></add>
 <lb/>and generally the <term type="tribe">Zulu<del type="cancelled">s</del></term>
 <lb/>of <placeName><region>Natal</region></placeName> can raise <term type="foodstuff">grain</term>
@@ -854,7 +854,7 @@ with their
 <lb/>to run all the way - </p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName ref="people.xml#pers0519">Sekeletu</persName> is always
 <lb/>accompanied by his own
-<lb/><foreign xml:lang="tn"><orgName>Mopato</orgName></foreign> a number of
+    <lb/><foreign xml:lang="tn"><orgName ref="orgName.xml#org0071">Mopato</orgName></foreign> a number of
 <lb/>young men of his own
 <lb/>age When he sits down
 <lb/>they crowd round him 

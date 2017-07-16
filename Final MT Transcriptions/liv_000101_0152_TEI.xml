@@ -204,7 +204,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/><p>I believe that the <placeName><region>Interior</region></placeName> of this country presents a
 <lb/>much more inviting field for the <term type="occupation">Philanthropist</term>
 <lb/>than does the West coast where <term type="occupation">missionaries</term>
-<lb/>of the <orgName ref="orgName.xml#org0045"><choice><sic>church missionary</sic><corr>Church Missionary</corr></choice></orgName> <add place="below">^</add> <add place="above"><orgName>United Presbyterian</orgName></add> &amp; other societies have
+    <lb/>of the <orgName ref="orgName.xml#org0045"><choice><sic>church missionary</sic><corr>Church Missionary</corr></choice></orgName> <add place="below">^</add> <add place="above"><orgName ref="orgName.xml#org0085">United Presbyterian</orgName></add> &amp; other societies have
 <lb/>long laboured with <del type="cancelled">the</del> most <subst><del type="cancelled">marvellous</del><add place="above">astonishing</add></subst> <w>devoted<supplied>-</supplied>
 <lb break="no"/>ness</w> and <add place="below">^</add> <add place="above">never flagging</add> zeal - There the <term type="ailment">fevers</term> are much
 <lb/>more virulent <del type="cancelled"><subst><del>than</del><add place="over-text">and</add></subst></del> <add place="above">&amp;</add> more speedily fatal
@@ -430,7 +430,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
     <lb/>though I am quite aware of <persName ref="people.xml#pers0399">Dr MacWilliam</persName>’s
 <lb/>unsuccessful efforts to discover
 <lb/>sulphuretted hydrogen by the most
-<lb/>delicate tests in the <orgName><placeName><geogName type="river">Niger</geogName></placeName> Expedition</orgName></add></add>
+<lb/>delicate tests in the <orgName ref="orgName.xml#org0072"><placeName><geogName type="river">Niger</geogName></placeName> Expedition</orgName></add></add>
 
 
 <pb facs="liv_000101_0164.jpg" n="0164"/>
@@ -537,10 +537,10 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>in my waggon  <choice><sic>so</sic><corr>So</corr></choice> long as <choice><abbr>'</abbr><expan>the</expan></choice> <term type="foodstuff">sugar</term> lasted <persName ref="people.xml#pers0519">Sekeletu</persName> favoured me
 <lb/>with his company at meals. <space extent="2" unit="chars"/><choice><sic>he</sic><corr>He</corr></choice> once informed me of a curious test
 <lb/>of <del type="strikethrough" hand="#DL" n="DL"><choice><abbr>char.</abbr><expan>character</expan></choice></del> <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-41"/>. <choice><sic>he</sic><corr>He</corr></choice> said my <term type="foodstuff">coffee</term> was "pleasant to his heart because I loved
-<lb/>him - " he <add place="below" hand="#DL" n="DL">˄</add><add place="above" hand="#DL" n="DL">had</add> once tasted some <term type="foodstuff">coffee</term> given to him by some <orgName>Griquas</orgName> <choice><abbr>wh.</abbr><expan>which</expan></choice>
+    <lb/>him - " he <add place="below" hand="#DL" n="DL">˄</add><add place="above" hand="#DL" n="DL">had</add> once tasted some <term type="foodstuff">coffee</term> given to him by some <orgName ref="orgName.xml#org0057">Griquas</orgName> <choice><abbr>wh.</abbr><expan>which</expan></choice>
 <lb/>was not at all "pleasant to his heart because they loved his goods
 <lb/>but not himself" I possessed <choice><abbr>'</abbr><expan>the</expan></choice> love and also <choice><abbr>'</abbr><expan>the</expan></choice> <term type="foodstuff">sugar</term> <choice><sic>probably</sic><corr>Probably</corr></choice> the
-<lb/><orgName>Griqua</orgName> <term type="foodstuff">coffee</term> had none but <choice><abbr>'</abbr><expan>the</expan></choice> <term type="foodstuff">sugar</term> soon came to a close. <space extent="2" unit="chars"/>The
+    <lb/><orgName ref="orgName.xml#org0057">Griqua</orgName> <term type="foodstuff">coffee</term> had none but <choice><abbr>'</abbr><expan>the</expan></choice> <term type="foodstuff">sugar</term> soon came to a close. <space extent="2" unit="chars"/>The
 <lb/><term type="tribe">Makololo</term> were well acquainted with <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant_foodstuff">sugar cane</term> as it is cultivated
 <lb/>by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Barotse</term> but never knew that <term type="foodstuff">sugar</term> could be got from it <space extent="2" unit="chars"/>When
 <lb/>I explained <choice><abbr>'</abbr><expan>the</expan></choice> process by <choice><abbr>wh.</abbr><expan>which</expan></choice> it was produced <persName ref="people.xml#pers0519">Sekeletu</persName> asked if I
@@ -935,7 +935,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>but a few <choice><abbr>wh.</abbr><expan>which</expan></choice> had enjoyed <choice><abbr>'</abbr><expan>the</expan></choice> shade were in a pretty good condition
 <lb/>I felt inclined to take a specimen of <choice><abbr>'</abbr><expan>the</expan></choice> tusks of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">hippopotami</term>
 <lb/>as they were <choice><abbr>'</abbr><expan>the</expan></choice> largest I had ever seen but feared that <choice><abbr>'</abbr><expan>the</expan></choice> people
-<lb/>would <del type="strikethrough">regard</del> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">look upon</add> me as a "<orgName>resurrectionist</orgName>" if I did, and regard any
+<lb/>would <del type="strikethrough">regard</del> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">look upon</add> me as a "<orgName ref="orgName.xml#org0077">resurrectionist</orgName>" if I did, and regard any
 <lb/>unfavourable event <choice><abbr>wh</abbr><expan>which</expan></choice> might occur as a punishment for
     <lb/><choice><abbr>'</abbr><expan>the</expan></choice> sacrilege <space extent="3" unit="chars"/>The <term type="tribe">Batoka</term> <choice><sic>beleive</sic><corr>believe</corr></choice> the <persName ref="people.xml#pers0524">Sekote</persName> had a pot <choice><abbr>`</abbr><expan>of</expan></choice> medicine
 <lb/>buried here <choice><abbr>wh</abbr><expan>which</expan></choice> when opened would cause an <term type="ailment">epidemic</term> in the
@@ -1188,7 +1188,7 @@ There <add place="above" hand="#DL" n="DL"><metamark function="insertion"/>tower
 <lb/><persName ref="people.xml#pers0515">Sebituane</persName> performed a noble
 <lb/>service in the<del type="strikethrough">ir</del> expulsion
 <lb/>from their <del type="cancelled">island</del> fastnesses
-<lb/>of these cruel "<bibl><orgName>Lords of the <choice><sic>isles</sic><corr>Isles</corr></choice></orgName></bibl>"</p>
+    <lb/>of these cruel "<bibl><orgName ref="orgName.xml#org0065">Lords of the <choice><sic>isles</sic><corr>Isles</corr></choice></orgName></bibl>"</p>
 <lb/>
 <lb/><p hand="#DL" n="DL">Having feasted my eyes long on the
 <lb/>beautiful sight I returned to my friends at

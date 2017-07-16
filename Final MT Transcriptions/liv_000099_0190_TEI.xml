@@ -766,7 +766,7 @@ with
 <lb/>kills me both he and I will
 <lb/>have to answer before God</quote>" <add place="below">*</add>
     <lb/><add place="inspace"><note>* <bibl>Extracts of a speech of <persName ref="people.xml#pers0509"><choice><orig>Sandillah</orig><reg>Sandile</reg></choice></persName>
-        <lb/>to <persName ref="people.xml#pers0491">R R Renton</persName> <orgName>United Presbyterian church</orgName> <add place="below"><placeName><country>Scotland</country></placeName></add></bibl></note></add></p>
+        <lb/>to <persName ref="people.xml#pers0491">R R Renton</persName> <orgName ref="orgName.xml#org0085">United Presbyterian church</orgName> <add place="below"><placeName><country>Scotland</country></placeName></add></bibl></note></add></p>
 
 
 <pb facs="liv_000099_0207.jpg" n="0207"/>             
@@ -1066,7 +1066,7 @@ with
 <lb/>the different eulogiums which
 <lb/>have been passed by different 
 <lb/><orgName>Colonial Governments</orgName> or
-    <lb/>the <orgName>Griqua</orgName> <term type="occupation">chief</term> <persName ref="people.xml#pers0565">Waterboer</persName>
+    <lb/>the <orgName ref="orgName.xml#org0057">Griqua</orgName> <term type="occupation">chief</term> <persName ref="people.xml#pers0565">Waterboer</persName>
 <lb/>for his faithful adherence
 <lb/><subst><del>of</del><add place="over-text">to</add></subst> a treaty for the defence
 <lb/>of the North West Frontier
@@ -1138,7 +1138,7 @@ with
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">210</add></fw>
 <lb/>for when the rest of the Colony
 <lb/>sent levies of <term type="occupation">volunteers</term>
-<lb/>and even the <orgName>Hottentots</orgName>
+    <lb/>and even the <orgName ref="orgName.xml#org0058">Hottentots</orgName>
 <lb/>turned out by hundreds
 <lb/>The Shopocracy of <metamark function="let-stand" spanTo="#meta-77"/><placeName><settlement type="town"><del type="cancelled"><choice><orig>Graham's
 <lb/>Town</orig><reg>Grahamstown</reg></choice></del></settlement></placeName><anchor xml:id="meta-77"/> to whom every returned
@@ -1146,7 +1146,7 @@ with
 <lb/>those who alone are <choice><sic>benefittd</sic><corr>benefitted</corr></choice>
 <lb/>by protective wars, <choice><sic>musterd</sic><corr>mustered</corr></choice>
 <lb/>only <del type="cancelled">36</del> thirty six most
-<lb/>of whom w<del type="cancelled">h</del>ere <add place="below">^</add> <add place="above"><orgName>Hottentot</orgName></add> substitutes
+    <lb/>of whom w<del type="cancelled">h</del>ere <add place="below">^</add> <add place="above"><orgName ref="orgName.xml#org0058">Hottentot</orgName></add> substitutes
 <lb/><add place="marginleft">who</add> <del type="strikethrough">and</del> remained only a
 <lb/>fortnight under arms. 
     <lb/>No wonder <add place="above">that</add> <persName ref="person.xml#pers0277">Sir George
@@ -1203,7 +1203,7 @@ with
 <add place="below">^</add> and in doing so the entire
 <lb/>body felt that their organ acted
 <lb/>nobly - </p>
-<lb/><p>A <orgName>Hottentot</orgName> <term type="occupation">officer</term> named
+        <lb/><p>A <orgName ref="orgName.xml#org0058">Hottentot</orgName> <term type="occupation">officer</term> named
     <lb/><persName ref="people.xml#pers0264">Botha</persName> was fixed upon as apparently
 <lb/><add place="marginleft">deeply</add> implicated in the <add place="below">^</add> <add place="above">late</add> rebellion &amp;
 <lb/>war - and as he was known
@@ -1248,7 +1248,7 @@ with
 <lb/>by the <term type="occupation">Attorney General</term> a few
 <lb/><term type="tribe"><choice><orig>Fingoes</orig><reg>Fengu</reg></choice></term><!-- not sure about tagging this as tribe, or whether it should be orgName, ks --><!-- Staying with tribe for now.JL --> who were well known
 <lb/>to be the mortal enemies of
-<lb/>the whole <orgName>Hottentot</orgName> race - and
+    <lb/>the whole <orgName ref="orgName.xml#org0058">Hottentot</orgName> race - and
     <lb/>of <persName ref="people.xml#pers0264">Botha</persName> in particular as
 
 
@@ -1258,7 +1258,7 @@ with
 <lb/>a chief man among <subst><del type="cancelled"><unclear cert="medium">those</unclear></del> <add place="above"><del type="cancelled">of</del> that</add></subst> <del type="strikethrough">are</del>
 <lb/><add place="marginleft">tribe living on</add> the Frontier - To these witnesses
 <lb/>were added about half a dozen
-<lb/><orgName>Hottentot</orgName> convicts whose
+    <lb/><orgName ref="orgName.xml#org0058">Hottentot</orgName> convicts whose
 <lb/>irons were removed before
 <lb/>they were put into the witness
 <lb/>box <subst><del type="cancelled">but</del><add place="above">and</add></subst> appeared in their
@@ -1269,7 +1269,7 @@ with
 <lb/>to be examined here who
 <lb/>would be incompetent
 <lb/>to act as <subst><del type="strikethrough">witness</del><add place="above">such</add></subst> in a case
-<lb/>of treason at <orgName><placeName><settlement type="city">Westminster</settlement></placeName></orgName>
+    <lb/>of treason at <orgName ref="orgName.xml#org0088"><placeName><settlement type="city">Westminster</settlement></placeName></orgName>
 <lb/>but this was <choice><sic>overuled</sic><corr>overruled</corr></choice> by
 <lb/>the <term type="occupation">Lord Chief Justice</term> who
 <lb/>acted as <term type="occupation">Judge</term> in the case - 
@@ -1305,7 +1305,7 @@ with
 party organ <subst><del type="cancelled">believed</del><add place="above">asserted</add></subst> to be
 <lb/>the case, that the <term type="occupation">missionaries</term>
 <lb/>were the orignators of the
-<lb/><orgName>Hottentot</orgName> rebellion &amp; <orgName><subst><del>C</del><add place="over-text">K</add></subst>affir</orgName>
+    <lb/><orgName ref="orgName.xml#org0058">Hottentot</orgName> rebellion &amp; <orgName><subst><del>C</del><add place="over-text">K</add></subst>affir</orgName>
 <lb/>war - </p>
 <lb/><p>The prisoner was
 <lb/><choice><orig>shewn</orig><reg>shown</reg></choice> to have absented himself
@@ -1335,12 +1335,12 @@ his forty years of
 <lb/><p>Now the point of most
 <lb/>importance in this trial
     <lb/>was - the causes of the <orgName ref="orgName.xml#org0042">Kaffir</orgName>
-<lb/>war and <orgName>Hottentot</orgName> rebellion</p>
+    <lb/>war and <orgName ref="orgName.xml#org0058">Hottentot</orgName> rebellion</p>
 
 
 <pb facs="liv_000099_0222.jpg" n="0222"/>
 <lb/><p><fw><add place="inline" hand="#U1" rend="gray right">215</add></fw>
-<lb/>The <orgName>Hottentots</orgName> had been placed
+    <lb/>The <orgName ref="orgName.xml#org0058">Hottentots</orgName> had been placed
 <lb/>by that far seeing and <del type="cancelled"><unclear cert="low">enti</unclear></del>
     <lb/>upright man <persName ref="person.xml#pers0545">Sir Andries
 <lb/>Stockenstrom</persName> as an advanced
@@ -1417,7 +1417,7 @@ on the breaking out
 <lb/><term type="occupation">soldier</term> - The idea
 <lb/>prevailed extensively that
 <lb/>the <placeName><settlement type="town">Kat River Settlement</settlement></placeName>
-<lb/>belonged to the <orgName>London
+    <lb/>belonged to the <orgName ref="orgName.xml#org0064">London
 <lb/>Missionary Society</orgName> <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-79"/>This was asserted
     <lb/>even by a
     <lb/><term type="occupation">Clergyman</term>
@@ -1444,20 +1444,20 @@ Hence
 <lb/>Society in question never
 <lb/>possessed an inch of ground
 <lb/>at that settlement<!-- the Kat river settlement --> - The <del type="strikethrough"><unclear cert="medium">wars</unclear></del>
-<lb/>lands of <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-231"/><choice><sic>of</sic><corr/></choice> <orgName>Hottentots</orgName> on<anchor xml:id="meta-231"/></add> the <placeName><settlement type="town">Kat River</settlement></placeName> belonged
+    <lb/>lands of <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-231"/><choice><sic>of</sic><corr/></choice> <orgName ref="orgName.xml#org0058">Hottentots</orgName> on<anchor xml:id="meta-231"/></add> the <placeName><settlement type="town">Kat River</settlement></placeName> belonged
 <lb/>to the <orgName><subst><del>g</del><add place="over-text">C</add></subst>rown</orgName> and the location
 <lb/>was formed for political
 <lb/>purposes and with exactly
 <lb/>the same objects in
 <lb/>view as are now expected
-<lb/>to be realised by the <orgName><term type="nationality">German</term>
+<lb/>to be realised by the <orgName ref="orgName.xml#org0055"><term type="nationality">German</term>
 <lb/>legion</orgName> - <del type="cancelled">and</del> the defence
 <lb/>of the Frontier while committed
-<lb/>to the <orgName>Hottentots</orgName> involved no
+    <lb/>to the <orgName ref="orgName.xml#org0058">Hottentots</orgName> involved no
 <lb/><del type="cancelled">political</del> Governmental aid
 <lb/><add place="marginleft">whatever</add> to the <term type="occupation">missionaries</term> who
 <lb/><metamark function="reorder" spanTo="#meta-80"/><seg corresp="#reorder-35">freely</seg><anchor xml:id="meta-80"/> taught them <metamark function="insertion"/><anchor xml:id="reorder-35"/> <del type="strikethrough">whatever</del>
-<lb/>These <orgName>Hottentots</orgName> answered well
+    <lb/>These <orgName ref="orgName.xml#org0058">Hottentots</orgName> answered well
 <lb/>the object which the founder
     <lb/>of the settlement <add place="marginleft"><metamark function="insertion"/>(<persName ref="person.xml#pers0545">Sir Andries
     <lb/>Stockenstrom</persName>)</add>
@@ -1487,7 +1487,7 @@ had in view</p>
 <lb/>daily returns to teapot &amp; tills - 
 <lb/>The credit however of
 <lb/>the defence made by both
-<lb/><orgName>Hottentots</orgName> &amp; <term type="occupation">Colonists</term> from
+    <lb/><orgName ref="orgName.xml#org0058">Hottentots</orgName> &amp; <term type="occupation">Colonists</term> from
 <lb/>distant parts has always
 <lb/>been appropriated by this
 <lb/>moneyed community whom
@@ -1562,7 +1562,7 @@ had in view</p>
 <lb/><term type="occupation">commissioner</term> may anticipate
     <lb/>the next <orgName ref="orgName.xml#org0042">Kaffir</orgName> war by a
 <lb/>searching enquiry among
-    <lb/>both <orgName ref="orgName.xml#org0042">Kaffirs</orgName> <orgName>Hottentots</orgName> and
+    <lb/>both <orgName ref="orgName.xml#org0042">Kaffirs</orgName> <orgName ref="orgName.xml#org0058">Hottentots</orgName> and
 <lb/><term type="occupation">Colonists</term> and I am certain
 <lb/>that if the causes <subst><del>of</del><add place="over-text">of</add></subst> this
 <lb/>chronic warfare were laid

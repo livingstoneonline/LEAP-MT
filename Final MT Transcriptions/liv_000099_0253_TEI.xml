@@ -155,9 +155,9 @@
     <lb/>place</add></p>
 <lb/><p>On crossing the <placeName><geogName type="river">Orange river</geogName></placeName>
 <lb/>we come into Independent
-<lb/>territory inhabited by <orgName>Griquas</orgName>
+    <lb/>territory inhabited by <orgName ref="orgName.xml#org0057">Griquas</orgName>
 <lb/>and <term type="tribe">Bechuanas</term>, The former
-    <lb/>are of <term type="nationality">Dutch</term> and <orgName>Hottentot</orgName> <add place="marginleft"><metamark function="insertion"/>and <orgName ref="orgName.xml#org0041"><choice><sic>bushman</sic><corr>Bushman</corr></choice></orgName></add> extraction
+    <lb/>are of <term type="nationality">Dutch</term> and <orgName ref="orgName.xml#org0058">Hottentot</orgName> <add place="marginleft"><metamark function="insertion"/>and <orgName ref="orgName.xml#org0041"><choice><sic>bushman</sic><corr>Bushman</corr></choice></orgName></add> extraction
 <lb/>of various degrees of remoteness
 <lb/><add place="marginleft" hand="#U3" rend="red">Cross-breeds</add><!-- unusual symbol above the second 'e'.JL --> <del type="cancelled"><hi rend="red underline" resp="#U3">Bastards</hi></del> of the first generations
 <lb/><subst><del>are</del><add place="over-text">con</add></subst>sider themselves superior
@@ -183,7 +183,7 @@
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">208</add> <add place="inspace" rend="gray right" hand="#U1">248</add></fw>
 <lb/>and he actually drove back
 <lb/>singlehanded a formidable force
-<lb/>of marauding <term type="tribe">Mantatees</term> that
+    <lb/>of marauding <orgName ref="orgName.xml#org0068">Mantatees</orgName> that
 <lb/>threatened to invade the Colony <add place="inline">*</add> <add place="marginleft"><note><add place="inline" hand="#U3" rend="red">Note</add> 
     <lb/>For an account
     <lb/><supplied cert="high">of</supplied> this see
@@ -197,7 +197,7 @@
 <lb/><add place="marginleft"><hi rend="red underline" resp="#U3">North</hi></add> West <del type="cancelled">frontier</del> would have
 <lb/><del type="strikethrough" hand="#U3" rend="red">been as</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">given the <term type="occupation">Colonists</term> as much</add> <w>trouble<del type="cancelled" rend="red">some</del></w> as the
 <lb/>Eastern <add place="below">^</add> <add place="above">Frontier</add> for the <del type="cancelled">first of these</del>
-<lb/><add place="marginleft">original <add place="below">^</add></add> <orgName>Griquas</orgName> <del type="cancelled">were a</del> had large
+    <lb/><add place="marginleft">original <add place="below">^</add></add> <orgName ref="orgName.xml#org0057">Griquas</orgName> <del type="cancelled">were a</del> had large
 <lb/>numbers among them who
 <lb/>had as little scruple <subst><del type="strikethrough" hand="#U3" rend="red">at</del><add place="above" hand="#U3" rend="red">about</add></subst> robbing
 <lb/><term type="occupation">farmers</term> of <term type="animal">cattle</term> as has been
@@ -231,12 +231,12 @@
 <lb/>ardent <term type="foodstuff">spirits</term> among his
 <lb/>people he with characteristic
     <lb/>energy decreed that any <orgName ref="orgName.xml#org0038">Boer</orgName>
-<lb/>or <orgName>Griqua</orgName> bringing <del type="cancelled">it</del>
+    <lb/>or <orgName ref="orgName.xml#org0057">Griqua</orgName> bringing <del type="cancelled">it</del>
 <lb/><term type="foodstuff">brandy</term> into the country
 <lb/>should have his property in
 <lb/>ardent <term type="foodstuff">spirits</term> confiscated
 <lb/>and poured out on the
-<lb/>ground - The <orgName>Griqua</orgName> <term type="occupation">chiefs</term>
+    <lb/>ground - The <orgName ref="orgName.xml#org0057">Griqua</orgName> <term type="occupation">chiefs</term>
 <lb/>farther East were unable
 <lb/>to carry this law into effect
 <lb/>as he did - hence the greater
@@ -276,7 +276,7 @@
 <lb/>subjects by proclaiming their
 <lb/>independence and not only
 <lb/>abrogating the treaty with the
-<lb/><orgName>Griquas</orgName> but <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">even</add> engaging to
+    <lb/><orgName ref="orgName.xml#org0057">Griquas</orgName> but <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">even</add> engaging to
 <lb/>prevent them <del type="strikethrough" ><add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">from</add></del> getting the <add place="below">^</add> <add place="above">long</add> <w>accustom<supplied>-</supplied>
 <lb break="no"/>ed</w> supplies of gun powder
 <lb/>for the defence of our
@@ -303,7 +303,7 @@ for their
 <lb/>and is still continued in
     <lb/>their<add place="inline" hand="#U2" rend="gray">,</add> (the <choice><sic><orgName ref="orgName.xml#org0038">Boer</orgName>'s</sic><corr><orgName ref="orgName.xml#org0038">Boers</orgName>'</corr></choice>) favour
 <lb/>and the <term type="tribe">Bechuanas</term> and
-<lb/><orgName>Griquas</orgName><add place="inline" hand="#U2" rend="gray">,</add> our constant friends
+    <lb/><orgName ref="orgName.xml#org0057">Griquas</orgName><add place="inline" hand="#U2" rend="gray">,</add> our constant friends
 <lb/>are debarred from obtaining
 <lb/>a single ounce for either
 <lb/>defence or trade<add place="inline" hand="#U2" rend="gray">;</add> - And such
@@ -352,7 +352,7 @@ for their
 <lb/>the policy which had been
 <lb/>that of their <choice><sic>hearts</sic><corr>hearts'</corr></choice> desire ever
 <lb/>since the emancipation
-<lb/>of the <orgName>Hottentots</orgName> put into
+                    <lb/>of the <orgName ref="orgName.xml#org0058">Hottentots</orgName> put into
 <lb/>operation - Thus from
 <lb/><del type="cancelled">Sh</del> unfortunate ignorance
 <lb/>of the country<add place="inline" hand="#U2" rend="gray">,</add> he had
@@ -399,7 +399,7 @@ for their
 
 <pb facs="liv_000099_0261.jpg" n="0261"/>
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">213</add> <add place="inspace" rend="gray right" hand="#U1">253</add></fw>
-<lb/>Many hundreds of both <orgName>Griquas</orgName>
+    <lb/>Many hundreds of both <orgName ref="orgName.xml#org0057">Griquas</orgName>
 <lb/>and <term type="tribe">Bechuanas</term> have become
 <lb/><orgName>Christians</orgName> and partially civilized
 <lb/>through the teaching of <term type="nationality">English</term>
@@ -464,7 +464,7 @@ for their
 <lb/>during the whole period of
 <lb/>the existence of the
 <lb/>mission - Now the
-<lb/><orgName>Griquas</orgName> spend annually
+    <lb/><orgName ref="orgName.xml#org0057">Griquas</orgName> spend annually
 <lb/>£12 000 in goods brought
 <lb/>from the Colony and
 <lb/>the whole of the <term type="tribe">Bechuanas</term>
@@ -503,7 +503,7 @@ for their
 
 <pb facs="liv_000099_0264.jpg" n="0264"/>
 <lb/><p rend="no-indent"><fw><add place="inspace" hand="#U2" rend="gray left">216</add> <add place="inspace" rend="gray right" hand="#U1">256</add></fw></p>
-<lb/><p>The <orgName>Griquas</orgName> and <term type="tribe">Bechuanas</term>
+                <lb/><p>The <orgName ref="orgName.xml#org0057">Griquas</orgName> and <term type="tribe">Bechuanas</term>
 <lb/>were in former times <del type="strikethrough">were</del>
     <lb/><add place="marginleft">clad</add> <del type="strikehthrough">clothed</del> <add place="below">^</add> <add place="above">much like the <orgName ref="orgName.xml#org0042">Caffres</orgName></add> if such a word may
 <lb/>be used to signify <add place="above">scarcely any</add> <del type="strikethrough">no</del> clothing

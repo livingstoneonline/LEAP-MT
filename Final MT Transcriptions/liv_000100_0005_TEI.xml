@@ -718,7 +718,7 @@ detached from the parts
 <lb/>in order to form an idea
 <lb/>of <add place="inline" hand="#U3" rend="red">the</add> probable <add place="marginleft"><metamark function="insertion"/>annual</add> <add place="above"><del type="cancelled">annual</del></add> destruction  of
 <lb/>this noble animal - There were
-    <lb/>parties of <del type="strikethrough"><orgName ref="orgName.xml#org0038">Boers</orgName></del> - <orgName>Griquas</orgName>
+    <lb/>parties of <del type="strikethrough"><orgName ref="orgName.xml#org0038">Boers</orgName></del> - <orgName ref="orgName.xml#org0057">Griquas</orgName>
     <lb/><term type="tribe">Bechuanas</term> <add place="below">˄</add> <add place="above"><orgName ref="orgName.xml#org0038">Boers</orgName></add> and <term type="people">Englishmen</term>
 
 
@@ -734,13 +734,13 @@ detached from the parts
 <lb/>air - It was noticeable
 <lb/>that the average for the <orgName>natives</orgName>
 <lb/>was under one per man
-<lb/>for the <orgName>Griquas</orgName> one per man
+    <lb/>for the <orgName ref="orgName.xml#org0057">Griquas</orgName> one per man
     <lb/>for the <orgName ref="orgName.xml#org0038">Boers</orgName> two and
 <lb/>for the <term type="people">English</term><del type="cancelled">man</del> <add place="above"><term type="occupation">Officers</term></add> <metamark function="insertion"/><anchor xml:id="reorder-53"/> 20 each
 <lb/><metamark function="reorder" spanTo="#meta-141"/><seg corresp="#reorder-53">who hunted <term type="animal">elephants</term></seg><anchor xml:id="meta-141"/> - This
 <lb/>
 <lb/>was the more remarkable as
-    <lb/>the <orgName>Griquas</orgName> <orgName ref="orgName.xml#org0038">Boers</orgName> &amp; <term type="tribe">Bechuanas</term>
+    <lb/>the <orgName ref="orgName.xml#org0057">Griquas</orgName> <orgName ref="orgName.xml#org0038">Boers</orgName> &amp; <term type="tribe">Bechuanas</term>
 <lb/>employed both <term type="animal">dogs</term> and
 <lb/><orgName>natives</orgName> to assist them
 <lb/>while the <term type="people">Englishmen</term>
@@ -771,7 +771,7 @@ detached from the parts
 <lb/>development we are 
 <lb/>superior to our ancestors <supplied cert="high">-</supplied>
 <lb/><choice><sic>the</sic><corr>The</corr></choice> coats<!-- there is a word beneath 'coats' but it is illegible.JL --> of mail &amp; greaves
-<lb/>of the <orgName><term type="occupation"><add place="inline" hand="#U3" rend="red">K</add>nights</term> of <placeName><geogName type="island">Malta</geogName></placeName></orgName> and
+<lb/>of the <orgName ref="orgName.xml#org0061"><term type="occupation"><add place="inline" hand="#U3" rend="red">K</add>nights</term> of <placeName><geogName type="island">Malta</geogName></placeName></orgName> and
 <lb/>the armour from the Tower
 <lb/>exhibited at the <placeName><settlement type="castle">Eglinton</settlement></placeName> 
 <lb/>tournament may be<!-- The Eglinton Tournament 1839, a re-enactment of a medieval joust and revel held in Ayrshire in 1839, sh -->
@@ -928,7 +928,7 @@ and on the <date when="1853-03-01">10<hi rend="sup">th</hi> March</date> we
 <lb/><add place="marginleft" hand="#U3" rend="red">The <subst><del type="strikethrough">oxen</del><add place="above">men</add></subst></add> <del type="strikethrough" hand="#U3" rend="red">They</del> generally return with
 <lb/>their shins well peeled by
 <lb/>the thorns - Each comrade
-<lb/>of the <del type="strikethrough"><foreign xml:lang="tn"><orgName>Mopato</orgName></foreign></del> <foreign xml:lang="tn"><orgName>mopato</orgName></foreign> would
+    <lb/>of the <del type="strikethrough"><foreign xml:lang="tn"><orgName ref="orgName.xml#org0071">Mopato</orgName></foreign></del> <foreign xml:lang="tn"><orgName ref="orgName.xml#org0071">mopato</orgName></foreign> would
 <lb/>expect his fellow to act thus
 <lb/>without <del type="strikethrough" hand="#U3" rend="red">expecting</del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">looking for any other</add> <del type="strikethrough" hand="#U3" rend="red">more</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">reward</add> than <add place="below" hand="#U3" rend="red">˄</add> <add place="above" rend="red" hand="#U3">the</add> praise <subst><del type="strikethrough" hand="#U3" rend="red">from</del><add place="above" hand="#U3" rend="red">of</add></subst> the <term type="occupation">chief</term>

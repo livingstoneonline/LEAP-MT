@@ -122,7 +122,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>the <term type="tribe">Quisamas</term> (<term type="tribe">Kisamas</term>) an independent tribe
 <lb/>which the <term type="nationality">Portuguese</term> have not been able to subdue
 <lb/>The few who came under my observation possessed
-    <lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2">?</metamark> a little of the <orgName ref="orgName.xml#org0041">Bushman</orgName> <subst><del type="strikethrough" rend="gray" hand="#U2" n="U2">of</del><add place="above">or</add></subst> <orgName><choice><sic>Hotentot</sic><corr>Hottentot</corr></choice></orgName> feature and
+    <lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2">?</metamark> a little of the <orgName ref="orgName.xml#org0041">Bushman</orgName> <subst><del type="strikethrough" rend="gray" hand="#U2" n="U2">of</del><add place="above">or</add></subst> <orgName ref="orgName.xml#org0058"><choice><sic>Hotentot</sic><corr>Hottentot</corr></choice></orgName> feature and
 <lb/>were dressed in strips of bark hanging from the waist
 <lb/>to the knee. They deal largely in <term type="foodstuff">salt</term> which their
 <lb/>country produces in great abundance. It is brought
@@ -300,7 +300,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
     <lb/>carefully
     <lb/>tended<anchor xml:id="meta-295"/></add> 
 - All speak well
-<lb/>of the <orgName>Jesuits</orgName> for having
+    <lb/>of the <orgName ref="orgName.xml#org0060">Jesuits</orgName> for having
 <lb/>attended diligently to the
 <lb/>instructions of the<del type="cancelled">ir</del> children 
 <lb/>They were supposed to have
@@ -315,7 +315,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>the present fruits of
 <lb/>former missions it is
 <lb/>impossible not to feel
-<lb/>that if the <orgName>Jesuit</orgName> teaching
+    <lb/>that if the <orgName ref="orgName.xml#org0060">Jesuit</orgName> teaching
 <lb/>has been so permanent
 <lb/>that of <orgName><choice><sic>protestants</sic><corr>Protestants</corr></choice></orgName> who
 <lb/>leave the <bibl>Bible</bibl> in the
@@ -400,7 +400,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
     <lb/>why he
     <lb/>did the deed.</add></p> 
 <lb/><p>There is also a <subst><del type="strikethrough">class</del><add place="above">sort</add></subst> of <metamark function="insertion"/><anchor xml:id="reorder-83"/> <choice><sic><orgName>free masons</orgName></sic><corr><orgName>freemasons</orgName>'</corr></choice> <metamark function="reorder" resp="#DL" n="DL" spanTo="#meta-183"/><seg corresp="#reorder-83">fraternity</seg><anchor xml:id="meta-183"/>
-<lb/>named <foreign xml:lang="pt"><orgName>Empacasseiros</orgName></foreign> <del type="strikethrough">whose</del> into which no one
+<lb/>named <foreign xml:lang="pt"><orgName ref="orgName.xml#org0052">Empacasseiros</orgName></foreign> <del type="strikethrough">whose</del> into which no one
 <lb/>is admitted unless he is an expert <term type="occupation">hunter</term> and
 <lb/>can shoot well with a gun. <space extent="3" unit="chars"/>They are
 <lb/>distinguished by a <add place="below">^</add> <subst><add place="above">fillet</add><del type="strikethrough">thong</del></subst> of <add place="below">^</add> <add place="above"><term type="animal">buffalo</term></add> hide around their

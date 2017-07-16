@@ -119,7 +119,7 @@
 <lb/><p>About half of <subst><del>our</del><add place="over-text">the</add></subst> Frontier   
 <lb/>of the <placeName><region>Cape Colony</region></placeName> is occupied   
 <lb/>by <choice><sic>Independant</sic><corr>Independent</corr></choice> tribes named
-<lb/><orgName>Griquas</orgName> &amp; <term type="tribe">Bechuanas</term> - who
+<lb/><orgName ref="orgName.xml#org0057">Griquas</orgName> &amp; <term type="tribe">Bechuanas</term> - who
 <lb/>have not only faithfully observed
 <lb/>the treaties made by <del type="cancelled"><subst><del>the</del><add place="over-text">f</add></subst></del>
 <lb/>former <orgName>Colonial Governments</orgName>
@@ -181,7 +181,7 @@
 <lb/>into the <placeName><region>Transvaal</region></placeName> Territory
 <lb/>while not an ounce <del type="strikethrough">can
 <lb/>be</del> is allowed to enter the
-<lb/>country of the <orgName>Griquas</orgName> &amp;
+                    <lb/>country of the <orgName ref="orgName.xml#org0057">Griquas</orgName> &amp;
 <lb/><term type="tribe">Bechuanas</term> - This I beg you
 <lb/>to observe has no reference
                     <lb/>to the <orgName ref="orgName.xml#org0042">Caffres</orgName> on our <placeName><region>Eastern

@@ -124,7 +124,7 @@
 <lb/>parts of the country may
 <lb/>be called large only as
 <lb/>compared with the
-<lb/><placeName><region>Cape Colony</region></placeName> or <del type="cancelled"><orgName>Griqua</orgName></del>
+    <lb/><placeName><region>Cape Colony</region></placeName> or <del type="cancelled"><orgName ref="orgName.xml#org0057">Griqua</orgName></del>
 <lb/><placeName><region><add place="marginleft">the</add> <term type="tribe">Bechuana</term> country</region></placeName> <del type="cancelled">and</del>
 <lb/><w><subst><del>t</del><add place="over-text">T</add></subst>he</w> cultivated land is
 <lb/>as nothing <del type="strikethrough">when</del> compared
@@ -233,7 +233,7 @@
 <lb/>spoken in the extreme
     <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0551"><unclear cert="medium">Thorns</unclear></persName></note> 
     <lb/><note><unclear cert="medium">255</unclear></note></add>
-South <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- square bracket connects to the marginal number.JL -->whether <orgName>Hottentot</orgName>
+    South <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- square bracket connects to the marginal number.JL -->whether <orgName ref="orgName.xml#org0058">Hottentot</orgName>
 <lb/>or <orgName><subst><del>K</del><add place="over-text">C</add></subst>affre</orgName> <del type="cancelled">they will be
 <lb/>found to bear</del> <add place="below">^</add> <add place="above">bear</add> a close
 <lb/>affinity to those of

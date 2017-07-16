@@ -371,7 +371,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/><add place="marginleft">the mischief</add> might be produced by some
 <lb/>plant in the locality but
     <lb/><persName ref="people.xml#pers0557"><add place="marginleft">Major</add> <del type="cancelled">Captain</del> Frank Vardon</persName>
-<lb/>of the <orgName>Madras army</orgName> had
+<lb/>of the <orgName ref="orgName.xml#org0066">Madras army</orgName> had
 <lb/>settled that point by riding
 <lb/>a <term type="animal">horse</term> up to a small 
 <lb/>hill infested by the insect<!-- term: tsetse -->
@@ -544,7 +544,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>one part <persName ref="people.xml#pers0515">Sebituane</persName> was one
 <lb/>in that immense horde of
 <lb/>savages driven back by
-<lb/>the <orgName>Griquas</orgName> <add place="below">˄</add> <add place="marginleft">from <placeName><settlement type="village">Kuruman</settlement></placeName></add> in <date when="1824">1824</date> <add place="inline">*</add> He
+    <lb/>the <orgName ref="orgName.xml#org0057">Griquas</orgName> <add place="below">˄</add> <add place="marginleft">from <placeName><settlement type="village">Kuruman</settlement></placeName></add> in <date when="1824">1824</date> <add place="inline">*</add> He
 <lb/>then fled to the North with
 <lb/>an insignificant party of 
 <lb/>men and <term type="animal">cattle</term> - At <del type="cancelled"><placeName><settlement type="village">Kolobeng</settlement></placeName></del>

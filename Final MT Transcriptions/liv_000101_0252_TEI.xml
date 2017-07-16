@@ -200,7 +200,7 @@
 <lb/>there rises a mountain range equal in height to
 <lb/><placeName><geogName type="mountain">Morumbala</geogName></placeName>, and called <placeName><geogName type="mountain">Nyamónga</geogName></placeName>. In a
 <lb/>clear day, another range beyond this may be seen,
-<lb/>which is <placeName><geogName type="mountain"><choice><orig>Goron<note place="above" hand="#DL" n="DL">n</note>gózo</orig><reg>Gorongózo</reg></choice></geogName></placeName>, once a station of the <orgName>Jesuits</orgName>.
+        <lb/>which is <placeName><geogName type="mountain"><choice><orig>Goron<note place="above" hand="#DL" n="DL">n</note>gózo</orig><reg>Gorongózo</reg></choice></geogName></placeName>, once a station of the <orgName ref="orgName.xml#org0060">Jesuits</orgName>.
 <lb/><placeName><geogName type="mountain">Gorongózo</geogName></placeName> is famed for its clear cold waters
 <lb/>and healthiness, and there are some inscriptions
 <lb/>engraved on large square slabs on the top
@@ -266,7 +266,7 @@
 <lb/>by the <term type="occupation">Commandant</term> respecting a better site
 <lb/>for the village, which lying on the low bank
 <lb/>of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> is very unhealthy, I recommended
-<lb/>him to imitate the <orgName>Jesuits</orgName>, who had chosen
+        <lb/>him to imitate the <orgName ref="orgName.xml#org0060">Jesuits</orgName>, who had chosen
 <lb/>the high healthy mountain of <placeName><geogName type="mountain">Gorongozo</geogName></placeName>, 
 <lb/>and fix on a new site on <placeName><geogName type="mountain">Morumbala</geogName></placeName>, which
 <lb/>is perfectly healthy, well watered and <retrace hand="#U5" n="U5"><add place="inline" hand="#U2" n="U2" rend="gray">where</add></retrace>
@@ -369,7 +369,7 @@
     <lb/>£12,000
     <lb/>per annum
     <lb/>for 128,000
-    <lb/><term type="animal">ass</term> loads! The ancient <orgName>Thracians</orgName> are said to have eaten
+        <lb/><term type="animal">ass</term> loads! The ancient <orgName ref="orgName.xml#org0083">Thracians</orgName> are said to have eaten
     <lb/>them largely. In the <placeName><region>south of <placeName><country>France</country></placeName></region></placeName> they are called <term type="plant_foodstuff">water chestnuts</term></quote>- " <anchor xml:id="meta-326"/></add>
 The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</add></retrace>
 <lb/>of these plants in such abundance <retrace hand="#DL" n="DL"><add place="inline" rend="gray" hand="#U2" n="U2">in</add></retrace> the
@@ -425,7 +425,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
     <lb/>in <placeName><country>England</country></placeName> I applied to <persName ref="people.xml#pers0564"><term type="occupation">Captain</term> Washington</persName>
     <lb/>the <term type="occupation">Secretary of the <orgName ref="orgName.xml#org0032">Admiralty</orgName></term>, and he
 <lb/>promptly furnished the document for
-<lb/>publication by the <orgName>Royal Geographical 
+    <lb/>publication by the <orgName ref="orgName.xml#org0079">Royal Geographical 
 <lb/>Society</orgName>.</p>
 <lb/><p>The river between <placeName><settlement type="village">Mazáro</settlement></placeName> and the sea,
 <lb/>must therefore be judged of from<!-- possible letters beneath 'fr' but illegible.JL --> the
@@ -684,7 +684,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/><p>Their wish to co-operate in the noble work of
 <lb/>developing the resources of the rich country
 <lb/>beyond, could not be <choice><orig>shewn</orig><reg>shown</reg></choice> better than by
-<lb/>placing a village with <orgName>Zambesian</orgName> <term type="occupation">pilots</term> at
+    <lb/>placing a village with <orgName ref="orgName.xml#org0089">Zambesian</orgName> <term type="occupation">pilots</term> at
 <lb/><add place="marginleft" hand="#DL" n="DL"><note><placeName><settlement type="village">Mitilone</settlement></placeName></note></add> the harbour of <placeName><settlement type="village">Mitilone</settlement></placeName>, and erecting a <w>light-
 <lb break="no"/>house</w> for the guidance of seafaring men. If
 <lb/>this were done, no nation would <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">be a greater</add> <w>gain<add place="inline" hand="#DL" n="DL">er</add></w> <del type="strikethrough" hand="#DL" n="DL">more</del>
@@ -753,7 +753,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>the case during four or five months of each
 <lb/>year. The months of low water still admit
 <lb/>of navigation by launches, and would permit
-<lb/>small vessels equal to the <orgName><placeName><geogName type="river">Thames</geogName></placeName> steamers</orgName>
+    <lb/>small vessels equal to the <orgName ref="orgName.xml#org0082"><placeName><geogName type="river">Thames</geogName></placeName> steamers</orgName>
 <lb/>to ply with ease in the deep channel. If
 <lb/>a steamer were sent to examine the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>,
 <lb/>I would recommend one of the lightest draught,
@@ -844,13 +844,13 @@ which brings us to the
 <lb/>might be formed along the flank of the
 <lb/>Eastern ridge, would be in a favourable
 <lb/>position for carrying out the objects in
-<lb/>view. The <orgName>London Missionary Society</orgName> <add place="inline" hand="#DL" n="DL" >has</add>
+    <lb/>view. The <orgName ref="orgName.xml#org0064">London Missionary Society</orgName> <add place="inline" hand="#DL" n="DL" >has</add>
 <lb/><add place="marginleft" hand="#DL" n="DL">resolved</add> <add place="below" hand="#DL" n="DL">˄</add> <del type="cancelled" hand="#DL" n="DL">intends</del> to have a station among the 
 <lb/><term type="tribe">Makololo</term> on the North bank, and <subst><add place="above" hand="#DL" n="DL">another</add><del type="cancelled" hand="#DL" n="DL">the</del></subst> <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>on the south
     <lb/>among the
     <lb/><term type="tribe">Matebele</term> -
     <lb/>The</add> 
-    <add place="below" hand="#DL" n="DL">^</add> <orgName ref="orgName.xml#org0045">Church</orgName> <del type="cancelled" hand="#DL" n="DL">or</del> <orgName>Wesleyan</orgName> or <subst><add place="above" hand="#DL" n="DL"><orgName ref="orgName.xml#org0037">Baptist</orgName></add><del type="strikethrough" hand="#DL" n="DL">any other body</del></subst>
+    <add place="below" hand="#DL" n="DL">^</add> <orgName ref="orgName.xml#org0045">Church</orgName> <del type="cancelled" hand="#DL" n="DL">or</del> <orgName ref="orgName.xml#org0087">Wesleyan</orgName> or <subst><add place="above" hand="#DL" n="DL"><orgName ref="orgName.xml#org0037">Baptist</orgName></add><del type="strikethrough" hand="#DL" n="DL">any other body</del></subst>
 <lb/>would find desirable locations among
 <lb/>the <term type="tribe">Batoka</term>. <del type="cancelled" hand="#DL" n="DL"><metamark function="insertion" resp="#DL" n="DL"/></del> The Country is so extensive
 <lb/>there is no fear of clashing<add place="inline" hand="#DL" n="DL">,</add> <add place="marginbottom" hand="#DL" n="DL"><metamark function="insertion"/>All <del type="cancelled" hand="#DL" n="DL"><add place="above" hand="#DL" n="DL"><unclear cert="medium">churches</unclear></add> sorts find they</del> <add place="below">classes of</add> <orgName>Christians</orgName> find that sectarian rancour
@@ -865,7 +865,7 @@ which brings us to the
 <pb facs="liv_000101_0271.jpg" n="0271"/><!-- p676, sh -->    
 <lb/><fw><add place="inspace" hand="#U2" n="U2" rend="gray right">20</add> <space extent="3" unit="chars"/><add place="inspace" hand="#U1" n="U1" rend="gray right">219</add></fw>
 <lb/>on the unhealthy coast entails. <del type="strikethrough" hand="#DL" n="DL">I specify the
-    <lb/><orgName ref="orgName.xml#org0045">Church</orgName> and <orgName>Wesleyan Societies</orgName> because of
+    <lb/><orgName ref="orgName.xml#org0045">Church</orgName> and <orgName ref="orgName.xml#org0087">Wesleyan Societies</orgName> because of
 <lb/>their riches and influence, and</del> <choice><sic>while</sic><corr>While</corr></choice> respectfully
 <lb/>submitting the plan <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>to these
 <lb/>influential

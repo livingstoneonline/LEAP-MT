@@ -259,7 +259,7 @@ were much
 <lb/>best educations the <placeName><region>Hebrides</region></placeName>
 <lb/>afforded<add place="inline" hand="#U2" rend="gray">,</add> were gladly <choice><sic>recieved</sic><corr>received</corr></choice>
 <lb/>as <term type="occupation">clerks</term> by the proprietors,
-<lb/><orgName>Monteith &amp; Co.</orgName> My grandfather
+<lb/><orgName ref="orgName.xml#org0070">Monteith &amp; Co.</orgName> My grandfather
 <lb/>highly esteemed for his unflinching
 <lb/>honesty was employed in the 
 <lb/>conveyance of large sums of
@@ -513,7 +513,7 @@ by <del type="cancelled">while</del> working with my hands
 <lb/>Society</orgName> on account of its
 <lb/>perfectly unsectarian character<add place="inline" rend="gray" hand="#U2">.</add>
 <lb/>It "sends neither <orgName>Episcopacy</orgName>
-<lb/>nor <orgName>Presbyterianism</orgName> nor
+    <lb/>nor <orgName ref="orgName.xml#org0075">Presbyterianism</orgName> nor
 <lb/><term type="faith"><choice><sic>Independancy</sic><corr>Independency</corr></choice></term>, but the gospel
     <lb/>of <persName ref="people.xml#pers0333">Christ</persName> to the heathen" This
 <lb/>exactly agreed with my ideas of
@@ -659,7 +659,7 @@ and
 <lb/>to whether this instrument
 <lb/>could do what I asserted
 <lb/>However I was admitted
-<lb/>a licentiate of <orgName>Faculty of
+<lb/>a licentiate of <orgName ref="orgName.xml#org0054">Faculty of
 <lb/><term type="occupation">Physicians</term> and <term type="occupation">Surgeons</term></orgName>
 <lb/>but though qualified for
 <lb/>my original plan the
@@ -675,7 +675,7 @@ and
 <lb/><term type="occupation">medical man</term> and <term type="occupation">missionary</term></p>
 <lb/><p> The general instructions
 <lb/>I <choice><sic>recieved</sic><corr>received</corr></choice> from the <term type="occupation">Directors</term>
-<lb/>of the <orgName>Missionary Society</orgName>
+    <lb/>of the <orgName ref="orgName.xml#org0064">Missionary Society</orgName>
 <lb/>led me as soon as I reached
 <lb/><placeName><settlement type="village">Kuruman</settlement></placeName> or <placeName><settlement type="village">Lattakoo</settlement></placeName> then
 <lb/>their farthest inland station

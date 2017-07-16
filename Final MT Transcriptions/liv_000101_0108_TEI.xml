@@ -207,7 +207,7 @@
 <lb/>my journey in <placeName><country>Angola</country></placeName> an offer was made to
 <lb/><del type="strikethrough">any</del> young <del type="cancelled">man</del> <add place="below">^</add> <add place="above">men of ability</add> who might wish to devote
 <lb/>themselves to the service of the church to afford
-<lb/>them the requisite education at the <orgName>University
+    <lb/>them the requisite education at the <orgName ref="orgName.xml#org0086">University
 <lb/>of <placeName><settlement type="city">Coimbra</settlement></placeName></orgName> in <placeName><country>Portugal</country></placeName> <space extent="4" unit="chars"/>I was informed <add place="below">^</add> <add place="marginleft"><del type="strikethrough">by various
     <lb/>on what seemed
     <lb/>good authority</del></add>
@@ -629,7 +629,7 @@ among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>t
 <lb/>papers &amp; maps <del type="cancelled">and</del> and as there is a post <del type="cancelled">sent</del>
 <lb/>twice a month from <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> I had <choice><abbr>'</abbr><expan>the</expan></choice> happiness to
 <lb/>receive a packet <choice><abbr>` '</abbr><expan>of the</expan></choice> <bibl>Times</bibl> <subst><del type="cancelled" hand="#DL" n="DL" rend="gray">giving</del><add place="above" hand="#DL" n="DL" rend="gray">and among other news</add></subst> an account <choice><abbr>` '</abbr><expan>of the</expan></choice>
-<lb/><term type="nationality">Russian</term> war up to the terrible charge of the <orgName>light cavalry</orgName>.<!-- Light Brigade, sh --> <space extent="2" unit="chars"/>The intense anxiety I felt to
+<lb/><term type="nationality">Russian</term> war up to the terrible charge of the <orgName ref="orgName#org0062">light cavalry</orgName>.<!-- Light Brigade, sh --> <space extent="2" unit="chars"/>The intense anxiety I felt to
 <lb/>hear more may be imagined <del type="strikethrough">but</del> <del type="cancelled">I</del> by every
 <lb/>true patriot but I was forced to <del type="cancelled" hand="#DL" n="DL">be content <del type="cancelled" hand="#DL" n="DL" rend="gray">with</del></del>
 <lb/><add place="marginleft" hand="#DL" n="DL"><metamark function="insertion" rend="gray" resp="#DL" n="DL"/>brood <add place="below">^</add> <add place="above">on</add> with <add place="above" hand="#U1" n="U2" rend="gray">in ?</add> 

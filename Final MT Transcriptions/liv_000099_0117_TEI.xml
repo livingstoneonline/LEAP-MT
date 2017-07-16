@@ -761,7 +761,7 @@ But there is
     <lb/><term type="animal">great horned
     <lb/>cattle</term> - They seem
     <lb/>allied to the
-    <lb/><orgName>Hottentot</orgName> family - </add>
+    <lb/><orgName ref="orgName.xml#org0058">Hottentot</orgName> family - </add>
     <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><abbr>O</abbr><expan>Oswell</expan></choice></persName>
 <lb/>in trying to cross the river got
 <lb/>his <term type="animal">horse</term> <del type="strikethrough">nearly</del> bogged in
@@ -878,7 +878,7 @@ But there is
 <lb/>has overrun the countries
 <lb/>adjacent to the rivers on
 <lb/>which they specially love to
-<lb/>dwell. <del type="strikethrough">-</del> <!--see note above, ks--><!-- see also my note above.JL --> They are thus the <orgName>Quakers</orgName>
+    <lb/>dwell. <del type="strikethrough">-</del> <!--see note above, ks--><!-- see also my note above.JL --> They are thus the <orgName ref="orgName.xml#org0076">Quakers</orgName>
 <lb/>of the body politic in <placeName><bloc>Africa</bloc></placeName> - </p>
                 <lb/><p><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName ref="people.xml#pers0497">Robinson</persName></note></hi></add><!-- the underlining could also be a proofcorrection mark to mark the editor's place in the text.JL --> <add place="inline" hand="#U3" rend="red">A </add> <del type="cancelled" hand="#U3" rend="red">(</del> Long <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">time</add> after <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">the period of our visit</add> <del type="strikethrough" hand="#U3" rend="red">this</del> the
 <lb/><term type="occupation">chief</term> of the Lake, thinking to
@@ -1012,7 +1012,7 @@ But there is
 <lb/>and 100 miles <del type="strikethrough" hand="#U3" rend="red">in circumference</del></measure>
 <lb/>    
 <lb/><milestone unit="section" rend="line"/>
-<lb/><add place="inspace"><note><seg rend="left">* <bibl>Letters published by the <orgName>Royal Geographical
+                    <lb/><add place="inspace"><note><seg rend="left">* <bibl>Letters published by the <orgName ref="orgName.xml#org0079">Royal Geographical
         <lb/>society</orgName></bibl> - Read - <date when="1850-02-11">11<hi rend="sup">th</hi> <choice><abbr>Feb.</abbr><expan>February</expan></choice> &amp;</date> <date when="1850-04-08">8 April 1850</date></seg></note></add>    
 
 

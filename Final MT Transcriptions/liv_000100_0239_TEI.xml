@@ -371,7 +371,7 @@ This
 <lb/>them I have no hope whatever
 <lb/>of seeing the <term type="plant_foodstuff">fruit</term> it seems
 <lb/>to them like what the deed
-<lb/>of the <orgName><placeName><region>South Sea</region></placeName> Islanders</orgName>
+    <lb/>of the <orgName ref="orgName.xml#org0080"><placeName><region>South Sea</region></placeName> Islanders</orgName>
 <lb/>appears to us when they
 <lb/>planted iron nails in their
 <lb/>gardens</p>
@@ -638,7 +638,7 @@ and
 <lb/>to <foreign xml:lang="loz"><placeName><geogName type="waterfall">Mosioatunya</geogName></placeName></foreign> there are
 <lb/>many long reaches where
 <lb/>a <del type="strikethrough">considerable</del> vessel equal
-<lb/>to the <orgName><choice><sic><placeName><geogName type="river">Thame's</geogName></placeName></sic><corr><placeName><geogName type="river">Thames</geogName></placeName></corr></choice> Steamers</orgName>
+        <lb/>to the <orgName ref="orgName.xml#org0082"><choice><sic><placeName><geogName type="river">Thame's</geogName></placeName></sic><corr><placeName><geogName type="river">Thames</geogName></placeName></corr></choice> Steamers</orgName>
 <lb/>plying between the bridges
 <lb/>could sail as freely<!-- evidence of a previous word beneath 'freely' but it is illegible.JL --> as 
 <lb/>they do on the <placeName><geogName type="river">Thames</geogName></placeName>
@@ -658,7 +658,7 @@ and
 <lb/>large sandbanks in the
 <lb/>stream - but then you have
 <lb/><measure>a hundred miles</measure> to the <placeName><geogName type="river"><choice><abbr>R -</abbr><expan>River</expan></choice>
-<lb/>Simah</geogName></placeName> where a <orgName><placeName><geogName type="river">Thames</geogName></placeName>
+    <lb/>Simah</geogName></placeName> where a <orgName ref="orgName.xml#org0082"><placeName><geogName type="river">Thames</geogName></placeName>
 <lb/>Steamer</orgName> could ply at all
 <lb/>times of the year, and again the 
 <lb/>space between <placeName><geogName type="river">Simah</geogName></placeName> &amp;

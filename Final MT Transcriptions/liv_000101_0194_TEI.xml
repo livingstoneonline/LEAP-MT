@@ -614,7 +614,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>and <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">so on the Western side of the continent for</add> it is a fact that many parts in <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>interior of <placeName><country>Angola</country></placeName></region></placeName> <choice><abbr>wh.</abbr><expan>which</expan></choice>
 <lb/>were formerly thought to be unhealthy on account of their distance
 <lb/>inland have been found <subst><del hand="#DL" n="DL">in</del><add place="over-text" hand="#DL" n="DL">as</add></subst> <subst><del type="strikethrough" hand="#DL" n="DL">inquiry</del><add place="above" hand="#DL" n="DL">population</add></subst> advanced to be <choice><abbr>'</abbr><expan>the</expan></choice> most healthy
-<lb/>spots in <choice><abbr>'</abbr><expan>the</expan></choice> country -  Did <choice><abbr>'</abbr><expan>the</expan></choice> great <orgName><placeName><geogName type="river">Niger</geogName></placeName> expedition</orgName> turn
+    <lb/>spots in <choice><abbr>'</abbr><expan>the</expan></choice> country -  Did <choice><abbr>'</abbr><expan>the</expan></choice> great <orgName ref="orgName.xml#org0072"><placeName><geogName type="river">Niger</geogName></placeName> expedition</orgName> turn
 <lb/>back when near such a desirable position for its stricken and
 <lb/>prostrate members? <space extent="4" unit="chars"/><del type="strikethrough"><note>Insert slips</note></del> <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-88"/><anchor xml:id="add-73"/></p>
 <lb/><p><space extent="32" unit="chars"/>We met an <term type="animal">elephant</term>
@@ -1495,7 +1495,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>rises a mountain range equal in height to <placeName><geogName type="mountain">Morumbala</geogName></placeName>
 <lb/>and called <placeName><geogName type="mountain">Nyamonga</geogName></placeName> <space extent="4" unit="chars"/>In a clear day another
 <lb/>range beyond this may be seen <choice><abbr>wh.</abbr><expan>which</expan></choice> is <placeName><geogName type="mountain">Gorongozo</geogName></placeName> once
-<lb/>a station of the <orgName><choice><sic>Jesuists</sic><corr>Jesuits</corr></choice></orgName>. <space extent="2" unit="chars"/><placeName><geogName type="mountain">Gorongozo</geogName></placeName> is famed for its clear
+    <lb/>a station of the <orgName ref="orgName.xml#org0060"><choice><sic>Jesuists</sic><corr>Jesuits</corr></choice></orgName>. <space extent="2" unit="chars"/><placeName><geogName type="mountain">Gorongozo</geogName></placeName> is famed for its clear
 <lb/>cold waters and healthiness &amp; there are some inscriptions
 <lb/>engraved on large square slabs on <choice><abbr>'</abbr><expan>the</expan></choice> top of <placeName><geogName type="mountain">Gorongozo</geogName></placeName>
 <lb/><choice><abbr>wh</abbr><expan>which</expan></choice> have probably been <choice><abbr>'</abbr><expan>the</expan></choice> work of <choice><abbr>'</abbr><expan>the</expan></choice> <subst><del type="strikethrough" hand="#DL" n="DL"><term type="occupation">padres</term></del> <add place="inline" hand="#DL" n="DL"><term type="occupation">Fathers</term> - </add></subst> As this lies in
@@ -1579,7 +1579,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 
 <pb facs="liv_000101_0244.jpg" n="0244"/><!-- p662-663, sh -->    
 <lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">197</add></fw>
-<lb/>very unhealthy I recommended him to imitate <choice><abbr>'</abbr><expan>the</expan></choice> <orgName><choice><sic>Jesuists</sic><corr>Jesuits</corr></choice></orgName> who
+        <lb/>very unhealthy I recommended him to imitate <choice><abbr>'</abbr><expan>the</expan></choice> <orgName ref="orgName.xml#org0060"><choice><sic>Jesuists</sic><corr>Jesuits</corr></choice></orgName> who
 <lb/>had chosen <choice><abbr>'</abbr><expan>the</expan></choice> high healthy mountain of <placeName><geogName type="mountain">Gor<del type="cancelled"><unclear cert="medium">un</unclear></del>ongozo</geogName></placeName>, and <del type="cancelled">fixed</del>
 <lb/>fix on a new site on <placeName><geogName type="mountain">Morumbala</geogName></placeName> which is perfectly healthy
 <lb/>well watered and has <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Shire</geogName></placeName> deep enough for <choice><abbr>'</abbr><expan>the</expan></choice> purpose of
@@ -1695,7 +1695,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
     <lb/>possession of the <orgName ref="orgName.xml#org0032">Admiralty</orgName>. <space extent="4" unit="chars"/>On my arrival in <placeName><country><choice><abbr>Eng.</abbr><expan>England</expan></choice></country></placeName>
     <lb/>I applied to <persName ref="people.xml#pers0564"><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Washington</persName> the <term type="occupation"><choice><abbr>Sec<hi rend="sup">y</hi></abbr><expan>Secretary</expan></choice></term> <subst><del>at</del><add place="over-text">of</add></subst> <choice><abbr>'</abbr><expan>the</expan></choice> <orgName ref="orgName.xml#org0032">Admiralty</orgName> and
 <lb/>he promptly furnished <choice><abbr>'</abbr><expan>the</expan></choice> document for publication by <choice><abbr>'</abbr><expan>the</expan></choice>
-<lb/><orgName>Royal Geographical Society</orgName>. <metamark function="newParagraph">/</metamark> <space extent="2" unit="chars"/>The river between
+    <lb/><orgName ref="orgName.xml#org0079">Royal Geographical Society</orgName>. <metamark function="newParagraph">/</metamark> <space extent="2" unit="chars"/>The river between
 <lb/><placeName><settlement type="village">Mazáro</settlement></placeName> and <choice><abbr>'</abbr><expan>the</expan></choice> sea must therefore be judged of from      
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> testimony of one more competent to decide on its merits
 <lb/>than a mere landsman like myself. <add place="inline" hand="#DL" n="DL"><figure><figDesc>Rectangular symbol, also appearing on 0250, which serves to mark the point of insertion for a portion of manuscript.</figDesc></figure></add> <!-- p668, sh --><subst><del hand="#DL" n="DL"><unclear cert="medium">his</unclear></del><add place="over-text" hand="#DL" n="DL">The</add></subst> conclusions <add place="below" hand="#DL" n="DL">^</add><anchor xml:id="add-116"/>

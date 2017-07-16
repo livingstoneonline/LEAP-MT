@@ -286,7 +286,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>to observe the great numbers
 <lb/>who can read and write in
 <lb/><w>th<subst><del>e</del><add place="over-text">i</add></subst>s</w> district - <w>Th<subst><del>e</del><add place="over-text">i</add></subst>s</w> is the fruit
-<lb/>of the labours of the <orgName>Jesuits</orgName>
+    <lb/>of the labours of the <orgName ref="orgName.xml#org0060">Jesuits</orgName>
 <lb/><subst><del>o</del><add place="over-text">f</add></subst>or they taught the people
 <lb/>of <placeName><settlement type="village">Ambaca</settlement></placeName> usually termed
     <lb/><orgName ref="orgName.xml#org0035">Ambacistas</orgName> and ever since
@@ -297,7 +297,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>men are held in high estimation
 <lb/>throughout this country to this 
 <lb/>day - All speak well of them
-<lb/>(<foreign xml:lang="pt">os <term type="occupation">padres <orgName>Jesuitas</orgName></term></foreign>) and now
+    <lb/>(<foreign xml:lang="pt">os <term type="occupation">padres <orgName ref="orgName.xml#org0060">Jesuitas</orgName></term></foreign>) and now
 <lb/>that they are gone from this
 <lb/>lower sphere I could not
 <lb/>help wishing that <add place="below">^</add> <add place="above">these</add> our <orgName>Roman

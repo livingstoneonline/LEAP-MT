@@ -205,7 +205,7 @@
 <lb/>finished his trading <supplied cert="high">-</supplied> I was then
 <lb/>entirely dependant on my
 <lb/><del type="cancelled">twenty seven</del> <add place="below">^</add> <add place="marginleft">thirty</add> men whom I
-<lb/>shall name <orgName>Zambesians</orgName> for
+    <lb/>shall name <orgName ref="orgName.xml#org0089">Zambesians</orgName> for
 <lb/>they were composed of two
 <lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <term type="tribe">Makololo</term> <add place="above">only</add> - and the rest <term type="tribe">Barotse</term>
 <lb/><term type="tribe">Batoka</term> - <term type="tribe">Bashubia</term> and two of
@@ -428,14 +428,14 @@ As I had always
 <lb/><p>The instruments I carried
 <lb/>though few were the best of their kind
 <lb/>A sextant <del type="strikethrough">made</del> by the famed
-<lb/>makers <orgName><persName>Troughton</persName> and <persName>Sims</persName></orgName> of
+    <lb/>makers <orgName ref="orgName.xml#org0084"><persName>Troughton</persName> and <persName>Sims</persName></orgName> of
 <lb/><placeName><settlement type="street">Fleet Street</settlement></placeName> - A chronometer watch
 <lb/>with a stop to the second's hand - an
 <lb/>admirable contrivance for enabling
 <lb/>a person to take the exact time of
 <lb/>observations - It was constructed
     <lb/>by <orgName><persName ref="people.xml#pers0291">Dent</persName></orgName> of the <placeName><settlement type="street">Strand</settlement></placeName> (61) for the
-<lb/><orgName>Royal Geographical Society</orgName> &amp;
+    <lb/><orgName ref="orgName.xml#org0079">Royal Geographical Society</orgName> &amp;
     <lb/>pronounced by <persName ref="people.xml#pers0377">Mr Maclear</persName> to
 <lb/>equal most chronometers in
 <lb/>performance - For both these
@@ -445,7 +445,7 @@ As I had always
     <lb/>and to <persName ref="people.xml#pers0377">Mr Maclear</persName> for much
 <lb/>of my ability to use them <add place="marginleft"><metamark function="insertion"/>Besides these
     <lb/>I had a thermometer
-    <lb/>by <orgName><persName>Dollond</persName></orgName> -
+    <lb/>by <orgName ref="orgName.xml#org0049"><persName>Dollond</persName></orgName> -
     <lb/>A compass
     <lb/>from the <orgName ref="orgName.xml#org0043"><placeName><region>Cape</region></placeName> Observatory</orgName>
     <lb/>and a small
