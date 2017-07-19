@@ -291,7 +291,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>of <placeName><settlement type="village">Ambaca</settlement></placeName> usually termed
     <lb/><orgName ref="orgName.xml#org0035">Ambacistas</orgName> and ever since
 <lb/>the expulsion of the <term type="occupation">teachers</term>
-<lb/>by the <persName><term type="occupation">Marquis</term> of <placeName><settlement type="town">Pombal</settlement></placeName></persName>
+<lb/>by the <persName ref="persName.xml#pers0576"><term type="occupation">Marquis</term> of <placeName><settlement type="town">Pombal</settlement></placeName></persName>
 <lb/><choice><sic>The<del type="cancelled">y</del></sic><corr>the</corr></choice> <add place="below">^</add> <add place="marginleft"><orgName>natives</orgName></add> have continued to teach
 <lb/>each other - These devoted
 <lb/>men are held in high estimation
