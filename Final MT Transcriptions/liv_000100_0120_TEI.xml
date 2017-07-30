@@ -858,7 +858,7 @@ is the true
 <lb/><placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName> - It bears
 <lb/><del type="strikethrough" rend="red" hand="#U3">as I have since seen</del> a
 <lb/>close resemblance to the
-<lb/><placeName><region>valley of the Nile</region></placeName> <del type="cancelled" rend="red" hand="#U3"><metamark function="insertion" rend="red" resp="#U3"/></del> and is
+<lb/><placeName><geogName type="valley">valley of the Nile</geogName></placeName> <del type="cancelled" rend="red" hand="#U3"><metamark function="insertion" rend="red" resp="#U3"/></del> and is
 <lb/><seg type="weather">inundated annually <metamark function="insertion"/><anchor xml:id="reorder-78"/> <add place="above">but</add> by the
 <lb/><placeName><geogName type="river">Leambye</geogName></placeName> <del type="cancelled">and</del> <metamark function="reorder" spanTo="#meta-176"/><seg corresp="#reorder-78">not by rains</seg><anchor xml:id="meta-176"/></seg>
                             
@@ -926,7 +926,7 @@ is the true
 <lb/>whether this valley which 
 <lb/>contains so much moisture
 <lb/>would raise <term type="plant_foodstuff">corn</term> as the
-<lb/><placeName><region>valley of the <placeName><geogName type="river">Nile</geogName></placeName></region></placeName> does - It is
+<lb/><placeName><geogName type="valley">valley of the <placeName><geogName type="river">Nile</geogName></placeName></geogName></placeName> does - It is
 <lb/>probably too much and would
 <lb/>make <term type="plant_foodstuff">corn</term> run entirely to
 <lb/>straw for one species of
