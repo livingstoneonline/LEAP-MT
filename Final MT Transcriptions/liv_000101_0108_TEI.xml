@@ -170,7 +170,7 @@
 <lb/><add place="marginleft" hand="#DL" n="DL" rend="gray">however</add> <add place="below" hand="#DL" n="DL" rend="gray">^</add> has no means of transport <add place="below">˄</add> <add place="above">to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></add> other than <add place="above">the</add> shoulders
 <lb/>of the <term type="occupation">carriers</term> and <orgName>slaves</orgName> <del type="strikethrough">by me</del> over a footpath</p>
 <lb/><p><placeName><settlement type="town">Cambambe</settlement></placeName> to which the <add place="below">^</add> <del type="strikethrough"><add place="above">canoe</add></del> navigation
-<lb/>of the <placeName><settlement type="town">Coanza</settlement></placeName> reaches is reported to be <measure>thirty
+<lb/>of the <placeName><geogName type="river">Coanza</geogName></placeName> reaches is reported to be <measure>thirty
 <lb/>leagues</measure> below <placeName><region>Pungo Andongo</region></placeName> <space extent="2" unit="chars"/>A large waterfall
 <lb/>is the limit on that side and another exists
 <lb/>higher up at the confluence of the <placeName><geogName type="river">Lombe</geogName></placeName>
@@ -555,8 +555,8 @@ to furnish them with every article in
 <lb/><p>A person when accused <choice><abbr>`</abbr><expan>of</expan></choice> <term type="occupation">witchcraft</term>
 <lb/>in order to assert her innocency will often
 <lb/>travel from distant districts in order to brave
-<lb/>the test <space extent="2" unit="chars"/>They come to a river in the <placeName><region><placeName><settlement type="village">Cassange</settlement></placeName>
-<lb/>district</region></placeName> called <placeName><settlement type="village">Dua</settlement></placeName> <del type="cancelled">and as they</del> drink the
+<lb/>the test <space extent="2" unit="chars"/>They come to a river in the <placeName><settlement type="village">Cassange</settlement></placeName>
+<lb/>district called <placeName><geogName type="river">Dua</geogName></placeName> <del type="cancelled">and as they</del> drink the
 <lb/>infusion <choice><abbr>`</abbr><expan>of</expan></choice> a poisonous tree and perish unknown</p>
 <lb/><p rend="no-indent"><metamark function="ed-mark" rend="gray">—</metamark> A woman was accused by a brother in law
 <lb/>of being <choice><abbr>'</abbr><expan>the</expan></choice> cause <choice><abbr>`</abbr><expan>of</expan></choice> his <term type="ailment">sickness</term> while we were at

@@ -142,7 +142,7 @@
 <lb/>for sale - </p>
 <lb/>            
 <lb/><p>In entering the district of
-<lb/><add place="marginleft"><note><region>Ambaca</region></note></add> <placeName><region>Ambaca</region></placeName> we found the
+<lb/><add place="marginleft"><note><placeName><settlement type="town">Ambaca</settlement></placeName></note></add> <placeName><settlement type="town">Ambaca</settlement></placeName> we found the
 <lb/>landscape enlivened by the
 <lb/>appearance of lofty mountains 
 <lb/>in the distance - The grass
@@ -172,9 +172,9 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>great number of little flowing
 <lb/>streams which unit<subst><del>i</del><add place="over-text">e</add></subst><del type="cancelled">ng</del>
 <lb/>in the <placeName><geogName type="river">Lucalla</geogName></placeName> - This little
-<lb/>river drains <placeName><region>Ambaca</region></placeName> then
+<lb/>river drains <placeName><settlement type="town">Ambaca</settlement></placeName> then
 <lb/>falls into the <placeName><geogName type="river">Coanza</geogName></placeName> <subst><del>in</del><add place="over-text">to</add></subst> the
-<lb/>South East at <placeName><settlement type="village">Massangano</settlement></placeName>
+<lb/>South East at <placeName><settlement type="town">Massangano</settlement></placeName>
 <lb/>We crossed the <placeName><geogName type="river">Lucalla</geogName></placeName> by
 <lb/>means of a large canoe
 
@@ -187,7 +187,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>about a penny per head -
 <lb/>A <measure>few miles</measure> beyond the
 <lb/><placeName><geogName type="river">Lucalla</geogName></placeName> we came to
-<lb/>the village of <placeName><settlement type="village">Ambaca</settlement></placeName> an
+<lb/>the village of <placeName><settlement type="town">Ambaca</settlement></placeName> an
 <lb/>important place in former 
 <lb/>times but now a mere
 <lb/>paltry village <add place="marginleft"><metamark function="insertion"/>on a
@@ -211,7 +211,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>are still standing</p>
 <lb/><p>We were most kindly 
 <lb/><choice><sic>recieved</sic><corr>received</corr></choice> by the <term type="occupation">Commandant</term>
-    <lb/>of <placeName><settlement type="village">Ambaca</settlement></placeName> <persName ref="people.xml#pers0289">Arsenio P. P. <add place="above">de</add> Carpo</persName>
+    <lb/>of <placeName><settlement type="town">Ambaca</settlement></placeName> <persName ref="people.xml#pers0289">Arsenio P. P. <add place="above">de</add> Carpo</persName>
 <lb/>who spoke a little English <del type="strikethrough">&amp;</del>
 <lb/>He recommended <term type="foodstuff">wine</term> for
 <lb/>my debility and here I took
@@ -275,7 +275,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>contain upwards of 40,000
 <lb/>souls - Some <measure>ten or twelve
 <lb/>miles</measure> to the North of the village
-<lb/>of <placeName><settlement type="village">Ambaca</settlement></placeName> there once
+<lb/>of <placeName><settlement type="town">Ambaca</settlement></placeName> there once
 <lb/>stood the <orgName><term type="occupation">missionary</term>
 <lb/>station of <placeName><settlement type="village">Cahenda</settlement></placeName></orgName> and
 <lb/>it is now quite astonishing
@@ -288,7 +288,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/><w>th<subst><del>e</del><add place="over-text">i</add></subst>s</w> district - <w>Th<subst><del>e</del><add place="over-text">i</add></subst>s</w> is the fruit
     <lb/>of the labours of the <orgName ref="orgName.xml#org0060">Jesuits</orgName>
 <lb/><subst><del>o</del><add place="over-text">f</add></subst>or they taught the people
-<lb/>of <placeName><settlement type="village">Ambaca</settlement></placeName> usually termed
+<lb/>of <placeName><settlement type="town">Ambaca</settlement></placeName> usually termed
     <lb/><orgName ref="orgName.xml#org0035">Ambacistas</orgName> and ever since
 <lb/>the expulsion of the <term type="occupation">teachers</term>
 <lb/>by the <persName ref="persName.xml#pers0576"><term type="occupation">Marquis</term> of <placeName><settlement type="town">Pombal</settlement></placeName></persName>
@@ -400,14 +400,14 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>the farther we proceeded West
 <lb/>the ranges of lofty blue
 <lb/><placeName><geogName type="mountains">mountains <add place="marginleft"><metamark function="insertion"/>of Libollo</add></geogName></placeName> which in coming
-<lb/>towards <placeName><settlement type="village">Ambaca</settlement></placeName> we had
+<lb/>towards <placeName><settlement type="town">Ambaca</settlement></placeName> we had
 <lb/>seen <measure>thirty or forty miles</measure>
 <lb/>to our South were now
 <lb/>shut out from our
 <lb/>view by others nearer
 <lb/>at hand and the grey
 <lb/><placeName><geogName type="mountains">ranges of Cahenda</geogName></placeName> which
-<lb/>while we <subst><del>in</del><add place="over-text">were</add></subst> in <placeName><settlement type="village">Ambaca</settlement></placeName> stood
+<lb/>while we <subst><del>in</del><add place="over-text">were</add></subst> in <placeName><settlement type="town">Ambaca</settlement></placeName> stood
 <lb/>clearly defined <measure>eight or ten
 <lb/>miles off</measure> to the North
 <lb/>were now close upon
@@ -415,7 +415,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>back towards <add place="marginleft"><metamark function="insertion"/>the open
     <lb/>pastoral
     <lb/>country of</add> 
-<placeName><region>Ambaca</region></placeName>
+<placeName><settlement type="town">Ambaca</settlement></placeName>
 <lb/><choice><sic>The</sic><corr>the</corr></choice> broad green <subst><del><unclear cert="medium">p</unclear></del><add place="over-text">g</add></subst>ently
 <lb/>undulating <del type="strikethrough">pastoral</del> plains
 <lb/>seemed in a hollow

@@ -137,11 +137,11 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/><add place="marginleft">of the country</add> hollowed into cisterns . As the <term type="tribe">Kisama</term> Country
 <lb/>is ill supplied with water otherwise, the <term type="nationality">Portuguese</term>
 <lb/>were soon obliged to retreat. <space extent="2" unit="chars"/>Their Country
-<lb/>near to <placeName><settlement type="village">Massangano</settlement></placeName> is low <del type="cancelled">lying</del> and marshy
+<lb/>near to <placeName><settlement type="town">Massangano</settlement></placeName> is low <del type="cancelled">lying</del> and marshy
 <lb/>but becomes more elevated in the distance
 <lb/>and beyond them lie the <add place="below">^</add> <del type="cancelled"><add place="above">d</add></del> lofty dark <add place="below">^</add> <add place="above">mountain</add> ranges <del type="cancelled" hand="#DL" n="DL">of
 <lb/>mountains</del> of the <term type="tribe">Libollo</term> another powerful
-<lb/><add place="marginleft">&amp;</add> independent people <space extent="6" unit="chars"/>Near <placeName><settlement type="village">Massangano</settlement></placeName>
+<lb/><add place="marginleft">&amp;</add> independent people <space extent="6" unit="chars"/>Near <placeName><settlement type="town">Massangano</settlement></placeName>
 <lb/>I observed what seemed to be an effort of nature
 
 
@@ -804,7 +804,7 @@ another colony on a branch of the same tree gave
 <lb/>recovered from severe attacks of <term type="ailment">fever</term> we left the
     <lb/>hospitable residence of <persName ref="people.xml#pers0273">Mr Canto</persName> with a deep sense
 <lb/>of his kindness to us all, and proceeded on our way to
-<lb/><settlement type="village">Ambaca</settlement> <space extent="3" unit="chars"/><seg type="weather">Frequent rains had fallen in <date when="1854-10">October</date>
+<lb/><settlement type="town">Ambaca</settlement> <space extent="3" unit="chars"/><seg type="weather">Frequent rains had fallen in <date when="1854-10">October</date>
 <lb/>and <date when="1854-11">November</date> which was nearly always accompanied
 <lb/>with thunder</seg>. <space extent="3" unit="chars"/>Occasionally the quantity of moisture
 <lb/>in the atmosphere is greatly increased without any
@@ -842,7 +842,7 @@ another colony on a branch of the same tree gave
 <lb/>on in the <seg type="weather">bright sunlight the whole country looking so
 <lb/>fresh and green after the rains</seg> and everything so cheering
 <lb/>one could not but wonder to find the country so
-<lb/>feverish <space extent="3" unit="chars"/>We found <del type="strikethrough">at</del> on reaching <placeName><settlement type="village">Ambaca</settlement></placeName>
+<lb/>feverish <space extent="3" unit="chars"/>We found <del type="strikethrough">at</del> on reaching <placeName><settlement type="town">Ambaca</settlement></placeName>
     <lb/>that the gallant old <term type="occupation">soldier</term> <persName ref="people.xml#pers0391">Laurence Jose Marquis</persName>
 <lb/>had since our passing <placeName><settlement type="town"><choice><orig>Icol<subst><del>oi</del><add place="over-text">lo</add></subst> i Bengo</orig><reg>Icolo e Bengo</reg></choice></settlement></placeName> been <!-- Ícolo e Bengo, sh -->
 <lb/>promoted on account of his <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">stern</add> integrity to the <choice><abbr>Gov<hi rend="sup underline">t</hi></abbr><expan>Government</expan></choice>
@@ -857,7 +857,7 @@ another colony on a branch of the same tree gave
 <lb/>of the province of <placeName><country>Angola</country></placeName> and its dependencies
 <lb/>determines as follows. Having instituted an
 <lb/>investigation (<foreign xml:lang="pt">Syndecancia</foreign>) against the
-<lb/><metamark function="query" place="marginleft" resp="#U2" rend="gray">?</metamark> <term type="occupation">Commandant</term> of the fort of <del type="cancelled"><placeName><settlement type="village">Massangano</settlement></placeName></del><!-- picture of said fort available here: https://angolafieldgroup.com/tag/massangano/ -sh --> a <term type="occupation"><choice><abbr>cap<hi rend="underline">t</hi></abbr><expan>captain</expan></choice></term>
+<lb/><metamark function="query" place="marginleft" resp="#U2" rend="gray">?</metamark> <term type="occupation">Commandant</term> of the fort of <del type="cancelled"><placeName><settlement type="town">Massangano</settlement></placeName></del><!-- picture of said fort available here: https://angolafieldgroup.com/tag/massangano/ -sh --> a <term type="occupation"><choice><abbr>cap<hi rend="underline">t</hi></abbr><expan>captain</expan></choice></term>
 <lb/>of the army of <placeName><country>Portugal</country></placeName> in commission in this province
 <lb/><del type="strikethrough"><unclear cert="medium">Z.</unclear> M. C. B.</del> on account of numerous complaints which
 <lb/>have come before this <orgName><choice><abbr>Gov<hi rend="sup">t</hi></abbr><expan>Government</expan></choice></orgName> of violences and extortions
@@ -912,7 +912,7 @@ another colony on a branch of the same tree gave
     <lb/><term type="occupation">officers</term> <choice><sic>recieve</sic><corr>receive</corr></choice>
     <lb/>has manifest
     <lb/>advantages</add>
-<lb/>Before <del type="cancelled">On</del> leaving <placeName><settlement type="village">Ambaca</settlement></placeName> we received a present
+<lb/>Before <del type="cancelled">On</del> leaving <placeName><settlement type="town">Ambaca</settlement></placeName> we received a present
     <lb/>of ten head of <term type="animal">cattle</term> from <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0513">Mr Schut<del type="striekthrough">t</del></persName></add> <del type="strikethrough">a <term type="occupation">merchant</term> in</del> of
 <lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> and as it shows the cheapness of
 <lb/>provisions here I may mention that the cost was
