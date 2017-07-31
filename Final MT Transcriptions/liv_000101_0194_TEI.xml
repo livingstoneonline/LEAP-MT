@@ -1597,7 +1597,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>of a <term type="occupation">judge</term> said they were in much sorrow on account
 <lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> miserable state of decay to <choice><abbr>wh.</abbr><expan>which</expan></choice> they had sunk
 <lb/>and on account of <choice><abbr>'</abbr><expan>the</expan></choice> insolent conduct of <choice><abbr>'</abbr><expan>the</expan></choice> people of
-<lb/><persName>Kisaka</persName> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">now</add> in <choice><abbr>'</abbr><expan>the</expan></choice> village <space extent="4" unit="chars"/>We were abundantly supplied
+<lb/><persName ref="people.xml#pers0577">Kisaka</persName> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">now</add> in <choice><abbr>'</abbr><expan>the</expan></choice> village <space extent="4" unit="chars"/>We were abundantly supplied
 <lb/>with provisions by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">Commandant</term> and <persName ref="people.xml#pers0301">Senhor Ferrão</persName>
 <lb/>and sailed <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">pleasantly</add> down <supplied cert="high">the</supplied> broad river <space extent="4" unit="chars"/>About <measure>thirty miles</measure>
 <lb/>below <placeName><settlement type="town">Sena</settlement></placeName> we passed <choice><abbr>'</abbr><expan>the</expan></choice> mouth of <choice><abbr>'</abbr><expan>the</expan></choice> river <placeName><geogName type="river">Zangue</geogName></placeName> on
@@ -1609,7 +1609,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/><choice><orig>R<subst><del>i</del><add place="over-text">e</add></subst>beiro</orig><reg>Rebeiro</reg></choice></persName> <subst><del type="strikethrough" hand="#DL" n="DL">and</del><add place="above" hand="#DL" n="DL">with</add></subst> 3 <orgName>European</orgName> <term type="occupation">soldiers</term> &amp; captured <space extent="3" unit="chars"/>They
 <lb/>disarmed <choice><abbr>'</abbr><expan>the</expan></choice> rebels and threw <choice><abbr>'</abbr><expan>the</expan></choice> guns into <choice><abbr>'</abbr><expan>the</expan></choice> water <space extent="3" unit="chars"/>This
     <lb/><term type="occupation">ensign</term> and <persName ref="people.xml#pers0403">Miranda</persName> volunteered to disperse <choice><abbr>'</abbr><expan>the</expan></choice> people of
-<lb/><persName>Kisaka</persName> who were riding roughshod over <choice><abbr>'</abbr><expan>the</expan></choice> inhabitants of
+<lb/><persName ref="people.xml#perspers0577">Kisaka</persName> who were riding roughshod over <choice><abbr>'</abbr><expan>the</expan></choice> inhabitants of
         <lb/><placeName><settlement type="town"><choice><orig>Sen<add place="above" hand="#DL" n="DL">n</add>a</orig><reg>Sena</reg></choice></settlement></placeName> but <choice><abbr>'</abbr><expan>the</expan></choice> offer was declined. <space extent="3" unit="chars"/>The few real
 <lb/><term type="people">Portuguese</term> fearing <choice><abbr>'</abbr><expan>the</expan></choice> disloyal <orgName>half cast<subst><del hand="#DL" n="DL">s</del><add place="over-text">es</add></subst></orgName> among whom they dwell
 <lb/><orgName>Slavery</orgName> and immorality have here done their work

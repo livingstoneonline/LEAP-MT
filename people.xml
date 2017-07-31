@@ -32,7 +32,7 @@
 
 			<listPerson>
 
-				<!-- Current highest number = pers0576 -->
+				<!-- Current highest number = pers0577 -->
 
 				<person xml:id="pers0003">
 					<persName type="main">Aaron</persName>
@@ -2022,7 +2022,8 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0576">
-					<persName type="main">Carvalho e Mello, Sebastião José de (Marquis de Pombal)</persName>
+					<persName type="main">Carvalho e Mello, Sebastião José de (Marquis de
+						Pombal)</persName>
 					<birth when="1699">1699</birth>
 					<death when="1782">1782</death>
 					<note type="editorial">Dominant figure in Portuguese politics between 1750 and
@@ -2937,7 +2938,8 @@
 					<note type="editorial">Third King of Israel, appearing in I Kings and II
 						Chronicles. He is celebrated in the biblical account for his wisdom and for
 						extending the kingdom of Israel, and is traditionally regarded as the author
-						of the Song of Solomon and various sayings in the Book of Proverbs (Gordon 2015).</note>
+						of the Song of Solomon and various sayings in the Book of Proverbs (Gordon
+						2015).</note>
 				</person>
 
 				<!-- MT glossary entry -->
@@ -4137,6 +4139,22 @@
 						militia and his grandfather, Manuel José Correa, had ranked as colonel
 						(Sanches de Baena 1872:258-59).</note>
 				</person>
+
+				<!-- MT glossary entry -->
+				<person xml:id="pers0577">
+					<persName type="main">Pereira, Pedro Caetano (or Chissaca)</persName>
+					<birth>?</birth>
+					<death when="1858">1858</death>
+					<note type="editorial">Head of the Caetano Pereiras, a powerful Afro-Portuguese
+						commercial family in east Africa, who built a trading empire centred on
+						ivory and slaves that extended from the Shire River to the Luangwa. In the
+						published Missionary Travels, Livingstone provides ‘Choutama’ as an
+						alternative name for Chissaca. However, Chissaca was actually Choutama’s son
+						and became head of the family on his death in 1849. Both father and son were
+						also named Pedro Caetano Pereira. See also Pereira, Manuel Caetano (Newitt
+						1995:283, 310; Schapera 1963, 2:428n1; Livingstone 1857:632).</note>
+				</person>
+
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0475">
