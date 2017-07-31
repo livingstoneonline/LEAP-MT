@@ -287,7 +287,7 @@ and many attempts
 <lb/>But having communicated
 <lb/>my intention to an <orgName>African</orgName>
 	<lb/><term type="occupation">traveller</term> <persName ref="people.xml#pers0544">Colonel Steele</persName> then <term type="occupation"><choice><sic>Aid-de
-		<lb/>camp</sic><corr>Aide-de-camp</corr></choice></term> to the <persName ref="people.xml#pers0315">Marquis of <placeName><region>Tweedale</region></placeName></persName>
+		<lb/>camp</sic><corr>Aide-de-camp</corr></choice></term> to the <persName ref="people.xml#pers0315">Marquis of <placeName><region ref="region.xml#region0051">Tweedale</region></placeName></persName>
 <lb/>at <placeName><settlement type="city">Madras</settlement></placeName> he made it known
 <lb/>to <del type="cancelled">our</del><add place="above" hand="#U3" rend="red">two</add> other <add place="above"><del type="strikethrough" hand="#U3" rend="red">two</del> gentlemen</add> <del type="cancelled">friends</del> <w>who<subst><del>m</del><add place="over-text">se</add></subst></w> <del type="cancelled">we</del>
 <lb/><add place="marginleft">friendship we</add> had made <subst><del type="strikethrough">by</del><add place="above">during their</add></subst> <orgName>African</orgName> travel <choice><abbr>viz.</abbr><expan>videlicet</expan></choice>

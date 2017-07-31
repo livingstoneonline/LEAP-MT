@@ -223,7 +223,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>encampment to clear it
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>52</note></add> of weeds &amp; grass - They <del type="strikethrough">seemed
 <lb/>to have</del> were purchased
-<lb/>recently in <placeName><region>Lobale</region></placeName> whence <choice><sic>they</sic><corr/></choice>
+                    <lb/>recently in <placeName><region ref="region.xml#region0039">Lobale</region></placeName> whence <choice><sic>they</sic><corr/></choice>
 <lb/><add place="marginleft">the <term type="occupation">traders</term></add> had now come - There
 <lb/>were many <term type="tribe">Mambari</term> with
 <lb/>them and the establishment
@@ -781,7 +781,7 @@ and explained that "this
 <lb/>made the pretext for
 <lb/>selling them <subst><del>t</del><add place="over-text">or</add></subst> their children
 <lb/>to the <term type="tribe">Mambari</term> - for a 
-<lb/>young man of <placeName><region>Lobale</region></placeName> had
+    <lb/>young man of <placeName><region ref="region.xml#region0039">Lobale</region></placeName> had
 
     
     <pb facs="liv_000100_0328.jpg" n="0328"/>               

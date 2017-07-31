@@ -197,7 +197,7 @@ of <subst><del>of</del><add place="over-text">c</add></subst>ommerce ought to be
     <lb/><orgName ref="orgName.xml#org0038">Boers</orgName> of the <placeName><geogName type="mountains">Cashan mountains</geogName></placeName>
 <lb/>otherwise named "<placeName><geogName type="mountains"><foreign xml:lang="nl">Magaliesberg</foreign></geogName></placeName>" -
 <lb/>These are not to be confounded
-    <lb/>with the <orgName><placeName><region>Cape</region></placeName> Colonists</orgName> who sometimes
+    <lb/>with the <orgName><placeName><region ref="region.xml#region0024">Cape</region></placeName> Colonists</orgName> who sometimes
 <lb/>pass by the name - The word simply
 <lb/>means "<term type="occupation">farmers</term>" and is not
 <lb/>synonymous with our word
@@ -405,7 +405,7 @@ of <subst><del>of</del><add place="over-text">c</add></subst>ommerce ought to be
 <lb/>If there is such an instance
 <lb/>I am certain it is not generally
 <lb/>known either beyond or in the
-<lb/><placeName><region>Cape Colony</region></placeName> - They have defended
+    <lb/><placeName><region ref="region.xml#region0024">Cape Colony</region></placeName> - They have defended
 <lb/>themselves when attacked as in
 <lb/>the case<del type="cancelled">s of <unclear cert="low">the ambush</unclear> of</del> <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>but never have engaged in
@@ -426,7 +426,7 @@ of <subst><del>of</del><add place="over-text">c</add></subst>ommerce ought to be
 obtained
 <lb/>possession of firearms not
 <lb/>one of them ever attempted to
-<lb/>settle in <placeName><region>Caffreland</region></placeName> or even
+<lb/>settle in <placeName><region ref="region.xml#region0032">Caffreland</region></placeName> or even
 <lb/>face them as an enemy in the 
     <lb/>field - The <orgName ref="orgName.xml#org0038">Boers</orgName> have generally
 <lb/>manifested a marked antipathy
@@ -456,7 +456,7 @@ obtained
 	
 	<pb facs="liv_000099_0067.jpg" n="0067"/> 
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">71</add> <add place="inspace" rend="gray right" hand="#U1">64</add></fw>	
-<lb/>procure work in the <placeName><region>Cape Colony</region></placeName> -
+    <lb/>procure work in the <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName> -
 <lb/>There labouring three or four years
 <lb/>in building stone-dykes and dams
 <lb/>for the <term type="nationality">Dutch</term> <term type="occupation">Farmers</term>, they were
@@ -472,7 +472,7 @@ obtained
 <lb/>a large loaf of <term type="foodstuff">bread</term> between
 <lb/>six of them - Numbers of them who
 <lb/>had seen me about <measure>1200 miles</measure>
-<lb/>inland from the <placeName><region>Cape</region></placeName> recognized
+    <lb/>inland from the <placeName><region ref="region.xml#region0024">Cape</region></placeName> recognized
 <lb/>me with <add place="below">^</add> <add place="above">the</add> loud laughter of joy
 <lb/>when I was passing them at their
 <lb/>work in the <placeName><geogName type="mountains"><choice><orig>Roggefelt</orig><reg>Roggevelt</reg></choice></geogName></placeName> &amp; <placeName><geogName type="mountains"><choice><orig>Bokkefelt</orig><reg>Bokkevelt</reg></choice></geogName></placeName>
@@ -678,7 +678,7 @@ obtained
     <lb/>which had reached them of <persName ref="people.xml#pers0471">Lord 
 <lb/>Rosse</persName>'s telescope - "What right has
 <lb/>your <choice><abbr>Gov<hi rend="sup">t</hi></abbr><expan>Government</expan></choice> to get up that large
-<lb/><add place="marginleft">glass at the <placeName><region>Cape</region></placeName></add> to look after us behind the <placeName><geogName type="mountains">Cashan"
+    <lb/><add place="marginleft">glass at the <placeName><region ref="region.xml#region0024">Cape</region></placeName></add> to look after us behind the <placeName><geogName type="mountains">Cashan"
 	
 	
 	<pb facs="liv_000099_0073.jpg" n="0073"/> 
@@ -905,7 +905,7 @@ obtained
 <lb/>through <term type="nationality">English</term> Colonial channels
 <lb/>A late <term type="occupation">Governor</term> for instance
 <lb/>had the idea that the <term type="nationality">Dutch</term> <term type="occupation">farmers</term>
-<lb/><add place="marginleft">of the <placeName><region>Cape</region></placeName></add> <add place="marginleft">^</add> are ferociously blood thirsty
+                    <lb/><add place="marginleft">of the <placeName><region ref="region.xml#region0024">Cape</region></placeName></add> <add place="marginleft">^</add> are ferociously blood thirsty
                     <lb/>and when sorely pressed in <orgName ref="orgName.xml#org0042">Caffre</orgName> <add place="below">war</add>
 	
 	<pb facs="liv_000099_0079.jpg" n="0079"/> 
@@ -1012,7 +1012,7 @@ obtained
                     <lb/>The <orgName ref="orgName.xml#org0038">Boers</orgName> would shut up the
 <lb/><placeName><region>Interior</region></placeName> because on consulting the
 <lb/>ancient map in their old <bibl>bibles</bibl> they 
-<lb/>see that <placeName><region>Canaan</region></placeName> &amp; <placeName><geogName type="mountains">Cashan</geogName></placeName> are
+<lb/>see that <placeName><region ref="region.xml#region0022">Canaan</region></placeName> &amp; <placeName><geogName type="mountains">Cashan</geogName></placeName> are
 <lb/>not far apart - They being God's
 <lb/>own people can therefore claim
 <lb/>right up to <placeName><settlement type="city">Jerusalem</settlement></placeName> - and keep 

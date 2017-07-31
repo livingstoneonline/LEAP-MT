@@ -241,7 +241,7 @@ to come for that purpose
 
 <pb facs="liv_000100_0079.jpg" n="0079"/> 
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">74</add> <add place="inspace" hand="#U1" rend="gray right">78</add></fw>
-<lb/><del type="strikethrough">and</del> <w><del type="cancelled" hand="#U3" rend="red">the</del><del type="cancelled">ir</del></w> <add place="above">and some <del type="strikethrough"><placeName><region>Cape</region></placeName></del> Colonial</add> <term type="occupation">merchants</term> who
+    <lb/><del type="strikethrough">and</del> <w><del type="cancelled" hand="#U3" rend="red">the</del><del type="cancelled">ir</del></w> <add place="above">and some <del type="strikethrough"><placeName><region ref="region.xml#region0024">Cape</region></placeName></del> Colonial</add> <term type="occupation">merchants</term> who
 <lb/>had been <del type="cancelled">silly</del> <add place="below">^</add> <add place="above">foolish</add> enough to risk
 <lb/>their money in such hands
 <lb/>reiterated the charge <subst><del type="strikethrough" hand="#U3" rend="red">given</del><add place="above" hand="#U3" rend="red">made</add></subst> to them
@@ -438,7 +438,7 @@ and <add place="below">^</add> <add place="above">the wants of</add> an increasi
 <lb/>&amp; one <term type="animal">cow <subst><del>s</del><add place="over-text">e</add></subst>lephant</term>'s tusk for
 <lb/>each gun - This would average
 <lb/>70 lbs of ivory <del type="cancelled">at</del> which sells
-<lb/>at the <placeName><region>Cape</region></placeName> for 5/ per pound
+    <lb/>at the <placeName><region ref="region.xml#region0024">Cape</region></placeName> for 5/ per pound
 <lb/>for a second hand musket
 <lb/>worth 10/ - I being <measure>sixty miles</measure>
 
@@ -829,7 +829,7 @@ in order
 <lb/>a garden and planted <term type="plant_foodstuff">maize</term>
 <lb/>for me that as they remarked
 <lb/>when <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">I was</add> parting with them
-<lb/>to proceed to the <placeName><region>Cape</region></placeName> I might
+    <lb/>to proceed to the <placeName><region ref="region.xml#region0024">Cape</region></placeName> I might
 <lb/>have food to eat when I
 <lb/>returned as well as other 
 <lb/>people - The <term type="plant_foodstuff">maize</term> was

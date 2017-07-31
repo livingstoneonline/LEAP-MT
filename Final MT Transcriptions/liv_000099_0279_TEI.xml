@@ -163,7 +163,8 @@
 <lb/><p>Another element of weakness
 <lb/>in the part of the <term type="occupation">missionary</term>
 <lb/>field is the fact of Missionary
-<lb/>Societies considering the Colony<!-- reference to the Cape Colony. SH -->
+    <lb/>Societies considering the <region ref="region.xml#region0024">Colony</region>
+    <!-- reference to the Cape Colony. SH -->
 <lb/>a proper sphere for their peculiar
 <lb/>operations - In addition to a
 <lb/>well organized and efficient
@@ -439,7 +440,7 @@ the<del type="strikethrough">ir</del>
 <lb/>the public colonial papers - The
 <lb/>crime of <term type="animal">cattle</term> stealing of which
 <lb/>we hear so much near
-<lb/><placeName><region>Caffreland</region></placeName> was never <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">alleged</add> <del type="strikethrough" rend="red" hand="#U3">attributed</del>
+    <lb/><placeName><region ref="region.xml#region0032">Caffreland</region></placeName> was never <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">alleged</add> <del type="strikethrough" rend="red" hand="#U3">attributed</del>
 <lb/><add place="marginleft" rend="red" hand="#U3">against these people,</add> and if a single case had
 <lb/>ever occurred when I was
 <lb/>in the country I must have
@@ -596,7 +597,7 @@ taught
     <lb/>from the North <persName ref="person.xml#pers0277">Sir George
 <lb/>Cathcart</persName> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">had</add> died bravely fighting
 <lb/>the battles of his country in
-<lb/>the <placeName><region>Crimea</region></placeName> loved and lamented
+    <lb/>the <placeName><region ref="region.xml#region0027">Crimea</region></placeName> loved and lamented
 
 
 <pb facs="liv_000099_0292.jpg" n="0292"/>
@@ -700,7 +701,7 @@ taught
 <lb/>them to trade - </p>
 <lb/><p><del type="cancelled">I again repeat that the
 <lb/><unclear cert="medium">morality</unclear></del> <!-- the following passage is not in the published MT.JL -->Now the sentiments
-<lb/>of the majority of the <placeName><region>Cape</region></placeName> people
+    <lb/>of the majority of the <placeName><region ref="region.xml#region0024">Cape</region></placeName> people
 <lb/>are not to be judged by
 <lb/>those of its vagabond emigrants
 <lb/>While they are delighted with
@@ -736,7 +737,7 @@ taught
 <lb/>Longitude of the <choice><sic>garden</sic><corr>Garden</corr></choice> of 
     <lb/><placeName><geogName type="garden">Eden</geogName></placeName> - The Pillars of <persName ref="people.xml#pers0316">Hercules</persName>
 <lb/>and perhaps the bedstead of
-<lb/><choice><sic>of</sic><corr/></choice> King of <placeName><region>Bashan</region></placeName> - And
+<lb/><choice><sic>of</sic><corr/></choice> King of <placeName><region ref="region.xml#region0019">Bashan</region></placeName> - And
 <lb/>being in the <bibl>Bible</bibl> is of
 <lb/>course quite true - <placeName><settlement type="city">Jerusalem</settlement></placeName>
 <lb/>being apparently near forms
@@ -786,7 +787,7 @@ taught
 <lb/>well known fact that no
 <lb/><term type="tribe">Bechuana</term> ever sold a child
 <lb/>and yet when my reverend
-<lb/>brethren returned to the <placeName><region>Cape</region></placeName>
+    <lb/>brethren returned to the <placeName><region ref="region.xml#region0024">Cape</region></placeName>
 <lb/>they published their report
 
 
@@ -917,7 +918,7 @@ taught
 <lb/>his policy at the very outset
     <lb/><add place="marginleft" rend="red" hand="#U3"><persName ref="person.xml#pers0277">Sir George Cathcart</persName></add> <del type="strikethough" rend="red" hand="#U3">he</del> wisely refrained from
 <lb/>noticing him - <persName ref="people.xml#pers0516">Sechele</persName> proceeded
-<lb/>to the <placeName><region>Cape</region></placeName> and his resources
+    <lb/>to the <placeName><region ref="region.xml#region0024">Cape</region></placeName> and his resources
 <lb/>being there expended he was
 <lb/>obliged to return to his own
 <lb/>country again - <measure>one thousand

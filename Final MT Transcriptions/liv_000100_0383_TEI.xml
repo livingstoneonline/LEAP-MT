@@ -159,7 +159,7 @@
 <lb/>hearing the statements
 <lb/>of a large body of <add place="below">^</add> <add place="above">fine</add> young
 <lb/>men who had fled from
-    <lb/><persName ref="people.xml#pers0340">Kangenke</persName> <term type="occupation">chief</term> of <placeName><region>Lobale</region></placeName>
+    <lb/><persName ref="people.xml#pers0340">Kangenke</persName> <term type="occupation">chief</term> of <placeName><region ref="region.xml#region0039">Lobale</region></placeName>
 <lb/>on account of his
 <lb/>selling their relatives to the
     <lb/><orgName ref="orgName.xml#org0033"><orgName>native</orgName> <term type="people">Portuguese</term></orgName> who
@@ -337,7 +337,7 @@ when young
 <lb/>of us were delighted to get a
 <lb/>meal of <term type="foodstuff">meat</term> after subsisting
 <lb/>so long on the light <term type="foodstuff">potage</term>
-<lb/><add place="marginleft">&amp; green <term type="plant_foodstuff">maize</term> <add place="below">^</add></add> of <placeName><region>Londa</region></placeName> - On occasions
+    <lb/><add place="marginleft">&amp; green <term type="plant_foodstuff">maize</term> <add place="below">^</add></add> of <placeName><region ref="region.xml#region0038">Londa</region></placeName> - On occasions
 <lb/>of slaughtering some parts
 <lb/>are in the fire before the
 <lb/>skin is removed from
@@ -452,7 +452,7 @@ when young
 <lb/>Southern country which
 <lb/>prevented an exodus of
 <lb/>all the lower portions
-<lb/>of <placeName><region>Londa</region></placeName> population thither</p>                
+    <lb/>of <placeName><region ref="region.xml#region0038">Londa</region></placeName> population thither</p>                
 <lb/><p>It is remarkable how
 <lb/>little people <subst><del>f</del><add place="over-text">b</add></subst>orn in a
 <lb/>flat forest country like this

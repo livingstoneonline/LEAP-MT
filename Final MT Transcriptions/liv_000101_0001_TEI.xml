@@ -110,7 +110,7 @@
 <lb/>view to exploring the country in search of a healthy
 <lb/>district<add place="inline" rend="red" hand="#U3">,</add> that might prove a centre of civilization, and
 <lb/>open up the interior by a path to either the east or west
-<lb/>coast. This resolution led me down to <add place="below">^</add> <add place="marginright">the<metamark function="substitution">/</metamark></add> <placeName><region>Cape</region></placeName> <del type="strikethrough">Town</del> in
+    <lb/>coast. This resolution led me down to <add place="below">^</add> <add place="marginright">the<metamark function="substitution">/</metamark></add> <placeName><region ref="region.xml#region0024">Cape</region></placeName> <del type="strikethrough">Town</del> in
 <lb/><date when="1852-04">April, 1852</date>, being the first time during eleven years
 <lb/>that I had <w><del type="cancelled" rend="red" hand="#U3">re</del>visited</w> the scenes of civilization. <metamark function="insertion"/><anchor xml:id="longadd-18"/>
 
@@ -169,7 +169,7 @@
 <lb/><p>I have the like pleasure
 <lb/>in confessing my thankfulness
 <lb/>to the <term type="occupation">Astronomer Royal</term>
-    <lb/>at the <placeName><region>Cape</region></placeName><add place="inline" rend="red" hand="#U3">,</add> <persName ref="people.xml#pers0377">Thomas Maclear
+    <lb/>at the <placeName><region ref="region.xml#region0024">Cape</region></placeName><add place="inline" rend="red" hand="#U3">,</add> <persName ref="people.xml#pers0377">Thomas Maclear
 <lb/><choice><abbr>Esqr-</abbr><expan>Esquire</expan></choice></persName><add place="inline" rend="red" hand="#U3">,</add> for enabling me
 <lb/>to <choice><sic>recal</sic><corr>recall</corr></choice> the little astronomical
 <lb/>knowledge which constant
@@ -193,7 +193,7 @@
 <lb/>be attributed to the <del type="cancelled">laborious</del>
 <lb/>voluntary aid of the excellent
 <lb/>and laborious <term type="occupation">astronomer</term>
-    <lb/>of the <orgName ref="orgName.xml#org0043"><placeName><region>Cape</region></placeName> Observatory</orgName> - 
+    <lb/>of the <orgName ref="orgName.xml#org0043"><placeName><region ref="region.xml#region0024">Cape</region></placeName> Observatory</orgName> - 
 <lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> Chapter</note></add> <add place="inline"><note>(After this insert part of 66 - Having sent my family &amp;c)</note></add>
 
 
@@ -405,7 +405,7 @@ As we
     <lb/>are <add place="below">^</add> <add place="above">seen</add> set for
     <lb/><term type="animal">mice</term> in all the
     <lb/>forests of
-    <lb/><placeName><region>Londa</region></placeName> - The 
+    <lb/><placeName><region ref="region.xml#region0038">Londa</region></placeName> - The 
     <lb/>vegetable aliment
     <lb/>leaves great
     <lb/>craving for
@@ -468,7 +468,7 @@ As we
 <lb/>cries and antics<add place="inline" rend="gray" hand="#U2">;</add><del type="strikethrough" hand="#U2" rend="gray">-</del> some
 <lb/>run up trees to get a good
 <lb/>view<add place="inline" rend="gray" hand="#U2">,</add><del type="strikethrough" hand="#U2" rend="gray">-</del> - They are good climbers
-<lb/>throughout <placeName><region>Londa</region></placeName> - At friendly
+    <lb/>throughout <placeName><region ref="region.xml#region0038">Londa</region></placeName> - At friendly
 <lb/>villages they have scampered
 <lb/>alongside our party for
 <lb/>miles at a time - We usually
@@ -513,7 +513,7 @@ then part with mutual
 <lb/>to our resources for we
 <lb/>found it in so great
 <lb/>repute as girdles all
-<lb/>through <placeName><region>Londa</region></placeName> that we
+                    <lb/>through <placeName><region ref="region.xml#region0038">Londa</region></placeName> that we
 <lb/>cut up every skin into
 <lb/><choice><sic>stripes</sic><corr>strips</corr></choice> about two inches
 <lb/>broad and sold them
@@ -653,7 +653,7 @@ meadow
 <lb/>to <del type="strikethrough">fifteen hun</del> twelve hundred
 <lb/>feet</measure> <del type="cancelled">in perpendicular height</del>
 <lb/>Emerging from the 
-<lb/>gloomy forest of <placeName><region>Londa</region></placeName>
+    <lb/>gloomy forest of <placeName><region ref="region.xml#region0038">Londa</region></placeName>
 <lb/>this magnificent prospect
 <lb/>made us all feel as
 <lb/>if a weight had been
@@ -707,13 +707,13 @@ meadow
 <lb/>and quartz - As this is
 <lb/>the rock underlying the
 <lb/>soil of a large part of
-<lb/><placeName><region>Londa</region></placeName> its formation
+    <lb/><placeName><region ref="region.xml#region0038">Londa</region></placeName> its formation
 <lb/>must have preceded the
 <lb/>work of denudation
 <lb/>which <del type="cancelled"><unclear cert="medium">hol</unclear></del> washed away
 <lb/>the enormous mass
 <lb/>of matter required before
-<lb/>the <placeName><geogName type="valley">valley of <placeName><settlement type="village">Cassange</settlement></placeName></geogName></placeName>
+    <lb/>the <placeName><region ref="region.xml#region0025">valley of <placeName><settlement type="village">Cassange</settlement></placeName></region></placeName>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>12</note></add> could assume its
 <lb/>present form - The
 <lb/>strata under the conglomerate

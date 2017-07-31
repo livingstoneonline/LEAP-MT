@@ -371,7 +371,7 @@ This
 <lb/>them I have no hope whatever
 <lb/>of seeing the <term type="plant_foodstuff">fruit</term> it seems
 <lb/>to them like what the deed
-    <lb/>of the <orgName ref="orgName.xml#org0080"><placeName><region>South Sea</region></placeName> Islanders</orgName>
+    <lb/>of the <orgName ref="orgName.xml#org0080"><placeName><region ref="region.xml#region0048">South Sea</region></placeName> Islanders</orgName>
 <lb/>appears to us when they
 <lb/>planted iron nails in their
 <lb/>gardens</p>
@@ -425,7 +425,7 @@ This
 <lb/><del type="cancelled">a river <measure>80 or 100 feet</measure> br</del> flows
 <lb/>there is an extensive <del type="cancelled">country</del>
 <lb/>flat <del type="cancelled">elevated</del> country called
-<lb/><add place="marginleft"><note><placeName><region>Mango</region></placeName></note></add> <placeName><region>Mango</region></placeName> which though
+    <lb/><add place="marginleft"><note><placeName><region ref="region.xml#region0041">Mango</region></placeName></note></add> <placeName><region ref="region.xml#region0041">Mango</region></placeName> which though
 <lb/>covered with grass is
 <lb/>destitute in a great
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>80</note></add> measure of trees</p>

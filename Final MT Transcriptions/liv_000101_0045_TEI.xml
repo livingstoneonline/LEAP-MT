@@ -159,7 +159,7 @@ been visited and as they
 <lb/><p>It was interesting for me
 <lb/>to observe the effects of the
 <lb/>restrictive policy pursued
-<lb/>by the <orgName><placeName><region>Cape</region></placeName> Government</orgName>
+    <lb/>by the <orgName><placeName><region ref="region.xml#region0024">Cape</region></placeName> Government</orgName>
 <lb/>towards the <term type="tribe">Bechuanas</term> -
 <lb/>Like all other restrictions
 <lb/>on trade, <del type="cancelled">that</del> <add place="below">^</add> <add place="above">the law</add> of preventing
@@ -167,7 +167,7 @@ been visited and as they
 <lb/>arms and ammunition
 <lb/>only injures the men who
 <lb/><del type="cancelled">make them</del> enforce it - The
-<lb/><orgName><placeName><region>Cape</region></placeName> Government</orgName> <add place="marginleft"><metamark function="insertion"/>as already
+    <lb/><orgName><placeName><region ref="region.xml#region0024">Cape</region></placeName> Government</orgName> <add place="marginleft"><metamark function="insertion"/>as already
     <lb/>observed</add> 
 in order to
 <lb/>gratify a company of <choice><sic>independant</sic><corr>independent</corr></choice>
@@ -180,7 +180,7 @@ in order to
 <lb/>arms and ammunition
     <lb/>to the <orgName ref="orgName.xml#org0038">Boers</orgName>, and prevent the
 <lb/><add place="marginleft">same</add> <add place="below">^</add> trade to the <term type="tribe">Bechuanas</term> - The
-<lb/><orgName><placeName><region>Cape</region></placeName> Government</orgName> thereby
+    <lb/><orgName><placeName><region ref="region.xml#region0024">Cape</region></placeName> Government</orgName> thereby
     <lb/>unintentionally aided the <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>to enslave the <orgName>natives</orgName> - But
 <lb/>arms and ammunition
@@ -198,7 +198,7 @@ in order to
 <lb/>nations and the only
 <lb/>persons really the losers
 <lb/>in the long run are our
-<lb/>own <placeName><region>Cape</region></placeName> <term type="occupation">merchants</term> and
+    <lb/>own <placeName><region ref="region.xml#region0024">Cape</region></placeName> <term type="occupation">merchants</term> and
 <lb/>a few defenceless tribes
 <lb/>of <term type="tribe"><subst><del>be</del><add place="over-text">B</add></subst>echuanas</term> on our
 <lb/>immediate frontier - </p>
@@ -406,7 +406,7 @@ as a <term type="occupation">guide</term> - <del type="cancelled">A</del> <retra
 <lb/>give the red ascent the
 <lb/>same <retrace hand="#DL"><add place="below" hand="#U2" rend="gray">^</add> <add place="marginleft" hand="#U2" rend="gray">serrated</add></retrace> appearance as that
 <lb/>we descended <subst><del><unclear cert="medium">bef</unclear></del><add place="over-text">fr</add></subst>om the
-<lb/>highlands of <placeName><region>Londa</region></placeName> - The
+    <lb/>highlands of <placeName><region ref="region.xml#region0038">Londa</region></placeName> - The
 <lb/>whole of this vast valley
 <lb/>has been removed by
 <lb/>denudation for pieces of
@@ -594,7 +594,7 @@ lowered the temperature
                 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0482">Powell</persName></hi></note></add> <date when="1854-04-27">27<hi rend="sup underline">th</hi></date> Five <choice><sic>hours</sic><corr>hours'</corr></choice> ride through
 <lb/>a pleasant <del type="strikethrough">well</del> country
 <lb/>of forest and meadow like
-<lb/><placeName><region>Londa</region></placeName> <add place="below">^</add> <add place="marginleft">brought us</add> to a village of <term type="tribe">Basongo</term>
+                    <lb/><placeName><region ref="region.xml#region0038">Londa</region></placeName> <add place="below">^</add> <add place="marginleft">brought us</add> to a village of <term type="tribe">Basongo</term>
 <lb/>a tribe living in subjection
 <lb/>to the <term type="nationality">Portuguese</term> - We crossed
 <lb/>several little streams
@@ -630,7 +630,7 @@ lowered the temperature
 <lb/>than none - </p>
 <lb/><p>All the inhabitants of
 <lb/>this region as well as
-<lb/>those of <placeName><region>Londa</region></placeName> may be
+    <lb/>those of <placeName><region ref="region.xml#region0038">Londa</region></placeName> may be
 <lb/>called true negroes if the
 <lb/>limitations formerly made
 <lb/>be borne in mind - The
@@ -728,7 +728,7 @@ lowered the temperature
 <lb/>Egyptians</term> seem to me
 <lb/>to embody the ideal
 <lb/>of the inhabitants of
-<lb/><placeName><region>Londa</region></placeName> better than the
+    <lb/><placeName><region ref="region.xml#region0038">Londa</region></placeName> better than the
 <lb/>figures of any work
 <lb/>of Ethnology I have met
 <lb/>with - </p>

@@ -156,7 +156,7 @@
 <lb/>were eager to obtain free
 <lb/>and profitable trade with
 <lb/>white men - The prices which
-<lb/>the <placeName><region>Cape</region></placeName> <del type="cancelled">Me</del> <term type="occupation">merchants</term> could 
+    <lb/>the <placeName><region ref="region.xml#region0024">Cape</region></placeName> <del type="cancelled">Me</del> <term type="occupation">merchants</term> could 
 <lb/>give after defraying the
 <lb/>great expenses of such a
 <lb/><metamark function="unknown" place="marginleft" rend="gray" resp="#U2"/> long journey being so very
@@ -447,7 +447,7 @@ As I had always
     <lb/>I had a thermometer
     <lb/>by <orgName ref="orgName.xml#org0049"><persName>Dollond</persName></orgName> -
     <lb/>A compass
-    <lb/>from the <orgName ref="orgName.xml#org0043"><placeName><region>Cape</region></placeName> Observatory</orgName>
+    <lb/>from the <orgName ref="orgName.xml#org0043"><placeName><region ref="region.xml#region0024">Cape</region></placeName> Observatory</orgName>
     <lb/>and a small
     <lb/>pocket one 
     <lb/>in addition
@@ -568,7 +568,7 @@ As I had always
 <lb/>enemies the <term type="tribe">Matebele</term> - We
 <lb/>visited all these in succession
 <lb/>and found here, as every where
-<lb/><del type="cancelled">also</del> in the <placeName><region><term type="tribe">Makololo</term> country</region></placeName>
+    <lb/><del type="cancelled">also</del> in the <placeName><region ref="region.xml#region0040"><term type="tribe">Makololo</term> country</region></placeName>
 <lb/>orders had preceded us "that
 <lb/><subst><del>I</del><add place="over-text"><foreign xml:lang="und">Nãka</foreign></add></subst> <add place="marginleft"><metamark function="insertion"/>(the doctor)</add> must not be allowed to
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>12</note></add> become hungry" - </p> 
@@ -866,7 +866,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>was injured by the crime
 <lb/>When <persName ref="people.xml#pers0516">Sechele</persName> saw the
 <lb/><add place="marginleft">convicts</add> <del type="cancelled">criminals</del> working on the
-<lb/>roads in the <placeName><region>Cape Colony</region></placeName>
+                    <lb/>roads in the <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName>
 <lb/>he at once introduced
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>20</note></add> the system into his tribe and
 <lb/>refusing fines compelled the
@@ -921,7 +921,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>an exertion of voice which
 <lb/>brought back the complaint
 <lb/>for which I had got the
-<lb/>uvula excised at the <placeName><region>Cape</region></placeName>
+    <lb/>uvula excised at the <placeName><region ref="region.xml#region0024">Cape</region></placeName>
 <lb/>They were always very attentive
     <lb/>and <persName ref="people.xml#pers0420">Moriantsane</persName> in order
 <lb/>as he thought to please me

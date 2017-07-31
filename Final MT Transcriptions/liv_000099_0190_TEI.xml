@@ -374,10 +374,10 @@ and thus prevent
     <div>
 <pb facs="liv_000099_0197.jpg" n="0197"/>    
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">8</add> <add place="inspace" hand="#U1" rend="gray right">192</add></fw>
-<lb/><head><space extent="6" unit="chars"/><hi rend="double-underline">The <placeName><region>Cape Colony</region></placeName></hi></head>
+        <lb/><head><space extent="6" unit="chars"/><hi rend="double-underline">The <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName></hi></head>
 <lb/><p>In the minds of many <term type="people"><w>English-
 <lb break="no"/>men</w></term> <del type="cancelled">I find</del> the ideas of the
-    <lb/><placeName><region>Cape</region></placeName> and <orgName ref="orgName.xml#org0042">Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> wars are
+    <lb/><placeName><region ref="region.xml#region0024">Cape</region></placeName> and <orgName ref="orgName.xml#org0042">Kaff<subst><del>re</del><add place="over-text">ir</add></subst></orgName> wars are
 <lb/><add place="marginleft">as <add place="below">^</add></add> inseparably connected as
 <lb/>the Siamese twins, and it is
 <lb/>somewhat difficult for those
@@ -507,7 +507,7 @@ with
 <lb/>that <add place="below" hand="#U3" rend="red">^</add> <add place="marginleft" hand="#U3" rend="red"><add place="below">^</add> a future</add> <subst><del type="strikethrough" hand="#U3" rend="red">the next</del><add place="above" hand="#U3" rend="red"><del type="strikethrough" hand="#U3" rend="red">another</del></add></subst> outbreak will
 <lb/>be prevented - </p>
 <lb/><p>As the period of our visit
-<lb/>to the <placeName><region>Cape</region></placeName> happened to be coincident
+    <lb/>to the <placeName><region ref="region.xml#region0024">Cape</region></placeName> happened to be coincident
 <lb/>with the termination of <subst><del>g</del><add place="over-text">a</add></subst> grand
 <lb/>experiment <del type="cancelled">at a</del> <add place="below">^</add> <add place="above">towards a</add> practical
     <lb/>solution of the great <orgName ref="orgName.xml#org0042"><subst><del>Caffre</del><add place="over-text">Kaffir</add></subst></orgName>
@@ -577,7 +577,7 @@ with
 <pb facs="liv_000099_0202.jpg" n="0202"/>             
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">13</add> <add place="inspace" hand="#U1" rend="gray right">197</add></fw>
 <lb/>then elected himself the paramount
-<lb/><term type="occupation">chief</term> of <placeName><region><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst>land</region></placeName> - He was
+    <lb/><term type="occupation">chief</term> of <placeName><region ref="region.xml#region0032"><subst><del>Kaffir</del><add place="over-text">Caffre</add></subst>land</region></placeName> - He was
 <lb/>unconsciously dealing with the
 <lb/>most devotedly loyal people
 <lb/>on earth - They never <del type="strikethrough">desert</del>
@@ -620,7 +620,7 @@ with
 <lb/>himself could have invented
 <lb/>a more certain and efficient
 <lb/>means of rallying all the
-<lb/>chivalry of <placeName><region><subst><del>k</del><add place="over-text">C</add></subst>affirland</region></placeName> around
+    <lb/>chivalry of <placeName><region ref="region.xml#region0032"><subst><del>k</del><add place="over-text">C</add></subst>affirland</region></placeName> around
 <lb/>him than that "a white man
 <lb/>who had been made a <term type="occupation">chief</term>
 <lb/>by a woman should depose
@@ -644,7 +644,7 @@ with
 <lb/><p>An experiment had
 <lb/>thus been fairly tried at the
 <lb/>time of our arrival at the
-<lb/><placeName><region>Cape</region></placeName> <subst><del><unclear cert="medium">at</unclear></del><add place="over-text">on</add></subst> a large scale
+    <lb/><placeName><region ref="region.xml#region0024">Cape</region></placeName> <subst><del><unclear cert="medium">at</unclear></del><add place="over-text">on</add></subst> a large scale
 <lb/>and in exact accordance
 <lb/>with the <subst><del type="strikethrough">ideas</del><add place="above">views</add></subst> of a large
 <lb/>party on the Frontier - The
@@ -848,14 +848,14 @@ with
     <lb/>tongue"<anchor xml:id="meta-76"/></add>
 - And had a "<bibl>Times</bibl>
 <lb/><term type="occupation">commissioner</term>"<!-- journalist, ks --> accompanied
-<lb/>the army <w><subst><del>i</del><add place="over-text">o</add></subst>n</w> the <placeName><region>Cape</region></placeName> Frontier
+    <lb/>the army <w><subst><del>i</del><add place="over-text">o</add></subst>n</w> the <placeName><region ref="region.xml#region0024">Cape</region></placeName> Frontier
 <lb/>the <term type="nationality">English</term> public might
 <lb/>have known ere this
 <lb/>the difference between the
 <lb/>real and the feigned Frontier
 <lb/><term type="occupation">farmers</term></p>
 <lb/><p>It would be a great
-<lb/>mistake <add place="marginleft"><metamark function="insertion"/>to imagine</add> that the <placeName><region>Cape</region></placeName> people
+    <lb/>mistake <add place="marginleft"><metamark function="insertion"/>to imagine</add> that the <placeName><region ref="region.xml#region0024">Cape</region></placeName> people
 <lb/>as a body are benefitted by
 <lb/>a state of warfare - It is
 <lb/>a blight on the prosperity of
@@ -913,7 +913,7 @@ with
 <pb facs="liv_000099_0210.jpg" n="0210"/>             
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray right">21</add> <add place="inspace" hand="#U1" rend="gray right">205</add></fw>
 <lb/>This <subst><del type="strikethrough">proclamation</del><add place="above">dispatch</add></subst> was <del type="strikethrough">read</del>
-<lb/>written while we were at the <placeName><region>Cape</region></placeName>
+    <lb/>written while we were at the <placeName><region ref="region.xml#region0024">Cape</region></placeName>
 <lb/>The war went on for about
 <lb/>half a year afterwards but as
     <lb/>the entire <orgName ref="orgName.xml#org0042">Caffre</orgName> population
@@ -921,7 +921,7 @@ with
 <lb/>I have never ceased to regret
 <lb/>that we had not a <bibl>Times</bibl>
 <lb/><term type="occupation">commissioner</term> on the spot
-<lb/>as well as at the <placeName><region>Crimea</region></placeName> - It would
+    <lb/>as well as at the <placeName><region ref="region.xml#region0027">Crimea</region></placeName> - It would
 <lb/>be so interesting to discover how
     <lb/>the <orgName ref="orgName.xml#org0042">Caffre</orgName> bones got up <del type="strikethrough">and fought</del>
     <lb/>like <persName ref="people.xml#pers0303">Benjamin Franklin</persName>'s
@@ -1004,7 +1004,7 @@ with
 <pb facs="liv_000099_0213.jpg" n="0213"/>
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">208</add></fw>
 <lb/>children now openly practised
-<lb/>in the Northern part of the <placeName><region><w>Trans-
+    <lb/>in the Northern part of the <placeName><region ref="region.xml#region0050"><w>Trans-
 <lb break="no"/>vaal</w></region></placeName><!-- this could be coded as a country, since the Republic of Transvaal or the South African Republic came into existence in 1852. But it can also refer broadly to territory north of the Vaal.JL  --> territory was carefully
 <lb/>concealed but immediately
 <lb/>on their <choice><sic>Independance</sic><corr>Independence</corr></choice> being
@@ -1030,7 +1030,7 @@ with
 <lb/><p>Now I do not wish
 <lb/>to express an opinion on
 <lb/>the policy of the <choice><sic>Independance</sic><corr>Independence</corr></choice>
-    <lb/>of the <placeName><region>Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName>,
+    <lb/>of the <placeName><region ref="region.xml#region0050">Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName>,
 <lb/><del type="cancelled">but the <gap unit="chars" extent="4" agent="illegible"/>that</del> I do beg
 <lb/>that <choice><sic>that</sic><corr/></choice> the <del type="strikethrough"><orgName>Government</orgName></del>
 <lb/>powder <add place="above"><choice><abbr>Ord</abbr><expan>Ordinance</expan></choice></add> - so proper for the
@@ -1099,7 +1099,7 @@ with
 <lb/>Society</orgName> to endeavour to carry <term type="faith">Christianity</term>
 <lb/>into the countries North or <placeName><settlement type="village">Kuruman</settlement></placeName>
 <lb/>or <placeName><settlement type="village">Lattakoo</settlement></placeName> then their farthest station
-<lb/>inland from the <placeName><region>Cape</region></placeName> <add place="marginleft"><metamark function="insertion"/><supplied cert="high">I</supplied> possessed
+    <lb/>inland from the <placeName><region ref="region.xml#region0024">Cape</region></placeName> <add place="marginleft"><metamark function="insertion"/><supplied cert="high">I</supplied> possessed
     <lb/><supplied cert="high">an</supplied> intense desire<!-- the binding is obscuring text in the left hand margin. The missing words have been supplied here by editorial judgement.JL-->
     <lb/><supplied cert="high">to</supplied> become a
     <lb/><supplied cert="high">pio</supplied>neer of civilisation 
@@ -1160,7 +1160,7 @@ with
 <lb/>to keep up the irritation
 <lb/>of the war for their own ends</p>
 <lb/>
-<lb/><p><del type="cancelled">The <orgName><placeName><region>Cape</region></placeName> Government</orgName>
+        <lb/><p><del type="cancelled">The <orgName><placeName><region ref="region.xml#region0024">Cape</region></placeName> Government</orgName>
 <lb/>however</del></p>
 <lb/><p>The influence of the
 <lb/>party referred to may be
@@ -1589,7 +1589,7 @@ had in view</p>
 <lb/>the <placeName><geogName type="cape">Cape of Good Hope</geogName></placeName>, the southern
 <lb/>extremity of the continent, to
 <lb/><placeName><settlement type="city"><choice><orig>St Paul di Loando</orig><reg>Luanda</reg></choice></settlement></placeName>, the capital
-<lb/>of <del type="cancelled"><placeName><region><choice><orig>Loando</orig><reg>Luanda</reg></choice></region></placeName></del> <add place="below">^</add> <add place="marginleft"><placeName><country>Angola</country></placeName></add> on the <placeName><region>West Coast</region></placeName>, 
+    <lb/>of <del type="cancelled"><placeName><region ref="region.xml#region0036"><choice><orig>Loando</orig><reg>Luanda</reg></choice></region></placeName></del> <add place="below">^</add> <add place="marginleft"><placeName><country>Angola</country></placeName></add> on the <placeName><region>West Coast</region></placeName>, 
 <lb/>and thence <choice><sic>accross</sic><corr>across</corr></choice> the continent
 <lb/>in an oblique direction to <placeName><settlement type="town"><choice><orig>Quilimane</orig><corr>Quelimane</corr></choice></settlement></placeName>
 <lb/>in <placeName><region>Eastern Africa</region></placeName> - They were

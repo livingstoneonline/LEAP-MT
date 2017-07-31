@@ -330,7 +330,7 @@ this part of the
 <lb/>season was now far advanced
     <lb/>and as <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><abbr>O</abbr><expan>Oswel</expan></choice></persName>, with his wonted generous
 <lb/>feelings volunteered on the spot to
-<lb/>go down to the <placeName><region>Cape</region></placeName> and bring up
+    <lb/>go down to the <placeName><region ref="region.xml#region0024">Cape</region></placeName> and bring up
 <lb/>a boat we resolved to make our
 <lb/>way South again - </p>
 <lb/><p>Coming down the <placeName><geogName type="river">Zouga</geogName></placeName> 
@@ -497,7 +497,7 @@ Three or four feet wide at the
 <lb/><add place="inline" rend="red" hand="#U3">-</add> Islets in marshes &amp; swamps are <subst><del type="strikethrough">his</del><add place="above">its</add></subst>
 <lb/>favourite haunts and <subst><del><unclear cert="medium">we</unclear></del><add place="over-text">it</add></subst> is
 <lb/>quite unknown except in the
-<lb/><placeName><region>central humid basin of Africa</region></placeName>
+    <lb/><placeName><region ref="region.xml#region0026">central humid basin of Africa</region></placeName>
 <lb/>Having a good deal of curiosity
 <lb/><add place="marginleft">it</add> <del type="cancelled">he</del> <subst><del type="strikethrough" hand="#U3" rend="red">has</del><add place="above" hand="#U3" rend="red">presents</add></subst> a noble appearance as
 <lb/><subst><del>he</del><add place="over-text">it</add></subst> stands gazing with head erect

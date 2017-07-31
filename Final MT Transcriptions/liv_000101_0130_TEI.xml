@@ -115,11 +115,11 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>treated us so scurvily, <add place="below">˄</add> <add place="above">even</add> forbidding his people to sell
 <lb/>us any food if he did not bring a <term type="animal"><term type="foodstuff">fowl</term></term> and some
 <lb/><term type="foodstuff">eggs</term> as <add place="below" hand="#DL" n="DL">˄</add> <add place="marginleft" hand="#DL" n="DL">part of</add> his duty as a <term type="occupation">chief</term>, he should receive no present
-<lb/>from me. <space unit="chars" extent="2"/>When he came it was in <choice><abbr>'</abbr><expan>the</expan></choice> usual <placeName><region>Londa</region></placeName>
+    <lb/>from me. <space unit="chars" extent="2"/>When he came it was in <choice><abbr>'</abbr><expan>the</expan></choice> usual <placeName><region ref="region.xml#region0038">Londa</region></placeName>
 <lb/>way <choice><abbr>`</abbr><expan>of</expan></choice> showing <choice><abbr>'</abbr><expan>the</expan></choice> exalted position he occupies, mounted
 <lb/>on <choice><abbr>'</abbr><expan>the</expan></choice> shoulders of his <term type="occupation">spokesman</term> as <del type="cancelled">little bo</del> school
 <lb/>boys sometimes as in <placeName><country>England</country></placeName>, and as was represented
-    <lb/>to have been <choice><abbr>'</abbr><expan>the</expan></choice> case in <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>south sea islands</region></placeName> when <persName ref="people.xml#pers0280"><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term>
+    <lb/>to have been <choice><abbr>'</abbr><expan>the</expan></choice> case in <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region ref="region.xml#region0048">south sea islands</region></placeName> when <persName ref="people.xml#pers0280"><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term>
 <lb/>Cook</persName> visited them <space unit="chars" extent="6"/>My companions <add place="marginleft"><metamark function="insertion"/>amused at his idea
 <lb/>of dignity</add> greeted
 <lb/>him with a hearty laugh, <del type="cancelled">an</del> he visited <choice><abbr>'</abbr><expan>the</expan></choice> <orgName><orgName>native</orgName>
@@ -282,7 +282,7 @@ seemed to produce an instant
 
 <pb facs="liv_000101_0134.jpg" n="0134"/><!-- p446-447, sh -->
 <lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">129</add></fw> 
-    <lb/>They are by no means equal to <choice><abbr>'</abbr><expan>the</expan></choice> <orgName ref="orgName.xml#org0042"><placeName><region>Cape</region></placeName> Caffres</orgName> in any
+    <lb/>They are by no means equal to <choice><abbr>'</abbr><expan>the</expan></choice> <orgName ref="orgName.xml#org0042"><placeName><region ref="region.xml#region0024">Cape</region></placeName> Caffres</orgName> in any
 <lb/>respect whatever <space unit="chars" extent="3"/><metamark function="newParagraph">⎦</metamark>In <choice><abbr>'</abbr><expan>the</expan></choice> evening we came to
     <lb/><persName ref="people.xml#pers0445">Moena<del type="cancelled">ki</del> Kikanje</persName> and found him a sensible
 <lb/>man. <add place="inline">He</add> <del type="strikethrough">This</del> is <choice><abbr>'</abbr><expan>the</expan></choice> last <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="tribe">Chiboque</term> <term type="occupation">chiefs</term> <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>in this direction</add> and is
@@ -351,7 +351,7 @@ seemed to produce an instant
     <lb/><term type="animal">hippopotami</term>
     <lb/>lower down
     <lb/>It is the boundary
-    <lb/><placeName><region>Londa</region></placeName> on 
+    <lb/><placeName><region ref="region.xml#region0038">Londa</region></placeName> on 
     <lb/>the west - We
     <lb/>slept also
     <lb/>on the banks
@@ -368,7 +368,7 @@ seemed to produce an instant
 <add place="above">reaching <choice><abbr>'</abbr><expan>the</expan></choice> river <placeName><geogName type="river">Chikapa</geogName></placeName></add> <choice><sic><choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-03-25">25<hi rend="sup">th</hi> March</date></sic><corr/></choice><!-- duplicated text, sh --> we found it <measure>50 <add place="below">˄</add> <add place="above">or 60</add> <choice><abbr>yds</abbr><expan>yards</expan></choice> wide</measure> and flowing
 <lb/>to <del type="strikethrough"><choice><abbr>'</abbr><expan>the</expan></choice> east north east</del> <choice><abbr>E N. E</abbr><expan>East North East</expan></choice> into <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Casai</geogName></placeName>. <space unit="chars" extent="3"/>The 
 <lb/>adjacent country is <choice><abbr>` '</abbr><expan>of the</expan></choice> same level nature
-<lb/>as that part <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><region>Londa</region></placeName> formerly described
+    <lb/>as that part <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><region ref="region.xml#region0038">Londa</region></placeName> formerly described
 <lb/>but having come <subst><del><unclear cert="medium">now</unclear></del><add place="over-text">far</add></subst>ther to <choice><abbr>'</abbr><expan>the</expan></choice> eastward than our
 <lb/>former course we found that all <choice><abbr>'</abbr><expan>the</expan></choice> rivers had 
 <lb/>worn for themselves much deeper <choice><sic>vallies</sic><corr>valleys</corr></choice> than
@@ -443,8 +443,8 @@ seemed to produce an instant
 <lb/>opinion of <orgName><term type="occupation">slaveholders</term></orgName> <space unit="chars" extent="3"/>Funeral obsequies in
     <lb/><placeName><settlement type="village">Cabango</settlement></placeName> <space unit="chars" extent="3"/>Send a sketch of the country to <persName ref="people.xml#pers0304">Mr
 <lb/>Gabriel</persName> <space unit="chars" extent="3"/><orgName>Native</orgName> information respecting the
-<lb/><placeName><geogName type="river">Casai</geogName></placeName> and <placeName><geogName type="river">Quango</geogName></placeName> <space unit="chars" extent="3"/>The trade with <placeName><region>Luba</region></placeName><!-- could be tribe or region, ks -->  
-    <lb/>Drainage of <placeName><region>Londa</region></placeName> <space unit="chars" extent="3"/>Report of <persName ref="people.xml#pers0444">Matiamvo</persName>'s 
+    <lb/><placeName><geogName type="river">Casai</geogName></placeName> and <placeName><geogName type="river">Quango</geogName></placeName> <space unit="chars" extent="3"/>The trade with <placeName><region ref="region.xml#region0037">Luba</region></placeName><!-- could be tribe or region, ks -->  
+    <lb/>Drainage of <placeName><regionref="region.xml#region0038">Londa</region></placeName> <space unit="chars" extent="3"/>Report of <persName ref="people.xml#pers0444">Matiamvo</persName>'s 
     <lb/>country and <choice><abbr>gov<hi rend="sup">t</hi></abbr><expan>government</expan></choice> <space unit="chars" extent="3"/><persName ref="people.xml#pers0300">Senhor Faria</persName>'s present
 <lb/>to a <term type="occupation">chief</term> <space unit="chars" extent="3"/>The <term type="tribe">Balonda</term> mode of spending
 <lb/>time <space unit="chars" extent="3"/>Faithless <term type="occupation">guide</term> <space unit="chars" extent="3"/><term type="tribe">Makololo</term> lament
@@ -596,13 +596,13 @@ would
 <lb/>conduct will be carried in lively remembrance
 <lb/>by me to my dying day <space extent="10" unit="chars"/><del type="cancelled">Several
 <lb/><choice><abbr>` '</abbr><expan>of the</expan></choice> <orgName><orgName>native</orgName> <term type="occupation">traders</term></orgName> having visited <choice><abbr>'</abbr><expan>the</expan></choice> country of
-    <lb/><placeName><region>Luba</region></placeName> and <persName ref="people.xml#pers0381">Mai</persName> lying far to <choice><abbr>'</abbr><expan>the</expan></choice> north <choice><abbr>`</abbr><expan>of</expan></choice> this <add place="marginleft"><metamark function="insertion"/><del type="cancelled">and seeing</del> also <subst><del>some</del><add place="above">several</add></subst> <choice><abbr>` '</abbr><expan>of the</expan></choice> 
+    <lb/><placeName><region ref="region.xml#region0037">Luba</region></placeName> and <persName ref="people.xml#pers0381">Mai</persName> lying far to <choice><abbr>'</abbr><expan>the</expan></choice> north <choice><abbr>`</abbr><expan>of</expan></choice> this <add place="marginleft"><metamark function="insertion"/><del type="cancelled">and seeing</del> also <subst><del>some</del><add place="above">several</add></subst> <choice><abbr>` '</abbr><expan>of the</expan></choice> 
     <lb/><del type="cancelled"><orgName>natives</orgName></del></add> 
 I picked
 <lb/>up from information respecting those distant lands
 <lb/>There were also some</del></p>
 <lb/><p><add place="inline" hand="#DL" n="DL">Several of the <orgName><orgName>native</orgName> <term type="occupation">traders</term></orgName> here
-<lb/>having visited the country of <placeName><region>Luba</region></placeName> 
+    <lb/>having visited the country of <placeName><region ref="region.xml#region0037">Luba</region></placeName> 
 <lb/>lying far to the North of this, and
 <lb/>there being <del type="cancelled">s</del>some visitors also
     <lb/>from the town of <persName ref="people.xml#pers0381">Mai</persName> which
@@ -643,7 +643,7 @@ I picked
     <lb/><term type="occupation">chief</term> of all <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Balonda</term> <space unit="chars" extent="3"/>The town <choice><abbr>`</abbr><expan>of</expan></choice> <persName ref="people.xml#pers0381">Mai</persName> is
 <lb/>pointed out as to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N.N.W.</abbr><expan>North North West</expan></choice> <choice><abbr>`</abbr><expan>of</expan></choice> <del type="strikethrough"><subst><del>C</del><add place="over-text">t</add></subst>his place</del> <placeName><settlement type="village">Cabango</settlement></placeName> <del type="strikethrough">or</del>
 <lb/>and <measure>32 days or 224 <choice><abbr>ms.</abbr><expan>miles</expan></choice></measure> distant or about
-<lb/><measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> South 5° 45'</measure> <space unit="chars" extent="4"/>The chief town of <placeName><region>Luba</region></placeName>
+    <lb/><measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> South 5° 45'</measure> <space unit="chars" extent="4"/>The chief town of <placeName><region ref="region.xml#region0037">Luba</region></placeName>
 <lb/>another independent <term type="occupation">chief</term> is <measure>8 days</measure> <del type="strikethrough" hand="#DL" n="DL">distant</del>
 <lb/><add place="marginleft" hand="#DL" n="DL">farther</add> <add place="below" hand="#DL" n="DL">^</add> in <choice><abbr>'</abbr><expan>the</expan></choice> same direction or <measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> <choice><abbr>S</abbr><expan>South</expan></choice> 4° 50'</measure> <space unit="chars" extent="3"/>Judging
 <lb/>from <choice><abbr>'</abbr><expan>the</expan></choice> appearance <choice><abbr>` '</abbr><expan>of the</expan></choice> people who had come for the
@@ -651,7 +651,7 @@ I picked
 <lb/>in quite as uncivilized a condition as <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Balonda</term>
 <lb/>They are clad of a kind of cloth made of <choice><abbr>'</abbr><expan>the</expan></choice> inner
 <lb/>bark <choice><abbr>`</abbr><expan>of</expan></choice> a tree <space unit="chars" extent="2"/>Neither guns nor <orgName><orgName>native</orgName> <term type="occupation">traders</term></orgName>
-<lb/>are admitted into <choice><abbr>'</abbr><expan>the</expan></choice> country <choice><abbr>`</abbr><expan>of</expan></choice> <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">the <term type="occupation">chief</term> of</add> <placeName><region>Luba</region></placeName> <del type="strikethrough" hand="#DL" n="DL">as <choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">chief</term></del>
+    <lb/>are admitted into <choice><abbr>'</abbr><expan>the</expan></choice> country <choice><abbr>`</abbr><expan>of</expan></choice> <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">the <term type="occupation">chief</term> of</add> <placeName><region ref="region.xml#region0037">Luba</region></placeName> <del type="strikethrough" hand="#DL" n="DL">as <choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">chief</term></del>
 <lb/>entertains a dread of innovation <space unit="chars" extent="2"/>If a <orgName><orgName>native</orgName>
 <lb/><term type="occupation">trader</term></orgName> goes thither he must <del type="strikethrough">cla</del> dress like the
 <lb/>common people <del type="strikethrough">with</del> in <placeName><country>Angola</country></placeName> with a loose
@@ -669,8 +669,8 @@ I picked
 <lb/><add place="marginleft">from</add> <del type="cancelled">that</del> all <choice><abbr>'</abbr><expan>the</expan></choice> information I could collect that
 <lb/><add place="marginleft" hand="#DL" n="DL">both here and
     <lb/>elsewhere</add> 
-<add place="below" hand="#DL" n="DL">˄</add> <choice><abbr>'</abbr><expan>the</expan></choice> drainage <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><region>Londa</region></placeName> falls to <choice><abbr>'</abbr><expan>the</expan></choice> north and then
-    <lb/>runs westward. <space unit="chars" extent="3"/>The countr<subst><del>y</del><add place="over-text">ies</add></subst> <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><region>Luba</region></placeName> and <add place="above" hand="#DL" n="DL">of</add> <persName ref="people.xml#pers0381">Mai</persName>
+    <add place="below" hand="#DL" n="DL">˄</add> <choice><abbr>'</abbr><expan>the</expan></choice> drainage <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><region ref="region.xml#region0038">Londa</region></placeName> falls to <choice><abbr>'</abbr><expan>the</expan></choice> north and then
+    <lb/>runs westward. <space unit="chars" extent="3"/>The countr<subst><del>y</del><add place="over-text">ies</add></subst> <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><region ref="region.xml#region0037">Luba</region></placeName> and <add place="above" hand="#DL" n="DL">of</add> <persName ref="people.xml#pers0381">Mai</persName>
 <lb/><subst><del>is</del><add place="over-text" hand="#DL" n="DL">are</add></subst> evidently lower than this and yet this is of no
 <lb/>great altitude probably not more than
 <lb/><measure>3000 <choice><abbr>ft.</abbr><expan>feet</expan></choice> above <choice><abbr>'</abbr><expan>the</expan></choice> level <choice><abbr>` '</abbr><expan>of the</expan></choice> sea</measure>. <space unit="chars" extent="3"/>Having here
@@ -948,7 +948,7 @@ I picked
 <lb/>by forests continue green though <choice><abbr>'</abbr><expan>the</expan></choice> whole year
 <lb/>All <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region><placeName><region>interior</region></placeName> <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><country>South Africa</country></placeName></region></placeName> has a distinct
 <lb/>winter <add place="below">^</add> <add place="above"><choice><abbr>'</abbr><expan>the</expan></choice> cold</add> varying in intensity <del type="strikethrough">of cold</del> with <choice><abbr>'</abbr><expan>the</expan></choice> latitudes
-<lb/><seg type="weather">In <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region><placeName><region>interior</region></placeName> parts of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>Cape Colony</region></placeName></region></placeName> <choice><abbr>'</abbr><expan>the</expan></choice> cold in <choice><abbr>'</abbr><expan>the</expan></choice> 
+    <lb/><seg type="weather">In <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region><placeName><region>interior</region></placeName> parts of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName></region></placeName> <choice><abbr>'</abbr><expan>the</expan></choice> cold in <choice><abbr>'</abbr><expan>the</expan></choice> 
 <lb/>winter is often <del type="strikethrough"><unclear cert="medium">intense</unclear></del> severe and <choice><abbr>'</abbr><expan>the</expan></choice> ground is
 <lb/>covered with snow</seg> <space unit="chars" extent="3"/><seg type="weather">At <placeName><settlement type="village">Kuruman</settlement></placeName> snow
 
@@ -960,7 +960,7 @@ I picked
 <lb/>winter in <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">Barotse valley</geogName></placeName> but beyond <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Orange
 <lb/>river</geogName></placeName> we never have cold and damp<del type="cancelled"><gap extent="1" unit="chars"/></del> combined</seg>
 <lb/>Indeed a <seg type="weather">shower of rain seldom or never falls 
-<lb/>during winter and hence <choice><abbr>'</abbr><expan>the</expan></choice> healthiness of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>Bechuana</region></placeName>
+<lb/>during winter and hence <choice><abbr>'</abbr><expan>the</expan></choice> healthiness of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region ref="region.xml#region0020">Bechuana</region></placeName>
 <lb/>climate <space unit="chars" extent="3"/>From <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">Barotse valley</geogName></placeName> northwards
 <lb/>it is questionable if it even freezes but during
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> prevalence <choice><abbr>` '</abbr><expan>of the</expan></choice> south wind <choice><abbr>'</abbr><expan>the</expan></choice> thermometer makes as
@@ -1001,7 +1001,7 @@ I picked
 <lb/><choice><sic>percieve</sic><corr>perceive</corr></choice> an accumulation of humidity
 <lb/>on the flanks &amp; crown of the partition,
 <lb/>instead of, as elsewhere, opposite the
-<lb/><placeName><geogName type="desert">Kalahari</geogName></placeName> and <placeName><region>Darfur</region></placeName> a deposition of 
+    <lb/><placeName><geogName type="desert">Kalahari</geogName></placeName> and <placeName><region ref="region.xml#region0029">Darfur</region></placeName> a deposition of 
 <lb/>the atmospheric moisture on the Eastern 
 <lb/>slopes of the <subst><del>late</del><add place="over-text">s</add></subst>ubtending ridges -
 <lb/>This explanation is offered with all deference

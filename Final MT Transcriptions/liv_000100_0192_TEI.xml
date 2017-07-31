@@ -579,7 +579,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>more frequently to the
 <lb/>surface when it is in
 <lb/>her care - But in the
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>36</note></add> rivers of <placeName><region>Lunda</region></placeName> where
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note>36</note></add> rivers of <placeName><region ref="region.xml#region0038">Lunda</region></placeName> where
 <lb/>they are much in danger
 <lb/>of being shot <del type="cancelled">th</del> even
 <lb/>the <term type="animal">hippopotamus</term> gains
@@ -847,7 +847,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <lb/>attacking the
     <lb/>defenceless 
     <lb/>villagers of
-    <lb/><placeName><region>Lunda</region></placeName> - while
+            <lb/><placeName><region ref="region.xml#region0038">Lunda</region></placeName> - while
     <lb/>as we found in
     <lb/>our former
     <lb/>visit a <term type="animal">lion</term> had

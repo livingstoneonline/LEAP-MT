@@ -311,7 +311,7 @@ and happily
 <lb/>We never found them
 <lb/>troublesome on the
 <lb/>banks of the pure streams
-<lb/>of <placeName><region><choice><orig>Lŏnda</orig><reg>Londa</reg></choice></region></placeName> - On the morning
+    <lb/>of <placeName><region ref="region.xml#region0038"><choice><orig>Lŏnda</orig><reg>Londa</reg></choice></region></placeName> - On the morning
 
 
     <pb facs="liv_000101_0028.jpg" n="0028"/><!-- a page is missing here. Although the numbers in the top right hand corner continue sequentially, it is clear there is missing text, and the page numbers in the left hand margin jump from 27 to 29. -->
@@ -428,7 +428,7 @@ The <term type="foodstuff">farina</term>
                 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0290"><unclear cert="medium"><choice><abbr>Den.tt.</abbr><expan>Dennett</expan></choice></unclear></persName></hi></note></add> The <term type="plant_foodstuff">manioc</term> cultivated here 
 <lb/>is of the sweet variety 
 <lb/>The bitter with which <w>we<del type="cancelled">re</del></w>
-<lb/><add place="marginleft">were</add> <del type="cancelled">are</del> accustomed in <placeName><region>Londa</region></placeName><add place="inline" rend="gray" hand="#U2">,</add>
+                    <lb/><add place="marginleft">were</add> <del type="cancelled">are</del> accustomed in <placeName><region ref="region.xml#region0038">Londa</region></placeName><add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>is not to be found very 
 <lb/>extensively in this fertile 
 <lb/>valley - <add place="marginleft"><metamark function="insertion"/><date when="--05">May</date> is</add> <del type="cancelled">This was</del> the beginning 
@@ -558,7 +558,7 @@ him to the house of the
 <lb/><del type="cancelled">and</del> <del type="cancelled" hand="#DL"><del type="cancelled" rend="gray" hand="#U2">and</del></del> scattered about <add place="marginleft"><metamark function="insertion"/>without any regularity</add>
 <lb/>on an elevated <del type="cancelled">spot</del> flat
 <lb/>spot in the great <placeName><geogName type="river">Quango</geogName></placeName>
-<lb/>or <placeName><region><placeName><settlement type="village">Cassange</settlement></placeName> valley</region></placeName> <del type="cancelled">without</del>
+<lb/>or <placeName><region ref="region.xml#region0025"><placeName><settlement type="village">Cassange</settlement></placeName> valley</region></placeName> <del type="cancelled">without</del>
 <lb/><del type="strikethrough">any regularity</del> - They
 <lb/>are built of wattle and
 <lb/>daub<add place="inline" rend="gray" hand="#U2">,</add> and surrounded
@@ -899,7 +899,7 @@ were
 <lb/>West of this and we
 <lb/>should not see that river
 <lb/>till we <del type="strikethrough">were</del> came near
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>43</note></add> <placeName><region>Pungo Andongo</region></placeName> - It is somewhat
+                    <lb/><add place="marginleft" rend="gray" hand="#U2"><note>43</note></add> <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName> - It is somewhat
 <lb/>remarkable that more accurate
 <lb/>information <metamark function="insertion"/><anchor xml:id="reorder-97"/> has not been
 <lb/><add place="marginleft">published</add> <del type="strikethrough">given</del> <metamark function="reorder" spanTo="#meta-225"/><seg corresp="#reorder-97">about this country</seg><anchor xml:id="meta-225"/>,
@@ -1011,7 +1011,7 @@ were
 <lb/><term type="people">Portuguese</term> give much
 <lb/>larger prices for ivory
 <lb/>than <term type="occupation">traders</term> from the 
-<lb/><placeName><region>Cape</region></placeName> <add place="marginleft"><metamark function="insertion"/><del type="cancellation">who having the</del>
+    <lb/><placeName><region ref="region.xml#region0024">Cape</region></placeName> <add place="marginleft"><metamark function="insertion"/><del type="cancellation">who having the</del>
     <lb/>who <w>labour<metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-227"/>ing<anchor xml:id="meta-227"/></w>
     <lb/>under the disadvantage
     <lb/>of considerable

@@ -227,7 +227,7 @@
 <lb/>daily use of this beverage - They
 <lb/>were all well acquainted with
 <lb/>><add place="marginleft">the</add> <term type="plant_foodstuff">sugar cane</term> as they cultivate
-<lb/>it <del type="cancelled">a</del> in the <placeName><region><term type="tribe">Barotse</term> country</region></placeName>
+<lb/>it <del type="cancelled">a</del> in the <placeName><region ref="region.xml#region0018"><term type="tribe">Barotse</term> country</region></placeName>
 <lb/>but knew nothing of the
 <lb/>method of extracting the <term type="foodstuff">sugar</term>
 <lb/>from it - They use <del type="cancelled">it</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">the cane</add> <del type="strikethrough" rend="red" hand="#U3">by</del>
@@ -241,7 +241,7 @@
 <lb/>my heart loved him by <w>find<add place="inline">ing</add></w> his
 <lb/>own <w>heart<del type="cancelled">ed</del></w> warming to my
 <lb/>food - " He had been visited
-<lb/>during my absence <add place="above">at the <placeName><region>Cape</region></placeName></add> by some
+    <lb/>during my absence <add place="above">at the <placeName><region ref="region.xml#region0024">Cape</region></placeName></add> by some
     <lb/><term type="occupation">traders</term> and <orgName ref="orgName.xml#org0057">Griquas</orgName> and
 <lb/>"their <term type="foodstuff">coffee</term> did not taste half
 <lb/>so nice as mine - because they
@@ -318,7 +318,7 @@
 <lb/>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> Our course at this time led<!-- p208 Misionary, sh -->
 <lb/>us to part above <placeName><settlement type="town">Sesheke</settlement></placeName>
-<lb/>called <placeName><region>Katonga</region></placeName> where <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">there is</add> a village
+    <lb/>called <placeName><region ref="region.xml#region0034">Katonga</region></placeName> where <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">there is</add> a village
 <lb/>belonging to a <term type="tribe">Bashubia</term> man
     <lb/>named <persName ref="people.xml#pers0521">Sekhosi</persName> <del type="strikethrough" rend="red" hand="#U3">exists</del> - <del type="strikethrough">The</del>
 <lb/><metamark function="ed-mark" place="marginleft" rend="red" resp="#U3">X</metamark> <del type="cancelled">river is here</del> <measure><measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 17° 29' 26"</measure> <measure><choice><abbr>Long</abbr><expan>Longitude</expan></choice> - 24° 33'</measure></measure>

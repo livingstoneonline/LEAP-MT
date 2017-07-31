@@ -123,7 +123,7 @@
 <lb/><term type="tribe">Bakuena</term> men and two
 <lb/><del type="strikethrough" hand="#U3" rend="red">little</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">young</add> girls who having come
 <lb/>as <term type="occupation">nurses</term> with our children
-<lb/>to the <placeName><region>Cape</region></placeName> were returning
+    <lb/>to the <placeName><region ref="region.xml#region0024">Cape</region></placeName> were returning
 <lb/>to their home at <placeName><settlement type="village">Kolobeng</settlement></placeName>
 <lb/>Waggon travelling in <placeName><bloc>Africa</bloc></placeName>
 <lb/>has been so often described 
@@ -140,9 +140,9 @@
 <lb/>about trifles and <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">who</add> delight in <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">being</add> <del type="strikethrough">the</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">in the</add> open air - </p>
 <lb/><p>Our route <subst><del type="strikethrough">on leaving</del><add place="above">to the North</add></subst> <del type="cancelled">the
-<lb/><placeName><region>Cape</region></placeName></del> lay near the centre of the
+    <lb/><placeName><region ref="region.xml#region0024">Cape</region></placeName></del> lay near the centre of the
 <lb/>Cone <del type="cancelled">into</del> which constitutes
-<lb/>the promontory of the <placeName><region>Cape</region></placeName>, If
+    <lb/>the promontory of the <placeName><region ref="region.xml#region0024">Cape</region></placeName>, If
 <lb/>we suppose this cone to be
 <lb/>divided into three zones or longitudinal bands, we find
 <lb/>each presenting distinct
@@ -150,7 +150,7 @@
 <lb/>physical appearance and
 <lb/>population These are more
 <lb/>marked beyond <w>than<add place="above" rend="red" hand="#U3">an</add></w> within<!-- I think maybe the editor is clarifying the word. it looks like 'them', but it might be a badly written 'than', sh --><!-- Agreed. DL has initially written 'than', but the editor is adding clarity.JL -->
-    <lb/>the <placeName><region>Colony</region></placeName> - At some points
+    <lb/>the <placeName><region ref="region.xml#region0024">Colony</region></placeName> - At some points
 <lb/><del type="cancelled"><unclear cert="low">too</unclear></del>, one district seems to be
 <lb/>continued <subst><del type="cancelled">into</del><add place="above">in</add></subst> and merge into
 <lb/>the other, but the general
@@ -385,7 +385,7 @@
 <lb/>which we cannot hope
 <lb/>for in <placeName><country>Australia</country></placeName> <del type="strikethrough">or</del> <del type="cancelled"><placeName><country><choice><sic>Chili</sic><corr>Chile</corr></choice></country></placeName>
 <lb/>and</del> <subst><del>a</del><add place="over-text">A</add></subst>s the central parts
-<lb/>of the <placeName><region>Cape Colony</region></placeName> are daily
+    <lb/>of the <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName> are daily
 <lb/>becoming of higher value
 <lb/>offering to honest industry
 <lb/>a fair renumeration
@@ -396,12 +396,12 @@
 <lb break="no"/>hesitatingly</w> recommend
 <lb/>any <term type="occupation">farmer</term> at all afraid
 <lb/>of that complaint to
-    <lb/>try the <placeName><region>Colony</region></placeName> in preference
+    <lb/>try the <placeName><region ref="region.xml#region0024">Colony</region></placeName> in preference
 <lb/>to <space extent="3" unit="chars"/><placeName><geogName type="island">Madeira</geogName></placeName> <space extent="3" unit="chars"/>With the
 <lb/>means of education already
 <lb/>possessed and the onward
 <lb/>and upward movement
-<lb/>of the <placeName><region>Cape</region></placeName> population he
+    <lb/>of the <placeName><region ref="region.xml#region0024">Cape</region></placeName> population he
 <lb/>need entertain no <w>appre-
 <lb break="no"/>hensions</w> of his family
 <lb/>sinking into barbarism</p>
@@ -416,7 +416,7 @@
 <lb/>reached the latitude of <placeName><geogName type="Lake">Lake
 <lb/>Ngami</geogName></placeName> where a totally
 <lb/>different country begins
-<lb/>While in the <placeName><region>Colony</region></placeName> we passed
+    <lb/>While in the <placeName><region ref="region.xml#region0024">Colony</region></placeName> we passed
 <lb/>through districts inhabited
 <lb/>by the descendants of the <term type="nationality">Dutch</term> &amp;
 <lb/><term type="nationality">French</term> refugees from religious
@@ -462,7 +462,7 @@
     <lb/><orgName>slaves</orgName></add>
 <w><subst><del>B</del><add place="over-text">b</add></subst>ut</w> as every now and then
     <lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> <unclear cert="medium">omit</unclear></note></add> <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-232"/>some <persName ref="people.xml#pers0495">Rip Van <add place="marginleft"><metamark function="insertion"/><del type="cancelled"><unclear cert="medium">Getze</unclear></del></add> Winkle</persName> starts
-<lb/>forth at the <placeName><region>Cape</region></placeName> to justify in
+    <lb/>forth at the <placeName><region ref="region.xml#region0024">Cape</region></placeName> to justify in
 <lb/>the public prints the deeds<anchor xml:id="meta-232"/>
 <lb/>of blood and <orgName>slave</orgName>hunting
 <lb/>in the far <placeName><region>Interior</region></placeName>, it is not to
@@ -470,7 +470,7 @@
 <lb/>race is held in low estimation
 <lb/>by those who know not
 <lb/>the real composition of the
-<lb/><placeName><region>Cape</region></placeName> community - </p>
+    <lb/><placeName><region ref="region.xml#region0024">Cape</region></placeName> community - </p>
                 <lb/><p>Population among the <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>increases rapidly - They marry
 <lb/>soon - have children late
@@ -516,7 +516,7 @@
     <lb/>our progenitors <persName ref="people.xml#pers0245">Adam</persName> and <persName ref="people.xml#pers0299">Eve</persName> 
 <lb/><add place="inline" hand="#U3" rend="red">to have been - </add></p>
 <lb/><space dim="vertical" extent="5" unit="lines"/>
-                <lb/><p>The parts of the <placeName><region>Colony</region></placeName> through
+                <lb/><p>The parts of the <placeName><region ref="region.xml#region0024">Colony</region></placeName> through
 <lb/>which we passed were
 <lb/>of sterile aspect and <del type="strikethrough">as the
 <lb/>time of our passing was</del> being
@@ -663,7 +663,7 @@
 <lb/>out of place it may be
 <lb/>well in noticing a clever
 <lb/>imitation of one process in
-<lb/>nature by the <placeName><region>Cape</region></placeName> <term type="occupation">farmer</term> to
+    <lb/>nature by the <placeName><region ref="region.xml#region0024">Cape</region></placeName> <term type="occupation">farmer</term> to
 <lb/><subst><add place="above" hand="#U3" rend="red">suggest</add><del type="strikethrough" hand="#U3" rend="red">mention</del></subst> another for their
 <lb/>consideration - <del type="strikethrough">When</del> the
 <lb/>country beyond <measure>South <choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 18°</measure>
@@ -678,7 +678,7 @@
 <lb/>This increase of power to 
 <lb/>withstand the effects of climate
 <lb/>might prove of value in <del type="cancelled">those</del>
-<lb/><add place="marginleft">more</add> arid parts <add place="marginleft"><metamark function="insertion"/>of the <placeName><region>Cape Colony</region></placeName></add> for <term type="plant_foodstuff">grapes</term> being
+    <lb/><add place="marginleft">more</add> arid parts <add place="marginleft"><metamark function="insertion"/>of the <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName></add> for <term type="plant_foodstuff">grapes</term> being
 <lb/>well known <subst><del type="strikethrough" hand="#U3" rend="red">as</del><add place="above" hand="#U3" rend="red">to be</add></subst> an excellent
 
 
@@ -703,13 +703,13 @@
 <lb/>would have been to a
     <lb/><orgName ref="orgName.xml#org0078">Rhenish</orgName> <term type="occupation">missionary</term> I met
 <lb/>at a part in the West of the
-    <lb/><placeName><region>colony</region></placeName> called <placeName><settlement type="village">Ebenezer</settlement></placeName>
+    <lb/><placeName><region ref="region.xml#region0024">colony</region></placeName> called <placeName><settlement type="village">Ebenezer</settlement></placeName>
 <lb/>whose children had never
 <lb/>seen flowers though old
 <lb/>enough to talk about them - </p>
 <lb/><p><del type="cancelled" rend="gray" hand="#U2"><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/></del> The slow pace at which
 <lb/>we wound our way through
-    <lb/>the <placeName><region>Colony</region></placeName> made almost
+    <lb/>the <placeName><region ref="region.xml#region0024">Colony</region></placeName> made almost
 <lb/>any subject interesting - The
 <lb/>attention is attracted to the names
 <lb/>of different places because
@@ -749,7 +749,7 @@
 <lb/><term type="animal">goats</term> and <term type="animal">dogs</term> - Why not
 <lb/>the <term type="animal">horse</term> the delight of savage
 <lb/>hordes? <term type="animal">Horses</term> thrive well
-<lb/>in the <placeName><region>Cape Colony</region></placeName> when
+    <lb/>in the <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName> when
 <lb/><add place="marginleft" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark> omit</note></add> imported <del type="strikethrough" hand="#U3" rend="red"><hi rend="red underline" resp="#U3">from ships</hi></del> - <w>Naturali<add place="inline" rend="red" hand="#U3">s</add>t<add place="below" hand="#U3" rend="red">s</add></w>
 <lb/>point out certain mountain
 <lb/>ranges as limiting the range
@@ -931,7 +931,7 @@
 <lb/>prejudicial to the country behind
 <lb/>for <subst><del type="strikethrough">industry</del><add place="above">labour</add></subst> which would
 <lb/>be directed to the improvement
-    <lb/>of the <placeName><region>Colony</region></placeName> is withdrawn
+    <lb/>of the <placeName><region ref="region.xml#region0024">Colony</region></placeName> is withdrawn
 <lb/>and expended in a mode of
 <lb/>life little adapted for the exercise
 <lb/>of industrial habits - That however
@@ -974,7 +974,7 @@ The original
 <lb/><subst><del><unclear cert="medium">an</unclear></del><add place="over-text">the</add></subst> insignificant tribe of
 <lb/><term type="tribe"><choice><orig>Basutas</orig><reg>Basutos</reg></choice></term> <add place="below">˄</add> <add place="above">for instance</add> actually raise
 <lb/>more <term type="foodstuff">grain</term> annually than
-<lb/>the whole <placeName><region>Eastern Province</region></placeName><!-- this passage, revisiting the Cape Xhosa wars, is not in the published version.JL --> 
+    <lb/>the whole <placeName><region ref="region.xml#region0030">Eastern Province</region></placeName><!-- this passage, revisiting the Cape Xhosa wars, is not in the published version.JL --> 
 <lb/>for which we <add place="below">˄</add> <add place="above">have</add> expended
 <lb/>millions of Pounds and
 <lb/>thousands of lives - Would it
@@ -989,7 +989,7 @@ The original
     <lb/>effected at
     <lb/>a cost which
     <lb/>will make
-    <lb/>our <placeName><region>Eastern
+    <lb/>our <placeName><region ref="region.xml#region0030">Eastern
     <lb/>Province</region></placeName> the
     <lb/>dearest land
     <lb/>in the world</add></p> 

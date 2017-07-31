@@ -390,7 +390,7 @@
 <lb/><term type="plant_foodstuff">Manioc</term> and near these
 <lb/>we observed for the first
 <lb/>time an ugly idol common
-<lb/>in <placeName><region>Londa</region></placeName> of an animal
+    <lb/>in <placeName><region ref="region.xml#region0038">Londa</region></placeName> of an animal
 <lb/>resembling an <term type="animal">alligator</term>
 <lb/>made of clay - The structure
 <lb/>is of grass <del type="strikethrough">pl</del> <w>p<subst><del>a</del><add place="over-text">l</add></subst>astered</w> over
@@ -534,7 +534,7 @@
 <lb/>
 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note>36</note></add> A species of <del type="strikethrough"><term type="plant"><choice><sic>Rododendron</sic><corr>Rhododendron</corr></choice></term>
 <lb/>tree closely resembling the</del>
-<lb/>the <del type="cancelled">Le</del> <term type="plant">silver tree</term> of the <placeName><region>Cape</region></placeName>
+    <lb/>the <del type="cancelled">Le</del> <term type="plant">silver tree</term> of the <placeName><region ref="region.xml#region0024">Cape</region></placeName>
 <lb/>(<foreign xml:lang="la"><term type="plant">Leucodendron Argenteum</term></foreign>) grows
 <lb/>in abundance in the parts
 <lb/>through which we have
@@ -543,7 +543,7 @@
 <lb/>of between <measure>2000 &amp; 3000 feet</measure>
 <lb/>above the level of the
 <lb/>sea on <placeName><geogName type="mountain">Table Mountain</geogName></placeName>
-<lb/>at the <placeName><region>Cape</region></placeName> - and again
+    <lb/>at the <placeName><region ref="region.xml#region0024">Cape</region></placeName> - and again
 <lb/>on the Northern slope
 <lb/>of the <placeName><geogName type="mountain"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice> Mountains</geogName></placeName>
 <lb/>and here, at similar heights
@@ -632,8 +632,8 @@
 <lb/>of the forest - <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-191"/>In this way
     <lb/>all the wax
     <lb/>exported
-    <lb/>from <placeName><region><choice><sic>Benguella</sic><corr>Benguela</corr></choice></region></placeName>
-    <lb/>and <placeName><region><choice><orig>Loando</orig><reg>Luanda</reg></choice></region></placeName><!-- Loando could refer to the city or region, but here it seems more likely to be the region. -->
+    <lb/>from <placeName><region ref="region.xml#region0021"><choice><sic>Benguella</sic><corr>Benguela</corr></choice></region></placeName>
+    <lb/>and <placeName><region ref="region.xml#region0036"><choice><orig>Loando</orig><reg>Luanda</reg></choice></region></placeName><!-- Loando could refer to the city or region, but here it seems more likely to be the region. -->
     <lb/>is collected
     <lb/>It is all the
     <lb/>produce of

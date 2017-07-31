@@ -607,8 +607,8 @@ gone thither for the
                     <lb/>The people of <persName ref="people.xml#pers0351">Cazembe</persName> are
 <lb/><term type="tribe">Balŏnda</term> or <term type="tribe">Balŏi</term>
 <lb/>and his country has
-<lb/>been termed <placeName><region>Lŏnda</region></placeName> - <placeName><region>Lunda</region></placeName>
-<lb/>or <placeName><region>Lui</region></placeName> by the <term type="people">Portuguese</term></p>
+                    <lb/>been termed <placeName><region ref="region.xml#region0038">Lŏnda</region></placeName> - <placeName><region ref="region.xml#region0038">Lunda</region></placeName>
+                    <lb/>or <placeName><region ref="region.xml#region0038">Lui</region></placeName> by the <term type="people">Portuguese</term></p>
     
     
     <pb facs="liv_000100_0348.jpg" n="0348"/>                           
@@ -678,7 +678,7 @@ they would make
 <lb/><add place="marginleft"><choice><abbr>Long-</abbr><expan>Longitude</expan></choice></add> 22° 57' <choice><abbr>E-</abbr><expan>East</expan></choice> <choice><abbr>Lat-</abbr><expan>Latitude</expan></choice> 12° 6' 6" South</measure></p>
                 <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0568"><unclear cert="medium">Wheeler</unclear></persName></hi></note></add> These were the only opportunities
 <lb/>I had of ascertaining my
-<lb/>whereabouts in <placeName><region>Londa</region></placeName>
+                    <lb/>whereabouts in <placeName><region ref="region.xml#region0038">Londa</region></placeName>
 <lb/>Again and again did I take
 <lb/>out <subst><del>m</del><add place="over-text">the</add></subst> instruments and
 <lb/>just as all was right the
@@ -697,7 +697,7 @@ they would make
 
     <pb facs="liv_000100_0350.jpg" n="0350"/>                           
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">349</add></fw>
-<lb/>in <placeName><region>Londa</region></placeName> - I never observed
+                    <lb/>in <placeName><region ref="region.xml#region0038">Londa</region></placeName> - I never observed
 <lb/>in the South <add place="below">^</add> <seg type="weather"><add place="above">the</add> heavy night
 <lb/>rains we had in this country
 <lb/>They often continued all night,
@@ -724,7 +724,7 @@ they would make
 <lb/>Two on the side of the
 <lb/>river we had left - The
 <lb/>country there is named
-                    <lb/><placeName><region>Mokwankwa</region></placeName> - And there <persName ref="people.xml#pers0459">Ntemese</persName>
+                    <lb/><placeName><region ref="region.xml#region0044">Mokwankwa</region></placeName> - And there <persName ref="people.xml#pers0459">Ntemese</persName>
                     <lb/>informed us one of <persName ref="people.xml#pers0532">Shinte</persName>'s
 <lb/>children was born when
 <lb/>he was in his progress
@@ -924,7 +924,7 @@ among the <term type="tribe">Makololo</term><add place="inline" hand="#U2" rend=
 <lb/>of the first day - in order
 <lb/>to avoid the still more
 <lb/>deeply flooded plains
-<lb/>of <placeName><region>Lobale</region></placeName> (<placeName><region>Luval</region></placeName>?) on
+    <lb/>of <placeName><region ref="region.xml#region0039">Lobale</region></placeName> (<placeName><region ref="region.xml#region0039">Luval</region></placeName>?) on
 <lb/><subst><del>our</del><add place="over-text">the</add></subst> West - These according
 
 
@@ -977,7 +977,7 @@ grass
 <lb/>of the perpetual wetness
 <lb/>of the paths by which
 <lb/>we have travelled in
-<lb/><placeName><region>Londa</region></placeName> as softening their
+    <lb/><placeName><region ref="region.xml#region0038">Londa</region></placeName> as softening their
 <lb/>horny soles - The only
 <lb/>information we can
     <lb/>glean is from <persName ref="people.xml#pers0459">Ntemesi</persName>

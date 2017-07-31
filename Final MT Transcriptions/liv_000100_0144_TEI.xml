@@ -148,11 +148,11 @@
 <lb/>visit - The <term type="tribe">Barotse</term> call themselves
 <lb/>the <term type="tribe">Balŏiana</term> or <term type="tribe">little Balŏi</term> - as
 <lb/>if they had been an offset from
-<lb/><placeName><region>Lŏi</region></placeName> or <placeName><region>Lui</region></placeName> as it is often spelt - 
-<lb/>As <placeName><settlement type="village">Lui</settlement></placeName> had been visited by <term type="people">Portuguese</term>
+    <lb/><placeName><region ref="region.xml#region0038">Lŏi</region></placeName> or <placeName><region ref="region.xml#region0038">Lui</region></placeName> as it is often spelt - 
+    <lb/>As <placeName><region ref="region.xml#region0038">Lui</region></placeName> had been visited by <term type="people">Portuguese</term>
 <lb/>and <subst><del type="strikethrough" hand="#U3" rend="red">the</del><add place="above" hand="#U3" rend="red">its</add></subst> position not well ascertained
 <lb/>my enquiries referred to the
-<lb/>identity of <placeName><settlement type="town">Naliele</settlement></placeName> with <placeName><region>Lui</region></placeName> but
+    <lb/>identity of <placeName><settlement type="town">Naliele</settlement></placeName> with <placeName><region ref="region.xml#region0038">Lui</region></placeName> but
 <lb/>there is no evidence of any
     <lb/>of <persName ref="people.xml#pers0441">Santuru</persName>'s people having ever
 <lb/>seen a white man before the
@@ -361,7 +361,7 @@ except that of the
 <lb/>the distance of <measure>five hundred
 <lb/>yards</measure> - </p>
 <lb/><p>I imagined this slight
-<lb/>elevation <add place="marginleft"><metamark function="insertion"/>(<placeName><region>Katonga</region></placeName>)</add> might be healthy
+    <lb/>elevation <add place="marginleft"><metamark function="insertion"/>(<placeName><region ref="region.xml#region0034">Katonga</region></placeName>)</add> might be healthy
 <lb/>but was informed that
 <lb/>no part <subst><del type="strikethrough" hand="#U3" rend="red">in</del><add place="above" hand="#U3" rend="red">of</add></subst> this region is
 <lb/>exempt from <term type="ailment">fever</term> - When
@@ -401,7 +401,7 @@ I imagined
 <lb/>to come - I resolved therefore
 <lb/>to go to the utmost limits of the
 <lb/><placeName><region><term type="tribe">Barotse</term> country</region></placeName> before coming
-<lb/>to a final conclusion - <placeName><region>Katonga</region></placeName>
+    <lb/>to a final conclusion - <placeName><region ref="region.xml#region0034">Katonga</region></placeName>
 <lb/>was the best place we had
 <lb/>seen but in order to accomplish
 <lb/>a full search I left <persName ref="people.xml#pers0519">Sekeletu</persName>
@@ -465,7 +465,7 @@ I imagined
 <lb/>that scourge exists but hearing
 <lb/>that we were not far from
 <lb/>the <del type="cancelled">river</del> confluence of the
-<lb/>river of <placeName><region>Londa</region></placeName> or <placeName><region>Lunda</region></placeName>
+    <lb/>river of <placeName><region ref="region.xml#region0038">Londa</region></placeName> or <placeName><region ref="region.xml#region0038">Lunda</region></placeName>
 <lb/>named <placeName><geogName type="river">Leeba</geogName></placeName> or <placeName><geogName type="river">Loiba</geogName></placeName> and
 <lb/>the <term type="occupation">chiefs</term> of that country <add place="above" hand="#U3" rend="red">being</add> <del type="strikethrough" hand="#U3" rend="red">w<subst><del>as</del><add place="over-text">ere</add></subst></del>
 <lb/>reported to be friendly to
@@ -498,7 +498,7 @@ I imagined
 <lb/>unmixed</p>
 <lb/><p>Before reaching the <placeName><geogName type="river">Loeti</geogName></placeName> we
 <lb/>came to a number of people from
-<lb/>the <placeName><region>Lobale</region></placeName> region hunting <term type="animal">hippopotami</term>
+    <lb/>the <placeName><region ref="region.xml#region0039">Lobale</region></placeName> region hunting <term type="animal">hippopotami</term>
 <lb/>They fled precipitately as soon
 <lb/>as they saw the <term type="tribe">Makololo</term><add place="inline" hand="#U3" rend="red">,</add> leaving
 <lb/>their canoes and all their
@@ -512,7 +512,7 @@ I imagined
     <lb/>would have
     <lb/><subst><del type="strikethrough" hand="#U3" rend="red">blasted</del><add place="above" hand="#U3" rend="red">destroyed</add></subst> my
     <lb/>character entirely
-    <lb/>at <placeName><region>Lobale</region></placeName> I
+    <lb/>at <placeName><region ref="region.xml#region0039">Lobale</region></placeName> I
     <lb/>forced my men
     <lb/>to lay down
     <lb/>all the plunder
@@ -558,7 +558,7 @@ I imagined
 <lb/>of the <placeName><geogName type="river">Coanza</geogName></placeName> and <w><subst><del type="strikethrough" hand="#U3" rend="red">w</del><add place="above" hand="#U3" rend="red">sh</add></subst>ould</w>
 <lb/>find no difficulty in
 <lb/>following it down to the
-<lb/>coast near <placeName><region><choice><orig>Loando</orig><reg>Luanda</reg></choice></region></placeName> - This
+    <lb/>coast near <placeName><region ref="region.xml#region0036"><choice><orig>Loando</orig><reg>Luanda</reg></choice></region></placeName> - This
 <lb/>was the <w>logic<add place="below" hand="#U3" rend="red">al</add></w> <add place="below" hand="#U3" rend="red">deduction,</add> <del type="strikethrough">but like many</del>
 
 

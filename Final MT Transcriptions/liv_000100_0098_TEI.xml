@@ -523,7 +523,7 @@
 <lb/>to the <term type="tribe">Bechuanas</term> I proceed
 <lb/>to enumerate the tribes
 <lb/>into which they are divided <supplied cert="high">-</supplied></del>
-<lb/>The <term type="tribe">Zul<subst><del>a</del><add place="over-text">u</add></subst>s</term> of <placeName><region>Natal</region></placeName> belong
+<lb/>The <term type="tribe">Zul<subst><del>a</del><add place="over-text">u</add></subst>s</term> of <placeName><region ref="region.xml#region0045">Natal</region></placeName> belong
 <lb/>to the same family and
 <lb/>they are as famed for their
 <lb/>honesty as their <w>breth<del type="strikethrough" hand="#U3" rend="red">e</del>ren</w>
@@ -531,7 +531,7 @@
 <lb/>Colonial Frontier are
 <lb/>renowned for <term type="animal">cattle</term> lifting<!-- possible word beneath 'lifting' but it is illegible.JL -->
 <lb/>Of them the <term type="occupation">Recorder</term> of
-<lb/><placeName><region>Natal</region></placeName> declared that history
+                    <lb/><placeName><region ref="region.xml#region0045">Natal</region></placeName> declared that history
 <lb/>does not present another
 <lb/>instance in which so
 <lb/>much security for life
@@ -659,7 +659,7 @@ which would
 much to be wondered at
 <lb/><del type="strikethrough" hand="#U3" rend="red">here,</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">in <placeName><country>England</country></placeName> where we find</add> <del type="strikethrough" hand="#U3" rend="red">since</del> a gentleman
 <lb/>who had been thirty years
-<lb/>in the <placeName><region>Cape Colony</region></placeName> <del type="cancelled">expressed</del>
+    <lb/>in the <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName> <del type="cancelled">expressed</del>
 <lb/><add place="marginleft"><add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">expressing</add> at a public meeting
     <lb/>held in <placeName><settlement type="city">Cape town</settlement></placeName></add> 
 <add place="below">^</add> in <date when="1855">1855</date> - <del type="cancelled" rend="red" hand="#U3">expressed</del> a strong
@@ -681,7 +681,7 @@ much to be wondered at
 <lb/>in the country that many
 <lb/><term type="nationality">English</term> <term type="occupation">tradesmen</term> and
 <lb/><term type="nationality">Dutch</term> <term type="occupation"><subst><del>B</del><add place="over-text">f</add></subst>armers</term> in the
-<lb/><placeName><region>Orange Free State</region></placeName> are
+    <lb/><placeName><region ref="region.xml#region0047">Orange Free State</region></placeName> are
 <lb/>almost entirely <choice><sic>dependant</sic><corr>dependent</corr></choice>
 <lb/>on the <term type="tribe"><choice><orig>Basutus</orig><reg>Basutos</reg></choice></term> for the
 <lb/><term type="foodstuff">grain</term> they consume - <add place="inline">*</add> <add place="marginleft"><note>(foot note)
@@ -692,7 +692,7 @@ much to be wondered at
     <lb/>the <orgName ref="orgName.xml#org0069"><choice><sic>Mechanics
     <lb/>Institute</sic><corr>Mechanics' Institute</corr></choice></orgName> <placeName><settlement type="city">Cape town</settlement></placeName></note></add>
 <lb/>and generally the <term type="tribe">Zulu<del type="cancelled">s</del></term>
-<lb/>of <placeName><region>Natal</region></placeName> can raise <term type="foodstuff">grain</term>
+    <lb/>of <placeName><region ref="region.xml#region0045">Natal</region></placeName> can raise <term type="foodstuff">grain</term>
 <lb/>cheap enough to drive
     <lb/>the <orgName ref="orgName.xml#org0038">Dutch African</orgName> <term type="occupation">farmer</term> 
 <lb/>out of the market</p>

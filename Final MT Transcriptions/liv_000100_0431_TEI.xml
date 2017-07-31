@@ -124,8 +124,8 @@
 <lb/>parts of the country may
 <lb/>be called large only as
 <lb/>compared with the
-    <lb/><placeName><region>Cape Colony</region></placeName> or <del type="cancelled"><orgName ref="orgName.xml#org0057">Griqua</orgName></del>
-<lb/><placeName><region><add place="marginleft">the</add> <term type="tribe">Bechuana</term> country</region></placeName> <del type="cancelled">and</del>
+    <lb/><placeName><region ref="region.xml#region0024">Cape Colony</region></placeName> or <del type="cancelled"><orgName ref="orgName.xml#org0057">Griqua</orgName></del>
+<lb/><placeName><region ref="region.xml#region0020"><add place="marginleft">the</add> <term type="tribe">Bechuana</term> country</region></placeName> <del type="cancelled">and</del>
 <lb/><w><subst><del>t</del><add place="over-text">T</add></subst>he</w> cultivated land is
 <lb/>as nothing <del type="strikethrough">when</del> compared
 <lb/>with what might be
@@ -207,10 +207,10 @@
 <lb/>on the West bending
 <lb/>round and embracing
 <lb/>the <placeName><geogName type="desert">Kalahari desert</geogName></placeName> and
-<lb/><placeName><region><term type="tribe">Bechuana</term> countries</region></placeName> - Here
+<lb/><placeName><region ref="region.xml#region0020"><term type="tribe">Bechuana</term> countries</region></placeName> - Here
 <lb/>the people are <del type="cancelled">all</del> of
 <lb/>a lighter hue and then
-<lb/>the <placeName><region>central basin</region></placeName> very
+    <lb/>the <placeName><region ref="region.xml#region0026">central basin</region></placeName> very
 <lb/>dark again - This view
 
 

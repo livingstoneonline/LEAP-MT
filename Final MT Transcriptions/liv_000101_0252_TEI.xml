@@ -206,16 +206,16 @@
 <lb/>engraved on large square slabs on the top
 <lb/><retrace hand="#U5" n="U5"><add place="inline" rend="gray" hand="#U2" n="U2">of the mountain</add></retrace> which have probably been
 <lb/>the work of the <term type="occupation">Fathers</term>. As this lies in the
-<lb/><add place="marginleft" hand="#DL" n="DL"><note><placeName><region>Manica</region></placeName></note></add> direction of a part between <placeName><region>Manica</region></placeName> and
+        <lb/><add place="marginleft" hand="#DL" n="DL"><note><placeName><region ref="region.xml#region0042">Manica</region></placeName></note></add> direction of a part between <placeName><region ref="region.xml#region0042">Manica</region></placeName> and
 <lb/><placeName><settlement type="town"><choice><orig>S<retrace hand="#DL" n="DL">o</retrace>fála</orig><reg>Sofála</reg></choice></settlement></placeName> which has been conjectured to be
-    <lb/>the <placeName><region>Ophir</region></placeName> of <persName ref="people.xml#pers0360">King Solomon</persName>, the idea that
+        <lb/>the <placeName><region ref="region.xml#region0046">Ophir</region></placeName> of <persName ref="people.xml#pers0360">King Solomon</persName>, the idea that
 <lb/>first sprung up in my mind was that these
 <lb/>monuments might be more ancient than the
 <lb/><term type="nationality">Portuguese</term>, but on questioning some persons
 <lb/>who had seen them, I found that they were
 <lb/>in <orgName>Roman</orgName> characters, and did not deserve
 <lb/>a journey of six days to see them.</p>
-<lb/><p><placeName><region>Manica</region></placeName> lies <measure>three days north west</measure>
+    <lb/><p><placeName><region ref="region.xml#region0042">Manica</region></placeName> lies <measure>three days north west</measure>
 <lb/>of <placeName><geogName type="mountain">Gorongóza</geogName></placeName>, and is the best gold country
 
 
@@ -223,7 +223,7 @@
 <lb/><fw><add place="inspace" hand="#U2" n="U2" rend="gray right">4</add><add place="inspace" hand="#U1" n="U1" rend="gray right">203</add></fw>
 <lb/>known in <placeName><region>Eastern Africa</region></placeName>. The only evidence
 <lb/>the <term type="people">Portuguese</term> have of its being the ancient
-<lb/><placeName><region>Ophir</region></placeName>, is, that at <placeName><settlement type="town">Sofala</settlement></placeName>, its nearest port, pieces
+        <lb/><placeName><region ref="region.xml#region0046">Ophir</region></placeName>, is, that at <placeName><settlement type="town">Sofala</settlement></placeName>, its nearest port, pieces
 <lb/>of wrought gold have been dug up near the
 <lb/>fort, and in the gardens. They also report the
 <lb/>existence of hewn stones in the neighbourhood, 
@@ -231,7 +231,7 @@
 <lb/>the stones of the fort of <placeName><settlement type="town">Sofala</settlement></placeName> are said to
 <lb/>have been brought from <placeName><country>Portugal</country></placeName>. <orgName>Natives</orgName>
 <lb/>whom I have met in the country of <persName ref="people.xml#pers0519">Sekeletu</persName>,
-<lb/>from <placeName><region>Manica</region></placeName>, or <placeName><region><choice><orig>Man<note place="above" hand="#DL" n="DL">n</note><del type="strikethrough" hand="#DL" n="DL">i</del>oa</orig><reg>Manoa</reg></choice></region></placeName>, as they call it,
+        <lb/>from <placeName><region ref="region.xml#region0042">Manica</region></placeName>, or <placeName><region ref="region.xml#region0042"><choice><orig>Man<note place="above" hand="#DL" n="DL">n</note><del type="strikethrough" hand="#DL" n="DL">i</del>oa</orig><reg>Manoa</reg></choice></region></placeName>, as they call it,
 <lb/>state that there are several caves in the
 <lb/>country, and walls of hewn stone, which they
 <lb/>believe to have been made by their ancestors,
@@ -242,7 +242,7 @@
 <lb/><placeName><geogName type="river">Sabe</geogName></placeName>, run through their country into the
 <lb/>sea. The <term type="people">Portuguese</term> were driven out of the
 <lb/>country by the <term type="tribe">Landeens</term>, but now talk of
-<lb/>reoccupying <placeName><region>Manica</region></placeName>.</p>
+        <lb/>reoccupying <placeName><region ref="region.xml#region0042">Manica</region></placeName>.</p>
     <lb/><p><add place="marginleft" hand="#U2" n="U2" rend="black"><note><persName ref="people.xml#pers0541"><hi rend="underline"><unclear cert="high">Sorell</unclear></hi></persName></note></add> The most pleasant sight I saw at
         <lb/><placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>, was the negroes of <persName ref="people.xml#pers0474">Senhor Isidore</persName>
 <lb/>building boats after the <orgName>European</orgName> model
@@ -364,7 +364,7 @@
     <lb/>derives a large
     <lb/>revenue from
     <lb/>them in
-    <lb/><placeName><region>Kashmir</region></placeName> <del type="cancelled">, it</del>
+        <lb/><placeName><region ref="region.xml#region0033">Kashmir</region></placeName> <del type="cancelled">, it</del>
     <lb/>amount<subst><del>s</del><add place="inline">ing</add></subst> to
     <lb/>£12,000
     <lb/>per annum
@@ -384,7 +384,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>departure is called <placeName><settlement type="village">Mazáro</settlement></placeName>, which means
 <lb/>"Mouth of the <placeName><geogName type="river">Mútu</geogName></placeName>". The people who live
 <lb/>on the north are called <term type="tribe">Baróro</term> and their
-<lb/>country <placeName><region>Boróro</region></placeName>. The whole of the right bank
+<lb/>country <placeName><region ref="region.xml#region0022">Boróro</region></placeName>. The whole of the right bank
 <lb/>is in subjection to the <term type="tribe">Landeens</term>, who, it was
 <lb/>imagined, would levy a tribute upon us, 
 <lb/>for this they are accustomed to do to passengers.
@@ -642,7 +642,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>generously attempting to render me a 
 <lb/>service. I would here acknowledge my deep
     <lb/>obligations to the <persName ref="people.xml#pers0558">Earl of Clarendon</persName><add place="inline" hand="#DL" n="DL">;</add> <del type="cancelled" hand="#DL" n="DL">and</del> to
-<lb/>the <term type="occupation">Admiral</term> at the <placeName><region>Cape</region></placeName><add place="inline" hand="#DL" n="DL">;</add> and others for
+    <lb/>the <term type="occupation">Admiral</term> at the <placeName><region ref="region.xml#region0024">Cape</region></placeName><add place="inline" hand="#DL" n="DL">;</add> and others for
 <lb/>the kind interest they manifested in my
 <lb/>safety; even the enquiries made were very
 <lb/>much to my advantage. I also refer
@@ -741,7 +741,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 
 <pb facs="liv_000101_0268.jpg" n="0268"/><!-- p674, sh -->    
 <lb/><fw><add place="inspace" hand="#U2" n="U2" rend="gray right">17</add> <space extent="2" unit="chars"/><add place="inspace" hand="#U1" n="U1" rend="gray right">216</add></fw>
-<lb/>the highlands on the borders of the <placeName><region>central
+    <lb/>the highlands on the borders of the <placeName><region ref="region.xml#region0026">central
 <lb/>basin</region></placeName> are comparatively healthy, the first
 <lb/>object seems to be to secure a permanent
 <lb/>path thither, in order that <orgName>Europeans</orgName> may

@@ -122,7 +122,7 @@
 <lb/><del type="strikethrough">except</del> not subjected to
 <lb/>the souring influence
 <lb/>of the stagnant water
-<lb/>The plains of <placeName><region>Lobale</region></placeName>
+    <lb/>The plains of <placeName><region ref="region.xml#region0039">Lobale</region></placeName>
 <lb/>to the West of these are
 <lb/>said to be much more
 <lb/>extensive than any we
@@ -180,7 +180,7 @@
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">360</add></fw>
 <lb/>fine hay we were now
 <lb/>wading through Any one
-<lb/>who has visited the <placeName><region>Cape
+    <lb/>who has visited the <placeName><region ref="region.xml#region0024">Cape
 <lb/>Colony</region></placeName> will understand me
 <lb/>when I say these immense
 <lb/>crops <del type="strikethrough">of grass have very
@@ -197,7 +197,7 @@
 <lb/>on the physical geography
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>27</note></add> of a very large portion of
 <lb/>this country - The Plains
-<lb/>of <placeName><region>Lobale</region></placeName> to the <w><subst><del>w</del><add place="over-text">W</add></subst>est</w> of this
+    <lb/>of <placeName><region ref="region.xml#region0039">Lobale</region></placeName> to the <w><subst><del>w</del><add place="over-text">W</add></subst>est</w> of this
 <lb/>give rise to a great
 <lb/>many streams which <del type="cancelled">U</del>unite
 <lb/>and form the deep never
@@ -361,7 +361,7 @@
 <lb/><add place="marginleft">qualities</add> <add place="below">^</add> <del type="strikethrough">kinds</del> of soils express the
 <lb/>greatest admiration of the
 <lb/>agriculture capabilities
-<lb/>of the whole of <placeName><region>Londa</region></placeName>
+    <lb/>of the whole of <placeName><region ref="region.xml#region0038">Londa</region></placeName>
 <lb/>and here they were loud
 <lb/>in their praises of the
 <lb/>pasturage - They have an
@@ -826,7 +826,7 @@ If they ever visit
                 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note>43 <space extent="2" unit="chars"/><hi rend="underline"><persName ref="people.xml#pers0400">Mead</persName></hi></note></add> <choice><sic><persName ref="people.xml#pers0487">Quendende</persName>s</sic><corr><persName ref="people.xml#pers0487">Quendende</persName>'s</corr></choice> <subst><del>was</del><add place="over-text">h</add></subst>ead was
 <lb/>a good specimen of the greater
 <lb/><add place="marginleft">crop of</add> <w>wool<del type="strikethrough">iness</del></w> with which the
-<lb/>negroes of <placeName><region>Londa</region></placeName> are furnished
+                    <lb/>negroes of <placeName><region ref="region.xml#region0038">Londa</region></placeName> are furnished
 <lb/>The front part was <add place="below">^</add> <add place="above">parted in the middle</add> &amp; plaited
 <lb/>into two thick rolls <add place="below">^</add> <add place="above">which</add> falling down
 <lb/>behind the ears - reached the
@@ -935,10 +935,10 @@ If they ever visit
 <lb/>bad name yet on account
 <lb/>of their perpetual forays that
 <lb/>they <subst><del>are</del><add place="over-text">ha</add></subst>ve not been known
-<lb/>in <placeName><region>Londa</region></placeName> <subst><del>bu</del><add place="over-text">ex</add></subst>cept as ruthless
+    <lb/>in <placeName><region ref="region.xml#region0038">Londa</region></placeName> <subst><del>bu</del><add place="over-text">ex</add></subst>cept as ruthless
     <lb/>destroyers - The People <add place="below">^</add> <add place="above"><del type="cancelled">Lond</del> in <persName ref="people.xml#pers0444">Matiamvo</persName>'s country</add> submit <add place="below">^</add> <add place="above">to</add> much
 <lb/><add place="marginleft">wrong <add place="below">^</add> </add>from their <term type="occupation">chiefs</term> and no
-<lb/>voice can be raised <del type="strikethrough">in <placeName><region>Londa</region></placeName></del>
+    <lb/>voice can be raised <del type="strikethrough">in <placeName><region ref="region.xml#region0038">Londa</region></placeName></del>
 <lb/><add place="marginleft">against cruelty</add> because they are afraid to
 <lb/>flee elsewhere - </p>
                 <lb/><p><add place="marginleft">The <subst><del type="cancelled">situation</del><add place="above">position</add></subst> of</add> the village of <persName ref="people.xml#pers0487">Quendende</persName> is <measure>11° 41' 17 South</measure>

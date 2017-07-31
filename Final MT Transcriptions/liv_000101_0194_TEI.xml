@@ -517,7 +517,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>but the ends of the branches <subst><del type="cancelled">on</del><add place="above">from</add></subst> <choice><abbr>wh</abbr><expan>which</expan></choice> they grew resembled closely
 <lb/>oblong <term type="plant">fir</term> cones <space extent="3" unit="chars"/>The <term type="plant">corn poppy</term> was abundant and many of
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> trees, flowering bulbs and plants were identical with those in
-<lb/><placeName><region>Pungo Andongo</region></placeName> <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-87"/> <space extent="2" unit="chars"/><metamark function="newParagraph">/</metamark> On <choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-11-30">30 <choice><abbr>Nov</abbr><expan>November</expan></choice></date> we crossed the river <placeName><geogName type="river">Kalomo</geogName></placeName>
+    <lb/><placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName> <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-87"/> <space extent="2" unit="chars"/><metamark function="newParagraph">/</metamark> On <choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-11-30">30 <choice><abbr>Nov</abbr><expan>November</expan></choice></date> we crossed the river <placeName><geogName type="river">Kalomo</geogName></placeName>
 <lb/><choice><abbr>wh</abbr><expan>which</expan></choice> is about <measure>50 yards broad</measure> and is the only stream that never dries
 <lb/>up on this ridge <space extent="3" unit="chars"/>The current is rapid and its course is
 <lb/>towards <choice><abbr>'</abbr><expan>the</expan></choice> South as <del type="cancelled">its</del> it joins <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> at some distance below
@@ -547,7 +547,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>great falls this ridge or oblong mound trends away to the <choice><abbr>N. E.</abbr><expan>North East</expan></choice>
 <lb/>and there treeless <add place="below">^</add> <add place="above">elevated</add> plains again appear. <space extent="3" unit="chars"/>Then again <choice><abbr>'</abbr><expan>the</expan></choice> ridge is
     <lb/>said to bend away from <choice><abbr>'</abbr><expan>the</expan></choice> falls to the <choice><abbr>S. E.</abbr><expan>South East</expan></choice> <metamark function="ed-mark" rend="gray" resp="#U1" n="U2">⎜</metamark> and <persName ref="people.xml#pers0411">Mr Moffat</persName>
-    <lb/>saw from <choice><abbr>'</abbr><expan>the</expan></choice> country of <persName ref="people.xml#pers0446">Mosilikatse</persName> the <placeName><region><term type="tribe">Mashona</term> hills</region></placeName> in that
+    <lb/>saw from <choice><abbr>'</abbr><expan>the</expan></choice> country of <persName ref="people.xml#pers0446">Mosilikatse</persName> the <placeName><region ref="region.xml#region0043"><term type="tribe">Mashona</term> hills</region></placeName> in that
 <lb/>direction and even <term type="animal">Angora goats</term> <choice><abbr>wh</abbr><expan>which</expan></choice> had come from <del type="cancelled">that</del>
 <lb/>those highlands <add place="above" rend="gray" hand="#U1" n="U2"><note>footnote</note></add><metamark function="newParagraph" rend="gray" resp="#U1" n="U2">⎡</metamark> <space extent="2" unit="chars"/>It is impossible to say how much farther
 <lb/>to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N.</abbr><expan>North</expan></choice> these subtending ridges may <del type="strikethrough">extend</del> stretch <space extent="2" unit="chars"/><subst><del type="strikethrough">And</del><add place="above">As</add></subst> <del type="strikethrough">as</del>
@@ -592,9 +592,9 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>met with out-side these ridges are
 <lb/>only a low fringe of not much
 <lb/>greater altitude than even the
-<lb/>bottom of the <placeName><region>great central valley</region></placeName></p>
+    <lb/>bottom of the <placeName><region ref="region.xml#region0026">great central valley</region></placeName></p>
 <lb/><p hand="#DL" n="DL">If we leave out of view
-<lb/>the greater breadth of the <placeName><region>central basin</region></placeName>
+    <lb/>the greater breadth of the <placeName><region ref="region.xml#region0026">central basin</region></placeName>
 <lb/>at other parts and <del type="strikethrough">only</del> spoke only
 <lb/>of the comparatively narrow
 <lb/>part formed by the bend in
@@ -1180,7 +1180,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 </sic><corr>Here</corr></choice>
 <lb/>and there you see large single trees or small clumps of
 <lb/>evergreens  but <choice><abbr>'</abbr><expan>the</expan></choice> abundance of <term type="plant_foodstuff">maize</term> and <term type="plant_foodstuff">earthnuts</term> we met
-<lb/>show that more <seg type="weather">rain falls</seg> than in <choice><abbr>'</abbr><expan>the</expan></choice> <del type="strikethrough"><placeName><region>interior</region></placeName></del> <placeName><region>Bechuana
+<lb/>show that more <seg type="weather">rain falls</seg> than in <choice><abbr>'</abbr><expan>the</expan></choice> <del type="strikethrough"><placeName><region>interior</region></placeName></del> <placeName><region ref="region.xml#region0020">Bechuana
 <lb/>country</region></placeName> for there they never attempt to raise <term type="plant_foodstuff">maize</term>
 <lb/>except in damp hollows on <choice><abbr>'</abbr><expan>the</expan></choice> banks of rivers <space extent="2" unit="chars"/>The pasturage
 <lb/>is very fine for both <term type="animal">cattle</term> and <term type="animal">sheep</term> <space extent="3" unit="chars"/>My own men
@@ -1216,9 +1216,9 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/><p><space extent="13" unit="chars"/><note><date when="1855-12-12"><choice><abbr>Dec</abbr><expan>December</expan></choice> 12<hi rend="sup">th</hi></date></note> The morning presented <choice><abbr>'</abbr><expan>the</expan></choice> appearance
 <lb/>of a <seg type="weather">continuous rain</seg> from <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N.</abbr><expan>north</expan></choice> <space extent="2" unit="chars"/>The first time we had seen it
 <lb/>set in from that quarter in such a southern latitude <space extent="3" unit="chars"/>In
-<lb/><del type="cancelled">Kolo</del> the <placeName><region>Bechuana country</region></placeName> <seg type="weather">continuous rains</seg> are always from
-<lb/>the <choice><abbr>N. E.</abbr><expan>North East</expan></choice> or <choice><abbr>E.</abbr><expan>East</expan></choice> while in <placeName><region>Londa</region></placeName> and <placeName><country>Angola</country></placeName> they are from the <choice><abbr>N.</abbr><expan>North</expan></choice></p>
-<lb/><p>At <placeName><region>Pungo Andongo</region></placeName> for instance <choice><abbr>'</abbr><expan>the</expan></choice> white wash is all removed
+<lb/><del type="cancelled">Kolo</del> the <placeName><region ref="region.xml#region0020">Bechuana country</region></placeName> <seg type="weather">continuous rains</seg> are always from
+    <lb/>the <choice><abbr>N. E.</abbr><expan>North East</expan></choice> or <choice><abbr>E.</abbr><expan>East</expan></choice> while in <placeName><region ref="region.xml#region0038">Londa</region></placeName> and <placeName><country>Angola</country></placeName> they are from the <choice><abbr>N.</abbr><expan>North</expan></choice></p>
+    <lb/><p>At <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName> for instance <choice><abbr>'</abbr><expan>the</expan></choice> white wash is all removed
 <lb/>from the north side of <choice><abbr>'</abbr><expan>the</expan></choice> houses -  <space extent="3" unit="chars"/>It cleared up however about
     <lb/>midday and <persName><persName ref="people.xml#pers0419">Monz<subst><del type="strikethrough" hand="#DL" n="DL">a</del><add place="over-text" hand="#DL" n="DL">e</add></subst></persName>'s sister</persName> conducted us a <measure>mile or two</measure> upon
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> road <space extent="3" unit="chars"/>On parting she said that she had sent orders forward
@@ -1255,7 +1255,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>The boiling point of water being 204° show<subst><del>s</del><add place="over-text">ed</add></subst> that we were not yet
 <lb/>as low down as <placeName><settlement type="town">Linyanti</settlement></placeName> <space extent="2" unit="chars"/>but we have now left <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant"><subst><del type="cancelled">M</del><add place="above">m</add></subst>asuka trees</term>
 <lb/>behind us and many others with <choice><abbr>wh.</abbr><expan>which</expan></choice> we had become familiar 
-<lb/>A feature common to <choice><abbr>'</abbr><expan>the</expan></choice> forests of <placeName><country>Angola</country></placeName> and <placeName><region>Benguela</region></placeName> namely
+<lb/>A feature common to <choice><abbr>'</abbr><expan>the</expan></choice> forests of <placeName><country>Angola</country></placeName> and <placeName><region ref="region.xml#region0021">Benguela</region></placeName> namely
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> presence of <term type="plant">orchilla weed</term> and <term type="plant">lichens</term> on <choice><abbr>'</abbr><expan>the</expan></choice> trees with <term type="plant">mosses</term> on <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/>ground began to appear but we never on any part of <choice><abbr>'</abbr><expan>the</expan></choice> eastern
 <lb/>slope saw <choice><abbr>'</abbr><expan>the</expan></choice> abundant crops of <term type="plant">Ferns</term> <choice><abbr>wh.</abbr><expan>which</expan></choice> are met everywhere in
@@ -1499,8 +1499,8 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>cold waters and healthiness &amp; there are some inscriptions
 <lb/>engraved on large square slabs on <choice><abbr>'</abbr><expan>the</expan></choice> top of <placeName><geogName type="mountain">Gorongozo</geogName></placeName>
 <lb/><choice><abbr>wh</abbr><expan>which</expan></choice> have probably been <choice><abbr>'</abbr><expan>the</expan></choice> work of <choice><abbr>'</abbr><expan>the</expan></choice> <subst><del type="strikethrough" hand="#DL" n="DL"><term type="occupation">padres</term></del> <add place="inline" hand="#DL" n="DL"><term type="occupation">Fathers</term> - </add></subst> As this lies in
-<lb/><choice><abbr>'</abbr><expan>the</expan></choice> direction of a part of <del type="cancelled">opposite S</del> between <placeName><region>Manica</region></placeName> and
-    <lb/><placeName><settlement type="town">Sofála</settlement></placeName> <choice><abbr>wh</abbr><expan>which</expan></choice> has been conjectured to be <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>Ophir</region></placeName> of <persName ref="people.xml#pers0360">King Solomon</persName>
+    <lb/><choice><abbr>'</abbr><expan>the</expan></choice> direction of a part of <del type="cancelled">opposite S</del> between <placeName><region ref="region.xml#region0042">Manica</region></placeName> and
+    <lb/><placeName><settlement type="town">Sofála</settlement></placeName> <choice><abbr>wh</abbr><expan>which</expan></choice> has been conjectured to be <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region ref="region.xml#region0046">Ophir</region></placeName> of <persName ref="people.xml#pers0360">King Solomon</persName>
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> idea that first sprang up in my mind was that these
 
 
@@ -1508,7 +1508,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/><space dim="vertical" extent="3" unit="lines"/>
 <lb/><space extent="30" unit="chars"/><add place="inline" hand="#DL" n="DL"><note><placeName><region>Maníca</region></placeName></note></add>
 <lb/><space dim="vertical" extent="10" unit="lines"/>
-<lb/><space extent="32" unit="chars"/><add place="inline" hand="#DL" n="DL"><note><placeName><region>Manwa</region></placeName></note></add>
+    <lb/><space extent="32" unit="chars"/><add place="inline" hand="#DL" n="DL"><note><placeName><region ref="region.xml#region0042">Manwa</region></placeName></note></add>
 <lb/><space dim="vertical" extent="3" unit="lines"/>
 <lb/><space extent="25" unit="chars"/><add place="inline" hand="#DL" n="DL"><note>Two rivers - the
 <lb/><space extent="16" unit="chars"/><placeName><geogName type="river">Motiríkwe</geogName></placeName> &amp; <placeName><geogName type="river">Sabía</geogName></placeName> or <placeName><geogName type="river">Sabe</geogName></placeName></note></add>
@@ -1521,7 +1521,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>monuments might be more ancient than <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Portuguese</term> but
 <lb/>on questioning some persons who had seen them I found that
 <lb/>they were in <orgName>Roman</orgName> characters and did not deserve a journey
-<lb/>of 6 days to see them <space extent="8" unit="chars"/><placeName><region>Manica</region></placeName> lies <measure>3 days</measure>
+    <lb/>of 6 days to see them <space extent="8" unit="chars"/><placeName><region ref="region.xml#region0042">Manica</region></placeName> lies <measure>3 days</measure>
 <lb/><choice><abbr>N.W.</abbr><expan>north west</expan></choice> of <placeName><geogName type="mountain">Gorongoz<subst><del type="cancelled">a</del><add place="above">o</add></subst></geogName></placeName> and is <choice><abbr>'</abbr><expan>the</expan></choice> best gold country known in
 <lb/><placeName><region>eastern <placeName><bloc>Africa</bloc></placeName></region></placeName> <space extent="3" unit="chars"/>The only evidence <choice><abbr>'</abbr><expan>the</expan></choice> <term type="people">Portuguese</term> have of its
 <lb/>being <choice><abbr>'</abbr><expan>the</expan></choice> ancient Ophir is that at <placeName><settlement type="town">Sofala</settlement></placeName> <del type="cancelled"><choice><abbr>wh.</abbr><expan>which</expan></choice></del> its nearest port
@@ -1530,7 +1530,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>the neighbourhood but these cannot have been abundant
 <lb/>for all <choice><abbr>'</abbr><expan>the</expan></choice> stones of <choice><abbr>'</abbr><expan>the</expan></choice> fort of <placeName><settlement type="town">Sofala</settlement></placeName> are said to have been brought
 <lb/>from <placeName><country>Portugal</country></placeName> <space extent="3" unit="chars"/><del type="cancelled">They also assert</del> <space extent="3" unit="chars"/><orgName>Natives</orgName> whom I
-    <lb/>have met in <choice><abbr>'</abbr><expan>the</expan></choice> country of <persName ref="people.xml#pers0519">Sekelétu</persName> from <del type="cancelled"><choice><abbr>'</abbr><expan>the</expan></choice> country of</del> <placeName><region>Manica</region></placeName>
+    <lb/>have met in <choice><abbr>'</abbr><expan>the</expan></choice> country of <persName ref="people.xml#pers0519">Sekelétu</persName> from <del type="cancelled"><choice><abbr>'</abbr><expan>the</expan></choice> country of</del> <placeName><region ref="region.xml#region0042">Manica</region></placeName>
 <lb/>or <placeName><region>Ma<subst><del type="cancelled" hand="#DL" n="DL">nua</del><add place="above" hand="#DL" n="DL">nwa</add></subst></region></placeName> as they call it state that there are several
 <lb/>caves in <choice><abbr>'</abbr><expan>the</expan></choice> country and walls of hewn stone <choice><abbr>wh.</abbr><expan>which</expan></choice> they <choice><sic>beleive</sic><corr>believe</corr></choice>
 <lb/>to have been made by their ancestors and <del type="cancelled">they ar</del> there
@@ -1538,7 +1538,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>who have become completely like <choice><abbr>'</abbr><expan>the</expan></choice> other <orgName>natives</orgName> <space extent="3" unit="chars"/><del type="strikethrough">The</del>
 <lb/>2 rivers <placeName><geogName type="river">Motirikwe</geogName></placeName> and <placeName><geogName type="river">Sabe</geogName></placeName> run through their country
 <lb/>into <choice><abbr>'</abbr><expan>the</expan></choice> sea <space extent="4" unit="chars"/>The <term type="people">Portuguese</term> were driven out of <choice><abbr>'</abbr><expan>the</expan></choice> country
-<lb/>by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Landeens</term> but <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">now</add> talk of reoccupying <placeName><region>Manica</region></placeName></p>
+    <lb/>by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Landeens</term> but <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">now</add> talk of reoccupying <placeName><region ref="region.xml#region0042">Manica</region></placeName></p>
     <lb/><p>The most pleasant sight I saw at <placeName><settlement type="town"><choice><orig>Sen<add place="above" hand="#DL" n="DL">n</add>a</orig><reg>Sena</reg></choice></settlement></placeName> <w>w<subst><del hand="#DL" n="DL">ere</del><add place="over-text" hand="#DL" n="DL">as</add></subst></w> the
     <lb/>negroes of <persName ref="people.xml#pers0474">Senhor Isidore</persName> building boats after <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>European</orgName>
 <lb/>model without any one to superintend their operations
@@ -1656,7 +1656,7 @@ make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" ha
 <lb/>a large <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">inhabited</add> island and then came to <choice><abbr>'</abbr><expan>the</expan></choice> entrance of <choice><abbr>'</abbr><expan>the</expan></choice> river 
 <lb/><placeName><geogName type="river">Mútue</geogName></placeName> <del type="strikethrough" hand="#DL" n="DL"><choice><abbr>wh</abbr><expan>which</expan></choice> passes by <choice><abbr>'</abbr><expan>the</expan></choice> name</del> <add place="above" hand="#DL" n="DL">The point of departure is called</add> <add place="below" hand="#DL" n="DL">^</add><anchor xml:id="add-115"/> <placeName><settlement type="village">Mazaro</settlement></placeName> <choice><abbr>wh.</abbr><expan>which</expan></choice> means  "Mouth 
 <lb/>of the <placeName><geogName type="river">Mútue</geogName></placeName>" <space extent="3" unit="chars"/>The people who live on <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N.</abbr><expan>north</expan></choice> are called
-<lb/><term type="tribe"><choice><orig>Bar<del type="cancelled">r</del>óro</orig><reg>Baróro</reg></choice></term> and their country is named <placeName><region>Boróro</region></placeName> <space extent="3" unit="chars"/>The whole
+<lb/><term type="tribe"><choice><orig>Bar<del type="cancelled">r</del>óro</orig><reg>Baróro</reg></choice></term> and their country is named <placeName><region ref="region.xml#region0022">Boróro</region></placeName> <space extent="3" unit="chars"/>The whole
 <lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> right bank is in subjection to <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Landeens</term> who it
 <lb/>was imagined would levy a tribute upon us for this
 <lb/>they are accustomed to do to passengers. <space extent="2" unit="chars"/>I regret that

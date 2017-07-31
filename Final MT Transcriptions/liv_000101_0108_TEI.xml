@@ -171,7 +171,7 @@
 <lb/>of the <term type="occupation">carriers</term> and <orgName>slaves</orgName> <del type="strikethrough">by me</del> over a footpath</p>
 <lb/><p><placeName><settlement type="town">Cambambe</settlement></placeName> to which the <add place="below">^</add> <del type="strikethrough"><add place="above">canoe</add></del> navigation
 <lb/>of the <placeName><geogName type="river">Coanza</geogName></placeName> reaches is reported to be <measure>thirty
-<lb/>leagues</measure> below <placeName><region>Pungo Andongo</region></placeName> <space extent="2" unit="chars"/>A large waterfall
+    <lb/>leagues</measure> below <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName> <space extent="2" unit="chars"/>A large waterfall
 <lb/>is the limit on that side and another exists
 <lb/>higher up at the confluence of the <placeName><geogName type="river">Lombe</geogName></placeName>
 <lb/>over which <term type="animal">hippopotami</term> and <term type="animal">elephants</term>
@@ -261,7 +261,7 @@ to furnish them with every article in
 <lb/><term type="occupation">Priests</term>, if not to love, to good works</p>
 <lb/><p><note><date when="1855-01-01">1<hi rend="sup">st</hi> <choice><abbr>Jan<hi rend="sup underline">y</hi></abbr><expan>January</expan></choice> 1855</date>.</note> <space extent="2" unit="chars"/>Having through the kindness of <!-- p428 Missionary Travels, sh -->
     <lb/><persName ref="people.xml#pers0478"><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> Pires</persName> reproduced some <choice><abbr>`</abbr><expan>of</expan></choice> my lost papers I
-<lb/>left <placeName><region>Pungo Andongo</region></placeName> the first day <choice><abbr>`</abbr><expan>of</expan></choice> this year<!-- Grave accent seems to be abbrev for 'of', sh -->
+    <lb/>left <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName> the first day <choice><abbr>`</abbr><expan>of</expan></choice> this year<!-- Grave accent seems to be abbrev for 'of', sh -->
 <lb/>and at <placeName><settlement type="village">Candumba</settlement></placeName> slept in one <del type="strikethrough"><choice><abbr>`</abbr><expan>of</expan></choice> his</del>
 <lb/>the dairy establishments of my friend who
 <lb/>had sent forward orders for an ample
@@ -572,7 +572,7 @@ to furnish them with every article in
 <pb facs="liv_000101_0119.jpg" n="0119"/>
 <lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">114</add></fw>
 <lb/>the dose is repeated and the person dies, <space extent="2" unit="chars"/>hundreds
-<lb/>perish thus every year in <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">valley <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName></geogName></placeName></p>
+    <lb/>perish thus every year in <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region ref="region.xml#region0025">valley <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName></region></placeName></p>
 <lb/><p>The same superstitious ideas being prevalent
 <lb/>through <choice><abbr>'</abbr><expan>the</expan></choice> whole <choice><abbr>` '</abbr><expan>of the</expan></choice> country north of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName>
 <lb/>seems to indicate that <choice><abbr>'</abbr><expan>the</expan></choice> people must originally
@@ -597,7 +597,7 @@ among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>t
 <lb/>are often sold to pay his debts. <space extent="2" unit="chars"/>By these customs
 <lb/>more than by war is the <orgName><orgName>slave</orgName> market</orgName> supplied</del>
 <lb/>The <term type="occupation">chieftainship</term> is elective from certain families
-<lb/>among <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Bangalas</term> <choice><abbr>`</abbr><expan>of</expan></choice> this <placeName><geogName type="valley"><placeName><settlement type="village">Cassange</settlement></placeName> valley</geogName></placeName> the <term type="occupation">chief</term>
+    <lb/>among <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Bangalas</term> <choice><abbr>`</abbr><expan>of</expan></choice> this <placeName><region ref="region.xml#region0025"><placeName><settlement type="village">Cassange</settlement></placeName> valley</region></placeName> the <term type="occupation">chief</term>
 <lb/>is chosen from three families in rotation <space extent="3" unit="chars"/>A
 <lb/><add place="marginleft"><choice><sic><term type="occupation">chief</term>s</sic><corr><term type="occupation">chief</term>'s</corr></choice></add> brother inherits in preference to <subst><del>a</del><add place="over-text">his</add></subst> son. <space extent="3" unit="chars"/>The
 <lb/><add place="marginleft">sons</add> <del type="strikethrough">nephews</del> of a sister belong to her brother and he
@@ -787,7 +787,7 @@ among <del type="cancelled" hand="#DL" n="DL">all <choice><abbr>'</abbr><expan>t
 <lb/>as <del type="strikethrough">they are in</del> is common in this hot central region
 <lb/>Some idea may be formed <choice><abbr>` '</abbr><expan>of the</expan></choice> strength <choice><abbr>`</abbr><expan>of</expan></choice> his neck when
 <lb/>it is recollected that he bore a weight <choice><abbr>`</abbr><expan>of</expan></choice> 256<choice><abbr>lbs</abbr><expan>pounds</expan></choice></p>
-<lb/><p>The ivory <choice><abbr>wh</abbr><expan>which</expan></choice> comes from <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>east &amp; <choice><abbr>N. E.</abbr><expan>North East</expan></choice> <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName></region></placeName>
+    <lb/><p>The ivory <choice><abbr>wh</abbr><expan>which</expan></choice> comes from <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region ref="region.xml#region0025">east &amp; <choice><abbr>N. E.</abbr><expan>North East</expan></choice> <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village">Cassange</settlement></placeName></region></placeName>
 <lb/>is very much larger than any to be found further
     <lb/>South <space extent="3" unit="chars"/><del type="strikethrough"><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term></del> <persName ref="people.xml#pers0450"><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Neves</persName> had one weighing 120<choice><abbr>lbs</abbr><expan>pounds</expan></choice>
 <lb/>and this weight is by no means uncommon 
@@ -993,7 +993,7 @@ and look
 <lb/>having <choice><abbr>'</abbr><expan>the</expan></choice> whole mass <choice><abbr>`</abbr><expan>of</expan></choice> wool plaited into cords
 <lb/>all hanging <unclear cert="high">down</unclear> as far as <choice><abbr>'</abbr><expan>the</expan></choice> shoulders <space extent="2" unit="chars"/>This
 <lb/>fashion with <choice><abbr>'</abbr><expan>the</expan></choice> somewhat <term type="nationality">Egyptian</term> cast of <choice><abbr>'</abbr><expan>the</expan></choice>
-<lb/>countenance in <subst><del>L</del><add place="over-text">s</add></subst>ome parts of <placeName><region>Londa</region></placeName>
+    <lb/>countenance in <subst><del>L</del><add place="over-text">s</add></subst>ome parts of <placeName><region ref="region.xml#region0038">Londa</region></placeName>
 <lb/>reminded me strongly of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="nationality">Egyptian</term> paintings in <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/><orgName ref="orgName.xml#org0040">British Museum</orgName> <space extent="3" unit="chars"/>We had now <seg type="weather">rains 
 <lb/>every day and <choice><abbr>'</abbr><expan>the</expan></choice> sky seldom presented that

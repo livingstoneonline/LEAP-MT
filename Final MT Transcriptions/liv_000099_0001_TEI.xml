@@ -117,7 +117,7 @@
 <lb/>name - </p>  
 <lb/>   
 <lb/><p>About half of <subst><del>our</del><add place="over-text">the</add></subst> Frontier   
-<lb/>of the <placeName><region>Cape Colony</region></placeName> is occupied   
+<lb/>of the <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName> is occupied   
 <lb/>by <choice><sic>Independant</sic><corr>Independent</corr></choice> tribes named
 <lb/><orgName ref="orgName.xml#org0057">Griquas</orgName> &amp; <term type="tribe">Bechuanas</term> - who
 <lb/>have not only faithfully observed
@@ -146,7 +146,7 @@
 <lb break="no"/>-findence</w> in the <term type="nationality">English</term> sense
 <lb/>of justice may be judged
 <lb/>of by the fact that when
-    <lb/>the <placeName><region>Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName>
+    <lb/>the <placeName><region ref="region.xml#region0050">Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>attacked the town of <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>a <term type="occupation">chief</term> living <measure>10<del type="cancelled">°</del> degrees
 <lb/>of Latitude from <placeName><settlement type="city">Cape
@@ -178,17 +178,17 @@
 <lb/>a <bibl>Powder Ordinance</bibl> by
 <lb/>which ammunition to any
 <lb/>amount may be sent <del type="cancelled">into</del>
-<lb/>into the <placeName><region>Transvaal</region></placeName> Territory
+                    <lb/>into the <placeName><region ref="region.xml#region0050">Transvaal</region></placeName> Territory
 <lb/>while not an ounce <del type="strikethrough">can
 <lb/>be</del> is allowed to enter the
                     <lb/>country of the <orgName ref="orgName.xml#org0057">Griquas</orgName> &amp;
 <lb/><term type="tribe">Bechuanas</term> - This I beg you
 <lb/>to observe has no reference
-                    <lb/>to the <orgName ref="orgName.xml#org0042">Caffres</orgName> on our <placeName><region>Eastern
+                    <lb/>to the <orgName ref="orgName.xml#org0042">Caffres</orgName> on our <placeName ref="region.xml#region0030"><region>Eastern
 <lb/>Frontier<del type="strikethrough">s</del></region></placeName> - It refers entirely
 <lb/>to the West, and as there
 <lb/>is not <subst><del>a</del><add place="over-text">t</add></subst>he smallest doubt
-                    <lb/>that these <placeName><region>Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName>
+                    <lb/>that these <placeName><region ref="region.xml#region0050">Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>continue in the open violation
 <lb/>of the treaty to enslave the
 <lb/><orgName>natives</orgName> the enforcement

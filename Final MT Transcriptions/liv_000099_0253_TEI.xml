@@ -331,7 +331,7 @@ for their
 <lb/>Cathcart</persName> apparently unconscious
 <lb/>of what he was doing
 <lb/>entered into a treaty with the
-                    <lb/><placeName><region>Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName> in which
+                    <lb/><placeName><region ref="region.xml#region0050">Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName> in which
 <lb/>articles were introduced for
 <lb/>the free passage of <term type="nationality">English</term>
 <lb/><term type="occupation">traders</term> to the North<add place="inline" hand="#U2" rend="gray">,</add> and
@@ -379,7 +379,7 @@ for their
 <lb/>innocent belief of
 <lb/>thereby promoting colonial
 <lb/>interests will probably
-<lb/>lead the <placeName><region>Cape</region></placeName> community
+                    <lb/>lead the <placeName><region ref="region.xml#region0024">Cape</region></placeName> community
 <lb/><add place="marginleft"><supplied cert="high">the</supplied> chief part of <add place="below">^</add></add> which by no means
 <lb/>feels its interest to lie
 <lb/>in the degradation of the
@@ -1081,7 +1081,7 @@ In my own
 <lb/><p>The fact of the complete
 <lb/>translation of the <bibl>Bible</bibl> at a
 <lb/>station <measure>700 miles</measure> inland from
-<lb/>the <placeName><region>Cape</region></placeName> naturally suggests the
+    <lb/>the <placeName><region ref="region.xml#region0024">Cape</region></placeName> naturally suggests the
 <lb/>question as to whether it is likely
 <lb/>to be permanently useful and
 <lb/>whether <term type="faith">Christianity</term> as planted by

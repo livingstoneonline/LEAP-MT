@@ -918,7 +918,7 @@ another colony on a branch of the same tree gave
 <lb/>provisions here I may mention that the cost was
 <lb/>only about a guinea per head. <space extent="3" unit="chars"/>On crossing the 
 <lb/><placeName><geogName type="river">Lucalla</geogName></placeName> we made a detour to the South in order
-<lb/>to visit the famous rocks of <placeName><region>Pungo Andongo</region></placeName>
+    <lb/>to visit the famous rocks of <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName>
 <lb/><choice><sic>as</sic><corr>As</corr></choice> soon as we cross<del type="cancelled" >ed</del> the rivulet <placeName><geogName type="rivulet">Lotete</geogName></placeName> a change
 <lb/>in the vegetation of the country is apparent
 <lb/>We find trees identical with those to be seen south
@@ -933,11 +933,11 @@ another colony on a branch of the same tree gave
 
 <pb facs="liv_000101_0101.jpg" n="0101"/><!-- p421 Missionary, sh -->    
 <lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">98</add></fw>
-<lb/>to <placeName><region>Pungo Andongo</region></placeName>. Do you grow <term type="plant_foodstuff">wheat</term>? “O yes
-<lb/>in <placeName><region>Pungo Andongo</region></placeName>" <term type="plant_foodstuff">Grapes</term>, <term type="plant_foodstuff">Figs</term> or <term type="plant_foodstuff">Peaches</term>? "O yes
-<lb/>in <placeName><region>Pungo Andongo</region></placeName>" <space extent="3" unit="chars"/>Do you make <term type="foodstuff">butter</term>, <term type="foodstuff">cheese</term> &amp;c
+    <lb/>to <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName>. Do you grow <term type="plant_foodstuff">wheat</term>? “O yes
+    <lb/>in <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName>" <term type="plant_foodstuff">Grapes</term>, <term type="plant_foodstuff">Figs</term> or <term type="plant_foodstuff">Peaches</term>? "O yes
+    <lb/>in <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName>" <space extent="3" unit="chars"/>Do you make <term type="foodstuff">butter</term>, <term type="foodstuff">cheese</term> &amp;c
 <lb/>The uniform answer was “O yes there is abundance
-<lb/><add place="marginleft" hand="#DL" n="DL">of all these <add place="below" hand="#DL" n="DL">˄</add></add> in <placeName><region>Pungo Andongo</region></placeName>" <space extent="5" unit="chars"/>But when we arrived <subst><del>in</del><add place="over-text">he</add></subst>re
+    <lb/><add place="marginleft" hand="#DL" n="DL">of all these <add place="below" hand="#DL" n="DL">˄</add></add> in <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName>" <space extent="5" unit="chars"/>But when we arrived <subst><del>in</del><add place="over-text">he</add></subst>re
 <lb/>we found that the answers all referred to the activity
     <lb/>of one man <add place="below" hand="#DL" n="DL">^</add> <persName ref="people.xml#pers0478"><add place="above">Colonel</add> Manuel Antonio Pires</persName> <space extent="4" unit="chars"/>The
 <lb/>presence of the <term type="plant">wild grape</term> shows that the
@@ -956,7 +956,7 @@ another colony on a branch of the same tree gave
 <lb/>much reason for carefully avoiding a few drops 
 <lb/>in their <term type="foodstuff">coffee</term> <del type="strikethrough">after dinner</del> after having devoured
 <lb/>ten times the amount in the shape of <term type="foodstuff">cheese</term> at
-<lb/>dinner <space extent="9" unit="chars"/>The fort of <placeName><region>Pungo Andongo</region></placeName>
+    <lb/>dinner <space extent="9" unit="chars"/>The fort of <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName>
 <lb/>is situated in the midst of a group of curious
 <lb/>columnar shaped rocks each of which is upwards
 <lb/>of three hundred feet in height <space extent="3" unit="chars"/>They are composed
@@ -974,12 +974,12 @@ another colony on a branch of the same tree gave
 <lb/>on which similar <term type="plant">palms</term> now lie there may
 <lb/>be coal underneath this as well as under that at
 <lb/><placeName><settlement type="town">Tete</settlement></placeName> <space extent="4" unit="chars"/>The asserted existence of Petroleum
-<lb/>springs at <placeName><region>Dande</region></placeName> and near <placeName><settlement type="town">Cambambe</settlement></placeName> would
+    <lb/>springs at <placeName><region ref="region.xml#region0028">Dande</region></placeName> and near <placeName><settlement type="town">Cambambe</settlement></placeName> would
 <lb/>seem to indicate the presence of this useful mineral
 <lb/>though I am not aware of anyone having actually seen
 <lb/>a seam of coal tilted up to a surface in <placeName><country>Angola</country></placeName>
 <lb/>as we have at <placeName><settlement type="town">Tete</settlement></placeName> <space extent="4" unit="chars"/>The gigantic pillars
-<lb/>of <placeName><region>Pungo Andongo</region></placeName> have been formed by a current
+    <lb/>of <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName> have been formed by a current
 <lb/>of the sea coming from the <choice><abbr>S. S. E.</abbr><expan>South South East</expan></choice> <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>for seen
     <lb/>from the
     <lb/>top they appear
@@ -1021,8 +1021,8 @@ at a <del type="strikethrough">time</del>
 <lb/>of the tribe called <term type="tribe">Jinga</term> the original possessors of the
 <lb/>country <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-23"/><anchor xml:id="add-22"/> In former times the <term type="people">Portuguese</term> imagined
 <lb/>that this place was particularly unhealthy
-<lb/>and banishment to the black rocks of <placeName><geogName type="rocks">Pungo
-<lb/>Andongo</geogName></placeName> was thought by the <subst><del type="strikethrough" hand="#DL" n="DL"><term type="nationality">Portuguese</term></del><add place="above" hand="#DL" n="DL">their</add></subst> <term type="occupation">judges</term>
+    <lb/>and banishment to the <placeName><geogName type="rocks">black rocks of <placeName><region ref="region.xml#region0049">Pungo
+        <lb/>Andongo</region></placeName></geogName></placeName> was thought by the <subst><del type="strikethrough" hand="#DL" n="DL"><term type="nationality">Portuguese</term></del><add place="above" hand="#DL" n="DL">their</add></subst> <term type="occupation">judges</term>
 <lb/>to be a much severer sentence than transportation
 <lb/>to any part of the coast but this district is
 <lb/>now well known to be the most healthy part
@@ -1046,7 +1046,7 @@ at a <del type="strikethrough">time</del>
 <lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> in <date when="1621">1621</date> to sue for peace, and
 <lb/>astonished the <term type="occupation">Governor</term> by the readiness
 <lb/>of her answers <del type="cancelled">as much as the
-    <lb/><placeName><region>Cape</region></placeName> <orgName ref="orgName.xml#org0042">Caffres</orgName> have often done by
+    <lb/><placeName><region ref="region.xml#region0024">Cape</region></placeName> <orgName ref="orgName.xml#org0042">Caffres</orgName> have often done by
 <lb/>by their ever ready replies to our own
 <lb/>great men</del> - The <term type="occupation">Governor</term> proposed as
 <lb/>a condition of peace the payment
@@ -1056,7 +1056,7 @@ at a <del type="strikethrough">time</del>
 <lb/><supplied cert="high">"</supplied>We come to talk peace, not
 <lb/>subjection" was the ready <del type="cancelled">reply</del>
 <lb/>answer - The <term type="occupation">Governor</term> was as much
-<lb/>nonplussed as our <placeName><region><subst><del>Go</del><add place="over-text">C</add></subst>ape</region></placeName> <term type="occupation">Governors</term>
+    <lb/>nonplussed as our <placeName><region ref="region.xml#region0024"><subst><del>Go</del><add place="over-text">C</add></subst>ape</region></placeName> <term type="occupation">Governors</term>
     <lb/><add place="below">^</add> <add place="above">often</add> are when they tell the <orgName ref="orgName.xml#org0042">Caffres</orgName> "to put it
 <lb/>all down in writing and they will
 <lb/>then be able to answer them!" - She
@@ -1207,13 +1207,13 @@ at a <del type="strikethrough">time</del>
 <lb/>country <space extent="3" unit="chars"/>The people persist however in
 <lb/>spite of the most stringent enforcement of the
 <lb/>law <space extent="11" unit="chars"/>The country between
-<lb/>the <placeName><geogName type="river">Coanza</geogName></placeName> and <placeName><region>Pungo Andongo</region></placeName> is covered
+    <lb/>the <placeName><geogName type="river">Coanza</geogName></placeName> and <placeName><region ref="region.xml#region0049">Pungo Andongo</region></placeName> is covered
 <lb/>with low trees, bushes and fine pasturage
 <lb/>In <del type="strikethrough">among</del> the latter we were pleased to see
 <lb/>our old acquaintance the gaudy <term type="plant"><choice><sic>gladiolis</sic><corr>gladiolus</corr></choice></term>
 <lb/><del type="strikethrough">Amryla</del> <foreign xml:lang="la"><term type="plant">Amaryllis toxicaria</term></foreign> <foreign xml:lang="la"><term type="plant"><choice><sic>haymanthis</sic><corr>haemanthus</corr></choice></term></foreign>
 <lb/>and others in as flourishing condition as at
-<lb/>the <placeName><region>Cape</region></placeName></p>
+    <lb/>the <placeName><region ref="region.xml#region0024">Cape</region></placeName></p>
 
 </div>
 

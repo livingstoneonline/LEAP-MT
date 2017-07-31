@@ -124,7 +124,7 @@
 <lb/><add place="marginleft">and my</add> <add place="below">˄</add> <del type="cancelled">My</del> grandfather was a 
 <lb/>small farmer in <placeName><geogName type="island">Ulva</geogName></placeName>, where 
 <lb/>my father was born, <add place="below">˄</add> <add place="above">It is</add> one
-<lb/>of that cluster of the <placeName><region>Hebrides</region></placeName> 
+    <lb/>of that cluster of the <placeName><region ref="region.xml#region0031">Hebrides</region></placeName> 
     <lb/>thus described by <persName ref="people.xml#pers0514">Walter Scott</persName>
 <lb/>"And <placeName><geogName type="island">Ulva</geogName></placeName> dark and <placeName><geogName type="island">Colonsay</geogName></placeName>"
 <lb/>And all the group of islets gay
@@ -237,7 +237,7 @@ This <add place="below">˄</add> <subst><del type="cancelled">was</del><add plac
 <lb/>when the <orgName>Highlanders</orgName> <retrace hand="#DL"><add place="marginleft" hand="#U2" rend="gray"><metamark function="insertion"/>according to 
     <lb/><persName ref="people.xml#pers0376">Macaulay</persName></add></retrace>
 were much
-    <lb/>like the <placeName><region>Cape</region></placeName> <orgName ref="orgName.xml#org0042"><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> and any 
+    <lb/>like the <placeName><region ref="region.xml#region0024">Cape</region></placeName> <orgName ref="orgName.xml#org0042"><subst><del>Caffres</del><add place="over-text">Kaffirs</add></subst></orgName> and any 
 <lb/>one <add place="below">˄</add> <add place="above">it was said,</add> could escape punishment
 <lb/>for theft by presenting a share
 <lb/><metamark function="query" place="marginleft" resp="#U2" rend="gray">?</metamark> of the plunder to his <term type="occupation">chieftain</term>.
@@ -256,7 +256,7 @@ were much
 <lb/>a large cotton manufactury on the 
 <lb/>beautiful <placeName><geogName type="river"><choice><orig><subst><del>c</del><add place="over-text">C</add></subst>lyde</orig><reg>Clyde</reg></choice></geogName></placeName> above <placeName><settlement type="city">Glasgow</settlement></placeName>
 <lb/>and his sons having had the
-<lb/>best educations the <placeName><region>Hebrides</region></placeName>
+    <lb/>best educations the <placeName><region ref="region.xml#region0031">Hebrides</region></placeName>
 <lb/>afforded<add place="inline" hand="#U2" rend="gray">,</add> were gladly <choice><sic>recieved</sic><corr>received</corr></choice>
 <lb/>as <term type="occupation">clerks</term> by the proprietors,
 <lb/><orgName ref="orgName.xml#org0070">Monteith &amp; Co.</orgName> My grandfather
@@ -406,7 +406,7 @@ deserves my lasting
 <lb/>enterprise</p>
 <lb/><p>In botany I had the guidance
 <lb/>of a book on the plants of
-    <lb/><placeName><region>Lanarkshire</region></placeName> by "<persName ref="people.xml#pers0472">Patrick</persName>" <del type="cancelled">which</del>
+    <lb/><placeName><region ref="region.xml#region0035">Lanarkshire</region></placeName> by "<persName ref="people.xml#pers0472">Patrick</persName>" <del type="cancelled">which</del>
 	
 	<pb facs="liv_000099_0013.jpg" n="0013"/>
 <lb/><fw><subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">(8</add></del><add place="over-text" hand="#U1" rend="gray">11</add></subst></fw>
@@ -682,7 +682,7 @@ and
 
                 <pb facs="liv_000099_0020.jpg" n="0020"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">18</add> <add place="inspace" hand="#U2" rend="gray right">(15</add></fw>
-<lb/>from the <placeName><region>Cape</region></placeName> to turn my
+    <lb/>from the <placeName><region ref="region.xml#region0024">Cape</region></placeName> to turn my
 <lb/>attention to the North Without
 <lb/>waiting longer at <placeName><settlement type="village">Kuruman</settlement></placeName>
 <lb/>than was necessary to recruit
