@@ -349,9 +349,9 @@ make a very agreeable dish
 <lb/>village there are exceptions
 <lb/>So many came about our
 <lb/>half deserted house at
-<lb/><space extent="3" unit="chars"/> <placeName><settlement type="village">Chonuane</settlement></placeName> while we
+    <lb/><space extent="3" unit="chars"/> <placeName><settlement type="village" ref="settlement.xml#sett0042">Chonuane</settlement></placeName> while we
 <lb/>were in the act of removing
-<lb/>to <placeName><settlement type="village">Kolobeng</settlement></placeName> that the <orgName>natives</orgName>
+    <lb/>to <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> that the <orgName>natives</orgName>
     <lb/>who remained with <persName ref="people.xml#pers0373">M<hi rend="sup">rs</hi> <choice><abbr>L-</abbr><expan>Livingstone</expan></choice></persName>
 <lb/>were tempted to stir out of
 <lb/>doors in the evenings</add></p>
@@ -801,7 +801,7 @@ even<add place="inline" hand="U3" rend="red">,</add> but try to draw
 <lb/>kills him - One <retrace hand="#U3" rend="red"><add place="below" hand="#DL">^</add></retrace> <add place="above"><hi rend="red underline" resp="#U3">we found</hi></add> was killed <add place="above"><del type="cancelled" hand="#U3" rend="red">dead</del></add> <del type="cancelled" hand="#U3" rend="red"><metamark function="insertion"/></del>
 <lb/>thus<add place="inline" hand="#U3" rend="red">;</add> <metamark function="reorder" spanTo="#meta-118"/>on the <placeName><geogName type="river">Leeambye</geogName></placeName><anchor xml:id="meta-118"/> and
 <lb/>another which died near
-<lb/><placeName><settlement type="town"><choice><sic>Seshsheke</sic><corr>Sesheke</corr></choice></settlement></placeName> had all the
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0086"><choice><sic>Seshsheke</sic><corr>Sesheke</corr></choice></settlement></placeName> had all the
 <lb/>appearance of having
 <lb/>got his death blow
 <lb/>from a <term type="animal">buffalo</term> - It is
@@ -915,7 +915,7 @@ When in
 <lb/>nasty things and we seem
 <lb/>to have an instinctive feeling
 <lb/>against them - In making the
-<lb/>door for our <placeName><settlement type="village">Mabotsa</settlement></placeName> <metamark function="ed-mark">[</metamark>house
+    <lb/>door for our <placeName><settlement type="village" ref="settlement.xml#sett0074">Mabotsa</settlement></placeName> <metamark function="ed-mark">[</metamark>house
 <lb/><add place="marginleft"><del type="cancelled"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-122"/><unclear cert="low">camouflage</unclear>
     <lb/><add place="inline" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> this word.</note><anchor xml:id="meta-122"/></add></del></add>
 I happened to leave a small
@@ -947,7 +947,7 @@ I happened to leave a small
 <lb/><space dim="vertical" extent="3" unit="lines"/>    
                 <lb/><p><add place="inline" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0572">Wilkes</persName></note></add> Some of the <term type="animal">serpents</term> are
 <lb/>particularly venomous. 
-<lb/><w><choice><sic><hi rend="double-underline">o</hi>ne</sic><corr>One</corr></choice></w> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">was</add> killed at <placeName><settlement type="village">Kolobeng</settlement></placeName>
+                    <lb/><w><choice><sic><hi rend="double-underline">o</hi>ne</sic><corr>One</corr></choice></w> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">was</add> killed at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
 <lb/>of a dark brown, nearly
 <lb/>black colour, 8 <choice><abbr>ft</abbr><expan>feet</expan></choice> 3 inches
 <lb/><add place="marginleft"><note><del type="strikethrough"><term type="animal">pica Kolu</term></del></note></add> long - (<term type="animal">pica kholu</term>)<add place="below">(</add>.<add place="below">)</add><!-- the full stop is circled.JL --> <add place="inline" hand="#U3" rend="red">This species</add> is so
@@ -984,7 +984,7 @@ I happened to leave a small
 <lb/>mischief in the same way - 
 <lb/><add place="marginleft"><metamark function="insertion"/><del type="strikethrough" hand="#U3" rend="red">The head of</del>
 <lb/><hi rend="double-underline">t</hi>he <add place="marginleft" hand="#U3" rend="red"><metamark function="insertion"/>one we killed at
-    <lb/><placeName><settlement type="village">Kolobeng</settlement></placeName></add>
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName></add>
 <del type="strikethrough" hand="#U3" rend="red">individual
     <lb/>mentioned being
     <lb/>cut off</del> continued

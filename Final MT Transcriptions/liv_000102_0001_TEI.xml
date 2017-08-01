@@ -193,7 +193,7 @@
     <lb/><add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/><del type="cancelled">Kangesi</del>
     <lb/>the <placeName><geogName type="river">Kanesi</geogName></placeName> &amp;
     <lb/><placeName><geogName type="river">Fombeji</geogName></placeName></add> 
-    before reaching <placeName><settlement type="village">Cabango</settlement></placeName> a village situated on <choice><abbr>'</abbr><expan>the</expan></choice>
+    before reaching <placeName><settlement type="village" ref="settlement.xml#sett0030">Cabango</settlement></placeName> a village situated on <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/>banks of <choice><abbr>'</abbr><expan>the</expan></choice> <del type="strikethrough">river</del> <placeName><geogName type="river">Chihombo</geogName></placeName> <space extent="5" unit="chars"/> The country
 <lb/>was becoming more densely peopled as we <w>pro-
 <lb break="no"/>ceded</w> but it bears no population compared to
@@ -229,7 +229,7 @@
 <lb/>when these starchy substances are eaten along
 <lb/>with a proportion of <term type="plant_foodstuff">earthnuts</term> <del type="cancelled">pu</del> <choice><abbr>wh</abbr><expan>which</expan></choice> <add place="below">^</add> <add place="above">contain</add> <del type="strikethrough"><unclear cert="low">sweet</unclear>-oil</del>
 <lb/><del type="strikethrough"><choice><abbr>`</abbr><expan>of</expan></choice> <unclear cert="low">essence</unclear> is made</del> <add place="marginleft">a considerable quantity of oil</add> no injurious effects follow</p>               
-<lb/><p>While on <choice><abbr>'</abbr><expan>the</expan></choice> way to <placeName><settlement type="village">Cabango</settlement></placeName> we saw fresh tracks
+                <lb/><p>While on <choice><abbr>'</abbr><expan>the</expan></choice> way to <placeName><settlement type="village" ref="settlement.xml#sett0030">Cabango</settlement></placeName> we saw fresh tracks
 <lb/><choice><abbr>`</abbr><expan>of</expan></choice> <term type="animal">elands</term> the first we had <subst><del type="strikethrough">seen</del><add place="above">observed</add></subst> in this country <supplied cert="high">-</supplied>
 <lb/>a poor little <orgName>slave</orgName> girl <del type="strikethrough">belonging to</del> being sick turned
 <lb/>aside in <choice><abbr>'</abbr><expan>the</expan></choice> path and though we waited all <choice><abbr>'</abbr><expan>the</expan></choice> next day
@@ -253,7 +253,7 @@
 <lb/>might plunder him of all and leave him quite
 <lb/>in the lurch - he could only hope to manage
 <lb/>them after getting all <choice><abbr>'</abbr><expan>the</expan></choice> remaining good<supplied cert="high">s</supplied> safely into
-<lb/>a house in <placeName><settlement type="village">Cabango</settlement></placeName> <space extent="3" unit="chars"/> then he might deduct
+                    <lb/>a house in <placeName><settlement type="village" ref="settlement.xml#sett0030">Cabango</settlement></placeName> <space extent="3" unit="chars"/> then he might deduct
 <lb/>something from their pay for what they had purloined</p></div>    
 	    
 
@@ -268,7 +268,7 @@
 <lb break="no"/>stone</w></persName>'s <bibl>Travels in
 <lb/><placeName><bloc>Africa</bloc></placeName></bibl> given by the
     <lb/>author to <persName ref="people.xml#pers0354">D<hi rend="sup underline">r</hi> Keith</persName>
-<lb/>of <placeName><settlement type="town">Hamilton</settlement></placeName> - </add></p>
+    <lb/>of <placeName><settlement type="town" ref="settlement.xml#sett0057">Hamilton</settlement></placeName> - </add></p>
                  
         </div>
         </body>

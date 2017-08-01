@@ -145,14 +145,14 @@
 <lb/>a residence but now the 
 <lb/>daughter was living <measure>twelve
 <lb/>days</measure> to the North - at
-<lb/><placeName><settlement type="town">Naliele</settlement></placeName> - <del type="strikethrough">When</del> We were <subst><del type="strikethrough">now</del><add place="above"><del type="strikethrough" hand="#U3" rend="red">then</del></add></subst>
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> - <del type="strikethrough">When</del> We were <subst><del type="strikethrough">now</del><add place="above"><del type="strikethrough" hand="#U3" rend="red">then</del></add></subst>
 <lb/><add place="marginleft" hand="#U3" rend="red">therefore</add> obliged to remain <choice><sic>untill</sic><corr>until</corr></choice> a     
 <lb/>message came from her  
 <lb/><add place="marginleft">and when it did she</add> <subst><del>giving</del><add place="over-text">gave</add></subst> us perfect liberty to
 <lb/>visit any part of the
     <lb/>country we chose - <persName ref="people.xml#pers0466">Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName>
 <lb/>and I therefore proceeded
-<lb/><measure>130 miles</measure> <add place="below">^</add> <add place="above">to the <choice><abbr>N. E.</abbr><expan>North East</expan></choice></add> to <placeName><settlement type="town">Sesheke</settlement></placeName> and
+    <lb/><measure>130 miles</measure> <add place="below">^</add> <add place="above">to the <choice><abbr>N. E.</abbr><expan>North East</expan></choice></add> to <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> and
 <lb/>in the end of <date when="1851-06">June 1851</date> were
 <lb/>rewarded by <subst><del>a</del><add place="over-text">t</add></subst>he discovery
 <lb/>of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> in the
@@ -347,7 +347,7 @@ and thus prevent
 <lb/>As there was no hope <del type="strikethrough"  hand="#U3" rend="red">of</del>
     <lb/>of the <orgName ref="orgName.xml#org0038">Boers</orgName> allowing the
 <lb/>peaceable instruction of
-<lb/>the <orgName>natives</orgName> at <placeName><settlement type="village">Kolobeng</settlement></placeName>
+    <lb/>the <orgName>natives</orgName> at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
 <lb/>I at once resolved to <del type="cancelled">take</del>   
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red"><unclear cert="medium">save</unclear></del><add place="above" hand="#U3" rend="red">save</add></subst> my family from
 
@@ -365,7 +365,7 @@ and thus prevent
 <lb/>by a path to either the 
 <lb/>East or West coast<del type="cancelled" hand="#U3" rend="red">s</del> -
 <lb/>This resolution led me down
-<lb/>to <placeName><settlement type="city">Cape Town</settlement></placeName> in <date when="1852-04"><subst><del>18</del><add place="over-text">A</add></subst>pril 1852</date>
+    <lb/>to <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape Town</settlement></placeName> in <date when="1852-04"><subst><del>18</del><add place="over-text">A</add></subst>pril 1852</date>
 <lb/><add place="marginleft">being</add> the first time during eleven
 <lb/>years that I had revisited
 <lb/>the scenes of civilization
@@ -671,8 +671,8 @@ with
 <lb/>we can only hope for a
 <lb/>permanent peace when
 <lb/>we have depopulated all the
-<lb/>country between <placeName><settlement type="town"><choice><orig>Graham's
-<lb/>town</orig><reg>Grahamstown</reg></choice></settlement></placeName> and <placeName><settlement type="city"><choice><orig>Timbuctu</orig><reg>Timbuktu</reg></choice></settlement></placeName> - And
+    <lb/>country between <placeName><settlement type="town" ref="settlement.xml#sett0053"><choice><orig>Graham's
+        <lb/>town</orig><reg>Grahamstown</reg></choice></settlement></placeName> and <placeName><settlement type="city" ref="settlement.xml#sett0092"><choice><orig>Timbuctu</orig><reg>Timbuktu</reg></choice></settlement></placeName> - And
 <lb/>as we have taken so long and
 <lb/>been at so much expense 
 <lb/>with such small progress
@@ -1097,8 +1097,8 @@ with
 <lb/>Having left <placeName><country>England</country></placeName> in <date when="1846">1846</date> with
 <lb/>instructions from the <orgName>London Missionary
 <lb/>Society</orgName> to endeavour to carry <term type="faith">Christianity</term>
-<lb/>into the countries North or <placeName><settlement type="village">Kuruman</settlement></placeName>
-<lb/>or <placeName><settlement type="village">Lattakoo</settlement></placeName> then their farthest station
+    <lb/>into the countries North or <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
+    <lb/>or <placeName><settlement type="village" ref="settlement.xml#sett0065">Lattakoo</settlement></placeName> then their farthest station
     <lb/>inland from the <placeName><region ref="region.xml#region0024">Cape</region></placeName> <add place="marginleft"><metamark function="insertion"/><supplied cert="high">I</supplied> possessed
     <lb/><supplied cert="high">an</supplied> intense desire<!-- the binding is obscuring text in the left hand margin. The missing words have been supplied here by editorial judgement.JL-->
     <lb/><supplied cert="high">to</supplied> become a
@@ -1140,7 +1140,7 @@ with
 <lb/>sent levies of <term type="occupation">volunteers</term>
     <lb/>and even the <orgName ref="orgName.xml#org0058">Hottentots</orgName>
 <lb/>turned out by hundreds
-<lb/>The Shopocracy of <metamark function="let-stand" spanTo="#meta-77"/><placeName><settlement type="town"><del type="cancelled"><choice><orig>Graham's
+    <lb/>The Shopocracy of <metamark function="let-stand" spanTo="#meta-77"/><placeName><settlement type="town" ref="settlement.xml#sett0053"><del type="cancelled"><choice><orig>Graham's
 <lb/>Town</orig><reg>Grahamstown</reg></choice></del></settlement></placeName><anchor xml:id="meta-77"/> to whom every returned
 <lb/><term type="occupation">officer</term> points <del type="cancelled">out</del> as
 <lb/>those who alone are <choice><sic>benefittd</sic><corr>benefitted</corr></choice>
@@ -1208,7 +1208,7 @@ with
 <lb/><add place="marginleft">deeply</add> implicated in the <add place="below">^</add> <add place="above">late</add> rebellion &amp;
 <lb/>war - and as he was known
 <lb/><subst><del>as</del><add place="over-text">to</add></subst> be connected with some
-<lb/><term type="occupation">missionaries</term> at the <placeName><settlement type="town">Kat river</settlement></placeName><!-- a reference to the Kat River settlement, rather than simply a reference to the river.JL -->
+            <lb/><term type="occupation">missionaries</term> at the <placeName><settlement type="town" ref="settlement.xml#sett0061">Kat river</settlement></placeName><!-- a reference to the Kat River settlement, rather than simply a reference to the river.JL -->
 <lb/>his trial was loudly demanded
 
 
@@ -1219,7 +1219,7 @@ with
 <lb/>most convincing way the fullest
 <lb/>evidence of thier complicity -
 <lb/>The trial took place in
-<lb/><placeName><settlement type="city">Cape town</settlement></placeName> while I was there
+            <lb/><placeName><settlement type="city" ref="settlement.xml#sett0038">Cape town</settlement></placeName> while I was there
 <lb/>in <date when="1852-05">May 1852</date> - And as I felt
 <lb/>interested in seeing <add place="below">^</add> <add place="above">the</add> judicial
 <lb/>forms <del type="cancelled">after</del> of civilized life
@@ -1345,7 +1345,7 @@ his forty years of
     <lb/>upright man <persName ref="person.xml#pers0545">Sir Andries
 <lb/>Stockenstrom</persName> as an advanced
 <lb/><choice><sic>gaurd</sic><corr>guard</corr></choice> against the <orgName><subst><del>C</del><add place="over-text">K</add></subst>affirs</orgName>
-<lb/>on <del type="cancelled">a</del>the <placeName><settlement type="town">Kat river</settlement></placeName><!-- probably a reference to the Kat River settlement rather than the river.JL --> - And
+    <lb/>on <del type="cancelled">a</del>the <placeName><settlement type="town" ref="settlement.xml#sett0061">Kat river</settlement></placeName><!-- probably a reference to the Kat River settlement rather than the river.JL --> - And
 <lb/>were previous to the war
 <lb/>most unjustly deprived of
 <lb/>their arms and some of
@@ -1377,11 +1377,11 @@ on the breaking out
 <lb/>of any <term type="occupation">missionary</term> of 
 <lb/>any sect whatever Nor
 <lb/>was that now wanted
-<lb/>for the"<bibl><placeName><settlement type="town"><choice><orig>Graham's town</orig><reg>Grahamstown</reg></choice></settlement></placeName>
+    <lb/>for the"<bibl><placeName><settlement type="town" ref="settlement.xml#sett0053"><choice><orig>Graham's town</orig><reg>Grahamstown</reg></choice></settlement></placeName>
 <lb/>Journal</bibl>" at once boldly
 <lb/>affirmed that the case was simply this - "<hi rend="underline"><quote>the
 <lb/><term type="nationality">British</term> <term type="occupation">settlers</term> versus
-<lb/>the <del type="cancelled">Cat</del> <placeName><settlement type="town">Kat river settlement</settlement></placeName></quote>"!</hi>
+    <lb/>the <del type="cancelled">Cat</del> <placeName><settlement type="town" ref="settlement.xml#sett0061">Kat river settlement</settlement></placeName></quote>"!</hi>
 <lb/>This frank avowal <choice><orig>shews</orig><reg>shows</reg></choice>
 <lb/>how men otherwise estimable
 
@@ -1416,7 +1416,7 @@ on the breaking out
 <lb/><add place="marginleft">and of</add> <add place="below">^</add> <del type="cancelled">by</del> the blood of the <term type="nationality">English</term>
 <lb/><term type="occupation">soldier</term> - The idea
 <lb/>prevailed extensively that
-<lb/>the <placeName><settlement type="town">Kat River Settlement</settlement></placeName>
+    <lb/>the <placeName><settlement type="town" ref="settlement.xml#sett0061">Kat River Settlement</settlement></placeName>
     <lb/>belonged to the <orgName ref="orgName.xml#org0064">London
 <lb/>Missionary Society</orgName> <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-79"/>This was asserted
     <lb/>even by a
@@ -1443,8 +1443,8 @@ Hence
 <w><subst><del>H</del><add place="over-text">h</add></subst>ad</w> <del type="cancelled">it</del> <add place="below">^</add> <add place="above">the unquestionable fact</add> been known that the
 <lb/>Society in question never
 <lb/>possessed an inch of ground
-<lb/>at that settlement<!-- the Kat river settlement --> - The <del type="strikethrough"><unclear cert="medium">wars</unclear></del>
-    <lb/>lands of <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-231"/><choice><sic>of</sic><corr/></choice> <orgName ref="orgName.xml#org0058">Hottentots</orgName> on<anchor xml:id="meta-231"/></add> the <placeName><settlement type="town">Kat River</settlement></placeName> belonged
+    <lb/>at that <placeName><settlement ref="settlement.xml#sett0061">settlement</settlement></placeName><!-- the Kat river settlement --> - The <del type="strikethrough"><unclear cert="medium">wars</unclear></del>
+    <lb/>lands of <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-231"/><choice><sic>of</sic><corr/></choice> <orgName ref="orgName.xml#org0058">Hottentots</orgName> on<anchor xml:id="meta-231"/></add> the <placeName><settlement type="town" ref="settlement.xml#sett0061">Kat River</settlement></placeName> belonged
 <lb/>to the <orgName><subst><del>g</del><add place="over-text">C</add></subst>rown</orgName> and the location
 <lb/>was formed for political
 <lb/>purposes and with exactly
@@ -1475,7 +1475,7 @@ had in view</p>
 <lb/>remained in the field often
 <lb/>without pay and returned
 <lb/>to their families in rags
-<lb/>while the <placeName><settlement type="town"><choice><orig>Grahams town</orig><reg>Grahamstown</reg></choice></settlement></placeName>
+    <lb/>while the <placeName><settlement type="town" ref="settlement.xml#sett0053"><choice><orig>Grahams town</orig><reg>Grahamstown</reg></choice></settlement></placeName>
 <lb/><term type="occupation">levies</term> played at soldiering 
 <lb/><space extent="18" unit="chars"/>only
 
@@ -1588,10 +1588,10 @@ had in view</p>
 <lb/>to give a sketch extended from
 <lb/>the <placeName><geogName type="cape">Cape of Good Hope</geogName></placeName>, the southern
 <lb/>extremity of the continent, to
-<lb/><placeName><settlement type="city"><choice><orig>St Paul di Loando</orig><reg>Luanda</reg></choice></settlement></placeName>, the capital
+    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>St Paul di Loando</orig><reg>Luanda</reg></choice></settlement></placeName>, the capital
     <lb/>of <del type="cancelled"><placeName><region ref="region.xml#region0036"><choice><orig>Loando</orig><reg>Luanda</reg></choice></region></placeName></del> <add place="below">^</add> <add place="marginleft"><placeName><country>Angola</country></placeName></add> on the <placeName><region>West Coast</region></placeName>, 
 <lb/>and thence <choice><sic>accross</sic><corr>across</corr></choice> the continent
-<lb/>in an oblique direction to <placeName><settlement type="town"><choice><orig>Quilimane</orig><corr>Quelimane</corr></choice></settlement></placeName>
+    <lb/>in an oblique direction to <placeName><settlement type="town" ref="settlement.xml#sett0083"><choice><orig>Quilimane</orig><corr>Quelimane</corr></choice></settlement></placeName>
 <lb/>in <placeName><region>Eastern Africa</region></placeName> - They were
 <lb/>commenced in the beginning
 <lb/>of <date when="1852-06">June 185<subst><del><unclear cert="medium">1</unclear></del><add place="over-text">2</add></subst></date> and terminated

@@ -154,7 +154,7 @@ and where in
 <lb/>of the habits of wild animals</p>
 <lb/><p>The place where we first
 <lb/>settled with the <term type="tribe">Bakwena</term> is called
-<lb/><placeName><settlement type="village">Chonuane</settlement></placeName>, and it happened to 
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0042">Chonuane</settlement></placeName>, and it happened to 
 <lb/>be visited <add place="below">^</add> <add place="above">during</add> the first year of our
 <lb/>residence there by one of those
 <lb/><seg type="weather">periodical droughts</seg> which occur
@@ -182,7 +182,7 @@ and where in
 <lb/>and irrigate their lands - This
 <lb/>suggestion was immediately adopted
 <lb/>and soon the whole tribe was
-<lb/>on the move to <placeName><settlement type="village">Kolobeng</settlement></placeName> about
+    <lb/>on the move to <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> about
 <lb/><measure>40 miles</measure> distant - The experiment
 <lb/>succeeded admirably during the first
 <lb/>year - The <term type="tribe">Bakwains</term> made the canal
@@ -191,7 +191,7 @@ and where in
 <lb/>square house for their <term type="occupation">chief</term> - They
 <lb/>also built their own school under
 <lb/>my superintendance - Our own house
-<lb/>at <placeName><settlement type="village">Kolobeng</settlement></placeName> was the third which
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> was the third which
 <lb/>I had reared with my own hands
 <lb/><del type="strikethrough">but I had then become a jack of all
 <lb/>trades</del> - A <orgName>native</orgName> <term type="occupation">smith</term> taught me
@@ -477,7 +477,7 @@ and where in
 <lb/>and of course the <seg type="weather">rain</seg> is mine -
 <lb/>It was I who made it for the
 <lb/><term type="tribe">Bakwains</term> for many years
-<lb/>when they were at <placeName><settlement type="village">Shokwane</settlement></placeName> <retrace hand="#DL"><add place="inline" rend="gray" hand="#U2">,</add></retrace>
+    <lb/>when they were at <placeName><settlement type="village" ref="settlement.xml#sett0087">Shokwane</settlement></placeName> <retrace hand="#DL"><add place="inline" rend="gray" hand="#U2">,</add></retrace>
 <lb/>Through my wisdom their
 <lb/>women become fat and shining 
 <lb/>Ask them they will tell you the
@@ -549,7 +549,7 @@ and where in
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right">46</add> <add place="inspace" hand="#U1" rend="gray right">49</add></fw>
 <lb/>making rain - and we follow
 <lb/>in their footsteps - You who
-<lb/>send to <placeName><settlement type="village">Kuruman</settlement></placeName> for <term type="plant_foodstuff">corn</term>
+    <lb/>send to <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> for <term type="plant_foodstuff">corn</term>
 <lb/>and irrigate your garden
 <lb/>may do without rain, <hi rend="underline">we</hi>
 <lb/>cannot manage in that way -
@@ -654,7 +654,7 @@ Well I always thought
 <lb/>of the large game - <term type="animal">buffaloes</term>, <term type="animal">zebras</term>
 <lb/><term type="animal">giraffes</term>, <term type="animal">tsessebes</term>, <term type="animal">kamas</term>, <term type="animal">gnus</term>
 <lb/><term type="animal">pallas</term>, <term type="animal">Rhinoceroses</term> &amp;c. congregated
-<lb/>at some fountains near <placeName><settlement type="village">Kolobeng</settlement></placeName>
+    <lb/>at some fountains near <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
 <lb/>and <add place="below">^</add> <add place="above">the trap called</add> <foreign xml:lang="und">hopo</foreign><del type="strikethrough">s</del> <subst><del>were</del><add place="over-text">was</add></subst> constructed in
 <lb/>the lands <del type="cancelled">ajacent</del> <retrace hand="#DL"><add place="above" rend="gray" hand="#U2">adjacent</add></retrace> for their destruction 
 <lb/>The <foreign xml:lang="und">Hopo</foreign> consists of two hedges
@@ -689,7 +689,7 @@ Well I always thought
 <lb/>rush into the pit till that is full
 <lb/>of a living mass - Some escape
 <lb/>by <unclear cert="medium">rushing</unclear> over the others as
-<lb/>a <placeName><settlement type="town">Smithfield</settlement></placeName> market <term type="animal">dog</term> does
+<lb/>a <placeName><settlement type="town" ref="settlement.xml#sett0088">Smithfield</settlement></placeName> market <term type="animal">dog</term> does
 <lb/>over <retrace hand="#DL"><add place="above" rend="gray" hand="#U2">the</add></retrace> <term type="animal">sheep</term> <add place="inline" rend="gray" hand="#U2"><subst><del hand="#DL">^</del><add place="over-text" hand="#DL">s</add></subst></add> <add place="above" rend="gray" hand="#U2">s <retrace hand="#DL">backs</retrace></add> It is a frightful scene
 <lb/>The men wild with excitement spear
 <lb/>the lovely animals with mad delight

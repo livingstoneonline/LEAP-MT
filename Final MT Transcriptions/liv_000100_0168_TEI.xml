@@ -103,7 +103,7 @@
                 <pb facs="liv_000100_0168.jpg" n="0168"/>                
                 <lb/><p><fw n="heading_XXIII">XXIII <add place="inspace" rend="gray left" hand="#U2"><note><subst><del type="strikethrough" rend="gray" hand="#U2"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="inspace above" rend="gray left" hand="#U2"><persName ref="people.xml#pers0482">Powell</persName></add></subst></note></add> <add place="inspace" hand="#U1" rend="gray right">167</add></fw>
 <lb/><add place="marginleft" rend="gray" hand="#U2">We - </add> entered at <placeName><geogName type="river">Sanshuré</geogName></placeName> and another<!-- p227, Missionary, sh -->
-<lb/>at <placeName><settlement type="town">Sesheke</settlement></placeName> - But the lands
+                    <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> - But the lands
 <lb/><metamark function="unknown" place="marginleft"  rend="gray" resp="#U2"/> both East and West of the
 <lb/><placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName> are free from
 <lb/><add place="marginleft" rend="gray" hand="#U2"><seg rend="vertical"><note>folio 155</note></seg></add> the <add place="below">^</add> <add place="marginleft">insect</add> plague - There however<!-- insect is Tsetse, sh -->
@@ -113,7 +113,7 @@
 <lb/>well armed - The <term type="tribe">Mambari</term>
 <lb/>had informed me <del type="cancelled">too</del> that
 <lb/>many <term type="nationality">English</term> lived at
-<lb/><placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> so I prepared to
+                    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> so I prepared to
 <lb/>go thither The prospect of
 <lb/>meeting with countrymen
 <lb/>seemed to overbalance the toils
@@ -187,7 +187,7 @@
 <lb/>unless the <term type="occupation">missionaries</term> should
 <lb/>descend to the level of the
 <lb/><del type="strikethrough">natives</del> <term type="tribe">Makololo</term> for even
-<lb/>at <placeName><settlement type="village">Kolobeng</settlement></placeName> we found that
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> we found that
 <lb/><term type="occupation">traders</term> demanded three or four
 <lb/>times the price of the articles
 <lb/>we needed and expected us
@@ -195,7 +195,7 @@
 <lb/>letting us have the articles
 <lb/><del type="cancelled">besides</del> at all - </p>
 <lb/><p>The three men whom I had
-<lb/>brought from <placeName><settlement type="village">Kuruman</settlement></placeName> had
+    <lb/>brought from <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> had
 <lb/>frequent relapses of the <term type="ailment">fever</term>
 <lb/>so finding that instead of
 <lb/>serving me I had to wait
@@ -245,7 +245,7 @@
 <lb/>book was a volume of my
 <lb/>Journal - and as I was
 <lb/>detained longer than <subst><del type="cancelled">My</del><add place="over-text">I</add></subst> expected
-<lb/>at <placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> the book <del type="strikethrough">was</del> with
+    <lb/>at <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> the book <del type="strikethrough">was</del> with
 <lb/>a letter was delivered to a <term type="occupation">trader</term>
 <lb/>and I have been unable to
 <lb/>trace it - I regret this now
@@ -391,7 +391,7 @@ were
 <lb/>20lbs of beads worth <del type="cancelled"><unclear cert="high">almost</unclear></del>
 <lb/>forty shillings which still remained
 <lb/>of the stock I brought from
-<lb/><del type="cancelled">the</del> <placeName><settlement type="city">Cape Town</settlement></placeName> <add place="marginleft"><metamark function="insertion"/>a small
+    <lb/><del type="cancelled">the</del> <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape Town</settlement></placeName> <add place="marginleft"><metamark function="insertion"/>a small
     <lb/><choice><sic>gipsey</sic><corr>gipsy</corr></choice> tent
     <lb/>just sufficient
     <lb/>to sleep in
@@ -429,7 +429,7 @@ As I had always
 <lb/>though few were the best of their kind
 <lb/>A sextant <del type="strikethrough">made</del> by the famed
     <lb/>makers <orgName ref="orgName.xml#org0084"><persName>Troughton</persName> and <persName>Sims</persName></orgName> of
-<lb/><placeName><settlement type="street">Fleet Street</settlement></placeName> - A chronometer watch
+    <lb/><placeName><settlement type="street" ref="settlement.xml#sett0050">Fleet Street</settlement></placeName> - A chronometer watch
 <lb/>with a stop to the second's hand - an
 <lb/>admirable contrivance for enabling
 <lb/>a person to take the exact time of
@@ -465,7 +465,7 @@ As I had always
                 <pb facs="liv_000100_0177.jpg" n="0177"/>   
 <lb/><fw><add place="inspace" rend="gray right" hand="#U1">176</add></fw>
 <lb/><p><date when="1853-11-11">11<hi rend="sup underline">th</hi> of November 1853</date> Left the
-<lb/>town of <placeName><settlement type="town">Linyanti</settlement></placeName> accompanied
+    <lb/>town of <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> accompanied
 <lb/>by <persName ref="people.xml#pers0519">Sekeletu</persName> and his principal
 <lb/>men to embark on the <placeName><geogName type="river">Chobe</geogName></placeName>
 <lb/>The <term type="occupation">chief</term> came to the river in order
@@ -644,7 +644,7 @@ As I had always
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>14</note></add> canal - We spent 42<choice><orig>½</orig><reg>1/2</reg></choice> hours
 <lb/>paddling at the rate of <measure>5 miles
 <lb/>an hour</measure> in coming from
-<lb/><placeName><settlement type="town">Linyanti</settlement></placeName> to the confluence
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> to the confluence
 <lb/>There we found a dyke of
 <lb/><choice><sic>porphoritic</sic><corr>porphyritic</corr></choice> trap lying accross
 <lb/>the <placeName><geogName type="river">Leeambye</geogName></placeName></p>
@@ -768,7 +768,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>round and began to ascend the
 <lb/><placeName><geogName type="river">Leeambye</geogName></placeName> and on the <date when="1853-11-19">19<hi rend="sup">th</hi> <choice><abbr>Nov<hi rend="sup">r</hi></abbr><expan>November</expan></choice></date>
 <lb/>again reached the town of
-<lb/><placeName><settlement type="town">Sesheke</settlement></placeName> - It stands on the
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> - It stands on the
 <lb/><add place="marginleft">North</add> bank of the river and contains
 <lb/>a large population of <term type="tribe">Makalaka</term>
     <lb/>under <persName ref="people.xml#pers0420">Moriantsane</persName> brother
@@ -810,7 +810,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>him home - This open defiance
 <lb/>of authority was not resented
     <lb/>by <persName ref="people.xml#pers0420">Moriantsane</persName> but referred
-<lb/><del type="cancelled">to</del> <metamark function="insertion"/><anchor xml:id="reorder-10"/> at <del type="strikethrough"><add place="below">^</add></del> <placeName><settlement type="town">Linyanti</settlement></placeName> <metamark function="reorder" spanTo="#meta-27"/><seg corresp="#reorder-10">to <persName ref="people.xml#pers0519">Sekeletu</persName></seg><anchor xml:id="meta-27"/></p>
+    <lb/><del type="cancelled">to</del> <metamark function="insertion"/><anchor xml:id="reorder-10"/> at <del type="strikethrough"><add place="below">^</add></del> <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> <metamark function="reorder" spanTo="#meta-27"/><seg corresp="#reorder-10">to <persName ref="people.xml#pers0519">Sekeletu</persName></seg><anchor xml:id="meta-27"/></p>
 <lb/>
 <lb/><p rend="no-indent">A circumstance which happened
 <lb/>here when I was present
@@ -821,7 +821,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>mind</p>
 <lb/><space dim="vertical" extent="3" unit="lines"/>
 <lb/><p>A stranger having visited
-<lb/><placeName><settlement type="town">Sesheke</settlement></placeName> for the purpose of<!-- looks like a word or letter was cropped here at edge of page, sh -->
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> for the purpose of<!-- looks like a word or letter was cropped here at edge of page, sh -->
 <lb/><del type="cancelled">pa</del> barter was robbed by
 <lb/>one of the <term type="tribe">Makalaka</term> of
 <lb/>most of his goods - The
@@ -902,7 +902,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>May he have plenty of <term type="foodstuff">flesh</term> in
 <lb/>this journey &amp;c.&amp;c." </p>                
 <lb/><p>I gave many public
-<lb/>addresses to the people of <placeName><settlement type="town">Sesheke</settlement></placeName>
+    <lb/>addresses to the people of <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName>
 <lb/>under the outspread <term type="plant">camel
 <lb/>thorn tree</term> which serves as
 <lb/><add place="marginleft">a shade to</add> the Kotla on the high bank of
@@ -980,7 +980,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>river by sending messages
 <lb/>before us to prepare
 <lb/>food - <add place="marginleft"><metamark function="insertion"/>We took <del type="cancelled">from
-    <lb/><placeName><settlement type="town">Sesheke</settlement></placeName> fou</del>
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> fou</del>
     <lb/>four <term type="animal"><choice><sic>Elephants</sic><corr>Elephant's</corr></choice></term>
     <lb/>tusks with
     <lb/>us belonging

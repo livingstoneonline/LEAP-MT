@@ -317,13 +317,13 @@
 <lb/>by <term type="occupation">anatomists</term></p>
 <lb/>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> Our course at this time led<!-- p208 Misionary, sh -->
-<lb/>us to part above <placeName><settlement type="town">Sesheke</settlement></placeName>
+    <lb/>us to part above <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName>
     <lb/>called <placeName><region ref="region.xml#region0034">Katonga</region></placeName> where <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">there is</add> a village
 <lb/>belonging to a <term type="tribe">Bashubia</term> man
     <lb/>named <persName ref="people.xml#pers0521">Sekhosi</persName> <del type="strikethrough" rend="red" hand="#U3">exists</del> - <del type="strikethrough">The</del>
 <lb/><metamark function="ed-mark" place="marginleft" rend="red" resp="#U3">X</metamark> <del type="cancelled">river is here</del> <measure><measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 17° 29' 26"</measure> <measure><choice><abbr>Long</abbr><expan>Longitude</expan></choice> - 24° 33'</measure></measure>
 <lb/>The river here is somewhat<!-- Zambezi River, sh -->
-<lb/>broader than at <placeName><settlement type="town">Sesheke</settlement></placeName> and
+    <lb/>broader than at <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> and
 <lb/>certainly not less than <measure>600 <choice><abbr>yds</abbr><expan>yards</expan></choice></measure>
 <lb/>It flows somewhat slowly
 <lb/>in the first part of its Eastern
@@ -357,11 +357,11 @@
 <lb/>the river which we <subst><del type="strikethrough" rend="red" hand="#U3">now</del><add place="above" rend="red" hand="#U3">here</add></subst><!-- Zambezi river, sh -->
 <lb/>learned is called by the whole
 <lb/>of the <term type="tribe">Barotse</term> the <placeName><geogName type="river">Liambai</geogName></placeName>
-<lb/>or <placeName><geogName type="river">Leeambye</geogName></placeName> - The term <foreign xml:lang="und"><placeName><settlement type="town">Sesheke</settlement></placeName></foreign>
+    <lb/>or <placeName><geogName type="river">Leeambye</geogName></placeName> - The term <foreign xml:lang="und"><placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName></foreign>
 <lb/>means white sand banks
 <lb/>many of which exist near
 <lb/>the town of that name - 
-<lb/><add place="marginleft" rend="red" hand="#U3">There is</add> <choice><sic>Another</sic><corr>another</corr></choice> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">village</add> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-171"/><seg corresp="#reorder-72"><add place="above" rend="red" hand="#U3">called</add> <placeName><settlement type="town">Sesheke</settlement></placeName></seg><anchor xml:id="meta-171"/> <del type="strikethrough" rend="red" hand="#U3">exists</del> in
+    <lb/><add place="marginleft" rend="red" hand="#U3">There is</add> <choice><sic>Another</sic><corr>another</corr></choice> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">village</add> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-171"/><seg corresp="#reorder-72"><add place="above" rend="red" hand="#U3">called</add> <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName></seg><anchor xml:id="meta-171"/> <del type="strikethrough" rend="red" hand="#U3">exists</del> in
 <lb/>the <placeName><geogName type="valley">valley of the <term type="tribe">Barotse</term></geogName></placeName> <add place="inline" rend="red" hand="#U3">is</add> <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-72"/> <del type="strikethrough" rend="red" hand="#U3">and</del> 
 <lb/>for a similar reason
 <lb/>But the term <foreign xml:lang="und"><placeName><geogName type="river">Liambai</geogName></placeName></foreign>
@@ -471,7 +471,7 @@
 <lb/><add place="marginleft" rend="red" hand="#U3">than that of the</add> <del type="strikethrough" rend="red" hand="#U3">when it becomes</del> older <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">animals</add> and
 <lb/>does not need to be screened
 <lb/>from the observation of
-<lb/><add place="marginleft"><term type="animal">birds</term></add> <del type="cancelled">beasts</del> of prey - <add place="marginleft"><metamark function="insertion"/>I observed</add> <choice><sic>The</sic><corr>the</corr></choice> <orgName>Arabs</orgName> <add place="marginleft"><metamark function="insertion"/>at <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!--square bracket connects to marginal number.JL --><placeName><settlement type="town">Aden</settlement></placeName></add>
+    <lb/><add place="marginleft"><term type="animal">birds</term></add> <del type="cancelled">beasts</del> of prey - <add place="marginleft"><metamark function="insertion"/>I observed</add> <choice><sic>The</sic><corr>the</corr></choice> <orgName>Arabs</orgName> <add place="marginleft"><metamark function="insertion"/>at <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!--square bracket connects to marginal number.JL --><placeName><settlement type="town" ref="settlement.xml#sett0018">Aden</settlement></placeName></add>
 <lb/><del type="cancelled"><unclear cert="medium">in order</unclear></del> <add place="inline">when</add> <del type="cancelled">to</del> <w>mak<subst><del>e</del><add place="over-text">ing</add></subst></w> their <term type="animal">camels</term>
 <lb/>kneel down press the thumb
 <lb/>on the withers <del type="strikethrough" rend="red" hand="#U3">of their <term type="animal">camels</term></del>
@@ -727,7 +727,7 @@ speaking
 <lb/>and the tribe has remained
 <lb/>permanently divided ever since</p>
 <lb/><p>From the bend up to 
-<lb/>the North called <placeName><settlement type="town"><choice><orig>Katima-molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName>
+    <lb/>the North called <placeName><settlement type="town" ref="settlement.xml#sett0062"><choice><orig>Katima-molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName>
 <lb/>(I quenched fire) the bed of the
 <lb/>river is rocky and the
 <lb/>stream rapid - <del type="cancelled">These rapids</del>
@@ -907,7 +907,7 @@ is the true
 <lb/>There are so many things besides
 <lb/><term type="plant_foodstuff">corn</term> which a man can
 <lb/>find <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">here</add> for food <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">that</add> it is no wonder
-<lb/>they desert from <placeName><settlement type="town">Linyanti</settlement></placeName> to
+    <lb/>they desert from <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> to
 <lb/>return <add place="inline" rend="red" hand="#U3">to this place</add></p>
 <lb/><p><metamark function="placeMark" place="marginleft" resp="#U2" rend="gray"/> <w>Th<subst><del hand="#U3">is</del><add place="over-text" rend="red" hand="#U3">e</add></subst></w> great valley is not
 <lb/>put to a tithe of the use it
@@ -1014,7 +1014,7 @@ As the chief
 <lb/>intercession of which they
 <lb/>were ignorant <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">was that</add> they were
 <lb/>allowed to depart in peace</p>
-<lb/><p><placeName><settlement type="town">Nariele</settlement></placeName> the capital of
+                <lb/><p><placeName><settlement type="town" ref="settlement.xml#sett0080">Nariele</settlement></placeName> the capital of
 <lb/>the <term type="tribe">Barotse</term> is built on a
 <lb/>mound which was <w>con-
     <lb break="no"/>structed</w> artificially - by <persName ref="people.xml#pers0441">Santuru</persName>
@@ -1035,7 +1035,7 @@ As the chief
     <lb/>people of <persName ref="people.xml#pers0441">Santuru</persName> the labour
 <lb/>of many years - <del type="cancelled" rend="red" hand="#U3">As</del> <choice><sic>the</sic><corr>The</corr></choice> same
 <lb/>thing has happened to another
-<lb/>ancient site of a town - <placeName><settlement type="town">Linangelo</settlement></placeName><add place="inline" rend="red" hand="#U3">,</add>
+    <lb/>ancient site of a town - <placeName><settlement type="town" ref="settlement.xml#sett0070">Linangelo</settlement></placeName><add place="inline" rend="red" hand="#U3">,</add>
 <lb/>also on the left bank<add place="inline" rend="red" hand="#U3">.</add>
 <lb/><add place="marginleft" rend="red" hand="#U3">It would seem that</add> <choice><sic>The</sic><corr>the</corr></choice> river in this part of the
 <lb/>valley <subst><del type="strikethrough" rend="red" hand="#U3">seems to be</del><add place="above" rend="red" hand="#U3">must be</add></subst> wearing

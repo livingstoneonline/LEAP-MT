@@ -113,7 +113,7 @@
 <lb/>down to the coast - The
 <lb/>remaining two were sold for
 <lb/>money to purchase a <term type="animal">horse</term>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>60 lines</note></add> for <persName ref="people.xml#pers0519">Sekeletu</persName> at <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> - </p>
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note>60 lines</note></add> for <persName ref="people.xml#pers0519">Sekeletu</persName> at <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> - </p>
                 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0482">Powell</persName></hi></note></add> The superiority of this new
 <lb/>market was quite astounding
 <lb/>to my companions and
@@ -136,18 +136,18 @@ been visited and as they
 <lb/>country they would by
 <lb/>no means be so liberal in
 <lb/>their prices - They imagined
-<lb/>that if the <placeName><settlement type="village">Cassange</settlement></placeName>, <term type="occupation">traders</term>
-<lb/><add place="marginleft"><note><placeName><settlement type="town">Linyanti</settlement></placeName></note></add> came to <placeName><settlement type="town">Linyanti</settlement></placeName> they
+                    <lb/>that if the <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName>, <term type="occupation">traders</term>
+                    <lb/><add place="marginleft"><note><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName></note></add> came to <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> they
 <lb/>would continue to <del type="cancelled">vend at</del>
 <lb/><add place="marginleft"><metamark function="insertion"/>vend their
     <lb/>goods at</add> 
-<placeName><settlement type="village">Cassange</settlement></placeName> prices - I believe
+                    <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> prices - I believe
 <lb/>I gave them at last a
 <lb/>clear idea of the manner
 <lb/>in which prices were
 <lb/>regulated by the expenses
 <lb/>incurred and <subst><del>th</del><add place="over-text">w</add></subst>hen we
-<lb/>went to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> and saw
+                    <lb/>went to <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> and saw
 
 <pb facs="liv_000101_0046.jpg" n="0046"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right">2</add> <add place="inspace" hand="#U1" rend="gray right">45</add></fw>
@@ -155,7 +155,7 @@ been visited and as they
 <lb/>rate they concluded that
 <lb/>it would <supplied cert="high">be</supplied> better for them to
 <lb/>come to that city than <del type="strikethrough">go to</del>
-<lb/>to turn <add place="below">^</add> <retrace hand="#DL"><add place="marginleft" hand="#U2" rend="gray">homewards</add></retrace> at <placeName><settlement type="village">Cassange</settlement></placeName> - </p>
+                    <lb/>to turn <add place="below">^</add> <retrace hand="#DL"><add place="marginleft" hand="#U2" rend="gray">homewards</add></retrace> at <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> - </p>
 <lb/><p>It was interesting for me
 <lb/>to observe the effects of the
 <lb/>restrictive policy pursued
@@ -205,13 +205,13 @@ in order to
 <lb/>
 <lb/><p><persName>M<hi rend="sup underline">r</hi> Re<add place="above">e</add>go</persName> the <term type="occupation">Commandant</term>
 <lb/>very handsomely offered me a
-<lb/>guard of a <term type="occupation">soldier</term> to <placeName><settlement type="town">Ambaca</settlement></placeName> 
+    <lb/>guard of a <term type="occupation">soldier</term> to <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> 
 <lb/>My men told me that they
 <lb/>had been thinking it would
 <lb/>be better to turn back here
 <lb/>as they had been informed
 <lb/>by the people of colour at
-<lb/><placeName><settlement type="village">Cassange</settlement></placeName> that I was <del type="cancelled">taking</del>
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> that I was <del type="cancelled">taking</del>
 <lb/><add place="marginleft">leading</add> <add place="below">^</add> them down to the sea coast
 <lb/><add place="marginleft">only</add> <add place="below">^</add> to sell them and they
 <lb/>would be taken on board
@@ -247,7 +247,7 @@ in order to
 <lb/><add place="marginleft">gave</add> <del type="strikethrough">invited</del> me <del type="cancelled">to</del> <subst><del type="cancelled">as</del> <add place="above">a</add></subst> friendly
 <lb/>dinner before parting
 <lb/>All the <term type="occupation">merchants</term> of
-<lb/><placeName><settlement type="village">Cassange</settlement></placeName> accompanied
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> accompanied
 <lb/>us in their hammocks
 <lb/>carried by <orgName>slaves</orgName> to the
 <lb/>edge of the plateau on
@@ -259,7 +259,7 @@ in order to
 <lb break="no"/>thing</w> they could to make
 <lb/><add place="marginleft">my men &amp;</add> me comfortable during my
 <lb/>stay but there being no
-<lb/><choice><sic>Hotels</sic><corr>hotels</corr></choice> in <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> they
+    <lb/><choice><sic>Hotels</sic><corr>hotels</corr></choice> in <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> they
 <lb/>gave me letters of recommendation
 <lb/>to their friends in that city
 <lb/>to <choice><sic>recieve</sic><corr>receive</corr></choice> me into their
@@ -274,7 +274,7 @@ in order to
 <lb/>need - </p>
 <lb/>
 <lb/><p>The Latitude and Longitude
-<lb/>of <placeName><settlement type="village">Cassange</settlement></placeName> the most Easterly
+    <lb/>of <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> the most Easterly
 <lb/>station of the <term type="nationality">Portuguese</term>
 <lb/>in <placeName><bloc>Western Africa</bloc></placeName> is <measure><choice><abbr>Lat -</abbr><expan>Latitude</expan></choice> 9° 37'
 <lb/>South - and <choice><abbr>Long -</abbr><expan>Longitude</expan></choice> 17° 43'
@@ -286,7 +286,7 @@ in order to
     <lb/><retrace hand="#DL"><add place="inline" rend="gray" hand="#U2"><term type="occupation">Militia
     <lb/>corporal</term></add></retrace></add> 
 as a <term type="occupation">guide</term> - <del type="cancelled">A</del> <retrace hand="#DL"><add place="above" rend="gray" hand="#U2">He was</add></retrace> <add place="above">a</add> 
-<lb/><orgName>native</orgName> of <placeName><settlement type="town">Ambaca</settlement></placeName> <del type="cancelled">who</del> <retrace hand="#DL"><add place="inline" rend="gray" hand="#U2">and</add></retrace>
+    <lb/><orgName>native</orgName> of <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> <del type="cancelled">who</del> <retrace hand="#DL"><add place="inline" rend="gray" hand="#U2">and</add></retrace>
 <lb/><del type="cancelled"><del type="cancelled" rend="gray" hand="#U2">as</del></del> <add place="below" rend="gray" hand="#U2">^</add> <retrace hand="#DL"><add place="above" rend="gray" hand="#U2">like</add></retrace> nearly all the inhabitants
 <lb/>of that district <del type="cancelled">passing</del>
     <lb/><add place="marginleft">known</add> by the name <orgName ref="orgName.xml#org0035">Ambacistas</orgName>
@@ -368,13 +368,13 @@ as a <term type="occupation">guide</term> - <del type="cancelled">A</del> <retra
 <lb/>near the place where
 <lb/>we were bargaining - But
 <lb/>he took us safely down
-<lb/>to <placeName><settlement type="town">Ambaca</settlement></placeName> and I was
+    <lb/>to <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> and I was
 <lb/>glad to see on my return
-<lb/>to <placeName><settlement type="village">Cassange</settlement></placeName> that h<subst><del>is</del><add place="over-text">e</add></subst>
+    <lb/>to <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> that h<subst><del>is</del><add place="over-text">e</add></subst>
 <lb/>was promoted to be
 <lb/><term type="occupation">sergeant major</term> of a
 <lb/>company of militia</p>
-<lb/><p>Having left <placeName><settlement type="village">Cassange</settlement></placeName>
+                <lb/><p>Having left <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName>
 <lb/>on the <date when="1854-04-21">21<hi rend="sup underline">st</hi></date> we passed
 <lb/>across the remaining portion
 <lb/>of this excessively fertile
@@ -427,7 +427,7 @@ as a <term type="occupation">guide</term> - <del type="cancelled">A</del> <retra
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right">9</add> <add place="inspace" hand="#U1" rend="gray right">52</add></fw>
 <lb/>exit from the valley - and
 <lb/>about <measure>ten miles</measure> <choice><abbr>W - S - W -</abbr><expan>West South West</expan></choice> from
-<lb/>the village of <placeName><settlement type="village">Cassange</settlement></placeName>  It
+                    <lb/>the village of <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName>  It
 <lb/>is remarkable as having
 <lb/>such perpendicular sides
 <lb/>that even the <orgName>natives</orgName>
@@ -456,7 +456,7 @@ as a <term type="occupation">guide</term> - <del type="cancelled">A</del> <retra
 <lb/><p>We had not yet got
 <lb/>a clear idea of the nature
 <lb/>of <placeName><geogName type="mountain">Tala <choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></geogName></placeName> - a gentleman
-<lb/>at <placeName><settlement type="village">Cassange</settlement></placeName> described it as
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> described it as
 <lb/>a range of very high
 <lb/>mountains which <add place="below">^</add> <add place="above">it</add> would
 
@@ -470,7 +470,7 @@ as a <term type="occupation">guide</term> - <del type="cancelled">A</del> <retra
 <lb/>an attack of <term type="ailment">fever</term> got
 <lb/>while observing by night
 <lb/>for position of
-<lb/><placeName><settlement type="village">Cassange</settlement></placeName> I eagerly commenced
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> I eagerly commenced
 <lb/>the ascent - The path was
 <lb/>steep and slippery <del type="cancelled">and</del>
 <lb/><w><subst><add place="marginleft">D</add><del type="cancelled">d</del></subst>eep</w> gorges appear on each
@@ -547,7 +547,7 @@ as a <term type="occupation">guide</term> - <del type="cancelled">A</del> <retra
 <lb/>Situated a few miles from
 <lb/>the edge of the descent we
 <lb/>found the village of
-<lb/><placeName><settlement type="village"><choice><sic>Tala Mungonga</sic><corr>Tala Mungongo</corr></choice></settlement></placeName> and were
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0090"><choice><sic>Tala Mungonga</sic><corr>Tala Mungongo</corr></choice></settlement></placeName> and were
 <lb/>kindly accommodated <subst><del>in</del><add place="over-text">w</add></subst>ith
 <lb/>a house to sleep in
 <lb/>which <add place="below">^</add> <add place="above">was</add> very welcome
@@ -615,7 +615,7 @@ lowered the temperature
 <lb/>find the black population
 <lb/>less <choice><sic>independant</sic><corr>independent</corr></choice> <choice><sic>untill</sic><corr>until</corr></choice>
 <lb/>we reach the <del type="cancelled">confines</del>
-<lb/>vicinity of <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> where
+                    <lb/>vicinity of <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> where
 <lb/><add place="marginleft">the <orgName>free <orgName>natives</orgName></orgName></add> <add place="below">^</add> <del type="cancelled">they</del> are nearly identical
 <lb/>in their feelings <add place="below"><metamark function="insertion"/>towards the <orgName>Government</orgName></add> with the <orgName>slaves</orgName> 
         
@@ -736,11 +736,11 @@ lowered the temperature
 
 <pb facs="liv_000101_0061.jpg" n="0061"/>
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray right">17</add> <add place="inspace" hand="#U1" rend="gray right">60</add></fw>
-<lb/><date when="1854-04-30">Sunday 30<hi rend="sup underline">th</hi></date> We spent at <placeName><settlement type="village">Ngio</settlement></placeName>
+    <lb/><date when="1854-04-30">Sunday 30<hi rend="sup underline">th</hi></date> We spent at <placeName><settlement type="village" ref="settlement.xml#sett0051">Ngio</settlement></placeName>
 <lb/>(pronounced <foreign xml:lang="und">Njeeo</foreign>)</p>
 <lb/><p>Passing through <del type="cancelled"><add place="below">^</add> <add place="above">the same</add></del> fine
 <lb/>fertile and well <w>people<add place="inline" rend="gray" hand="#U2">d</add></w>
-<lb/><add place="marginleft"><note><placeName><settlement type="village">Sanza</settlement></placeName></note></add> country to <placeName><settlement type="village">Sanza</settlement></placeName> we found
+    <lb/><add place="marginleft"><note><placeName><settlement type="village" ref="settlement.xml#sett0084">Sanza</settlement></placeName></note></add> country to <placeName><settlement type="village" ref="settlement.xml#sett0084">Sanza</settlement></placeName> we found
 <lb/>the <placeName><geogName type="river">Quize</geogName></placeName> again touching
 <lb/>our path and here 
 <lb/>we had the pleasure of
@@ -751,7 +751,7 @@ lowered the temperature
 <lb/>were</del> an object of great
 <lb/>curiosity to my companions
 <lb/>because they had tasted
-<lb/>my bread at <placeName><settlement type="town">Linyanti</settlement></placeName>
+    <lb/>my bread at <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName>
 <lb/>but had never before
 <lb/>seen wheat growing.
 <lb/>This small field was
@@ -780,7 +780,7 @@ lowered the temperature
 <lb/>first introduced by the
     <lb/><orgName ref="orgName.xml#org0060">Jesuit</orgName> <term type="occupation">missionaries</term> - </p>
 <lb/><p>We spent <date when="1854-04-30">Sunday 30<hi rend="sup underline">th</hi>
-<lb/>April</date> at <placeName><settlement type="village">Ngio</settlement></placeName> <del type="cancelled">(soft g) Njeeo)</del>
+    <lb/>April</date> at <placeName><settlement type="village" ref="settlement.xml#sett0051">Ngio</settlement></placeName> <del type="cancelled">(soft g) Njeeo)</del>
 <lb/>close to the ford of the <placeName><geogName type="river">Quize</geogName></placeName>
 <lb/>The <del type="cancelled" hand="#U2" rend="gray">country</del> becomes more
 <lb/>open <del type="cancelled"><add place="below">^</add></del> but is still abundantly
@@ -869,7 +869,7 @@ lowered the temperature
 <lb/>pepper</term> and <term type="plant_foodstuff">garlic</term> for sale,
 <lb/>Calico of which we had
 <lb/>brought some from
-<lb/><placeName><settlement type="village">Cassange</settlement></placeName> is the chief
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> is the chief
 <lb/>medium of exchange
 <lb/>We found them all civil
 <lb/><add place="marginleft">&amp;</add> <del type="strikethrough">though</del> it was evident

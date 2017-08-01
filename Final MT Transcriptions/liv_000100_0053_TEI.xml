@@ -142,7 +142,7 @@
 <lb/>were induced to come in <date when="1853">1853</date>
 <lb/>and one who <del type="cancelled">appeared to</del> resembled
 <lb/>closely a real <term type="person">Portuguese</term> <del type="strikethrough">coming
-<lb/>with them</del> came to <placeName><settlement type="town">Linyanti</settlement></placeName>
+    <lb/>with them</del> came to <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName>
 <lb/>while I was there - <del type="strikethrough" rend="red" hand="#U3">The latter</del>
 <lb/><add place="marginleft" rend="red" hand="#U3">This man</add> had no merchandise and
 <lb/>pretended to have come in
@@ -187,7 +187,7 @@
 <lb/>felt to be so much weight
 <lb/>in the scale against their
 <lb/>interests - A large party of <term type="tribe">Mambari</term>
-<lb/><add place="marginleft">had come</add> <subst><del type="cancelled">were at</del><add place="above">to</add></subst> <placeName><settlement type="town">Linyanti</settlement></placeName> when
+    <lb/><add place="marginleft">had come</add> <subst><del type="cancelled">were at</del><add place="above">to</add></subst> <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> when
 <lb/>I was floundering on the
 <lb/>prairies south of the <placeName><geogName type="river">Chobe</geogName></placeName> -
 <lb/>As the news <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" hand="#U3" rend="red">of my being in the
@@ -267,7 +267,7 @@ reached them
 <lb/>in <date when="1851">185<subst><del>7</del><add place="over-text">1</add></subst></date><!-- the top part of the number '7' is scored out to give '1', sh  --> - He volunteered to
 <lb/>accompany me and when
 <lb/>we got about <measure>60 miles</measure> away
-<lb/>on <subst><del type="strikethrough">our</del><add place="above">the</add></subst> road to <placeName><settlement type="town">Sesheke</settlement></placeName> we
+    <lb/>on <subst><del type="strikethrough">our</del><add place="above">the</add></subst> road to <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> we
 <lb/>encountered <persName ref="people.xml#pers0431">Mpepe</persName> - The <term type="tribe">Makololo</term>
 <lb/><del type="cancelled">like most <term type="tribe">Bechuanas</term></del> <add place="marginleft"><metamark function="insertion"/><metamark function="insertion" rend="red" resp="#U3"/>though possessing
     <lb/>abundance of <term type="animal">cattle</term>
@@ -376,7 +376,7 @@ I happened to sit down
 <lb/>go thither during the <del type="cancelled"><gap extent="2" unit="chars"/></del><w>com-
 <lb break="no"/>motion</w> which followed
 <lb/>on <persName ref="people.xml#pers0431">Mpepe</persName>'s death we
-<lb/>returned to <placeName><settlement type="town">Linyanti</settlement></placeName> - </p>
+    <lb/>returned to <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> - </p>
 <lb/><space dim="vertical" extent="2" unit="lines"/>
     
     
@@ -516,7 +516,7 @@ I happened to sit down
 <lb/>the <term type="tribe">Makololo</term> <subst><del type="strikethrough" rend="red" hand="#U3">than</del><add place="above" rend="red" hand="#U3">as</add></subst> among
 <lb/>the <term type="tribe">Bakwains</term> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">or even better</add> and is no
 <lb/><add place="marginleft">foreign <add place="below"><del type="cancelled" hand="#U3" rend="red">^</del></add></add> importation - When at
-<lb/><placeName><settlement type="village">Cassange</settlement></placeName> my men had
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> my men had
 <lb/>a <del type="strikethrough" rend="red" hand="#U3">little</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">slight</add> quarrel among
 <lb/>themselves and came to
 <lb/>me as to their <term type="occupation">chief</term> <del type="cancelled">person
@@ -549,7 +549,7 @@ I happened to sit down
 <lb/>made to my hands</p>
 <lb/><space dim="vertical" extent="9" unit="lines"/>
 <lb/><p>Soon after our arrival
-<lb/>at <placeName><settlement type="town">Linyanti</settlement></placeName> <persName ref="people.xml#pers0519">Sekeletu</persName> took
+    <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> <persName ref="people.xml#pers0519">Sekeletu</persName> took
 <lb/>me aside and pressed me
 <lb/>to mention those things I loved
 <lb/>best and hoped to get from
@@ -896,7 +896,7 @@ This species
         <pb facs="liv_000100_0072.jpg" n="0072"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">67</add> <add place="inspace" hand="#U1" rend="gray right">71</add></fw>
 <lb/>farther south - Long after we
-<lb/>had settled at <placeName><settlement type="village">Mabotsa</settlement></placeName>
+    <lb/>had settled at <placeName><settlement type="village" ref="settlement.xml#sett0074">Mabotsa</settlement></placeName>
 <lb/>when preaching <w>o<subst><del>f</del><add place="over-text">n</add></subst></w> the most
 <lb/>solemn subjects a woman
 <lb/>would be observed to look

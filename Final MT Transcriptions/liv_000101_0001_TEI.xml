@@ -104,7 +104,7 @@
 <lb/><addSpan spanTo="#longadd-18" corresp="#add-18"/>be effected<add place="inline" rend="red" hand="#U3">,</add> by establishing a highway from the coast
 <lb/>into the centre of the country. <metamark function="newParagraph" rend="red" resp="#U3">⎡</metamark>As there was no hope <metamark function="newParagraph" place="marginright" rend="red" resp="#U3">⎡</metamark><metamark function="substitution" place="marginright">/</metamark>
     <lb/>of the <orgName ref="orgName.xml#org0038">Boers</orgName> allowing the peaceable instruction of the
-<lb/><orgName>natives</orgName> at <placeName><settlement type="village">Kolobeng</settlement></placeName><add place="inline" rend="red" hand="#U3">,</add> I at once resolved to save my
+    <lb/><orgName>natives</orgName> at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName><add place="inline" rend="red" hand="#U3">,</add> I at once resolved to save my
 <lb/>family from exposure to this unhealthy region by
 <lb/>sending them to <placeName><country>England</country></placeName>, and to return alone<add place="inline" rend="red" hand="#U2">,</add> with a
 <lb/>view to exploring the country in search of a healthy
@@ -119,7 +119,7 @@
 <lb/><fw><add place="inspace" hand="#U1" rend="gray left">p.93 <add place="above">MSS10702</add></add> <add place="inspace" hand="#U1"  rend="gray right">1</add></fw>
 <lb/><add place="inline"><metamark function="flag" spanTo="#meta-81"/><note>To be inserted at bottom of small slip 68*</note><anchor xml:id="meta-81"/></add> <anchor xml:id="add-18"/> 
 <lb/>
-<lb/>Our route to <placeName><settlement type="city">Cape Town</settlement></placeName> led us to pass
+    <lb/>Our route to <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape Town</settlement></placeName> led us to pass
 <lb/>through the centre of the Colony during
 <lb/><unclear cert="medium"><metamark function="placeMark"/></unclear> the Twentieth month of a 
     <lb/><orgName ref="orgName.xml#org0042">Caffre</orgName> War, and if those who
@@ -545,7 +545,7 @@ then part with mutual
 <lb/>impede our progress <choice><sic>untill</sic><corr>until</corr></choice>
 <lb/>we were put on the
 <lb/>path which leads from
-<lb/><placeName><settlement type="village">Cassange</settlement></placeName> and <placeName><geogName type="plateau">Bihe</geogName></placeName> to
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> and <placeName><geogName type="plateau">Bihe</geogName></placeName> to
     <lb/><persName ref="people.xml#pers0444">Matiamvo</persName> - by a <term type="occupation">head-man</term>
     <lb/>named <persName ref="people.xml#pers0341">Kamboela</persName> - This
 <lb/>was a well beaten <w>foot<supplied>-</supplied>
@@ -558,10 +558,10 @@ then part with mutual
 <lb/>had already got of
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>8</note></add> this path leading
 <lb/>straight <del type="cancelled">through</del> to
-<lb/><placeName><settlement type="village">Cassange</settlement></placeName> <del type="cancelled">to <unclear cert="low">w</unclear></del> through
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> <del type="cancelled">to <unclear cert="low">w</unclear></del> through
 <lb/>which they had come
 <lb/>on their way from
-<lb/><placeName><geogName type="plateau">Bihe</geogName></placeName> to <placeName><settlement type="village">Cabango</settlement></placeName> - They
+    <lb/><placeName><geogName type="plateau">Bihe</geogName></placeName> to <placeName><settlement type="village" ref="settlement.xml#sett0030">Cabango</settlement></placeName> - They
 <lb/>kindly presented my
 <lb/>men with some tobacco
 
@@ -621,7 +621,7 @@ then part with mutual
 <lb/>If you sit on the spot 
     <lb/>where <persName ref="people.xml#pers0392">Mary Queen of 
 <lb/><term type="people">Scots</term></persName> viewed the battle 
-<lb/>of <placeName><settlement type="village">Langside</settlement></placeName> and look<!-- At the time of writing Langside was a village to the south of Glasgow, sh -->
+    <lb/>of <placeName><settlement type="village" ref="settlement.xml#sett0064">Langside</settlement></placeName> and look<!-- At the time of writing Langside was a village to the south of Glasgow, sh -->
 <lb/>down on the <placeName><geogName type="valley">vale of 
 <lb/><placeName><geogName type="river">Clyde</geogName></placeName></geogName></placeName> you may see
 <lb/>in miniature the
@@ -713,7 +713,7 @@ meadow
 <lb/>which <del type="cancelled"><unclear cert="medium">hol</unclear></del> washed away
 <lb/>the enormous mass
 <lb/>of matter required before
-    <lb/>the <placeName><region ref="region.xml#region0025">valley of <placeName><settlement type="village">Cassange</settlement></placeName></region></placeName>
+    <lb/>the <placeName><region ref="region.xml#region0025">valley of <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName></region></placeName>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>12</note></add> could assume its
 <lb/>present form - The
 <lb/>strata under the conglomerate

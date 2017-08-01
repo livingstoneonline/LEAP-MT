@@ -246,7 +246,7 @@ become as strongly
 <lb/>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> Very large flocks of <term type="animal">swifts</term> were
 <lb/>observed <w><subst><del>to</del><add place="over-text">f</add></subst>lying</w> over the plains
-<lb/>North of <placeName><settlement type="village">Kuruman</settlement></placeName> - I counted
+    <lb/>North of <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> - I counted
 <lb/>a stream of them which by the
 <lb/>time it took to pass towards the
 <lb/><term type="plant">reeds</term> of that valley must have 
@@ -293,7 +293,7 @@ become as strongly
 <lb/>the town of <persName ref="people.xml#pers0516">Sechele</persName> called
 <lb/>from the part of the range
 <lb/>on which it is situated
-<lb/><placeName><settlement type="village">Litubaruba</settlement></placeName> - <metamark function="insertion"/><anchor xml:id="add-14"/> I never 
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0047">Litubaruba</settlement></placeName> - <metamark function="insertion"/><anchor xml:id="add-14"/> I never 
 <lb/><add place="marginleft">-</add> saw the <term type="tribe">Bakwains</term> looking
 <lb/>so haggard and lean 
 <lb/>as now - Most of the 
@@ -332,7 +332,7 @@ become as strongly
     <lb/>hunting and as the <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>became terrified and
 <lb/>ran off they brought
-<lb/>their waggon to <placeName><settlement type="village">Litubaruba</settlement></placeName>
+    <lb/>their waggon to <placeName><settlement type="village" ref="settlement.xml#sett0047">Litubaruba</settlement></placeName>
 <lb/>This seems to have given
 <lb/>the main body an idea
 <lb/>that <subst><del>he</del><add place="over-text">^</add></subst> <add place="marginleft">the <term type="tribe">Bakwains</term></add> meant to begin
@@ -430,7 +430,7 @@ was returned to his
 <lb/>name - </p>
 <lb/><p>I have examined several cases in
 <lb/>which a grandmother has taken upon herself
-    <lb/>to suckle a grandchild - <persName  ref="people.xml#pers0409">Masina</persName> of <placeName><settlement type="village">Kuruman</settlement></placeName>
+    <lb/>to suckle a grandchild - <persName  ref="people.xml#pers0409">Masina</persName> of <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
     <lb/>had no children after the birth<!-- 'birth' may be scored out - but it could equally just be a smudge since the word appears in the published text.JL --> of her <add place="below">^</add> <add place="above">daughter</add> <persName ref="person.xml#pers0535">Sina</persName>
     <lb/>and had no milk after <persName ref="person.xml#pers0535">Sina</persName> was weaned
 <lb/>which usually is deferred till the child is
@@ -481,7 +481,7 @@ no longer <subst><add place="above">necessary</add><del type="cancelled">desirab
 <lb/>some of my friends here I 
     <lb/>learned that <persName ref="people.xml#pers0385">Maleke</persName> <subst><del>the</del><add place="over-text">a</add></subst>
 <lb/><term type="occupation">chief</term> of the <term type="tribe">Bakwains</term> who
-<lb/>formerly lived in <placeName><settlement type="village">Litubaruba</settlement></placeName> 
+    <lb/>formerly lived in <placeName><settlement type="village" ref="settlement.xml#sett0047">Litubaruba</settlement></placeName> 
 <lb/>was killed by the bite of
 <lb/>a mad <term type="animal">dog</term> - My <del type="cancelled">attention</del>
 <lb/>curiosity was strongly 
@@ -539,7 +539,7 @@ no longer <subst><add place="above">necessary</add><del type="cancelled">desirab
 <lb/>by a disease which led them 
 <lb/>to run about in an
 <lb/>incoherent state <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-102"/><seg corresp="#reorder-41">while I was 
-<lb/>at <placeName><settlement type="village">Mabotsa</settlement></placeName></seg><anchor xml:id="meta-102"/> but I doubt
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0074">Mabotsa</settlement></placeName></seg><anchor xml:id="meta-102"/> but I doubt
 <lb/>whether it were anything
 <lb/>but an affection of the 
 <lb/>brain - No individual
@@ -610,7 +610,7 @@ no longer <subst><add place="above">necessary</add><del type="cancelled">desirab
 <lb/>the West Coast lost it
 <lb/>when they came into their
 <lb/>own land South West
-<lb/>of <placeName><settlement type="village">Kolobeng</settlement></placeName> - It seems
+    <lb/>of <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> - It seems
 <lb/>incapable of permanence
 <lb/>in any form in persons
 
@@ -1022,8 +1022,8 @@ answer
 <lb/><space dim="vertical" extent="2" unit="lines"/>                
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The whole of the country
 <lb/><w>a<add place="inline" hand="#U3" rend="red">d</add>jacent</w> to the Desert from
-<lb/><placeName><settlement type="village">Kuruman</settlement></placeName> to <placeName><settlement type="village">Kolobeng</settlement></placeName>
-<lb/>or <placeName><settlement type="village">Litubaruba</settlement></placeName> and beyond
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> to <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
+    <lb/>or <placeName><settlement type="village" ref="settlement.xml#sett0047">Litubaruba</settlement></placeName> and beyond
 <lb/>up to the Latitude of
 <lb/><placeName><geogName type="lake">Lake Ngami</geogName></placeName> is remarkable
 <lb/>for its great salubrity of
@@ -1142,7 +1142,7 @@ answer
 <lb/>damp and cold are never
 <lb/>combined</seg> - <seg type="weather">However hot
 <lb/>the day <subst><del>was</del><add place="over-text">may</add></subst> have been
-<lb/>at <placeName><settlement type="village">Kolobeng</settlement></placeName> and the thermometer
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> and the thermometer
 <lb/>sometimes rose previous
 <lb/>to a fall of rain up to 96° 
 <lb/>in the coolest part of our

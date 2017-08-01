@@ -119,7 +119,7 @@
 <lb/>only one event of which
 <lb/>I have reason to be proud - </p>
 <lb/><p>My great grandfather fell
-<lb/>at the battle of <placeName><settlement type="village">Culloden</settlement></placeName> fighting
+    <lb/>at the battle of <placeName><settlement type="village" ref="settlement.xml#sett0044">Culloden</settlement></placeName> fighting
 <lb/>for our old line of kings
 <lb/><add place="marginleft">and my</add> <add place="below">˄</add> <del type="cancelled">My</del> grandfather was a 
 <lb/>small farmer in <placeName><geogName type="island">Ulva</geogName></placeName>, where 
@@ -193,7 +193,7 @@
 <lb/>of the tradition for the sake of which
 <lb/>principally I refer to <del type="cancelled">the</del> genealogy
 <lb/><foreign xml:lang="la"><choice><abbr>et all.</abbr><expan>et alia</expan></choice></foreign> - His father fell fighting
-    <lb/>at <placeName><settlement type="village">Culloden</settlement></placeName> on the side of the <persName ref="people.xml#pers0546">Pretender</persName>
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0044">Culloden</settlement></placeName> on the side of the <persName ref="people.xml#pers0546">Pretender</persName>
 <lb/>He had thus been guilty of treason
 <lb/>which had it only been successful
 <lb/><metamark function="deletion" place="marginleft" rend="gray" resp="#U2" /><!-- this is the proof correction mark for delete. JL --> would have been loyalty of the first
@@ -252,7 +252,7 @@ were much
 <lb/><p><add place="inline" rend="gray" hand="#U2">˅<metamark function="placeMark"/></add> My grandfather finding
 <lb/><metamark function="flag" place="inline" spanTo="#meta-29"/><!-- a line separating the marginal addition from the main text.JL-->his farm in <placeName><geogName type="island">Ulva</geogName></placeName> <del type="cancelled" hand="#U2" rend="gray"><del type="cancelled" hand="#DL">unable</del></del> <retrace hand="#DL"><add place="above" hand="#U2" rend="gray">insufficient</add></retrace> to
 <lb/>support a numerous family<anchor xml:id="meta-29"/>
-<lb/>removed to <placeName><settlement type="village">Blantyre</settlement></placeName> works,
+    <lb/>removed to <placeName><settlement type="village" ref="settlement.xml#sett0025">Blantyre</settlement></placeName> works,
 <lb/>a large cotton manufactury on the 
 <lb/>beautiful <placeName><geogName type="river"><choice><orig><subst><del>c</del><add place="over-text">C</add></subst>lyde</orig><reg>Clyde</reg></choice></geogName></placeName> above <placeName><settlement type="city">Glasgow</settlement></placeName>
 <lb/>and his sons having had the
@@ -292,7 +292,7 @@ were much
         <lb/><term type="occupation">deacon</term> of
         <lb/>an <term type="faith">Independent</term>
         <lb/>church in
-        <lb/><placeName><settlement type="town">Hamilton</settlement></placeName> and</add> 
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0057">Hamilton</settlement></placeName> and</add> 
 deserves my lasting 
 <lb/>gratitude and homage for
 <lb/>presenting me from infancy 
@@ -305,7 +305,7 @@ deserves my lasting
 <lb/>which we all expect through the
 <lb/>death of our Lord and Saviour
 <lb/>when I was on my way below
-<lb/><placeName><settlement type="town">Zumbo</settlement></placeName>, expecting no greater
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0095">Zumbo</settlement></placeName>, expecting no greater
 <lb/>pleasure in this country than
 <lb/>sitting by our cottage fire
 <lb/>and telling him my travels -
@@ -457,8 +457,8 @@ deserves my lasting
 <lb/>delight and wonder with which
 <lb/>I began to collect the shells
 <lb/>of the carboniferous limestone
-<lb/>which crops out in <placeName><settlement type="village">high
-<lb/>Blantyre</settlement></placeName> and <placeName><settlement type="town">Cambuslang</settlement></placeName> <add place="inline" rend="gray" hand="#U2">.</add>
+    <lb/>which crops out in <placeName><settlement type="village" ref="settlement.xml#sett0025">high
+        <lb/>Blantyre</settlement></placeName> and <placeName><settlement type="town" ref="settlement.xml#sett0036">Cambuslang</settlement></placeName> <add place="inline" rend="gray" hand="#U2">.</add>
 <lb/><del type="cancel">and</del> The quarrymen seeing
 <lb/>a little boy <add place="below">^</add> <add place="above">so engaged</add> looked with that
 <lb/>pitying eye which the benevolent
@@ -571,7 +571,7 @@ no matter by whom <add place="below">^</add> <add place="above">practised</add> 
 <lb/>and who glory in being the
 <lb/>sons of the <orgName ref="orgName.xml#org0048">Covenanters</orgName>
 <lb/>and of the<del type="cancelled">m</del> men who bled
-<lb/>at <placeName><settlement type="town">Bannockburn</settlement></placeName> - Though
+    <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0023">Bannockburn</settlement></placeName> - Though
 <lb/>we are the victims of great
 <lb/>social evils arising from
 <lb/>overpopulation - Those evils
@@ -611,7 +611,7 @@ no matter by whom <add place="below">^</add> <add place="above">practised</add> 
 <lb/>possible number of any
 <lb/>country in the world - </p>
 <lb/><p><add place="marginleft">The poorest</add> <del type="strikethrough">We</del> <add place="below">^</add> <add place="above"><del type="strikethrough"><unclear cert="medium">poor</unclear></del> among us</add> could stroll <add place="below">^</add> <add place="above">at pleasure</add> over the
-<lb/>ancient domains of <placeName><settlement type="village">Bothwell</settlement></placeName>
+    <lb/>ancient domains of <placeName><settlement type="village" ref="settlement.xml#sett0029">Bothwell</settlement></placeName>
 <lb/>and other spots hallowed by the
 <lb/>venerable associations <add place="marginleft"><metamark function="insertion"/> of which even
 		<lb/>our school
@@ -677,14 +677,14 @@ and
 <lb/>I <choice><sic>recieved</sic><corr>received</corr></choice> from the <term type="occupation">Directors</term>
     <lb/>of the <orgName ref="orgName.xml#org0064">Missionary Society</orgName>
 <lb/>led me as soon as I reached
-<lb/><placeName><settlement type="village">Kuruman</settlement></placeName> or <placeName><settlement type="village">Lattakoo</settlement></placeName> then
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> or <placeName><settlement type="village" ref="settlement.xml#sett0065">Lattakoo</settlement></placeName> then
 <lb/>their farthest inland station
 
                 <pb facs="liv_000099_0020.jpg" n="0020"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">18</add> <add place="inspace" hand="#U2" rend="gray right">(15</add></fw>
     <lb/>from the <placeName><region ref="region.xml#region0024">Cape</region></placeName> to turn my
 <lb/>attention to the North Without
-<lb/>waiting longer at <placeName><settlement type="village">Kuruman</settlement></placeName>
+    <lb/>waiting longer at <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
 <lb/>than was necessary to recruit
 <lb/>the <term type="animal">oxen</term> now pretty well
 <lb/>tired by the long journey
@@ -693,17 +693,17 @@ and
 <lb/><term type="occupation">missionary</term> to the <term type="tribe">Bakuena</term>
 <lb/>country and found <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>with his tribe located at
-<lb/><placeName><settlement type="village">Shokuan</settlement></placeName> - I had a very different
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0087">Shokuan</settlement></placeName> - I had a very different
 <lb/>object in view than running
 <lb/>in <measure>three hundred miles</measure> and
 <lb/>back again as this journey
 <lb/>proved to be - Accordingly
 <lb/>after again resting three months
-<lb/>at <placeName><settlement type="village">Kuruman</settlement></placeName> which is a sort
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> which is a sort
 <lb/>of head station in the country I
 <lb/>returned to a spot <measure>about <unclear cert="medium">15</unclear> miles 
-<lb/>south</measure> of <placeName><settlement type="village">Shokuan</settlement></placeName> called <placeName><settlement type="village">Lepelole</settlement></placeName>
-<lb/><del type="cancelled">and</del> (now <placeName><settlement type="village">Litubaruba</settlement></placeName>) and in
+    <lb/>south</measure> of <placeName><settlement type="village" ref="settlement.xml#sett0087">Shokuan</settlement></placeName> called <placeName><settlement type="village" ref="settlement.xml#sett0047">Lepelole</settlement></placeName>
+    <lb/><del type="cancelled">and</del> (now <placeName><settlement type="village" ref="settlement.xml#sett0047">Litubaruba</settlement></placeName>) and in
 <lb/>order to obtain an accurate 
 <lb/>knowledge of the language, cut myself
 <lb/>off from <orgName>European</orgName> society for
@@ -721,8 +721,8 @@ which have proved
                 <pb facs="liv_000099_0021.jpg" n="0021"/>
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">19</add> <add place="inspace" hand="#U2" rend="gray right">(16</add></fw>
 <lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> In <subst><del type="strikethrough">my next</del><add place="above">this second</add></subst> journey to <del type="cancelled">a spot about
-<lb/><measure>20 miles south</measure> of <placeName><settlement type="village">Shokuan</settlement></placeName> called</del>
-<lb/><add place="marginleft">to the place called</add> <placeName><settlement type="village">Lepelole</settlement></placeName> from a cavern of that
+    <lb/><measure>20 miles south</measure> of <placeName><settlement type="village" ref="settlement.xml#sett0087">Shokuan</settlement></placeName> called</del>
+    <lb/><add place="marginleft">to the place called</add> <placeName><settlement type="village" ref="settlement.xml#sett0047">Lepelole</settlement></placeName> from a cavern of that
 <lb/>name, I began preparations
 <lb/>for a settlement by marking
 <lb/>a canal to irrigate gardens
@@ -737,7 +737,7 @@ which have proved
 <lb/>with his people all perished
 <lb/>from <term type="ailment">fever</term> - In going round
 <lb/>the Northern part of the<del type="cancelled" hand="#DL"><del type="cancelled" hand="#U2">se</del></del> Basaltic
-<lb/>hills near <placeName><settlement type="village">Letloche</settlement></placeName> I was only
+    <lb/>hills near <placeName><settlement type="village" ref="settlement.xml#sett0067">Letloche</settlement></placeName> I was only
 <lb/><measure>ten days distant</measure> from the
 <lb/>lower part of the <placeName><geogName type="river">Zouga</geogName></placeName> which
 <lb/>passed by the same name as
@@ -745,7 +745,7 @@ which have proved
 <lb/>(in <date when="1842">1842</date>) have discovered that
 <lb/>Lake<!-- Lake Ngami. Jl --> had discovery alone been
 <lb/>my object - Most part of this
-<lb/>journey beyond <placeName><settlement type="village">Shokuan</settlement></placeName> was
+    <lb/>journey beyond <placeName><settlement type="village" ref="settlement.xml#sett0087">Shokuan</settlement></placeName> was
 <lb/>performed on foot <add place="inline" hand="#U2" rend="gray">,</add> in consequence
 <lb/>of my waggon <term type="animal">oxen</term> having
 <lb/>become sick - <add place="above" hand="#U2" rend="gray">diseased, ill - ?</add> Hearing my
@@ -766,12 +766,12 @@ which have proved
 <lb/>for days together and <choice><sic>untill</sic><corr>until</corr></choice> I
 <lb/>heard them expressing proper
 <lb/>opinions of my pedestrian powers</p>
-<lb/><p>Returning to <placeName><settlement type="village">Kuruman</settlement></placeName>
+                <lb/><p>Returning to <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
 <lb/>in order to bring my luggage to
 <lb/>our proposed settlement I was
 <lb/>followed by the news that my
 <lb/>friendly tribe of <term type="tribe"><choice><sic>Bakuen</sic><corr>Bakuena</corr></choice></term> had
-<lb/>been driven from <placeName><settlement type="village">Lepelole</settlement></placeName> by
+    <lb/>been driven from <placeName><settlement type="village" ref="settlement.xml#sett0047">Lepelole</settlement></placeName> by
 <lb/><add place="marginleft">the <term type="tribe">Barolongs</term></add> <del type="strikethrough">another tribe</del> and my prospects
 <lb/>blasted - One of those periodical
 <lb/>outbreaks of war which seem
@@ -803,15 +803,15 @@ which have proved
 <lb/>and both the ancient and modern
 <lb/>heathen - <space extent="3" unit="chars"/> As some of the
 <lb/><term type="tribe">Bamangwato</term> people had
-<lb/>accompanied me to <placeName><settlement type="village">Kuruman</settlement></placeName>
+    <lb/>accompanied me to <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
 <lb/>I was obliged to restore them
 <lb/>and <w>the<del type="strikethrough">ir</del></w> goods <subst><del>of</del><add place="over-text">to</add></subst> their <term type="occupation">chief</term>
     <lb/><persName ref="people.xml#pers0520">Sekomi</persName> This made a journey
-<lb/><del type="cancelled">from Shokuan</del> to that <term type="occupation">chief</term>
+    <lb/><del type="cancelled">from <placeName><settlement type="village" ref="settlement.xml#sett0087">Shokuan</settlement></placeName></del> to that <term type="occupation">chief</term>
 <lb/><add place="below">^</add> <add place="above">again</add> necessary and I for the first
 <lb/>time performed a distance of
 <lb/>some <measure>hundred miles</measure> on oxback</p>
-<lb/><p><add place="marginleft"><note><metamark function="newParagraph" rend="gray" resp="#U2">Par</metamark> <metamark function="newParagraph" resp="#DL">//</metamark> <space extent="1" unit="chars"/><metamark function="newParagraph" rend="gray" resp="#U2">/</metamark></note></add> Returning <add place="below">^</add> <add place="above">towards <placeName><settlement type="village">Kuruman</settlement></placeName> <del type="strikethrough">again</del></add> I selected the beautiful
+                <lb/><p><add place="marginleft"><note><metamark function="newParagraph" rend="gray" resp="#U2">Par</metamark> <metamark function="newParagraph" resp="#DL">//</metamark> <space extent="1" unit="chars"/><metamark function="newParagraph" rend="gray" resp="#U2">/</metamark></note></add> Returning <add place="below">^</add> <add place="above">towards <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> <del type="strikethrough">again</del></add> I selected the beautiful
 <lb/><placeName><geogName type="valley">valley of Mabotsa</geogName></placeName> <add place="marginleft" hand="#U2" rend="gray"><subst><del hand="#DL"><metamark function="insertion"/><choice><abbr>Lat deg</abbr><expan>Latitude degree</expan></choice></del><add place="over-text" hand="#DL" rend="black"><metamark function="insertion"/><measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 25° 14' South 
         <lb/><choice><abbr>Long</abbr><expan>Longitude</expan></choice> 26° 30'(?)</measure></add></subst></add> 
 to form a 
@@ -825,7 +825,7 @@ to form a
 <lb/>I meant to keep in store to tell
 <lb/>my children when in my dotage
 <lb/>The <term type="tribe">Bak<del type="cancelled">h</del>atla</term> of the village
-<lb/><placeName><settlement type="village">Mabotsa</settlement></placeName> were much troubled
+                    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0074">Mabotsa</settlement></placeName> were much troubled
 <lb/>by <term type="animal">lions</term> which leaped into
 <lb/>the <term type="animal">cattle</term> pens <add place="below">^</add> <add place="above">by night</add> and destroyed
 <lb/>their <term type="animal">cows</term> - <space extent="3" unit="chars"/>They even attacked
@@ -1002,7 +1002,7 @@ to form a
 <lb/>myself to the tribe called <term type="tribe">Bakuena</term>
 <lb/>or <term type="tribe">Bakwains</term> the <term type="occupation">chief</term> of which
 <lb/><del type="cancelled">is</del> called <persName ref="people.xml#pers0516">Sechele</persName> <add place="below">˄</add> <add place="above">was</add> then living
-<lb/><add place="below">˄</add> <add place="above">with his tribe</add> at a place <subst><del>called</del><add place="over-text">named</add></subst> <placeName><settlement type="village">Chonuane</settlement></placeName>
+    <lb/><add place="below">˄</add> <add place="above">with his tribe</add> at a place <subst><del>called</del><add place="over-text">named</add></subst> <placeName><settlement type="village" ref="settlement.xml#sett0042">Chonuane</settlement></placeName>
 <lb/>I was from the first struck
                     
                     <pb facs="liv_000099_0029.jpg" n="0029"/>

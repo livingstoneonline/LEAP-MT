@@ -583,7 +583,7 @@ Three or four feet wide at the
 <lb/><add place="marginleft" rend="red" hand="#U3">as it is</add> <add place="below" rend="red" hand="#U3">˄</add> now called<add place="inline" hand="#U3" rend="red">,</add> <add place="above" hand="#U3" rend="red">the</add> <foreign xml:lang="la"><term type="plant">Sanseviere angolensis</term></foreign> - a
 <lb/>flag looking plant having a very
 <lb/>strong fibre that abounds from
-<lb/><placeName><settlement type="village">Kolobeng</settlement></placeName> to <placeName><country>Angola</country></placeName>, and the floats
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> to <placeName><country>Angola</country></placeName>, and the floats
 <lb/>themselves are pieces of a water
 <lb/>plant <space unit="chars" extent="9"/>containing valves
 <lb/>at each joint which retain the
@@ -620,7 +620,7 @@ Three or four feet wide at the
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">147</add> <add place="inspace"  hand="#U1" rend="gray right">150</add></fw>	
 <lb/><del type="strikethrough" rend="red" hand="#U3">a</del> river <del type="cancelled"><unclear cert="low">with</unclear></del><!-- there is another word beneath 'with', but it is illegible.JL --> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">that had</add> reedy banks</p>
 <lb/><space dim="vertical" extent="7" unit="lines"/>
-<lb/><p>Having returned to <placeName><settlement type="village">Kolobeng</settlement></placeName> <add place="above" hand="#U3" rend="red">I</add> <del type="cancelled" hand ="#U3" rend="red">and</del>
+                <lb/><p>Having returned to <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> <add place="above" hand="#U3" rend="red">I</add> <del type="cancelled" hand ="#U3" rend="red">and</del>
 <lb/>remained there till <date when="1850-04">April of 1850</date>, <subst><del type="strikethrough" hand ="#U3" rend="red">I</del> <add place="inline" hand="#U3" rend="red">and</add></subst>
     <lb/><add place="marginleft" hand="#U3" rend="red">then</add> left in company with <persName ref="people.xml#pers0373">M<hi rend="underline sup">rs</hi> <choice><abbr>L</abbr><expan>Livingstone</expan></choice></persName> and
 <lb/>our three children <add place="marginleft"><metamark function="insertion"/>with the
@@ -640,7 +640,7 @@ in order to go
 <lb/>labour at <placeName><settlement type="village">Serotli</settlement></placeName>, So we took
 <lb/>the more Eastern route through
 <lb/>the <term type="tribe">Bamang<subst><del>w</del><add place="over-text">u</add></subst>ato</term> town <subst><del>by</del><add place="over-text">and</add></subst> by
-<lb/><placeName><settlement type="village">Letloche</settlement></placeName> - That <term type="occupation">chief</term> asked why
+                    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0067">Letloche</settlement></placeName> - That <term type="occupation">chief</term> asked why
 <lb/>I had avoided him in our former
 <lb/>journey <del type="strikethrough">and when</del> I replied that
 <lb/>my reason was <del type="strikethrough" hand="#U3" rend="red">the knowledge</del>
@@ -798,7 +798,7 @@ had died of the <add place="below">˄</add> <add place="above"><term type="ailme
 <lb/><space dim="vertical" extent="2" unit="lines"/>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> Foiled in this second attempt
 <lb/>to reach <persName ref="people.xml#pers0515">Sebituane</persName> we returned
-<lb/>again to <placeName><settlement type="village">Kolobeng</settlement></placeName>, whither we
+    <lb/>again to <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>, whither we
 <lb/>were soon followed by a number
 <lb/>of messengers from that <term type="occupation">chief</term>
 <lb/>himself - When he heard of our
@@ -830,7 +830,7 @@ had died of the <add place="below">˄</add> <add place="above"><term type="ailme
 	<pb facs="liv_000099_0160.jpg" n="0160"/>
 	
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">152</add> <add place="inspace" hand="#U1" rend="gray right">155</add></fw>	
-<lb/>to visit <placeName><settlement type="village">Kuruman</settlement></placeName> and <persName ref="people.xml#pers0516">Sechele</persName>
+    <lb/>to visit <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> and <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>eager <add place="marginleft"><metamark function="insertion"/>for the sake
 	<lb/>of the commission
 	<lb/>thereon</add>

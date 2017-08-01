@@ -105,7 +105,7 @@
 <lb/>cause their flight - He then
 <lb/>passed us and secretly made
 <lb/>his escape away from
-<lb/><placeName><settlement type="town">Linyanti</settlement></placeName> <add place="marginleft"><metamark function="insertion"/>to <placeName><geogName type="lake">Lake
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> <add place="marginleft"><metamark function="insertion"/>to <placeName><geogName type="lake">Lake
     <lb/>Ngami</geogName></placeName></add>
 dreading the vengeance
 <lb/>of <persName ref="people.xml#pers0519">Sekeletu</persName> for his crime - 
@@ -147,7 +147,7 @@ dreading the vengeance
 <lb/>the true nature of this form
     <lb/>of <orgName>slavery</orgName> - </p>
 <lb/><space dim="vertical" extent="2" unit="lines"/>
-<lb/><p>Leaving <del type="cancelled"><unclear cert="medium"><placeName><settlement type="village">Mabonta</settlement></placeName></unclear></del> <placeName><settlement type="town">Naliele</settlement></placeName>
+                <lb/><p>Leaving <del type="cancelled"><unclear cert="medium"><placeName><settlement type="village">Mabonta</settlement></placeName></unclear></del> <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName>
 <lb/>with <del type="cancelled">authorit</del> amidst abundance
 <lb/>of good wishes for the success
 <lb/>of our expedition and hopes
@@ -277,7 +277,7 @@ dreading the vengeance
 <lb/>while so much vegetable
 <lb/>matter came floating down</p>
 <lb/><p><note place="inline"><date when="1853-12-17">17<hi rend="sup underline">th</hi> December</date> at
-<lb/><placeName><settlement type="village">Libonta</settlement></placeName></note> <space extent="6" unit="chars"/>We were detained
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0069">Libonta</settlement></placeName></note> <space extent="6" unit="chars"/>We were detained
 <lb/>for days together collecting presents
 <lb/>of <term type="foodstuff">fat</term> and <term type="foodstuff">butter</term> according
 <lb/>to the orders of <persName ref="people.xml#pers0519">Sekeletu</persName> as
@@ -288,7 +288,7 @@ dreading the vengeance
 <lb/>rains begin</seg> - Some of my
 <lb/>own men <del type="cancelled">we</del> required my
 <lb/>assistance as well as the
-<lb/>people of <placeName><settlement type="village">Libonta</settlement></placeName> - <add place="marginleft"><metamark function="insertion"/>A <term type="animal">lion</term> had
+    <lb/>people of <placeName><settlement type="village" ref="settlement.xml#sett0069">Libonta</settlement></placeName> - <add place="marginleft"><metamark function="insertion"/>A <term type="animal">lion</term> had
     <lb/>done a good
     <lb/>deal of <w>mis-
     <lb break="no"/>-chief</w> here
@@ -336,7 +336,7 @@ dreading the vengeance
 <lb/>find it <del type="cancelled">pr</del> convenient to notice
 <lb/>faults they often go to considerable
 <lb/>lengths in wrong - </p>
-<lb/><p><placeName><settlement type="village">Libonta</settlement></placeName> is the last town
+                <lb/><p><placeName><settlement type="village" ref="settlement.xml#sett0069">Libonta</settlement></placeName> is the last town
 <lb/>of the <term type="tribe">Makololo</term> so when we
 <lb/>parted with it we had only
 <lb/>a few <term type="animal">cattle</term> stations <add place="marginleft"><metamark function="insertion"/>and <w>out-
@@ -345,7 +345,7 @@ dreading the vengeance
 in front
 <lb/>and then an uninhabited border
 <lb/>country till we came to
-    <lb/><placeName><region ref="region.xml#region0038">Londa</region></placeName> or <placeName><region ref="region.xml#region0038">Lunda</region></placeName> - <placeName><settlement type="village">Libonta</settlement></placeName>
+                    <lb/><placeName><region ref="region.xml#region0038">Londa</region></placeName> or <placeName><region ref="region.xml#region0038">Lunda</region></placeName> - <placeName><settlement type="village" ref="settlement.xml#sett0069">Libonta</settlement></placeName>
 <lb/>is situated like the rest of
 <lb/>the villages in the <placeName><geogName type="valley"><term type="tribe">Barotse</term>
 <lb/>valley</geogName></placeName> on a mound - but
@@ -634,7 +634,7 @@ in front
 <lb/><term type="animal">Flamingo</term> - The <term type="animal">Numidian
 <lb/>crane</term> or <term type="animal">Demoiselle</term> some
 <lb/>of which tamed at <orgName ref="orgName.xml#org0056">Government
-<lb/>House <placeName><settlement type="city">Cape town</settlement></placeName></orgName> struck everyone
+    <lb/>House <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape town</settlement></placeName></orgName> struck everyone
 <lb/>as most graceful ornaments
 <lb/><add place="marginleft"><metamark function="insertion"/>to a noble
     <lb/>mansion</add>
@@ -772,7 +772,7 @@ as they perched on <add place="below">^</add> <add place="above">its</add> pilla
 <lb/>are more savage then in
 <lb/>some others - Many children
 <lb/>are carried off annually
-<lb/>at <placeName><settlement type="town">Sesheke</settlement></placeName> and other
+    <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> and other
 <lb/>towns - for notwithstanding
 
 
@@ -788,7 +788,7 @@ as they perched on <add place="below">^</add> <add place="above">its</add> pilla
 <lb/><term type="animal">calves</term> are lost also and
 <lb/>it is seldom a number
 <lb/>of <term type="animal">cows</term> can be crossed over
-<lb/>at <placeName><settlement type="town">Sesheke</settlement></placeName> without losing
+    <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> without losing
 <lb/>some - I never could
 <lb/>avoid shuddering in seeing
 <lb/>my men swimming <w>ac<del type="cancelled">c</del>ross</w>
@@ -885,7 +885,7 @@ and though they eat
 <lb/>
                 <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> When we had gone <del type="cancelled">twenty</del>
 <lb/>or <measure>thirty or forty miles</measure> above
-<lb/><placeName><settlement type="village">Libonta</settlement></placeName> we sent eleven of
+                    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0069">Libonta</settlement></placeName> we sent eleven of
 <lb/>our <orgName>captives</orgName> to the <del type="strikethrough">North</del> West
                     <lb/>to the <term type="occupation">chief</term> called <persName ref="people.xml#pers0384">Makoma</persName>
 <lb/>with an explanatory message

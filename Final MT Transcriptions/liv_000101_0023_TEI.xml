@@ -372,7 +372,7 @@ than
 <lb/>to the flattering letters of
 <lb/>recommendation I carried
     <lb/>from the <persName ref="people.xml#pers0297">Chevalier Du Prat</persName>
-<lb/>of <placeName><geogName type="city"><choice><orig>Cape <del type="cancelled">t</del><add place="below">^</add><add place="marginleft">T<metamark function="subst">/</metamark></add>own</orig><reg>Cape Town</reg></choice></geogName></placeName> but I am
+    <lb/>of <placeName><geogName type="city" ref="settlement.xml#sett0038"><choice><orig>Cape <del type="cancelled">t</del><add place="below">^</add><add place="marginleft">T<metamark function="subst">/</metamark></add>own</orig><reg>Cape Town</reg></choice></geogName></placeName> but I am
 <lb/>inclined to believe that <add place="inline">my</add>
     <lb/><add place="marginleft">friend</add> <persName ref="people.xml#pers0244">Cypriano</persName> was influenced
 <lb/>too by feelings of genuine
@@ -397,7 +397,7 @@ furnished
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>30</note></add> prepare <del type="strikethrough">"</del><term type="foodstuff">farina</term>' <del type="strikethrough">for f</del>
 <lb/>(<foreign xml:lang="pt"><term type="foodstuff">farinha</term></foreign>) for the four or
 <lb/>five days of our journey
-<lb/><add place="marginleft"><note><placeName><geogName type="village">Cassangé</geogName></placeName></note></add> to <placeName><geogName type="village">Cassange</geogName></placeName> - <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-218"/>and never <metamark function="insertion"/><anchor xml:id="reorder-93"/>
+    <lb/><add place="marginleft"><note><placeName><geogName type="village" ref="settlement.xml#sett0039">Cassangé</geogName></placeName></note></add> to <placeName><geogName type="village" ref="settlement.xml#sett0039">Cassange</geogName></placeName> - <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-218"/>and never <metamark function="insertion"/><anchor xml:id="reorder-93"/>
     <lb/>hinted <metamark function="reorder" spanTo="#meta-220"/><seg corresp="reorder-93">even</seg><anchor xml:id="meta-220"/>
     <lb/>at payment -
     <lb/>My wretched
@@ -551,14 +551,14 @@ him to the house of the
 <lb/>food for my famishing
 <lb/>party - free of charge - </p>
 <lb/>
-<lb/><p>The village <placeName><settlement type="village">Cassangé</settlement></placeName>
+                <lb/><p>The village <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassangé</settlement></placeName>
 <lb/>is composed of <del type="cancelled">a number</del>
 <lb/>thirty or forty <choice><sic><term type="occupation">traders</term></sic><corr><term type="occupation">traders</term>'</corr></choice>
 <lb/>houses<add place="inline" rend="gray" hand="#U2">,</add> <del type="cancelled">which are large</del>
 <lb/><del type="cancelled">and</del> <del type="cancelled" hand="#DL"><del type="cancelled" rend="gray" hand="#U2">and</del></del> scattered about <add place="marginleft"><metamark function="insertion"/>without any regularity</add>
 <lb/>on an elevated <del type="cancelled">spot</del> flat
 <lb/>spot in the great <placeName><geogName type="river">Quango</geogName></placeName>
-<lb/>or <placeName><region ref="region.xml#region0025"><placeName><settlement type="village">Cassange</settlement></placeName> valley</region></placeName> <del type="cancelled">without</del>
+                    <lb/>or <placeName><region ref="region.xml#region0025"><placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> valley</region></placeName> <del type="cancelled">without</del>
 <lb/><del type="strikethrough">any regularity</del> - They
 <lb/>are built of wattle and
 <lb/>daub<add place="inline" rend="gray" hand="#U2">,</add> and surrounded
@@ -599,7 +599,7 @@ him to the house of the
 <lb/>the country<add place="inline" rend="gray" hand="#U2">;</add> - <del type="cancelled">Several <term type="occupation">Governors</term></del>
 <lb/>of <add place="marginleft"><metamark function="insertion"/>some of the 
     <lb/><term type="occupation">Governors</term> of 
-    <lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><orig>Luanda</orig></choice></settlement></placeName><add place="inline" hand="#U2" rend="gray">,</add>
+    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><orig>Luanda</orig></choice></settlement></placeName><add place="inline" hand="#U2" rend="gray">,</add>
     <lb/>the capital of this<add place="inline" hand="#U2" rend="gray">,</add> the 
     <lb/>Kingdom 
     <lb/>of <placeName><country>Angola</country></placeName><add place="inline" rend="gray" hand="#U2">,</add></add> 
@@ -633,7 +633,7 @@ him to the house of the
 <lb/>wars with them without
 <lb/>once enquiring whether any
 <lb/><add place="marginleft">or perhaps all</add> <del type="strikethrough">of</del> the fault lay with
-<lb/><del type="strikethrough" hand="#DL"><del type="strikethrough" rend="gray" hand="#U2">ourselves</del></del> <retrace hand="#DL"><add place="marginleft" rend="gray" hand="#U2"><metamark function="insertion"/>our frontier colonists</add></retrace> - The <placeName><settlement type="village">Cassangé</settlement></placeName>
+                    <lb/><del type="strikethrough" hand="#DL"><del type="strikethrough" rend="gray" hand="#U2">ourselves</del></del> <retrace hand="#DL"><add place="marginleft" rend="gray" hand="#U2"><metamark function="insertion"/>our frontier colonists</add></retrace> - The <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassangé</settlement></placeName>
 <lb/><term type="occupation">traders</term> seem inclined to
 <lb/>spread along the <placeName><geogName type="river">Quango</geogName></placeName>
 <lb/>in spite of the desire of
@@ -688,7 +688,7 @@ him to the house of the
     <lb/>have none</add> 
 but that
 <lb/>which puzzled many
-<lb/>besides my <placeName><settlement type="village">Cassangé</settlement></placeName>
+                    <lb/>besides my <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassangé</settlement></placeName>
 <lb/>friends was the anomaly
 <lb/>of my being a "<foreign xml:lang="pt"><term type="occupation">sacerdote</term></foreign>"
 <lb/>with a wife &amp; four
@@ -716,7 +716,7 @@ but that
 <lb/>as a day of rejoicing
 <lb/>though the <term type="people">Portuguese</term>
 <lb/>have no <term type="occupation">priests</term> at
-<lb/><placeName><geogName type="village">Cassangé</geogName></placeName> - The coloured 
+    <lb/><placeName><geogName type="village" ref="settlement.xml#sett0039">Cassangé</geogName></placeName> - The coloured 
 <lb/>population dressed up a
 <lb/>figure intended to represent
     <lb/><persName ref="people.xml#pers0336">Judas Iscariot</persName> and paraded
@@ -872,7 +872,7 @@ were
 
 
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">40</add></fw></p>
-                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0400">Mead</persName></hi></note></add> From the village of <placeName><geogName type="village">Cassangé</geogName></placeName>
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0400">Mead</persName></hi></note></add> From the village of <placeName><geogName type="village" ref="settlement.xml#sett0039">Cassangé</geogName></placeName>
 <lb/>we have a good view
 <lb/>of the surrounding country -
 <lb/>It is a gently undulating
@@ -915,7 +915,7 @@ were
 <lb/>maps were sent to <placeName><bloc>Europe</bloc></placeName>
 <lb/>representing the <placeName><geogName type="river">Quango</geogName></placeName> and
 <lb/><placeName><geogName type="river">Coanza</geogName></placeName> as the same
-<lb/>river and <placeName><geogName type="village">Cassangé</geogName></placeName> placed
+                    <lb/>river and <placeName><geogName type="village" ref="settlement.xml#sett0039">Cassangé</geogName></placeName> placed
 <lb/>about <measure>one hundred miles</measure>
 <lb/><add place="marginleft"><del type="strikethrough">distant</del></add> from its true position
 <lb/>The frequent recurrence
@@ -996,7 +996,7 @@ were
 <lb/><term type="foodstuff">flour</term> <term type="foodstuff">bread</term> <term type="foodstuff">butter</term> &amp; <term type="foodstuff">cheese</term>
 <lb/>from the <term type="people">Americans</term></p>
 <lb/>
-<lb/><p>As the <term type="occupation">traders</term> of <placeName><settlement type="village">Cassange</settlement></placeName>
+                <lb/><p>As the <term type="occupation">traders</term> of <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName>
 <lb/>were the first white
 <lb/>men we had come to
 <lb/>we sold the tusks belonging

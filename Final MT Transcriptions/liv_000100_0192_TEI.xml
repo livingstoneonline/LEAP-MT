@@ -514,8 +514,8 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <pb facs="liv_000100_0202" n="0202"/>                           
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">201</add></fw>
 <lb/>The rapids in the part of the 
-<lb/>river between <placeName><settlement type="town"><choice><orig>Katima molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName> &amp;
-<lb/><placeName><settlement type="village">Nameta</settlement></placeName> are relieved by <add place="below">^</add><add place="above">several</add> reaches
+    <lb/>river between <placeName><settlement type="town" ref="settlement.xml#sett0062"><choice><orig>Katima molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName> &amp;
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0081">Nameta</settlement></placeName> are relieved by <add place="below">^</add><add place="above">several</add> reaches
 <lb/>of still deep water of <measure>15 or
 <lb/>20 miles</measure> long - In these
 <lb/>very large herds of <term type="animal">hippopotami</term>
@@ -749,7 +749,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>I had seen - </p>
 <lb/><p>Nothing worthy of note
 <lb/>occurred on our way up
-<lb/>to <placeName><settlement type="village">Nameta</settlement></placeName> - There we heard
+    <lb/>to <placeName><settlement type="village" ref="settlement.xml#sett0081">Nameta</settlement></placeName> - There we heard
 <lb/>that a party of the <term type="tribe">Makololo</term>
     <lb/>headed by <persName ref="people.xml#pers0369">Lerimo</persName> had made
 <lb/>a foray to the North and
@@ -766,7 +766,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>high up the <placeName><geogName type="river">Leeambye</geogName></placeName> and
 <lb/>establishing himself there
 <lb/>had sent men down to
-<lb/>near <placeName><settlement type="town">Naliele</settlement></placeName> to draw away
+    <lb/>near <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> to draw away
 <lb/>the remaining <term type="tribe">Barotse</term>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>41</note></add> from their allegiance -
     <lb/><persName ref="people.xml#pers0369">Lerimo</persName>'s party had taken
@@ -792,7 +792,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>of beads <subst><del><unclear cert="medium">as</unclear></del><add place="over-text">in</add></subst> confirmation
 <lb/>of the message of peace we
 <lb/>were to deliver</p>
-    <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></hi></note></add> When we reached <placeName><settlement type="town">Litofe</settlement></placeName>
+    <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></hi></note></add> When we reached <placeName><settlement type="town" ref="settlement.xml#sett0072">Litofe</settlement></placeName>
 <lb/>we <del type="cancelled">s</del>heard that a fresh foray
 <lb/>was in contemplation
 <lb/>but I sent forward orders
@@ -832,7 +832,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>he was advised and as 
 <lb/>he asked me to lay the
 <lb/>matter before the <term type="occupation">under
-<lb/>chiefs</term> of <placeName><settlement type="town">Naliele</settlement></placeName> and when
+    <lb/>chiefs</term> of <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> and when
 <lb/>we reached that place on the
 <lb/><date when="1853-12-09">9<hi rend="sup">th</hi> December</date> did so in an
 <lb/>assembly (<foreign xml:lang="tn">picho</foreign>) called expressly
@@ -853,7 +853,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <lb/>visit a <term type="animal">lion</term> had
     <lb/>actually killed 
     <lb/>eight people
-    <lb/>of <placeName><settlement type="town">Naliele</settlement></placeName> without
+            <lb/>of <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> without
     <lb/>his daring to
     <lb/>encounter it -
     <lb/>The <term type="tribe">Makololo</term> are
@@ -948,7 +948,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>with the poor <choice><sic>creatures</sic><corr>creatures'</corr></choice> wishes 
 <lb/>for our success <supplied cert="high">-</supplied> </p>
 <lb/><p><seg type="weather">The rains began while
-<lb/>we were at <placeName><settlement type="town">Naliele</settlement></placeName> - this is
+    <lb/>we were at <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> - this is
 <lb/>much later than usual but
 <lb/>through the <placeName><geogName type="valley">Barotse valley</geogName></placeName>
 <lb/>has been in need of rain
@@ -1006,7 +1006,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <pb facs="liv_000100_0214" n="0214"/>                           
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">213</add></fw>  
     <lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> In coming up the river
-<lb/>to <placeName><settlement type="town">Naliele</settlement></placeName> we met a party 
+    <lb/>to <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> we met a party 
 <lb/>of fugitive <term type="tribe">Barotse</term> returning
 <lb/>to their homes and as
 <lb/>it illustrates the social status
@@ -1037,7 +1037,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/><p>When <persName ref="people.xml#pers0519">Sekeletu</persName> and I <add place="below">^</add> <add place="above">first</add> ascended
 <lb/>the <placeName><geogName type="river">Leeambye</geogName></placeName> <subst><del>the fir</del><add place="over-text">we</add></subst> met
     <lb/><persName ref="people.xml#pers0522">Sekobinyane</persName> coming down
-<lb/>on his way to <placeName><settlement type="town"><choice><orig>Liny-anti</orig><reg>Linyanti</reg></choice></settlement></placeName> -
+    <lb/>on his way to <placeName><settlement type="town" ref="settlement.xml#sett0071"><choice><orig>Liny-anti</orig><reg>Linyanti</reg></choice></settlement></placeName> -
 <lb/>On being asked the news
 
 </p>

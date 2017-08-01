@@ -288,7 +288,7 @@ and many attempts
 <lb/>my intention to an <orgName>African</orgName>
 	<lb/><term type="occupation">traveller</term> <persName ref="people.xml#pers0544">Colonel Steele</persName> then <term type="occupation"><choice><sic>Aid-de
 		<lb/>camp</sic><corr>Aide-de-camp</corr></choice></term> to the <persName ref="people.xml#pers0315">Marquis of <placeName><region ref="region.xml#region0051">Tweedale</region></placeName></persName>
-<lb/>at <placeName><settlement type="city">Madras</settlement></placeName> he made it known
+	<lb/>at <placeName><settlement type="city" ref="settlement.xml#sett0041">Madras</settlement></placeName> he made it known
 <lb/>to <del type="cancelled">our</del><add place="above" hand="#U3" rend="red">two</add> other <add place="above"><del type="strikethrough" hand="#U3" rend="red">two</del> gentlemen</add> <del type="cancelled">friends</del> <w>who<subst><del>m</del><add place="over-text">se</add></subst></w> <del type="cancelled">we</del>
 <lb/><add place="marginleft">friendship we</add> had made <subst><del type="strikethrough">by</del><add place="above">during their</add></subst> <orgName>African</orgName> travel <choice><abbr>viz.</abbr><expan>videlicet</expan></choice>
 	<lb/><persName ref="people.xml#pers0557">Captain Vardon</persName> and <persName ref="people.xml#pers0466">M<hi rend="sup underline">r</hi> 
@@ -813,7 +813,7 @@ The compact they enter into is
 <lb/> wells <del type="strikethrough" hand="#U3" rend="red">were not commensurate</del>
 	<lb/><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName ref="people.xml#pers0572">Wilkes</persName></note></hi></add><!-- presumably the name of one of Murray's editors.JL --> Just before the arrival of
 <lb/>my companions a party 
-<lb/>of the people of the Lake <add place="marginleft"><metamark function="insertion"/>came to <placeName><settlement type="village">Kolobeng</settlement></placeName>
+	<lb/>of the people of the Lake <add place="marginleft"><metamark function="insertion"/>came to <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
             <lb/>stating that - 
             <lb/>they were <del type="cancelled">s</del></add>
 	<lb/><add place="below">^</add> <subst><del>sent</del><add place="over-text">sent</add></subst> by <persName ref="people.xml#pers0370">Lechulathebe</persName> the

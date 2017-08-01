@@ -147,7 +147,7 @@ before they
 <lb/>saw a <seg type="weather">heavy thunder shower</seg> 
 <lb/>make it assume its ancient
 <lb/>appearance of running to the
-<lb/>North - Between <placeName><settlement type="village">Lotlakani</settlement></placeName> &amp;
+    <lb/>North - Between <placeName><settlement type="village" ref="settlement.xml#sett0066">Lotlakani</settlement></placeName> &amp;
 <lb/><placeName><geogName type="pan">Nchokotsa</geogName></placeName> we pass the small
 <lb/>well named <del type="strikethrough"><placeName><geogName type="well">Orapa</geogName></placeName> <placeName><geogName type="well">Thutsa</geogName></placeName></del>
 <lb/><placeName><geogName type="well">Orapa</geogName></placeName> &amp; another <w><subst><del>n</del><add place="over-text">c</add></subst>alled</w> <placeName><geogName type="well">Thutsa</geogName></placeName>
@@ -214,9 +214,9 @@ before they
 <lb/>having this year <w>be<subst><del>ing</del><add place="over-text">en</add></subst></w> delayed 
 <lb/>beyond the usual time we found
  <lb/>the thermometer <add place="marginleft"><metamark function="insertion"/>during the day stand</add> at 96°  in the coolest
-<lb/><add place="marginleft">possible</add> shade - This height at <placeName><settlement type="village">Kolobeng</settlement></placeName>
+    <lb/><add place="marginleft">possible</add> shade - This height at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
 <lb/>always portended rains at
-<lb/>hand - A<add place="inline" hand="#U3" rend="red">t</add> <placeName><settlement type="village">Kuruman</settlement></placeName> when
+    <lb/>hand - A<add place="inline" hand="#U3" rend="red">t</add> <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> when
 <lb/>it rises above 84° the same
 <lb/>phenomenon may be considered
 <lb/>near - While farther North
@@ -430,7 +430,7 @@ consisting of six branches
 <lb/>vitality in the country - It was 
 <lb/>therefore with surprise that
 <lb/>we came upon a dead one
-<lb/>at <placeName><settlement type="village">Tlomtla</settlement></placeName> <measure>a few miles
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0093">Tlomtla</settlement></placeName> <measure>a few miles
 <lb/>beyond this</measure> <add place="below" hand="#U3" rend="red">˄</add>c<add place="above" hand="#U3" rend="red">spot</add> - It is the same as
     <lb/>those which <persName ref="people.xml#pers0246">Adanson</persName> and
 <lb/>others believed<add place="inline" hand="#U3" rend="red">,</add> from specimens
@@ -710,7 +710,7 @@ detached from the parts
 <lb/>unquestionably increases
 <lb/>both the beauty courage and
 <lb/>physical powers <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">of the race</add> - When at
-<lb/><placeName><settlement type="village">Kolobeng</settlement></placeName> I took notes of the
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> I took notes of the
 <lb/>different numbers of <term type="animal">elephants</term>
 <lb/>killed in the course of the
 <lb/>season by the various parties
@@ -773,7 +773,7 @@ detached from the parts
 <lb/><choice><sic>the</sic><corr>The</corr></choice> coats<!-- there is a word beneath 'coats' but it is illegible.JL --> of mail &amp; greaves
 <lb/>of the <orgName ref="orgName.xml#org0061"><term type="occupation"><add place="inline" hand="#U3" rend="red">K</add>nights</term> of <placeName><geogName type="island">Malta</geogName></placeName></orgName> and
 <lb/>the armour from the Tower
-<lb/>exhibited at the <placeName><settlement type="castle">Eglinton</settlement></placeName> 
+    <lb/>exhibited at the <placeName><settlement type="castle" ref="settlement.xml#sett0049">Eglinton</settlement></placeName> 
 <lb/>tournament may be<!-- The Eglinton Tournament 1839, a re-enactment of a medieval joust and revel held in Ayrshire in 1839, sh -->
 <lb/>considered decisive on the
 <lb/>question of the greater size

@@ -142,7 +142,7 @@
 <lb/>for sale - </p>
 <lb/>            
 <lb/><p>In entering the district of
-<lb/><add place="marginleft"><note><placeName><settlement type="town">Ambaca</settlement></placeName></note></add> <placeName><settlement type="town">Ambaca</settlement></placeName> we found the
+    <lb/><add place="marginleft"><note><placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName></note></add> <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> we found the
 <lb/>landscape enlivened by the
 <lb/>appearance of lofty mountains 
 <lb/>in the distance - The grass
@@ -172,9 +172,9 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>great number of little flowing
 <lb/>streams which unit<subst><del>i</del><add place="over-text">e</add></subst><del type="cancelled">ng</del>
 <lb/>in the <placeName><geogName type="river">Lucalla</geogName></placeName> - This little
-<lb/>river drains <placeName><settlement type="town">Ambaca</settlement></placeName> then
+    <lb/>river drains <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> then
 <lb/>falls into the <placeName><geogName type="river">Coanza</geogName></placeName> <subst><del>in</del><add place="over-text">to</add></subst> the
-<lb/>South East at <placeName><settlement type="town">Massangano</settlement></placeName>
+    <lb/>South East at <placeName><settlement type="town" ref="settlement.xml#sett0077">Massangano</settlement></placeName>
 <lb/>We crossed the <placeName><geogName type="river">Lucalla</geogName></placeName> by
 <lb/>means of a large canoe
 
@@ -187,7 +187,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>about a penny per head -
 <lb/>A <measure>few miles</measure> beyond the
 <lb/><placeName><geogName type="river">Lucalla</geogName></placeName> we came to
-<lb/>the village of <placeName><settlement type="town">Ambaca</settlement></placeName> an
+    <lb/>the village of <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> an
 <lb/>important place in former 
 <lb/>times but now a mere
 <lb/>paltry village <add place="marginleft"><metamark function="insertion"/>on a
@@ -211,7 +211,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>are still standing</p>
 <lb/><p>We were most kindly 
 <lb/><choice><sic>recieved</sic><corr>received</corr></choice> by the <term type="occupation">Commandant</term>
-    <lb/>of <placeName><settlement type="town">Ambaca</settlement></placeName> <persName ref="people.xml#pers0289">Arsenio P. P. <add place="above">de</add> Carpo</persName>
+    <lb/>of <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> <persName ref="people.xml#pers0289">Arsenio P. P. <add place="above">de</add> Carpo</persName>
 <lb/>who spoke a little English <del type="strikethrough">&amp;</del>
 <lb/>He recommended <term type="foodstuff">wine</term> for
 <lb/>my debility and here I took
@@ -227,7 +227,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/><term type="ailment">fever</term> <del type="cancelled">which</del> <add place="below">^</add> <add place="above">They</add> were curious
 <lb/>even to myself for though
 <lb/>I had tried several times
-<lb/>since we left <placeName><settlement type="village">Ngio</settlement></placeName> to
+    <lb/>since we left <placeName><settlement type="village" ref="settlement.xml#sett0051">Ngio</settlement></placeName> to
 <lb/>take <subst><del>a</del><add place="over-text">L</add></subst>unar observations
 <lb/>I could not avoid confusion
 <lb/>of time and distance - <del type="cancelled">I could</del>
@@ -240,7 +240,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>hence many of the portions
 <lb/><w>o<subst><del>n</del><add place="over-text">f</add></subst></w> this part of the route
 <lb/>were left till my return
-<lb/>from <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-292"/>often on
+    <lb/>from <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-292"/>often on
     <lb/>getting up
     <lb/>in the
     <lb/>mornings I
@@ -275,9 +275,9 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>contain upwards of 40,000
 <lb/>souls - Some <measure>ten or twelve
 <lb/>miles</measure> to the North of the village
-<lb/>of <placeName><settlement type="town">Ambaca</settlement></placeName> there once
+    <lb/>of <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> there once
 <lb/>stood the <orgName><term type="occupation">missionary</term>
-<lb/>station of <placeName><settlement type="village">Cahenda</settlement></placeName></orgName> and
+    <lb/>station of <placeName><settlement type="village" ref="settlement.xml#sett0033">Cahenda</settlement></placeName></orgName> and
 <lb/>it is now quite astonishing
 
 
@@ -288,7 +288,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/><w>th<subst><del>e</del><add place="over-text">i</add></subst>s</w> district - <w>Th<subst><del>e</del><add place="over-text">i</add></subst>s</w> is the fruit
     <lb/>of the labours of the <orgName ref="orgName.xml#org0060">Jesuits</orgName>
 <lb/><subst><del>o</del><add place="over-text">f</add></subst>or they taught the people
-<lb/>of <placeName><settlement type="town">Ambaca</settlement></placeName> usually termed
+    <lb/>of <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> usually termed
     <lb/><orgName ref="orgName.xml#org0035">Ambacistas</orgName> and ever since
 <lb/>the expulsion of the <term type="occupation">teachers</term>
 <lb/>by the <persName ref="persName.xml#pers0576"><term type="occupation">Marquis</term> of <placeName><settlement type="town">Pombal</settlement></placeName></persName>
@@ -350,7 +350,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>and <term type="ailment">purging</term> - Where these
 <lb/>effects do not follow
 <lb/>as we found afterwards
-<lb/>at <placeName><settlement type="town">Tete</settlement></placeName> <term type="ailment">fever</term> sets in
+    <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0091">Tete</settlement></placeName> <term type="ailment">fever</term> sets in
 <lb/>and I was assured by
 <lb/>intelligent <term type="people">Portuguese</term> there
 <lb/>that death <del type="cancelled"><subst><del>f</del><add place="over-text">b</add></subst>y this <term type="ailment">fever</term></del>
@@ -379,7 +379,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>gratitude</p>
 <lb/>
 <lb/><p>We spent <date when="1854-05-14">Sunday 14<hi rend="sup">th</hi>
-<lb/>May</date> at <add place="marginleft"><note><placeName><settlement type="town">Cabinda</settlement></placeName></note></add> <placeName><settlement type="town">Cabinda</settlement></placeName> which
+    <lb/>May</date> at <add place="marginleft"><note><placeName><settlement type="town" ref="settlement.xml#sett0031">Cabinda</settlement></placeName></note></add> <placeName><settlement type="town" ref="settlement.xml#sett0031">Cabinda</settlement></placeName> which
 <lb/>is one of the stations
 <lb/>of <add place="above">the</add> <term  type="occupation">subcommandants</term>
 <lb/><add place="marginleft">who</add> <del type="strikethrough">which</del> are placed at
@@ -400,14 +400,14 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>the farther we proceeded West
 <lb/>the ranges of lofty blue
 <lb/><placeName><geogName type="mountains">mountains <add place="marginleft"><metamark function="insertion"/>of Libollo</add></geogName></placeName> which in coming
-<lb/>towards <placeName><settlement type="town">Ambaca</settlement></placeName> we had
+    <lb/>towards <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> we had
 <lb/>seen <measure>thirty or forty miles</measure>
 <lb/>to our South were now
 <lb/>shut out from our
 <lb/>view by others nearer
 <lb/>at hand and the grey
 <lb/><placeName><geogName type="mountains">ranges of Cahenda</geogName></placeName> which
-<lb/>while we <subst><del>in</del><add place="over-text">were</add></subst> in <placeName><settlement type="town">Ambaca</settlement></placeName> stood
+    <lb/>while we <subst><del>in</del><add place="over-text">were</add></subst> in <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> stood
 <lb/>clearly defined <measure>eight or ten
 <lb/>miles off</measure> to the North
 <lb/>were now close upon
@@ -415,7 +415,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>back towards <add place="marginleft"><metamark function="insertion"/>the open
     <lb/>pastoral
     <lb/>country of</add> 
-<placeName><settlement type="town">Ambaca</settlement></placeName>
+    <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName>
 <lb/><choice><sic>The</sic><corr>the</corr></choice> broad green <subst><del><unclear cert="medium">p</unclear></del><add place="over-text">g</add></subst>ently
 <lb/>undulating <del type="strikethrough">pastoral</del> plains
 <lb/>seemed in a hollow
@@ -424,8 +424,8 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>as we <del type="strikethrough">we</del> went <w>West-
 <lb break="no"/><add place="marginleft">wards</add></w> <add place="below">^</add> we were entering upon
 <lb/>quite a wild <add place="below">^</add> <add place="above">looking</add> mountainous
-<lb/>district called <placeName><settlement type="town">Golungo
-<lb/>Alto</settlement></placeName> <add place="marginleft"><note><placeName><settlement type="town">Golungo
+    <lb/>district called <placeName><settlement type="town" ref="settlement.xml#sett0052">Golungo
+        <lb/>Alto</settlement></placeName> <add place="marginleft"><note><placeName><settlement type="town" ref="settlement.xml#sett0052">Golungo
 <lb/>Alto</settlement></placeName></note></add> 
 We met numbers of 
 <lb/><term type="tribe">Mambari</term> on their way
@@ -433,7 +433,7 @@ We met numbers of
 <lb/>of them had belonged to 
 <lb/>the parties which had
 <lb/>penetrated as far as
-<lb/><placeName><settlement type="town">Linyanti</settlement></placeName> and foolishly
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> and foolishly
 <lb/><choice><orig>shewed</orig><reg>showed</reg></choice> their displeasure
 <lb/>at the prospect of the
 
@@ -557,7 +557,7 @@ We met numbers of
 <lb/>carriage of ivory and
 <lb/><choice><sic><term type="insect">bees</term></sic><corr><term type="insect">bees</term>'</corr></choice> wax to the coast
 <lb/>was resorted to by the
-<lb/>Government of <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>
+                <lb/>Government of <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName>
 
 
 <pb facs="liv_000101_0076.jpg" n="0076"/>  
@@ -621,8 +621,8 @@ We met numbers of
 <lb/>but I shall reserve further
 <lb/>notices of this region
 <lb/>till our return from
-<lb/><placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></p>
-<lb/><p>We left <placeName><settlement type="town">Golungo Alto</settlement></placeName> on
+    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName></p>
+            <lb/><p>We left <placeName><settlement type="town" ref="settlement.xml#sett0052">Golungo Alto</settlement></placeName> on
 <lb/>the <date when="1854-05-24">24<hi rend="sup underline">th</hi> of May</date> - the winter
 <lb/>in these parts - Every evening
 <lb/><seg type="weather">clouds come rolling in
@@ -642,7 +642,7 @@ We met numbers of
 <lb/>we become familiar with
 <lb/>morning mists</seg>, a thing we
 <lb/>never once saw at
-<lb/><placeName><settlement type="village">Kolobeng</settlement></placeName> - The thermometer
+                <lb/><placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> - The thermometer
 <lb/>stands at 80° by day but
 <lb/>sinks as low as 76° by
 <lb/>night</p>
@@ -661,8 +661,8 @@ We met numbers of
 <lb/>We passed through forests
 <lb/>of gigantic timber and
 <lb/>at an open space named
-<lb/><placeName><settlement type="village">Cambondo</settlement></placeName> about <measure>eight
-<lb/>miles</measure> from <placeName><settlement type="town">Golungo Alto</settlement></placeName>
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0035">Cambondo</settlement></placeName> about <measure>eight
+        <lb/>miles</measure> from <placeName><settlement type="town" ref="settlement.xml#sett0052">Golungo Alto</settlement></placeName>
 <lb/>found numbers of <term type="occupation">carpenters</term>
 <lb/>converting these lofty
 <lb/>trees into planks in
@@ -686,7 +686,7 @@ We met numbers of
 <lb/>The object of the <term type="occupation">carpenters</term>
 <lb/>was to make little chests
 <lb/>and they drive a constant
-<lb/>trade in them at <placeName><settlement type="village">Cambondo</settlement></placeName>
+    <lb/>trade in them at <placeName><settlement type="village" ref="settlement.xml#sett0035">Cambondo</settlement></placeName>
 <lb/>When finished with hinges
 <lb/>lock and key all of their
 <lb/>own manufacture <del type="strikethrough">they</del>
@@ -695,9 +695,9 @@ We met numbers of
 <lb/>so delighted with them
 <lb/>that they carried several
 <lb/>of them on their heads 
-<lb/>all the way to <placeName><settlement type="town">Linyanti</settlement></placeName> - </p>
+    <lb/>all the way to <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> - </p>
 <lb/>
-<lb/><p>At <placeName><settlement type="town">Trombeta</settlement></placeName> we were
+            <lb/><p>At <placeName><settlement type="town" ref="settlement.xml#sett0094">Trombeta</settlement></placeName> we were
 <lb/>pleased to observe a great
 <lb/><add place="marginleft">deal of</add> taste displayed by the <term type="occupation"><w>sub-
 <lb break="no"/>commandant</w></term> in the
@@ -799,7 +799,7 @@ We met numbers of
 <lb/>and the population is entirely
 <lb/>occupied in raising
 <lb/>food and <term type="plant_foodstuff">fruits</term> for <w>export-
-<lb break="no"/>ation</w> to <placeName><settlement type="city"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> by
+    <lb break="no"/>ation</w> to <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> by
 <lb/>means of canoes - The banks
 <lb/>are infested by myriads of
 <lb/>the most ferocious <term type="insect">mosquitoes</term>

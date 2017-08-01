@@ -158,7 +158,7 @@
 <lb/>and <term type="plant_foodstuff">manioc (<foreign xml:lang="la"><term type="plant_foodstuff">Jatropha manihot</term></foreign><supplied cert="high">)</supplied></term>
 <lb/>The climate there however
 <lb/>is warmer than at
-<lb/><placeName><settlement type="town">Linyanti</settlement></placeName> and <subst><del>they</del><add place="over-text">the</add></subst> <foreign xml:lang="tn"><orgName>Makalaka</orgName></foreign>
+                    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> and <subst><del>they</del><add place="over-text">the</add></subst> <foreign xml:lang="tn"><orgName>Makalaka</orgName></foreign>
 <lb/>increase the fertility of
 <lb/>their gardens by rude
 <lb/>attempts at artificial
@@ -178,7 +178,7 @@
 <lb/>may be understood when
 <lb/>it is known that most
 <lb/>of the <subst><del><unclear cert="medium">who</unclear></del><add place="over-text">hoes</add></subst> in use at
-<lb/><placeName><settlement type="town">Linyanti</settlement></placeName> are the tribute
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> are the tribute
  <lb/>imposed on the <term type="occupation">smiths</term></p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName ref="people.xml#pers0519">Sekeletu</persName> <choice><sic>recieves</sic><corr>receives</corr></choice> tribute
 <lb/>from a great number
@@ -550,7 +550,7 @@
 <lb/>living a short distance <placeName><region>South
 <lb/>of the <placeName><geogName type="river">Zambesi</geogName></placeName></region></placeName>, and other
 <lb/>tribes living a little South
-<lb/>of <metamark function="insertion"/><anchor xml:id="reorder-66"/> <placeName><settlement type="town"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> and <metamark function="reorder" spanTo="#meta-165"/><seg corresp="#reorder-66"><placeName><settlement type="town">Tete</settlement></placeName></seg><anchor xml:id="meta-165"/> are
+    <lb/>of <metamark function="insertion"/><anchor xml:id="reorder-66"/> <placeName><settlement type="town" ref="settlement.xml#sett0085"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> and <metamark function="reorder" spanTo="#meta-165"/><seg corresp="#reorder-66"><placeName><settlement type="town" ref="settlement.xml#sett0091">Tete</settlement></placeName></seg><anchor xml:id="meta-165"/> are
 <lb/>members of this same family
 <lb/>They are not <subst><del type="strikethrough" hand="#U3" rend="red">known</del><add place="above" hand="#U3" rend="red">known</add></subst> beyond
 <lb/>the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> river - This
@@ -651,7 +651,7 @@ and some <term type="occupation">mountaineers</term>
     <lb/><subst><del>acres</del><add place="over-text">fields</add></subst></add> 
 which would
 <lb/>rouse our <term type="occupation">yeomen</term> from
-<lb/><placeName><geogName type="headland">Land's End</geogName></placeName> to <choice><sic><placeName><settlement type="village">John o Groat</settlement></placeName>'s</sic><corr><placeName><settlement type="village">John o' Groats</settlement></placeName>'</corr></choice>
+    <lb/><placeName><geogName type="headland">Land's End</geogName></placeName> to <choice><sic><placeName><settlement type="village" ref="settlement.xml#sett0060">John o Groat</settlement></placeName>'s</sic><corr><placeName><settlement type="village" ref="settlement.xml#sett0060">John o' Groats</settlement></placeName>'</corr></choice>
 <lb/>house were they threatened
 <lb/>with invasion, <del type="strikethrough" hand="#U3" rend="red">is not</del>
 <lb/><add place="marginleft" rend="red" hand="#U3"><metamark function="insertion"/>nor is this want of
@@ -661,7 +661,7 @@ much to be wondered at
 <lb/>who had been thirty years
     <lb/>in the <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName> <del type="cancelled">expressed</del>
 <lb/><add place="marginleft"><add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">expressing</add> at a public meeting
-    <lb/>held in <placeName><settlement type="city">Cape town</settlement></placeName></add> 
+    <lb/>held in <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape town</settlement></placeName></add> 
 <add place="below">^</add> in <date when="1855">1855</date> - <del type="cancelled" rend="red" hand="#U3">expressed</del> a strong
 <lb/>desire that <del type="cancelled" hand="#U3" rend="red">that</del> the
     <lb/><orgName ref="orgName.xml#org0042">Caffres</orgName> might become
@@ -690,7 +690,7 @@ much to be wondered at
     <lb/>Solomon</persName></bibl><!-- not able to identify or find this person, sh --><!-- likely to be Edward Solomon, ordained in Cape Town in October 1841, who gave "Two Lectures on the Native Tribes of the interior, delivered before the Mechanics' Institute, Cape Town", in 1855..JL -->
     <lb/>delivered before
     <lb/>the <orgName ref="orgName.xml#org0069"><choice><sic>Mechanics
-    <lb/>Institute</sic><corr>Mechanics' Institute</corr></choice></orgName> <placeName><settlement type="city">Cape town</settlement></placeName></note></add>
+        <lb/>Institute</sic><corr>Mechanics' Institute</corr></choice></orgName> <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape town</settlement></placeName></note></add>
 <lb/>and generally the <term type="tribe">Zulu<del type="cancelled">s</del></term>
     <lb/>of <placeName><region ref="region.xml#region0045">Natal</region></placeName> can raise <term type="foodstuff">grain</term>
 <lb/>cheap enough to drive
@@ -734,17 +734,17 @@ much to be wondered at
 <lb break="no"/>ment</sic><corr>development</corr></choice></w> - </p>
  <lb/><space dim="vertical" extent="2" unit="lines"/>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> Having waited a<!-- p203, Missionary, sh -->
-<lb/>month at <placeName><settlement type="town">Linyanti</settlement></placeName> we
+    <lb/>month at <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> we
 <lb/>again departed for the
 <lb/>purpose of ascending
-<lb/>the river from <placeName><settlement type="town">Sesheke</settlement></placeName>
+    <lb/>the river from <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName>
 <lb/>in company with <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/><metamark function="ed-mark" place="marginleft" rend="red" resp="#U3">X</metamark> and about <hi rend=" red underline" resp="#U3">160</hi> attendants<!-- metamark in margin identifies the annotation made in text, sh -->
 <lb/>We had most of the young
 <lb/>men with us and many
 <lb/>of the <term type="occupation">underchiefs</term> besides
 <lb/>The country between
-<lb/><placeName><settlement type="town">Linyanti</settlement></placeName> is perfectly
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> is perfectly
 <lb/>flat on patches elevated
 <lb/>only a few feet above
 <lb/>the surrounding level

@@ -671,7 +671,7 @@ We would not
 <lb/>point farther North I
 <lb/><add place="marginleft">might</add> <del type="strikethrough">should</del> find an exit to
 <lb/>the <term type="nationality">Portuguese</term> settlement
-<lb/>of <placeName><settlement type="village">Cassange</settlement></placeName> - We <del type="strikethrough">then</del> <w>pro-
+    <lb/>of <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> - We <del type="strikethrough">then</del> <w>pro-
 <lb break="no"/>-ceeded</w> at first due North<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>with the <term type="tribe">Kasabi</term> <add place="below">^</add> <add place="above">villages</add> on our
 <lb/>right and the <placeName><geogName type="river"><choice><sic>Kasau</sic><corr>Kasai</corr></choice></geogName></placeName> on
@@ -697,8 +697,8 @@ We would not
 <lb/>in our Northing in company
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>39</note></add> with the sun - Summer 
 <lb/>was now nearly over
-<lb/>at <placeName><settlement type="village">Kuruman</settlement></placeName> - and far
-<lb/>advanced at <placeName><settlement type="town">Linyanti</settlement></placeName><add place="inline" rend="gray" hand="#U2">,</add>
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> - and far
+    <lb/>advanced at <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName><add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>but here we were in the
 <lb/>middle of it - Fruits<add place="inline" rend="gray" hand="#U2">,</add> which
 <lb/>we had eaten ripe on

@@ -103,28 +103,28 @@
 <lb/><space extent="8" unit="chars"/>=====</p>
 <lb/><p>Having sent my family home
 <lb/>to <placeName><country>England</country></placeName> I <subst><del type="strikethrough" hand="#U3" rend="red">began</del><add place="above" hand="#U3" rend="red">started</add></subst> <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-19"/> <subst><del type="strikethrough">my</del><add place="above"><del type="strikethrough" hand="#U3" rend="red">the</del></add></subst> <add place="above" hand="#U3" rend="red">on my</add> last
-<lb/>journey from <placeName><settlement type="city">Cape Town</settlement></placeName> <del type="cancelled"><unclear cert="high">on</unclear></del>
+    <lb/>journey from <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape Town</settlement></placeName> <del type="cancelled"><unclear cert="high">on</unclear></del>
 <lb/><metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-80"/><seg corresp="#reorder-19"><add place="marginleft" rend="red" hand="#U3">in</add> the beginning of <date when="1852-06">June 1852</date></seg><anchor xml:id="meta-80"/> <del type="strikethrough" hand="#U3" rend="red">which</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">This journey</add> extended from the Southern
 <lb/>Extremity of the continent to
-<lb/><placeName><settlement type="city"><choice><orig><add place="marginleft">St Paul di</add> Loando</orig><reg>Luanda</reg></choice></settlement></placeName> <subst><del>on</del><add place="over-text">the</add></subst> capital of <placeName><country>Angola</country></placeName>
+    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig><add place="marginleft">St Paul di</add> Loando</orig><reg>Luanda</reg></choice></settlement></placeName> <subst><del>on</del><add place="over-text">the</add></subst> capital of <placeName><country>Angola</country></placeName>
 <lb/>on the West coast and thence
 <lb/><w>ac<del type="cancelled" rend="red" hand="#U3">c</del>ross</w> <del type="cancelled">the</del> <placeName><region>South central Africa</region></placeName>
 <lb/>in an oblique direction to
-<lb/><placeName><settlement type="town"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> in <placeName><region>Eastern Africa</region></placeName>
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0083"><choice><orig>Quilimane</orig><reg>Quelimane</reg></choice></settlement></placeName> in <placeName><region>Eastern Africa</region></placeName>
 <lb/>I proceeded in the usual
 <lb/>conveyance of the country,
 <lb/>the heavy lumbering Cape
 <lb/>waggon drawn by ten <term type="animal">oxen</term>
 <lb/>and was accompanied by
-<lb/>two <add place="marginleft"><metamark function="insertion" /><term type="faith">Christian</term></add> <term type="tribe">Bechuanas</term> from <placeName><settlement type="village">Kuruman</settlement></placeName>
+    <lb/>two <add place="marginleft"><metamark function="insertion" /><term type="faith">Christian</term></add> <term type="tribe">Bechuanas</term> from <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
 <lb/><del type="cancelled">who</del> than whom I never saw
 <lb/>better <term type="occupation">servants</term> anywhere - Two
 <lb/><term type="tribe">Bakuena</term> men and two
 <lb/><del type="strikethrough" hand="#U3" rend="red">little</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">young</add> girls who having come
 <lb/>as <term type="occupation">nurses</term> with our children
     <lb/>to the <placeName><region ref="region.xml#region0024">Cape</region></placeName> were returning
-<lb/>to their home at <placeName><settlement type="village">Kolobeng</settlement></placeName>
+    <lb/>to their home at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
 <lb/>Waggon travelling in <placeName><bloc>Africa</bloc></placeName>
 <lb/>has been so often described 
 <lb/><add place="marginleft" hand="#U3" rend="red">that</add> I need say no more than
@@ -859,7 +859,7 @@
 <lb/>boiling</p>
 <lb/><p>This disease attacks wild
 <lb/>animals too - During our residence
-<lb/>at <placeName><settlement type="village">Chonuane</settlement></placeName> great numbers
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0042">Chonuane</settlement></placeName> great numbers
 <lb/>of <term type="animal">Tolos</term> or <term type="animal">Khoodoos</term> were
 <lb/>attracted to the gardens of the
 <lb/><term type="tribe">Bakwains</term> abandoned at

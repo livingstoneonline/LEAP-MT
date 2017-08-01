@@ -431,8 +431,8 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>and I proceeded in canoes
 <lb/>to his temporary residence
 <lb/>He had come from the <term type="tribe">Barotse</term>
-<lb/>town of <placeName><settlement type="town">Naliele</settlement></placeName> down to
-<lb/><placeName><settlement type="town">Sesheke</settlement></placeName> as soon as he heard
+    <lb/>town of <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> down to
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> as soon as he heard
 <lb/>of white men being in search
 <lb/>of him, and now came
     
@@ -466,7 +466,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>He presented us with an <term type="animal">ox</term> <add place="below">˄</add>
 <lb/><add place="marginleft">and a jar of <term type="foodstuff">honey</term></add> as food and handed us over
     <lb/>to the care of <persName ref="people.xml#pers0378">Mahale</persName> who had
-<lb/>headed the party to <placeName><settlement type="village">Kolobeng</settlement></placeName> &amp;
+    <lb/>headed the party to <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> &amp;
 <lb/>would now fain <del type="strikethrough" rend="red" hand="#U3">take</del> <add place="below">˄</add> <add place="marginleft" hand="#U3" rend="red">appropriate to himself</add> the
 <lb/>whole credit of <del type="cancelled" rend="red" hand="#U3">their</del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above">our</add> coming
 <lb/><del type="strikethrough" rend="red" hand="#U3">to himself</del> - Prepared skins of
@@ -544,11 +544,11 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>one part <persName ref="people.xml#pers0515">Sebituane</persName> was one
 <lb/>in that immense horde of
 <lb/>savages driven back by
-    <lb/>the <orgName ref="orgName.xml#org0057">Griquas</orgName> <add place="below">˄</add> <add place="marginleft">from <placeName><settlement type="village">Kuruman</settlement></placeName></add> in <date when="1824">1824</date> <add place="inline">*</add> He
+    <lb/>the <orgName ref="orgName.xml#org0057">Griquas</orgName> <add place="below">˄</add> <add place="marginleft">from <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName></add> in <date when="1824">1824</date> <add place="inline">*</add> He
 <lb/>then fled to the North with
 <lb/>an insignificant party of 
-<lb/>men and <term type="animal">cattle</term> - At <del type="cancelled"><placeName><settlement type="village">Kolobeng</settlement></placeName></del>
-<lb/><placeName><settlement type="village">Melita</settlement></placeName> the <term type="tribe"><choice><orig>Bangwaketze</orig><reg>Bangwaketse</reg></choice></term> collected
+    <lb/>men and <term type="animal">cattle</term> - At <del type="cancelled"><placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName></del>
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0075">Melita</settlement></placeName> the <term type="tribe"><choice><orig>Bangwaketze</orig><reg>Bangwaketse</reg></choice></term> collected
 <lb/>the <term type="tribe">Bakwains</term> - <term type="tribe">Bakatla</term> and
 <lb/><term type="tribe">Bahurutse</term> to eat him up
 <lb/><add place="inspace"><note>* See an account of this affair
@@ -574,7 +574,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
     <lb/>subsequently
     <lb/>settled at the 
     <lb/>place called</add> 
-<placeName><settlement type="village">Litubaruba</settlement></placeName>
+    <placeName><settlement type="village" ref="settlement.xml#sett0047">Litubaruba</settlement></placeName>
 <lb/><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-68"/>and <add place="below">˄</add> <add place="above">his people</add> suffered <add place="below">˄</add> <add place="above">severely</add> in one of those
 <lb/>unheard of attacks by <del type="cancelled">two</del>
 <lb/>white men in which murder
@@ -1005,7 +1005,7 @@ I have given
 <lb/>fell sick of <term type="ailment">inflammation</term>
 <lb/>of the lungs - which extended
 <lb/>from an old wound got
-<lb/>at <placeName><settlement type="village">Melita</settlement></placeName> - I saw his danger
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0075">Melita</settlement></placeName> - I saw his danger
 <lb/>but being a stranger feared
 <lb/>to treat him lest in the event
 <lb/>of his death I should be

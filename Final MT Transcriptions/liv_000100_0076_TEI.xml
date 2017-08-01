@@ -147,7 +147,7 @@ to put his
 <lb/>short time and were set to
 <lb/>teach others but before much
 <lb/>progress could be made I was
-<lb/>on my way to <placeName type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></placeName><!-- DL could also be referring to Luanda as a province/region as he does in Sect 9, 0228.JL --></p>
+                    <lb/>on my way to <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName><!-- DL could also be referring to Luanda as a province/region as he does in Sect 9, 0228.JL --></p>
 
     
 <pb facs="liv_000100_0077.jpg" n="0077"/> 
@@ -251,7 +251,7 @@ to come for that purpose
 <lb/>all the commercial profits
 <lb/>of the <orgName>natives</orgName> to themselves
 <lb/>As I was well aware that
-<lb/>the <term type="occupation">missionaries</term> at <placeName><settlement type="village">Kuruman</settlement></placeName>
+    <lb/>the <term type="occupation">missionaries</term> at <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
 <lb/><add place="marginleft">for instance</add> had got formal permission
 <lb/>from the <orgName>Colonial government</orgName>
 <lb/>for a <term type="occupation">trader</term> to settle on<!-- possible word beneath 'on' but it is illegible.JL --> the
@@ -408,7 +408,7 @@ and <add place="below">^</add> <add place="above">the wants of</add> an increasi
 <pb facs="liv_000100_0083.jpg" n="0083"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">78</add> <add place="inspace" hand="#U1" rend="gray right">82</add></fw>
 <lb/>honourable <term type="occupation">merchants</term> of
-<lb/><placeName><settlement type="city">Cape Town</settlement></placeName> to risk a sum
+    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0038">Cape Town</settlement></placeName> to risk a sum
     <lb/>of money in <persName ref="people.xml#pers0302">Fleming</persName>'s hands
 <lb/>for the purpose of attempting
 <lb/>to <choice><sic>develope</sic><corr>develop</corr></choice> a trade with
@@ -720,7 +720,7 @@ in order
 <lb/><del type="cancelled">About the end</del> <add place="above" hand="#U3" rend="red">On the</add> <date when="1853-05-30"><add place="above">30<hi rend="sup">th</hi> of</add> of May</date> I was<!-- p194 Missionary, sh -->
 <lb/>seized with <term type="ailment">fever</term> for the first
 <lb/>time. We reached the town
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note>129</note></add><!-- number within a circle, sh --> of <placeName><settlement type="town">Linyanti</settlement></placeName> on the <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- gray bracket connects to marginal number.JL --><date when="1853-05-23">23<hi rend="sup underline">d</hi></date> and
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note>129</note></add><!-- number within a circle, sh --> of <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> on the <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- gray bracket connects to marginal number.JL --><date when="1853-05-23">23<hi rend="sup underline">d</hi></date> and
 <lb/>as my habits were suddenly
 <lb/>changed from great activity
 <lb/>to comparative inactivity
@@ -848,7 +848,7 @@ in order
 <lb/>hypogoea</orig><reg>arachis hypogaea</reg></choice></term></foreign></hi>) were also furnished
 <lb/>every time the tributary
 <lb/>tribes brought their dues
-<lb/>to <placeName><settlement type="town">Linyanti</settlement></placeName> and an <term type="animal">ox</term>
+    <lb/>to <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> and an <term type="animal">ox</term>
 <lb/>given for slaughter <subst><del>as</del><add place="over-text">every</add></subst>
 <lb/><del type="cancelled">often as</del> week or two - 
 <lb/><persName ref="people.xml#pers0519">Sekeletu</persName> also appropriated
@@ -914,7 +914,7 @@ in order
 <lb/>the women are the chief
 <lb/>cultivators of the soil &amp;
 <lb/>have the <choice><orig>controul</orig><reg>control</reg></choice> over
-<lb/>the <term type="plant_foodstuff">corn</term> as at <placeName><settlement type="village">Kolobeng</settlement></placeName> - 
+    <lb/>the <term type="plant_foodstuff">corn</term> as at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> - 
 <lb/>The poor however who
 <lb/>have no friends often
 <lb/>suffer much hunger
@@ -934,7 +934,7 @@ in order
 <lb/>with their wives with
 <lb/>their hoes in hand - a
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">phenomenon</del><add place="above" hand="#U3" rend="red">state of things</add></subst> never witnessed
-<lb/>at <placeName><settlement type="village">Kolobeng</settlement></placeName> or in any
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> or in any
     <lb/><term type="tribe">Bechuana</term> or <orgName ref="orgName.xml#org0042">Caffre</orgName> tribe
 
 

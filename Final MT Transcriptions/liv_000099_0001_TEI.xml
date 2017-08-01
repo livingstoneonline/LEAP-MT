@@ -149,7 +149,7 @@
     <lb/>the <placeName><region ref="region.xml#region0050">Transvaal</region></placeName> <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>attacked the town of <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/>a <term type="occupation">chief</term> living <measure>10<del type="cancelled">°</del> degrees
-<lb/>of Latitude from <placeName><settlement type="city">Cape
+<lb/>of Latitude from <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape
 <lb/>Town</settlement></placeName></measure> and contrary to
 <lb/>the express provision in
 <lb/>an <bibl>Article of the treaty</bibl> which

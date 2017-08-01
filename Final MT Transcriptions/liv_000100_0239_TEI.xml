@@ -411,7 +411,7 @@ This
 <lb/>I suspect it has some
 <lb/>connection with this animal
 <lb/>for the <term type="people">Portuguese</term> in the
-<lb/>district of <placeName><settlement type="town">Tete</settlement></placeName> call it the
+    <lb/>district of <placeName><settlement type="town" ref="settlement.xml#sett0091">Tete</settlement></placeName> call it the
 <lb/><add place="marginleft">(<hi rend="underline"><foreign xml:lang="pt"><term type="insect">Musca da Elephant</term></foreign>)</hi></add> <del type="strikethrough">Musc</del> the <term type="insect"><term type="animal">Elephant</term> fly</term></p>
 <lb/><p>The water of inundation
 <lb/>covers even these lofty
@@ -632,7 +632,7 @@ and
 <lb/>the Eastward and our
 <lb/>course is to be directed
 <lb/>to the <del type="cancelled"><choice><abbr>N -</abbr><expan>North</expan></choice></del> <choice><abbr>N - W - </abbr><expan>North West</expan></choice> if we mean
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note>85</note></add> to go to <placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> in <placeName><country>Angola</country></placeName>
+        <lb/><add place="marginleft" hand="#U2" rend="gray"><note>85</note></add> to go to <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> in <placeName><country>Angola</country></placeName>
 <lb/>- From the confluence where
 <lb/>we now are down
 <lb/>to <foreign xml:lang="loz"><placeName><geogName type="waterfall">Mosioatunya</geogName></placeName></foreign> there are
@@ -662,7 +662,7 @@ and
 <lb/>Steamer</orgName> could ply at all
 <lb/>times of the year, and again the 
 <lb/>space between <placeName><geogName type="river">Simah</geogName></placeName> &amp;
-<lb/><add place="marginleft"><note><placeName><settlement type="town"><choice><orig>Katima-molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName></note></add> <placeName><settlement type="town"><choice><orig>Katima<del type="cancelled">l</del> Molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName> has five
+        <lb/><add place="marginleft"><note><placeName><settlement type="town" ref="settlement.xml#sett0062"><choice><orig>Katima-molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName></note></add> <placeName><settlement type="town" ref="settlement.xml#sett0062"><choice><orig>Katima<del type="cancelled">l</del> Molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName> has five
 <lb/>or six rapids with <del type="strikethrough">reaches</del>
 <lb/>cataracts one of which
 <lb/><placeName><geogName type="waterfall">Gonye</geogName></placeName> could not be
@@ -672,7 +672,7 @@ and
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>86</note></add> there are reaches of still
 <lb/>deep water of <measure>several 
 <lb/>miles</measure> in length - Beyond 
-<lb/><placeName><settlement type="town"><choice><orig>Katima molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName> to the confluence
+        <lb/><placeName><settlement type="town" ref="settlement.xml#sett0062"><choice><orig>Katima molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName> to the confluence
 <lb/>of the <placeName><geogName type="river">Chobe</geogName></placeName> you have nearly 
 <lb/><add place="marginleft"><measure>a hundred miles</measure></add> <add place="below">˄</add> <add place="above">again</add> of a river capable of being
 <lb/>navigated in the same

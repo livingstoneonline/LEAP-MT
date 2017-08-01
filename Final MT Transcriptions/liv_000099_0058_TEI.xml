@@ -438,7 +438,7 @@ obtained
 <lb/>to be settled by the <term type="people">English</term>
 <lb/>and the wars to be paid for
 <lb/>by <term type="nationality">English</term> gold - </p>
-<lb/><p>The <term type="tribe">Bakwains</term> at <placeName><settlement type="village">Kolobeng</settlement></placeName>
+                <lb/><p>The <term type="tribe">Bakwains</term> at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
 <lb/>had the spectacle of various
 <lb/>tribes <orgName>enslaved</orgName> before their eyes
 <lb/>the <term type="tribe">Bakatla</term>, the <term type="tribe">Batlokua</term>, the
@@ -476,7 +476,7 @@ obtained
 <lb/>me with <add place="below">^</add> <add place="above">the</add> loud laughter of joy
 <lb/>when I was passing them at their
 <lb/>work in the <placeName><geogName type="mountains"><choice><orig>Roggefelt</orig><reg>Roggevelt</reg></choice></geogName></placeName> &amp; <placeName><geogName type="mountains"><choice><orig>Bokkefelt</orig><reg>Bokkevelt</reg></choice></geogName></placeName>
-<lb/>within <measure>a few days of</measure> <placeName><settlement type="city">Cape town</settlement></placeName>
+    <lb/>within <measure>a few days of</measure> <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape town</settlement></placeName>
 <lb/>I <w><subst><del>w</del><add place="over-text">sh</add></subst>ould</w> <subst><del>ap</del><add place="over-text">be</add></subst> <unclear cert="medium">borne</unclear> out in my
 <lb/>statement <add place="below">^</add> <add place="above">as</add> literally true by elders in
 <lb/>the <term type="nationality">Dutch</term> Church to whom they
@@ -663,7 +663,7 @@ obtained
 <lb/>The five guns were within one
 <lb/>month <del type="cancelled">magnified</del> <add place="above">multiplied into</add> <choice><sic>into</sic><corr/></choice> <del type="cancelled">five</del> 
 <lb/><add place="marginleft">a tale of</add> <add place="below">^</add> <add place="above">five</add> hundred, and the cooking pot
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>where?</note></add> <hi rend="gray underline" resp="#U2">now in a museum</hi> <add place="marginleft"><metamark function="insertion"/>at <placeName><settlement type="city">Cape town</settlement></placeName></add> was
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note>where?</note></add> <hi rend="gray underline" resp="#U2">now in a museum</hi> <add place="marginleft"><metamark function="insertion"/>at <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape town</settlement></placeName></add> was
 <lb/>magnified into a cannon -
 <lb/>"I had myself confessed to the
 <lb/>loan" - Where the five hundred
@@ -886,7 +886,7 @@ obtained
     <lb/>by the accession of <persName ref="people.xml#pers0483">M<hi rend="sup">r</hi> Pretorius</persName>
 <lb/>determined at last to put a 
 <lb/>stop to <term type="nationality">English</term> <term type="occupation">traders</term> going past
-<lb/><placeName><settlement type="village">Kolobeng</settlement></placeName> by dispersing the 
+                    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> by dispersing the 
 <lb/>tribe of <term type="tribe">Bakwains</term> and
     <lb/>expelling all <term type="occupation">missionaries</term> - <persName ref="person.xml#pers0277">Sir
 <lb/>George Cathcart</persName> proclaimed
@@ -985,7 +985,7 @@ obtained
 	
 	<pb facs="liv_000099_0081.jpg" n="0081"/> 
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">85</add> <add place="inspace" hand="#U1" rend="gray right" >78</add></fw>	
-<lb/>when they came to <placeName><settlement type="village">Kolobeng</settlement></placeName> found
+                    <lb/>when they came to <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> found
 <lb/>the skeletons of the guardians <choice><orig>strewed</orig><reg>strewn</reg></choice>
 <lb/>all over the place - The <bibl>Books
 <lb/>of a good library</bibl> - my solace in
@@ -1027,7 +1027,7 @@ obtained
 <lb/><p><space extent="1" unit="chars"/><add place="inline" rend="red" hand="#U3">The following memorandums are appended</add> 
     <lb/><space extent="3" unit="chars"/><del type="strikethrough" rend="red" hand="#U3"><del type="cancelled" hand="#DL">Having married <persName ref="people.xml#pers0373">Mary</persName> the eldest
     <lb/>daughter of <persName ref="people.xml#pers0411">Revd Robert Moffat</persName></del></del>
-<lb/><add place="above" rend="red" hand="#U3">in the hope that</add> <del type="strikethrough" rend="red" hand="#U3"><del type="cancelled" hand="#DL">of <settlement type="village">Kuruman</settlement> <unclear cert="low">in</unclear> <add place="below">^</add> <unclear cert="low"><add place="above">January</add> 1845</unclear></del></del> a short sketch<!-- I am fairly certain I can transcribe more of this but will need to review it either from the manuscript or through a graphics programme, ks --><!-- I've supplemented this.JL -->
+    <lb/><add place="above" rend="red" hand="#U3">in the hope that</add> <del type="strikethrough" rend="red" hand="#U3"><del type="cancelled" hand="#DL">of <settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement> <unclear cert="low">in</unclear> <add place="below">^</add> <unclear cert="low"><add place="above">January</add> 1845</unclear></del></del> a short sketch<!-- I am fairly certain I can transcribe more of this but will need to review it either from the manuscript or through a graphics programme, ks --><!-- I've supplemented this.JL -->
 <lb/>of <orgName>African</orgName> Housekeeping may
 <lb/><add place="marginleft" rend="red" hand="#U3" ><del type="cancelled" rend="red" hand="#U3">perhaps</del></add> prove interesting <add place="above" rend="red" hand="#U3" >to the Reader</add> - The entire absence
 <lb/>of shops leads us to make everything
@@ -1108,7 +1108,7 @@ obtained
 <lb/>whole <space extent="3" unit="chars"/> We rose early because
 <lb/>however hot the day may
 <lb/><add place="marginleft">have</add> been the evening, night and
-<lb/>morning <add place="below">^</add> <add place="above">at <placeName><settlement type="village">Kolobeng</settlement></placeName></add> were deliciously
+    <lb/>morning <add place="below">^</add> <add place="above">at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName></add> were deliciously
 <lb/>refreshing - cool, is not the
 <lb/>idea where you have neither
 <lb/>an increase of cold nor heat
@@ -1183,11 +1183,11 @@ obtained
 <lb/>of the <term type="occupation">missionary</term> armour
 <lb/>Here if anywhere love begets
 <lb/>love - </p> 
-<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> When at <placeName><settlement type="village">Kolobeng</settlement></placeName> <subst><del>we</del><add place="over-text">during</add></subst>
+                <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> When at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> <subst><del>we</del><add place="over-text">during</add></subst>
 <lb/><add place="marginleft">the droughts
 	<lb/>we were entirely
 	<lb/><choice><sic>dependant</sic><corr>dependent</corr></choice> on 
-	<lb/><placeName><settlement type="village">Kuruman</settlement></placeName> for
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> for
 	<lb/>supplies of <term type="plant_foodstuff">corn</term>
 	<lb/>Once we were 
 	<lb/>reduced to living
@@ -1369,7 +1369,7 @@ obtained
 <lb/>of all insects - as it effectually
 <lb/>answers the object indicated
 <lb/>by the name - Where they
-<lb/>abound as at <placeName><settlement type="village">Kuruman</settlement></placeName>
+    <lb/>abound as at <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
 <lb/>the villages are sweet
 <lb/>and clean for no sooner
 <lb/><subst><del>is</del><add place="over-text">are</add></subst> animal excreta

@@ -281,7 +281,7 @@ by walking
 <lb/>a certain bulb are added in
 <lb/>order to increase the virulence
     <lb/><persName ref="people.xml#pers0554">Father Pedro</persName> a <orgName ref="orgName.xml#org0060">Jesuit</orgName> who
-<lb/>lived at <placeName type="town">Zumbo</placeName> made a 
+    <lb/>lived at <placeName type="town" ref="settlement.xml#sett0095">Zumbo</placeName> made a 
 <lb/><term type="medicament">balsam</term> containing a number
 <lb/>of plants and <hi rend="underline"><term type="medicament">castor oil</term></hi>
 <lb/>as a remedy for poisoned
@@ -852,7 +852,7 @@ among the tall grass
 <lb/><del type="cancelled" hand="#U3" rend="red">And</del> <choice><sic>after</sic><corr>After</corr></choice> remaining a few
 <lb/>days some of the head men
 <lb/>of the <term type="tribe">Makololo</term> came
-<lb/>down from <placeName type="town">Linyanti</placeName>
+    <lb/>down from <placeName type="town" ref="settlement.xml#sett0071">Linyanti</placeName>
 <lb/>with a large party of <term type="tribe">Barotse</term>
 <lb/>to take us <w>ac<del type="strikethrough" hand="#U3" rend="red">c</del>ross</w> the river
 <lb/>This they did in fine style <add place="marginleft"><metamark function="insertion"/>swimming
@@ -876,7 +876,7 @@ among the tall grass
 <lb/>to avoid the still flooded
 <lb/>lands on the North of the <placeName><geogName type="river">Chobe</geogName></placeName>
 <lb/>we turned Westwards towards
-<lb/><placeName type="town">Linyanti</placeName></p>
+    <lb/><placeName type="town" ref="settlement.xml#sett0071">Linyanti</placeName></p>
 <lb/><space dim="vertical" extent="12" unit="lines"/><!-- beginning of chapter IX in printed MT.JL -->              
 <lb/><p><add place="marginleft" hand="#U3" rend="red">The whole population of</add> <choice><sic>The</sic><corr>the</corr></choice> Town <subst><del type="strikethrough" rend="red" hand="#U3">which contains</del><add place="above" hand="#U3" rend="red">, numbering between</add></subst>
 <lb/>6000 <subst><del type="strikethrough" hand="#U3" rend="red">or</del><add place="above" hand="#U3" rend="red">and</add></subst> 7000 souls<add place="inline" hand="#U3" rend="red">,</add> turned
@@ -1062,7 +1062,7 @@ among the tall grass
 <lb/>him from care he gave
 <lb/>him charge of his <term type="animal">cattle</term>
 <lb/><persName ref="people.xml#pers0431">Mpepe</persName> removed to the chief
-<lb/>town "<placeName type="village">Naliele</placeName>" and took such
+    <lb/>town "<placeName type="village" ref="settlement.xml#sett0080">Naliele</placeName>" and took such
 <lb/>effectual charge of all <add place="above" hand="#U3" rend="red">the <term type="animal">cattle</term></add><add place="inline" hand="#U3" rend="red">,</add> that
 <lb/><persName ref="people.xml#pers0515">Sebituane</persName> saw he could
 <lb/>only set matters on their
@@ -1078,7 +1078,7 @@ among the tall grass
 <lb/>after thirty <choice><sic>years</sic><corr>years'</corr></choice> fighting
 <lb/>he <del type="strikethrough" hand="#U3" rend="red">now</del> heard <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">with pleasure</add> of our arrival
 <lb/>at the Lake <del type="strikethrough" hand="#U3" rend="red">so he</del> <add place="above" hand="#U3" rend="red">and</add> came
-<lb/>down as far as <placeName><settlement type="town">Sesheke</settlement></placeName>
+    <lb/>down as far as <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName>
 <lb/>to meet us - He had an idea
 <lb/>picked up from some of
 <lb/>the numerous strangers

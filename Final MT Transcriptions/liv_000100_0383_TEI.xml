@@ -247,7 +247,7 @@ He
 <lb/>horn - - Apologizing for
 <lb/>its smallness I wished
 <lb/>to know what I could
-<lb/>bring him from <placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
+    <lb/>bring him from <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>52</note></add> "not a large thing but
 <lb/>something small". He
 <lb/>laughed heartily at the

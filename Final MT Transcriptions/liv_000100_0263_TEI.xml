@@ -1059,7 +1059,7 @@ to keep one foot apart from
 <lb/>produce poisonous effects
 <lb/>A small bit of loaf made
 <lb/>from the last morsel of
-<lb/><term type="plant_foodstuff">maize meal</term> from <placeName><settlement type="village">Libonta</settlement></placeName>
+    <lb/><term type="plant_foodstuff">maize meal</term> from <placeName><settlement type="village" ref="settlement.xml#sett0069">Libonta</settlement></placeName>
 <lb/>was all my stock<add place="inline" rend="gray" hand="#U2">;</add> - and
 <lb/>our friends from <persName ref="people.xml#pers0327">Masiko</persName>
 <lb/>were equally destitute<add place="inline" rend="gray" hand="#U2">,</add>

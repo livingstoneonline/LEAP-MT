@@ -103,9 +103,9 @@
 <lb/>is seen in the more winding
 <lb/>course of the river <measure>North of
 <lb/>16°</measure> - And when the swell gets
-<lb/>past <placeName><settlement type="town"><choice><orig>Katima molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName> it spreads
+    <lb/>past <placeName><settlement type="town" ref="settlement.xml#sett0062"><choice><orig>Katima molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName> it spreads
 <lb/>out on the lands on both
-<lb/>banks towards <placeName><settlement type="town">Sesheke</settlement></placeName> - </p>
+    <lb/>banks towards <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> - </p>
 <lb/>
                 <lb/><p><persName ref="people.xml#pers0441">Santuru</persName> at whose ancient
 <lb/>granary we are staying was
@@ -117,7 +117,7 @@
 <lb/>young <term type="animal">hippopotami</term> - <subst><del type="strikethrough" hand="#U3" rend="red">They</del><add place="above" hand="#U3" rend="red">These animals</add></subst> gambolled
 <lb/>in the river <subst><del>and</del><add place="over-text">by</add></subst> day but never
 <lb/>failed to remember to come
-<lb/>up to <placeName><settlement type="town">Naliele</settlement></placeName> for their suppers
+                    <lb/>up to <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> for their suppers
 <lb/>of <term type="foodstuff">milk</term> and <term type="foodstuff">meal</term> - They were
 <lb/>the wonder of the country till
 <lb/>a stranger happening to come
@@ -152,7 +152,7 @@
     <lb/>As <placeName><region ref="region.xml#region0038">Lui</region></placeName> had been visited by <term type="people">Portuguese</term>
 <lb/>and <subst><del type="strikethrough" hand="#U3" rend="red">the</del><add place="above" hand="#U3" rend="red">its</add></subst> position not well ascertained
 <lb/>my enquiries referred to the
-    <lb/>identity of <placeName><settlement type="town">Naliele</settlement></placeName> with <placeName><region ref="region.xml#region0038">Lui</region></placeName> but
+    <lb/>identity of <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> with <placeName><region ref="region.xml#region0038">Lui</region></placeName> but
 <lb/>there is no evidence of any
     <lb/>of <persName ref="people.xml#pers0441">Santuru</persName>'s people having ever
 <lb/>seen a white man before the
@@ -304,7 +304,7 @@ except that of the
 
         <pb facs="liv_000100_0149.jpg" n="0149"/>                           
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">144</add> <add place="inspace" hand="#U1" rend="gray right">148</add> <add place="inspace" hand="#U2" rend="gray right">6</add></fw>
-<lb/><p>While still at <placeName><settlement type="town">Naliele</settlement></placeName> I walked
+                <lb/><p>While still at <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> I walked
 <lb/>out to the ridge which bounds the
 <lb/><placeName><geogName type="valley">valley of the <term type="tribe">Barotse</term></geogName></placeName> in that direction
 <lb/>and found it covered with trees
@@ -405,7 +405,7 @@ I imagined
 <lb/>was the best place we had
 <lb/>seen but in order to accomplish
 <lb/>a full search I left <persName ref="people.xml#pers0519">Sekeletu</persName>
-<lb/>at <placeName><settlement type="town">Nariele</settlement></placeName> and ascended
+    <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0080">Nariele</settlement></placeName> and ascended
 <lb/>the river - He furnished me
 <lb/>with <del type="cancelled">canoes</del> men besides my
 <lb/><term type="occupation">rowers</term> and among the rest
@@ -451,7 +451,7 @@ I imagined
 <lb/>banks without trees as we
 <lb/>have remarked it had after
 <lb/>we came to <measure><measure>16° 16'</measure> <choice><sic>untill</sic><corr>until</corr></choice> we
-<lb/>come to <placeName><settlement type="village">Libonta</settlement></placeName> (<measure>14° 58 <choice><abbr>S- L-</abbr><expan>South Latitude</expan></choice></measure>)
+    <lb/>come to <placeName><settlement type="village" ref="settlement.xml#sett0069">Libonta</settlement></placeName> (<measure>14° 58 <choice><abbr>S- L-</abbr><expan>South Latitude</expan></choice></measure>)
 <lb/><measure>Twenty miles</measure></measure> beyond that
 <lb/>we <subst><del type="strikethrough" hand="#U3" rend="red">come to</del><add place="above" hand="#U3" rend="red">find</add></subst> forest <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">down</add> to the
 <lb/>water's edge and <del type="cancelled"><term type="insect">Tsetse</term></del> <term type="insect"><choice><orig>tsetze</orig><reg>tsetse</reg></choice></term>
@@ -611,7 +611,7 @@ and charmed <foreign xml:lang="la"><hi rend="underline">secund<subst><del type="
 <lb/>a "gawky" nature</p>
 <lb/>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The numbers of the large
-<lb/>game above <placeName><settlement type="village">Libonta</settlement></placeName> are
+    <lb/>game above <placeName><settlement type="village" ref="settlement.xml#sett0069">Libonta</settlement></placeName> are
 <lb/>prodigious and remarkably
 <lb/>tame - <add place="marginleft"><metamark function="insertion"/>Eighty one
     <lb/><term type="animal">buffaloes</term>
@@ -686,7 +686,7 @@ The <term type="animal">lions</term> here roar
 <lb/>in even the most infested
 <lb/>districts of <placeName><bloc>Africa</bloc></placeName>
 <lb/>Some of the <term type="tribe">Mambari</term>
-<lb/>visited us at <placeName><settlement type="town">Naliele</settlement></placeName> - They
+    <lb/>visited us at <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> - They
 <lb/>are of the <term type="tribe">Ambonda</term> family
 <lb/>which inhabits the country
 <lb/><placeName><region>South East of <placeName><country>Angola</country></placeName></region></placeName> and
@@ -705,7 +705,7 @@ The <term type="animal">lions</term> here roar
 <lb/>yellow sickly hue <del type="strikethrough" hand="#U3" rend="red">among
 <lb/>them</del> On enquiring why
 <lb/><metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-254"/>they had fled my approach
-<lb/>to <placeName><settlement type="town">Linyanti</settlement></placeName> they let me know
+    <lb/>to <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> they let me know
 <lb/>that they had a vivid idea of
 <lb/><add place="marginleft">the customs of</add> <del type="cancelled">the</del> <term type="nationality">English</term> <choice><sic>cruizers</sic><corr>cruisers</corr></choice> on the coast - <anchor xml:id="meta-254"/>
 
@@ -726,7 +726,7 @@ The <term type="animal">lions</term> here roar
     <lb/>which I held from the <persName ref="people.xml#pers0297">Chevalier
 <lb/>Duprat</persName> <choice><abbr>H- M- F-</abbr><expan>His Most Faithful</expan></choice> <add place="below" rend="gray" hand="#U2">^</add> <add place="marginleft" hand="#U2" rend="gray">Majesty's</add> <term type="occupation">Arbitrator</term> in
 <lb/>the <orgName ref="orgName.xml#org0039">British and Portuguese mixed
-<lb/>commission <del type="cancelled">at</del> <placeName><settlement type="city">Cape town</settlement></placeName></orgName>
+    <lb/>commission <del type="cancelled">at</del> <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape town</settlement></placeName></orgName>
 <lb/>was evidently anxious to
 <lb/><choice><orig>shew</orig><reg>show</reg></choice> me all the kindness in
 <lb/>his power - These persons
@@ -743,7 +743,7 @@ The <term type="animal">lions</term> here roar
 <lb/><metamark function="placeMark" rend="gray" resp="#U2"/> <metamark function="newParagraph">#</metamark> A party of <orgName>Arabs</orgName> from <placeName><geogName type="island">Zanzibar</geogName></placeName>
 <lb/>were also in the country at
 <lb/>this time - <persName ref="people.xml#pers0519">Sekeletu</persName> had gone
-<lb/>from <placeName><settlement type="town">Naliele</settlement></placeName> to the town
+    <lb/>from <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> to the town
 <lb/>of his mother before we
 <lb/>arrived from the North
                 
@@ -757,9 +757,9 @@ The <term type="animal">lions</term> here roar
 <lb/><placeName><geogName type="river">Marile</geogName></placeName> a fine deep stream
 <lb/>about <measure>60 yards wide</measure> which
 <lb/>makes the whole of the country
-<lb/>around <placeName><settlement type="town">Naliele</settlement></placeName> an island
+    <lb/>around <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> an island
 <lb/>When sleeping at a village on
-<lb/>the same latitude as <placeName><settlement type="town">Naliele</settlement></placeName>
+    <lb/>the same latitude as <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName>
 <lb/>town two of the <orgName>Arabs</orgName> mentioned
 <lb/>made their appearance - They
 <lb/>were quite as dark as the
@@ -1004,15 +1004,15 @@ The arms and
 <lb/>with the stream was <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">very</add> <del type="strikethrough" hand="#U3" rend="red">much</del>
 <lb/><w>great<del type="strikethrough" hand="#U3" rend="red">er</del></w> <del type="strikethrough" hand="#U3" rend="red">than against it</del> - for
 <lb/>in one day we went from
-<lb/><placeName><settlement type="town">Litofe</settlement></placeName> to <placeName><geogName type="waterfall">Gonye</geogName></placeName> a distance
+<lb/><placeName><settlement type="town" ref="settlement.xml#sett0072">Litofe</settlement></placeName> to <placeName><geogName type="waterfall">Gonye</geogName></placeName> a distance
 <lb/>of <measure>44 miles of latitude</measure> and
 <lb/>if we add to this the longitude
 <lb/>of the windings of the river
 <lb/>the distance will not be
 <lb/>much less than <measure>60 Geographical
 <lb/>miles</measure> - At this rate we soon
-<lb/>reached <placeName><settlement type="town">Sesheke</settlement></placeName> and then
-<lb/>the town of <placeName><settlement type="town">Linyanti</settlement></placeName> - <metamark function="newParagraph" rend="red" resp="#U3">⎡</metamark>I had
+    <lb/>reached <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> and then
+    <lb/>the town of <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> - <metamark function="newParagraph" rend="red" resp="#U3">⎡</metamark>I had
 <lb/><del type="strikethrough" hand="#U3" rend="red">thus</del> been during a nine
 <lb/><choice><sic>weeks</sic><corr>weeks'</corr></choice> tour in <del type="cancelled">p</del>closer contact
 <lb/>with heathenism than I had
@@ -1061,16 +1061,16 @@ The arms and
                 
         <pb facs="liv_000100_0167.jpg" n="0167"/>                           
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">162</add> <add place="inspace" hand="#U1" rend="gray right">166</add></fw>
-<lb/><note place="inline"><placeName><settlement type="town">Linyanti</settlement></placeName> <date when="1853-09"><hi rend="underline">September</hi> 1853</date></note></p>
+    <lb/><note place="inline"><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> <date when="1853-09"><hi rend="underline">September</hi> 1853</date></note></p>
 <lb/><p>The object proposed to<!-- start of Ch XIII, p.227 in MT -->
 <lb/>the <term type="tribe">Makololo</term> seemed so desirable
 <lb/>that it was resolved to proceed
 <lb/>with it as soon as the cooling
 <lb/>influence of the <seg type="weather">rains</seg> should
 <lb/>be felt in <date when="1853-10">November</date> - The
-<lb/>Longitude of <placeName><settlement type="town">Linyanti</settlement></placeName> <choice><orig>shewed</orig><reg>showed</reg></choice>
-<lb/>that <add place="below">^</add> <placeName><settlement type="city"><choice><orig><add place="marginleft">St Phillip de</add> Benguela</orig><reg>Benguela</reg></choice></settlement></placeName> was much
-<lb/>nearer to us than <placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
+    <lb/>Longitude of <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> <choice><orig>shewed</orig><reg>showed</reg></choice>
+    <lb/>that <add place="below">^</add> <placeName><settlement type="city" ref="settlement.xml#sett0024"><choice><orig><add place="marginleft">St Phillip de</add> Benguela</orig><reg>Benguela</reg></choice></settlement></placeName> was much
+    <lb/>nearer to us than <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
 <lb/>and I might have easily
 <lb/><subst><del>gone</del><add place="over-text">made</add></subst> arrangements with
 <lb/>the <term type="tribe">Mambari</term> to allow
@@ -1090,7 +1090,7 @@ The arms and
 <lb/>from <term type="insect">Tsetse</term> could be
 <lb/>found for a passage out
 <lb/>The search was fruitless
-<lb/>The town &amp; district of <placeName><settlement type="town">Linyanti</settlement></placeName>
+    <lb/>The town &amp; district of <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName>
 <lb/>is surrounded by forests
 <lb/>infested by <w>th<subst><del>e</del><add place="over-text" hand="#U3" rend="red">is</add></subst></w> poisonous
 <lb/>insect except at a few

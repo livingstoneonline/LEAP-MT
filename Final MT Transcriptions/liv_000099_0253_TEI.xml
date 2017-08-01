@@ -220,7 +220,7 @@
 <lb/>executed the whole six - This
 <lb/>produced an insurrection
 <lb/>and the insurgents twice
-<lb/>attacked his capital, (<placeName><settlement type="town"><choice><orig>Griqua 
+    <lb/>attacked his capital, (<placeName><settlement type="town" ref="settlement.xml#sett0055"><choice><orig>Griqua 
 <lb/>town</orig><reg>Griekwastad</reg></choice></settlement></placeName>) with the intention of
     
     
@@ -310,7 +310,7 @@ for their
 <lb/>was the state of ignorance
 <lb/>of the relationships of<!-- possible word under 'of' but it's illegible.JL --> the
 <lb/>border tribes with the <del type="strikethrough">Colony</del>
-<lb/><add place="marginleft"><term type="nationality">English</term><add place="inline" rend="gray" hand="#U2">,</add> <add place="below">^</add></add> even at <placeName><settlement type="city">Cape Town</settlement></placeName><add place="inline" hand="#U2">;</add> that
+    <lb/><add place="marginleft"><term type="nationality">English</term><add place="inline" rend="gray" hand="#U2">,</add> <add place="below">^</add></add> even at <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape Town</settlement></placeName><add place="inline" hand="#U2">;</add> that
 <lb/>the <term type="occupation">magistrates</term><add place="inline" hand="#U2" rend="gray">,</add> though willing
 <lb/>to aid my researches
 <lb/>were sorely afraid to allow
@@ -322,7 +322,7 @@ for their
 <lb/>left more than that quantity
 <lb/>for more than two years
 <lb/>in an open box in my
-<lb/>waggon at <placeName><settlement type="town">Linyanti</settlement></placeName></p>
+    <lb/>waggon at <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName></p>
 
 
     <pb facs="liv_000099_0259.jpg" n="0259"/>
@@ -449,8 +449,8 @@ for their
 <lb/>the natural and proper
 <lb/>point of view behold
 <lb/>the prevailing public
-<lb/>morality of <placeName><settlement type="town"><choice><orig>Griqua town</orig><reg>Griekwastad</reg></choice></settlement></placeName> 
-<lb/><placeName><settlement type="village">Kuruman</settlement></placeName> <metamark function="ed-mark" place="below" rend="gray" resp="#U2">x</metamark><placeName><settlement type="village">Likatlong</settlement></placeName> and
+    <lb/>morality of <placeName><settlement type="town" ref="settlement.xml#sett0055"><choice><orig>Griqua town</orig><reg>Griekwastad</reg></choice></settlement></placeName> 
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> <metamark function="ed-mark" place="below" rend="gray" resp="#U2">x</metamark><placeName><settlement type="village" ref="settlement.xml#sett0046">Likatlong</settlement></placeName> and
 <lb/>other villages and remember
 <lb/>what even <metamark function="ed-mark" place="below" rend="gray" resp="#U2">x</metamark><placeName><settlement type="city">London</settlement></placeName> was
 <lb/>a century ago and he
@@ -571,7 +571,7 @@ for their
 <lb/>The <term type="tribe">Bechuana</term><del type="cancelled">s</del> Mission has been
 <lb/><add place="marginleft">so far</add> <del type="cancelled">so</del> successful that when coming
 <lb/>from the <placeName><region>Interior</region></placeName> we always
-<lb/>felt on reaching <placeName><settlement type="village">Kuruman</settlement></placeName>
+    <lb/>felt on reaching <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
 <lb/>that we had returned to civilized
 <lb/>life - But I would not give
 <lb/>any one to understand by this
@@ -664,7 +664,7 @@ It was in vain
 <lb/><p><metamark function="placeMark" place="marginleft" resp="#U2" rend="gray"/>
     <lb/><add place="inline" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0572">Wilkes</persName></note></add></p> 
 <lb/><p>The permanence of the station
-<lb/>called <placeName><settlement type="village">Kuruman</settlement></placeName> depends entirely
+    <lb/>called <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> depends entirely
 <lb/>on the fine ever flowing
 <lb/>fountain of that name - It comes
 <lb/>from beneath the Trap rock
@@ -693,7 +693,7 @@ It was in vain
 <lb/>irrigation where not a drop of
 <lb/><add place="marginleft">the fountain <add place="below">^</add></add> <del type="cancelled">of</del> water ever <del type="strikethrough" hand="#U3">now</del> flows - <add place="marginright" hand="#U3" rend="red">now.</add></p>
 <lb/><p>Other parts <measure>fourteen miles</measure>
-<lb/>below <add place="below">^</add> <add place="above">the</add> <placeName><settlement type="village">Kuruman</settlement></placeName> gardens <del type="cancelled"><add place="below">^</add> <add place="above"><gap reason="illegible" extent="4" unit="chars"/></add></del> are
+    <lb/>below <add place="below">^</add> <add place="above">the</add> <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> gardens <del type="cancelled"><add place="below">^</add> <add place="above"><gap reason="illegible" extent="4" unit="chars"/></add></del> are
 <lb/>pointed out <add place="below"><del type="strikethrough">^</del></add> as having contained <add place="marginleft"><metamark function="insertion"/><subst><del type="strikethrough" hand="#U3" rend="red">in</del><add place="above" hand="#U3" rend="red">within</add></subst> the memory
     <lb/><subst><del>by</del><add place="over-text">of</add></subst> people
     <lb/>now living</add>
@@ -715,7 +715,7 @@ It was in vain
 <lb/>minutely into this feature
 <lb/>of the country at present<add place="below" hand="#U3" rend="red">,</add> it
 <lb/>may be remarked that the
-<lb/><placeName><settlement type="village">Kuruman</settlement></placeName> district presents
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> district presents
 <lb/>evidence of this dry Southern
 <lb/>country having at no very
 <lb/>distant date been as well
@@ -754,7 +754,7 @@ It was in vain
 <lb/>water and it flows perennially
 <lb/>Several of these ancient
 <lb/>fountains have been resuscitated
-<lb/>by the <term type="tribe">Bechuanas</term> near <placeName><settlement type="village">Kuruman</settlement></placeName>
+    <lb/>by the <term type="tribe">Bechuanas</term> near <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">and</del><add place="above" hand="#U3" rend="red">who</add></subst> occasionally <del type="strikethrough" hand="#U3" rend="red">they</del> <choice><orig>shew</orig><reg>show</reg></choice>
 <lb/>their feelings of self-esteem by
 <lb/>labouring for months at deep
@@ -956,7 +956,7 @@ It <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="#U3
 <lb/><add place="marginleft">the plant</add> <del type="cancelled">it</del> as a medicine</p>
 <lb/>
 <lb/><p>During the period of my visit
-    <lb/>at <placeName><settlement type="village">Kuruman</settlement></placeName> <persName ref="people.xml#pers0411">M<hi rend="sup underline">r</hi> Moffat</persName> who has
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> <persName ref="people.xml#pers0411">M<hi rend="sup underline">r</hi> Moffat</persName> who has
 <lb/>been a <term type="occupation">missionary</term> in <placeName><bloc>Africa</bloc></placeName>
 <lb/>during upwards of forty years
 <lb/>and is well known by his

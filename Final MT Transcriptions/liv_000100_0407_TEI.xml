@@ -130,7 +130,7 @@
 <lb/>and descended <add place="below">^</add> <add place="above">into</add> the very
 <lb/>first really deep valley
 <lb/>we had come to beyond
-<lb/><placeName><settlement type="village">Kolobeng</settlement></placeName> - A stream
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> - A stream
 <lb/>ran along the bottom
 <lb/>of a slope of <measure>three or four
 <lb/>hundred yards</measure> from the 
@@ -754,7 +754,7 @@ we often saw the boys
 <lb/><metamark function="ed-mark" place="marginleft" rend="gray" resp="#U2">X</metamark> us to take which ever <retrace hand="#DL"><add place="inline" rend="gray" hand="#U2">we</add></retrace>
 <lb/>might like best - As I
 <lb/>had pointed out the
-<lb/>direction in which <placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
+    <lb/>direction in which <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
 <lb/>lay and had only employed
 <lb/>them for the sake of knowing
        
@@ -765,7 +765,7 @@ we often saw the boys
 <lb/>which lay along our route
 <lb/>and always objected when
 <lb/>they led us in any other
-<lb/>than the <placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> direction
+    <lb/>than the <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> direction
 <lb/>I wished my men now to
 <lb/>go on without <w>the<del type="strikethrough">m</del></w> <add place="below">^</add> <add place="above"><term type="occupation">guides</term></add> and
 <lb/><del type="cancelled">tha</del> we should<!-- possible letters under 'sh' but they are illegible.JL --> choose
@@ -1023,7 +1023,7 @@ and some
 <lb/>one loved them well
 <lb/>enough to give them the
 <lb/>medicine of <term type="animal">cattle</term>" and
-<lb/>even the <term type="people">Portuguese</term> at <placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
+                    <lb/>even the <term type="people">Portuguese</term> at <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
 <lb/><add place="marginleft"><metamark function="insertion"/>accounted for
     <lb/>the death of</add> 
 <del type="cancelled">believed that</del> the <term type="animal">cattle</term>
@@ -1034,7 +1034,7 @@ and some
 <del type="strikethrough">to live in</del> <choice><sic>the</sic><corr/></choice> sea air! One
 <lb/><term type="animal">ox</term> which I took down to
 <lb/>the sea from the <placeName><region>Interior</region></placeName>
-<lb/>died at <placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> with all
+                    <lb/>died at <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> with all
 <lb/>the symptoms of the poison
 <lb/>injected as I saw myself
 <lb/>by the <term type="insect">Tsetse</term> in a district

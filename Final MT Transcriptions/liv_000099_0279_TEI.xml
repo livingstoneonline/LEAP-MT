@@ -271,7 +271,7 @@
 <lb/><add place="marginleft">the</add> <choice><sic><term type="occupation">missionaries</term></sic><corr><term type="occupation">missionaries</term>'</corr></choice> <del type="cancelled">to their own</del>
 <lb/>hands to their own families<!-- full stop occurs in printed work. sh -->
 <lb/>It is ridiculous to call
-<lb/>such places as <placeName><settlement type="village">Kuruman</settlement></placeName>
+    <lb/>such places as <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName>
 <lb/>for instance "<term type="occupation">Missionary</term>
 <lb/>property"<!-- full stop occurs in printed work. sh --> <space extent="1" unit="chars"/>This beautiful
 <lb/>station was made what
@@ -334,9 +334,9 @@
    <pb facs="liv_000099_0285.jpg" n="0285"/>
 <lb/><p><fw><add place="inspace" hand="#U2" rend="gray">237</add></fw> When <persName ref="people.xml#pers0516">Sechele</persName> understood<!-- page looks like it was cropped removing left margin affecting 11th line. sh -->
 <lb/>that we could no longer <space extent="3" unit="chars"/><fw><add place="inspace" hand="#U1" rend="gray">277</add></fw> 
-<lb/>remain with him at <placeName><settlement type="village">Kolobeng</settlement></placeName>
+    <lb/>remain with him at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
     <lb/>he sent his children to <persName ref="people.xml#pers0411">M<hi rend="sup">r</hi>
-<lb/>Moffat</persName> at <placeName><settlement type="village">Kuruman</settlement></placeName> for
+        <lb/>Moffat</persName> at <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> for
 <lb/>instruction in all the <w>know-
     <lb break="no"/>-ledge</w> of the white men - <persName ref="people.xml#pers0411">M<hi rend="above">r</hi> <choice><abbr>M</abbr><expan>Moffat</expan></choice></persName> 
 <lb/>very liberally received at once
@@ -607,7 +607,7 @@ taught
 <lb/>of him intentions and aims - </p><!-- end of section excised from published MT.JL -->
                 <lb/><p>Very soon after <persName ref="people.xml#pers0483"><choice><abbr>A - ..</abbr><expan>Andries</expan></choice> <choice><abbr>W -</abbr><expan>Wilhelmus</expan></choice> Pretorius</persName><!-- text now p119 in Missionary travels. sh -->
 <lb/>sent the marauding party
-<lb/>against <placeName><settlement type="village">Kolobeng</settlement></placeName> he too
+                    <lb/>against <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> he too
 <lb/><add place="marginleft" rend="red" hand="#U3">has been</add> <del type="strikethrough" rend="red" hand="#U3">was</del> called away to the Tribunal
 <lb/>of infinite justice - His policy
                     <lb/>is justified by the <orgName ref="orgName.xml#org0038">Boers</orgName>
@@ -628,7 +628,7 @@ taught
 <lb/>the country <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">that</add> I could not engage
 <lb/>a single <orgName>native</orgName> to accompany
 <lb/>me to the North - During
-<lb/>our residence at <placeName><settlement type="village">Kolobeng</settlement></placeName>
+    <lb/>our residence at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
 <lb/>no fewer than nine tribes
 <lb/>had been attacked and large
 <lb/>numbers of children carried
@@ -656,7 +656,7 @@ taught
 <lb/>the credit of the difference
 <lb/>between the attacks of the nine
 <lb/>aforementioned tribes and
-<lb/><add place="marginleft">that of</add> <placeName><settlement type="village">Kolobeng</settlement></placeName> - Loud vows of
+    <lb/><add place="marginleft">that of</add> <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> - Loud vows of
 <lb/>vengeance were uttered against
 <lb/>my head and threats of instant
 <lb/>pursuit by a large party on
@@ -673,7 +673,7 @@ taught
     <lb/>the country except to the <orgName ref="orgName.xml#org0038">Boers</orgName>
 <lb/>it was not to be wondered at
 <lb/>that I was detained for months
-<lb/>at <placeName><settlement type="village">Kuruman</settlement></placeName> from sheer
+    <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> from sheer
 <lb/>inability to get <term type="occupation">waggon drivers</term><!-- full stop occurs in printed work. sh -->
 
 
@@ -750,7 +750,7 @@ taught
 <lb/><term type="occupation">missionary</term> accompanied
 <lb/>them in their emigration but
     <lb/>when <persName ref="person.xml#pers0538">Sir Harry Smith</persName> routed
-<lb/>them at <placeName><settlement type="farm">Boomplaats</settlement></placeName> he most
+    <lb/>them at <placeName><settlement type="farm" ref="settlement.xml#sett0027">Boomplaats</settlement></placeName> he most
 
 
 <pb facs="liv_000099_0296.jpg" n="0296"/>
@@ -838,11 +838,11 @@ taught
     <lb/><persName ref="people.xml#pers0302">George Fleming</persName> who had
 <lb/>generously been a<subst><del hand="#U3">ss</del><add place="over-text" rend="red" hand="#U3">ss</add></subst>isted by
 <lb/>a mercantile gentleman
-<lb/>of <placeName><settlement type="city">Cape Town</settlement></placeName> to endeavour
+    <lb/>of <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape Town</settlement></placeName> to endeavour
 <lb/>to establish a trade with the
 <lb/><term type="tribe"><choice><sic>Makolo</sic><corr>Makololo</corr></choice></term>, had also managed
 <lb/>to get a similar number
-<lb/>we left <placeName><settlement type="village">Kuruman</settlement></placeName> on the
+    <lb/>we left <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> on the
     <lb/><date when="1852-11-20">20<hi rend="sup underline">th</hi> <choice><abbr>Nov<hi rend="sup underline">r</hi><expan>November</expan></abbr></choice></date> and proceeded
 <lb/>on our journey - Our <term type="occupation">servants</term>
 <lb/>were the worst possible
@@ -852,7 +852,7 @@ taught
 <lb/>but we had no choice - &amp;
 <lb/>were glad to get away on
 <lb/>any terms - </p>
-<lb/><p>When we reached <placeName><settlement type="village">Motito</settlement></placeName>
+                <lb/><p>When we reached <placeName><settlement type="village" ref="settlement.xml#sett0028">Motito</settlement></placeName>
 <lb/><measure>forty miles</measure> off we met
 <lb/><persName ref="people.xml#pers0516">Sechele</persName> on his way as he
 <lb/>said "to the Queen of <placeName><country>England</country></placeName>"
@@ -891,7 +891,7 @@ taught
 <lb/>determination - Others explained
 <lb/>the difficulties more fully but
 <lb/><add place="marginleft" rend="red" hand="#U3">nothing could shake</add> his resolution <del type="strikethrough" hand="#U3" rend="red">was <unclear cert="medium">implacable</unclear></del>
-<lb/>When he reached <placeName><settlement type="city">Bloemfontein</settlement></placeName>
+    <lb/>When he reached <placeName><settlement type="city" ref="settlement.xml#sett0026">Bloemfontein</settlement></placeName>
     <lb/>he found the army of <persName ref="person.xml#pers0277">Sir
 <lb/>George</persName> just returning from
 <lb/>a battle in which both parties<!-- "battle with the Basutos" Miss. Travels p121. sh -->
@@ -940,7 +940,7 @@ taught
 <lb />taken refuge under his sway
 <lb/>and he is now greater in
 <lb/>power than he was before
-<lb/>the attack on <placeName><settlement type="village">Kolobeng</settlement></placeName> - </p>           
+    <lb/>the attack on <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> - </p>           
 
 
    <pb facs="liv_000099_0301.jpg" n="0301"/>
@@ -966,7 +966,7 @@ There
 <lb/>he had succeeded in reaching
 <lb/>by going right across
 <lb/>the Desert from a point<!-- Kalahari Desert. sh -->
-<lb/>a little to the South of <placeName><settlement type="village">Kolobeng</settlement></placeName>
+    <lb/>a little to the South of <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
 <lb/>The accounts of the abundance
 <lb/>of <term type="plant_foodstuff">water melons</term> were amply
 <lb/>confirmed by this energetic
@@ -1039,7 +1039,7 @@ There
 <lb/>forward on <term type="animal">horse</term>back
 <lb/>lost his <subst><del type="cancelled">way</del><add place="above">path</add></subst> and was
 <lb/>obliged to find his <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3"><del type="strikethrough">own</del></add> way <add place="inline" rend="red" hand="#U3">alone</add>
-<lb/>to <placeName><settlement type="village">Kuruman</settlement></placeName> some <measure>hundreds
+    <lb/>to <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> some <measure>hundreds
 <lb/>of miles</measure> distant - Reaching
 <lb/>that station shirtless and
     <lb/>as brown as a <orgName ref="orgName.xml#org0057">Griqua</orgName>

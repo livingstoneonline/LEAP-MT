@@ -169,7 +169,7 @@ that <del type="cancelled">bold young</del> innovators
 <lb/><add place="marginleft"><note>(<del type="strikethrough"><add place="inline" rend="red" hand="#U3"><metamark function="query"><choice><abbr>Qu.</abbr><expan>Query</expan></choice></metamark> What tribe?</add> 
     <lb/><term type="tribe">Bakaa</term> of course</del>)</note></add> 
 The <hi rend="red underline" resp="#U3">latter tribe</hi> <add place="below">^</add> <add place="above">(<term type="tribe">Bakaa</term>)</add> however removed
-<lb/>to <placeName><settlement type="village">Kolobeng</settlement></placeName> and are now
+    <lb/>to <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> and are now
 <lb/>joined to that of <persName ref="people.xml#pers0516">Sechele</persName>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>96</note></add> <subst><del>They</del><add place="over-text">The</add></subst> range stands almost <measure>700
 <lb/>or 800 <add place="inline" rend="red" hand="#U3">feet</add></measure> above the plains
@@ -357,7 +357,7 @@ but when you travel
 <lb/><p><space dim="vertical" extent="5" unit="lines"/>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>101</note></add>
 <lb/><space dim="vertical" extent="4" unit="lines"/></p>
-<lb/><p><note place="marginleft"><date when="1853-01-28">January 28<hi rend="above underline">th</hi></date></note> Passing on to <placeName><settlement type="village">Letloche</settlement></placeName><add place="inline" rend="gray" hand="#U2">,</add> about
+                <lb/><p><note place="marginleft"><date when="1853-01-28">January 28<hi rend="above underline">th</hi></date></note> Passing on to <placeName><settlement type="village" ref="settlement.xml#sett0067">Letloche</settlement></placeName><add place="inline" rend="gray" hand="#U2">,</add> about
 <lb/><measure>twenty miles</measure> beyond the <term type="tribe">Bamangwato</term><add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>we found a fine supply of water<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>This is an interesting fact in
@@ -381,7 +381,7 @@ but when you travel
     <lb/>This spot was - <add place="above">M<hi rend="sup">r</hi></add> <del type="cancelled">Mr</del> - <persName ref="people.xml#pers0286">Gordon
 <lb/>Cummings</persName> <metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> <hi rend="red underline" resp="#U3">farthest</hi> station
 <lb/>North<add place="inline" rend="gray" hand="#U2">;</add> - Our house at
-<lb/><placeName><settlement type="village">Kolobeng</settlement></placeName> having been quite
+    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> having been quite
 
 
 <pb facs="liv_000099_0370.jpg" n="0370"/>    
@@ -417,7 +417,7 @@ but when you travel
 <lb/>little else but meat of
 <lb/>game to subsist on<add place="inline" rend="gray" hand="#U2">,</add> <add place="inline" rend="red" hand="#U3">-</add> but
 <lb/>they willingly went <measure>700
-<lb/>or 800 miles</measure> to the <placeName><settlement type="town"><choice><orig>Grahams
+    <lb/>or 800 miles</measure> to the <placeName><settlement type="town" ref="settlement.xml#sett0053"><choice><orig>Grahams
 <lb/>town</orig><reg>Grahamstown</reg></choice></settlement></placeName> <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" rend="red" hand="#U3"><subst><del type="strikethrough">receiving</del><add place="below" rend="red" hand="#U3">receiving</add></subst></add> for wages <del type="strikethrough" rend="red" hand="#U3">comprized</del>
 <lb/><add place="marginleft" rend="red" hand="#U3">only</add> <del type="strikethrough" rend="red" hand="#U3">in</del> a musket<add place="inline" rend="red" hand="#U3">,</add> worth 15/
 
@@ -551,7 +551,7 @@ on foot would be not less
 <pb facs="liv_000099_0374.jpg" n="0374"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">352</add></fw>
                 <lb/><p><add place="marginleft" hand="#U2" rend="gray"><seg rend="vertical"><hi rend="underline"><note><persName ref="people.xml#pers0497">Robinson</persName></note></hi></seg></add> Some wells east beyond <del type="strikethrough">Kann</del>
-<lb/><placeName><settlement type="village">Letloche</settlement></placeName> at a spot named <placeName><geogName type="well">Kanne</geogName></placeName>
+                    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0067">Letloche</settlement></placeName> at a spot named <placeName><geogName type="well">Kanne</geogName></placeName>
 <lb/>we found them carefully hedged
 <lb/>round by the people of a
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>106</note></add> <term type="people"><term type="tribe">Bakalahari</term></term> village situated

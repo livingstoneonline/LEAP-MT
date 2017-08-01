@@ -609,7 +609,7 @@ all very neat and
 <lb/>begin a trade in <term type="animal">cows</term>
 <lb/>with the <term type="tribe">Makololo</term> - He was
 <lb/>pleased with the idea and
-<lb/>when we returned <add place="below" hand="#CL">^</add> <add place="marginleft">from <placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
+    <lb/>when we returned <add place="below" hand="#CL">^</add> <add place="marginleft">from <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
     <lb/><add place="inline" hand="#CL">we found that</add></add> 
 he had
 <lb/>profited by the hint for he
@@ -700,7 +700,7 @@ and explained that "this
 <lb/><term type="ailment">fever</term> he remarked that
 <lb/>was the only thing which
 <lb/>would prevent <del type="cancelled">my reaching
-<lb/><placeName><settlement type="city"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> for he</del> a successful
+    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> for he</del> a successful
 <lb/>issue to my journey for
 <lb/>he had <del type="cancelled">a <term type="occupation">guide</term></del> men to give
 <lb/>me who knew all the paths
