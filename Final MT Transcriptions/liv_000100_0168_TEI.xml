@@ -243,7 +243,7 @@
 <lb/><del type="strikethrough">occurred</del> happened <choice><sic>untill</sic><corr>until</corr></choice> the
 <lb/>time of my departure - The
 <lb/>book was a volume of my
-<lb/>Journal - and as I was
+    <lb/><bibl>Journal</bibl> - and as I was
 <lb/>detained longer than <subst><del type="cancelled">My</del><add place="over-text">I</add></subst> expected
     <lb/>at <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> the book <del type="strikethrough">was</del> with
 <lb/>a letter was delivered to a <term type="occupation">trader</term>
@@ -270,7 +270,7 @@
 <lb/>with earth and entering
 <lb/>on an untried state of
 <lb/>existence, and I find myself
-<lb/>in my journal wondering
+    <lb/>in my <bibl>journal</bibl> wondering
 <lb/>over that fearful <del type="cancelled">change</del>
 <lb/>migration which lands
 <lb/>us in Eternity if an Angel

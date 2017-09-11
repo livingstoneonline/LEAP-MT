@@ -163,7 +163,7 @@ and the <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign
 <lb/>other <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign> excessively slow I resolved to forgo his
     <lb/>company to <placeName><settlement type="village" ref="settlement.xml#sett0030">Cabango</settlement></placeName> after I had delivered to him some
     <lb/>letters to be sent back to <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName>, but on the
-<lb/><date when="1855-04-19">19<hi rend="sup">th</hi> April</date> the <add place="below">˄</add> <subst><add place="above">intermittent</add><del type="strikethrough">fever</del></subst> <choice><sic>wh</sic><corr>which</corr></choice> had begun on <choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-03-16">16<hi rend="sup">th</hi> March</date>
+    <lb/><date when="1855-04-19">19<hi rend="sup">th</hi> April</date> the <add place="below">˄</add> <term type="ailment"><subst><add place="above">intermittent</add><del type="strikethrough">fever</del></subst></term> <choice><sic>wh</sic><corr>which</corr></choice> had begun on <choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-03-16">16<hi rend="sup">th</hi> March</date>
 <lb/>was changed into an excessively severe attack of
     <lb/><term type="ailment">Rheumatic fever</term> <space unit="chars" extent="3"/>This was brought on by <add place="below">˄</add> <add place="above">being</add> <add place="above" hand="#DL" n="DL">obliged to</add> sleep<del type="cancelled" hand="#DL" n="DL">ing</del>
 <lb/>on an extensive plain covered with water <space unit="chars" extent="2"/>The <seg type="weather">rain
