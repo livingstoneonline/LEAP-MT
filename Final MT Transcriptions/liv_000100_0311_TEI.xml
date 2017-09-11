@@ -402,7 +402,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>their best, which best happened
 <lb/>to be a profusion of red blaize
                     <lb/>The chief wife of <persName ref="people.xml#pers0532">Shinte</persName> <add place="marginleft"><metamark function="insertion"/>one of the
-    <lb/><term type="tribe"><choice><orig>Matibele</orig><reg>Matebele</reg></choice></term> or
+    <lb/><term type="tribe">Matibele</term> or
     <lb/><term type="tribe"><choice><orig>Zul<subst><del>a</del><add place="over-text">u</add></subst>s</orig><reg>Zulus</reg></choice></term></add> 
 sat
 <lb/>in front <add place="marginleft"><metamark function="insertion"/>with a curious
@@ -507,7 +507,7 @@ sat
     <lb/>from <del type="strikethrough"><persName ref="people.xml#pers0532">Kabompo</persName></del> <persName ref="people.xml#pers0532">Shinte</persName> requesting
 <lb/><choice><sic>at</sic><corr>a</corr></choice> visit at a very unseasonable
 <lb/>hour - As I was just in
-<lb/>the <term type="ailment">sweating</term> stage of an intermittent
+    <lb/>the sweating stage of an <term type="ailment">intermittent</term>
 <lb/>and the path to the town lay
 <lb/>through a wet valley, I declined
     <lb/>going - <persName ref="people.xml#pers0362">Kolimbota</persName> who knows

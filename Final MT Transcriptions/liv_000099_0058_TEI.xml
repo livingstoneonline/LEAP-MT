@@ -596,7 +596,7 @@ obtained
 <lb/>the <term type="tribe">Bakwains</term> - I explained the 
 <lb/>impossibility of my complying 
 <lb/>with his wish even though
-<lb/>my principles as an <term type="person">Englishman</term>
+<lb/>my principles as an <term type="people">Englishman</term>
 <lb/>were not in the way, by referring
 <lb/>to an instance in which
 <lb/><persName ref="people.xml#pers0516">Sechele</persName> had gone with his
@@ -839,7 +839,7 @@ obtained
     <lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> <metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-17"/><del type="cancelled" hand="#DL"><add place="inline" hand="#U2" rend="gray">"</add>rusé<add place="inline" hand="#U2" rend="gray">"</add></del><anchor xml:id="meta-17"/> by the <orgName ref="orgName.xml#org0038">Boer</orgName>ish <term type="occupation">commandant</term>
 <lb/>whereby I was led by professions
 <lb/>of the greatest friendship to 
-<lb/>retire to <placeName><settlement type="village">Kolonbeng</settlement></placeName> and a letter
+    <lb/>retire to <placeName><settlement type="village">Kolonbeng</settlement></placeName> and a <bibl>letter</bibl>
 <lb/>passed me by an other way 
 <lb/>to the other <term type="occupation">missionaries</term> in
 <lb/>the South demanding my
@@ -942,7 +942,7 @@ obtained
 <lb/>a lingering suspicion seeing
 <lb/>this gentleman had been witness
 <lb/>of a <term type="occupation">Governor</term> tearing a treaty
-<lb/>containing the <choice><sic>Queens</sic><corr>Queen's</corr></choice> <unclear cert="medium">scope</unclear>
+                    <lb/>containing the <term type="occupation"><choice><sic>Queens</sic><corr>Queen's</corr></choice></term> <unclear cert="medium">scope</unclear>
 <lb/>manual &amp; in the presence
                     <lb/>of thousands of <orgName ref="orgName.xml#org0042">Caffres</orgName> scatter
 	

@@ -343,7 +343,7 @@ As we
 <lb/>The scenery would have been very
 <lb/>pleasing<add place="inline" rend="gray" hand="#U2">,</add> but <term type="ailment">fever</term> took away
 <lb/>much of the joy of life<add place="inline" rend="gray" hand="#U2">,</add> and
-<lb/>severe daily intermittents
+    <lb/><term type="ailment">severe daily intermittents</term>
 <lb/>rendered me very weak
 <lb/>and glad to recline</p>
 <lb/><p>As we were now in the
@@ -619,7 +619,7 @@ then part with mutual
 <lb/>effeminately - Below us
 <lb/>lay the valley of the <placeName><geogName type="river">Quango</geogName></placeName> - 
 <lb/>If you sit on the spot 
-    <lb/>where <persName ref="people.xml#pers0392">Mary Queen of 
+    <lb/>where <persName ref="people.xml#pers0392">Mary <term type="occupation">Queen</term> of 
 <lb/><term type="people">Scots</term></persName> viewed the battle 
     <lb/>of <placeName><settlement type="village" ref="settlement.xml#sett0064">Langside</settlement></placeName> and look<!-- At the time of writing Langside was a village to the south of Glasgow, sh -->
 <lb/>down on the <placeName><geogName type="valley">vale of 
