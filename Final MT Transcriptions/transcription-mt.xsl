@@ -318,6 +318,7 @@
 	<xsl:template match="add">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@n, '-', ''))}"><xsl:apply-templates/></span><!-- Added @hand and @n for MT -->
 	</xsl:template>
+	
 
 	<xsl:template match="add[@place='marginleft']|add[@place='marginright']|add[@place='marginbottom']|add[@place='margintop']" priority="9"><!-- Should 9 be 10? -->
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'addmargin')}"> [<xsl:apply-templates/>] </span><!-- Added @n for MT -->
@@ -1196,19 +1197,19 @@
 	<xsl:template match="metamark
 		[contains(@function, 'flag')]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]">
-		<span class="metamark {@rend} {@n}" title="Editorial line, circle or bracket used to flag a portion of text">&#x23a8;</span>
+		<span class="metamark {@rend} {@n}" title="Editorial line, circle or bracket used to flag a portion of text">&#x23b0;</span>
 	</xsl:template>	
 	
 	<xsl:template match="metamark
 		[contains(@rend, 'gray') and contains(@function, 'flag')]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
-		<span class="metamark {@rend} {@n}" title="Editorial line, circle or bracket used to flag a portion of text">&#x23a8;</span>
+		<span class="metamark {@rend} {@n}" title="Editorial line, circle or bracket used to flag a portion of text">&#x23b0;</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark
 		[contains(@rend, 'red') and contains(@function, 'flag')]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
-		<span class="metamark {@rend} {@n}" title="Editorial line, circle or bracket used to flag a portion of text">&#x23a8;</span>
+		<span class="metamark {@rend} {@n}" title="Editorial line, circle or bracket used to flag a portion of text">&#x23b0;</span>
 	</xsl:template>
 	
 	<!-- @function let-stand -->
@@ -1252,19 +1253,19 @@
 	<xsl:template match="metamark
 		[contains(@function, 'reorder')]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="9">
-		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">&#x23a8;</span>
+		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">&#x23b0;</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark
 		[contains(@rend, 'gray') and contains(@function, 'reorder')]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
-		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">&#x23a8;</span>
+		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">&#x23b0;</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark
 		[contains(@rend, 'red') and contains(@function, 'reorder')]
 		[substring-after(@spanTo, '#')= following::anchor/@xml:id]" priority="10">
-		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">&#x23a8;</span>
+		<span class="metamark {@rend} {@n}" title="Editorial symbol used to transpose a portion of text from one place to another">&#x23b0;</span>
 	</xsl:template>
 	
 	<!-- The following anchor templates adde for MT: to work with metamarks using @spanTo, @function 'flag' and 'reorder' -->
@@ -1285,7 +1286,7 @@
 				<xsl:when test="preceding::metamark[concat('#', $id)=@spanTo][1][contains(@function, 'reorder')]"><xsl:text>Editorial symbol used to transpose a portion of text from one place to another</xsl:text></xsl:when>
 			</xsl:choose>
 		</xsl:variable>
-		<span class="metamark {$metamark/@rend} {$metamark/@n} {$metamark}" title="{$metamarkText}">&#x23ac;</span>
+		<span class="metamark {$metamark/@rend} {$metamark/@n} {$metamark}" title="{$metamarkText}">&#x23b1;</span>
 	</xsl:template>
 
 	<!-- anchor: to work with metamark using @spanTo, @function 'let-stand'. -->
