@@ -3,90 +3,100 @@
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-LLJ-html.xsl" type="text/xsl"?>
 <!--<?xml-stylesheet href="transcription-LLJ-html.xsl" type="text/xsl"?>-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_015011"><!-- This needs to be changed, ks -->
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Missionary Travels and Researches in South Africa</title>
-<author>David Livingstone</author>
-<principal>Justin Livingstone</principal>
-<principal>Adrian S. Wisnicki</principal>
-<respStmt xml:id="JL">
-<name>Justin Livingstone</name>
-<resp>Transcription</resp>
-<resp>TEI Encoding</resp>
-<resp>Proofreading</resp>
-<resp>Editorial Decisions</resp>
-<resp>Coding Review</resp>
-</respStmt>
-<respStmt xml:id="AW">
-<name>Adrian S. Wisnicki</name>
-<resp>Transcription</resp>
-<resp>TEI Encoding</resp>
-<resp>Proofreading</resp>
-<resp>Editorial Decisions</resp>
-<resp>Coding Review</resp>
-</respStmt>
-<respStmt xml:id="HB">
-<name>Heather F. Ball</name>
-<resp>Transcription</resp>
-<resp>TEI Encoding</resp>
-<resp>Editorial Decisions</resp>
-<resp>Proofreading</resp>
-<resp>Quality Control and Integration</resp>
-</respStmt>
-<respStmt xml:id="KS">
-<name>Kate Simpson</name>
-<resp>Transcription</resp>
-<resp>TEI Encoding</resp>
-<resp>Proofreading</resp>
-</respStmt>			
-</titleStmt>
-<publicationStmt>
-<authority>Livingstone Online</authority>
-<publisher>UCLA Digital Library</publisher>
-<pubPlace>Los Angeles, CA, USA</pubPlace>
-<date>2016</date>
-<availability>
-<p>Public domain.</p><!-- We need to double check that this is the proper thing to write. AW --><!-- Was this checked, ks -->
-</availability>
-</publicationStmt>
-<sourceDesc><!-- James needs to confirm that I've done this properly. AW --><!-- was this confirmed, ks -->
-<biblStruct type="book">
-<monogr>
-<title level="m">Missionary Travels and Researches in South Africa</title>
-<author><forename>David</forename><surname>Livingstone</surname></author>
-<imprint>
-<pubPlace>London</pubPlace>
-<publisher>John Murray</publisher>
-<date>1857</date>
-</imprint>
-</monogr>
-</biblStruct>
-</sourceDesc>
-</fileDesc>
-<encodingDesc>
-<projectDesc>
-<p>The present transcription is a corrected and encoded transcription of that available from <ref target="https://www.gutenberg.org/files/1039/1039-h/1039-h.htm">Project Gutenberg</ref>.</p>
-</projectDesc>
-</encodingDesc>
-<profileDesc>
-<langUsage>
-<language ident="en">English</language>
-</langUsage>
-</profileDesc>
-<revisionDesc>
-<!-- Integration -->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_015011">
+	<!-- This needs to be changed, ks -->
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Missionary Travels and Researches in South Africa</title>
+				<author>David Livingstone</author>
+				<principal>Justin Livingstone</principal>
+				<principal>Adrian S. Wisnicki</principal>
+				<respStmt xml:id="JL">
+					<name>Justin Livingstone</name>
+					<resp>Transcription</resp>
+					<resp>TEI Encoding</resp>
+					<resp>Proofreading</resp>
+					<resp>Editorial Decisions</resp>
+					<resp>Coding Review</resp>
+				</respStmt>
+				<respStmt xml:id="AW">
+					<name>Adrian S. Wisnicki</name>
+					<resp>Transcription</resp>
+					<resp>TEI Encoding</resp>
+					<resp>Proofreading</resp>
+					<resp>Editorial Decisions</resp>
+					<resp>Coding Review</resp>
+				</respStmt>
+				<respStmt xml:id="HB">
+					<name>Heather F. Ball</name>
+					<resp>Transcription</resp>
+					<resp>TEI Encoding</resp>
+					<resp>Editorial Decisions</resp>
+					<resp>Proofreading</resp>
+					<resp>Quality Control and Integration</resp>
+				</respStmt>
+				<respStmt xml:id="KS">
+					<name>Kate Simpson</name>
+					<resp>Transcription</resp>
+					<resp>TEI Encoding</resp>
+					<resp>Proofreading</resp>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<authority>Livingstone Online</authority>
+				<publisher>UCLA Digital Library</publisher>
+				<pubPlace>Los Angeles, CA, USA</pubPlace>
+				<date>2016</date>
+				<availability>
+					<p>Public domain.</p>
+					<!-- We need to double check that this is the proper thing to write. AW -->
+					<!-- Was this checked, ks -->
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<!-- James needs to confirm that I've done this properly. AW -->
+				<!-- was this confirmed, ks -->
+				<biblStruct type="book">
+					<monogr>
+						<title level="m">Missionary Travels and Researches in South Africa</title>
+						<author>
+							<forename>David</forename>
+							<surname>Livingstone</surname>
+						</author>
+						<imprint>
+							<pubPlace>London</pubPlace>
+							<publisher>John Murray</publisher>
+							<date>1857</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc>
+				<p>The present transcription is a corrected and encoded transcription of that available from
+					<ref target="https://www.gutenberg.org/files/1039/1039-h/1039-h.htm">Project
+					Gutenberg</ref>.</p>
+			</projectDesc>
+		</encodingDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="en">English</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<!-- Integration -->
 
-<change when="2017-09-04" who="#KS">Revision of pbs</change>
-<change when="2016-11-24" who="#AS">Partial proofing against primary text</change>
-<change when="2016-10-03" who="#KS">Transcription and TEI Encoding</change>
-</revisionDesc>
-</teiHeader>
+			<change when="2017-09-04" who="#KS">Revision of pbs</change>
+			<change when="2016-11-24" who="#AS">Partial proofing against primary text</change>
+			<change when="2016-10-03" who="#KS">Transcription and TEI Encoding</change>
+		</revisionDesc>
+	</teiHeader>
 
-<text>
-<body>
-<div>
+	<text>
+		<body>
+			<div> 
 <!-- sect00 not in published text, ks -->
     <pb facs="liv_015011_0001" n="0001"/>
     
