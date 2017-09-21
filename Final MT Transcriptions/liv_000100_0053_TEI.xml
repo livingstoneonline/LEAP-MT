@@ -100,7 +100,7 @@
                 <!-- Start each page with pagebreak -->
                 
         <pb facs="liv_000100_0053.jpg" n="0053"/>
-<lb/><p><fw n="heading_XVIII">XVIII - <add place="inspace" hand="#U2" rend="gray left">49</add> <add place="inspace" hand="#U1" rend="gray right">53</add></fw>
+<lb/><p rend="no-indent"><note place="marginleft">XVIII-</note> <fw><add place="inspace" hand="#U2" rend="gray left">49</add> <add place="inspace" hand="#U1" rend="gray right">53</add></fw>
 <lb/>Hence the cry of the <term type="occupation">Herald</term>
 <lb/>"give us sleep -" It is remarkable
 <lb/>how anxious <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">for peace</add> those who
@@ -264,18 +264,18 @@ reached them
 <lb/>to <persName ref="people.xml#pers0519">Sekeletu</persName> the plan of
 <lb/>ascending the great river <!-- Zambezi? sh -->
 <lb/>which we had observed
-<lb/>in <date when="1851">185<subst><del>7</del><add place="over-text">1</add></subst></date><!-- the top part of the number '7' is scored out to give '1', sh  --> - He volunteered to
+<lb/>in <date when="1851">185<subst><del>7</del><add place="over-text">1</add></subst></date><!-- the top part of the number '7' is scored out to give '1', sh  --> - <space extent="1" unit="chars"/>He volunteered to
 <lb/>accompany me and when
 <lb/>we got about <measure>60 miles</measure> away
     <lb/>on <subst><del type="strikethrough">our</del><add place="above">the</add></subst> road to <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> we
 <lb/>encountered <persName ref="people.xml#pers0431">Mpepe</persName> - The <term type="tribe">Makololo</term>
-<lb/><del type="cancelled">like most <term type="tribe">Bechuanas</term></del> <add place="marginleft"><metamark function="insertion"/><metamark function="insertion" rend="red" resp="#U3"/>though possessing
+<lb/><metamark function="insertion"/><del type="cancelled">like most <term type="tribe">Bechuanas</term></del> <add place="marginleft"><metamark function="insertion" rend="red" resp="#U3"/>though possessing
     <lb/>abundance of <term type="animal">cattle</term>
     <lb/><del type="cancelled">used</del></add>
 had    
 <lb/>never <del type="cancelled" rend="red" hand="#U3"><metamark function="insertion"/></del> attempted to ride <term type="animal">oxen</term>
 <lb/><choice><sic>untill</sic><corr>until</corr></choice> I <del type="cancelled">had</del> had advised
-<lb/>it in <date when="1851">1851</date> - The <term type="tribe">Bechuanas</term>
+<lb/>it in <date when="1851">1851</date> - <space extent="1" unit="chars"/>The <term type="tribe">Bechuanas</term>
 <lb/>generally were in the same
 <lb/>condition <choice><sic>untill</sic><corr>until</corr></choice> <orgName>Europeans</orgName>
 <lb/>came among them and
@@ -296,7 +296,7 @@ had
 our party <del type="strikethrough">but it</del> and when   
 <lb/>he saw <persName ref="people.xml#pers0519">Sekeletu</persName> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">he</add> ran with
 <lb/>all his might towards
-<lb/>us but <persName ref="people.xml#pers0519">Sekeletu</persName> being
+<lb/>us but <space extent="2" unit="chars"/><persName ref="people.xml#pers0519">Sekeletu</persName> being
 <lb/>on his <choice><sic>gaurd</sic><corr>guard</corr></choice> galloped
        
     
@@ -373,11 +373,10 @@ I happened to sit down
 <lb/><persName ref="people.xml#pers0431">Mpepe</persName>'s men fled to the
 <lb/><term type="tribe">Barotse</term> and it being
 <lb/>unadvisable for us to
-<lb/>go thither during the <del type="cancelled"><gap extent="2" unit="chars"/></del><w>com-
+<lb/>go thither during the <del type="cancelled"><unclear cert="low">tur</unclear></del><w>com-
 <lb break="no"/>motion</w> which followed
 <lb/>on <persName ref="people.xml#pers0431">Mpepe</persName>'s death we
     <lb/>returned to <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> - </p>
-<lb/><space dim="vertical" extent="2" unit="lines"/>
     
     
     
@@ -386,9 +385,9 @@ I happened to sit down
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <del type="strikethrough" rend="red" hand="#U3">Cases such as</del> <choice><sic>the</sic><corr>The</corr></choice> foregoing
 <lb/>may be considered as <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" rend="red" hand="#U3">a fair specimen of <add place="below">^</add></add> the
 <lb/>mode of dealing with grave
-<lb/>political offences - In common
+<lb/>political offences - <space extent="1" unit="chars"/>In common
 <lb/>cases there is a greater <choice><orig>shew</orig><corr>show</corr></choice>
-<lb/>of deliberation - The complainant
+<lb/>of deliberation - <space extent="1" unit="chars"/>The complainant
 <lb/>asks the man against
 <lb/>whom he means to lodge his
 <lb/>complaint to come with him
@@ -406,7 +405,7 @@ I happened to sit down
 <lb/>then rise up and tell all
 <lb/>they <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">themselves</add> saw or heard but not
 <lb/>anything they heard from
-<lb/>others - <del type="cancelled">When</del> The defendant
+<lb/>others - <space extent="2" unit="chars"/><del type="cancelled">When</del> The defendant
 <lb/><del type="cancelled">then rises</del> after allowing
 <lb/>some minutes to elapse
 <lb/>so that he may not
@@ -432,7 +431,7 @@ I happened to sit down
 <lb/>"Be <subst><del type="strikethrough" rend="red" hand="#U3">quiet</del><add place="above" rend="red" hand="#U3">silent</add></subst>, I sat still while you
 <lb/>were speaking - <choice><sic>Cant</sic><corr>Can't</corr></choice> you do the
 <lb/>same - ? Do you want to have
-<lb/>it all to yourself"? <del type="cancelled" rend="red" hand="#U3">&amp;</del> and as the
+<lb/>it all to yourself"? <del type="cancelled" rend="red" hand="#U3">&amp;c</del> and as the
 <lb/>audience acquiesce in this
 <lb/>chafing and enforce silence
 <lb/>he goes on till he has finished
@@ -484,7 +483,7 @@ I happened to sit down
 <lb/>men</del> or brought on by
 <lb/>influential men <del type="cancelled">which</del>
 <lb/>then the greatest decorum
-<lb/>prevails, If the <term type="occupation">chief</term> does
+<lb/>prevails, <space extent="1" unit="chars"/>If the <term type="occupation">chief</term> does
 <lb/>not see his way clear
 <lb/>to a decision he remains
 <lb/>silent - The <term type="occupation">elders</term> then rise
@@ -500,7 +499,7 @@ I happened to sit down
         <pb facs="liv_000100_0063.jpg" n="0063"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">59</add> <add place="inspace" hand="#U1" rend="gray right">63</add></fw>
 <lb/>he delivers his <w>judg<del type="strikethrough">e</del>ment</w>
-<lb/>accordingly - He alone speaks
+<lb/>accordingly - <space extent="1" unit="chars"/>He alone speaks
 <lb/>sitting - all others stand - </p>
 <lb/><p>No one refuses to
 <lb/>acquiesce in the decision of
@@ -527,7 +526,7 @@ I happened to sit down
 <lb/>of the <term type="nationality">Portuguese</term> <choice><sic><term type="occupation">merchant</term>s</sic><corr><term type="occupation">merchant</term>'s</corr></choice>
 <lb/>house in which I was
 <lb/>a guest, sat down and
-<lb/>heard the complaint<gap extent="1" unit="chars" agent="illegible"/> <subst><del><unclear cert="low"><choice><abbr>V</abbr><expan>versus</expan></choice></unclear></del><add place="over-text" hand="#U3" rend="red">a</add></subst>nd
+<lb/>heard the complaint<gap extent="1" unit="chars" agent="illegible"/> <subst><del>&amp;</del><add place="over-text" hand="#U3" rend="red">a</add></subst><add place="inline" hand="#U3" rend="red">nd</add>
 <lb/>defence in the usual
 <lb/>way - When I had given
 <lb/>my decision in the
@@ -537,7 +536,7 @@ I happened to sit down
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">60</add> <add place="inspace" hand="#U1" rend="gray right">64</add></fw>
 <lb/>common hortatory form,
 <lb/>they went off apparently
-<lb/>satisfied - Several <term type="people">Portuguese</term>
+<lb/>satisfied - <space extent="1" unit="chars"/>Several <term type="people">Portuguese</term>
 <lb/><add place="marginleft">who</add> had been viewing the
 <lb/>proceedings with great
 <lb/>interest <del type="strikethough">and</del> complimented
@@ -631,7 +630,7 @@ I liked
         <pb facs="liv_000100_0066.jpg" n="0066"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">62</add> <add place="inspace" hand="#U1" rend="gray right">66</add></fw>
 <lb/>the brother next in age takes
-<lb/>them <add place="marginleft"><metamark function="insertion"/>among
+<lb/>them <add place="marginleft"><metamark function="insertion"/>as among
     <lb/>the <orgName>Jews</orgName></add>
 and the children that may    
 <lb/>be born of those women
@@ -646,7 +645,7 @@ and the children that may
 <lb/>this title - Her hut is called
 <lb/>the great house and her
 <lb/>children inherit the <term type="occupation"><w>chieftain<supplied>-</supplied>
-<lb break="no"/>-ship</w></term> - If she dies <del type="strikethrough">another</del> a
+<lb break="no"/>-ship</w></term> - <space extent="1" unit="chars"/>If she dies <del type="strikethrough">another</del> a
 <lb/><add place="marginleft">new wife</add> is selected for the same
 <lb/>position and enjoys the
 <lb/>same privileges though
@@ -657,7 +656,7 @@ and the children that may
 <lb/>given to influential <term type="occupation"><w>under
 <lb break="no"/>-chiefs</w></term> and in reference
 <lb/>to their early casting off the
-<lb/><choice><sic>widows</sic><corr>widow's</corr></choice> weeds a song
+<lb/><choice><sic>widows</sic><corr>widow's</corr></choice> <space extent="1" unit="chars"/>weeds a song
 <lb/>was sung saying <del type="strikethrough">it was</del>
 <lb/>the men alone felt the loss
 <lb/>of their father <persName ref="people.xml#pers0515">Sebituane</persName> the
@@ -689,7 +688,7 @@ and the children that may
 <lb/>they conquered - In comparison
 <lb/>with the <term type="tribe">Barotse</term>, <term type="tribe">Batoka</term>,<!-- p.186 Missionary, sh -->
 <lb/>and <term type="tribe">Banyeti</term>, the <term type="tribe">Makololo</term>
-<lb/>have a sickly hue - They
+<lb/>have a sickly hue - <space extent="1" unit="chars"/>They
 <lb/>are of a light brownish
 <lb/>yellow colour while the tribes
 <lb/>referred to are very dark
@@ -702,20 +701,19 @@ and the children that may
 <lb/>they sometimes chew the bark
 <lb/>of a certain tree in
 <lb/>hopes of producing that
-<lb/>effect - To my eye the
+<lb/>effect - <space extent="1" unit="chars"/>To my eye the
 
 
         <pb facs="liv_000100_0068.jpg" n="0068"/>
 <lb/><space dim="vertical" extent="6" unit="lines"/>
-<lb/><add place="inline" rend="red" hand="#U3" corresp="#add-10"><note><metamark function="ed-mark">X</metamark> It will be quite
-<lb/>sufficient to say -- 
-<lb/>-- The women generally
-<lb/>escaped the <term type="ailment">fever</term> - 
-<lb/>but they are less
-<lb/>fruitful than
-<lb/>formerly - and
-<lb/>to their complaint</note></add>
-<lb/><space dim="vertical" extent="18" unit="lines"/>
+<lb/><space extent="18" unit="chars"/><add place="inline" rend="red" hand="#U3" corresp="#add-10"><note><metamark function="ed-mark">x</metamark> It will be quite
+<lb/><space extent="13" unit="chars"/>sufficient to say -- 
+<lb/><space extent="10" unit="chars"/>-- The women generally
+<lb/><space extent="13" unit="chars"/>escaped the <term type="ailment">fever</term> - 
+<lb/><space extent="14" unit="chars"/>but they are less
+<lb/><space extent="15" unit="chars"/>fruitful than
+<lb/><space extent="16" unit="chars"/>formerly - and
+<lb/><space extent="17" unit="chars"/>to their complaint</note></add>
 
 
         <pb facs="liv_000100_0069.jpg" n="0069"/>
@@ -724,11 +722,11 @@ and the children that may
 <lb/><choice><sic>agreable</sic><corr>agreeable</corr></choice> then the <w>taw<subst><del>y</del><add place="over-text">n</add></subst>y</w> hue
 <lb/>of the half breed which that
 <lb/><add place="marginleft"><note><metamark function="ed-mark" rend="red" resp="#U3">X</metamark>
-    <lb/><del type="cancelled" hand="#U3" rend="red">* (render into)
+    <lb/><del type="cancelled" hand="#U3" rend="red"><metamark function="ed-mark">*</metamark> (render into)
     <lb/>Greek -</del></note></add>
 of the <term type="tribe">Makololo</term> ladies closely
 <lb/>resembles - <del type="strikethrough" hand="#U3" rend="red">The <term type="ailment">fever</term> has
-<lb/>spared them <add place="inline">*</add> <add place="marginleft">on account
+<lb/>spared them <add place="inline"><metamark function="ed-mark">*</metamark></add> <add place="marginleft">on account
     <lb/>of the menstruation
     <lb/>being excessively
     <lb/>profuse</add>
@@ -738,7 +736,7 @@ but they are
 <lb/>on account of the disproportion
 <lb/>of the sexes <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">they now</add> add <add place="above">the<add place="inline" rend="red" hand="#U3">ir regrets</add></add> <del type="strikethrough" rend="red" hand="#U3">sorrowful</del>
 <lb/><add place="marginleft"><del type="strikethrough" rend="red" hand="#U3">complaint</del></add> <del type="strikethrough">afflication</del> <subst><del type="strikethrough" rend="red" hand="#U3">of</del><add place="above" rend="red" hand="#U3">at the</add></subst> want of children
-<lb/>of<add place="above" rend="above" hand="#U3">of</add> whom <add place="inline" rend="red" hand="#U3">they</add> all are excessively
+<lb/>of<add place="above" hand="#U3" rend="red">of</add> whom <add place="inline" rend="red" hand="#U3">they</add> all are excessively
 <lb/>fond - </p>
 <lb/><p>The <term type="tribe">Makololo</term> women
 <lb/>work but little - Indeed the
@@ -780,16 +778,16 @@ This species
 <lb/><add place="marginleft">It is so easy <add place="below">^</add></add> for any one who is unkindly
 <lb/>treated to make his escape
 <lb/>to the other tribes that the <term type="tribe">Makololo</term>
-<lb/><subst><del type="strikethrough" rend="red" hand="#U3">must</del><add place="above" rend="red" hand="#U3">are compelled to</add></subst> treat <add place="below"><del type="cancelled">^</del></add> them <add place="marginleft"><metamark function="insertion"/><metamark function="insertion" rend="red" resp="#U3"/>to a great extent
+<lb/><subst><del type="strikethrough" rend="red" hand="#U3">must</del><add place="above" rend="red" hand="#U3">are compelled to</add></subst> treat <add place="below"><del type="cancelled">^</del></add> them <add place="marginleft"><metamark function="insertion"/><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-330"/>to a great extent
     <lb/><add place="inline" rend="red" hand="#U3">rather as children
-    <lb/>than as slaves</add></add>
+    <lb/>than as slaves<anchor xml:id="meta-330"/></add></add>
 <del type="strikethrough" rend="red" hand="#U3">as children</del>
 <lb/>Some masters <subst><del type="strikethrough" rend="red" hand="#U3">failing</del><add place="above" rend="red" hand="#U3">who fail</add></subst> from
 <lb/><del type="strikethrough">some</del> defect of temper or
 <lb/>disposition <del type="cancelled">failing</del> to secure
 <lb/>the affections of these
 <lb/>conquered people <del type="cancelled" hand="#U3" rend="red"><metamark function="insertion"/></del> <add place="above" rend="red" hand="#U3">frequently</add> find themselves
-<lb/><add place="marginleft">left</add> <add place="below">^</add> without a single servant, <add place="below" rend="red" hand="#U3">^</add> <metamark function="ed-mark" place="above" rend="red" resp="#U3">X</metamark> <add place="marginleft"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-155"/>in<!-- there is a word beneath 'in' but it is illegible.JL --><metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> consequence
+<lb/><add place="marginleft">left</add> <add place="below">^</add> without a single servant, <add place="below" rend="red" hand="#U3">^</add> <metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> <add place="marginleft"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-155"/><subst><del><unclear cert="low">all</unclear></del><add place="over-text">in</add></subst><metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> consequence
     <lb/>of the absence <del type="cancelled">of</del>
     <lb/>and impossibility
     <lb/>of a fugitive
@@ -886,7 +884,7 @@ This species
 <lb/>there was often a subdued
 <lb/>titter to be <subst><del type="strikethrough" rend="red" hand="#U3">let out</del><add place="above" rend="red" hand="#U3">turned</add></subst> into a
 <lb/>hearty laugh as soon
-<lb/>as they heard, Amen - This
+<lb/>as they heard, amen - This
 <lb/>was not so difficult
 <lb/>to overcome in them as
 <lb/>similar peccadilloes were
@@ -964,7 +962,7 @@ were often
 <lb/>opposed without the feeling
 <lb/>being produced of exercising
 <lb/>too much authority over
-<lb/>them - It is always unwise
+<lb/>them - <space extent="1" unit="chars"/>It is always unwise
 <lb/>to hurt their feelings of
 <lb/><w>independ<subst><del>a</del><add place="over-text">e</add></subst>nce</w> - Much greater
 <lb/>influence will be gained by
@@ -972,7 +970,7 @@ were often
     
     
         <pb facs="liv_000100_0074.jpg" n="0074"/>
-<lb/><fw><add place="inspace" hand="#U2" rend="gray left">69</add> <add place="inspace" hand="#U1" rend="gray left">73</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">69</add> <add place="inspace" hand="#U1" rend="gray right">73</add></fw>
 <lb/>induce them to act aright with
 <lb/>the impression that they are
 <lb/>doing it of their own free will
@@ -1048,14 +1046,14 @@ were often
 <lb/>all who have not <del type="cancelled">learned</del>
 <lb/><add place="marginleft">acquired it <add place="below">^</add></add> the knowledge of letters
 <lb/>is <del type="strikethrough">a most</del> quite <w>unfathom-
-<lb break="no"/>able</w> - There is nought like
+<lb break="no"/>able</w> - <space extent="1" unit="chars"/>There is nought like
 <lb/><add place="marginleft">it with</add>in the compass of their
 <lb/>observation - and we have
 <lb/>no comparison with
 <lb/>any thing except pictures
 <lb/>to aid them in <w>com-
 <lb break="no"/>prehending</w> the idea of signs
-<lb/>of words - It seems to
+<lb/>of words - <space extent="1" unit="chars"/>It seems to
 <lb/>them supernatural - that
 <lb/>we see in a book things
         

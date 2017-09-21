@@ -264,7 +264,7 @@ make a very agreeable dish
 <lb break="no"/><add place="marginleft">-wards <add place="below">^</add></add></w> away from that line has much
 <lb/>more acute eyesight &amp; is much <add place="marginleft">more wary</add></p>
 <lb/><p>All the wild animals are subject
-    <lb/>to <term type="ailment">intestinal <term type="insect">worms</term> besides,
+    <lb/>to <term type="ailment">intestinal <term type="insect">worms</term></term> besides,
 <lb/>I have observed bunches of a
 <lb/><term type="animal">tape</term>like <term type="insect">worm</term> - thread and
 <lb/>short <term type="insect">worms</term> of enlarged size
@@ -454,7 +454,7 @@ was bitten <del type="cancelled">by the</del>
 <lb/><space dim="vertical" extent="14" unit="lines"/>
 <lb/><add place="inline" corresp="#add-2"><metamark function="insertion"/>This seems characteristic of the
 <lb/>feline species - When a <term type="animal">goat</term> is
-<lb/><choice><sic>picketted</sic><corr>picketed</corr></choice> in <placeName type="country">India</placeName> for the
+<lb/><choice><sic>picketted</sic><corr>picketed</corr></choice> in <placeName><country>India</country></placeName> for the
 <lb/><del type="cancelled"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu</abbr><expan>Query</expan></choice>)</metamark></del> purpose of enabling the <term type="occupation">huntsman</term> to
 <lb/>shoot <subst><del type="strikethrough" hand="#U3" rend="red">him</del><add place="above" hand="#U3" rend="red">a <term type="animal">tiger</term></add></subst> by night if on a plain he
 <lb/>would whip off the animal so quickly

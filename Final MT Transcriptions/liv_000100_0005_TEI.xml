@@ -3,103 +3,103 @@
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000100">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
-<author>David Livingstone</author>
-<principal>Justin Livingstone</principal>
-<respStmt xml:id="JL">
-<name>Justin Livingstone</name>
-<resp>Transcription and Encoding</resp>
-<resp>Editorial Decisions</resp>
-</respStmt>
-<respStmt xml:id="AW">
-<name>Adrian S. Wisnicki</name>
-<resp>Encoding Consultant</resp>
-</respStmt>
-<respStmt xml:id="KS">
-<name>Kate Simpson</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-<respStmt xml:id="JG">
-<name>Johanna Green</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-<respStmt xml:id="PS">
-<name>Peter Slater</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-<respStmt xml:id="SH">
-<name>Stephen Hall</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<authority>Livingstone Online</authority>
-<publisher>UCLA Digital Library</publisher>
-<pubPlace>Los Angeles, CA, USA</pubPlace>
-<!-- Possible year update. -->
-<date>2014</date>
-<availability>
-<!-- Possible license change. -->
-<licence target="https://creativecommons.org/licenses/by-nc/3.0/">
-All materials are licensed for use under the 
-<ref target="https://creativecommons.org/licenses/by-nc/3.0/">
-Creative Commons Attribution-Noncommercial 3.0 Unported License
-</ref>. 
-(c) Dr. Neil Imray Livingstone Wilson, 2014
-</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc>
-<msIdentifier>
-<country>United Kingdom</country>
-<settlement>Edinburgh</settlement>
-<repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
-<idno type="shelfmark">MS.42429</idno><!-- This may change with each volume of the MS. -->
-<altIdentifier>
-<idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
-</altIdentifier>
-</msIdentifier>
-<physDesc>
-<handDesc>
-<handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
-<handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
-<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
-</handDesc>
-</physDesc>
-</msDesc>
-
-<bibl type="sourceMetadata">
-<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
-<author xml:id="DL">David Livingstone</author>
-<date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
-</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-<language ident="en">English</language>
-<language ident="tn">Tswana</language>
-<language ident="fr">French</language>
-</langUsage>
-</profileDesc>
-<revisionDesc>
-<!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
-<change when="2016-07-22" who="#SH">Proofing and encoding review</change>
-<change when="2015-05-28" who="#SH">Proofreading</change>
-<change when="2015-02-22" who="#KS">Initial transcription and XML encoding</change>
-</revisionDesc>
-</teiHeader>
-
-<text>
-<body rend="right">
-<div>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+                <author>David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <respStmt xml:id="JL">
+                    <name>Justin Livingstone</name>
+                    <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+                </respStmt>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Encoding Consultant</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="JG">
+                    <name>Johanna Green</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="PS">
+                    <name>Peter Slater</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="SH">
+                    <name>Stephen Hall</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>UCLA Digital Library</publisher>
+                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <!-- Possible year update. -->
+                <date>2014</date>
+                <availability>
+                    <!-- Possible license change. -->
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License
+                        </ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS.42429</idno><!-- This may change with each volume of the MS. -->
+                        <altIdentifier>
+                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                            <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+                
+                <bibl type="sourceMetadata">
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="tn">Tswana</language>
+                <language ident="fr">French</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+            <change when="2016-07-22" who="#JL">Proofing and encoding review</change>
+            <change when="2015-05-28" who="#SH">Proofreading</change>
+            <change when="2015-02-22" who="#KS">Initial transcription and XML encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body rend="right">
+            <div>
 
 <pb facs="liv_000100_0005.jpg" n="0005"/>
-<lb/><p><fw n="heading_XVI">XVI - <add place="inspace" hand="#U2" rend="gray center">1</add> <add place="inspace" rend="gray right" hand="#U1">5</add></fw>
+<lb/><p rend="no-indent"><note place="marginleft">XVI-</note> <fw><add place="inspace" hand="#U2" rend="gray center">1</add> <add place="inspace" rend="gray right" hand="#U1">5</add></fw>
 <lb/>On questioning intelligent men<!-- p.158 Missionary sh -->
 <lb/>among the <term type="tribe">Bakwains</term> as to their
 <lb/>former <subst><del type="strikethrough">ideas</del><add place="above">knowledge</add></subst> of good and
@@ -250,7 +250,7 @@ before they
 <lb/><fw><add place="inspace" hand="#U2" rend="gray">5</add> <add place="inspace" rend="gray right" hand="#U1">9</add></fw>
 <lb/>the cook for putting too much
 <lb/>seasoning in <subst><del type="strikethrough" hand="#U3" rend="red">and find</del><add place="above" rend="red" hand="#U3">whilst in</add></subst> 
-<lb/><del type="strikethrough" rend="red" hand="#U3">that</del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above">fact</add> he has put in none at
+<lb/><del type="strikethrough" rend="red" hand="#U3">that</del> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">fact</add> he has put in none at
 <lb/>all <add place="below">^</add> <add place="marginleft"> except that
     <lb/>contained in
     <lb/>the water</add> 
@@ -274,7 +274,7 @@ before they
 <lb/>slake their thirst thoroughly
 <lb/>as far as that could be done
 <lb/>before starting, <add place="above" rend="red" hand="#U3">-</add> our progress
-<lb/>was <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">but</add> slow - At <placeName><geogName type="well">Koobe</geogName></placeName> there
+<lb/>was <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">but</add> slow - <space extent="2" unit="chars"/>At <placeName><geogName type="well">Koobe</geogName></placeName> there
 <lb/>was such a mass of mud
 <lb/><add place="below">^</add> <add place="marginleft">in the pond
     <lb/>worked up by
@@ -317,12 +317,12 @@ that only by great labour
 <lb/>the thirst so that <w><add place="inline" hand="#U3" rend="red">t</add>he<add place="inline" hand="#U3" rend="red">y</add></w> come<del type="strikethrough" hand="#U3" rend="red">s</del>
 <lb/>slowly up to drink <subst><del type="strikethrough" hand="#U3" rend="red"><unclear cert="low">inespite</unclear></del><add place="above" hand="#U3" rend="red">in spite</add></subst>
 <lb/>of the danger, "I must drink
-<lb/>though I die" The <term type="animal">ostrich</term> --
+<lb/>though I die" <space extent="1" unit="chars"/>The <term type="animal">ostrich</term> --
 <lb/>even when unwounded cannot
 <lb/>with all his wariness resist
 <lb/>the excessive desire to slake
 <lb/>his burning thirst - It is a 
-    <lb/><orgName ref="orgName.xml#org0041"><choice><sic>bushman</sic><corr>Bushman</corr></choice></orgName> practice to take
+    <lb/><orgName ref="orgName.xml#org0041">bushman</orgName> practice to take
 <lb/>advantage of its piteous
 <lb/>necessities for most of the
 <lb/>feathers they <subst><del type="cancelled" hand="#U3" rend="red">bring</del><add place="above">obtain</add></subst> are procured
@@ -363,7 +363,7 @@ that only by great labour
 <lb/>in cases of <term type="animal">lions</term> or <term type="animal">tigers</term> -
 <lb/>They think all other animals
 <lb/>entitled to a fair stand up
-<lb/>fight - The hole <del type="cancelled">in this case</del>
+<lb/>fight - <space extent="2" unit="chars"/>The hole <del type="cancelled">in this case</del>
 <lb/>as I have often observed is
 <lb/>actually a cavity but that
 <lb/><add place="marginleft" hand="#U3" rend="red"><del type="cancelled" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark> this word?</note></del></add> which is <add place="above" rend="red" hand="#U3">wanting</add> <metamark function="let-stand" spanTo="#meta-137"/><del type="cancelled" hand="#U3" rend="red">awanting</del><anchor xml:id="meta-137"/> in all
@@ -378,7 +378,7 @@ that only by great labour
 <lb/>even attempt to pass - All have
 <lb/>a great dread of this thorn
 <lb/>in addition to their fear of 
-<lb/>everything like <del type="cancelled"><gap extent="2" unit="chars"/></del> trap or
+<lb/>everything like <del type="cancelled"><unclear cert="medium">p</unclear></del> trap or
 <lb/>pitfall so he who is
 <lb/>coward enough to butcher
 <lb/>common animals from
@@ -390,7 +390,7 @@ that only by great labour
 <lb/>for the same reason probably
     <lb/>that <persName ref="people.xml#pers0356">Jack Ketch</persName> in getting
 <lb/>his portrait taken would
-<lb/>leave out his bit of <unclear cert="medium">crape</unclear> - </p>
+<lb/>leave out his bit of crape - </p>
 <lb/><p>My men shot a <term type="animal">black
 <lb/>Rhinoceros</term> in this disreputable
 <lb/>way, and I felt glad to get
@@ -420,7 +420,7 @@ that only by great labour
     <lb/>under a fine
     <lb/>specimen of the
     <lb/>former class,
-    <lb/>called <foreign xml:lang="tn"><term type="plant"><choice><sic>Mouana</sic><corr>Mowana</corr></choice></term></foreign><anchor xml:id="meta-138"/></add> 
+    <lb/>called <foreign xml:lang="tn"><term type="plant"><choice><orig>Mouana</orig><reg>Mowana</reg></choice></term></foreign><anchor xml:id="meta-138"/></add> 
 consisting of six branches
 <lb/>united into one bole - At three
 <lb/>feet from the ground it <subst><del type="strikethrough" hand="#U3" rend="red">is</del><add place="below" hand="#U3" rend="red">was</add></subst> 85 <choice><abbr>ft</abbr><expan>feet</expan></choice>
@@ -431,7 +431,7 @@ consisting of six branches
 <lb/>therefore with surprise that
 <lb/>we came upon a dead one
     <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0093">Tlomtla</settlement></placeName> <measure>a few miles
-<lb/>beyond this</measure> <add place="below" hand="#U3" rend="red">˄</add>c<add place="above" hand="#U3" rend="red">spot</add> - It is the same as
+<lb/>beyond this</measure> <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">spot</add> - It is the same as
     <lb/>those which <persName ref="people.xml#pers0246">Adanson</persName> and
 <lb/>others believed<add place="inline" hand="#U3" rend="red">,</add> from specimens
 <lb/>seen in <placeName><region>Western Africa</region></placeName><add place="inline" hand="#U3" rend="red">,</add> to
@@ -449,8 +449,8 @@ there never was any flood
 <lb/>a true <foreign xml:lang="tn"><term type="plant"><choice><orig>Moana</orig><reg>Mowana</reg></choice></term></foreign> against <del type="cancelled" hand="#U3" rend="red">two</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">a dozen</add> floods provided you do not
 <lb/>boil it in hot sea water <del type="cancelled" hand="#U3" rend="red">&amp;</del>
-<lb/><del type="cancelled"><add place="marginleft" hand="#U3" rend="red"><note>(Omit - as
-    <lb/>not necessary)</note></add></del> 
+<lb/><add place="marginleft" hand="#U3" rend="red"><del type="cancelled" hand="#DL"><note>(Omit - as
+    <lb/>not necessary)</note></del></add> 
 <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-253"/><del type="strikethrough" hand="#U3" rend="red">yet believe most firmly that
 <lb/>there was a flood because
 <lb/>the <bibl>bible</bibl> says it</del><anchor xml:id="meta-253"/> - The <orgName>natives</orgName>
@@ -463,7 +463,7 @@ there never was any flood
 
 <pb facs="liv_000100_0014.jpg" n="0014"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">10</add> <add place="inspace" rend="gray right" hand="#U1">14</add></fw>
-<lb/>denuded of its covering <del type="cancelled"><gap unit="chars" extent="3"/></del>
+<lb/>denuded of its covering <del type="cancelled"><unclear cert="medium">wh</unclear></del>
 <lb/>which in the case of
 <lb/>almost every other tree would 
 <lb/>cause its death but this
@@ -500,7 +500,7 @@ detached from the parts
 <lb/>seen one in which twenty
 <lb/>or thirty men could lie
 <lb/>down and sleep as in 
-<lb/><space extent="9" unit="chars"/>a hut -
+<lb/><space extent="7" unit="chars"/>a hut -
 
 
 <pb facs="liv_000100_0015.jpg" n="0015"/>
@@ -521,7 +521,7 @@ detached from the parts
 <lb/>grown an inch <subst><del type="strikthrough" hand="#U3" rend="red">since</del><add place="above" rend="red" hand="#U3">after</add></subst>
 <lb/><add place="marginleft" hand="#U3" rend="red">the tree had been
     <lb/><del type="strikethrough" hand="#DL">felled</del>
-    <lb/><add place="inline" hand="#DL">blown over</add></add> 
+    <lb/><add place="inline" hand="#DL" rend="black">blown over</add></add> 
 <del type="strikethrough" hand="#U3" rend="red">it assumed the prone
 <lb/>position</del> - The roots which
 <lb/>may often be observed 
@@ -541,8 +541,8 @@ detached from the parts
 <lb/>be struck in so far with a
 <lb/>good blow<add place="inline" hand="#U3" rend="red">,</add> that there is
 <lb/><add place="marginleft" hand="#U3" rend="red">great</add> <del type="strikethrough" hand="#U3" rend="red">more</del> difficulty in pulling
-<lb/>it out <del type="strikethrough" hand="#U3" rend="red">than in the act of 
-<lb/><space extent="12" unit="chars"/>inserting it - </del>
+<lb/>it out <del type="strikethrough" hand="#U3" rend="red">than in the act of</del> 
+<lb/><space extent="12" unit="chars"/><del type="strikethrough" hand="#U3" rend="red">inserting it - </del>
 
 
 <pb facs="liv_000100_0016.jpg" n="0016"/>
@@ -554,7 +554,7 @@ detached from the parts
 <lb/><add place="marginleft" hand="#U3" rend="red">was</add> 81 <choice><orig>₁/₂</orig><reg>1/2</reg></choice> <del type="strikethrough">inches</del> lamellae - Each
 <lb/>of these rings can be seen to
 <lb/>be composed of 2, 3 - or 4
-<lb/><w><subst><del>of</del><add place="over-text">la</add></subst>yers></w> of ligneous tubes
+<lb/><w><subst><del>of</del><add place="over-text">la</add></subst>yers</w> of ligneous tubes
 <lb/>but supposing each ring
 <lb/>the growth of one year
 <lb/>then a <foreign xml:lang="tn"><term type="plant"><choice><orig>Moana</orig><reg>Mowana</reg></choice></term></foreign> of 100 feet
@@ -569,10 +569,10 @@ detached from the parts
 
 
 <pb facs="liv_000100_0017.jpg" n="0017"/>
-<lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">13</add> <add place="inspace" rend="gray right" hand="#U1">17</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">13</add> <add place="inspace" rend="gray right" hand="#U1">17</add></fw>
 <lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> 
 <lb/><space dim="vertical" extent="5" unit="lines"/>
-<lb/>The <term type="plant">Mopane</term><!-- p164, Missionary, sh -->
+<lb/><p>The <term type="plant">Mopane</term><!-- p164, Missionary, sh -->
 <lb/>is remarkable for the little shade
 <lb/>its leaves afford - They fold
 <lb/>together and stand nearly 
@@ -643,14 +643,14 @@ detached from the parts
 
 
 <pb facs="liv_000100_0019.jpg" n="0019"/>
-<lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">15</add> <add place="inspace" rend="gray right" hand="#U2">15</add> <add place="inspace" rend="gray right" hand="#U1">19</add></fw> 
-<lb/>At <placeName><geogName type="well">Rapesh</geogName></placeName> we came among
-    <lb/>our old friends the <orgName ref="orgName.xml#org0041">Bushmen</orgName>
-<lb/><del type="strikethrough"><add place="marginleft" hand="#U3" rend="red"><note><metamark function="ed-mark">X</metamark> <metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> meaning
-    <lb/>who?</note></add></del>       
-    <metamark function="flag" place="marginleft" rend="red" resp="#U3" spanTo="#meta-140"/><add place="marginleft"><del type="strikethrough">under</del> <add place="below">˄</add></add> <del type="strikethrough">of</del> <add place="below">˄</add> <add place="above">under</add> <persName ref="people.xml#pers0323">Horoye</persName> - This <add place="below">˄</add> <add place="above"><metamark function="ed-mark" rend="red" resp="#U3">X</metamark>man <persName ref="people.xml#pers0323">Horoye</persName> a</add> specimen of
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">15</add> <add place="inspace" rend="gray right" hand="#U2">15</add> <add place="inspace" rend="gray right" hand="#U1">19</add></fw> 
+<lb/><p>At <placeName><geogName type="well">Rapesh</geogName></placeName> we came among
+<lb/>our old friends the <orgName ref="orgName.xml#org0041">Bushmen</orgName>
+    <lb/><add place="marginleft" hand="#U3" rend="red"><del type="strikethrough" hand="#DL"><note><metamark function="ed-mark">X</metamark> <metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> meaning
+    <lb/>who?</note></del></add>       
+    <metamark function="flag" place="marginleft" rend="red" resp="#U3" spanTo="#meta-140"/><add place="marginleft"><del type="strikethrough">under</del> <add place="below">˄</add></add> <del type="strikethrough">of</del> <add place="below">˄</add> <add place="above">under</add> <persName ref="people.xml#pers0323">Horoye</persName> - This <add place="below">˄</add> <add place="above"><metamark function="ed-mark" rend="red" resp="#U3">x</metamark> man <persName ref="people.xml#pers0323">Horoye</persName> a</add> specimen of
     <lb/>that tribe <subst><del type="strikethrough">as well as his sons</del><add place="above">and his son <persName ref="people.xml#pers0414">Mokantsa</persName></add></subst><anchor xml:id="meta-140"/>
-<lb/><add place="marginleft">&amp; others</add> were at least 6 <choice><abbr>ft</abbr><expan>feet</expan></choice> high and
+<lb/><add place="marginleft">&amp; others <add place="below">˄</add></add> were at least 6 <choice><abbr>ft</abbr><expan>feet</expan></choice> high and
 <lb/>of a darker colour than
     <lb/>the <orgName ref="orgName.xml#org0041">Bushmen</orgName> of the South
 <lb/>They have always plenty of
@@ -666,13 +666,13 @@ detached from the parts
 <lb/>the <term type="animal">goat</term> which fact mentioned
     <lb/>by <persName ref="people.xml#pers0414">Mokantsa</persName> is proof of
 <lb/>their hatred of domestic
-<lb/>animals - They are a merry
+<lb/>animals - <space extent="1" unit="chars"/>They are a merry
 <lb/>laughing set and do not tell
 <lb/>lies wantonly - They have
 <lb/>in their superstitions observances
 <lb/>more appearance of worship
 <lb/>than the <term type="tribe">Bechuanas</term> and
-    <lb/>at a <orgName ref="orgName.xml#org0041"><choice><sic>bushman</sic><corr>Bushman</corr></choice></orgName>'s grave we
+<lb/>at a <orgName ref="orgName.xml#org0041">bushman</orgName>'s grave we
 <lb/>once came to on the <placeName><geogName type="river">Zouga</geogName></placeName> 
 <lb/>the observances <choice><orig>shewed</orig><reg>showed</reg></choice> distinctly
 <lb/>that they regarded the dead as
@@ -680,7 +680,7 @@ detached from the parts
 <lb/>for they address him <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">and</add> request
 <lb/><add place="marginleft" hand="#U3" rend="red">him</add> not to be offended though
 <lb/>they wish still to remain a
-<lb/><add place="marginleft" hand="#U3" rend="red">little</add> while longer <del type="strikethrough" hand="#U3" rend="red">here</del> <add place="inline" hand="#U3" rend="red">in this <add place="below" hand="#U3" rend="red">world</add></add> - </p>
+<lb/><add place="marginleft" hand="#U3" rend="red">little</add> while longer <del type="strikethrough" hand="#U3" rend="red">here</del> - <add place="inline" hand="#U3" rend="red">in this <add place="below" hand="#U3" rend="red">world</add></add></p>
 
 
 
@@ -745,7 +745,7 @@ detached from the parts
 <lb/><orgName>natives</orgName> to assist them
 <lb/>while the <term type="people">Englishmen</term>
 <lb/>generally had <w>no<del type="cancelled">ne</del></w> <del type="cancelled">of</del> assistance
-<lb/>from eithe<supplied cert="high">r</supplied> - They <del type="strikethrough" hand="#U3" rend="red">went</del>
+<lb/>from <choice><sic>eithe</sic><corr>either</corr></choice> - They <del type="strikethrough" hand="#U3" rend="red">went</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">approached</add> to <subst><del type="strikethrough" hand="#U3" rend="red">about</del><add place="above" hand="#U3" rend="red">within</add></subst> <measure>30 yards</measure> from
 <lb/>the animal while the others
 <lb/>stood at <add place="below" hand="#U3" rend="red">˄</add> <add place="above" hand="#U3" rend="red">a distance of</add> - <measure>100 yards</measure> or even
@@ -773,7 +773,7 @@ detached from the parts
 <lb/><choice><sic>the</sic><corr>The</corr></choice> coats<!-- there is a word beneath 'coats' but it is illegible.JL --> of mail &amp; greaves
 <lb/>of the <orgName ref="orgName.xml#org0061"><term type="occupation"><add place="inline" hand="#U3" rend="red">K</add>nights</term> of <placeName><geogName type="island">Malta</geogName></placeName></orgName> and
 <lb/>the armour from the Tower
-    <lb/>exhibited at the <placeName><settlement type="castle" ref="settlement.xml#sett0049">Eglinton</settlement></placeName> 
+<lb/>exhibited at the <placeName><settlement type="castle" ref="settlement.xml#sett0049">Eglinton</settlement></placeName> 
 <lb/>tournament may be<!-- The Eglinton Tournament 1839, a re-enactment of a medieval joust and revel held in Ayrshire in 1839, sh -->
 <lb/>considered decisive on the
 <lb/>question of the greater size
@@ -859,7 +859,7 @@ detached from the parts
 <lb/>with his <w>usual<del type="cancelled">l</del></w> <del type="strikethrough" hand="#U3" rend="red">nicety</del> <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" hand="#U3" rend="red">delicacy of taste <add place="below">^</add></add> feeds
 <lb/>much on it - On emerging <add place="inline" hand="#U3" rend="red">on</add> to
 <lb/>the plains beyond we found
-    <lb/>a number of <orgName ref="orgName.xml#org0041"><choice><sic>bushmen</sic><corr>Bushmen</corr></choice></orgName> who
+<lb/>a number of <orgName ref="orgName.xml#org0041">bushmen</orgName> who
 <lb/>afterwards proved very serviceable
 <lb/><seg type="weather">The rains had been copious</seg>
 <lb/>and great numbers of pools 
@@ -877,7 +877,8 @@ detached from the parts
 and on the <date when="1853-03-01">10<hi rend="sup">th</hi> March</date> we
 <lb/>were brought to a stand by
 <lb/>four of the party being seized
-<lb/>with <term type="ailment">fever</term> (<measure><measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 19° 16' 11" South</measure> <add place="below"><measure><choice><abbr>Long</abbr><expan>Longitude</expan></choice> 24° 24' East</measure></add></measure>)
+<lb/>with <term type="ailment">fever</term> (<measure><measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 19° 16' 11" South</measure> 
+<lb/><space extent="12" unit="chars"/><measure><choice><abbr>Long</abbr><expan>Longitude</expan></choice> 24° 24' East</measure></measure>)
 
 
 <pb facs="liv_000100_0025.jpg" n="0025"/>
@@ -911,7 +912,7 @@ and on the <date when="1853-03-01">10<hi rend="sup">th</hi> March</date> we
 <lb/>with them - This I have often
 <lb/>seen with persons of this tribe
 <lb/>even when the <term type="animal">cattle</term> are startled
-<lb/>by a <term type="animal">lion</term> Away go the young
+<lb/>by a <term type="animal">lion</term> <space extent="1" unit="chars"/>Away go the young
 <lb/>men in company with them
 <lb/>and dash through bush and
 <lb/>brake for miles till they
@@ -923,7 +924,7 @@ and on the <date when="1853-03-01">10<hi rend="sup">th</hi> March</date> we
 <lb/>subsided, they then commence
 <lb/><add place="marginleft">whistling</add> <del type="strikethrough"><unclear cert="low">whitling</unclear></del> to <del type="strikethrough" hand="#U3" rend="red">them</del> <add place="above" hand="#U3" rend="red">the <term type="animal">cattle</term></add> in the manner
 <lb/>they do when milking the <term type="animal">cows</term>
-<lb/><del type="cancelled" hand="#U3" rend="red">And</del> having calmed them <add place="above" hand="#U3">they</add> remain
+<lb/><del type="cancelled" hand="#U3" rend="red">And</del> having calmed them <add place="above" hand="#U3" rend="red">they</add> remain
 <lb/>as a <w>g<subst><del type="strikethrough" hand="#U3" rend="red">au</del><add place="above" hand="#U3" rend="red">ua</add></subst>rd</w> till the morning
 <lb/><add place="marginleft" hand="#U3" rend="red">The <subst><del type="strikethrough">oxen</del><add place="above">men</add></subst></add> <del type="strikethrough" hand="#U3" rend="red">They</del> generally return with
 <lb/>their shins well peeled by
@@ -949,7 +950,6 @@ and on the <date when="1853-03-01">10<hi rend="sup">th</hi> March</date> we
 <lb/>a country <subst><del type="strikethrough" hand="#U3" rend="red">he found</del><add place="above" rend="red" hand="#U3">to find</add></subst> his
 <lb/>way <add place="below">^</add> home at all <add place="marginleft"><metamark function="insertion" rend="red" resp="#U3"/><subst><del type="strikethrough" hand="#U3" rend="red">with</del><add place="above" rend="red" hand="#U3">bringing</add></subst> about
     <lb/>forty <term type="animal">oxen</term> <add place="inline" hand="#U3" rend="red">with him</add></add> - </p>
-<lb/><space dim="vertical" extent="6" unit="lines"/>
 
 
 <pb facs="liv_000100_0027.jpg" n="0027"/>
@@ -965,7 +965,7 @@ and on the <date when="1853-03-01">10<hi rend="sup">th</hi> March</date> we
 <lb/><w>happen<add place="below" rend="red" hand="#U3">^</add><subst><del type="strikethrough" hand="#U3" rend="red">ed</del><add place="above" hand="#U3" rend="red">ing</add></subst></w> to move a hundred
 <lb/>yards from the waggon <del type="strikethrough" hand="#U3" rend="red">and</del> 
 <lb/><metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-142"/><seg corresp="#reorder-54">being unobserved</seg><anchor xml:id="meta-142"/> fell down
-<lb/>and <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-54"/> remained <metamark function="reorder" resp="#U3" spanTo="#meta-143"/><seg corresp="#reorder-55">totally insensible</seg><anchor xml:id="meta-143"/>
+<lb/>and <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-54"/> remained <metamark function="reorder" resp="#U3" rend="red" spanTo="#meta-143"/><seg corresp="#reorder-55">totally insensible</seg><anchor xml:id="meta-143"/>
 <lb/><add place="marginleft" hand="#U3" rend="red">the whole night</add> <del type="strikethrough" hand="#U3" rend="red">during a</del> <add place="above" hand="#U3" rend="red">in the</add> <seg type="weather">pouring rain</seg> <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-55"/> <del type="strikethrough" hand="#U3" rend="red">the
 <lb/>whole night</del> - Another was
 <lb/>subjected to frequent <term type="ailment">swooning</term>
@@ -1003,7 +1003,7 @@ and
 <lb/>notwithstanding an
 <lb/>immense amount of toil
 <lb/>my health continued good</p>
-<lb/><p><del type="cancelled">We</del> <space extent="4" unit="chars"/>We wished to avoid
+<lb/><p><del type="cancelled">We</del> <space extent="3" unit="chars"/>We wished to avoid
 <lb/>the <term type="insect">Tsetse</term> of our former
 <lb/>path so kept a course 
 <lb/>on the magnetic meridian

@@ -248,6 +248,18 @@ p.right .linenumber{
 	padding:0px;
 	margin-bottom:-1em;
 }
+.milestone.red.line{
+	display:block;
+	width:60%;
+	background:#FFF;
+	height:0;
+	border:0;
+	border-top:1px solid #B33B24;
+	margin-left:0;
+	margin-right:9%;
+	padding:0px;
+	margin-bottom:-1em;
+}
 .line{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
