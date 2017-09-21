@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-LLJ-html.xsl" type="text/xsl"?>
+<?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-LLJ-complete.xsl" type="text/xsl"?>
 <!--<?xml-stylesheet href="transcription-LLJ-html.xsl" type="text/xsl"?>-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_015011">
 	<!-- This needs to be changed, ks -->
@@ -127,7 +127,7 @@
 
 
 	<pb facs="liv_015011_0010" n="0010"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0010.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0010.jpg"/></figure></p>
 
 	<pb facs="liv_015011_0011" n="0011"/>
 
@@ -175,7 +175,7 @@
 
 
 	<pb facs="liv_015011_0022" n="0022"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0022.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0022.jpg"/></figure></p>
 
 	</div>
 	<div>
@@ -286,7 +286,7 @@ the Bechuanas ever knew, and this they thought might portend something as bad, o
 
 
 	<pb facs="liv_015011_0036" n="0036"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0036.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0036.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0037" n="0037"/> 
@@ -400,7 +400,7 @@ ornaments to purchase corn from more fortunate tribes. The children scoured the 
 
 
 	<pb facs="liv_015011_0051" n="0051"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0051.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0051.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0052" n="0052"/>
@@ -410,7 +410,7 @@ ornaments to purchase corn from more fortunate tribes. The children scoured the 
 
 
 	<pb facs="liv_015011_0054" n="0054"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0054.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0054.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0055" n="0055"/>
@@ -585,7 +585,7 @@ agriculture and domestic animals. They hoe their gardens annually, though often 
 
 
 	<pb facs="liv_015011_0080" n="0080"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0080.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0080.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0081" n="0081"/>
@@ -636,7 +636,7 @@ quickly lapped up by our dogs, had we not driven them away. And yet this was all
 
 
 	<pb facs="liv_015011_0087" n="0087"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0087.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0087.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0088" n="0088"/>
@@ -722,7 +722,7 @@ its northwest extremity. We could detect no horizon where we stood looking S.S.W
 
 
 	<pb facs="liv_015011_0099" n="0099"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0099.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0099.jpg"/></figure></p>
 
 	<pb facs="liv_015011_0100" n="0100"/>
 
@@ -757,7 +757,7 @@ drink. These are about seven or eight feet deep, three or four feet wide at the 
 
 
 	<pb facs="liv_015011_0106" n="0106"/> 
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0106.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0106.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0107" n="0107"/>
@@ -1313,7 +1313,7 @@ Nothing that I ever learned of the lion would lead me to attribute to it either 
 
 
 	<pb facs="liv_015011_0177" n="0177"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0177.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0177.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0178" n="0178"/>
@@ -1336,7 +1336,7 @@ mere stumps, and his claws worn quite blunt; the other was <!-- 000099_0351 -->f
 
 
 	<pb facs="liv_015011_0181" n="0181"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0181.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0181.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0182" n="0182"/>
@@ -1568,7 +1568,7 @@ guide its tail to the ants. It is probably a new species of ant-lion (<hi rend="
 
 
 	<pb facs="liv_015011_0212" n="0212"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0212.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0212.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0213" n="0213"/>
@@ -1863,7 +1863,7 @@ But the Makololo shot so badly, that, in order to save my powder, I was obliged 
 </p>
 
 	<pb facs="liv_015011_0253" n="0253"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0253.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0253.jpg"/></figure></p>
 
 </div>
 <div>
@@ -1973,7 +1973,7 @@ tion of the Portuguese, "because they eat pigs;" and disliked the English, "beca
 
 
 	<pb facs="liv_015011_0270" n="0270"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0270.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0270.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0271" n="0271"/>
@@ -2119,7 +2119,7 @@ posed to be large. They love a still reach of the stream, as in the more rapid p
 	<p>The young, when very little, take their stand on the neck of the dam, and the small head, rising above the large, comes soonest to the surface. The dam, knowing the more urgent need of her calf, comes more frequently to the surface when it is in her care. But in the rivers of Londa, where they are much in danger of being shot, even the hippopotamus gains wit by experience; for, while those in the Zambesi <!-- 000100_0204 -->put up their heads openly to blow, those referred to keep their noses among water-plants, and breathe so quietly that one would not dream of their existence in the river except by footprints on the banks.</p>
 
 	<pb facs="liv_015011_0289" n="0289"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0289.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0289.jpg"/></figure></p>
 
 	</div>
 	<div>
@@ -2499,7 +2499,7 @@ reverence at our religious services. This will appear important <!-- 000100_0310
 
 
 	<pb facs="liv_015011_0340" n="0340"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0340.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0340.jpg"/></figure></p>
 
 	<pb facs="liv_015011_0341" n="0341"/>
   	<p><fw type="pageno" n="291" place="top"><seg rend="left smallcaps">CHAP. XVI.</seg> <seg rend="center">RECEPTION BY SHINTE.</seg> <seg rend="right">291</seg></fw>
@@ -2519,9 +2519,9 @@ we did not, they turned round toward Shinte and saluted him, then retired. When 
 
 	<pb facs="liv_015011_0343" n="0343"/>
 <fw type="pageno" n="293" place="top"><seg rend="left smallcaps">CHAP. XVI.</seg> <seg rend="center">MUSICIANS AND MUSICAL INSTRUMENTS.</seg> <seg rend="right">293</seg></fw>
-  covered with a bit of spider's web: the ends are covered with the skin of an antelope pegged on; and when they wish to tighten it, they hold it to the fire to make it contract: the instruments are beaten with the hands.</p>
+  covered with a bit of spider's web: the ends are covered with the skin of an antelope pegged on; and when they wish to tighten it, they hold it to the fire to make it contract: the instruments are beaten with the hands.
    <figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0343.jpg" n="inline-right"/></figure>
-  	<p>The piano, named "marimba", consists of two bars of wood placed side by side, here quite straight, but, farther north, bent round so as to resemble half the tire of a carriage-wheel; <!-- 000100_0320 -->across these are placed about fifteen wooden keys, each of which is two or three inches broad, and fifteen or eighteen inches long; their thickness is regulated according to the deepness of the note required: each of the keys has a calabash beneath it; from the upper part of each a portion is cut off to enable them to embrace the bars, and form hollow sounding-boards to the keys, which also are of different sizes, according to the note required; and little drumsticks elicit the music. Rapidity of execution seems much admired among them, and the music is pleasant to the ear. In Angola the Portuguese use the marimba in their dances.</p>
+  	The piano, named "marimba", consists of two bars of wood placed side by side, here quite straight, but, farther north, bent round so as to resemble half the tire of a carriage-wheel; <!-- 000100_0320 -->across these are placed about fifteen wooden keys, each of which is two or three inches broad, and fifteen or eighteen inches long; their thickness is regulated according to the deepness of the note required: each of the keys has a calabash beneath it; from the upper part of each a portion is cut off to enable them to embrace the bars, and form hollow sounding-boards to the keys, which also are of different sizes, according to the note required; and little drumsticks elicit the music. Rapidity of execution seems much admired among them, and the music is pleasant to the ear. In Angola the Portuguese use the marimba in their dances.</p>
 	<p>When nine speakers had concluded their orations, Shinte stood up, and so did all the people. He had maintained true
   
  
@@ -2823,7 +2823,7 @@ that the weak and helpless may injure them by their medical knowledge. They have
 
 
 	<pb facs="liv_015011_0383" n="0383"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0383.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0383.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0384" n="0384"/>
@@ -2923,9 +2923,9 @@ wind up from left to right, on the other bank from right to left. I imagined thi
 
 	<pb facs="liv_015011_0398" n="0398"/>
 <fw type="pageno" n="346" place="top"><seg rend="left">346</seg> <seg rend="center">PLANT OF FORSAKEN GARDENS.</seg> <seg rend="right smallcaps">CHAP. XVIII.</seg></fw>
-the mouth of an ox, the animal stands and roars with pain and a sense of helplessness.</p>
+the mouth of an ox, the animal stands and roars with pain and a sense of helplessness.
    <figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0398.jpg" n="inline-left"/></figure>
-	<p>Whenever a part of the forest has been cleared for a garden, and afterward abandoned, a species of plant, with leaves like those of ginger, springs up, and contends for the possession of the soil with a great crop of ferns. This is the case all the way down to Angola, and shows the great difference of climate between this and the Bechuana country, where a fern, except one or two hardy species, is never seen. The plants above mentioned bear a pretty pink flower close to the ground, which is succeeded by a scarlet fruit full of seeds, yielding, as so many fruits in this country do, a pleasant acid juice, which, like the rest, is probably intended <!-- 000100_0453-->as a corrective to the fluids of the system in the hot climate.</p>
+	Whenever a part of the forest has been cleared for a garden, and afterward abandoned, a species of plant, with leaves like those of ginger, springs up, and contends for the possession of the soil with a great crop of ferns. This is the case all the way down to Angola, and shows the great difference of climate between this and the Bechuana country, where a fern, except one or two hardy species, is never seen. The plants above mentioned bear a pretty pink flower close to the ground, which is succeeded by a scarlet fruit full of seeds, yielding, as so many fruits in this country do, a pleasant acid juice, which, like the rest, is probably intended <!-- 000100_0453-->as a corrective to the fluids of the system in the hot climate.</p>
 	<p>On leaving the Chihune we crossed the Longe, and, as the day was cloudy, our guides wandered in a forest away to the west till we came to the River Chihombo, flowing to the E.N.E. My men depended so much on the sun for guidance that, having seen nothing of the luminary all day, they thought we had wandered back to the Chiboque, and, as often happens when bewildered, they disputed as to the point where the sun should rise next morning. As soon as the rains would allow next day, we went off to the N.E. It would have been better to have travelled by compass alone, for the guides took advantage of any
 
 
@@ -3126,7 +3126,7 @@ such a heavy crop as an old garden, and, judging from the size of the maize and 
 
 
 	<pb facs="liv_015011_0427" n="0427"/>  
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0427.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0427.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0428" n="0428"/> 
@@ -3174,7 +3174,7 @@ to and from the coast. The goods are carried on the head, or on one shoulder, in
 
 
 	<pb facs="liv_015011_0435" n="0435"/>  
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0435.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0435.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0436" n="0436"/> 
@@ -3288,7 +3288,7 @@ like myself, following another path, he entertained no uncharitable feelings, no
 
 
 	<pb facs="liv_015011_0451" n="0451"/>  
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0451.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0451.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0452" n="0452"/>
@@ -3463,7 +3463,7 @@ In cases of death the body is kept several days, and there is a grand concourse 
 
 
 	<pb facs="liv_015011_0471" n="0471"/>  
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0471.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0471.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0472" n="0472"/>
@@ -3526,7 +3526,7 @@ had been nominated by the portfolio of this general Government, No. 41, of <date
 
 
 	<pb facs="liv_015011_0480" n="0480"/>  
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0480.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0480.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0481" n="0481"/>  
@@ -4024,9 +4024,9 @@ my men became ill, but still could walk, others parted his luggage among them; y
 
 	<pb facs="liv_015011_0541" n="0541"/>  
 <fw type="pageno" n="481" place="top"><seg rend="left smallcaps">CHAP. XXIV.</seg> <seg rend="center">KATEMA'S HERD—JACKDAWS.</seg> <seg rend="right">481</seg></fw>
-a break-down had he not been accustomed to it. We were very much pleased with Katema; and next day he presented us with a cow, that we might enjoy the abundant supplies of meal he had given with good animal food. He then departed for the hunting-ground, after assuring me that the town and every thing in it were mine, and that his factotum, Shakatwala, would remain and attend to every want, and also conduct us to the Leeba.</p>
+a break-down had he not been accustomed to it. We were very much pleased with Katema; and next day he presented us with a cow, that we might enjoy the abundant supplies of meal he had given with good animal food. He then departed for the hunting-ground, after assuring me that the town and every thing in it were mine, and that his factotum, Shakatwala, would remain and attend to every want, and also conduct us to the Leeba.
    <figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0541.jpg" n="inline-right"/></figure>
-	<p>On attempting to slaughter the cow Katema had given, we found the herd as wild as buffaloes; and one of my men having only wounded it, they fled many miles into the forest, and were with great difficulty brought back. Even the herdsman was afraid to go near them. The majority of them were white, and they were all beautiful animals. After hunting it for two days it was dispatched at last by another ball. Here we saw a flock of jackdaws, a rare sight in Londa, busy with the grubs in the valley, which are eaten by the people too.</p>
+	On attempting to slaughter the cow Katema had given, we found the herd as wild as buffaloes; and one of my men having only wounded it, they fled many miles into the forest, and were with great difficulty brought back. Even the herdsman was afraid to go near them. The majority of them were white, and they were all beautiful animals. After hunting it for two days it was dispatched at last by another ball. Here we saw a flock of jackdaws, a rare sight in Londa, busy with the grubs in the valley, which are eaten by the people too.</p>
 <fw place="bottom"><seg rend="right smallcaps">2 I</seg></fw>
 
 
@@ -4153,7 +4153,7 @@ Mashauana out into the river: the rest of us sprang to the shore, which was only
 
 
 	<pb facs="liv_015011_0559" n="0559"/>  
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0559.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0559.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0560" n="0560"/>  
@@ -4597,7 +4597,7 @@ The gods have said it," &amp;c. &amp;c.</hi></p><!-- end of 000101_0234-->
 <p>Both animals expanded their ears and listened, then left their bath as the crowd rushed toward them. The little one ran forward toward the end of the valley, but, seeing the men there, returned to his dam. She placed herself on the danger side of her calf, and passed her proboscis over it again and again, as if to assure it of safety. She frequently looked back to the men, who kept up an incessant shouting, singing, and piping; then looked at her young one and ran after it, sometimes sideways, as if her feelings were divided between anxiety to protect her offspring and desire to revenge the temerity of her persecutors. The men kept about a hundred yards in her rear, and some that distance from her flanks, and continued thus until she was obliged to cross a rivulet. The time spent in descending and getting up the opposite bank allowed of their coming up to the edge, and discharging their spears at about twenty yards distance. After the first discharge she appeared with her sides red with blood, and, beginning to flee for her own life, seemed to think no more of her young. I had previously sent off Sekwebu with orders to spare the calf. It ran very fast, but neither young nor old ever enter into a gallop; their quickest pace is only a sharp walk. Before Sekwebu could reach them, the calf had taken refuge in the water, and was killed. The pace of the dam gradually became slower. She turned with a shriek of rage, and made a furious charge back among the men. They vanished at right angles to her course, or sideways, and, as she ran straight on, she went through the whole party, but came near no one except a man who wore a piece of cloth on his shoulders. Bright clothing is always dangerous in these cases. She charged three or four times, and, except in the first instance, never went farther than 100 yards. She often stood after she had crossed a rivulet, and faced the men, though she received fresh spears. It was by this process of spearing and loss of blood that she was killed; for at last, making a short charge, she staggered round and sank down dead in a kneeling posture. I did not see the whole hunt, having been tempted away by both sun and moon appearing unclouded. I turned from the spectacle of the destruction of noble animals, which might be made so useful in Africa, with a feeling of sickness, and it was not relieved by the recollection that the ivory was mine, though that was the case. I regretted to see them killed, and more especially</p>
 
 	<pb facs="liv_015011_0625" n="0625"/>  
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0625.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0625.jpg"/></figure></p>
 
 	<pb facs="liv_015011_0626" n="0626"/>  
 
@@ -4648,7 +4648,7 @@ of the soil and pasturage, and Sekwebu expatiated with great eloquence on the ca
 
 
 	<pb facs="liv_015011_0634" n="0634"/>  
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0634.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0634.jpg"/></figure></p>
 
 	<pb facs="liv_015011_0635" n="0635"/>  
 		<p><fw type="pageno" n="569" place="top"><seg rend="left smallcaps">CHAP. XXVIII.</seg> <seg rend="center">HILLS AND VILLAGES.</seg><seg rend="right">569</seg></fw>
@@ -4781,7 +4781,7 @@ inappropriate. The statement of Pereira that twenty negroes were slaughtered in 
 	<p> When we left the Loangwa we thought we had got rid of the hills; but there are some behind Mazanzwe, though five or six miles off from the river. Tsetse and the hills had destroyed two riding oxen, and when the little one that I now rode knocked up, I was forced to march on foot. The bush being very dense and high, we were going along among the trees, when three buffaloes, which we had unconsciously passed above the wind, thought that they were surrounded by men, and dashed through our line. My ox set off at a gallop, and when I could manage to glance back, I saw one of the men up in the air about five feet above a buffalo, which was tearing along with a stream of blood running down his flank. When I got back to the poor fellow, I found that he had lighted on his face, and, though he had been carried on the horns of the buffalo about twenty yards before getting the final toss, the skin was not pierced nor was a bone broken. When the beasts appeared, he had thrown down his load and stabbed one in the side. It turned suddenly upon him, and, before he could use a tree for defence, carried him off. We shampooed him well, </p>
 
 	<pb facs="liv_015011_0655" n="0655"/>  
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0655.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0655.jpg"/></figure></p>
 
 	<pb facs="liv_015011_0656" n="0656"/>  
 
@@ -5441,28 +5441,28 @@ came out to tow us into the harbour. The constant strain on his untutored mind s
 
 
 	<pb facs="liv_015011_0753" n="0753"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0753.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0753.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0754" n="0754"/>
 
 
 	<pb facs="liv_015011_0755" n="0755"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0755.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0755.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0756" n="0756"/>
 
 
 	<pb facs="liv_015011_0757" n="0757"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0757.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0757.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0758" n="0758"/>
 
 
 	<pb facs="liv_015011_0759" n="0759"/>
-	<p rend="no-indent"><figure><!-- http://livingstoneonline.org/sites/default/files/ --><graphic url="liv_015011_0759.jpg"/></figure></p>
+	<p rend="no-indent"><figure><!--http://livingstoneonline.org/sites/default/files/--><graphic url="liv_015011_0759.jpg"/></figure></p>
 
 
 	<pb facs="liv_015011_0760" n="0760"/>
