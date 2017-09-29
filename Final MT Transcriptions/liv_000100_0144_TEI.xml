@@ -97,8 +97,8 @@
             <div>
                 
                 <pb facs="liv_000100_0144.jpg" n="0144"/>                           
-<lb/><p><fw n="heading_XXII">XXII <add place="inspace" hand="#U2" rend="gray left">139</add> <add place="inspace" hand="#U1" rend="gray right">143</add></fw>
-<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The influence of the partial
+<lb/><note place="marginleft">XXII</note> <fw><add place="inspace" hand="#U2" rend="gray left">139</add> <add place="inspace" hand="#U1" rend="gray right">143</add></fw>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The influence of the partial
 <lb/>obstruction it meets with there
 <lb/>is seen in the more winding
 <lb/>course of the river <measure>North of
@@ -157,7 +157,7 @@
     <lb/>of <persName ref="people.xml#pers0441">Santuru</persName>'s people having ever
 <lb/>seen a white man before the
     <lb/>arrival of <persName ref="people.xml#pers0466">Mr <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> and myself
-<lb/>in <date when="1851">1851</date> - They have it is true
+<lb/>in <date when="1851">1851</date> - <space extent="2" unit="chars"/>They have it is true
 <lb/>no written records but any <w>remark<supplied>-</supplied>
 <lb break="no"/>-able</w> event here is commemorated<!-- kate:good example of identification of different forms of historical record by DL -->
 <lb/>in names as <del type="cancelled">happened</del> was 
@@ -178,9 +178,9 @@
         <pb facs="liv_000100_0146.jpg" n="0146"/>                           
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">141</add> <add place="inspace" hand="#U1" rend="gray right">145</add></fw>
 <lb/><choice><sic>Were</sic><corr/></choice> named Gun - <term type="animal">horse</term> - waggon -
-    <lb/><add place="marginleft"><persName>Monare</persName> - <add place="below">^</add></add> <persName ref="people.xml#pers0333">Jesus</persName> - &amp;c - but there is not a
+<lb/><add place="marginleft"><foreign xml:lang="tn">Monare</foreign> - <add place="below">^</add></add> <persName ref="people.xml#pers0333">Jesus</persName> - &amp;c - but there is not a
 <lb/>vestige of anything of the sort
-<lb/>among the <term type="tribe">Barotse</term> - The visit
+<lb/>among the <term type="tribe">Barotse</term> - <space extent="1" unit="chars"/>The visit
 <lb/>of a white man is such a remarkable
 <lb/>event that had any such taken
 <lb/>place during the last three
@@ -189,7 +189,7 @@
                 <lb/><p>But <persName ref="people.xml#pers0441">Santuru</persName> was once
 <lb/>visited by the <term type="tribe">Mambari</term> and
 <lb/>the distinct recollection of that
-<lb/>visit is retained - They came
+<lb/>visit is retained - <space extent="1" unit="chars"/>They came
 <lb/>to purchase <orgName>slaves</orgName> and both
                     <lb/><persName ref="people.xml#pers0441">Santuru</persName> and his <term type="occupation">headmen</term> refused
 <lb/>them permission to buy any of
@@ -241,13 +241,13 @@
 <lb/>as he meant favours to
 <lb/>be conferred in relation
 <lb/>to hewing, agriculture or
-<lb/>fighting - The people still
+<lb/>fighting - <space extent="1" unit="chars"/>The people still
 <lb/>living there <add place="marginleft"><metamark function="insertion"/>in charge of
     <lb/>these articles</add>
 were supported by
 <lb/>presents from the <term type="occupation">chief</term> and
 <lb/>the <term type="tribe">Makololo</term> sometimes follow
-<lb/>the example - When I asked
+<lb/>the example - <space extent="1" unit="chars"/>When I asked
 <lb/><add place="marginleft" hand="#U3" rend="red">them</add> to part with one of these relics
 <lb/>they replied "o no he refuses"
     <lb/>Who refuses? - <persName ref="people.xml#pers0441">Santuru</persName> <add place="marginleft" hand="#U3" rend="red">was their reply <add place="below">^</add></add> - <choice><orig>shewing</orig><reg>showing</reg></choice>
@@ -304,7 +304,7 @@ except that of the
 
         <pb facs="liv_000100_0149.jpg" n="0149"/>                           
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">144</add> <add place="inspace" hand="#U1" rend="gray right">148</add> <add place="inspace" hand="#U2" rend="gray right">6</add></fw>
-                <lb/><p>While still at <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> I walked
+<lb/><p>While still at <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> I walked
 <lb/>out to the ridge which bounds the
 <lb/><placeName><geogName type="valley">valley of the <term type="tribe">Barotse</term></geogName></placeName> in that direction
 <lb/>and found it covered with trees
@@ -324,7 +324,7 @@ except that of the
 <lb/>cane</term>, the <term type="plant_foodstuff">Egyptian arum</term> - 
 <lb/><term type="plant_foodstuff">sweet potato</term> (<foreign xml:lang="la"><term type="plant_foodstuff">convolulus batata</term></foreign>)
 <lb/>Two kinds of <term type="plant_foodstuff">Manioc</term> or <term type="plant_foodstuff">Cassava</term>
-<lb/><metamark function="ed-mark" place="marginleft">X</metamark> <metamark function="ed-mark" place="marginleft" resp="#U3" rend="red">X</metamark> (<foreign xml:lang="la"><term type="plant_foodstuff">Jatropha manihot</term></foreign> and <add place="inline" rend="red" hand="#U3">----</add>
+<lb/><add place="marginleft"><note><metamark function="ed-mark">X</metamark> <space extent="1" unit="chars"/><metamark function="ed-mark" resp="#U3" rend="red">X</metamark></note></add> (<foreign xml:lang="la"><term type="plant_foodstuff">Jatropha manihot</term></foreign> and <add place="inline" rend="red" hand="#U3">----</add>
 <lb/>besides <term type="plant_foodstuff">pumpkins</term> <term type="plant_foodstuff">melons</term>
 <lb/><term type="plant_foodstuff">beans</term> and <term type="plant_foodstuff">earthnuts</term> - These
 <lb/>with plenty of <term type="animal"><term type="foodstuff">fish</term></term> in the river
@@ -382,7 +382,7 @@ except that of the
 
         <pb facs="liv_000100_0151.jpg" n="0151"/>                           
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">146</add> <add place="inspace" hand="#U1" rend="gray right">150</add></fw>
-<lb/><add place="marginleft">to lift the<add place="below">^</add></add> feet so high to avoid being tripped
+<lb/><add place="marginleft">to lift the <add place="below">^</add></add> feet so high to avoid being tripped
 <lb/>by it as to make walking
 <lb/>excessively fatiguing - The
 <lb/><term type="tribe">Makololo</term> youth complain of
@@ -398,15 +398,15 @@ I imagined
 <lb/>we might find what was
 <lb/>needed in the higher lands
 <lb/>from which the river seemed
-<lb/>to come - I resolved therefore
+<lb/>to come - <space extent="1" unit="chars"/>I resolved therefore
 <lb/>to go to the utmost limits of the
 <lb/><placeName><region><term type="tribe">Barotse</term> country</region></placeName> before coming
-    <lb/>to a final conclusion - <placeName><region ref="region.xml#region0034">Katonga</region></placeName>
+    <lb/>to a final conclusion - <space extent="1" unit="chars"/><placeName><region ref="region.xml#region0034">Katonga</region></placeName>
 <lb/>was the best place we had
 <lb/>seen but in order to accomplish
 <lb/>a full search I left <persName ref="people.xml#pers0519">Sekeletu</persName>
     <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0080">Nariele</settlement></placeName> and ascended
-<lb/>the river - He furnished me
+<lb/>the river - <space extent="1" unit="chars"/>He furnished me
 <lb/>with <del type="cancelled">canoes</del> men besides my
 <lb/><term type="occupation">rowers</term> and among the rest
 <lb/>a <term type="occupation">herald</term> that I might enter
@@ -473,7 +473,7 @@ I imagined
 <lb/>use to me on my return
 <lb/>from the <placeName><region>West coast</region></placeName> <add place="above" hand="#U3" rend="red">-</add> I still
 <lb/>pushed on to <measure>Latitude 14° 11' 3"
-<lb/>South</measure> - There the <placeName><geogName type="river">Leeambye</geogName></placeName>
+<lb/>South</measure> - <space extent="1" unit="chars"/>There the <placeName><geogName type="river">Leeambye</geogName></placeName>
 <lb/>assumes the name <placeName><geogName type="river">Kabompo</geogName></placeName>
 <lb/>and seems to be coming from
 <lb/>the <del type="cancelled">N</del> East - It is a fine large
@@ -546,12 +546,12 @@ I imagined
 <lb/>out the second part of my
 <lb/>plan though I had failed in
 <lb/><add place="marginleft">accomplishing <add place="below">^</add></add> the first - The <placeName><geogName type="river">Leeba</geogName></placeName> <add place="below">^</add> <add place="above">seemed to</add> come
-<lb/>from the <choice><abbr>N</abbr><expan>North</expan></choice> &amp; by <choice><abbr>W-</abbr><expan>West</expan></choice> or <choice><abbr>N- N- W-</abbr><expan>North North West</expan></choice>
+<lb/>from the <choice><abbr>N</abbr><expan>North</expan></choice> &amp; by <choice><abbr>W.</abbr><expan>West</expan></choice> or <choice><abbr>N. N. W.</abbr><expan>North North West</expan></choice>
 <lb/>so having an old <term type="nationality">Portuguese</term>
 <lb/>map which pointed out the
 <lb/><del type="cancelled"><unclear cert="medium">Z</unclear></del> <placeName><geogName type="river">Coanza</geogName></placeName> as rising from
 <lb/>the middle of the continent
-<lb/>in <measure><del type="cancelled">10°</del> 9° <choice><abbr>S- Lat.</abbr><expan>South Latitude</expan></choice></measure> - I thought it
+<lb/>in <measure><del type="cancelled">10°</del> 9° <choice><abbr>S- Lat.</abbr><expan>South Latitude</expan></choice></measure> I thought it
 <lb/>probable that when we <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">had</add> ascended
 <lb/>the <placeName><geogName type="river">Leeba</geogName></placeName> <add place="marginleft"><metamark function="insertion"/>(from <measure>14° 11'</measure>)</add> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">for</add> two or three degrees
 <lb/>We should be within <measure>120 miles</measure>
@@ -586,9 +586,9 @@ I imagined
 <lb/> - smoked like a <term type="animal">red herring</term> <del type="cancelled">on</del>
 <lb/>over fire of green twigs <del type="strikethrough">on
 <lb/>potsherds</del> - and physicked - baked
-<lb/><del type="strikethrough"><add place="marginleft" hand="#U2" rend="gray"><note><metamark function="query"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> said
-        <lb/>before</note></add></del>
-and charmed <foreign xml:lang="la"><hi rend="underline">secund<subst><del type="cancelled">em</del><add place="above">um</add></subst></hi>
+<lb/><add place="marginleft" hand="#U2" rend="gray"><del type="strikethrough" hand="#DL"><note><metamark function="query"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> said
+        <lb/>before</note></del></add>
+    and charmed <foreign xml:lang="la"><hi rend="underline">secund<subst><del type="cancelled">em</del><add place="above" hand="#U2" rend="gray"><retrace hand="#DL">um</retrace></add></subst></hi>
 <lb/>(black) artem</foreign> <del type="cancelled">I was obliged
 <lb/>to believe <add place="below">^</add> <add place="marginleft">conclude</add> that our own</del>
 <lb/><add place="marginleft">only to find our</add> <add place="below">^</add> <add place="above">own</add> remedies <del type="cancelled">are</del> more efficacious
@@ -641,7 +641,7 @@ and charmed <foreign xml:lang="la"><hi rend="underline">secund<subst><del type="
     <lb/>appearance
     <lb/>were a beautiful
     <lb/>sight to see</add>
-The <term type="animal">lions</term> here roar
+<space extent="2" unit="chars"/>The <term type="animal">lions</term> here roar
 <lb/>much more than in the country
 <lb/>near the Lake, <placeName><geogName type="river">Zouga</geogName></placeName>, and <placeName><geogName type="river">Chobe</geogName></placeName>
 <lb/>One evening we had a good
@@ -664,7 +664,7 @@ The <term type="animal">lions</term> here roar
 <lb/>so we let him enjoy himself
 <lb/>certain that he durst not
 <lb/>have been guilty of the impertinence
-    <lb/>in the <placeName ref="orgName.xml#org0041"><region><orgName>Bushman</orgName> country</region></placeName>
+<lb/>in the <placeName><region><orgName ref="orgName.xml#org0041">Bushman</orgName> country</region></placeName>
 <lb/>Wherever the game abounds
 <lb/>there these animals exist
 <lb/>in proportionate numbers
@@ -684,16 +684,16 @@ The <term type="animal">lions</term> here roar
 <lb/>in <placeName><settlement type="city">London</settlement></placeName> than there is
 <lb/>of being devoured by <term type="animal">lions</term>
 <lb/>in even the most infested
-<lb/>districts of <placeName><bloc>Africa</bloc></placeName>
-<lb/>Some of the <term type="tribe">Mambari</term>
-    <lb/>visited us at <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> - They
+<lb/>districts of <placeName><bloc>Africa</bloc></placeName></p>
+<lb/><p>Some of the <term type="tribe">Mambari</term>
+<lb/>visited us at <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> - <space extent="1" unit="chars"/>They
 <lb/>are of the <term type="tribe">Ambonda</term> family
 <lb/>which inhabits the country
 <lb/><placeName><region>South East of <placeName><country>Angola</country></placeName></region></placeName> and
 <lb/>speak the <foreign xml:lang="mck">Bunda</foreign> dialect
 <lb/>which is of the same family
 <lb/>of languages with the <term type="tribe"><choice><sic>Barote</sic><corr>Barotse</corr></choice></term>
-<lb/><term type="tribe">Bayeiye</term> or those <add place="below">^</add> <add place="above">black</add> tribes <w>com-
+<lb/><term type="tribe">Bayeiye</term> <subst><del>-</del><add place="over-text">&amp;c</add></subst> or those <add place="below">^</add> <add place="above">black</add> tribes <w>com-
 <lb break="no"/>prehended</w> under the general
 <lb/>term <term type="tribe">Makalaka</term>, They plait
 <lb/>their hair in three fold cords
@@ -707,16 +707,16 @@ The <term type="animal">lions</term> here roar
 <lb/><metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-254"/>they had fled my approach
     <lb/>to <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> they let me know
 <lb/>that they had a vivid idea of
-<lb/><add place="marginleft">the customs of</add> <del type="cancelled">the</del> <term type="nationality">English</term> <choice><sic>cruizers</sic><corr>cruisers</corr></choice> on the coast - <anchor xml:id="meta-254"/>
+<lb/><add place="marginleft">the customs of</add> <metamark function="let-stand" spanTo="#meta-331"/><del type="cancelled">the</del><anchor xml:id="meta-331"/> <term type="nationality">English</term> <choice><sic>cruizers</sic><corr>cruisers</corr></choice> on the coast - <anchor xml:id="meta-254"/>
 
 
         <pb facs="liv_000100_0158.jpg" n="0158"/>                           
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">153</add> <add place="inspace" hand="#U1" rend="gray right">157</add></fw>
-<lb/>They <choice><orig>shewed</orig><reg>showed</reg></choice> their habits <subst><del>as</del><add place="over-text">in</add></subst> their
+<lb/>They <choice><orig>shewed</orig><reg>showed</reg></choice> their habits <subst><del>as the</del><add place="over-text">in their</add></subst> 
 <lb/>own country by digging <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">up, &amp; eating</add> even here
 <lb/>where large game abounds <add place="inline" hand="#U3" rend="red">-</add>
 <lb/>the <term type="animal">mice</term> and <term type="animal">moles</term> <add place="below">^</add> <add place="above"><del type="strikethrough" hand="#U3" rend="red">for food</del></add> which
-<lb/>infest the country - The half breed
+<lb/>infest the country - <space extent="1" unit="chars"/>The half breed
     <lb/>or <orgName ref="orgName.xml#org0033"><orgName>native</orgName> <term type="people">Portuguese</term></orgName> could all
 <lb/>read and write and the head of
 <lb/>the party <del type="cancelled">seemed</del> if not a real
@@ -729,7 +729,7 @@ The <term type="animal">lions</term> here roar
     <lb/>commission <del type="cancelled">at</del> <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape town</settlement></placeName></orgName>
 <lb/>was evidently anxious to
 <lb/><choice><orig>shew</orig><reg>show</reg></choice> me all the kindness in
-<lb/>his power - These persons
+<lb/>his power - <space extent="1" unit="chars"/>These persons
 <lb/>I feel assured were the first
 <lb/><add place="marginleft">individuals</add> of <term type="nationality">Portuguese</term> blood who ever
 <lb/>saw the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> in the
@@ -740,7 +740,7 @@ The <term type="animal">lions</term> here roar
 <lb/>and could not then converse
 <lb/>in Portuguese so I could learn
 <lb/><add place="marginleft" hand="#U3" rend="red">but</add> little from <del type="cancelled">them</del> our short intercourse
-<lb/><metamark function="placeMark" rend="gray" resp="#U2"/> <metamark function="newParagraph">#</metamark> A party of <orgName>Arabs</orgName> from <placeName><geogName type="island">Zanzibar</geogName></placeName>
+<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <metamark function="newParagraph">#</metamark> A party of <orgName>Arabs</orgName> from <placeName><geogName type="island">Zanzibar</geogName></placeName>
 <lb/>were also in the country at
 <lb/>this time - <persName ref="people.xml#pers0519">Sekeletu</persName> had gone
     <lb/>from <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> to the town
@@ -760,13 +760,13 @@ The <term type="animal">lions</term> here roar
     <lb/>around <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> an island
 <lb/>When sleeping at a village on
     <lb/>the same latitude as <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName>
-<lb/>town two of the <orgName>Arabs</orgName> mentioned
+<lb/>town two of the <orgName><subst><del>ar</del><add place="over-text">Ar</add></subst>abs</orgName> mentioned
 <lb/>made their appearance - They
 <lb/>were quite as dark as the
 <lb/><term type="tribe">Makololo</term> and having their
 <lb/>heads shaved I could not
 <lb/>compare their hair <subst><add place="above" hand="#U3" rend="red">with</add><del type="strikethrough" hand="#U3" rend="red">to</del></subst> <subst><del>theirs</del><add place="over-text">that</add></subst>
-<lb/>of the inhabitants of the country
+<lb/>of the <w>inhab<subst><del>t</del><add place="over-text">i</add></subst>tants</w> of the country
 <lb/>When <add place="below">^</add> <add place="above">they were</add> about to <del type="strikethrough">part</del> <add place="below">^</add> <add place="above">leave</add> they came
 <lb/>to bid <foreign xml:lang="fr">adieu</foreign> but I asked them
 <lb/>to stay &amp; help us to eat our <term type="animal">ox</term>
@@ -812,7 +812,7 @@ The <term type="animal">lions</term> here roar
 <lb/>cannot take care of themselves - 
 <lb/>doing evil that good may
 <lb/>come - </p>
-<lb/><p>These <orgName>Arabs</orgName> or <orgName>Moors</orgName> could
+<lb/><p>These <orgName><subst><del>a</del><add place="over-text">A</add></subst>rabs</orgName> or <orgName>Moors</orgName> could
 <lb/>read and write in their own
 <lb/><add place="marginleft" hand="#U3" rend="red">language</add> <del type="strikethrough" hand="#U3" rend="red">characters</del> readily - And when
 <lb/>speaking about our saviour
@@ -842,7 +842,7 @@ The <term type="animal">lions</term> here roar
 <lb/>of <term type="animal">serpent</term> worship floating
 <lb/>in their minds as in addition
 <lb/>to this horror of eating <del type="strikethrough">them</del>
-<lb/><del type="strikethrough"><metamark place="marginleft" resp="#U3" rend="red"><choice><abbr>Qu.</abbr><expan>Query</expan></choice></metamark></del> such <del type="strikethrough"><hi rend="red underline" resp="#U3">formed</hi></del> animals they
+<lb/><del type="strikethrough"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu.</abbr><expan>Query</expan></choice></metamark></del>such <del type="strikethrough"><hi rend="red underline" resp="#U3">formed</hi></del> animals they
 <lb/>sometimes render a sort of
 <lb/>obeisance to living <term type="animal">serpents</term>
 <lb/>by clapping the hands to them
@@ -924,7 +924,7 @@ customs eat alone he is
 <lb/>with that - <add place="marginleft"><metamark function="insertion"/>This is the
     <lb/>only movement
     <lb/>in common</add>
-The arms and
+<space extent="1" unit="chars"/>The arms and
 <lb/>head are thrown about
 <lb/>also <subst><del>a</del><add place="over-text">i</add></subst>n every direction
 <lb/><subst><del type="strikethrough" hand="#U3" rend="red">at the same</del><add place="above" hand="#U3" rend="red">all this</add></subst> time <del type="strikethrough" hand="#U3" rend="red">that</del> the
@@ -940,7 +940,7 @@ The arms and
     <lb/>in the ground
     <lb/>where they
     <lb/>stand</add>
-- If the
+- <space extent="1" unit="chars"/>If the
 <lb/>scene were witnessed in a
 <lb/>lunatic asylum it would
 <lb/>be thoroughly understood
@@ -984,7 +984,7 @@ The arms and
 <lb/>They often asked if white
 <lb/>people ever danced <del type="cancelled">I explained</del>
 <lb/><add place="marginleft">I thought of the</add> <del type="cancelled">that we had a</del> disease
-<lb/><del type="strikethrough">we</del> called <term type="ailment">St. Vitus' dance</term>
+<lb/><del type="strikethrough">we</del> called <term type="ailment">St- Vitus' dance</term>
 <lb/>but could not say all our
 <lb/>dancers were affected by
 <lb/>it and gave an answer
@@ -1025,7 +1025,7 @@ The arms and
 <lb/>ten at a time) more than
 <lb/>sufficient for the wants
 <lb/>of all, yet to endure the dancing
-<lb/>rowing and singing - the
+<lb/>rowing and singing - <space extent="1" unit="chars"/>the
 <lb/>jesting anecdotes, grumbling
 <lb/>quarrelling and murdering
 <lb/>of these children of nature

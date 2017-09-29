@@ -101,20 +101,20 @@
                 <!-- Start each page with pagebreak -->
                 
                 <pb facs="liv_000100_0168.jpg" n="0168"/>                
-                <lb/><p><fw n="heading_XXIII">XXIII <add place="inspace" rend="gray left" hand="#U2"><note><subst><del type="strikethrough" rend="gray" hand="#U2"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="inspace above" rend="gray left" hand="#U2"><persName ref="people.xml#pers0482">Powell</persName></add></subst></note></add> <add place="inspace" hand="#U1" rend="gray right">167</add></fw>
+                <lb/><p rend="no-indent"><note place="marginleft">XXIII <add place="inspace" rend="gray left" hand="#U2"><subst><del type="strikethrough" rend="gray" hand="#U2"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="inspace above" rend="gray left" hand="#U2"><persName ref="people.xml#pers0482">Powell</persName></add></subst></add></note> <fw><add place="inspace" hand="#U1" rend="gray right">167</add></fw>
 <lb/><add place="marginleft" rend="gray" hand="#U2">We - </add> entered at <placeName><geogName type="river">Sanshuré</geogName></placeName> and another<!-- p227, Missionary, sh -->
-                    <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> - But the lands
+<lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> - <space extent="2" unit="chars"/>But the lands
 <lb/><metamark function="unknown" place="marginleft"  rend="gray" resp="#U2"/> both East and West of the
 <lb/><placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName> are free from
-<lb/><add place="marginleft" rend="gray" hand="#U2"><seg rend="vertical"><note>folio 155</note></seg></add> the <add place="below">^</add> <add place="marginleft">insect</add> plague - There however<!-- insect is Tsetse, sh -->
+<lb/><add place="marginleft" rend="gray" hand="#U2"><seg rend="vertical"><note>folio 155</note></seg></add> the <add place="below">^</add> <add place="marginleft">insect</add> plague - <space extent="1" unit="chars"/>There however<!-- insect is Tsetse, sh -->
 <lb/>the <orgName>slave trade</orgName> had defiled
 <lb/>the path and no one ought
 <lb/>to follow in its wake unless
-<lb/>well armed - The <term type="tribe">Mambari</term>
+<lb/>well armed - <space extent="1" unit="chars"/>The <term type="tribe">Mambari</term>
 <lb/>had informed me <del type="cancelled">too</del> that
 <lb/>many <term type="nationality">English</term> lived at
                     <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName> so I prepared to
-<lb/>go thither The prospect of
+<lb/>go thither <space extent="1" unit="chars"/>The prospect of
 <lb/>meeting with countrymen
 <lb/>seemed to overbalance the toils
 <lb/>of the longer march - </p>
@@ -136,7 +136,7 @@
 <lb/>in every expedition and was
 <lb/>certain an eclipse or comet
 <lb/><choice><sic>betokéd</sic><corr>betokened</corr></choice> the property of flight
-<lb/><add place="marginbottom" rend="gray center" hand="#U2"><note>1</note></add><!-- the number 1 in a circle, sh -->
+<lb/><space extent="10" unit="chars"/><add place="marginbottom" rend="gray center" hand="#U2"><note>1</note></add><!-- the number 1 in a circle, sh -->
                
 
                 <pb facs="liv_000100_0169.jpg" n="0169"/>
@@ -155,7 +155,7 @@
 <lb/>of his people as by me - They
 <lb/>were eager to obtain free
 <lb/>and profitable trade with
-<lb/>white men - The prices which
+<lb/>white men - <space extent="1" unit="chars"/>The prices which
     <lb/>the <placeName><region ref="region.xml#region0024">Cape</region></placeName> <del type="cancelled">Me</del> <term type="occupation">merchants</term> could 
 <lb/>give after defraying the
 <lb/>great expenses of such a
@@ -175,7 +175,7 @@
 <lb/><term type="tribe">Makololo</term> for direct trade
 <lb/>with the sea coast coincided
 <lb/>exactly with mine that no
-<lb/><add place="marginbottom" rend="gray center" hand="#U2"><note>2</note></add>
+<lb/><space extent="10" unit="chars"/><add place="marginbottom" rend="gray center" hand="#U2"><note>2</note></add>
     
 
                 <pb facs="liv_000100_0170.jpg" n="0170"/>
@@ -214,7 +214,7 @@
 <lb/>considerable weakness in my
 <lb/>own case and a strange giddiness<!-- p229, Missionary, sh -->
 <lb/>when I looked up suddenly
-<lb/><add place="marginbottom" rend="gray center" hand="#U2"><note>3</note></add>
+<lb/><space extent="11" unit="chars"/><add place="marginbottom" rend="gray center" hand="#U2"><note>3</note></add>
 
     
                 <pb facs="liv_000100_0171.jpg" n="0171"/>
@@ -234,14 +234,14 @@
 <lb/>not blame <subst><del type="cancelled">them</del><add place="above">us</add></subst> for having
 <lb/>allowed <subst><del>me</del><add place="over-text">you</add></subst> to go away into
 <lb/>an unhealthy unknown country<del type="strikethrough">"</del>
-<lb/><add place="marginleft">of enemies?"</add> <add place="marginleft">^</add> I replied that none of my friends
+<lb/><add place="marginleft">of enemies?" <add place="below">^</add></add> I replied that none of my friends
 <lb/>would blame them - because I
 <lb/>would leave a book with <del type="cancelled">them</del>
-    <lb/><add place="marginleft"><persName ref="people.xml#pers0519">Sekeletu</persName></add> <add place="marginleft">^</add> to be sent to <persName ref="people.xml#pers0411">M<hi rend="sup">r</hi> Moffat</persName> in case
+    <lb/><add place="marginleft"><persName ref="people.xml#pers0519">Sekeletu</persName> <add place="below">^</add></add> to be sent to <persName ref="people.xml#pers0411">M<hi rend="sup">r</hi> Moffat</persName> in case
 <lb/>I did not return which would
 <lb/>explain to him all that had
 <lb/><del type="strikethrough">occurred</del> happened <choice><sic>untill</sic><corr>until</corr></choice> the
-<lb/>time of my departure - The
+<lb/>time of my departure - <space extent="1" unit="chars"/>The
 <lb/>book was a volume of my
     <lb/><bibl>Journal</bibl> - and as I was
 <lb/>detained longer than <subst><del type="cancelled">My</del><add place="over-text">I</add></subst> expected
@@ -254,7 +254,7 @@
 <lb/>and the request was made
 <lb/>in the letter to covey the
 <lb/>volume to my family 
-<lb/><add place="marginbottom" rend="gray center" hand="#U2"><note>4</note></add>
+<lb/><space extent="8" unit="chars"/><add place="marginbottom" rend="gray center" hand="#U2"><note>4</note></add>
     
 
                 <pb facs="liv_000100_0172.jpg" n="0172"/>    
@@ -292,8 +292,8 @@
 <lb/>as I was determined to
 <lb/>"succeed or perish" in the
 <lb/>attempt to open this part
-    <lb/>of <placeName><bloc>Africa</bloc></placeName> - The <orgName ref="orgName.xml#org0038">Boers</orgName>
-<lb/><add place="marginbottom" rend="gray center" hand="#U2"><note>5</note></add>
+    <lb/>of <placeName><bloc>Africa</bloc></placeName> - <space extent="1" unit="chars"/>The <orgName ref="orgName.xml#org0038">Boers</orgName>
+<lb/><space extent="5" unit="chars"/><add place="marginbottom" rend="gray center" hand="#U2"><note>5</note></add>
   
   
                 <pb facs="liv_000100_0173.jpg" n="0173"/>    
@@ -314,8 +314,8 @@
 <lb/>of the <term type="tribe">Makololo</term> - They took all
 <lb/>the articles except one box
 <lb/>into their huts - And two warriors<!-- p230, Missionary, sh -->
-    <lb/><add place="marginleft"><persName ref="people.xml#pers0480">Ponuane</persName> &amp; <persName ref="people.xml#pers0378">Mahale</persName></add> <add place="marginleft">^</add>  brought froward each a
-<lb/>fine <term type="animal"><choice><sic>hiefer</sic><corr>heifer</corr></choice> calf</term> - After
+    <lb/><add place="marginleft"><persName ref="people.xml#pers0480">Ponuane</persName> &amp; <persName ref="people.xml#pers0378">Mahale</persName> <add place="below">^</add></add>  brought froward each a
+<lb/>fine <term type="animal"><choice><sic>hiefer</sic><corr>heifer</corr></choice> calf</term> - <space extent="1" unit="chars"/>After
 <lb/>performing a number of
 <lb/>warlike evolutions they asked
 <lb/>the <term type="occupation">chief</term> to witness the agreement
@@ -325,8 +325,7 @@
 <lb/>in defence of the waggon
 <lb/>should possess both
 <lb/>the <term type="animal">calves</term>
-<lb/><space dim="vertical" extent="7" unit="lines"/>
-<lb/><add place="marginbottom" rend="gray center" hand="#U2"><note>6</note></add></p>
+<lb/><space extent="8" unit="chars"/><add place="marginbottom" rend="gray center" hand="#U2"><note>6</note></add></p>
 
 
                 <pb facs="liv_000100_0174.jpg" n="0174"/>
@@ -346,7 +345,7 @@
 <lb/>any obstacles if my companions
 <lb/>were obliged to carry heavy
 <lb/>loads I took only <del type="cancelled"><unclear cert="medium">two cannisters
-<lb/>of biscs</unclear></del> a few <term type="foodstuff">biscuits</term> - <del type="cancelled"><term type="foodstuff">tea</term></del>
+<lb/>of biscs,</unclear></del> a few <term type="foodstuff">biscuits</term> - <del type="cancelled"><term type="foodstuff">tea</term></del>
 <lb/><add place="marginleft">a few</add> <del type="cancelled">two or three</del> pounds of <term type="foodstuff">tea</term> &amp;
 <lb/><term type="foodstuff">sugar</term> - and about twenty of 
 <lb/><term type="foodstuff">coffee</term> which as the <orgName>Arabs</orgName>
@@ -354,13 +353,13 @@
 <lb/>either <term type="foodstuff">milk</term> or <term type="foodstuff">sugar</term> is
 <lb/>a most refreshing beverage
 <lb/>after fatigue or exposure
-<lb/>to the Sun - We carried <del type="cancelled">these</del>
-<lb/><add place="marginbottom" rend="gray center" hand="#U2"><note>7</note></add>
+<lb/>to the Sun - <space extent="2" unit="chars"/>We carried <del type="cancelled">these</del>
+<lb/><space extent="10" unit="chars"/><add place="marginbottom" rend="gray center" hand="#U2"><note>7</note></add>
 
 
                 <pb facs="liv_000100_0175.jpg" n="0175"/>    
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">17<subst><del>3</del><add place="over-text">4</add></subst></add></fw>
-<lb/>one small tin <w>cannister<del type="strikethrough">s</del></w> about
+<lb/>one small <metamark function="let-stand" spanTo="#meta-332"/><del type="cancelled">tin</del><anchor xml:id="meta-332"/> <w>cannister<del type="strikethrough">s</del></w> about
 <lb/>fifteen inches square containing
 <lb/>spare shirting <choice><orig>trowsers</orig><reg>trousers</reg></choice> &amp; shoes
 <lb/>to be used when we reached
@@ -371,10 +370,10 @@
 <lb/>and a third for books my
 <lb/>stock being a <bibl>Nautical Almanac</bibl>
     <lb/><bibl><persName ref="people.xml#pers0550">Thomson</persName>'s Logarithm tables</bibl>
-<lb/>and a <bibl>Bible</bibl> - A <choice><sic>forth</sic><corr>fourth</corr></choice> box
+<lb/>and a <bibl>Bible</bibl> - <space extent="1" unit="chars"/>A <choice><sic>forth</sic><corr>fourth</corr></choice> box
 <lb/>contained a Magic Lantern
 <lb/>which we found of much
-<lb/>use - The sextant and
+<lb/>use - <space extent="1" unit="chars"/>The sextant and
 <lb/>artificial horizon <add place="marginleft"><metamark function="insertion"/>thermometer
     <lb/>and compasses</add>   
 were 
@@ -404,7 +403,7 @@ As I had always
 <lb/>few "<foreign xml:id="la">impedimenta</foreign>" as possible
 <lb/>and not forgetting to carry <subst><del type="cancelled"><unclear cert="medium">ones</unclear></del><add place="above">my</add></subst>
 <lb/>wits about <add place="below">^</add> <add place="above">me</add> <del type="cancelled"><unclear cert="medium">him</unclear></del> <subst><del type="cancelled">my</del><add place="above">the</add></subst> outfit
-<lb/><add place="marginbottom" rend="gray center" hand="#U2"><note>8</note></add>
+<lb/><space extent="16" unit="chars"/><add place="marginbottom" rend="gray center" hand="#U2"><note>8</note></add>
 
 
                 <pb facs="liv_000100_0176.jpg" n="0176"/>
@@ -412,7 +411,7 @@ As I had always
 <lb/>was rather spare and intended
 <lb/>to be still more so when we
 <lb/>should come to leave the
-<lb/>canoes - Some would consider
+<lb/>canoes - <space extent="1" unit="chars"/>Some would consider
 <lb/>it injudicious to adopt this
 <lb/>plan but I had a secret
 <lb/>conviction that if I did not
@@ -425,20 +424,20 @@ As I had always
 <lb/>excited the cupidity of
     <lb/><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></note></hi></add> the tribes through whose country
 <lb/>we wished to pass - </p>
-<lb/><p>The instruments I carried
+<lb/><p>The Instruments I carried
 <lb/>though few were the best of their kind
 <lb/>A sextant <del type="strikethrough">made</del> by the famed
     <lb/>makers <orgName ref="orgName.xml#org0084"><persName>Troughton</persName> and <persName>Sims</persName></orgName> of
-    <lb/><placeName><settlement type="street" ref="settlement.xml#sett0050">Fleet Street</settlement></placeName> - A chronometer watch
+    <lb/><placeName><settlement type="street" ref="settlement.xml#sett0050">Fleet Street</settlement></placeName> - <space extent="3" unit="chars"/>A chronometer watch
 <lb/>with a stop to the second's hand - an
 <lb/>admirable contrivance for enabling
 <lb/>a person to take the exact time of
-<lb/>observations - It was constructed
+<lb/>observations - <space extent="1" unit="chars"/>It was constructed
     <lb/>by <orgName><persName ref="people.xml#pers0291">Dent</persName></orgName> of the <placeName><settlement type="street">Strand</settlement></placeName> (61) for the
     <lb/><orgName ref="orgName.xml#org0079">Royal Geographical Society</orgName> &amp;
     <lb/>pronounced by <persName ref="people.xml#pers0377">Mr Maclear</persName> to
 <lb/>equal most chronometers in
-<lb/>performance - For both these
+<lb/>performance - <space extent="1" unit="chars"/>For both these
 <lb/>excellent instruments I have much
 <lb/>pleasure in recording my obligations
     <lb/>to my good friend <persName ref="people.xml#pers0544"><term type="occupation">Colonel</term> Steele</persName>
@@ -459,7 +458,7 @@ As I had always
     <lb/>into a
     <lb/>tree <del type="cancelled">or</del></add>
 -
-<lb/><add place="marginbottom" rend="gray left" hand="#U2"><note>9</note></add> </p>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>9</note></add> </p>
 
 
                 <pb facs="liv_000100_0177.jpg" n="0177"/>   
@@ -482,11 +481,11 @@ As I had always
 <lb/>the identical island where we
 <lb/>met <persName ref="people.xml#pers0515">Sebituane</persName> first known
 <lb/>as the island of <placeName><geogName type="island">Maunku</geogName></placeName> - one 
-<lb/>of his wives - The <term type="occupation">chief</term> lent
+<lb/>of his wives - <space extent="1" unit="chars"/>The <term type="occupation">chief</term> lent
 <lb/>me his own canoe and
 <lb/>as it was broader than usual 
 <lb/>one could turn about in it
-<lb/>with ease - The <placeName><geogName type="river">Chobe</geogName></placeName> is
+<lb/>with ease - <space extent="1" unit="chars"/>The <placeName><geogName type="river">Chobe</geogName></placeName> is
 <lb/>much infested by <term type="animal">Hippopotami</term>
 <lb/>and as <del type="cancelled">particular</del> certain
 <lb/>elderly males are expelled the
@@ -506,8 +505,8 @@ As I had always
     <lb/>by night in
     <lb/>the middle of
     <lb/>the stream</add>   
-<lb/><subst><del type="cancelled">In all other cases</del><add place="below">As a general rule</add></subst>
-<lb/><add place="marginbottom" rend="gray center" hand="#U2"><note>10</note></add>
+<subst><add place="below">As a general rule</add><del type="cancelled">In In all other cases -</del></subst>
+<lb/><space extent="8" unit="chars"/><add place="marginbottom" rend="gray center" hand="#U2"><note>10</note></add>
         
         <pb facs="liv_000100_0178.jpg" n="0178"/>    
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">177</add></fw>
@@ -535,16 +534,16 @@ As I had always
 <lb/>there he soon moves off - 
 <lb/>I have seen some frightful
 <lb/>gashes made on the legs
-<lb/>of the people who have had
+<lb/>of the people <subst><del><unclear cert="low">le</unclear></del><add place="over-text">w</add></subst>ho have had
 <lb/>the misfortune to be
 <lb/>attacked and unable to
-<lb/>dive - This <subst><del type="strikethrough">the</del><add place="above">animal</add></subst> uses his teeth as
+<lb/>dive - This <subst><del type="strikethrough">He</del><add place="above">animal</add></subst> uses his teeth as
 <lb/>an offensive weapon though
 <lb/>quite a herbivorous feeder - 
 <lb/>One of these "<choice><sic>batchelors</sic><corr>bachelors</corr></choice>" that
 <lb/>lives near the confluences
 <lb/>actually came out of his lair
-<lb/>and putting his head down ran
+<lb/>and putting his <subst><del><unclear cert="low">de</unclear></del><add place="over-text">h</add></subst>ead down ran
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>11</note></add> after the men who were passing
 <lb/>with very considerable speed - </p>
 
@@ -555,7 +554,7 @@ As I had always
 <lb/><placeName><geogName type="river">Zabesa</geogName></placeName> or <placeName><geogName type="river">Zabenza</geogName></placeName> is spread
 <lb/>out like a little lake surrounded
 <lb/>on all sides by dense masses
-<lb/>of <add place="below">^</add> <add place="marginleft">tall</add> <term type="plant">reed</term> - The river below that
+<lb/>of <add place="below">^</add> <add place="marginleft">tall</add> <term type="plant">reed</term> - <space extent="2" unit="chars"/>The river below that
 <lb/>is always <measure>100 or 120 yards
 <lb/>broad</measure>, deep and never dries up
 <lb/>so <subst><del type="strikethrough">far</del><add place="above">much</add></subst> as to be fordable - 
@@ -571,8 +570,10 @@ As I had always
     <lb/><del type="cancelled">also</del> in the <placeName><region ref="region.xml#region0040"><term type="tribe">Makololo</term> country</region></placeName>
 <lb/>orders had preceded us "that
 <lb/><subst><del>I</del><add place="over-text"><foreign xml:lang="und">Nãka</foreign></add></subst> <add place="marginleft"><metamark function="insertion"/>(the doctor)</add> must not be allowed to
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>12</note></add> become hungry" - </p> 
-<lb/><space dim="vertical" extent="10" unit="lines"/><!-- Another space in the imaging of the MS appears here. PS -->         
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>12</note></add> become hungry" - 
+<lb/><space dim="vertical" extent="2" unit="lines"/>
+<lb/><add place="marginleft">In wh</add></p> 
+<lb/><space dim="vertical" extent="8" unit="lines"/><!-- Another space in the imaging of the MS appears here. PS -->         
 
 
                 <pb facs="liv_000100_0180.jpg" n="0180"/>    
@@ -582,7 +583,7 @@ As I had always
 <lb/>soft calcareous tufa
 <lb/>and the river has cut out
 <lb/>for itself a deep perpendicular
-<lb/>sided bed - Where the <del type="strikethrough">tu</del>
+<lb/>sided bed - <space extent="1" unit="chars"/>Where the <del type="strikethrough">tu</del>
 <lb/>banks are high, as at the
 <lb/>spot where the waggons
 <lb/>stood in <date when="1851">1851</date> they are
@@ -593,11 +594,11 @@ As I had always
 <lb/><term type="animal">buffaloes</term> &amp; <term type="animal">Elephants</term></p>
 <lb/><p>Among the trees may
 <lb/>be observed some species
-<lb/><lb/><add place="marginleft" rend="gray" hand="#U2"><note>159</note></add><!-- 159 is also circled.JL --> of <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- square bracket relates to the circled number. -->the <term type="plant">Ficus Indica</term> - Light
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>159</note></add><!-- 159 is also circled.JL --> of <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- square bracket relates to the circled number. -->the <term type="plant">Ficus Indica</term> - <space extent="1" unit="chars"/>Light
 <lb/>green coloured <term type="plant">acacias</term>
 <lb/>The splendid <term type="plant">Motsintsela</term> - and
 <lb/>evergreen <term type="plant">cypress</term> shaped
-<lb/><term type="plant">Motsouri</term> - The <term type="foostuff">fruit</term> of
+<lb/><term type="plant">Motsouri</term> - <space extent="1" unit="chars"/>The <term type="foostuff">f<subst><del><unclear cert="low">a</unclear></del><add place="over-text">r</add></subst>uit</term> of
 <lb/>the last named was ripe
 <lb/>and the villagers presented
 <lb/>many dishes of its beautiful
@@ -637,11 +638,11 @@ As I had always
 <lb/>allow a steamer to ply upon
 <lb/>it the <choice><sic>suddeness</sic><corr>suddenness</corr></choice> of the
 <lb/>bendings would prevent
-<lb/>navigation - But should
+<lb/>navigation - <space extent="1" unit="chars"/>But should
 <lb/>the country ever become 
 <lb/>civilized the <placeName><geogName type="river">Chobe</geogName></placeName> would
 <lb/>be a convenient natural
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>14</note></add> canal - We spent 42<choice><orig>½</orig><reg>1/2</reg></choice> hours
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>14</note></add> canal - <space extent="1" unit="chars"/>We spent 42<choice><orig>½</orig><reg>1/2</reg></choice> hours
 <lb/>paddling at the rate of <measure>5 miles
 <lb/>an hour</measure> in coming from
     <lb/><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> to the confluence
@@ -656,14 +657,14 @@ As I had always
 <lb/><choice><sic>chrystals</sic><corr>crystals</corr></choice> which the water
 <lb/>gradually dissolves and leaves
 <lb/>the rock with a worm eaten
-<lb/>appearance - It is curious
+<lb/>appearance - <space extent="1" unit="chars"/>It is curious
 <lb/>to observe that the water
 <lb/>flowing over certain rocks as
 <lb/>in this instance imbibes
 <lb/>an appreciable though
 <lb/>necessarily most minute
 <lb/>portion of the minerals they
-<lb/>contain - The water of
+<lb/>contain - <space extent="2" unit="chars"/>The water of
 <lb/>the <placeName><geogName type="river">Chobe</geogName></placeName> up to this point
 <lb/>is of a dark mossy hue
 <lb/>but here it suddenly assumes
@@ -741,7 +742,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>among the civilized - but
 <lb/>which I never met with
 <lb/>elsewhere in the <w>centr<subst><del>e</del><add place="over-text">al</add></subst></w> <subst><del type="cancelled">of</del><add place="above">parts of</add></subst>
-<lb/>this country - There had
+<lb/>this country - <space extent="1" unit="chars"/>There had
 <lb/>evidently been extensive
 <lb/><term type="ailment">caries</term> of the cranial bones
 <lb/>and there were now other
@@ -768,7 +769,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>round and began to ascend the
 <lb/><placeName><geogName type="river">Leeambye</geogName></placeName> and on the <date when="1853-11-19">19<hi rend="sup">th</hi> <choice><abbr>Nov<hi rend="sup">r</hi></abbr><expan>November</expan></choice></date>
 <lb/>again reached the town of
-    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> - It stands on the
+    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> - <space extent="2" unit="chars"/>It stands on the
 <lb/><add place="marginleft">North</add> bank of the river and contains
 <lb/>a large population of <term type="tribe">Makalaka</term>
     <lb/>under <persName ref="people.xml#pers0420">Moriantsane</persName> brother
@@ -776,7 +777,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/><add place="marginleft">parties of</add> various tribes here assembled
 <lb/>under their respective <w>head<supplied>-</supplied>
 <lb break="no"/>-men</w> but a few <term type="tribe">Makololo</term>
-<lb/>rule over all - Their sway
+<lb/>rule over all - <space extent="1" unit="chars"/>Their sway
 <lb/>though essentially despotic
 <lb/>is considerably modified
 <lb/>by certain customs and laws
@@ -790,7 +791,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
     <lb/>the <term type="foodstuff">meat</term> as <del type="cancelled">the</del> <persName ref="people.xml#pers0420">Moriantsane</persName>
 <lb/>is known to be liberal with
 <lb/>any food that comes into
-<lb/>his hands - The culprit was
+<lb/>his hands - <space extent="1" unit="chars"/>The culprit was
 <lb/>bound hand and foot &amp;
 <lb/>placed in the sun to force
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>18</note></add> him to pay a fine but he
@@ -807,7 +808,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>should dare to interfere untied
 <lb/>the cords with which he
 <lb/>had been bound and took
-<lb/>him home - This open defiance
+<lb/>him home - <space extent="1" unit="chars"/>This open defiance
 <lb/>of authority was not resented
     <lb/>by <persName ref="people.xml#pers0420">Moriantsane</persName> but referred
     <lb/><del type="cancelled">to</del> <metamark function="insertion"/><anchor xml:id="reorder-10"/> at <del type="strikethrough"><add place="below">^</add></del> <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> <metamark function="reorder" spanTo="#meta-27"/><seg corresp="#reorder-10">to <persName ref="people.xml#pers0519">Sekeletu</persName></seg><anchor xml:id="meta-27"/></p>
@@ -829,7 +830,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>the theft and that he
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>19</note></add> had given the articles to a
 <lb/>person who had removed
-<lb/>to a distance - The <term type="tribe">Makololo</term><!-- p235 Missionary, sh -->
+<lb/>to a distance - <space extent="1" unit="chars"/>The <term type="tribe">Makololo</term><!-- p235 Missionary, sh -->
 <lb/>were much enraged at the
 <lb/>idea of their good name
 <lb/>being compromised by
@@ -844,7 +845,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>criminal into the river they
 <lb/>were puzzled because
 <lb/>this would not restore
-<lb/>the lost property - The case
+<lb/>the lost property - <space extent="1" unit="chars"/>The case
 <lb/>was referred to me and
 <lb/>I solved the difficulty by
 <lb/>paying for the loss <del type="cancelled">and</del>
@@ -885,7 +886,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>curious custom not to be
 <lb/>found among the <term type="tribe">Bechuanas</term>
 <lb/>prevails among the Black
-<lb/>tribes beyond them - They
+<lb/>tribes beyond them - <space extent="1" unit="chars"/>They
 <lb/>watch most eagerly for
 <lb/>the first glimpse of the
 <lb/>new moon and when
@@ -895,7 +896,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>they utter a loud shout of
 <lb/><foreign xml:lang="und">Kua</foreign>! and vociferate prayers to
 <lb/>it - My men for instance called
-<lb/>out "Let our journey <w><subst><del>be</del><add place="over-text">wi</add></subst>th</w> the
+<lb/>out <space extent="1" unit="chars"/>"Let our journey <w><subst><del>be</del><add place="over-text">wi</add></subst>th</w> the
 <lb/>white man be prosperous!
 <lb/>Let our enemies perish and the
 <lb/>children of <foreign xml:lang="und">Nak<subst><del type="cancelled">a</del><add place="above">e</add></subst></foreign> become rich -
@@ -973,7 +974,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/><p><del type="cancelled">The man</del> On recovering
 <lb/>partially from a severe attack
 <lb/>of <term type="ailment">fever</term> which <del>co</del><subst><del>r</del><add place="over-text">c</add></subst>leaved
-<lb/>to me <del type="cancelled">from <subst><del>the</del><add place="over-text">near</add></subst> the</del>
+<lb/>to me <del type="cancelled">from <subst><del>the</del><add place="over-text">near</add></subst></del> <del type="cancelled">the</del>
 <lb/><add place="marginleft">passing the</add> village of <placeName><settlement type="village">Moremi</settlement></placeName> on the
 <lb/><placeName><geogName type="river">Chobe</geogName></placeName> till now, we prepared
 <lb/>for our departure up the
@@ -999,7 +1000,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
     <lb/>the South</add>
     <del type="strikethrough"><unclear cert="medium">N</unclear></del> <persName ref="people.xml#pers0420">Moriantsane</persName> supplied
 <lb/>us well with <term type="foodstuff">honey</term> <add place="below">^</add> <add place="above"><term type="foodstuff">milk</term></add> and
-<lb/><term type="foodstuff">meal</term> The rains were just
+<lb/><term type="foodstuff">meal</term> <space extent="1" unit="chars"/>The rains were just
 <lb/>commencing in this part
 <lb/>but though showers sufficient
 <lb/>to lay the dust had fallen
@@ -1014,7 +1015,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>was caused by waiting
 <lb/>opposite different villages
 <lb/>for supplies of food
-<lb/><add place="marginbottom" rend="gray left" hand="#U2"><note>23</note></add>
+<lb/><add place="marginleft" rend="gray " hand="#U2"><note>23</note></add>
 
 
                 <pb facs="liv_000100_0191.jpg" n="0191"/>
@@ -1036,12 +1037,12 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>portion used and it requires
 <lb/><add place="marginleft">the addition</add> <add place="below">^</add> <term type="foodstuff">honey</term> to render it at all
 <lb/><choice><sic>palateable</sic><corr>palatable</corr></choice></p>
-                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName ref="people.xml#pers0368"><unclear cert="medium">Ledy</unclear></persName></note></hi></add> To these were added great 
+                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></note></hi></add> To these were added great 
 <lb/>numbers of the <term type="foodstuff">fruit</term> <del type="strikethrough">of</del> which
 <lb/>yields a variety of <foreign xml:lang="la"><term type="plant_foodstuff">Nux vomica</term></foreign>
 <lb/>from which we derive
 <lb/>that virulent poison
-<lb/>strychnia - The pulp between
+<lb/>strychnia - <space extent="1" unit="chars"/>The pulp between
 <lb/>the <term type="foodstuff">nuts</term> is the part used
 <lb/>and it is <del type="strikethrough">of</del> a pleasant
 <lb/>juicy nature having a sweet

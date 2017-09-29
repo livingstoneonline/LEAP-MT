@@ -99,7 +99,7 @@
             <div>
                 
                 <pb facs="liv_000100_0098.jpg" n="0098"/>                  
-<lb/><p><fw n="heading_XX">XX - <add place="inspace" hand="#U2" rend="gray left">93</add> <add place="inspace" hand="#U1" rend="gray right">97</add></fw>
+<lb/><p rend="no-indent"><note place="marginleft">XX-</note> <fw><add place="inspace" hand="#U2" rend="gray left">93</add> <add place="inspace" hand="#U1" rend="gray right">97</add></fw>
 <lb/>It has been already mentioned<!-- p197 Missionary, sh -->
 <lb/>that the tribes which <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>subjected in this great country
@@ -112,7 +112,7 @@
 <lb/><term type="tribe"><orig>Basut<subst><del>a</del><add place="over-text">u</add></subst></orig><reg>Basuto</reg></term> who came <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-163"/><seg corresp="#reorder-65">from
 <lb/> a comparatively cold and
 <lb/>hilly region in the South</seg><anchor xml:id="meta-163"/> with
-<lb/><metamark function="transposition" place="marginleft" resp="#U3" rend="red"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> <persName ref="people.xml#pers0515">Sebituane</persName> <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-65"/> - When he conquered
+<lb/><metamark function="transposition" place="marginleft" resp="#U3" rend="red"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> <persName ref="people.xml#pers0515">Sebituane</persName> <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-65"/> - <space extent="1" unit="chars"/>When he conquered
 <lb/>various tribes of the <term type="tribe">Bechuanas</term>
 <lb/>as <term type="tribe">Bakwains</term> - <term type="tribe">Bangw<del type="strikethrough">e</del>aketze</term>
 <lb/><term type="tribe">Bamangw<del type="strikethrough">e</del>ato</term> - <term type="tribe">Batauana</term> &amp;c
@@ -149,16 +149,16 @@
 <lb/><term type="plant_foodstuff">maize</term>, two kinds of <term type="foodstuff">beans</term>
 <lb/><term type="foodstuff">Earth nuts</term> (<foreign xml:lang="la"><term type="foodstuff"><choice><orig>arachis hypogoea</orig><reg>arachis hypogaea</reg></choice></term></foreign>)
 <lb/><term type="plant_foodstuff">pumpkins</term> <term type="plant_foodstuff">water melons</term>
-<lb/>and <term type="plant_foodstuff">cucumbers</term> - <seg type="weather">They
+<lb/>and <term type="plant_foodstuff">cucumbers</term> - <space extent="1" unit="chars"/><seg type="weather">They
 <lb/>depend for success entirely
-<lb/>upon rain</seg> - Those who
+<lb/>upon rain</seg> - <space extent="1" unit="chars"/>Those who
 <lb/>live in the <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName>
 <lb/>cultivate in addition the
 <lb/><term type="plant_foodstuff">sugar cane</term>, <term type="plant_foodstuff">sweet potato</term>
 <lb/>and <term type="plant_foodstuff">manioc (<foreign xml:lang="la"><term type="plant_foodstuff">Jatropha manihot</term></foreign><supplied cert="high">)</supplied></term>
 <lb/>The climate there however
 <lb/>is warmer than at
-                    <lb/><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> and <subst><del>they</del><add place="over-text">the</add></subst> <term type="tribe">Makalaka</term>
+<lb/><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> and <subst><del>they</del><add place="over-text">the</add></subst> <term type="tribe">Makalaka</term>
 <lb/>increase the fertility of
 <lb/>their gardens by rude
 <lb/>attempts at artificial
@@ -190,14 +190,14 @@
     <lb/>sativa</foreign>)</add>
 <lb/>various <term type="foodstuff">wild fruits</term>
 <lb/>dried - prepared skins, and
-<lb/>ivory - When these articles
+<lb/>ivory - <space extent="1" unit="chars"/>When these articles
 <lb/>appear in the <foreign xml:lang="tn">Kotla</foreign> <persName ref="people.xml#pers0519">Sekeletu</persName>
 <lb/>has the honour of dividing
 <lb/>them among the loungers<!-- there is a word beneath 'loungers' but it is illegible.JL -->
 <lb/>who usually congregate
 <lb/>there - A small portion
 <lb/>only is reserved for
-<lb/>himself - The ivory belongs
+<lb/>himself - <space extent="1" unit="chars"/>The ivory belongs
 <lb/>nominally <del type="cancelled"><unclear cert="low"><subst><del>as in</del><add place="over-text">to the</add></subst> the
 <lb/>same</unclear></del> to him too but this
 <lb/>is simply a way of making
@@ -211,7 +211,7 @@
 
 
 <pb facs="liv_000100_0101.jpg" n="0101"/>  
-<lb/><fw><add place="inspace" hand="#U2" rend="gray left">96</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">4</add></del><add place="over-text" hand="#U1" rend="gray right">100</add></subst></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">96</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">4</add></del><add place="over-text" hand="#U1" rend="gray">100</add></subst></fw>
 <lb/>the choice of all - but if he is
 <lb/>not more liberal to others
 <lb/>than <add place="below">^</add> <add place="above">to</add> himself he loses in
@@ -233,7 +233,7 @@
     <lb/><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> on the 8th day</del></note><anchor xml:id="meta-164"/></add>    
 <term type="tribe">Makololo</term> because they
 <lb/>all felt it to be a personal
-    <lb/>loss - Some of <choice><sic><persName ref="people.xml#pers0370">Lechulatebe</persName>s</sic><corr><persName ref="people.xml#pers0370">Lechulatebe</persName>'s</corr></choice>
+    <lb/>loss - <space extent="1" unit="chars"/>Some of <choice><sic><persName ref="people.xml#pers0370">Lechulatebe</persName>s</sic><corr><persName ref="people.xml#pers0370">Lechulatebe</persName>'s</corr></choice>
 <lb/>people having come <del type="cancelled"><hi rend="red underline" resp="#U3">on</hi></del><metamark function="ed-mark" place="above" rend="red" resp="#U3">X</metamark> 
 <lb/><del type="cancelled"><hi rend="red underline" resp="#U3">the 8<hi rend="sup">th</hi></hi></del> a demonstration
 <lb/>was made in which about
@@ -245,7 +245,7 @@
     <lb/>where <persName ref="people.xml#pers0370">Lechulatebe</persName> lives
 <lb/>and every thrust in that
 <lb/>direction was answered
-<lb/><del type="strikethrough">by</del> <add place="marginleft"><metamark function="insertion" rend="red" resp="#U3"/>by all with</add> the shout "hōō" while
+<lb/><del type="strikethrough">by</del> <add place="marginleft"><metamark function="insertion" rend="red" resp="#U3"/><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-239"/>by all with<anchor xml:id="meta-239"/></add> the shout "hōō" while
 <lb/>every stab on the ground
 <lb/>drew out <del type="cancelled">the</del> a simultaneous
 <lb/><del type="strikethrough">huz</del> "huzz" - <add place="marginleft"><metamark function="insertion"/>On such occasions
@@ -262,13 +262,13 @@
 
 
 <pb facs="liv_000100_0102.jpg" n="0102"/>             
-<lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">97</add> <add place="inspace" hand="#U1" rend="gray right">101</add></fw>
-    <lb/>This offence of <persName ref="people.xml#pers0370">Lechulatebe</persName>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">97</add> <add place="inspace" hand="#U1" rend="gray right">101</add></fw>
+<lb/><p>This offence of <persName ref="people.xml#pers0370">Lechulatebe</persName>
 <lb/>was aggravated by repetition
 <lb/>and a song sung in his
 <lb/>town <subst><del>on</del><add place="over-text">in</add></subst> dances which
 <lb/>manifested joy at the death
-<lb/>of <persName ref="people.xml#pers0515">Sebituane</persName> - He had
+<lb/>of <persName ref="people.xml#pers0515">Sebituane</persName> - <space extent="1" unit="chars"/>He had
 <lb/>enjoined his people to live
 <lb/>in peace with those at the
 <lb/>Lake and <persName ref="people.xml#pers0519">Sekeletu</persName> felt
@@ -331,12 +331,13 @@
 <lb/>an equal number of <term type="animal">sheep</term>, 
 <lb/><add place="marginleft">Now</add> <choice><sic>According</sic><corr>according</corr></choice> to the <add place="below">^</add> <add place="above">relative</add> value
 <lb/>of <term type="animal">sheep</term> &amp; <term type="animal">cows</term> in these
-<lb/>parts he ought to have sent <add place="below">sixty or seventy</add> </p>
+<lb/>parts he ought to have sent 
+<lb/><space extent="17" unit="chars"/>sixty or seventy </p>
 
 
 <pb facs="liv_000100_0104.jpg" n="0104"/>                  
-<lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">99</add> <add place="inspace" hand="#U1" rend="gray right">103</add></fw>
-<lb/>One of the men who had hoes
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">99</add> <add place="inspace" hand="#U1" rend="gray right">103</add></fw>
+<lb/><p>One of the men who had hoes
 <lb/>was trying to purchase in
 <lb/>a village without formal
     <lb/>leave from <persName ref="people.xml#pers0370">Lechulatebe</persName>,
@@ -379,8 +380,8 @@
         
 
 <pb facs="liv_000100_0105.jpg" n="0105"/>       
-<lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">100</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">8</add></del><add place="over-text" hand="#U1" rend="gray right">104</add></subst></fw>
-<lb/>The <term type="tribe">Makololo</term> were <w>pre-
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">100</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">8</add></del><add place="over-text" hand="#U1" rend="gray right">104</add></subst></fw>
+<lb/><p>The <term type="tribe">Makololo</term> were <w>pre-
 <lb break="no"/>-vailed</w> upon to keep the peace
 <lb/>during my residence
 <lb/>with them but it was
@@ -393,7 +394,7 @@
     <lb/>would remark "<persName ref="people.xml#pers0370">Lechulatebe</persName>
 <lb/>is herding our <term type="animal">cows</term> for us"
 <lb/>"Let us only go we shall "lift"
-<lb/><del type="strikethrough"><add place="marginleft" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> prize</note></add></del> the price" <subst><del>&amp;c -</del><add place="over-text">of</add></subst> them in sheep" &amp;c</p>
+<lb/><add place="marginleft" hand="#U3" rend="red"><del type="strikethrough" hand="#DL"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> prize</note></del></add> the price" <subst><del>&amp;c -</del><add place="over-text">of</add></subst> them in sheep" &amp;c</p>
 <lb/><space dim="vertical" extent="5" unit="lines"/>
 <lb/><p><del type="cancelled" rend="gray" hand="#U2"><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/></del> As the <term type="tribe">Makololo</term> are the
 <lb/>most northerly of the <term type="tribe">Bechuanas</term>
@@ -425,10 +426,10 @@
 <lb/>this nameless <term type="occupation">traveller</term> who
 <lb/>never wrote a word about them
 <lb/>managed to <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">engraft</add> his mistake
-<lb/><metamark function="placeMark" rend="gray" resp="#U2"/> as a generic term for a nation
+<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> as a generic term for a nation
 <lb/>extending from the <placeName><geogName type="river">Orange
-<lb/>river</geogName></placeName> to <measure>18˚ South Latitude</measure> - <add place="inline">*</add> <add place="marginleft"><metamark function="insertion"/><note>foot note
-    <lb/>* The <term type="tribe">Makololo</term>
+<lb/>river</geogName></placeName> to <measure>18˚ South Latitude</measure> - <metamark function="ed-mark">*</metamark> <add place="marginleft"><metamark function="insertion"/><note>foot note
+    <lb/><metamark function="ed-mark">*</metamark> The <term type="tribe">Makololo</term>
     <lb/>have conquered
     <lb/>the country as
     <lb/>far as <measure>1<subst><del>2</del><add place="over-text">4</add></subst>˚ South</measure>
@@ -457,7 +458,8 @@
 <lb/><subst><del>In</del><add place="over-text">in</add></subst> exactly the same sense
 <lb/>as an <term type="person">Irishman</term> or <term type="person">Scotchman</term>
 <lb/> in the same circumstances
-<lb/>who would reply "We are <term type="people">Britons</term>" or <add place="below">we are <term type="people">Englishmen</term></add><!-- p201, Missionary, sh -->
+<lb/>would reply "We are <term type="people">Britons</term>" or 
+<lb/><space extent="11" unit="chars"/>we are <term type="people">Englishmen</term><!-- p201, Missionary, sh -->
     
     
 <pb facs="liv_000100_0107.jpg" n="0107"/> 
@@ -545,8 +547,8 @@
    
 
 <pb facs="liv_000100_0109.jpg" n="0109"/>     
-<lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">104</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">12</add></del><add place="over-text" hand="#U1" rend="gray right">108</add></subst></fw>
-    <lb/>The <term type="tribe">Matibele</term> of <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">104</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">12</add></del><add place="over-text" hand="#U1" rend="gray right">108</add></subst></fw>
+<lb/><p>The <term type="tribe">Matibele</term> of <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName>
 <lb/>living a short distance <placeName><region>South
 <lb/>of the <placeName><geogName type="river">Zambesi</geogName></placeName></region></placeName>, and other
 <lb/>tribes living a little South
@@ -556,7 +558,7 @@
 <lb/>the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> river - This
 <lb/>was the limit of the <term type="tribe">Bechuana<del type="strikethrough">s</del></term>
 <lb/><add place="marginleft" hand="#U3" rend="red"><subst><del hand="#DL"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> this word?</note></del>
-    <lb/><add place="over-text" hand="#DL">progress</add></subst></add> 
+    <lb/><add place="over-text" hand="#DL" rend="black">progress</add></subst></add> 
 <hi rend="red underline" resp="#U3"><w>North<del type="cancelled">ing</del></w></hi> too, <choice><sic>untill</sic><corr>until</corr></choice> <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>pushed his conquests farther</p>
 <lb/>
@@ -606,7 +608,7 @@ and some <term type="occupation">mountaineers</term>
 <lb/>raise very large quantities
 <lb/>of <term type="foodstuff">grain</term> It is among
 <lb/>them that the more distant
-    <lb/><orgName ref="orgName.xml#org0038"><choice><sic>boers</sic><corr>Boers</corr></choice></orgName> revel in slothful
+    <lb/><orgName ref="orgName.xml#org0038">boers</orgName> revel in slothful
 <lb/>abundance on their industry
 <lb/>and follow <w>the<del type="cancelled">ir</del></w> <orgName>slave</orgName>
 <lb/>hunting and <term type="animal">cattle</term> stealing
@@ -638,10 +640,10 @@ and some <term type="occupation">mountaineers</term>
 <lb/>Africans</orgName>, with the exception
     <lb/>of the <orgName ref="orgName.xml#org0058">Hottentots</orgName> and <orgName ref="orgName.xml#org0041">Bushmen</orgName>
 <lb/>are and always have been
-<lb/><term type="occupation">agriculturalists</term> - <del type="strikethrough" rend="red" hand="#U3">The want</del>
-<lb/><add place="marginleft" rend="red" hand="#U3">It has never been
+<lb/><term type="occupation">agriculturalists</term> - <space extent="1" unit="chars"/><del type="strikethrough" rend="brown" hand="#U3">The want</del>
+<lb/><add place="marginleft" hand="#U3" rend="brown">It has never been
     <lb/>borne in mind</add> 
-<del type="cancelled" rend="red" hand="#U3">of knowledge</del> that in our
+<del type="cancelled" rend="brown" hand="#U3">of knowledge</del> that in our
     <lb/><orgName ref="orgName.xml#org0042">Caffre</orgName> wars we have been
 <lb/>trying to wrest lands from
 <lb/>a people possessing in
@@ -660,7 +662,7 @@ much to be wondered at
 <lb/><del type="strikethrough" hand="#U3" rend="red">here,</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">in <placeName><country>England</country></placeName> where we find</add> <del type="strikethrough" hand="#U3" rend="red">since</del> a gentleman
 <lb/>who had been thirty years
     <lb/>in the <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName> <del type="cancelled">expressed</del>
-<lb/><add place="marginleft"><add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">expressing</add> at a public meeting
+<lb/><add place="marginleft"><add place="below" rend="brown" hand="#U3">^</add> <add place="above" rend="brown" hand="#U3">express<subst><del>ed</del><add place="over-text" rend="red">ing</add></subst></add> at a public meeting
     <lb/>held in <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape town</settlement></placeName></add> 
 <add place="below">^</add> in <date when="1855">1855</date> - <del type="cancelled" rend="red" hand="#U3">expressed</del> a strong
 <lb/>desire that <del type="cancelled" hand="#U3" rend="red">that</del> the
@@ -684,8 +686,8 @@ much to be wondered at
     <lb/><placeName><region ref="region.xml#region0047">Orange Free State</region></placeName> are
 <lb/>almost entirely <choice><sic>dependant</sic><corr>dependent</corr></choice>
 <lb/>on the <term type="tribe"><choice><orig>Basutus</orig><reg>Basutos</reg></choice></term> for the
-<lb/><term type="foodstuff">grain</term> they consume - <add place="inline">*</add> <add place="marginleft"><note>(foot note)
-    <lb/>* see <bibl>two lectures
+<lb/><term type="foodstuff">grain</term> they consume - <metamark function="ed-mark">*</metamark> <add place="marginleft"><note>(foot note)
+    <lb/><metamark function="ed-mark">*</metamark> see <bibl>two lectures
         <lb/>by <persName ref="people.xml#pers0539"><choice><abbr>Rev<hi rend="sup underline">d</hi></abbr><expan>Reverend</expan></choice> <unclear cert="low">E -</unclear>
     <lb/>Solomon</persName></bibl><!-- not able to identify or find this person, sh --><!-- likely to be Edward Solomon, ordained in Cape Town in October 1841, who gave "Two Lectures on the Native Tribes of the interior, delivered before the Mechanics' Institute, Cape Town", in 1855..JL -->
     <lb/>delivered before
@@ -797,11 +799,11 @@ much to be wondered at
 <lb/><del type="cancelled" hand="#U3" rend="red">of</del> more elevated land have
  <lb/>the <term type="plant">camel thorn</term> (<foreign xml:lang="la"><term type="plant"><choice><sic>acaciae giraffae</sic><corr>Acacia giraffae</corr></choice></term></foreign>)
 <lb/><term type="plant"><add place="marginleft">white thorned</add> Mimosa</term> <del type="strikethrough">mimosa</del> (<foreign xml:lang="la"><term type="plant">acacia horrida</term></foreign><supplied cert="high">)</supplied>
-<lb/>and <term type="plant">baobabs</term> - In sandy
+<lb/>and <term type="plant">baobabs</term> - <space extent="1" unit="chars"/>In sandy
 <lb/>spots there are <term type="plant">palmyras</term>
 <lb/>somewhat similar to the
  <lb/><term type="nationality">Indian</term> but with a smaller<!-- 204, Missionary, sh -->
-<lb/>seed - The soil on all
+<lb/>seed - <space extent="1" unit="chars"/>The soil on all
 <lb/>the flat parts <del type="strikethrough">which</del> is a
 <lb/>rich dark tenacious loam
 <lb/>known as the <term type="plant">cotton</term> land
@@ -929,7 +931,7 @@ with their
 <lb/>beginning to move they
 <lb/>increase their speed &amp;
 <lb/>pursue <del type="cancelled">the</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">them</add> with great
-<lb/>velocity - They make
+<lb/>velocity - <space extent="1" unit="chars"/>They make
 <lb/>the water dash away from
 <lb/>the gunwale and though
 <lb/>the <term type="animal">Leché</term> goes off by a
@@ -960,7 +962,7 @@ with their
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">114</add> <add place="inspace" hand="#U1" rend="gray right">118</add></fw>
 <lb/>of them - </p>
 <lb/><p>Its habitat is the marsh
-<lb/>and muddy bogs - The great
+<lb/>and muddy bogs - <space extent="1" unit="chars"/>The great
 <lb/>length of foot between
 <lb/>the point of the toe and
 <lb/>supplemental hoofs enables

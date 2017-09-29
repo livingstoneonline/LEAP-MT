@@ -102,7 +102,7 @@
                 <!-- Start each page with pagebreak -->
                 
         <pb facs="liv_000100_0120.jpg" n="0120"/>
-<lb/><p><fw n="heading_XXI">XXI <add place="inspace" hand="#U2" rend="gray left">115</add> <add place="inspace" hand="#U1" rend="gray right">119</add></fw>
+<lb/><p rend="no-indent"><note place="marginleft">XXI</note> <fw><add place="inspace" hand="#U2" rend="gray left">115</add> <add place="inspace" hand="#U1" rend="gray right">119</add></fw>
 <lb/>The men utter similar salutations
 <lb/>and <persName ref="people.xml#pers0519">Sekeletu</persName> <choice><sic>recieves</sic><corr>receives</corr></choice> all
 <lb/>with becoming indifference
@@ -115,7 +115,7 @@
 <lb/>of large pots of <term type="foodstuff">beer</term> - <subst><del>P</del><add place="over-text">C</add></subst>alabashes
 <lb/><add place="marginleft"><add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">being</add> used as <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-69"/> cups <add place="below">^</add></add> <del type="strikethrough" rend="red" hand="#U3">for</del> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-168"/><seg corresp="#reorder-69">drinking</seg><anchor xml:id="meta-168"/> are <del type="strikethrough" rend="red" hand="#U3">also</del> handed
 <lb/>round and as many as can
-<lb/>partake of the beverage <subst><del>-</del><add place="below">^</add></subst> <subst><add place="above">do so</add><del type="cancelled">They</del></subst>
+<lb/>partake of the beverage <subst><del>-</del><add place="below">^</add></subst> <subst><add place="above">do so</add> <del type="cancelled">They</del></subst>
 <lb/><w>grasp<add place="inline">ing</add></w> <w>the<del type="cancelled">se</del></w> <subst><del type="cancelled">things</del><add place="above">vessels</add></subst> so eagerly
 <lb/><add place="marginleft" rend="red" hand="#U3">that</add> they are in danger of being
 <lb/>broken - </p>
@@ -146,7 +146,7 @@
                             
         <pb facs="liv_000100_0121.jpg" n="0121"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">116</add> <add place="inspace" hand="#U1" rend="gray right">120</add></fw>
-<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> As the <term type="tribe"><choice><sic>Makolo</sic><corr>Makololo</corr></choice></term> have great abundance
+<lb/><p rend="no-indent"><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> As the <term type="tribe"><choice><sic>Makolo</sic><corr>Makololo</corr></choice></term> have great abundance
 <lb/>of <term type="animal">cattle</term> and the <term type="occupation">chief</term> is expected
 <lb/>to feed all who accompany
 <lb/>him he either selects an <term type="animal">ox</term>
@@ -157,7 +157,7 @@
 <lb/>presented by the <term type="occupation">headmen</term>
 <lb/>of the villages he visits with
 <lb/>as many as he needs by
-<lb/>way of tribute - The animals <add place="marginleft"><metamark function="insertion"/>are killed
+<lb/>way of tribute - <space extent="1" unit="chars"/>The animals <add place="marginleft"><metamark function="insertion"/>are killed
     <lb/>by a thrust
     <lb/>from a
     <lb/>small Javelin
@@ -175,7 +175,7 @@
 <lb/><del type="cancelled">all the blood - a small a stab
 <lb/>in the region of the heart being
 <lb/>their usual mode of proceeding
-<lb/>killing <term type="animal">oxen</term> - <w>Th<subst><del>is</del><add place="over-text">e</add></subst></w> blood with</del>
+<lb/>killing <term type="animal">oxen</term> - <space extent="1" unit="chars"/><w>Th<subst><del>is</del><add place="over-text">e</add></subst></w> blood with</del>
 <lb/><metamark function="insertion" rend="red" resp="#U3"/>the internal parts <del type="strikethrough">belong</del> are the
 <lb/><choice><sic>persequisites</sic><corr>perquisites</corr></choice> of the men who
 <lb/>perform the work of the <term type="occupation">butcher</term>
@@ -226,7 +226,7 @@
 <lb/><metamark function="ed-mark" place="marginleft"  rend="red" resp="#U3">X</metamark> attribute the greater <hi rend="red underline" resp="#U3">fecundity</hi> to the
 <lb/>daily use of this beverage - They
 <lb/>were all well acquainted with
-<lb/>><add place="marginleft">the</add> <term type="plant_foodstuff">sugar cane</term> as they cultivate
+<lb/><add place="marginleft">the</add> <term type="plant_foodstuff">sugar cane</term> as they cultivate
 <lb/>it <del type="cancelled">a</del> in the <placeName><region ref="region.xml#region0018"><term type="tribe">Barotse</term> country</region></placeName>
 <lb/>but knew nothing of the
 <lb/>method of extracting the <term type="foodstuff">sugar</term>
@@ -240,18 +240,18 @@
 <lb/><term type="foodstuff">biscuits</term> I then had - said "he knew
 <lb/>my heart loved him by <w>find<add place="inline">ing</add></w> his
 <lb/>own <w>heart<del type="cancelled">ed</del></w> warming to my
-<lb/>food - " He had been visited
+<lb/>food - " <space extent="1" unit="chars"/>He had been visited
     <lb/>during my absence <add place="above">at the <placeName><region ref="region.xml#region0024">Cape</region></placeName></add> by some
     <lb/><term type="occupation">traders</term> and <orgName ref="orgName.xml#org0057">Griquas</orgName> and
 <lb/>"their <term type="foodstuff">coffee</term> did not taste half
 <lb/>so nice as mine - because they
 <lb/>loved his ivory <del type="cancelled">only</del> and not
-<lb/>himself - "<!-- it looks like there is another quotation mark beneath this one.JL --> <del type="strikethrough" rend="red" hand="#U3">It is</del> <add place="marginleft" rend="red" hand="#U3">This was <add place="below">^</add></add> certainly an
+<lb/>himself - "<!-- it looks like there is another quotation mark beneath this one.JL --> <space extent="1" unit="chars"/><del type="strikethrough" rend="red" hand="#U3">It is</del> <add place="marginleft" rend="red" hand="#U3">This was <add place="below">^</add></add> certainly an
 <lb/>original mode of discerning
 <lb/>character</p>
 <lb/><p><persName ref="people.xml#pers0519">Sekeletu</persName> and I had each
 <lb/>a little <choice><sic>gipsey</sic><corr>gypsy</corr></choice> tent in which to
-<lb/>sleep - <w>The<del type="strikethrough">ir</del></w> <add place="above"><term type="tribe">Makololo</term></add> huts are generally
+<lb/>sleep - <space extent="1" unit="chars"/><w>The<del type="strikethrough">ir</del></w> <add place="above"><term type="tribe">Makololo</term></add> huts are generally
 <lb/>clean - <add place="below">^</add> <add place="above">while</add> those of the <term type="tribe">Makalaka</term>
 <lb/><add place="marginleft">are</add> generally infested with <term type="animal">vermin</term>
 <lb/>The cleanliness of the former
@@ -278,7 +278,7 @@
 <lb/>to <w>th<subst><del>ose</del><add place="over-text">at</add></subst></w> in a <term type="animal">dog</term> house as doors
 <lb/>and one has to bend down the
 <lb/>body to get in even when on
-<lb/>all fours - The roof is formed
+<lb/>all fours - <space extent="1" unit="chars"/>The roof is formed
 <lb/>of <term type="plants">reeds</term> or straight sticks in
 <lb/>shape like a <choice><sic>chinaman's</sic><corr>Chinaman's</corr></choice> hat
 <lb/>and bound firmly together with
@@ -291,13 +291,13 @@
 <lb/>between each of which the
 <lb/>third wall is built - <del type="cancelled">As</del> <choice><sic>the</sic><corr>The</corr></choice>
 <lb/>roof is thatched with fine grass
-<lb/>&amp; <w>s<subst><del>o</del><add place="over-text">e</add></subst>w<subst><del>n</del><add place="over-text">e</add></subst>d</w> with the same material
+<lb/>&amp; <w>s<subst><del>o</del><add place="over-text">e</add></subst>w<subst><del>n</del><add place="over-text">ed</add></subst></w> with the same material
 <lb/>as the lashings and as it
 <lb/><w>p<subst><del>o</del><add place="over-text">r</add></subst>ojects</w> far beyond the walls
 <lb/>and reaches within four
 <lb/>feet of the ground the shade
 <lb/>is the best to be found in
-<lb/>the country - <del type="strikethrough" rend="red" hand="#U3">They</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">These huts</add> are very
+<lb/>the country - <space extent="1" unit="chars"/><del type="strikethrough" rend="red" hand="#U3">They</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">These huts</add> are very
 <lb/>cool in the hottest day
 <lb/>but are close and <del type="strikethrough" rend="red" hand="#U3">want</del> <add place="inline" rend="red" hand="#U3">deficient</add>
 <lb/><add place="marginleft" rend="red" hand="#U3">in</add> ventilation by night - </p>
@@ -309,7 +309,8 @@
 <lb/>make a hole in the floor
 <lb/>as we do when sleeping on
 <lb/>grass or sand to <choice><sic>recieve</sic><corr>receive</corr></choice>
-<lb/>the prominent part called <add place="below">Trochanter</add>
+<lb/>the prominent part called 
+<lb/><space extent="15" unit="chars"/>Trochanter
                         
     
         <pb facs="liv_000100_0125.jpg" n="0125"/>
@@ -327,7 +328,7 @@
 <lb/>certainly not less than <measure>600 <choice><abbr>yds</abbr><expan>yards</expan></choice></measure>
 <lb/>It flows somewhat slowly
 <lb/>in the first part of its Eastern
-<lb/>course - When the canoes
+<lb/>course - <space extent="1" unit="chars"/>When the canoes
     <lb/>came from <persName ref="people.xml#pers0521">Sekhosi</persName> to take
 <lb/>us over one of the comrades
 <lb/>of <persName ref="people.xml#pers0515">Sebituane</persName> rose and looking
@@ -406,7 +407,7 @@
 <lb/>parallel to<add place="inline" rend="red" hand="#U3">,</add> and about <measure>eight  
 <lb/>miles</measure> from the river is<!-- p209, Missionary, sh -->
 <lb/>the limit of the inundation
-<lb/>on the North - There are large
+<lb/>on the North - <space extent="1" unit="chars"/>There are large
 <lb/><subst><del>p</del><add place="over-text">t</add></subst>racts of this sandy forest
 <lb/>in that direction till you
 <lb/>come to other large districts
@@ -415,7 +416,7 @@
 <lb/><add place="marginleft" rend="red" hand="#U3">found</add> in the vicinity of rivers
 <lb/>which either now overflow
 <lb/>their banks annually <add place="inline">or</add>
-<lb/>formerly did so - The
+<lb/>formerly did so - <space extent="2" unit="chars"/>The
 <lb/>people enjoy <seg type="weather">rain in sufficient
 <lb/>quantity to raise very
 <lb/>large supplies of <term type="plant_foodstuff">grain</term>
@@ -437,7 +438,7 @@
 <lb/>brownish red colour on the
 <lb/>sides and back - with the
 <lb/>belly &amp; lower part of the tail
-<lb/>white - It is very timid
+<lb/>white - <space extent="2" unit="chars"/>It is very timid
 <lb/>but the maternal affection
 <lb/><add place="marginleft" rend="red" hand="#U3">that</add> the little thing bears to its
 <lb/>young will <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">often induce it</add> <del type="strikethrough" rend="red" hand="#U3">make</del> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-173"/><seg corresp="#reorder-75">even</seg><anchor xml:id="meta-173"/>
@@ -492,7 +493,7 @@
 <lb/>the party during the necessary
 <lb/>delay. Hunting on foot
 <lb/><add place="marginleft">as all</add> <del type="cancelled">whatever</del> those who have
-<lb/><add place="marginleft"><del type="cancelled"><gap extent="1" unit="words"/></del></add> engaged in it in this country
+<lb/><add place="marginleft"><del type="cancelled"><unclear cert="medium">not</unclear></del></add> engaged in it in this country
 <lb/><add place="marginleft">will at once
     <lb/><subst><del type="cancelled" rend="red" hand="#U3">concede</del><add place="below" rend="red" hand="#U3">admit</add></subst></add>
 <add place="below">^</add> <del type="cancelled">may think</del>, is very hard
@@ -538,7 +539,7 @@
     <lb/>me</add>
 speaking   
 <lb/>in reference to its <del type="strikethrough" rend="red" hand="#U3">greater</del>
-<lb/>size and beauty <del type="strikethrough" rend="red" hand="#U3">to <del type="cancelled" hand="#DL"><gap extent="1" unit="chars"/> cows</del></del>
+<lb/>size and beauty <del type="strikethrough" rend="red" hand="#U3">to <del type="cancelled" hand="#DL"><gap extent="1" unit="chars"/></del> cows</del>
     <lb/>said "<persName ref="people.xml#pers0333">Jesus</persName> ought to have
 <lb/>given us these instead 
 <lb/>of <term type="animal">cattle</term> - " It was a new
@@ -582,13 +583,14 @@ speaking
 <lb/>with - Our fleet consisted
 <lb/>of <subst><del>160</del><add place="over-text">33</add></subst> <subst><del>men</del><add place="over-text">canoes</add></subst> and about
 <lb/>160 men - It was beautiful
-<lb/>to see them skimming along <add place="below">^</add> <add place="below">so quickly <del type="cancelled">and</del></add>
+<lb/>to see them skimming along <add place="below">^</add> 
+<lb/><space extent="12" unit="chars"/>so quickly <del type="cancelled">and</del>
 
 
         <pb facs="liv_000100_0132.jpg" n="0132"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">127</add> <add place="inspace" hand="#U1" rend="gray right">131</add></fw>
 <lb/>and keeping the time so well
-<lb/>On land <w>the<del type="cancelled">y</del></w> <add place="below">^</add>v<add place="above"><term type="tribe">Makalaka</term></add> fear the <term type="tribe">Makololo</term>
+<lb/>On land <w>the<del type="cancelled">y</del></w> <add place="below">^</add> <add place="above"><term type="tribe">Makalaka</term></add> fear the <term type="tribe">Makololo</term>
 <lb/>On water the <term type="tribe">Makololo</term> fear them
 <lb/>and cannot prevent them
 <lb/>from racing <subst><del>and</del><add place="over-text">with</add></subst> each other
@@ -601,7 +603,7 @@ speaking
 <lb/>would sink <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">like</add> <del type="strikethrough" rend="red" hand="#U3">as</del> <subst><del>a</del><add place="over-text">s</add></subst>tones -
 <lb/>A case of this kind happened
 <lb/>on the first day of our voyage
-<lb/>up - The <seg type="weather">wind blowing generally
+<lb/>up - <space extent="1" unit="chars"/>The <seg type="weather">wind blowing generally
 <lb/>from the East raises very
 <lb/>large waves on the <placeName><geogName type="river">Leeambye</geogName></placeName></seg>
 <lb/>An old <term type="occupation">doctor</term> of the <term type="tribe">Makololo</term><!-- p212. Missionary, sh -->
@@ -637,7 +639,7 @@ speaking
 <lb/>trees on the bank of the water
 <lb/>send down roots from their
 <lb/>branches like the <term type="plant">Banian</term> or
-<lb/><foreign xml:lang="la"><term type="plant">Ficus Indica</term></foreign> The islands at a
+<lb/><foreign xml:lang="la"><term type="plant">Ficus Indica</term></foreign> <space extent="1" unit="chars"/>The islands at a
 <lb/>little distance seem great rounded
 <lb/>masses of sylvan vegetation
 <lb/>reclining on the bosom of
@@ -674,7 +676,7 @@ speaking
 <lb/>this poor and very industrious
 <lb/>people are situated on both
 <lb/>banks of the river - They are
-<lb/>expert hunters of the <hi rend="gray underline" resp="#U2"><term type="animal">hippo<add place="below" rend="gray" hand="#U2">^</add><add place="above" rend="gray" hand="#U2">po</add>tami</term></hi>
+<lb/>expert hunters of the <hi rend="gray underline" resp="#U2"><term type="animal">hippo<add place="below" rend="brown" hand="#U3">^</add><add place="above" rend="brown" hand="#U3">po</add>tami</term></hi>
 <lb/>and other animals and very
 <lb/>proficient in the <choice><orig>manufactury</orig><reg>manufacture</reg></choice>
 <lb/>of articles of wood &amp; iron
@@ -695,7 +697,7 @@ speaking
 <lb/>given <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">to</add> the legs of <w>the<subst><del>ir</del><add place="over-text">se</add></subst></w> pieces
 <lb/>of furniture - </p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> Other <term type="tribe">Banyeti</term> or <term type="tribe">Manyeti</term>
-<lb/>as they are called make
+<lb/><w>a<subst><del>re</del><add place="over-text">s</add></subst></w> they are called make
 <lb/>neat and strong baskets of
 <lb/>the split roots of a certain
 <lb/>tree while others excel in    
@@ -750,7 +752,7 @@ speaking
 <choice><sic>The</sic><corr>the</corr></choice> fall <del type="strikethrough" rend="red" hand="#U3">seen when
 <lb/>at low water</del> at each
 <lb/>of these is between <measure>four and
-<lb/>six feet</measure> - But the falls of
+<lb/>six feet</measure> - <subst><del>And</del><add place="over-text">But</add></subst> the falls of
 <lb/><placeName><geogName type="cataracts">Go<subst><del>y</del><add place="over-text">n</add></subst>ye</geogName></placeName> present a much more
 <lb/>serious obstacle - There we
 <lb/>were obliged to take the canoes
@@ -761,12 +763,12 @@ speaking
 <lb/>water which comes over
 <lb/><w>th<subst><del>is</del><add place="over-text">e</add></subst></w> ledge of rock <del type="strikethrough">is</del> when the
 <lb/>river is low is collected
-<lb/>into a space <measure>70 or 80 <choice><abbr>yds</abbr><expan>yards</expan></choice> wide</measure>
+<lb/>into a space <measure>70 or 80 <subst><del><unclear cert="medium">fee</unclear></del><add place="over-text"><choice><abbr>yds</abbr><expan>yards</expan></choice></add></subst> wide</measure>
 <lb/>before it takes the leap - And
 <lb/>a mass of rock being thrust
 <lb/>forward against the roaring
 <lb/>torrent a loud sound is
-<lb/>produced - Tradition reports
+<lb/>produced - <space extent="1" unit="chars"/>Tradition reports
 <lb/><metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-174"/><seg corresp="#reorder-76">in this place</seg><anchor xml:id="meta-174"/> the destruction
 <lb/><metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-76"/> of two <term type="occupation"><term type="animal">hippopotamus</term> hunters</term>
 <lb/>who too eager in the pursuit
@@ -778,11 +780,11 @@ speaking
 <lb/>man evidently of superior
 <lb/>mind who left <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-175"/><seg corresp="#reorder-77">the <term type="tribe">Barotse</term></seg><anchor xml:id="meta-175"/>
 <lb/>his own countrymen <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-77"/> and
-<lb/>came down the river, took
+<lb/>came down the river, took</p>
    
                                 
         <pb facs="liv_000100_0137.jpg" n="0137"/>
-<lb/><fw><add place="inspace" hand="#U2" rend="gray left">132</add></fw> <add place="inspace" hand="#U1" rend="gray right">136</add>
+<lb/><p rend="no-indent"><fw><add place="inspace" hand="#U2" rend="gray left">132</add></fw> <add place="inspace" hand="#U1" rend="gray right">136</add>
 <lb/>advantage of the falls and led
 <lb/>out a portion of water
 <lb/>there for irrigation - Such minds
@@ -797,7 +799,7 @@ speaking
 <lb/>garden but one never expects
 <lb/>to find a grave nor a stone
 <lb/>of remembrance set up in
-<lb/><del type="cancelled">South</del> <placeName><bloc>Africa</bloc></placeName> The very<!-- p214, Missionery, sh -->
+<lb/><del type="cancelled">South</del> <placeName><bloc>Africa</bloc></placeName> <space extent="1" unit="chars"/>The very<!-- p214, Missionery, sh -->
 <lb/>rocks are illiterate - they
 <lb/>contain so few fossils
 <lb/>Those here are of hardened
@@ -847,7 +849,7 @@ speaking
 <lb/>stretching away to the <choice><abbr>N- N- E-</abbr><expan>North North East</expan></choice>
 <lb/>and <choice><abbr>N- N- W-</abbr><expan>North North West</expan></choice> <choice><sic>untill</sic><corr>until</corr></choice> they
 <lb/>were <measure><measure>twenty or thirty miles
-<lb/>apart</measure> - The intervening
+<lb/>apart</measure> - <space extent="1" unit="chars"/>The intervening
 <lb/>space nearly <measure>one hundred
 <lb/>miles in length</measure></measure> <add place="marginleft"><metamark function="insertion"/>with the
     <lb/><placeName><geogName type="river">Leeambye</geogName></placeName>
@@ -886,7 +888,7 @@ is the true
 <lb/>also occur but more <add place="below">^</add> <add place="above">comes</add> from
 <lb/>the North and North East
 <lb/>along the bed of the <placeName><geogName type="river">Leambye</geogName></placeName>
-<lb/>itself - <metamark function="let-stand" spanTo="#meta-177"/><del type="cancelled">There are but few<!-- p215 Missionary, sh -->
+<lb/>itself - <space extent="1" unit="chars"/><metamark function="let-stand" spanTo="#meta-177"/><del type="cancelled">There are but few<!-- p215 Missionary, sh -->
 <lb/>trees <del type="cancelled" rend="red" hand="#U3">in this</del></del><anchor xml:id="meta-177"/> in this valley
 <lb/>those which stand on the
 <lb/>mounds were nearly all
@@ -937,7 +939,7 @@ is the true
 <lb/>off though the <term type="tribe">Makololo</term>
 <lb/>possess very large herds of
 <lb/><term type="animal">cattle</term> - <metamark function="newParagraph" rend="red" resp="#U3">⎡</metamark>There are no large
-<lb/>towns - The mounds on which
+<lb/>towns - <space extent="1" unit="chars"/>The mounds on which
 <lb/>the towns and villages are
     
                                 
@@ -978,7 +980,7 @@ is the true
 <lb/>ivory and children and had<!-- p216 Missionary, sh -->
 <lb/><choice><sic>recieved</sic><corr>received</corr></choice> in return a large
 <lb/>blunderbuss to be mounted as a 
-<lb/><space extent="15" unit="chars"/>cannon
+<lb/><space extent="16" unit="chars"/>cannon
     
 
     <pb facs="liv_000100_0142.jpg" n="0142"/>
@@ -989,7 +991,7 @@ is the true
 <lb/>deranged the whole conspiracy
 <lb/>the <term type="tribe">Mambari</term> in their stockade
 <lb/>were placed in very <choice><sic>ackward</sic><corr>awkward</corr></choice>
-<lb/>circumstances - It was
+<lb/>circumstances - <space extent="2" unit="chars"/>It was
 <lb/>proposed to attack them and
 <lb/>drive them out of the country
 <lb/>at once but dreading a
@@ -1019,7 +1021,7 @@ As the chief
 <lb/>mound which was <w>con-
     <lb break="no"/>structed</w> artificially - by <persName ref="people.xml#pers0441">Santuru</persName>
 <lb/>and was his store house
-<lb/>for <term type="plant_foodstuff">grain</term> - His own capital
+<lb/>for <term type="plant_foodstuff">grain</term> - <space extent="1" unit="chars"/>His own capital
 <lb/>stood about <measure>500 yards</measure> to
 <lb/>the south of that in what
                         
@@ -1029,7 +1031,7 @@ As the chief
 <lb/><add place="marginleft">is now</add> the bed of the river - All that
 <lb/>remains of the largest
 <lb/>mound in the valley <del type="strikethrough" rend="red" hand="#U3">is</del> <add place="inline" rend="red" hand="#U3">are</add>
-<lb/><measure>a few <del type="cancelled"><unclear cert="medium">so</unclear></del> cubic yards</measure> of
+<lb/><measure>a few <del type="cancelled"><unclear cert="medium">sq</unclear></del> cubic yards</measure> of
 <lb/>earth - to erect <del type="strikethrough" rend="red" hand="#U3">which</del>
 <lb/>it cost the whole of the
     <lb/>people of <persName ref="people.xml#pers0441">Santuru</persName> the labour
@@ -1039,20 +1041,20 @@ As the chief
 <lb/>also on the left bank<add place="inline" rend="red" hand="#U3">.</add>
 <lb/><add place="marginleft" rend="red" hand="#U3">It would seem that</add> <choice><sic>The</sic><corr>the</corr></choice> river in this part of the
 <lb/>valley <subst><del type="strikethrough" rend="red" hand="#U3">seems to be</del><add place="above" rend="red" hand="#U3">must be</add></subst> wearing
-<lb/>Eastwards - No great rise
+<lb/>Eastwards - <space extent="1" unit="chars"/>No great rise
 <lb/>of the river is required
 <lb/>to submerge the whole valley
 <lb/><add place="marginleft" rend="red" hand="#U3">A rise of</add> <measure><choice><sic>Ten</sic><corr>ten</corr></choice> feet</measure> above the present
 <lb/>low water mark would
-<lb/>reach <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" rend="red" hand="#U3"><add place="below">^</add>the highest point
+<lb/>reach <add place="below" rend="red" hand="#U3">^</add> <del type="strikethrough" rend="red" hand="#U3">its greatest height</del> <add place="marginleft" rend="red" hand="#U3"><metamark function="insertion" rend="red" resp="#U3"/> <add place="below">^</add> the highest point
     <lb/>of the valley</add>
-<del type="strikethrough" rend="red" hand="#U3">its greatest height</del> <metamark place="marginleft" function="insertion" rend="red" resp="#U3"/> as   
+as   
 <lb/>seen in the markings of
 <lb/>the bank <subst><del>of</del><add place="over-text">in</add></subst> in which stood
     <lb/><choice><sic><persName ref="people.xml#pers0441">Santuru</persName>s</sic><corr><persName ref="people.xml#pers0441">Santuru</persName>'s</corr></choice> ancient capital
 <lb/>and <measure>two or three feet</measure> more
 <lb/>would deluge all the villages
-<lb/><del type="strikethrough" rend="red" hand="#U3">in the valley</del> - This never
+<lb/><del type="strikethrough" rend="red" hand="#U3">in the valley</del> - <space extent="1" unit="chars"/>This never
 <lb/>happens though <del type="strikethrough" rend="red" hand="#U3">it</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">the water sometimes</add> comes
 <lb/>so near the foundations
 <lb/>of the huts <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">that</add> the people cannot

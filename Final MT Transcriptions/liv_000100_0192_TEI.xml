@@ -3,105 +3,105 @@
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000100">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
-<author>David Livingstone</author>
-<principal>Justin Livingstone</principal>
-<respStmt xml:id="JL">
-<name>Justin Livingstone</name>
-<resp>Transcription and Encoding</resp>
-<resp>Editorial Decisions</resp>
-</respStmt>
-<respStmt xml:id="AW">
-<name>Adrian S. Wisnicki</name>
-<resp>Encoding Consultant</resp>
-</respStmt>
-<respStmt xml:id="KS">
-<name>Kate Simpson</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-<respStmt xml:id="JG">
-<name>Johanna Green</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-<respStmt xml:id="PS">
-<name>Peter Slater</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-<respStmt xml:id="SH">
-<name>Stephen Hall</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<authority>Livingstone Online</authority>
-<publisher>UCLA Digital Library</publisher>
-<pubPlace>Los Angeles, CA, USA</pubPlace>
-<!-- Possible year update. -->
-<date>2014</date>
-<availability>
-<!-- Possible license change. -->
-<licence target="https://creativecommons.org/licenses/by-nc/3.0/">
-All materials are licensed for use under the 
-<ref target="https://creativecommons.org/licenses/by-nc/3.0/">
-Creative Commons Attribution-Noncommercial 3.0 Unported License
-</ref>. 
-(c) Dr. Neil Imray Livingstone Wilson, 2014
-</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc>
-<msIdentifier>
-<country>United Kingdom</country>
-<settlement>Edinburgh</settlement>
-<repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
-<idno type="shelfmark">MS.42429</idno><!-- This may change with each volume of the MS. -->
-<altIdentifier>
-<idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
-</altIdentifier>
-</msIdentifier>
-<physDesc>
-<handDesc>
-<handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
-<handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
-<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
-</handDesc>
-</physDesc>
-</msDesc>
-
-<bibl type="sourceMetadata">
-<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
-<author xml:id="DL">David Livingstone</author>
-<date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
-</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-    <language ident="en">English</language>
-    <language ident="tn">Tswana</language>  
-    <language ident="und">Unknown</language>
-    <language ident="la">Latin</language>
-</langUsage>
-</profileDesc>
-<revisionDesc>
-<!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
-    <change when="2016-08-10" who="#JL">Proofing and encoding Review</change>
-    <change when="2016-03-18" who="#SH">Proofreading</change>
-    <change when="2016-01-28" who="#KS">Initial transcription and XML encoding</change>
-
-</revisionDesc>
-</teiHeader>
-
-<text>
-<body rend="right">
-<div>
-
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+                <author>David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <respStmt xml:id="JL">
+                    <name>Justin Livingstone</name>
+                    <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+                </respStmt>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Encoding Consultant</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="JG">
+                    <name>Johanna Green</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="PS">
+                    <name>Peter Slater</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="SH">
+                    <name>Stephen Hall</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>UCLA Digital Library</publisher>
+                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <!-- Possible year update. -->
+                <date>2014</date>
+                <availability>
+                    <!-- Possible license change. -->
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License
+                        </ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS.42429</idno><!-- This may change with each volume of the MS. -->
+                        <altIdentifier>
+                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                            <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+                
+                <bibl type="sourceMetadata">
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="tn">Tswana</language>  
+                <language ident="und">Unknown</language>
+                <language ident="la">Latin</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+            <change when="2016-08-10" who="#JL">Proofing and encoding Review</change>
+            <change when="2016-03-18" who="#SH">Proofreading</change>
+            <change when="2016-01-28" who="#KS">Initial transcription and XML encoding</change>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body rend="right">
+            <div>
+                
     <pb facs="liv_000100_0192.jpg" n="0192"/>
-<lb/><p><fw n="heading_XXIV">XXIV <gap extent="35" unit="chars" agent="hole"/></fw><!-- the rest of the header of this page of the manuscript has been cut out, ks -->
+<lb/><p><note place="marginleft">XXIV</note> <gap extent="35" unit="chars" agent="hole"/><!-- the rest of the header of this page of the manuscript has been cut out, ks -->
 <lb/>The <term type="foodstuff">nuts</term> swallowed inadvertently
 <lb/>cause considerable pain but
 <lb/>not death - And to avoid <del type="cancelled">even</del> <add place="above" rend="gray" hand="#U1"><note>191</note></add>
@@ -135,15 +135,15 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>that of a <term type="plant_foodstuff">date</term> - The fleshy
 <lb/>part is juicy and somewhat
 <lb/><del type="cancelled"><gap extent="2" unit="chars"/></del> like the <del type="cancelled">Cashe</del> <term type="plant_foodstuff">Cashew
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note>163 <gap extent="3" unit="chars" agent="illegible"/> K <metamark function="unknown" place="above"/></note></add> apple</term> with a pleasant acidity 
+<lb/><add place="marginleft" hand="#U2" rend="gray"><note>163 <gap extent="3" unit="chars" agent="illegible"/> K</note></add> <metamark function="ed-mark" place="above" rend="gray" resp="#U2">-----</metamark>apple</term> with a pleasant acidity 
 
 <pb facs="liv_000100_0193.jpg" n="0193"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">19<subst><del>1</del><add place="over-text">2</add></subst></add></fw>
-<lb/>added - These <term type="foodstuff">fruits</term> which
+<lb/>added - <space extent="1" unit="chars"/>These <term type="foodstuff">fruits</term> which
 <lb/>are here found on trees are
 <lb/>met with on the plains of
 <lb/>the <placeName><geogName type="desert">Kalahari</geogName></placeName> growing on
-<lb/>mere <add place="below">˄</add> <add place="above">herbaceous</add> plants - There are
+<lb/>mere <add place="below">˄</add> <add place="above">herbaceous</add> plants - <space extent="2" unit="chars"/>There are
 <lb/>several other cases of a 
 <lb/>similar nature - Shrubs well
 <lb/>known as such in
@@ -205,18 +205,18 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>They leap into the water without
 <lb/>the least hesitation to save
 <lb/>the canoe from being caught
-<lb/>by rocks - Many parts were
+<lb/>by rocks - <space extent="1" unit="chars"/>Many parts were
 <lb/>now quite shallow and it required
 <lb/>great address and power
 <lb/>in balancing themselves to
 <lb/>keep the vessel free from
 <lb/>stones <add place="marginleft"><metamark function="insertion"/>which lay</add> just beneath the
-<lb/>surface - We might have
+<lb/>surface - <space extent="1" unit="chars"/>We might have
 <lb/>got deeper water in the middle
 <lb/>but the <term type="occupation">boatmen</term> always
 <lb/>keep near the banks on
 <lb/>account of danger from
-<lb/>the <term type="animal">hippopotami</term> - But though 
+<lb/>the <term type="animal">hippopotami</term> - <space extent="1" unit="chars"/>But though 
 <lb/>we might have had deeper
 <lb/>water further out I believe
 <lb/>that no part of the rapids
@@ -229,12 +229,12 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>27</note></add> <subst><del>is</del><add place="over-text">Th</add></subst>ose spots only <measure>300 yards
 <lb/>wide</measure> though very deep
 <lb/><del type="cancelled"><unclear cert="medium">cannot</unclear></del> contain <del type="cancelled">an</del> large
-<lb/><add place="marginleft">volumes</add> <add place="below">^</add> <del type="cancelled">amount</del> of flowing water
+<lb/><add place="marginleft">volumes</add> <add place="below">^</add> <del type="cancelled"><choice><sic>ammount</sic><corr>amount</corr></choice></del> of flowing water
 <lb/><add place="marginleft">in narrow compass, but</add> <add place="below">^</add> <del type="cancelled">which</del>  when spread over
 <lb/>the much larger <del type="cancelled">spaces</del>
 <lb/><add place="marginleft">surfaces at the
     <lb/>rapids</add> 
-<add place="below">^</add> must be shallow - Still
+<add place="below">^</add> must be shallow - <space extent="1" unit="chars"/>Still
 <lb/>remembering that this was
 
 
@@ -308,7 +308,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>some cases so much of a
 <lb/><choice><sic>metalic</sic><corr>metallic</corr></choice> ring that this bird
 <lb/>is called "<foreign xml:lang="und"><term type="animal">setulatsipi</term></foreign>" or
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>29</note></add> hammering iron - It is this bird
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>29</note></add> hammering iron - <space extent="1" unit="chars"/>It is this bird
 <lb/>which is famed for his 
 <lb/>friendship for the <term type="animal"><choice><orig>crockodile</orig><reg>crocodile</reg></choice></term>
     <lb/>of the <placeName><geogName type="river">Nile</geogName></placeName> and which <persName ref="people.xml#pers0543">M<hi rend="sup">r</hi> 
@@ -328,7 +328,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <lb/>both by <persName ref="people.xml#pers0543">St John</persName> &amp; <persName ref="people.xml#pers0307">Geofrey St-
         <lb/>Hilaire</persName> &amp; <persName ref="people.xml#pers0318">Herodotus</persName> - But that
 <lb/>which neither of these authors knew 
-<lb/><add place="marginleft">my</add> <term type="occupation"><choice><orig><add place="marginleft">head</add> <subst><del>was</del><add place="over-text">boatman</add></subst></orig><reg>head boatman</reg></choice></term> <persName ref="people.xml#pers0393">Mashauana</persName> stopped the
+<lb/><add place="marginleft"><subst><del>M</del><add place="over-text">m</add></subst>y</add> <term type="occupation"><choice><orig><add place="marginleft">head</add> <subst><del>was</del><add place="over-text">boatman</add></subst></orig><reg>head boatman</reg></choice></term> <persName ref="people.xml#pers0393">Mashauana</persName> stopped the
 <lb/><add place="marginleft">canoe to</add> tell us <choice><abbr>viz</abbr><expan>videlicet</expan></choice> - that a <term type="animal">water turtle</term> which
 <lb/><add place="marginleft">we found had</add> in trying to ascend a steep bank <add place="marginleft"><metamark function="insertion"/>to lay her eggs
     <lb/>has toppled
@@ -370,17 +370,17 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/><space dim="vertical" extent="2" unit="lines"/>
 <lb/><p><term type="animal">Francolins</term> and <term type="animal">guinea
 <lb/>fowl</term> abound along the banks
-<lb/>and on every dead tree and
+<lb/>and <subst><del>are</del><add place="over-text">on</add></subst> every dead tree and
 <lb/>piece of rock may be seen
 <lb/><add place="marginleft">two species</add> <del type="cancelled">the</del> of <add place="below">^</add> <add place="above">the</add> web footed <term type="animal">cormorant</term><del type="strikethrough">s</del>
-<lb/><del>of</del><add place="over-text">They</add> sit most of the day sunning
+<lb/><subst><del>of</del><add place="over-text">They</add></subst> sit most of the day sunning
 <lb/>themselves over the stream <add place="marginleft"><metamark function="insertion"/>sometimes
     <lb/>standing erect
     <lb/>with their
     <lb/>wings stretched</add> 
 <lb/>occasionally they may be
 <lb/>seen engaged in fishing by
-<lb/>diving - and as they swim
+<lb/>diving - <space extent="1" unit="chars"/>and as they swim
 <lb/>about nothing appears above
 <lb/>the surface but their necks
 <lb/>but their chief time of feeding
@@ -421,11 +421,11 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>which have fallen victims 
 <lb/>to his talons - One most frequently
 <lb/>seen in this condition is <subst><del>a</del><add place="over-text">i</add></subst>tself
-<lb/>a destroyer of fish - It is
+<lb/>a destroyer of fish - <space extent="1" unit="chars"/>It is
 <lb/><add place="marginleft">stout bodied</add> <del type="strikethrough">a thick</del> fish about <add place="below">˄</add> <add place="above">15 or</add> 18 inches
 <lb/>long - of a light yellow colour
 <lb/>and gaily ornamented with
-<lb/>stripes and spots - It has a
+<lb/>stripes and spots - <space extent="1" unit="chars"/>It has a
 <lb/>most imposing array of
 <lb/>sharp conical teeth outside
 <lb/>the lips - <del type="strikethrough">an</del> objects of dread
@@ -444,7 +444,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>kills more prey than it can devour
 <lb/>It eats a portion of the back
 <lb/>&amp; <choice><sic>leave</sic><corr>leaves</corr></choice> the rest for the <term type="tribe">Barotse</term> 
-<lb/>who often ha<subst><del>ve</del><add place="over-text">d</add></subst> a race across
+<lb/>who often ha<subst><del>ve</del><add place="over-text">d</add></subst> a race <w>ac<subst><del>cr</del><add place="over-text">r</add></subst>oss</w>
 <lb/>the river when they saw
 <lb/>one lying on the opposite
 <lb/>sand banks - The <term type="animal">hawk</term> is
@@ -477,11 +477,11 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <!-- here -->
     <pb facs="liv_000100_0201.jpg" n="0201"/>
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">200</add></fw> 
-    <lb/><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><subst><del type="cancelled"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="above"><persName ref="people.xml#pers0400">Mead</persName></add></subst></hi></add> A fish called <foreign xml:lang="und"><term type="animal">Moshéba</term></foreign> about the
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><subst><del type="cancelled"><persName ref="people.xml#pers0290"><unclear cert="medium">Dennett</unclear></persName></del><add place="above"><persName ref="people.xml#pers0400">Mead</persName></add></subst> <metamark function="placeMark"/></note></add> A fish called <foreign xml:lang="und"><term type="animal">Moshéba</term></foreign> about the
 <lb/>size of a <term type="animal">minnow</term> often skims
 <lb/>along the surface for several 
 <lb/>yards in order to get <del type="cancelled">rid</del> out
-<lb/>of the way of the canoe <space extent="2" unit="chars"/>It
+<lb/>of the way of the canoe <space extent="1" unit="chars"/>It
 <lb/>uses the pectoral fins as
 <lb/>the flying fish do but never
 <lb/>makes a clean flight - It is
@@ -501,7 +501,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>the stem has in consequence
 <lb/>a light javelin always at hand
 <lb/>to spear them if they are not
-<lb/>quickly out of sight - These
+<lb/>quickly out of sight - <space extent="1" unit="chars"/>These
 <lb/>and large <term type="animal">alligators</term> glide
 <lb/>in from banks with a 
 <lb/>heavy plunge as we come
@@ -517,7 +517,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
     <lb/>river between <placeName><settlement type="town" ref="settlement.xml#sett0062"><choice><orig>Katima molelo</orig><reg>Katima Mulilo</reg></choice></settlement></placeName> &amp;
     <lb/><placeName><settlement type="village" ref="settlement.xml#sett0081">Nameta</settlement></placeName> are relieved by <add place="below">^</add><add place="above">several</add> reaches
 <lb/>of still deep water of <measure>15 or
-<lb/>20 miles</measure> long - In these
+<lb/>20 miles</measure> long - <space extent="1" unit="chars"/>In these
 <lb/>very large herds of <term type="animal">hippopotami</term>
 <lb/>are seen - and the deep
 <lb/>furrows they make in
@@ -544,7 +544,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>35</note></add> is a constant succession
 <lb/>of heads thrust up then
 <lb/>the herd is supposed to be
-<lb/>large - They love a still
+<lb/>large - <space extent="1" unit="chars"/>They love a still
 <lb/>part of the stream as
 <lb/>the more rapid parts require
 
@@ -555,15 +555,15 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>to be frequently regained by
 <lb/>swimming up again and
 <lb/>a more disturbed nap is the
-<lb/>consequence - They love
+<lb/>consequence - <space extent="1" unit="chars"/>They love
 <lb/>to remain by day in a
 <lb/>drowsy <del type="cancelled">state</del> yawning state
-<lb/>and - though their eyes
+<lb/>and - though <w>the<subst><del>y</del><add place="over-text">ir</add></subst></w> eyes
 <lb/>are open they take little 
 <lb/>notice of things at a distance
 <lb/>The males utter a loud succession
 <lb/>of grunts which may be
-<lb/>heard a mile off - The canoe
+<lb/>heard a mile off - <space extent="2" unit="chars"/>The canoe
 <lb/>in which I was <del type="cancelled">utte</del> in passing
 <lb/>over a wounded one elicited
 <lb/>a distinct grunt though
@@ -598,7 +598,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>by footprints on the banks</p>
 <lb/><space dim="vertical" extent="3" unit="lines"/>
 <lb/><p><note place="inline"><date when="1853-11-30">30<hi rend="sup underline">th</hi> November 1853</date> - At <placeName><geogName type="waterfall">Gonye
-<lb/>falls</geogName></placeName></note><!-- beginning of MT Ch XIV, p.243.JL --> - <seg type="weather">No rain has fallen 
+<lb/>falls</geogName></placeName></note><!-- beginning of MT Ch XIV, p.243.JL --> - <space extent="1" unit="chars"/><seg type="weather">No rain has fallen 
 <lb/>here so it is excessively hot</seg>
 <lb/>The trees have put on their
 <lb/>gayest dress - and many
@@ -611,7 +611,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>front as it has done within
 <lb/>the last <measure>four degrees of
 <lb/>Latitude</measure> it will be indeed
-    <lb/><add place="marginleft" rend="gray" hand="#U2"><persName ref="people.xml#pers0400">Mead</persName></add> a lovely land</p>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0400">Mead</persName></note></add> a lovely land</p>
 <lb/><p>We all felt great
 <lb/>lassitude in travelling - <seg type="weather">The 
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>167</note></add><!-- the number is enclosed in a circle, sh --> <w>atmo<metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>sphere</w><!-- square bracket corresponds to the circled number.JL --> is oppressive both
@@ -629,7 +629,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>for I drink enormous
 <lb/>quantities of water to supply
 <lb/>its place - </p>
-    <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0482">Powell</persName></hi></note></add> <del>our</del><add place="over-text">When</add> under <choice><orig>weigh</orig><reg>way</reg></choice> our
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0482">Powell</persName> <metamark function="placeMark"/></note></add> <del>Our</del><add place="over-text">When</add> under <choice><orig>weigh</orig><reg>way</reg></choice> our
 <lb/>usual procedure is thus
 <lb/>We get up a little before five in
 <lb/>the morning - It is then beginning
@@ -638,14 +638,14 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>filled my pannikin <subst><del>my</del><add place="over-text">I <choice><sic>had</sic><corr>hand</corr></choice></add></subst>
 <lb/>the remainder to my companions
 <lb/>who eagerly partake of the 
-<lb/>refreshing beverage - The
+<lb/>refreshing beverage - <space extent="1" unit="chars"/>The
 <lb/><term type="occupation">servants</term> are busy loading 
 <lb/>the canoes while the principal
 <lb/>men are sipping the <term type="foodstuff">coffee</term>
 <lb/>and that being soon over we
-<lb/>step into canoes The next two
+<lb/>step into canoes <space extent="1" unit="chars"/>The next two
 <lb/>hours are the most pleasant
-<lb/>part of the <choice><sic>days</sic><corr>day's</corr></choice> sail - The
+<lb/>part of the <choice><sic>days</sic><corr>day's</corr></choice> sail - <space extent="1" unit="chars"/>The
 <lb/>men paddle away most 
 <lb/>vigorously and the <term type="tribe">Barotse</term>
 <lb/>from being a tribe of <term type="occupation">boatmen</term>
@@ -692,7 +692,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>unless we have been fortunate 
 <lb/>enough to kill something
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>39</note></add> when we boil a potful of
-<lb/><term type="foodstuff">flesh</term> - This is done by cutting
+<lb/><term type="foodstuff">flesh</term> - <space extent="1" unit="chars"/>This is done by cutting
 <lb/>it up into long strips and
 <lb/>pouring in water till it is
 <lb/>covered - When that is boiled
@@ -709,7 +709,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/><w>The<supplied cert="high">y</supplied></w> place these on their shoulders
 <lb/>and setting about the work
 <lb/>with good humour soon
-<lb/>accomplish the task  - They
+<lb/>accomplish the task - <space extent="1" unit="chars"/>They
 <lb/>are a merry set of mortals
 <lb/>a feeble joke sets them easily
 <lb/>off into a fit of laughter - Here
@@ -726,7 +726,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>below the river is confined
 <lb/>when low in a narrow space
 <lb/>of not more than <measure>100 yards
-<lb/><choice><orig><subst><del>br</del><add place="over-text">w</add></subst>ide</orig><reg>wide</reg></choice></measure> - The water goes boiling
+<lb/><choice><orig><subst><del>br</del><add place="over-text">w</add></subst>ide</orig><reg>wide</reg></choice></measure> - <space extent="1" unit="chars"/>The water goes boiling
 <lb/>along and gives the idea of 
 <lb/>great masses of it rolling
 <lb/>over and over so that even
@@ -755,7 +755,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>a foray to the North and
 <lb/>up the <placeName><geogName type="river">Leeba</geogName></placeName> in the very
 <lb/>direction we were about
-    <lb/>to proceed - <persName ref="people.xml#pers0432">Mpololo</persName> the uncle
+    <lb/>to proceed - <space extent="1" unit="chars"/><persName ref="people.xml#pers0432">Mpololo</persName> the uncle
 <lb/>of <persName ref="people.xml#pers0519">Sekeletu</persName> is considered the 
 <lb/><term type="occupation">headman</term> of the <placeName><geogName type="valley">Barotse
 <lb/>valley</geogName></placeName> - and the perpetrators
@@ -774,7 +774,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>subjects prisoners and 
 <lb/>destroyed several villages
 <lb/>of the <term type="tribe">Balonda</term> to whom we
-<lb/>were going - This was
+<lb/>were going - <space extent="2" unit="chars"/>This was
 
 
     <pb facs="liv_000100_0209" n="0209"/>                           
@@ -792,14 +792,14 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>of beads <subst><del><unclear cert="medium">as</unclear></del><add place="over-text">in</add></subst> confirmation
 <lb/>of the message of peace we
 <lb/>were to deliver</p>
-    <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></hi></note></add> When we reached <placeName><settlement type="town" ref="settlement.xml#sett0072">Litofe</settlement></placeName>
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></note> <metamark function="placeMark"/></add> When we reached <placeName><settlement type="town" ref="settlement.xml#sett0072">Litofe</settlement></placeName>
 <lb/>we <del type="cancelled">s</del>heard that a fresh foray
 <lb/>was in contemplation
 <lb/>but I sent forward orders
 <lb/>to disband it immediately
-        <lb/>At <persName ref="people.xml#pers0408">Masekeletu</persName>'s town we
+<lb/>At <persName ref="people.xml#pers0408">Masekeletu</persName>'s town we
 <lb/>reached the head offender
-        <lb/><persName ref="people.xml#pers0432">Mpololo</persName> himself and gave
+<lb/><persName ref="people.xml#pers0432">Mpololo</persName> himself and gave
 <lb/>him a bit of my mind to
 <lb/>the effect that as I was
 <lb/>going with the full sanction
@@ -807,7 +807,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>happened to me in consequence
 <lb/>of his ill advised expedition
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>42</note></add> the guilt would rest with
-        <lb/>him - <persName ref="people.xml#pers0408">MaSekeletu</persName> who was
+<lb/>him - <space extent="1" unit="chars"/><persName ref="people.xml#pers0408">MaSekeletu</persName> who was
 <lb/>present heartily approved all
 <lb/>I said and farther suggested
 <lb/>that all the <orgName>captives</orgName> 
@@ -821,7 +821,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>of the foray lay not with the
 <lb/>superior persons of the
 <lb/><term type="tribe">Makololo</term> but with a mere
-<lb/><term type="occupation">servant</term> - Her good sense
+<lb/><term type="occupation">servant</term> - <space extent="1" unit="chars"/>Her good sense
 <lb/>appeared in other respects besides
 <lb/>and as this was exactly
 <lb/>what my own party had
@@ -908,7 +908,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>giving besides <term type="animal"><term type="foodstuff">oxen</term></term> <term type="foodstuff">butter</term>
 <lb/><term type="foodstuff">milk</term> and <term type="foodstuff">meal</term> more than
 <lb/>we could stow away in
-<lb/>our canoes - The <term type="animal">cows</term> in
+<lb/>our canoes - <space extent="1" unit="chars"/>The <term type="animal">cows</term> in
 <lb/>this valley are now giving
 <lb/>as they frequently do more
 <lb/><term type="foodstuff">milk</term> than the people can
@@ -923,7 +923,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>and acts as clothing in 
 <lb/>both sun and shade <space extent="2" unit="chars"/>They
 <lb/>made their presents always
-<lb/>gracefully - When an <term type="animal"><term type="foodstuff">ox</term></term>
+<lb/>gracefully - <space extent="2" unit="chars"/>When an <term type="animal"><term type="foodstuff">ox</term></term>
 <lb/>was given the owner would
 
 
@@ -935,7 +935,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>accustomed to the <term type="tribe">Bechuanas</term>
 <lb/>presenting a miserable <term type="animal"><term type="foodstuff">goat</term></term>
 <lb/>with the pompous effusion 
-<lb/>"Behold an <term type="animal"><term type="foodstuff">ox</term></term>!" The women
+<lb/>"Behold an <term type="animal"><term type="foodstuff">ox</term></term>!" <space extent="1" unit="chars"/>The women
 <lb/>persisted in giving me copious
 <lb/>supplies of shrill praises or 
 <lb/>"Lullilooing- " but though I
@@ -953,7 +953,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>through the <placeName><geogName type="valley">Barotse valley</geogName></placeName>
 <lb/>has been in need of rain
 <lb/>the people never lack
-<lb/>abundance of food - the
+<lb/>abundance of food - <space extent="1" unit="chars"/>The
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>45</note></add> rains are refreshing but the
 <lb/>air feels hot and close - The
 <lb/>thermometer however in
@@ -1004,14 +1004,14 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 
 
     <pb facs="liv_000100_0214" n="0214"/>                           
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">213</add></fw>  
-    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> In coming up the river
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">213</add></fw>  
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0262">Berry</persName> <metamark function="placeMark"/></note></add> In coming up the river
     <lb/>to <placeName><settlement type="town" ref="settlement.xml#sett0080">Naliele</settlement></placeName> we met a party 
 <lb/>of fugitive <term type="tribe">Barotse</term> returning
 <lb/>to their homes and as
 <lb/>it illustrates the social status
 <lb/>of these subjects of the <term type="tribe">Makololo</term>
-<lb/>I introduce it here - The
+<lb/>I introduce it here - <space extent="1" unit="chars"/>The
 <lb/>villagers in question were the 
 <lb/>children or <orgName>slaves</orgName> if we
 <lb/>may use the term of a 
@@ -1020,7 +1020,7 @@ Creative Commons Attribution-Noncommercial 3.0 Unported License
 <lb/>being of <choice><sic>a</sic><corr/></choice> an irritable temper
 <lb/><subst><del>was</del><add place="over-text">went</add></subst> by the nickname 
     <lb/><persName ref="people.xml#pers0522">Sekobinyane</persName> = a little slavish 
-<lb/>thing - His treatment of 
+<lb/>thing - <space extent="3" unit="chars"/>His treatment of 
 <lb/>his <term type="occupation">servants</term> was so bad
 <lb/>that most of them had fled
 <lb/>and when the <term type="tribe">Mambari</term>

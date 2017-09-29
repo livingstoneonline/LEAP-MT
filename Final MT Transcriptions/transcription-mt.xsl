@@ -318,7 +318,6 @@
 	<xsl:template match="add">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@n, '-', ''))}"><xsl:apply-templates/></span><!-- Added @hand and @n for MT -->
 	</xsl:template>
-	
 
 	<xsl:template match="add[@place='marginleft']|add[@place='marginright']|add[@place='marginbottom']|add[@place='margintop']" priority="9"><!-- Should 9 be 10? -->
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'addmargin')}"> [<xsl:apply-templates/>] </span><!-- Added @n for MT -->
@@ -503,6 +502,9 @@
 			<xsl:when test="@rend='red' and parent::note[ancestor::add[@rend='gray']]/..">
 				<span style='color:#B33B24;text-decoration:line-through'><span style='color:gray'><xsl:apply-templates/></span></span>
 			</xsl:when>	
+			<xsl:when test="@rend='brown'">
+				<span style='color:#8e6352;text-decoration:line-through'><span style='color:black'><xsl:apply-templates/></span></span>
+			</xsl:when>
 			<xsl:when test="@rend='red'">
 				<span style='color:#B33B24;text-decoration:line-through'><span style='color:black'><xsl:apply-templates/></span></span>
 			</xsl:when>
@@ -1118,6 +1120,12 @@
 	<xsl:template match="metamark[@function='deletion']" priority="10">
 		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to mark a deletion"
 			>&#x20B0;<xsl:text> </xsl:text>
+		</span>
+	</xsl:template>
+	
+	<xsl:template match="metamark[@function='dele-abbr']" priority="8">
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial notation instructing that a portion of text should be deleted">
+			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
 	
