@@ -101,13 +101,13 @@
             <div>
                           
     <pb facs="liv_000100_0311.jpg" n="0311"/>               
-<lb/><p><fw n="heading_XXIX">XXIX <add place="inspace" hand="#U1" rend="gray right">310</add></fw>
-    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0497">Robinson</persName></note></add> I explained to them again<!-- p289 middle, Missionary, sh -->
+<lb/><p rend="no-indent"><note place="marginleft">XXIX</note> <fw><add place="inspace" hand="#U1" rend="gray right">310</add></fw>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0497">Robinson</persName></note></add> I explained to them again<!-- p289 middle, Missionary, sh -->
 <lb/>&amp; again that when it was
 <lb/>said we came out of the
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>49</note></add> sea it did not mean that
 <lb/>we came from beneath
-<lb/>the water - but the fiction
+<lb/>the water - <space extent="2" unit="chars"/>but the fiction
 <lb/>was too pleasant and I
 <lb/>believe when I was out
 <lb/>of hearing my men always
@@ -135,8 +135,9 @@
 <lb/>glen and on a little rill
 <lb/>which flows into it from
 <lb/><add place="marginleft"><del type="cancelled"><gap extent="4" unit="chars"/></del></add> <del type="cancelled">the Southern side</del> Western side
-    <lb/>stands the town of <persName ref="people.xml#pers0532">Kabompo</persName>
-    <lb/>or as he likes best to be called <add place="below"><persName ref="people.xml#pers0532">Shinté</persName></add>
+<lb/>stands the town of <persName ref="people.xml#pers0532">Kabompo</persName>
+<lb/>or as he likes best to be called 
+<lb/><space extent="16" unit="chars"/><persName ref="people.xml#pers0532">Shinté</persName>
     
     
     <pb facs="liv_000100_0312.jpg" n="0312"/>               
@@ -150,19 +151,19 @@
     <lb/>of leaf</add> 
 and <term type="plant_foodstuff">bananas</term>
 <lb/>The streets are straight - <w>an<del type="cancelled">d</del>d</w>
-<lb/>present <del type="cancelled">such</del> a <add place="below" hand="#CL">^</add> <add place="above" hand="#CL">complete</add> contrast
+<lb/>present <del type="cancelled">such</del> a <add place="below" hand="#U3" rend="brown">^</add> <add place="above" hand="#U3" rend="brown">complete</add> contrast
 <lb/>to those <add place="marginleft"><metamark function="insertion"/>of the</add> <term type="tribe">Bechuanas</term> which are
 <lb/><space extent="9" unit="chars"/>all very tortuous - Here
 <lb/>too we first saw <orgName>native</orgName>
 <lb/>huts with square walls
-<lb/>and round roofs - The
-<lb/><add place="marginleft" hand="#CL">fences</add> <del type="strikethrough" hand="#CL">hedges</del> or walls of the courts
+<lb/>and round roofs - <space extent="1" unit="chars"/>The
+<lb/><add place="marginleft" hand="#U3" rend="brown">fences</add> <del type="strikethrough" hand="#U3" rend="brown">hedges</del> or walls of the courts
 <lb/>which surround the huts
 <lb/>are wonderfully straight and
-<lb/><del type="cancelled">built</del> made of <subst><del type="strikethrough" hand="#CL">straight</del><add place="above" hand="#CL">upright</add></subst> poles
+<lb/><del type="cancelled">built</del> made of <subst><del type="strikethrough" hand="#U3" rend="brown">straight</del><add place="above" hand="#U3" rend="brown">upright</add></subst> poles
 <lb/>a few inches apart and <add place="below">^</add> <add place="above">strong</add> grass
 <lb/>or leafy bushes neatly woven
-<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> between - In the courts were
+<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> between - <space extent="2" unit="chars"/>In the courts were
 <lb/>little plantations of <term type="plant">tobacco</term>
 <lb/>a little solanaceous plant
 <lb/>which the <term type="tribe">Balonda</term> use
@@ -173,7 +174,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>family have been planted
 <lb/>around in order to give
 <lb/>to the inhabitants a grateful
-<lb/>shade - They regard it with
+<lb/>shade - <space extent="2" unit="chars"/>They regard it with
 <lb/>with some sort of veneration
 <lb/>as a medicine or charm -
     
@@ -185,9 +186,9 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>51</note></add> appearance a crowd of negroes
 <lb/>all fully armed ran towards
 <lb/>as if they would eat us
-<lb/>up - Some had guns but
+<lb/>up - <space extent="1" unit="chars"/>Some had guns but
 <lb/>the manner in which
-<lb/>they were held <choice><orig>shewed</orig><reg>showed</reg></choice> <add place="above" hand="#CL">that</add> the
+<lb/>they were held <choice><orig>shewed</orig><reg>showed</reg></choice> <add place="above" hand="#U3" rend="brown">that</add> the
 <lb/>owners were more used
 <lb/>to bows and arrows than
 <lb/><choice><sic>than</sic><corr/></choice> white man's weapons -
@@ -200,11 +201,11 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>heard, had erected a little
 <lb/>encampment opposite <del type="cancelled">ours</del>
 <lb/>the place where ours was
-<lb/>about to be made - One
+<lb/>about to be made - <space extent="1" unit="chars"/>One
 <lb/>of them whose spine had been
 <lb/>injured in youth, a rare
 <lb/>sight in this country came
-<lb/>and visited us, <del type="strikethrough">and</del> I
+<lb/>and visited us, <space extent="1" unit="chars"/><del type="strikethrough">and</del> I
 <lb/>returned the visit next morning
 <lb/><add place="marginleft">His tall</add> <del type="cancelled">His</del> companion <del type="cancelled">a tall yellow</del>
 <lb/>had that sickly <del type="strikethrough">hue</del> yellow
@@ -212,7 +213,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>look fairer than myself
 <lb/>but his head was covered
 <lb/>with a <add place="below">^</add> <add place="above">crop</add> <del type="strikethrough">mat</del> of <choice><sic>un-mistakeable</sic><corr>unmistakable</corr></choice>
-<lb/>wool - They had a gang
+<lb/>wool - <space extent="2" unit="chars"/>They had a gang
 <lb/>of young female <orgName>slaves</orgName>
 <lb/>in a chain hoeing the
 
@@ -221,10 +222,10 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">313</add></fw>
 <lb/>ground in front of their
 <lb/>encampment to clear it
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>52</note></add> of weeds &amp; grass - They <del type="strikethrough">seemed
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>52</note></add> of weeds &amp; grass - <space extent="1" unit="chars"/>They <del type="strikethrough">seemed
 <lb/>to have</del> were purchased
-                    <lb/>recently in <placeName><region ref="region.xml#region0039">Lobale</region></placeName> whence <choice><sic>they</sic><corr/></choice>
-<lb/><add place="marginleft">the <term type="occupation">traders</term></add> had now come - There
+<lb/>recently in <placeName><region ref="region.xml#region0039">Lobale</region></placeName> whence <choice><sic>they</sic><corr/></choice>
+<lb/><add place="marginleft">the <term type="occupation">traders</term></add> had now come - <space extent="1" unit="chars"/>There
 <lb/>were many <term type="tribe">Mambari</term> with
 <lb/>them and the establishment
 <lb/>was conducted with that
@@ -283,30 +284,30 @@ and <term type="plant_foodstuff">bananas</term>
     <lb/>a grand reception by <persName ref="people.xml#pers0532">Shinte</persName> about
     <lb/>one <choice><sic>oclock</sic><corr>o'clock</corr></choice> - <persName ref="people.xml#pers0506">Sambanza</persName> claimed the
 <lb/>honour of presenting <subst><del>me</del><add place="over-text">us</add></subst> <persName ref="people.xml#pers0388">Manenko</persName>
-    <lb/>being <add place="below">^</add> <add place="marginleft">slightly</add> indisposed - The <orgName ref="orgName.xml#org0033"><orgName>Native</orgName> <term type="people">Portuguese</term></orgName>
+    <lb/>being <add place="below">^</add> <add place="marginleft">slightly</add> indisposed - <space extent="2" unit="chars"/>The <orgName ref="orgName.xml#org0033"><orgName>Native</orgName> <term type="people">Portuguese</term></orgName>
 <lb/>and <term type="tribe"><choice><orig>Mam<metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>bari</orig><reg>Mambari</reg></choice></term><!-- function of gray barcket is unclear but it connects to the marginal numner.JL --> went fully armed with
-    <lb/>guns in order to give <persName ref="people.xml#pers0532">Shinte</persName> <del type="strikethrough">a</del> a
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>203</note></add><!-- the number is enclosed in a circle, sh --> <del type="strikethrough">parting</del> salute - They had their <term type="occupation">drummer</term>
+<lb/>guns in order to give <persName ref="people.xml#pers0532">Shinte</persName> <del type="strikethrough">a</del> a
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>203</note></add><!-- the number is enclosed in a circle, sh --> <del type="strikethrough">parting</del> salute - <space extent="1" unit="chars"/>They had their <term type="occupation">drummer</term>
 <lb/>and <del type="strikethrough">higher</del> <term type="occupation">trumpeter</term> making as
 
 
     <pb facs="liv_000100_0316.jpg" n="0316"/>               
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">315</add></fw>
 <lb/><add place="marginleft">much</add> noise as very old instruments would
-<lb/>yield - <subst><del>t</del><add place="over-text">T</add></subst>he <foreign xml:lang="tn">kotla</foreign> or place of
+<lb/>yield - <space extent="1" unit="chars"/><subst><del>t</del><add place="over-text">T</add></subst>he <foreign xml:lang="tn">kotla</foreign> or place of
 <lb/>audience was about a <measure>hundred
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>54</note></add> yards square</measure> and two graceful
     <lb/>specimens of the <hi rend="underline"><foreign xml:lang="la"><term type="plant">ficus indica</term></foreign></hi>
-<lb/>stood near one end - Under<!-- possible letter under 'r' but it is illegible.JL --> one
+<lb/>stood near one end - <space extent="1" unit="chars"/>Under<!-- possible letter under 'r' but it is illegible.JL --> one
     <lb/>of these sat <persName ref="people.xml#pers0532">Shinte</persName> on a sort of
 <lb/>throne covered with a <term type="animal">leopard</term>'s
-<lb/>skin; He had on a checked jacket
+<lb/>skin; <space extent="1" unit="chars"/>He had on a checked jacket
 <lb/>and kilt of scarlet baize edged
-<lb/>with green. - Many strings of
+<lb/>with green. - <space extent="1" unit="chars"/>Many strings of
 <lb/>large beads hung from his
 <lb/>neck and his limbs were
 <lb/>covered with iron &amp; copper
-<lb/>armlets and bracelets - On his
+<lb/>armlets and bracelets - <space extent="1" unit="chars"/>On his
 <lb/>head he wore a <w>hel<subst><del>l</del><add place="over-text">m</add></subst>et</w> made of
 <lb/>beads woven neatly together &amp;
 <lb/>crowned with a great bunch
@@ -316,7 +317,7 @@ and <term type="plant_foodstuff">bananas</term>
     <lb/>sheaves of
     <lb/>arrows over
     <lb/>their shoulders</add> 
-<del type="cancelled">As we entered
+<space extent="1" unit="chars"/><del type="cancelled">As we entered
 <lb/>the <foreign xml:lang="tn">kotla</foreign> the party of <term type="tribe">Manenko</term> clapped
 <lb/>their hands vigorously as a
     <lb/>salutation to <persName ref="people.xml#pers0532">Shinte</persName></del></p>
@@ -339,7 +340,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">316</add></fw>
 <lb/>the whole ceremony - The different
 <lb/>sections of the tribe came
-<lb/>forward in the same way <add place="below" hand="#CL">^</add> <add place="above" hand="#CL">that</add> we
+<lb/>forward in the same way <add place="below" hand="#U3" rend="brown">^</add> <add place="above" hand="#U3" rend="brown">that</add> we
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>55</note></add> did the <term type="occupation">headman</term> making <choice><sic>obeizance</sic><corr>obeisance</corr></choice>
 <lb/>with ashes which he carried
 <lb/>with him for the purpose - Then
@@ -350,7 +351,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>as possible for the purpose
 <lb/>I thought of trying whether they
 <lb/>could not make us take to
-<lb/>our heels - As we <subst><del>s</del><add place="over-text">d</add></subst>id not they<!-- p292 Missionary, sh -->
+<lb/>our heels - <space extent="1" unit="chars"/>As we <subst><del>s</del><add place="over-text">d</add></subst>id not they<!-- p292 Missionary, sh -->
     <lb/>turned round towards <persName ref="people.xml#pers0532">Shinte</persName>
 <lb/>and saluted him then retired
 <lb/>When all had come and were
@@ -363,7 +364,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>another in the shield, springing 
 <lb/>to one side to avoid another
 <lb/>running backwards or forwards
-<lb/><del type="cancelled">Sp</del> leaping &amp;c - Here - the spokesman
+<lb/><del type="cancelled">Sp</del> leaping &amp;c - <space extent="1" unit="chars"/>Here - the spokesman
     <lb/>of <persName ref="people.xml#pers0463">Nyamoana</persName> and <persName ref="people.xml#pers0506">Sambanza</persName>
 <lb/>stalked backwards &amp; forwards
     <lb/>in front of <persName ref="people.xml#pers0532">Shinte</persName> and gave
@@ -377,7 +378,7 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">317</add></fw>
 <lb/>and connection with the <term type="tribe">Makololo</term>
 <lb/>the return of the <orgName>captives</orgName> - The wish
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>56</note></add> to open the country to trade - The
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>56</note></add> to open the country to trade - <space extent="1" unit="chars"/>The
 <lb/><bibl><choice><sic>bible</sic><corr>Bible</corr></choice></bibl> as a word from heaven
 <lb/>the white <choice><sic>mans</sic><corr>man's</corr></choice> desire <del type="strikethrough">to live in</del>
 <lb/>for the tribes to live in peace -
@@ -386,18 +387,18 @@ and <term type="plant_foodstuff">bananas</term>
 <lb/>attacked them yet they <del type="cancelled">attacked</del>
 <lb/><add place="marginleft">had assailed <add place="below">^</add></add> the <term type="tribe">Balonda</term> - perhaps he is
 <lb/>fibbing perhaps not - They rather
-<lb/>thought he was - But as the
+<lb/>thought he was - <space extent="1" unit="chars"/>But as the
 <lb/><term type="tribe">Balonda</term> had good hearts and
     <lb/><persName ref="people.xml#pers0532">Shinte</persName> had never done any harm
 <lb/>to any one he had better <choice><sic>recieve</sic><corr>receive</corr></choice>
 <lb/><add place="marginleft">the white man</add> <del type="strikethrough">him</del> well and send him on
-    <lb/>his way. - <persName ref="people.xml#pers0506">Sambanza</persName> was
+    <lb/>his way. - <space extent="1" unit="chars"/><persName ref="people.xml#pers0506">Sambanza</persName> was
 <lb/><choice><sic>gailly</sic><corr>gaily</corr></choice> attired and <subst><del>a</del><add place="over-text">b</add></subst>esides a
 <lb/>profusion of beads had a
-<lb/>cloth so long <add place="below" hand="#CL">^</add> <add place="above" hand="#CL">that</add> a boy carried it
+<lb/>cloth so long <add place="below" hand="#U3" rend="brown">^</add> <add place="above" hand="#U3" rend="brown">that</add> a boy carried it
 <lb/>after him as a train</p>
 <lb/>
-                <lb/><p>Behind <persName ref="people.xml#pers0532">Shinte</persName> sat about
+<lb/><p>Behind <persName ref="people.xml#pers0532">Shinte</persName> sat about
 <lb/>a hundred women clothed in
 <lb/>their best, which best happened
 <lb/>to be a profusion of red blaize
@@ -422,7 +423,7 @@ sat
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">318</add></fw>
 <lb/>the first time I had ever seen
 <lb/>women present in a public assembly
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>57</note></add> In the South the women were
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>57</note></add> In the South the women <subst><del>are</del><add place="over-text">were</add></subst>
 <lb/>not permitted to enter the <foreign xml:lang="tn">Kotla</foreign>
 <lb/>and when invited to come
 <lb/>to a religious service there
@@ -434,7 +435,7 @@ sat
                     <lb/>and <persName ref="people.xml#pers0532">Shinte</persName> frequently turned
 <lb/>round and spoke to them</p>
 <lb/><p>A party of <add place="marginleft"><metamark function="insertion"/><term type="occupation">Musicians</term> consisting of</add> three <term type="occupation">drummers</term>
-<lb/><space extent="17" unit="chars"/> and four
+<lb/><space extent="14" unit="chars"/> and four
 <lb/><term type="occupation">performers</term> on the piano went
 <lb/>round the <foreign xml:lang="tn">Kotla</foreign> <subst><del><unclear cert="low">chief</unclear></del><add place="over-text">se</add></subst>veral times
 <lb/>regaling us with their music
@@ -442,17 +443,17 @@ sat
 <lb/>from the trunk of a tree &amp;
 <lb/>have a small hole in the
 <lb/>side covered with a bit of
-<lb/><choice><sic><term type="insect">spider</term>s</sic><corr><term type="insect">spider</term>'s</corr></choice> web - The Ends are<!-- p293, Missionary, sh -->
+<lb/><choice><sic><term type="insect">spider</term>s</sic><corr><term type="insect">spider</term>'s</corr></choice> web - <space extent="1" unit="chars"/>The Ends are<!-- p293, Missionary, sh -->
 <lb/>covered with the skin of an
 <lb/><term type="animal">antelope</term> <add place="below">^</add> <add place="marginleft">pegged on</add> and when they
 <lb/>wish to <del type="cancelled">beat</del> tighten it they
 <lb/>hold it to the fire to make
-<lb/>it contract - <w>The<del type="strikethrough" hand="#CL">y</del></w> <add place="above" hand="#CL">instruments</add> are beaten
+<lb/>it contract - <space extent="2" unit="chars"/><w>The<del type="strikethrough" hand="#U3" rend="brown">y</del></w> <add place="above" hand="#U3" rend="brown">instruments</add> are beaten
 <lb/>with the hands</p>
 <lb/><p><add place="marginleft"><note><foreign xml:lang="bnt">Morimba</foreign></note></add> The piano named <foreign xml:lang="bnt">Marimba</foreign><!-- 'Marimba' is used in a number of Bantu languages.JL -->
 <lb/>consists of two bars of wood
 <lb/><add place="marginleft">placed side by
-    <lb/>side</add> 
+<lb/>side</add> 
 (here quite straight but farther
 <lb/>North bent round so as to resemble
 <lb/>half the tire of a carriage wheel
@@ -476,16 +477,16 @@ sat
 <lb/>are of different sizes according
 <lb/>to the key, and <del type="cancelled">the keys
 <lb/>are used</del> little drumsticks
-<lb/><metamark function="query" place="marginleft">?</metamark><!-- within a circle, sh --> <w><hi rend="underline">eli</hi>cit</w> the notes - Rapidity of
+<lb/><metamark function="query" place="marginleft" resp="#U3" rend="brown">?</metamark><!-- within a circle, sh --> <w><hi rend="brown underline" resp="#U3">eli</hi>cit</w> the notes - <space extent="1" unit="chars"/>Rapidity of
 <lb/>execution seems much
-<lb/>admired among <add place="below" hand="#CL">^</add> <add place="above" hand="#CL">them</add> and the
+<lb/>admired among <add place="below" hand="#U3" rend="brown">^</add> <add place="above" hand="#U3" rend="brown">them</add> and the
 <lb/>music <del type="strikethrough">so</del> is pleasant to
-<lb/>the ear - In <placeName><country>Angola</country></placeName> the
+<lb/>the ear - <space extent="2" unit="chars"/>In <placeName><country>Angola</country></placeName> the
 <lb/><term type="people">Portuguese</term> use the <foreign xml:lang="bnt">Marimba</foreign>
 <lb/>in their dances - </p>
-                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0284"><unclear cert="medium">Cross</unclear></persName></hi></note></add> When nine speakers
-<lb/>had concluded their <subst><del type="strikethrough" hand="#CL">speeches</del><add place="above" hand="#CL">orations</add></subst>
-                    <lb/><persName ref="people.xml#pers0532">Shinte</persName> stood up and so did
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0284"><unclear cert="medium">Cross</unclear></persName> <metamark function="placeMark"/></note></add> When nine speakers
+<lb/>had concluded their <subst><del type="strikethrough" hand="#U3" rend="brown">speeches</del><add place="above" hand="#U3" rend="brown">orations</add></subst>
+<lb/><persName ref="people.xml#pers0532">Shinte</persName> stood up and so did
 <lb/>all the people - He had maintained
 <lb/>true <orgName>African</orgName> dignity of manner<!-- p294, Missionary, sh -->
 <lb/>all the while, but my people
@@ -494,7 +495,7 @@ sat
 <lb/>About a thousand people were
 <lb/>present according to my
 <lb/>calculation and about three
-<lb/>hundred <term type="occupation">soldiers</term> - The sun had
+<lb/>hundred <term type="occupation">soldiers</term> - <space extent="1" unit="chars"/>The sun had
 
 
     <pb facs="liv_000100_0321.jpg" n="0321"/>               
@@ -504,23 +505,23 @@ sat
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>59</note></add> their guns.</p>
 <lb/><p rend="no-indent"><note place="inline"><date when="1854-01-18">18<hi rend="sup underline">th</hi></date></note> <space extent="4" unit="chars"/> <del type="strikethrough">On Wedends</del> We were <choice><sic>awaked</sic><corr>awakened</corr></choice>
 <lb/>during the night by a messenger
-    <lb/>from <del type="strikethrough"><persName ref="people.xml#pers0532">Kabompo</persName></del> <persName ref="people.xml#pers0532">Shinte</persName> requesting
+<lb/>from <del type="strikethrough"><persName ref="people.xml#pers0532">Kabompo</persName></del> <persName ref="people.xml#pers0532">Shinte</persName> requesting
 <lb/><choice><sic>at</sic><corr>a</corr></choice> visit at a very unseasonable
-<lb/>hour - As I was just in
-    <lb/>the sweating stage of an <term type="ailment">intermittent</term>
+<lb/>hour - <space extent="1" unit="chars"/>As I was just in
+<lb/>the sweating stage of an <term type="ailment">intermittent</term>
 <lb/>and the path to the town lay
 <lb/>through a wet valley, I declined
-    <lb/>going - <persName ref="people.xml#pers0362">Kolimbota</persName> who knows
+<lb/>going - <space extent="1" unit="chars"/><persName ref="people.xml#pers0362">Kolimbota</persName> who knows
 <lb/>their customs best urged
 <lb/>me to go but <choice><sic>independant</sic><corr>independent</corr></choice>
 <lb/>of sickness I hated words of the
 <lb/>night - <del type="strikethrough">my</del> and deeds of
-<lb/>darkness - "I was neither
+<lb/>darkness - <space extent="1" unit="chars"/>"I was neither
 <lb/>a <term type="animal"><choice><orig>hyaena</orig><reg>hyena</reg></choice></term> not a <term type="occupation">witch</term>"
     <lb/><persName ref="people.xml#pers0362">Kolimbota</persName> thought we ought to
 <lb/>conform to their wishes
 <lb/>in everything I thought we
-<lb/>ought to have some <del type="strikethrough" hand="#CL">wish</del><add place="above" hand="#CL">choice</add>
+<lb/>ought to have some <del type="strikethrough" hand="#U3" rend="brown">wish</del><add place="above" hand="#U3" rend="brown">choice</add>
 <lb/>in the matter as well, which
 <lb/>put him into high dudgeon -
 <lb/>However at ten next
@@ -529,7 +530,7 @@ sat
     <lb/>of <persName ref="people.xml#pers0532">Shinte</persName> <add place="below">^</add> <add place="marginleft">the walls of
     <lb/>woven rods</add> 
 all very neat and
-<lb/>high - Many trees stood
+<lb/>high - <space extent="1" unit="chars"/>Many trees stood
 <lb/>within the inclosures and afforded
 <lb/>a grateful shade - These are
 <lb/>planted by man for we saw
@@ -549,12 +550,12 @@ all very neat and
 <lb/>leaves but <choice><orig>shewed</orig><reg>showed</reg></choice> its relationship
 <lb/>to the <term type="nationality">Indian</term> <term type="plant">Banian</term> by sending
 <lb/>down shoots towards the
-    <lb/>ground - <persName ref="people.xml#pers0532">Shinte</persName> soon came
+    <lb/>ground - <space extent="1" unit="chars"/><persName ref="people.xml#pers0532">Shinte</persName> soon came
 <lb/>and appeared a man of
 <lb/>upwards of <del type="cancelled">forty</del> fifty <add place="below">^</add> <add place="above">five</add> years
 <lb/>of age of frank and open
 <lb/>countenance - <subst><del>He</del><add place="over-text">and</add></subst> and about the
-<lb/>middle height - He seemed in
+<lb/>middle height - <space extent="1" unit="chars"/>He seemed in
 <lb/><hi rend="gray underline" resp="#U2">good</hi> <metamark function="ed-mark" rend="gray" resp="#U2">⎡</metamark><!-- this may function as a place marker, as the large slashes do.JL-->humour and said he
     <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0278">Chester</persName></note></add> had expected yesterday that
 <lb/>a man who came from
@@ -594,10 +595,10 @@ all very neat and
 <lb/>with a white skin and straight
 <lb/>hair - your clothing too is
 <lb/>different from any we have
-<lb/>ever seen too" - They had been
+<lb/>ever seen too" - <space extent="1" unit="chars"/>They had been
     <lb/>visited by <orgName ref="orgName.xml#org0033"><orgName>Native</orgName> <term type="people">Portuguese</term></orgName>
 <lb/>(crossbreeds) and <term type="tribe">Mambari</term>
-<lb/><subst><del><unclear cert="medium">al</unclear></del><add place="over-text">on</add></subst>ly - <del type="strikethrough">He presented</del></p>
+<lb/><subst><del><unclear cert="medium">al</unclear></del><add place="over-text">on</add></subst>ly - <space extent="3" unit="chars"/><del type="strikethrough">He presented</del></p>
 <lb/><p><subst><del>I ha</del><add place="over-text">On</add></subst> learning from some
     <lb/>of the people that "<persName ref="people.xml#pers0532">Shinte</persName>'s
 <lb/>mouth was bitter for want
@@ -609,8 +610,8 @@ all very neat and
 <lb/>begin a trade in <term type="animal">cows</term>
 <lb/>with the <term type="tribe">Makololo</term> - He was
 <lb/>pleased with the idea and
-    <lb/>when we returned <add place="below" hand="#CL">^</add> <add place="marginleft">from <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
-    <lb/><add place="inline" hand="#CL">we found that</add></add> 
+    <lb/>when we returned <add place="below" hand="#U3" rend="brown">^</add> <add place="marginleft">from <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loando</orig><reg>Luanda</reg></choice></settlement></placeName>
+    <lb/><add place="inline" hand="#U3" rend="brown">we found that</add></add> 
 he had
 <lb/>profited by the hint for he
 <lb/>had got three and one
@@ -631,7 +632,7 @@ he had
 <lb/>of the black soil of all the
 <lb/>valleys here and so does
 <lb/>the <term type="plant_foodstuff">manioc</term> though no manure
-<lb/>is ever applied - We saw
+<lb/>is ever applied - <space extent="1" unit="chars"/>We saw
 <lb/><term type="plant_foodstuff">Manioc</term> attain a height of six
 <lb/>feet &amp; upwards and this
 <lb/>is a plant which requires
@@ -679,7 +680,7 @@ and explained that "this
 <lb/>perspiration <add place="below">^</add> <add place="marginleft">and declined
     <lb/>going for
     <lb/>a few hours</add> 
-- Violent action
+- <space extent="1" unit="chars"/>Violent action
 <lb/>of the heart all the way to
 <lb/>the town did not predispose
 <lb/>me to be patient with the
@@ -695,8 +696,8 @@ and explained that "this
 <lb/>had a <term type="animal"><term type="foodstuff">fowl</term></term> ready <add place="below">^</add> <add place="above">in his hand</add> to present
 <lb/><del type="strikethrough">a calabas</del> a basket of <term type="plant_foodstuff">manioc
 <lb/>meal</term> and a calabash of
-<lb/><term type="foodstuff">mead</term> - Referring to the
-<lb/><add place="marginleft" hand="#CL">constantly</add> <add place="below" hand="#CL">^</add> <del type="strikethrough" hand="#CL">every</del> recurring attacks of
+<lb/><term type="foodstuff">mead</term> - <space extent="1" unit="chars"/>Referring to the
+<lb/><add place="marginleft" hand="#U3" rend="brown">constantly</add> <add place="below" hand="#U3" rend="brown">^</add> <del type="strikethrough" hand="#U3" rend="brown">every</del> recurring attacks of
 <lb/><term type="ailment">fever</term> he remarked that
 <lb/>was the only thing which
 <lb/>would prevent <del type="cancelled">my reaching
@@ -710,7 +711,7 @@ and explained that "this
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">325</add></fw>
 <lb/>which led to the white men
 <lb/>He had himself travelled far
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>64</note></add> as a young man - On asking
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>64</note></add> as a young man - <space extent="1" unit="chars"/>On asking
 <lb/>what he would recommend
 <lb/>for the <term type="ailment">fever</term>, "Drink plenty
 <lb/>of the <term type="foodstuff">mead</term> and as it gets
@@ -718,7 +719,7 @@ and explained that "this
 <lb/>out" - It was rather strong, and
 <lb/>I suspect he likes the remedy
 <lb/>pretty well even though he has
-<lb/>no <term type="ailment">fever</term> - He had always
+<lb/>no <term type="ailment">fever</term> - <space extent="1" unit="chars"/>He had always
 <lb/>been a friend to <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>and now that his son <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0519">Sekeletu</persName></add> was
     <lb/>in his place <del type="strikethrough">he</del> <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0532">Shinte</persName></add> was not
@@ -732,14 +733,14 @@ and explained that "this
     <lb/>and wished to detain <persName ref="people.xml#pers0362">Kolimbota</persName>
 <lb/>that he might send a present
 <lb/>back to <persName ref="people.xml#pers0519">Sekeletu</persName> by his
-<lb/>hands - This proposition
+<lb/>hands - <space extent="2" unit="chars"/>This proposition
 <lb/>we afterwards discovered
     <lb/>was <persName ref="people.xml#pers0362">Kolimbota</persName>'s own as
 <lb/>he heard so much about
 <lb/>the ferocity of the tribes
 <lb/><subst><del>in</del><add place="over-text">th</add></subst>rough which we were
 <lb/>to pass that he wished to
-<lb/>save his skin - As will
+<lb/>save his skin - <space extent="1" unit="chars"/>As will
 <lb/>be seen further on he
 <lb/>was the only one of our
 <lb/>party to returned with a wound</p>
@@ -748,10 +749,10 @@ and explained that "this
     <pb facs="liv_000100_0327.jpg" n="0327"/>               
 
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">326</add></fw>
-    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0290">Dennett</persName></hi></note></add> We were particularly
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0290">Dennett</persName> <metamark function="placeMark"/></note></add> We were particularly
 <lb/>struck in passing through
-<lb/>the village with the <del type="cancelled">punti</del>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>65</note></add> punctiliousness of manners
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>65</note></add> the village with the <del type="cancelled">punti</del>
+<lb/>punctiliousness of manners
 <lb/><choice><orig>shewn</orig><reg>shown</reg></choice> by the <term type="tribe">Balonda</term> - 
 <lb/>The inferiors on meeting
 <lb/>their superiors in the street
@@ -793,12 +794,12 @@ and explained that "this
 <lb/>offence sufficient to warrant
 <lb/>his being seized and offered
 <lb/>for sale while we were
-<lb/>there<add place="inline" rend="gray" hand="#U2">;</add> - He had not reported
+<lb/>there<add place="inline" rend="gray" hand="#U2">;</add> - <space extent="2" unit="chars"/><subst><del>W</del><add place="over-text">H</add></subst>e had not reported
 <lb/>himself so they did not know
 <lb/>the reason of his running
-<lb/>away from his own <term type="occupation">chief</term><add place="inline" rend="gray" hand="#U2">;</add> - and that <term type="occupation">chief</term> might
+<lb/>away from his own <term type="occupation">chief</term><add place="inline" rend="gray" hand="#U2">;</add> - <space extent="2" unit="chars"/>and that <term type="occupation">chief</term> might
 <lb/>accuse <subst><del>him</del><add place="over-text">t</add></subst>hem of <choice><sic>recieving</sic><corr>receiving</corr></choice>
-<lb/>a criminal - It was
+<lb/>a criminal - <space extent="1" unit="chars"/>It was
 <lb/>curious to notice the effect
 <lb/>of the <orgName>slave trade</orgName> in blunting
 <lb/>the moral susceptibility<add place="inline" rend="gray" hand="#U2">:</add>
@@ -836,9 +837,9 @@ and explained that "this
 <lb/>unknown in the South
 <lb/>Two children<add place="inline" rend="gray" hand="#U2">,</add> <add place="below">^</add> <add place="above">of between 7 &amp; 8 years,</add> went out <add place="below">^</add> <add place="above">to collect firewood</add> a short
 <lb/>distance from their parents
-<lb/>home <add place="below">^</add> <add place="above">which was a <measure>quarter of <supplied cert="high">a</supplied> mile</measure> - from the village<add place="inline" rend="gray" hand="#U2">,</add></add> and were kidnapped<add place="inline" rend="gray" hand="#U2">;</add>
+<lb/>home <add place="below">^</add> <add place="above">which was a <measure>quarter of <supplied cert="high">a</supplied> mile</measure> from the village<add place="inline" rend="gray" hand="#U2">,</add></add> and were kidnapped<add place="inline" rend="gray" hand="#U2">;</add>
 <lb/>The distracted parents could not
-<lb/>find a trace of them - This
+<lb/>find a trace of them - <space extent="2" unit="chars"/>This
 <lb/>happened so close to the town<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/><add place="above">where there are no beasts of prey<add place="inline" rend="gray" hand="#U2">,</add></add> 
 <lb/>that we <del type="cancelled"><unclear cert="medium">I</unclear></del> suspect some of the
@@ -888,7 +889,7 @@ and explained that "this
 <lb/>parents<add place="inline" rend="gray" hand="#U2">,</add> - <space extent="2" unit="chars"/>that I wished him
 <lb/>to give up this system altogether<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>and trade in <term type="animal">cattle</term><add place="inline" rend="gray" hand="#U2">,</add> ivory<add place="inline" rend="gray" hand="#U2">,</add> and
-<lb/><choice><sic><term type="insect">bees</term></sic><corr><term type="insect">bees</term>'</corr></choice> wax - <add place="inline" rend="gray" hand="#U2">,</add> he urged that she
+<lb/><choice><sic><term type="insect">bees</term></sic><corr><term type="insect">bees</term>'</corr></choice> wax - <add place="inline" rend="gray" hand="#U2">,</add> <space extent="1" unit="chars"/>he urged that she
 <lb/>was to be a child to <del type="cancelled">me</del> bring
 <lb/>me water<add place="inline" rend="gray" hand="#U2">,</add> and that a <add place="below">^</add> <add place="above">great</add> man
 <lb/>ought to have a child for the
@@ -915,7 +916,7 @@ and explained that "this
 <lb/>and giving each other<add place="inline" rend="gray" hand="#U2">,</add> so much
 <lb/>grief as this child's mother
 <lb/>must feel<add place="inline" rend="gray" hand="#U2">,</add> I declined her
-<lb/>also. - If <del type="strikethrough">but</del> I could have taken
+<lb/>also. - <space extent="1" unit="chars"/>If <del type="strikethrough">but</del> I could have taken
 <lb/>her with my family <del type="strikethrough">&amp; instructed</del>
 <lb/><add place="marginleft">for the purpose
     <lb/>of instruction<add place="inline" rend="gray" hand="#U2">,</add></add>
@@ -932,7 +933,7 @@ and explained that "this
 <lb/>would not <del type="cancelled">as I taught</del>
 <lb/><w>the<subst><del>m</del><add place="over-text">n</add></subst></w> have seen evidence
 <lb/><del type="cancelled">of the existence of</del> of our hatred to
-<lb/><orgName>slavery</orgName> - And the kind attentions
+<lb/><orgName>slavery</orgName> - <space extent="1" unit="chars"/>And the kind attentions
 <lb/>of my friends<add place="inline" rend="gray" hand="#U2">,</add> would<add place="inline" rend="gray" hand="#U2">,</add> as it
 <lb/>almost always does in <del type="cancelled">s</del>
 <lb/>similar <subst><del><unclear cert="medium">hea</unclear></del><add place="over-text">cas</add></subst>es<add place="inline" rend="gray" hand="#U2">,</add> have turned
@@ -950,7 +951,7 @@ and explained that "this
 <lb/><fw><add place="inspace" rend="gray left" hand="#U2">69</add> <add place="inspace" hand="#U1" rend="gray right">330</add></fw>
     <lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> <persName ref="people.xml#pers0532">Shinte</persName> was most anxious
 <lb/>to see the pictures of the <w>Magic<del type="cancelled"><unclear cert="medium">k</unclear></del></w>
-<lb/>Lantern<add place="inline" rend="gray" hand="#U2">;</add> - But <term type="ailment">fever</term> had
+<lb/>Lantern<add place="inline" rend="gray" hand="#U2">;</add> - <space extent="1" unit="chars"/>But <term type="ailment">fever</term> had
 <lb/><add place="marginleft">so</add> <del type="cancelled">such a</del> weakening <add place="inline">an</add> effect
 <lb/>and there was such violent
 <lb/>action of the heart with
@@ -963,13 +964,13 @@ and explained that "this
 <lb/>of court beauties <del type="cancelled">around</del>
 <lb/>near him as at the reception.
 <lb/>The first picture exhibited
-    <lb/>was <persName ref="people.xml#pers0243">Abraham</persName> <del type="strikethrough"><add place="below">^</add></del> <del type="strikethrough"><add place="marginleft">knife in hand</add></del> about to
-    <lb/>slaughter <del type="cancelled"><persName ref="people.xml#pers0329">Isaac</persName></del> his son
-    <lb/><persName ref="people.xml#pers0329">Isaac</persName><add place="inline" rend="gray" hand="#U2">;</add> - It was <choice><orig>shewn</orig><reg>shown</reg></choice>
+<lb/>was <persName ref="people.xml#pers0243">Abraham</persName> <del type="strikethrough"><add place="below">^</add></del> <del type="strikethrough"><add place="marginleft">knife in hand</add></del> about to
+<lb/>slaughter <del type="cancelled"><persName ref="people.xml#pers0329">Isaac</persName></del> his son
+<lb/><persName ref="people.xml#pers0329">Isaac</persName><add place="inline" rend="gray" hand="#U2">;</add> - <space extent="1" unit="chars"/>It was <choice><orig>shewn</orig><reg>shown</reg></choice>
 <lb/>as large as life<add place="inline" rend="gray" hand="#U2">,</add> and
 <lb/>the uplifted knife was
 <lb/>in the act of striking
-<lb/>the lad<add place="inline" rend="gray" hand="#U2">;</add> - The <add place="below">^</add> <add place="above"><term type="tribe">Balonda</term></add> men
+<lb/>the lad<add place="inline" rend="gray" hand="#U2">;</add> - <space extent="1" unit="chars"/>The <add place="below">^</add> <add place="above"><term type="tribe">Balonda</term></add> men
 <lb/>remarked it was much
 <lb/><choice><orig>liker</orig><reg>more like</reg></choice> a god than the
 <lb/>things of wood or
@@ -980,7 +981,7 @@ and explained that "this
 <lb/>the <bibl><choice><sic>bible</sic><corr>Bible</corr></choice></bibl> we <del type="cancelled">h</del> now held<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>and that among <del type="cancelled">the</del> his
 <lb/>children Our Saviour
-<lb/>appeared - The ladies
+<lb/>appeared - <space extent="1" unit="chars"/>The ladies
 <lb/>listened with awe<add place="inline" rend="gray" hand="#U2">;</add> - When
 
 
@@ -991,7 +992,7 @@ and explained that "this
 <lb/>&amp; they thought - it was to
 <lb/>be sheathed in their bodies
     <lb/>instead of <persName ref="people.xml#pers0329">Isaac</persName>'s. "Mother
-<lb/>Mother"! they all shouted
+<lb/>Mother"! <space extent="1" unit="chars"/>they all shouted
 <lb/>at once<add place="inline" rend="gray" hand="#U2">;</add> and off they rushed
 <lb/>helter skelter<add place="inline" rend="gray" hand="#U2">,</add> tumbling pell
 <lb/>mell over each other<add place="inline" rend="gray" hand="#U2">,</add> and
@@ -1024,30 +1025,30 @@ and explained that "this
 
 
     <pb facs="liv_000100_0333.jpg" n="0333"/>               
-<lb/><p><fw><add place="inspace" rend="gray left" hand="#U2">71</add> <add place="inspace" hand="#U1" rend="gray right">332</add></fw>
-<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> One cannot get away
+<lb/><fw><add place="inspace" rend="gray left" hand="#U2">71</add> <add place="inspace" hand="#U1" rend="gray right">332</add></fw>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> One cannot get away
 <lb/>quickly from these <term type="occupation">chiefs</term><add place="inline" rend="gray" hand="#U2">,</add>
-<lb/>they like to have - the honour
+<lb/>They like to have - the honour
 <lb/>of strangers residing in
 <lb/>their villages<add place="inline" rend="gray" hand="#U2">,</add> - here we
 <lb/>had an additional cause
 <lb/>of delay in <seg type="weather">frequent
-<lb/>rains - twenty four hours
+<lb/>rains - <space extent="1" unit="chars"/>Twenty four hours
 <lb/>never elapsed without
 <lb/>heavy showers<add place="inline" rend="gray" hand="#U2">;</add> - Everything
 <lb/>is affected by the
 <lb/>dampness</seg><add place="inline" rend="gray" hand="#U2">,</add> - Surgical instruments
 <lb/>become all rusty<add place="inline" rend="gray" hand="#U2">,</add> - clothing
 <lb/>mildewed and <del type="cancelled"><unclear cert="medium">shoes</unclear></del> shoes
-<lb/>mouldy - My little tent
-<lb/>was - now so rotten
+<lb/>mouldy - <space extent="1" unit="chars"/>My little tent
+<lb/>was now so rotten
 <lb/>and full of small holes
 <lb/>that every <seg type="weather">heavy shower</seg>
 <lb/>caused a fine mist
 <lb/>to <choice><sic>des-cend</sic><corr>descend</corr></choice> on my <choice><sic>blanked</sic><corr>blanket</corr></choice>
 <lb/>and make me fain
 <lb/>to cover <subst><del>me</del><add place="over-text">the</add></subst> head with
-<lb/>it - <seg type="weather">Heavy dews lay on
+<lb/>it - <space extent="1" unit="chars"/><seg type="weather">Heavy dews lay on
 <lb/>everything in the morning
 <lb/>even inside the tent<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>And there is only a short
@@ -1066,15 +1067,15 @@ and explained that "this
 <lb/><seg type="weather">In the South the only heavy rains
 <lb/>noticed are those which
 <lb/>come from the North East<add place="inline" rend="gray" hand="#U2">,</add>
-<lb/>or East<add place="inline" rend="gray" hand="#U2">,</add> - The thermometer
+<lb/>or East<add place="inline" rend="gray" hand="#U2">,</add> - <space extent="2" unit="chars"/>The thermometer
 <lb/>falls as low as 72˚ when
 <lb/><add place="marginleft">there is <add place="below">^</add></add> no sunshine, though <add place="below">^</add> <add place="above">when</add> it is <add place="above">fair</add>
 <lb/>generally as high as 82˚
 <lb/><add place="marginleft">(the thermometer</add> <del type="strikethrough">(</del>protected) <del type="cancelled">throughout the</del>
 <lb/><add place="marginleft">even in the</add> mornings &amp; evenings</seg></p>
 <lb/><space dim="vertical" extent="2" unit="lines"/>
-<lb/><p><note place="inline"><date when="1854-01-24">24<hi rend="sup underline">th</hi></date></note> We expected <supplied cert="high">to</supplied> have started
-    <lb/>today but <persName ref="people.xml#pers0506">Sambanza</persName><add place="inline" rend="gray" hand="#U2">,</add> who
+<lb/><p rend="no-indent"><note place="inline"><date when="1854-01-24">24<hi rend="sup underline">th</hi></date></note> <space extent="2" unit="chars"/>We expected <supplied cert="high">to</supplied> have started
+<lb/>today but <persName ref="people.xml#pers0506">Sambanza</persName><add place="inline" rend="gray" hand="#U2">,</add> who
 <lb/>had been sent off early
 <lb/>in the morning for guides<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>returned at midday
@@ -1087,12 +1088,12 @@ and explained that "this
 <lb/>more of a <choice><sic>stupifying</sic><corr>stupefying</corr></choice>
 <lb/>than exciting power<add place="inline" rend="gray" hand="#U2">,</add> hence
 <lb/>the <term type="foodstuff">beer</term> <choice><sic>bibers</sic><corr>bibbers</corr></choice> are <del type="cancelled">often</del>
-<lb/>great sleepers<subst><del hand="#U2">-</del><add place="inline" rend="gray" hand="#U2">;</add></subst> They may<!-- previous letter under 'y' but it is illegible.JL -->
+<lb/>great sleepers<subst><del hand="#U2">-</del><add place="inline" rend="gray" hand="#U2">;</add></subst> <space extent="1" unit="chars"/>They may<!-- previous letter under 'y' but it is illegible.JL -->
 <lb/><add place="marginleft">frequently</add> <add place="below">^</add> be seen <del type="strikethrough">sleeping</del> lying on
 <lb/>their faces sound asleep<add place="inline" rend="gray" hand="#U2">;</add> This
 <lb/>peculiarity <add place="below">^</add> <add place="above">of posture</add> was ascribed by
 <lb/>no less an authority than
-    <lb/><persName ref="people.xml#pers0251">Aristotle</persName> to <term type="foodstuff">wine</term><add place="inline" rend="gray" hand="#U2">,</add> - while those
+    <lb/><persName ref="people.xml#pers0251">Aristotle</persName> to <term type="foodstuff">wine</term><add place="inline" rend="gray" hand="#U2">,</add> - <space extent="1" unit="chars"/>while those
 <lb/>who were sent asleep by <term type="foodstuff">beer</term>
 <lb/>were believed "to lie upon
 <lb/>their backs"</p>

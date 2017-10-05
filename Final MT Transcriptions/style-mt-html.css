@@ -304,7 +304,7 @@ p.right .linenumber{
 .quarterline{
 	border-bottom:1px solid #d0d0d0;
 	display:block;
-	width:11em !important;
+	width:5em !important;
 	margin-left:0;
 	text-align:left;
 	height:0;

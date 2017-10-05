@@ -100,7 +100,7 @@
                 
                               
     <pb facs="liv_000100_0287.jpg" n="0287"/><!-- p278 Missionary Travels, sh -->
-<lb/><p><fw n="heading_XXVIII">XXVIII <add place="inspace" hand="#U1" rend="gray right">286</add></fw>  
+<lb/><p><note place="marginleft">XXVIII</note> <fw><add place="inspace" hand="#U1" rend="gray right">286</add></fw>  
 <lb/>It is a good means of arresting
 <lb/>the attention and conveying
 <lb/>important facts to the minds
@@ -115,7 +115,7 @@
 <lb/>had on a former occasion
     <lb/>sent to <persName ref="people.xml#pers0507">Samoana</persName> for a cloth --
 <lb/>a common way of keeping up
-<lb/>intercourse <add place="inline" rend="gray" hand="#U2">--</add> and after <choice><sic>recieving</sic><corr>receiving</corr></choice>
+<lb/>intercourse <add place="inline" rend="gray" hand="#U2">-</add> and after <choice><sic>recieving</sic><corr>receiving</corr></choice>
 <lb/>it sent it back because it had
 <lb/>the appearance of having had
 <lb/>witchcraft<!-- illegible letter under 'i'.JL --> medicine on it<add place="inline" rend="gray" hand="#U2"><del type="cancelled">;</del>,</add>
@@ -167,7 +167,7 @@
 <lb/>tribes on his Eastern borders<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>which he so much desired
 <lb/>to obtain himself from the 
-<lb/><term type="tribe">Makololo</term>, And we promised
+<lb/><term type="tribe">Makololo</term>, <choice><sic>And</sic><corr>and</corr></choice> we promised
 <lb/>to return through his town
 <lb/>when we came back from 
 <lb/>the sea coast - </p>
@@ -205,7 +205,7 @@
 <lb/>the tusks and goods of <persName ref="people.xml#pers0519">Sekeletu</persName><add place="inline" rend="gray" hand="#U2">,</add> -
 <lb/>seized the luggage and added
 <lb/>she would carry it in spite
-<lb/>of me - My men succumbed
+<lb/>of me - <space extent="1" unit="chars"/>My men succumbed
 <lb/>to this petticoat government
 <lb/>sooner than I did so, <del type="cancelled">I had</del>
 <lb/><add place="marginleft">leaving me</add> no power<add place="inline" rend="gray" hand="#U2">,</add> - and being unwilling
@@ -231,12 +231,12 @@
 <lb/>caama</term></foreign></hi>) <term type="animal">buffaloes</term><add place="inline" rend="gray" hand="#U2">,</add> - and
 <lb/>the small <term type="animal">antelope</term> - (<hi rend="underline"><foreign xml:lang="la"><term type="animal">Philantomba</term></foreign></hi>)</p><!-- check the language of these animal names.JL -->
 <lb/>
-<lb/><p><add place="marginleft">The animals</add> <del type="strikethrough">They</del>can be seen only by
+<lb/><p><add place="marginleft">The animals</add> <del type="strikethrough">They</del> can be seen only by
 <lb/>following on their trail for
 <lb/><add place="marginleft">many</add> <add place="below">^</add> miles<add place="inline" rend="gray" hand="#U2">;</add> <del type="cancelled"><unclear cert="medium">We</unclear></del> Urged on by hunger
 <lb/>we followed that of some
 <lb/><term type="animal">Zebras</term> during the greater part
-<lb/>of the day<add place="inline" rend="gray" hand="#U2">,</add> - When within
+<lb/>of the day<add place="inline" rend="gray" hand="#U2">,</add> - <space extent="1" unit="chars"/>When within
 <lb/><measure>fifty yards</measure> of them <subst><del>a</del><add place="over-text">in</add></subst> a
 <lb/>dense thicket<add place="inline" rend="gray" hand="#U2">,</add> I made sure
 <lb/>of one<add place="inline" rend="gray" hand="#U2">,</add> but to my infinite
@@ -262,7 +262,7 @@
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">290</add></fw>  
 <lb/>a widely extended range of vision<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>and a man <w>ar<subst><del>r</del><add place="over-text">m</add></subst>ed</w> is carefully
-<lb/>shunned - From the frequency
+<lb/>shunned - <space extent="1" unit="chars"/>From the frequency
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>29</note></add> with which I have been allowed
 <lb/>to approach nearer without
 <lb/>than with a gun I believe
@@ -280,7 +280,7 @@
 <lb/>partly be owing to the greater
 <lb/>heat of the sun - for here it
 <lb/>is particularly sharp and
-<lb/>piercing by day<del type="cancelled">,</del> - However
+<lb/>piercing by day<del type="cancelled">,</del> - <space extent="1" unit="chars"/>However
 <lb/>accounted for the <subst><del><unclear cert="low">lif</unclear></del><add place="over-text">w</add></subst>ild
 <lb/>animals here do select
 <lb/>the forests by day<add place="inline" rend="gray" hand="#U2">,</add> while
@@ -292,8 +292,8 @@
                 
 
     <pb facs="liv_000100_0292.jpg" n="0292"/><!-- p281 Missionary Travels, sh --><!-- beginning of MT ch XVI.JL -->
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">291</add></fw>  
-    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0284"><unclear cert="medium">Cross</unclear></persName></hi></note></add> <date when="1854-01-11">11<hi rend="sup underline">th</hi> January 1854</date> On starting this morning
+<lb/><p rend="no-indent"><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0284"><unclear cert="medium">Cross</unclear></persName> <metamark function="placeMark"/></note></add> <fw><add place="inspace" hand="#U1" rend="gray right">291</add></fw>  
+<lb/><date when="1854-01-11">11<hi rend="sup underline">th</hi> January 1854</date> On starting this morning
     <lb/><persName ref="people.xml#pers0507">Samoana</persName> or rather <persName ref="people.xml#pers0463">Nyamoana</persName>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>30</note></add> for the ladies are the <term type="occupation">chiefs</term>
 <lb/>here presented a string of
@@ -307,7 +307,7 @@
 <lb/>replied that I never kept up
 <lb/>my anger all night they were
 <lb/>well pleased <del type="strikethrough">when I seemed</del>
-<lb/><add place="marginleft">to see me</add> satisfied - We had to cross a
+<lb/><add place="marginleft">to see me</add> satisfied - <space extent="1" unit="chars"/>We had to cross a
 <lb/>stream which flows past the
     <lb/>village of <persName ref="people.xml#pers0463">Nyamoana</persName> in a
 <lb/>canoe - <persName ref="people.xml#pers0388">Manenko</persName>'s <term type="occupation">doctor</term>
@@ -317,10 +317,10 @@
     <lb/>hand and
     <lb/>on her body</add> 
 <add place="marginleft">^</add> before she ventured upon the
-<lb/>water - One of my men
+<lb/>water - <space extent="1" unit="chars"/>One of my men
 <lb/>spoke rather loudly when
 <lb/>near the <choice><sic><term type="occupation">Doctor</term>s</sic><corr><term type="occupation">doctor</term>'s</corr></choice> basket of
-<lb/>medicines - The <term type="occupation">doctor</term> reproved 
+<lb/>medicines - <space extent="1" unit="chars"/>The <term type="occupation">doctor</term> reproved 
 <lb/>him and spoke always in
 <lb/>a whisper<!-- possible letter under 'h' but it is illegible.JL --> himself glancing
 <lb/>back to the basket as if
@@ -331,12 +331,13 @@
 <lb/>to <choice><orig>shew</orig><reg>show</reg></choice> the difference in the 
 <lb/>feelings of this new people &amp;
 <lb/><choice><sic>and</sic><corr/></choice> the comparative want of
-    <lb/>feeling on these points among <add place="below"><orgName ref="orgName.xml#org0042">Caffres</orgName> &amp; <term type="tribe">Bechuanas</term></add></p>
+<lb/>feeling on these points among 
+<lb/><space extent="16" unit="chars"/><orgName ref="orgName.xml#org0042">Caffres</orgName> &amp; <term type="tribe">Bechuanas</term></p>
 
 
     <pb facs="liv_000100_0293.jpg" n="0293"/>
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">292</add></fw>  
-<lb/><persName ref="people.xml#pers0388">Manenko</persName> was accompanied 
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">292</add></fw>  
+<lb/><p><persName ref="people.xml#pers0388">Manenko</persName> was accompanied 
 <lb/>by her husband and <term type="occupation">drummer</term>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>31</note></add> The latter continued to thump most
 <lb/>vigorously <choice><sic>untill</sic><corr>until</corr></choice> <seg type="weather">a heavy <term type="nationality">Scotch</term>
@@ -372,19 +373,19 @@
 
 
     <pb facs="liv_000100_0294.jpg" n="0294"/>
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">293</add></fw>  
-<lb/>The country through which 
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">293</add></fw>  
+<lb/><p>The country through which 
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>32</note></add> we were passing was <add place="below">^</add> <subst><del type="strikethrough">a</del><add>the same</add></subst> succession
 <lb/>of forest and open lawns
 <lb/>as <add place="inline">was</add> formerly mentioned - The
 <lb/><del type="strikethrough">forest</del> trees were nearly all
 <lb/><add place="marginleft">ever</add>greens and <del type="strikethrough">the open</del> of good
 <lb/>though not very gigantic
-<lb/>size - The lawns were 
+<lb/>size - <space extent="1" unit="chars"/>The lawns were 
 <lb/>covered with grass which
 <lb/>in thickness of crop looked
 <lb/>like ordinary <del type="cancelled">by</del> <term type="nationality">English</term> 
-<lb/>hay - We passed two small
+<lb/>hay - <space extent="1" unit="chars"/>We passed two small
 <lb/><choice><sic>Hamlets</sic><corr>hamlets</corr></choice> surrounded by
 <lb/>gardens of <term type="plant_foodstuff">maize</term> and
 <lb/><term type="plant_foodstuff">Manioc</term> and near these
@@ -402,7 +403,7 @@
 <lb/>It is called a <term type="animal">lion</term> though
 <lb/>if one were not told he
 <lb/>would conclude it to be
-<lb/>an <term type="animal">alligator</term> - It stood
+<lb/>an <term type="animal">alligator</term> - <space extent="1" unit="chars"/>It stood
 <lb/>in a shed and <del type="strikethrough">they</del> <add place="below">^</add> <add place="marginleft">the Balonda <del type="strikethrough"><add place="below">^</add></del></add> pray &amp;
 <lb/>beat drums before <del type="strikethrough">them</del> it
 <lb/>all night in cases of
@@ -410,8 +411,8 @@
     
     
     <pb facs="liv_000100_0295.jpg" n="0295"/>
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">294</add></fw>  
-<lb/>Some of the men of <choice><sic><persName ref="people.xml#pers0388">Manenko</persName>s</sic><corr><persName ref="people.xml#pers0388">Manenko</persName>'s</corr></choice>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">294</add></fw>  
+<lb/><p>Some of the men of <choice><sic><persName ref="people.xml#pers0388">Manenko</persName>s</sic><corr><persName ref="people.xml#pers0388">Manenko</persName>'s</corr></choice>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>33</note></add> train had shields made of <term type="plant">reeds</term>
 <lb/>neatly woven into a square <subst><del>of</del><add place="over-text">ab</add></subst>out
 <lb/>five feet long &amp; three broad
@@ -456,7 +457,7 @@
 <lb/>drenchings in these unhealthy
 <lb/>part</p>
 <lb/>
-<lb/><p>On the <add place="below">^</add> <add place="above"><date when="1854-01-11">11<hi rend="sup">th</hi></date> &amp;</add> <date when="1854-01-12">12<hi rend="sup underline">th</hi></date> we were detained
+<lb/><p>On the <add place="below">^</add> <add place="above"><date when="1854-01-11">11<hi rend="sup">th</hi></date> &amp;</add> <subst><del><unclear cert="medium">t</unclear></del><add place="over-text"><date when="1854-01-12">12<hi rend="sup underline">th</hi></date></add></subst> we were detained
 <lb/>by <del type="cancelled">long</del> <seg type="weather">incessant rains so
 <lb/>heavy</seg> I never saw the
 <lb/>like in the south - I had
@@ -469,7 +470,7 @@
 <lb/>was admirable - The actual
 <lb/>want is never so painful
 <lb/>as the thought of getting nothing
-<lb/>in front - We thought the
+<lb/>in front - <space extent="1" unit="chars"/>We thought the
 <lb/>people of some large hamlets
 <lb/>near us very niggardly
 <lb/>and very <choice><sic>independant</sic><corr>independent</corr></choice>
@@ -477,10 +478,10 @@
 <lb/>gave us <add place="below">^</add> <add place="marginleft">&amp; <persName ref="people.xml#pers0388">Manenko</persName></add> nothing though
 <lb/>they had large fields of
 <lb/><term type="plant_foodstuff">maize</term> in an eatable state
-<lb/>around them - When she
+<lb/>around them - <space extent="1" unit="chars"/>When she
 <lb/>went and kindly begged some
 <lb/>for me they gave her
-<lb/>five cobs only - They were
+<lb/>five cobs only - <space extent="1" unit="chars"/>They were
 <lb/>subjects of her uncle
 <lb/>and had they been <term type="tribe">Makololo</term>
 <lb/>would have been lavish
@@ -514,7 +515,7 @@
 <lb/>a sense of insecurity in
 <lb/>regard to their fellow men
 <lb/>for there are no wild beasts
-<lb/>to disturb them - the bows
+<lb/>to disturb them - <space extent="1" unit="chars"/>The bows
 <lb/>and arrows <subst><del>are</del><add place="over-text">have</add></subst> been
 <lb/>nearly as <choice><sic>efficaceous</sic><corr>efficacious</corr></choice>
 <lb/>in clearing the country
@@ -557,16 +558,16 @@
 <lb/>it <del type="strikethrough">flows</del> comes, I now
 <lb/>consider to be not <del type="cancelled">certai</del> so
 <lb/>sure a guide as the botanical
-<lb/>range noticed above - The 
+<lb/>range noticed above - <space extent="1" unit="chars"/>The 
 <lb/>test by the boiling point
-<lb/>of water proves the botanical
+<lb/>of water proves <space extent="2" unit="chars"/>the botanical
 <lb/>evidence to be <del type="strikethrough">so far</del>
 <lb/>correct - </p>
 
 
     <pb facs="liv_000100_0299.jpg" n="0299"/>
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">298</add></fw>  
-<lb/>The forest became more
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">298</add></fw>  
+<lb/><p>The forest became more
 <lb/>dense as we went North - We
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>37</note></add> travelled much more in the
 <lb/>deep gloom of the forest than
@@ -599,7 +600,7 @@
 <lb/>first encountered <add place="below">^</add> <add place="above">the</add> artificial
 <lb/><term type="insect">bee</term> hives so commonly
 <lb/>met with all the <add place="below">^</add> <add place="above">way</add> from this
-<lb/>to <placeName><country>Angola</country></placeName> - They consist
+<lb/>to <placeName><country>Angola</country></placeName> - <space extent="2" unit="chars"/>They consist
 
 
     <pb facs="liv_000100_0300.jpg" n="0300"/><!-- p284 Missionary Travels, sh -->
@@ -620,13 +621,13 @@
 <lb/>comes from the tree - The 
 <lb/>elasticity of the bark makes
 <lb/>it assume the form it had
-<lb/>before - The slit is sewed
+<lb/>before - <space extent="1" unit="chars"/>The slit is sewed
 <lb/><add place="marginleft">or pegged <add place="below">^</add></add> up with wooden pins
 <lb/>and ends made of coiled
 <lb/>grass rope inserted having
 <lb/>a hole for the ingress of
 <lb/>the <term type="insect">bees</term> <add place="below">^</add> <add place="marginleft">in the centre</add> and the hive is
-<lb/>complete - They are placed
+<lb/>complete - <space extent="2" unit="chars"/>They are placed
 <lb/>on high trees in a horizontal
 <lb/>position in different parts
 <lb/>of the forest - <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-191"/>In this way
@@ -638,7 +639,7 @@
     <lb/>It is all the
     <lb/>produce of
     <lb/>free labour<anchor xml:id="meta-191"/></add>
-A piece of
+<space extent="1" unit="chars"/>A piece of
 <lb/>medicine is tied round
 <lb/>the trunk of the trees and
 <lb/>proves sufficient protection
@@ -654,17 +655,17 @@ A piece of
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">300</add></fw>  
 <lb/>to a few they act on the principle
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>39</note></add> that it is best to let them
-<lb/>all alone - The gloom of
+<lb/>all alone - <space extent="1" unit="chars"/>The gloom of
 <lb/>these forests strengthens the
 <lb/>superstitious feelings of the
-<lb/>people - In other parts where
+<lb/>people - <space extent="1" unit="chars"/>In other parts where
 <lb/><add place="marginleft">they <add place="below">^</add></add> <del type="strikethrough">the people</del> are not subjected
 <lb/>to this influence I have heard
 <lb/>the <term type="occupation">chiefs</term> issue proclamations
 <lb/>to the effect that real <choice><sic>witc<subst><del>h</del><add place="over-text">r</add></subst>aft</sic><corr>witchcraft</corr></choice>
 <lb/>medicines had been placed
 <lb/>at certain gardens from which
-<lb/>produce had been stolen <add place="above"><del type="cancelled">on</del></add> - The
+<lb/>produce had been stolen <add place="above"><del type="cancelled">on</del></add> - <space extent="1" unit="chars"/>The
 <lb/>thieves having risked the
 <lb/>power of the ordinary <subst><del>med</del><add place="over-text">ch</add></subst>arms
 <lb/>previously placed<!-- possible overwriting here, but the previous letters are illegible.JL --> there</p>
@@ -673,27 +674,28 @@ A piece of
 <lb/>great quantities of <term type="plant_foodstuff">Mushrooms</term>
 <lb/>were met with and were
 <lb/>eagerly devoured by my
-<lb/>companions - The edible
+<lb/>companions - <space extent="1" unit="chars"/>The edible
 <lb/>variety is always found
 <lb/>growing out of <term type="insect">ant</term>hills
 <lb/>and attains the diameter
 <lb/>of the crown of <choice><sic>ones</sic><corr>one's</corr></choice> hat
 <lb/>They are quite white and
 <lb/>very good <subst><del>when</del><add place="over-text">even</add></subst> when
-<lb/>eaten raw - They <subst><del>are</del><add place="over-text">occ</add></subst>upy
+<lb/>eaten raw - <space extent="1" unit="chars"/>They <subst><del>are</del><add place="over-text">occ</add></subst>upy
 <lb/>an extensive region of
 <lb/>the <placeName><region>Interior</region></placeName> - others <subst><del>are</del><add place="over-text">n</add></subst>ot
 <lb/>edible are of a brilliant
 <lb/>red and other of the same
 <lb/>light blue as the paper used
-<lb/>by <term type="occupation">apothecaries</term> to put up their <add place="below">medicines</add></p>
+<lb/>by <term type="occupation">apothecaries</term> to put up their 
+<lb/><space extent="15" unit="chars"/>medicines</p>
 
 
     <pb facs="liv_000100_0302.jpg" n="0302"/>
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">301</add></fw>  
-    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0266">Bristow</persName></hi></note></add> There was considerable
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">301</add></fw>  
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0266">Bristow</persName></hi></note></add> There was considerable
 <lb/>pleasure in spite of <seg type="weather">rain</seg> &amp; <term type="ailment">fever</term>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note>40</note></add> in this new scenery - The 
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>40</note></add> in this new scenery - <space extent="1" unit="chars"/>The 
 <lb/>deep gloom contrasted strongly
 <lb/>with the shadeless glare - of
 <lb/>the <placeName><geogName type="desert">Kalahari</geogName></placeName> <del type="cancelled">to</del> which <del type="cancelled">I</del> had
@@ -710,7 +712,7 @@ A piece of
 <lb/>a slight quick impression
 <lb/>flitting across the mind
 <lb/>that we were guilty of
-<lb/>waste - Every now &amp; then
+<lb/>waste - <space extent="1" unit="chars"/>Every now &amp; then
 <lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> we emerged from the deep
 <lb/>gloom into a pretty little
 <lb/>valley having a damp
@@ -718,7 +720,7 @@ A piece of
 <lb/>though now filled with
 <lb/>water at other times contains
 <lb/>moisture enough for
-<lb/>wells only - These wells
+<lb/>wells only - <space extent="3" unit="chars"/>These wells
 <lb/>have shades put over them
 <lb/>in the form of little huts</p>              
 <lb/><p>We crossed a little
@@ -739,12 +741,12 @@ A piece of
 <lb/>of an oblong shape and
 <lb/>seemed at least <del type="cancelled">a thousan</del>
 <lb/><measure>800 feet</measure> above the plains
-<lb/>below - The <placeName><geogName type="river">Lefuje</geogName></placeName> coming
+<lb/>below - <space extent="1" unit="chars"/>The <placeName><geogName type="river">Lefuje</geogName></placeName> coming
 <lb/>from it probably derives 
 <lb/>its name from the rapid
 <lb/>descent of the short course
 <lb/>it has to flow from the
-<lb/><placeName><geogName type="mountain">Monakadzi</geogName></placeName> to the <placeName><geogName type="river">Leeba</geogName></placeName> - </p>
+<lb/><placeName><geogName type="mountain">Monakadzi</geogName></placeName> to the <placeName><geogName type="river">Leeba</geogName></placeName>. </p>
 <lb/>
 <lb/><p>The numbers of little
 <lb/>villages seemed about equal
@@ -759,7 +761,7 @@ A piece of
 <lb/><add place="marginleft">beaten</add> <add place="below">^</add> <del type="strikethrough">going</del> pretty<!-- possible letter under 'r' but it is illegible.JL --> constantly in
 <lb/>order to give notice
 <lb/>of the approach of great
-<lb/>people - When we had decided
+<lb/>people - <space extent="2" unit="chars"/>When we had decided
 <lb/>to remain for the night at any
 <lb/>village the inhabitants lent
 <lb/>us <w>the<del type="cancelled">ir</del></w> roofs of their huts
@@ -770,22 +772,22 @@ A piece of
 <lb/>which in form resemble a
 <lb/><term type="person">Chinaman</term>'s hat and can
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>42</note></add> be taken off the walls at
-<lb/>pleasure - They lifted them 
+<lb/>pleasure - <space extent="3" unit="chars"/>They lifted them 
 <lb/>off and brought them to the
 <lb/>spot we had selected as our
 <lb/>lodging and when my men
 <lb/><choice><sic>proped</sic><corr>propped</corr></choice> them up with stakes
 <lb/>they were then safely housed
-<lb/>for the night - Every one
+<lb/>for the night - <space extent="1" unit="chars"/>Every one
 <lb/>who comes to salute either
 <lb/><persName ref="people.xml#pers0388">Manenko</persName> or us <del type="cancelled"><unclear cert="medium">smears</unclear></del>
 <lb/><add place="marginleft">rubs <add place="below">^</add></add> the upper part of the arms
 <lb/>and chest with ashes - Those
 <lb/>who wish to <choice><orig>shew</orig><reg>show</reg></choice> profounder
 <lb/>reverence put some also
-<lb/>on the face - We found also
+<lb/>on the face - <space extent="1" unit="chars"/>We found also
 <lb/>that every village had its
-<lb/>idols near it This is the
+<lb/>idols near it <space extent="1" unit="chars"/>This is the
 <lb/>case all through the country
 <lb/>of the <term type="tribe">Balonda</term> so that
 <lb/>when we came to an
@@ -793,15 +795,15 @@ A piece of
 <lb/>always knew that we
 <lb/>were within a quarter
 <lb/>of an hour of human
-<lb/>habitations - One <subst><del>ido</del><add place="over-text">v</add></subst>ery
+<lb/>habitations - <space extent="1" unit="chars"/>One <subst><del>ido</del><add place="over-text">v</add></subst>ery
 <lb/>ugly idol we passed <del type="strikethrough">had
 <lb/>two loops</del> <w>rest<subst><del>ing</del><add place="over-text">ed</add></subst></w> on a 
 <lb/>horizontal beam placed on
-<lb/>two upright posts - This
+<lb/>two upright posts - <space extent="1" unit="chars"/>This
 <lb/>beam was furnished with
 <lb/>two loops of cord as of a
 <lb/>chain to suspend offerings
-<lb/>before it - On remarking
+<lb/>before it - <space extent="1" unit="chars"/>On remarking
 
 
     <pb facs="liv_000100_0305.jpg" n="0305"/>
@@ -822,12 +824,12 @@ A piece of
 <lb/>approaching they would
 <lb/>have full information
 <lb/><persName ref="people.xml#pers0388">Manenko</persName> having brought
-<lb/>us to a stand on account
+<lb/>us to a stand <space extent="1" unit="chars"/>on account
 <lb/>of slight indisposition and
 <lb/>desire to send forward
 <lb/>notice of our approach
-<lb/>to her uncle - I asked
-    <lb/>if <persName ref="people.xml#pers0532">Shinte</persName> had idols who
+<lb/>to her uncle - <space extent="1" unit="chars"/>I asked
+<lb/>if <persName ref="people.xml#pers0532">Shinte</persName> had idols who
 <lb/>could tell him everything
 <lb/>why it was necessary
 <lb/>to send forward information
@@ -837,15 +839,15 @@ A piece of
 <lb/>to <choice><orig>shew</orig><reg>show</reg></choice> one who worships
 <lb/>idols the folly of idolatry
 <lb/>without giving something
-<lb/>else instead - They do not love
-<lb/>them - They fear them and
+<lb/>else instead - <space extent="1" unit="chars"/>They do not love
+<lb/>them - <space extent="1" unit="chars"/>They fear them and
 <lb/>betake themselves to their idols
 <lb/>only when in perplexity &amp; danger</p> 
 
 
     <pb facs="liv_000100_0306.jpg" n="0306"/>
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">305</add></fw>  
-    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0278">Chester</persName></note></add> Whilst delayed among the <term type="tribe">Balonda</term>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">305</add></fw>  
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0278">Chester</persName></note></add> Whilst delayed among the <term type="tribe">Balonda</term>
 <lb/>villages a little to the South of
     <lb/>the town of <persName ref="people.xml#pers0532">Shinte</persName> by <choice><sic><persName ref="people.xml#pers0388">Manenko</persName>s</sic><corr><persName ref="people.xml#pers0388">Manenko</persName>'s</corr></choice>
 <lb/>management we were well
@@ -871,7 +873,7 @@ A piece of
 <lb/>spot - "No it is out custom"
 <lb/>and everything else I could urge
 <lb/>was answered in the genuine
-<lb/><choice><sic>pertinaceous</sic><corr>pertinacious</corr></choice> lady style - She
+<lb/><choice><sic>pertinaceous</sic><corr>pertinacious</corr></choice> lady style - <space extent="1" unit="chars"/>She
 <lb/>ground some <term type="foodstuff">meal</term> for me
 <lb/>with her own hands and
 <lb/>when she brought it told me
@@ -901,7 +903,7 @@ when obliged
 <lb/>goods many of which
 <lb/>were mouldy and rotten
 <lb/>from the long continued
-<lb/>damp - The guns rusted
+<lb/>damp - <space extent="1" unit="chars"/>The guns rusted
 <lb/>in spite of being oiled
 <lb/>every evening</p>
 <lb/><p>During the night we
@@ -949,7 +951,7 @@ I <w><subst><del>c</del><add place="over-text">w</add></subst>ould</w> <del type
 <lb/>dilly dallying way of <add place="below">^</add> <add place="above">this lady</add> <del type="cancelled"><persName ref="people.xml#pers0388">Manenko</persName></del>
 <lb/>was the proper mode
 <lb/>of making acquaintance
-<lb/>with the <term type="tribe">Balonda</term> and
+<lb/>with the <space extent="1" unit="chars"/><term type="tribe">Balonda</term> and
 <lb/>much of the favour with
 <lb/>which I was afterwards
 <lb/><choice><sic>recieved</sic><corr>received</corr></choice> in different places
@@ -963,7 +965,7 @@ I <w><subst><del>c</del><add place="over-text">w</add></subst>ould</w> <del type
 <lb/>and sent forward a man
 <lb/>to give notice of who we
 <lb/>were and what were our
-<lb/>objects - The <term type="occupation">headman</term> of
+<lb/>objects - <space extent="2" unit="chars"/>The <term type="occupation">headman</term> of
 
 
     <pb facs="liv_000100_0309.jpg" n="0309"/>
@@ -977,11 +979,11 @@ I <w><subst><del>c</del><add place="over-text">w</add></subst>ould</w> <del type
 <lb/>rather tedious teaching of
 <lb/><persName ref="people.xml#pers0388">Manenko</persName> I sometimes entered
 <lb/>a village and created <w>unintention<supplied>-</supplied>
-<lb break="no"/>-al</w> alarm - The villagers
-<lb/><add place="marginleft" rend="gray" hand="#U2">201</add><!-- number is circled.JL --> would continue to <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- gray bracket connects to the marginal number.JL -->look
+<lb break="no"/>-al</w> alarm - <space extent="1" unit="chars"/>The villagers
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>201</note></add><!-- number is circled.JL --> would continue to <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- gray bracket connects to the marginal number.JL -->look
 <lb/>upon <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>us with suspicion
-<lb/>as long <metamark function="ed-mark" rend="gray" resp="#U2">⎣</metamark>as we remained
-    <lb/><persName ref="people.xml#pers0532">Shinte</persName> sent us two large
+<lb/>as long <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>as we remained
+<lb/><persName ref="people.xml#pers0532">Shinte</persName> sent us two large
 <lb/>baskets of <term type="plant_foodstuff">manioc</term> and
 <lb/>six dried <term type="animal"><term type="foodstuff">fishes</term></term> - <add place="below">^</add> <add place="marginleft">His men</add> <del type="strikethrough">They</del> had
 <lb/>on the skins of a <term type="animal">monkey</term>
@@ -998,9 +1000,9 @@ I <w><subst><del>c</del><add place="over-text">w</add></subst>ould</w> <del type
 <lb/>to their idols <del type="cancelled">in</del> when
 <lb/>unsuccessful in killing
 <lb/>game or in any other
-<lb/>enterprise - They behaved
+<lb/>enterprise - <space extent="1" unit="chars"/>They behaved
 <lb/>with reverence at our
-<lb/>religious services - This
+<lb/>religious services - <space extent="1" unit="chars"/>This
 <lb/>will appear important
 
 

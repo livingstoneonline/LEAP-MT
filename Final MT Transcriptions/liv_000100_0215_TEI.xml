@@ -96,15 +96,15 @@
             <div>
                 
         <pb facs="liv_000100_0215.jpg" n="0215"/>                           
-<lb/><fw n="heading_XXV">XXV <add place="inspace" hand="#U1" rend="gray right">214</add></fw>
-<lb/><p>he remained silent about
+<lb/><note place="marginleft">XXV</note> <fw><add place="inspace" hand="#U1" rend="gray right">214</add></fw>
+<lb/><p rend="no-indent">he remained silent about
 <lb/>the loss of his village - it being
 <lb/>considered a crime among
 <lb/>the <term type="tribe">Makololo</term> for any one to
 <lb/>treat his people so as to
 <lb/>cause their flight - He then
 <lb/>passed us and secretly made
-<lb/>his escape away from
+<lb/>his escape away <space extent="1" unit="chars"/>from
     <lb/><placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> <add place="marginleft"><metamark function="insertion"/>to <placeName><geogName type="lake">Lake
     <lb/>Ngami</geogName></placeName></add>
 dreading the vengeance
@@ -167,7 +167,7 @@ dreading the vengeance
 <lb/>of whitish <choice><sic>tenaceous</sic><corr>tenacious</corr></choice> clay
 <lb/>with strata of black clay loam
 <lb/>in sand - or pure sand
-<lb/>stratified - As the river rises
+<lb/>stratified - <space extent="1" unit="chars"/>As the river rises
 <lb/>it is always wearing to one
 <lb/>side or other and <del type="cancelled"><unclear cert="medium">l</unclear></del> is known
 
@@ -176,7 +176,7 @@ dreading the vengeance
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">216</add></fw>
 <lb/>to have cut <w>ac<del type="strikethrough">c</del>ross</w> from one
 <lb/>bend to another and form
-<lb/>new beds - As we coast
+<lb/>new beds - <space extent="1" unit="chars"/>As we coast
 <lb/>along the shore pieces which
 <lb/>are undermined often fall
 <lb/>in with a splash like that
@@ -184,13 +184,13 @@ dreading the vengeance
 <lb/>the canoe - </p>
 <lb/><p>These perpendicular banks
 <lb/>afford building places to a
-<lb/>pretty <term type="animal">bee eater</term> <add place="inline">*</add> <add place="marginleft"><note>*<foreign xml:lang="la"><term type="animal">Merops
+<lb/>pretty <term type="animal">bee eater</term> <metamark function="ed-mark">*</metamark> <add place="marginleft"><note><metamark function="ed-mark">*</metamark> <foreign xml:lang="la"><term type="animal">Merops
     <lb/>apiaster</term></foreign> &amp;
     <lb/><foreign xml:lang="la"><term type="animal">M- Bullockoides</term></foreign>
     <lb/><persName>Smith</persName> - </note></add>
 <del type="strikethrough">(<foreign xml:lang="la"><term type="animal">apiaster</term></foreign>)</del>
 <lb/>which loves to breed in
-<lb/>society - The face of the sand
+<lb/>society - <space extent="1" unit="chars"/>The face of the sand
 <lb/>bank is perforated with
 <lb/>hundreds of holes leading
 <lb/>to their nests each of which
@@ -210,24 +210,24 @@ dreading the vengeance
 <lb/>are seen everywhere along
 <lb/>the banks dashing down like
 <lb/>bolts into the water for their
-<lb/>prey - - Another seen more
+<lb/>prey - - <space extent="1" unit="chars"/>Another seen more
 <lb/>rarely is as large as a <term type="animal">pigeon</term>
 <lb/>and is of a slaty colour</p>
 
 
             <pb facs="liv_000100_0218.jpg" n="0218"/>                           
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">217</add></fw>
-    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0400">Mead</persName></hi></note></add> Another inhabitant of the
+    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0400">Mead</persName> <metamark function="placeMark"/></note></add> Another inhabitant of the
 <lb/>banks is the <term type="animal">sand martin</term>
 <lb/>which too loves company
 <lb/>in the work of raising a
-<lb/>family - They never leave
+<lb/>family - <space extent="1" unit="chars"/>They never leave
 <lb/>this part, one may see
 <lb/>them preening themselves in
 <lb/>the very depths of winter while
 <lb/>the <term type="animal">swallows</term> of which we
 <lb/>shall yet speak take winter
-<lb/>trips - I saw <term type="animal">sand martins</term>
+<lb/>trips - <space extent="1" unit="chars"/>I saw <term type="animal">sand martins</term>
 <lb/>at the <placeName><geogName type="river"><choice><sic>orange</sic><corr>Orange</corr></choice> river</geogName></placeName> <del type="strikethrough">when</del>
 <lb/>during <seg type="weather">a period of winter frost</seg>
 <lb/>it is therefore probable that
@@ -250,7 +250,7 @@ dreading the vengeance
 <lb/>yet the water was not discoloured
 <lb/><del type="cancelled">The want of</del> <subst><del>discol</del><add place="over-text">It</add></subst> had however
 <lb/>a slightly yellowish green tinge
-<lb/>(<choice><sic>ie-</sic><corr>i.e.</corr></choice> somewhat deeper than
+<lb/>(<choice><sic>ie-</sic><corr>i.e.</corr></choice> <space extent="1" unit="chars"/>somewhat deeper than
 <lb/>its natural colour - This arose
 
 
@@ -391,7 +391,7 @@ in front
 <lb/> of the men cut a little grass
     <lb/>for my bed while <persName ref="people.xml#pers0393">Mashauana</persName>
 <lb/>plants the poles of the little
-<lb/>tent - These are used by
+<lb/>tent - <space extent="1" unit="chars"/>These are used by
 <lb/>day for carrying burdens
 <lb/>for the <term type="tribe">Barotse</term> fashion
 <lb/>is exactly like that of
@@ -419,14 +419,14 @@ in front
 <lb/>to occupy in reference to the
 <lb/>post of honour at the fire
 <lb/><del type="strikethrough">which</del> <del type="cancelled" cert="high"><choice><abbr>viz</abbr><expan>videlicet</expan></choice></del> in front of the door
-<lb/>of the tent - The two <term type="tribe">Makololo</term>
+<lb/>of the tent - <space extent="1" unit="chars"/>The two <term type="tribe">Makololo</term>
 <lb/>occupy my right &amp; left - both
 <lb/>in eating &amp; sleeping as long
 <lb/>as the journey lasts But
     <lb/><add place="marginleft" hand="#U2" rend="gray"><note>55</note></add> <persName ref="people.xml#pers0393">Mashauana</persName> my <term type="occupation">head <w>boat<supplied>-</supplied>
 <lb break="no"/>man</w></term> makes his bed at the
 <lb/>door of the tent as soon as
-<lb/>I retire - The rest divided
+<lb/>I retire - <space extent="1" unit="chars"/>The rest divided
 <lb/>into small companies according
 <lb/>to their tribes make sheds all
 <lb/>round the fire leaving a <term type="animal">horse</term>
@@ -435,7 +435,7 @@ in front
 <lb/>The fire gives confidence to
 <lb/>the <term type="animal">oxen</term> so they are always
 <lb/>careful to keep them in
-<lb/>sight of that - The sheds
+<lb/>sight of that - <space extent="1" unit="chars"/>The sheds
 
 
     <pb facs="liv_000100_0223.jpg" n="0223"/>                           
@@ -456,7 +456,7 @@ in front
 <lb/>draw <choice><sic>of</sic><corr>off</corr></choice> the <seg type="weather">rain</seg> and
 <lb/>we have sheds open to the
 <lb/>fire but secure from beasts
-<lb/>behind - In less than an
+<lb/>behind - <space extent="1" unit="chars"/>In less than an
 <lb/>hour we were usually all
 <lb/>under cover - We never
 <lb/>lacked abundance of grass
@@ -485,7 +485,7 @@ in front
 <lb/>which at best were but
 <lb/>greasy skins - The picture
 <lb/>was one of perfect peace - </p>
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></hi></note></add> The cooking is usually
+                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName> <metamark function="placeMark"/></note></add> The cooking is usually
 <lb/>done in their own style
 <lb/>and as they carefully wash
 <lb/><add place="marginleft">the dishes pot &amp;</add> the hands before handling
@@ -548,12 +548,12 @@ in front
 <lb/><term type="animal">plovers</term> - <term type="animal">snipes</term> <term type="animal">curlews</term>, <term type="animal">Herons</term>
 <lb/>without number</p>
 <lb/><p>There are besides the more
-<lb/>common some strange varieties
+<lb/>common some strange varieties</p>
 
 
     <pb facs="liv_000100_0226.jpg" n="0226"/>                           
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">225</add></fw>
-<lb/>The pretty white <term type="animal">Ardetta</term> is seen in
+<lb/><p rend="no-indent">The pretty white <term type="animal">Ardetta</term> is seen in
 <lb/>flocks settling on the backs of
 <lb/>large herds of <term type="animal">buffaloes</term> and
 <lb/>following them on the wing
@@ -570,7 +570,7 @@ in front
 <lb/>on the sandbanks the very
 <lb/>picture of a comfortable gentleman
 <lb/>who loves <term type="foodstuff">port</term> when dressed
-<lb/>for dinner - The<subst><del>y</del><add place="over-text">ir</add></subst> nests are
+<lb/>for dinner - <space extent="1" unit="chars"/>The<subst><del>y</del><add place="over-text">ir</add></subst> nests are
 <lb/>only little hollows made
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>59</note></add> on these same sandbanks
 <lb/>without attempt at concealment
@@ -598,7 +598,7 @@ in front
 <lb/>and must have everything
 <lb/>placed into <subst><del>its</del><add place="over-text">the</add></subst> mouth by
 <lb/>the parents till <del type="strikethrough">it</del> they <add place="below">^</add> <add place="above">are</add> able to
-<lb/><add place="marginleft">fish -</add> <del type="cancelled">hunt</del> for <add place="below">^</add> <add place="above">themselves</add> <del type="cancelled">itself</del> - The lower
+<lb/><add place="marginleft">fish -</add> <del type="cancelled">hunt</del> for <add place="below">^</add> <add place="above">themselves</add> <del type="cancelled">itself</del> - <space extent="1" unit="chars"/>The lower
 <lb/>mandible as thin as a paper
 <lb/>knife is put into the water
 <lb/>while the bird skims along
@@ -615,12 +615,12 @@ in front
 <lb/>the water can be so well
 <lb/>performed as to yield a meal
 <lb/>for most of it is done in
-<lb/>the dark - Like most
+<lb/>the dark - <space extent="1" unit="chars"/>Like most
 <lb/>aquatic feeders they work
 <lb/>by night when insects <add place="below">^</add> <add place="above">&amp; <term type="animal">fishes</term></add> rise
-<lb/>to the surface - They
+<lb/>to the surface - <space extent="1" unit="chars"/>They
 <lb/>have great affection for
-<lb/>their young - the amount
+<lb/>their young - <space extent="1" unit="chars"/>the amount
 <lb/>being increased in proportion
 <lb/>to the helplessness of <w>the<del type="cancelled">ir</del></w>
 <lb/>offspring</p>
@@ -630,8 +630,8 @@ in front
 <lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">227</add></fw>
 <lb/>There are also numbers of
 <lb/><term type="animal"><choice><orig>spoon bills</orig><reg>spoonbills</reg></choice></term> nearly white in
-<lb/>plumage - The beautiful stately
-<lb/><term type="animal">Flamingo</term> - The <term type="animal">Numidian
+<lb/>plumage - <space extent="2" unit="chars"/>The beautiful stately
+<lb/><term type="animal">Flamingo</term> - <space extent="2" unit="chars"/>The <term type="animal">Numidian
 <lb/>crane</term> or <term type="animal">Demoiselle</term> some
 <lb/>of which tamed at <orgName ref="orgName.xml#org0056">Government
     <lb/>House <placeName><settlement type="city" ref="settlement.xml#sett0038">Cape town</settlement></placeName></orgName> struck everyone
@@ -658,13 +658,12 @@ as they perched on <add place="below">^</add> <add place="above">its</add> pilla
 <lb/>insect <choice><sic>in<add place="inline">der</add></sic><corr>under</corr></choice> the bottom <subst><del>in</del><add place="over-text">then</add></subst> lifts
 <lb/>it up quickly making a rapid
 <lb/>gobbling as if swallowing
-<lb/>a wriggling <term type="insect">worm</term></p>
-<lb/><space dim="vertical" extent="5" unit="lines"/>                
+<lb/>a wriggling <term type="insect">worm</term></p>              
                 
                 
         <pb facs="liv_000100_0229.jpg" n="0229"/>                           
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">228</add></fw>
-    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0482">Powell</persName></hi></note></add> The <foreign xml:lang="la"><term type="animal">Parra Africana</term></foreign> runs 
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">228</add></fw>
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0482">Powell</persName> <metamark function="placeMark"/></note></add> The <foreign xml:lang="la"><term type="animal">Parra Africana</term></foreign> runs 
 <lb/>about as if walking on
 <lb/>water catching insects - It has
 <lb/><del type="strikethrough">too</del> long thin legs <add place="below">^</add> <add place="above">too</add> but extremely
@@ -681,7 +680,7 @@ as they perched on <add place="below">^</add> <add place="above">its</add> pilla
 <lb/>not by swimming or
 <lb/>flying but by walking on the
 <lb/>water</p>
-<lb/><p>Water Birds whose prey or food
+<lb/><p rend="no-indent">Water Birds whose prey or food
 <lb/>requires a certain aim or
 <lb/><add place="marginleft">action in one</add> <del type="strikethrough">straight</del> line of action have
 <lb/>bills quite straight in form
@@ -698,13 +697,13 @@ as they perched on <add place="below">^</add> <add place="above">its</add> pilla
                 
 
     <pb facs="liv_000100_0230.jpg" n="0230"/>                           
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">229</add></fw>
-    <lb/>The <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName> contains
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">229</add></fw>
+<lb/><p>The <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName> contains
 <lb/>great numbers of the <term type="animal">Egyptian
-    <lb/>geese</term> <add place="inline">*</add> <add place="marginleft"><metamark function="flag" spanTo="#meta-181"/><note>*<foreign xml:lang="la"><term type="animal">Anser
+    <lb/>geese</term> <metamark function="ed-mark">*</metamark> <add place="marginleft"><metamark function="flag" spanTo="#meta-181"/><note><metamark function="ed-mark">*</metamark><foreign xml:lang="la"><term type="animal">Anser
     <lb/>Leucagaster</term></foreign>
     <lb/>&amp; <foreign xml:lang="la"><term type="animal">Melanogaster</term></foreign></note><anchor xml:id="meta-181"/></add>
-- They may be seen
+- <space extent="1" unit="chars"/>They may be seen
 <lb/>everywhere walking slowly
 <lb/>about feeding - They choose
 <lb/>anthills for their nests
@@ -759,18 +758,18 @@ as they perched on <add place="below">^</add> <add place="above">its</add> pilla
 <lb/>part went in the canoes
 <lb/>but our pace was regulated
 <lb/>by the speed of the men on
-<lb/>shore - Their course was
+<lb/>shore - <space extent="1" unit="chars"/>Their course was
 <lb/>rather difficult on account
 <lb/>of the numbers of departing
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>64</note></add> and re-entering branches
 <lb/>of the <placeName><geogName type="river">Leeambye</geogName></placeName> which
 <lb/>they had to avoid or
 <lb/>wait at till we ferried
-<lb/>them over - The numbers
+<lb/>them over - <space extent="1" unit="chars"/>The numbers
 <lb/>of <term type="animal">alligators</term> are prodigious
 <lb/>and in this river<!-- geog: Leeambye. PS --> they
 <lb/>are more savage then in
-<lb/>some others - Many children
+<lb/>some others - <space extent="2" unit="chars"/>Many children
 <lb/>are carried off annually
     <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> and other
 <lb/>towns - for notwithstanding
@@ -789,7 +788,7 @@ as they perched on <add place="below">^</add> <add place="above">its</add> pilla
 <lb/>it is seldom a number
 <lb/>of <term type="animal">cows</term> can be crossed over
     <lb/>at <placeName><settlement type="town" ref="settlement.xml#sett0086">Sesheke</settlement></placeName> without losing
-<lb/>some - I never could
+<lb/>some - <space extent="1" unit="chars"/>I never could
 <lb/>avoid shuddering in seeing
 <lb/>my men swimming <w>ac<del type="cancelled">c</del>ross</w>
 <lb/>these branches <del type="cancelled">-</del> after one
@@ -883,7 +882,7 @@ and though they eat
 <lb/>and not at all inviting for
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>67</note></add> any one <del type="strikethrough">not</del> <add place="below">^</add> <add place="above">except the</add> very hungry - </p>
 <lb/>
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> When we had gone <del type="cancelled">twenty</del>
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0262">Berry</persName> <metamark function="placeMark"/></note></add> When we had gone <del type="cancelled">twenty</del>
 <lb/>or <measure>thirty or forty miles</measure> above
                     <lb/><placeName><settlement type="village" ref="settlement.xml#sett0069">Libonta</settlement></placeName> we sent eleven of
 <lb/>our <orgName>captives</orgName> to the <del type="strikethrough">North</del> West
@@ -907,7 +906,7 @@ and though they eat
 <lb/>sixty yards</measure> of them - There
 <lb/>I lay looking at the graceful
 <lb/>forms and motions of
-<lb/>beautiful <term type="animal">Pokus</term> <add place="inline">*</add> <add place="marginleft"><note>* I propose
+<lb/>beautiful <term type="animal">Pokus</term> <metamark function="ed-mark">*</metamark> <add place="marginleft"><note><metamark function="ed-mark">*</metamark> I propose
     <lb/>to name this
     <lb/>new species
     <lb/><foreign xml:lang="la"><hi rend="underline"><term type="animal">Antilope
@@ -926,14 +925,14 @@ and though they eat
 <lb/>leg but I felt a doubt and
 <lb/>the <term type="animal">antelopes</term> got the benefit of it
 <lb/>Have they a guardian spirit
-<lb/>over them? - I have repeatedly
+<lb/>over them? - <space extent="1" unit="chars"/>I have repeatedly
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>68</note></add> observed when I came up
 <lb/>to a herd <del type="strikethrough">under</del> lying behind
 <lb/>an <term type="insect">ant</term>hill and viewed
 <lb/>them with but half an eye
 <lb/>behind a tree <add place="below">^</add> <add place="above">on it</add> they very
 <lb/>soon <choice><orig>shewed</orig><reg>showed</reg></choice> symptoms
-<lb/>of uneasiness - They did
+<lb/>of uneasiness - <space extent="1" unit="chars"/>They did
 <lb/>not snuff danger in the
 <lb/>wind for I was down
 <lb/><add place="marginleft">the</add> wind from them but the
@@ -972,7 +971,7 @@ and though they eat
 <lb/>to get away while a <term type="animal">Zebra</term>
 <lb/>with a wound of equal
 <lb/>severity is sure to drop down
-<lb/>dead - Most <term type="animal">antelopes</term> when
+<lb/>dead - <space extent="1" unit="chars"/>Most <term type="animal">antelopes</term> when
 <lb/>in distress or pursued make
 <lb/>for the water - If hunted
 <lb/>they always do - I have seen
@@ -995,7 +994,7 @@ either the white or black <term type="animal">Rhinoceros</term>
 <lb/>out that your anxiety to keep
 <lb/>your body out of sight by
 <lb/>the bushes has not led you
-<lb/>up to his <w>wind<unclear cert="medium">ward</unclear></w><!-- there is evidence of a word beneath 'ward' but it is illegible.JL  --> side and
+<lb/>up to his wind<subst><del>side</del><add place="over-text">ward</add></subst> side and
 <lb/><del type="cancelled">st</del> sit down, rest the elbows
 <lb/>on the knees and direct slanting
 <lb/>a little upwards to a <subst><del>sp</del><add place="over-text">dark</add></subst>

@@ -3,105 +3,105 @@
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000100">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
-<author>David Livingstone</author>
-<principal>Justin Livingstone</principal>
-<respStmt xml:id="JL">
-<name>Justin Livingstone</name>
-<resp>Transcription and Encoding</resp>
-<resp>Editorial Decisions</resp>
-</respStmt>
-<respStmt xml:id="AW">
-<name>Adrian S. Wisnicki</name>
-<resp>Encoding Consultant</resp>
-</respStmt>
-<respStmt xml:id="KS">
-<name>Kate Simpson</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-<respStmt xml:id="JG">
-<name>Johanna Green</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-<respStmt xml:id="PS">
-<name>Peter Slater</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-<respStmt xml:id="SH">
-<name>Stephen Hall</name>
-<resp>Transcription and Encoding</resp>
-</respStmt>
-</titleStmt>
-<publicationStmt>
-<authority>Livingstone Online</authority>
-<publisher>UCLA Digital Library</publisher>
-<pubPlace>Los Angeles, CA, USA</pubPlace>
-<!-- Possible year update. -->
-<date>2014</date>
-<availability>
-<!-- Possible license change. -->
-<licence target="https://creativecommons.org/licenses/by-nc/3.0/">
-All materials are licensed for use under the 
-<ref target="https://creativecommons.org/licenses/by-nc/3.0/">
-Creative Commons Attribution-Noncommercial 3.0 Unported License
-</ref>. 
-(c) Dr. Neil Imray Livingstone Wilson, 2014
-</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-<msDesc>
-<msIdentifier>
-<country>United Kingdom</country>
-<settlement>Edinburgh</settlement>
-<repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
-<idno type="shelfmark">MS.42429</idno><!-- This may change with each volume of the MS. -->
-<altIdentifier>
-<idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
-</altIdentifier>
-</msIdentifier>
-<physDesc>
-<handDesc>
-<handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
-<handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
-<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
-</handDesc>
-</physDesc>
-</msDesc>
-
-<bibl type="sourceMetadata">
-<title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
-<author xml:id="DL">David Livingstone</author>
-<date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
-</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<langUsage>
-    <language ident="en">English</language>
-    <language ident="pt">Portuguese</language>
-    <language ident="loz">Lozi</language>
-    <language ident="und">Undetermined</language>
-</langUsage>
-</profileDesc>
-<revisionDesc>
-<!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
-    <change when="2016-08-15" who="#JL">Proofing and encoding review</change>
-    <change when="2016-04-28" who="#SH">Proofreading</change>
-    <change when="2015-03-13" who="#KS">Initial transcription and XML encoding</change>
-</revisionDesc>
-</teiHeader>
-
-<text>
-<body rend="right">
-<div>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+                <author>David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <respStmt xml:id="JL">
+                    <name>Justin Livingstone</name>
+                    <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
+                </respStmt>
+                <respStmt xml:id="AW">
+                    <name>Adrian S. Wisnicki</name>
+                    <resp>Encoding Consultant</resp>
+                </respStmt>
+                <respStmt xml:id="KS">
+                    <name>Kate Simpson</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="JG">
+                    <name>Johanna Green</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="PS">
+                    <name>Peter Slater</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+                <respStmt xml:id="SH">
+                    <name>Stephen Hall</name>
+                    <resp>Transcription and Encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <publisher>UCLA Digital Library</publisher>
+                <pubPlace>Los Angeles, CA, USA</pubPlace>
+                <!-- Possible year update. -->
+                <date>2014</date>
+                <availability>
+                    <!-- Possible license change. -->
+                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
+                        All materials are licensed for use under the 
+                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
+                            Creative Commons Attribution-Noncommercial 3.0 Unported License
+                        </ref>. 
+                        (c) Dr. Neil Imray Livingstone Wilson, 2014
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <settlement>Edinburgh</settlement>
+                        <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS.42429</idno><!-- This may change with each volume of the MS. -->
+                        <altIdentifier>
+                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                        </altIdentifier>
+                    </msIdentifier>
+                    <physDesc>
+                        <handDesc>
+                            <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
+                            <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
+                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+                
+                <bibl type="sourceMetadata">
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part II).</title><!-- This will change with each volume of the MS. -->
+                    <author xml:id="DL">David Livingstone</author>
+                    <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+                <language ident="pt">Portuguese</language>
+                <language ident="loz">Lozi</language>
+                <language ident="und">Undetermined</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+            <change when="2016-08-15" who="#JL">Proofing and encoding review</change>
+            <change when="2016-04-28" who="#SH">Proofreading</change>
+            <change when="2015-03-13" who="#KS">Initial transcription and XML encoding</change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text>
+        <body rend="right">
+            <div>
     
     <pb facs="liv_000100_0239.jpg" n="0239"/><!-- p257, Missionary, sh -->                        
-<lb/><p><fw n="heading_XXVI">XXVI <add place="inspace" hand="#U1" rend="gray right">238</add></fw>
-    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></hi></note></add> My men having never had
+<lb/><note place="marginleft">XXVI</note> <fw><add place="inspace" hand="#U1" rend="gray right">238</add></fw>
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName> <metamark function="placeMark"/></note></add> My men having never had
 <lb/>firearms in their hands before
 <lb/>found it so difficult to 
 <lb/>hold the muskets steady on
@@ -129,11 +129,11 @@ This
 <lb/>hunting <hi rend="underline">furore</hi> in my
 <lb/>composition, I always preferred
 <lb/>eating the game to killing
-<lb/>it - Sulphur is the remedy
-<lb/>most admired - And I
+<lb/>it - <space extent="1" unit="chars"/>Sulphur is the remedy
+<lb/>most admired - <space extent="1" unit="chars"/>And I
 <lb/>remember <persName ref="people.xml#pers0516">Sechele</persName> giving
 <lb/>a large price for a very
-<lb/>small bit - He also gave
+<lb/>small bit - <space extent="1" unit="chars"/>He also gave
 <lb/>some <choice><sic><term type="animal">elephant</term>s</sic><corr><term type="animal">elephant</term>s'</corr></choice> tusks worth
 <lb/>£30 for another medicine
 <lb/>which <del type="cancelled">a</del> was to make him
@@ -149,7 +149,7 @@ This
 <lb/>tree - It proved decisive,
 <lb/>and <persName ref="people.xml#pers0516">Sechele</persName> remarked it was
 <lb/>"pleasanter to be <choice><sic>decieved</sic><corr>deceived</corr></choice> than
-<lb/><choice><sic>undecieved</sic><corr>undeceived</corr></choice>" - I offered sulphur
+<lb/><choice><sic>undecieved</sic><corr>undeceived</corr></choice>" - <space extent="1" unit="chars"/>I offered sulphur
 <lb/>for the same purpose - but
 <lb/>that was declined even when 
 <lb/>a person came afterwards
@@ -162,13 +162,13 @@ This
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>73</note></add> all the ammunition in our
 <lb/>possession <del type="strikethrough">and</del> I was thus
 <lb/>obliged to do all the shooting
-<lb/>myself <add place="marginleft"><metamark function="insertion"/>ever afterwards</add> - Their inability was
+<lb/>myself <add place="marginleft"><metamark function="insertion"/>ever afterwards</add> - <space extent="1" unit="chars"/>Their inability was
 <lb/>rather a misfortune for
 <lb/>in consequence of working
 <lb/>too soon after having been 
 <lb/>bitten by the <term type="animal">lion</term> the bone
 <lb/>of the arm had not united
-<lb/>well - Continual hard
+<lb/>well - <space extent="1" unit="chars"/>Continual hard
 <lb/>manual labour and some
 <lb/>falls from <term type="animal">ox</term>back lengthened
 <lb/>the ligament by which <del type="strikethrough">a
@@ -193,10 +193,10 @@ This
     <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0517">Sedgwick</persName></note><!-- possibly Adam Sedgwick who wrote the preface to DL's Cambridge Lectures. --></add> that the more hungry the
 <lb/>party became the more
 <lb/>frequent <del type="strikethrough">were my misses</del>
-<lb/>I missed the animals</p>
-<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note>179</note><!-- this number is circled in pencil, ks --></add>
-<lb/><space extent="2" unit="lines" dim="vertical"/>
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note>74</note></add> We spent a Sunday in
+<lb/>I missed the animals
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>179</note><!-- this number is circled in pencil, ks --></add>
+<lb/><space extent="2" unit="lines" dim="vertical"/></p>
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note>74</note></add> We spent a Sunday in
 <lb/>our way up to the confluence
 <lb/>of the <placeName><geogName type="river">Leeba</geogName></placeName> and <placeName><geogName type="river">Leeambye</geogName></placeName>
 <lb/><seg type="weather">Rains <w>ha<subst><del>ve</del><add place="over-text">d</add></subst></w> fallen here</seg>
@@ -207,7 +207,7 @@ This
 <lb/>forms grow everywhere
 <lb/>They are unlike those in
 <lb/>the South and so are the
-<lb/>trees - Many of the forest
+<lb/>trees - <space extent="1" unit="chars"/>Many of the forest
 <lb/><add place="marginleft">tree <add place="below">˄</add></add> leaves are palmated and
 <lb/>largely developed - <del type="strikethrough">Many</del>
 <lb/>The trunks <del type="strikethrough">of the trees</del>
@@ -221,7 +221,7 @@ This
 <lb/><choice><orig>shews</orig><reg>shows</reg></choice> we are now in a
 <lb/>more <seg type="weather">humid climate</seg> than
 <lb/>any to the South of the
-<lb/><placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName> - The
+<lb/><placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName> - <space extent="2" unit="chars"/>The
 <lb/>ground begins to swarm
 <lb/>with insect youth and
 <lb/>in the cool pleasant morning
@@ -231,7 +231,7 @@ This
 <lb/>notes of birds at home
 <lb/>because I have not been 
 <lb/>familiar with them from
-<lb/>infancy - They do however
+<lb/>infancy - <space extent="1" unit="chars"/>They do however
 <lb/>strike the mind <del type="cancelled">as the</del>
 <lb/>by their loudness and variety
 <lb/>as the <del type="cancelled">very an</del> wellings forth
@@ -240,7 +240,7 @@ This
 <lb/>with overflowing gladness
 <lb/>All <add place="below">˄</add> <add place="above">of us</add> rise early to enjoy
 <lb/>the <seg type="weather">luscious balmy air
-<lb/>of the morning</seg> - We have
+<lb/>of the morning</seg> - <space extent="2" unit="chars"/>We have
 <lb/>their worship, and amidst
 <lb/>all the beauty and <w><choice><sic>lov<subst><del>e</del><add place="over-text">l</add></subst>iness</sic><corr>loveliness</corr></choice></w>
 <lb/>with which we are surrounded 
@@ -268,7 +268,7 @@ This
 <lb/>The great difficulty in dealing
 <lb/>with these people is to
 <lb/>make the subject plain 
-<lb/><del type="strikethrough">enough</del> - The minds of the 
+<lb/><del type="strikethrough">enough</del> - <space extent="1" unit="chars"/>The minds of the 
 <lb/>auditors cannot be understood
 <lb/>by one who has not mingled 
 <lb/>much with them - They readily
@@ -276,13 +276,13 @@ This
 <lb/>and then sin again - confess
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>76</note></add> the evil of it and there the
 <lb/>matter ends -</p>
-    <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0400">Mead</persName></hi></note></add> I shall not often advert
+    <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0400">Mead</persName> <metamark function="placeMark"/></note></add> I shall not often advert
 <lb/>to their depravity - My practice
 <lb/>has always been to apply
 <lb/>the remedy <add place="below">˄</add> <add place="above"><del type="strikethrough">for this</del></add> with all <del type="strikethrough">the</del> <add place="below">˄</add> <add place="above">possible</add> vigour
 <lb/>but never allow my own
 <lb/>mind to dwell on the dark <del type="strikethrough">side</del>
-<lb/><add place="marginleft">shades <add place="below">^</add></add> of men's characters - <del type="strikethrough">Those who</del>
+<lb/><add place="marginleft">shades <add place="below">^</add></add> of men's characters - <space extent="1" unit="chars"/><del type="strikethrough">Those who</del>
 <lb/>I have never been able to 
 <lb/>draw pictures of guilt <del type="strikethrough">in order</del>
 <lb/><add place="marginleft">as if that could</add> <del type="cancelled">to</del> awaken <term type="faith">Christian</term> sympathy
@@ -338,13 +338,13 @@ This
 <lb/>round it which <del type="strikethrough">looks like</del>
 <lb/>tastes like <term type="foodstuff">sponge biscuit</term>
 <lb/>Another <add place="below">˄</add> <add place="marginleft">named <foreign xml:lang="und"><term type="plant_foodstuff">Mawa</term></foreign></add> grows abundantly on
-<lb/>a low bush - There are many
+<lb/>a low bush - <space extent="1" unit="chars"/>There are many
 <lb/><term type="plant_foodstuff">berries</term> and <term type="plant_foodstuff">edible bulbs</term>
-<lb/>almost everywhere - The
+<lb/>almost every where - <space extent="1" unit="chars"/>The
 <lb/><foreign xml:lang="und"><term type="plant_foodstuff">Mamosho</term></foreign> or <foreign xml:lang="und"><term type="plant_foodstuff">Moshomosho</term></foreign>
 <lb/>and <foreign xml:lang="und"><term type="plant_foodstuff">Milo</term></foreign> a <term type="plant_foodstuff">medlar</term> was
 <lb/>to be found near our
-<lb/>encampment - The latter
+<lb/>encampment - <space extent="1" unit="chars"/>The latter
 <lb/>two are good if indeed one
 <lb/>can be a good judge who 
 <lb/>felt quite disposed to
@@ -358,7 +358,7 @@ This
 <lb/>and culture these have
 <lb/>enjoyed might take high
 <lb/>rank among the <term type="foodstuff">fruits</term> <del type="strikethrough">of</del>
-<lb/>of the world - All that the 
+<lb/>of the world - <space extent="1" unit="chars"/>All that the 
 <lb/><orgName>Africans</orgName> have thought
 <lb/>of has been present
 <lb/>gratification and now
@@ -388,11 +388,11 @@ This
 <lb/>that river - It is nearly
 <lb/>as tall as the <term type="plant">Palmyra</term>
 <lb/>The <term type="plant_foodstuff">fruit</term> is larger than of
-<lb/><add place="marginleft" hand="#U2" rend="gray"><note>79</note></add> that <del type="cancelled">of</del> species - It is about
+<lb/><add place="marginleft" hand="#U2" rend="gray"><note>79</note></add> that <del type="cancelled">of</del> species - <space extent="1" unit="chars"/>It is about
 <lb/>4 inches in its long diameter
 <lb/>and has a soft yellow
 <lb/>pulp round the kernel
-<lb/>or seed - When ripe this
+<lb/>or seed - <space extent="1" unit="chars"/>When ripe this
 <lb/>is fluid and stringy like
 <lb/>the <term type="plant_foodstuff">mango</term> and not very 
 <lb/>pleasant to eat - </p>
@@ -401,7 +401,7 @@ This
 <lb/>and <placeName><geogName type="river">Leeambye</geogName></placeName> we find
 <lb/>the banks <measure>twenty feet high</measure>
 <lb/>and composed of marly
-<lb/>sandstone - They are covered
+<lb/>sandstone - <space extent="1" unit="chars"/>They are covered
 
 
     <pb facs="liv_000100_0247.jpg" n="0247"/>                           
@@ -429,7 +429,7 @@ This
 <lb/>covered with grass is
 <lb/>destitute in a great
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>80</note></add> measure of trees</p>
-    <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0482">Powell</persName></hi></note></add> Flocks of <term type="animal">green pigeons</term>
+    <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0482">Powell</persName> <metamark function="placeMark"/></note></add> Flocks of <term type="animal">green pigeons</term>
 <lb/>rose from the trees as 
 <lb/>we passed along the banks
 <lb/>and the notes of many
@@ -462,7 +462,7 @@ This
 <lb/>come down the <placeName><geogName type="river">Leeambye</geogName></placeName>
 <lb/>as we observed they
 <lb/>do in the <placeName><geogName type="river">Zouga</geogName></placeName> with
-<lb/>the rising waters - They
+<lb/>the rising waters - <space extent="1" unit="chars"/>They
 <lb/>are probably induced to this
 <lb/>migration by the increased 
 <lb/>rapidity of the current <w>dis-
@@ -470,7 +470,7 @@ This
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>81</note></add> old pasture grounds - Insects
 <lb/>constitute but a small
 <lb/>portion of the food of many
-<lb/><del type="cancelled"><gap extent="3" unit="chars"/></del> fish - Fine vegetable
+<lb/><del type="cancelled"><gap extent="3" unit="chars"/></del> fish - <space extent="1" unit="chars"/>Fine vegetable
 <lb/>matter like slender mosses
 <lb/>is devoured greedily and
 <lb/>as they are dislodged from
@@ -483,8 +483,8 @@ This
 
 
     <pb facs="liv_000100_0249.jpg" n="0249"/>                           
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">248</add></fw>
-<lb/>the <foreign xml:lang="und"><term type="animal">Mosala</term></foreign> - (<hi rend="underline"><foreign xml:lang="la"><term type="animal">Clarias Capensis</term></foreign></hi>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">248</add></fw>
+<lb/><p>The <foreign xml:lang="und"><term type="animal">Mosala</term></foreign> - (<hi rend="underline"><foreign xml:lang="la"><term type="animal">Clarias Capensis</term></foreign></hi>
 <lb/>(<hi rend="underline">the <foreign xml:lang="la"><term type="animal">Glanis siluris</term></foreign></hi>) - <term type="animal">mullet</term> - (<hi rend="underline"><foreign xml:lang="la"><term type="animal">Mugil
 <lb/>Africanus</term></foreign></hi>) and other fishes
 <lb/>spread over the <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName>
@@ -492,7 +492,7 @@ This
 <lb/>the waters retire all the people
 <lb/>are employed in cutting them
 <lb/>up and drying them in
-<lb/>the sun - The supply exceeds
+<lb/>the sun - <space extent="1" unit="chars"/>The supply exceeds
 <lb/>the demand and the land
 <lb/><del type="strikethrough">and</del> in numerous places
 <lb/>is said to emit a most
@@ -510,7 +510,7 @@ This
 <lb/>they are never hunted
 <lb/>The males appear of a dark
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>82</note></add> colour - The females of 
-<lb/>yellowish brown - There
+<lb/>yellowish brown - <space extent="1" unit="chars"/>There
 <lb/>is not such a complete 
 <lb/>separation of the sexes among
 <lb/>them as among <term type="animal">elephants</term>,
@@ -530,11 +530,11 @@ This
 <lb/>
 <lb/><p>On the <date when="1853-12-27">27<hi rend="sup underline">th</hi> December</date> we were<!-- start of MT ch 15.JL -->
 <lb/>at the confluence of the <placeName><geogName type="river">Leeba</geogName></placeName>
-<lb/><add place="marginleft"><note><persName ref="people.xml#pers0327">Masiko</persName></note></add> and <placeName><geogName type="river">Leeambye</geogName></placeName> - <persName ref="people.xml#pers0327">Masiko</persName> the
+<lb/><add place="marginleft"><note><persName ref="people.xml#pers0327">Masiko</persName></note></add> and <placeName><geogName type="river">Leeambye</geogName></placeName> - <space extent="1" unit="chars"/><persName ref="people.xml#pers0327">Masiko</persName> the
 <lb/><term  type="tribe">Barotse</term> <term type="occupation">chief</term> for whom
 <lb/>we had some <orgName>captives</orgName> lived
 <lb/>nearly due East of this
-<lb/>point - They were two little
+<lb/>point - <space extent="1" unit="chars"/>They were two little
 <lb/>boys, a little girl &amp; a young
 <lb/>man and two middle aged 
 <lb/>women <add place="marginleft"><metamark function="insertion"/>one of these was
@@ -560,7 +560,7 @@ This
 <lb/>and resolved to send a party
 <lb/>of our own people to see 
 <lb/>them safely among their
-<lb/>relatives - I told the <add place="below">˄</add> <add place="above"><orgName>captive</orgName></add> young
+<lb/>relatives - <space extent="3" unit="chars"/>I told the <add place="below">˄</add> <add place="above"><orgName>captive</orgName></add> young
 <lb/>man to tell <persName ref="people.xml#pers0327">Masiko</persName> that he
 <lb/>was very unlike his father
     <lb/><persName ref="people.xml#pers0441">Santuru</persName> who had refused
@@ -585,7 +585,7 @@ and
 <lb/>to <persName ref="people.xml#pers0327">Masiko</persName> as they owe him
 <lb/>allegiance and while they
 <lb/>continue with the <term type="tribe">Makololo</term>
-<lb/>our considered rebels - The 
+<lb/>our considered rebels - <space extent="1" unit="chars"/>The 
     <lb/>message by <del type="strikethrough">the Ba</del> <persName ref="people.xml#pers0425">Mosantu</persName>
 <lb/>was that "I was sorry to
     <lb/>find that <persName ref="people.xml#pers0441">Santuru</persName> had not
@@ -652,7 +652,7 @@ and
 <lb/>and serious obstacles to
 <lb/>a continued navigation
 <lb/>for <measure>hundreds of miles</measure> at
-<lb/>a stretch - About <measure>ten miles</measure>
+<lb/>a stretch - <space extent="1" unit="chars"/>About <measure>ten miles</measure>
 <lb/>below the confluence of 
 <lb/>the <placeName><geogName type="river">Loeti</geogName></placeName> <add place="marginleft"><metamark function="insertion"/>for instance</add> there are many
 <lb/>large sandbanks in the
@@ -677,7 +677,7 @@ and
 <lb/><add place="marginleft"><measure>a hundred miles</measure></add> <add place="below">˄</add> <add place="above">again</add> of a river capable of being
 <lb/>navigated in the same
 <lb/>way as in the <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName> - </p>
-    <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0262">Berry</persName></hi></note></add> Now I do not say that
+    <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0262">Berry</persName> <metamark function="placeMark"/></note></add> Now I do not say that
 <lb/>this part of the river presents
 <lb/>a very inviting prospect
 <lb/>for <orgName>European</orgName> enterprise
@@ -701,7 +701,7 @@ and
 <lb/>indicated is as capable of
 <lb/>supporting millions of 
 <lb/>inhabitants as it is of
-<lb/>its thousands - The grass
+<lb/>its thousands - <space extent="1" unit="chars"/>The grass
 <lb/>of the <placeName><geogName type="valley"><term type="tribe">Barotse</term> valley</geogName></placeName> for
 <lb/>instance in such a densely
 <lb/>matted mass that when
@@ -718,11 +718,11 @@ and
     <lb/>millions of
     <lb/>mouths</add></p>
 <lb/><p>We now began to
-<lb/>ascend the <placeName><geogName type="river">Leeba</geogName></placeName> - The <add place="below">˄</add> <add place="above">water</add> is black
+<lb/>ascend the <placeName><geogName type="river">Leeba</geogName></placeName> - <space extent="1" unit="chars"/>The <add place="below">˄</add> <add place="above">water</add> is black
 <lb/>in colour as compared
 <lb/>with the main stream which
 <lb/>here assumes the name
-<lb/><placeName><geogName type="river">Kabompo</geogName></placeName> -  The <placeName><geogName type="river">Leeba</geogName></placeName>
+<lb/><placeName><geogName type="river">Kabompo</geogName></placeName> - <space extent="1" unit="chars"/>The <placeName><geogName type="river">Leeba</geogName></placeName>
 <lb/>flows placidly and unlike
 <lb/>the parent <subst><del type="strikethrough">stream</del><add place="above">river</add></subst> <choice><sic>recieves</sic><corr>receives</corr></choice>
 <lb/>numbers of little rivulets
@@ -762,10 +762,10 @@ and
 <lb/>being of different shapes
 <lb/>give the strange variety
 <lb/>of outline of the park
-<lb/>like woods - Numbers of
+<lb/>like woods - <space extent="1" unit="chars"/>Numbers of
 <lb/>a fresh water shell are 
 <lb/>scattered all over these
-<lb/><choice><sic>vallies</sic><corr>valleys</corr></choice> too - The elevations
+<lb/><choice><sic>vallies</sic><corr>valleys</corr></choice> too - <space extent="2" unit="chars"/>The elevations
 
 
     <pb facs="liv_000100_0256.jpg" n="0256"/>                           
@@ -783,7 +783,7 @@ and
 <lb/>their <term type="foodstuff">meat</term> when they come
 <lb/>down to hunt and gather
 <lb/>the produce of the <del type="cancelled"><term type="insect">bees</term></del>
-<lb/>wild hives - In <del type="strikethrough">some</del>
+<lb/>wild hives - <space extent="1" unit="chars"/>In <del type="strikethrough">some</del>
 <lb/>one part we came upon
 <lb/>groups of lofty trees as
 <lb/><choice><sic>as</sic><corr/></choice> straight as <space extent="6" unit="chars"/>with festoons
@@ -791,7 +791,7 @@ and
 <lb/>the branches - This which is
 <lb/>used as a dye stuff is found
 <lb/>nowhere in the <del type="strikethrough">South</del> dry
-<lb/>country in the South - It
+<lb/>country in the South - <space extent="1" unit="chars"/>It
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>89</note></add> prefers the humid <w>climate<del type="strikethrough">s</del></w>
 <lb/>near the <placeName><region>West Coast</region></placeName></p>
 <lb/><p>One of our people was
@@ -816,7 +816,7 @@ and
 <lb/>yards most of them went 
 <lb/>along quite carelessly picking
 <lb/><add place="marginleft">and eating</add> <del type="strikethrough">up</del> a fruit of the <term type="plant_foodstuff">melon</term>
-<lb/><add place="marginleft"><note><foreign xml:lang="und"><term type="plant_foodstuff">Mponko</term></foreign></note></add> family called <foreign xml:lang="und"><term type="plant_foodstuff">Mponko</term></foreign>
+<lb/><add place="marginleft"><note><foreign xml:lang="und"><term type="plant_foodstuff">Mponko</term></foreign></note></add> family called <foreign xml:lang="und"><term type="plant_foodstuff">Mpo<subst><del>k</del><add place="over-text">n</add></subst>ko</term></foreign>
 <lb/>When he heard them approach
 <lb/>he always fled shifting his
 <lb/>stand and doubling on his
@@ -834,11 +834,11 @@ and
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>90</note></add> More accidents happen 
 <lb/>with the <term type="animal">buffalo<del type="strikethrough">es</del></term> and the <term type="animal">black
 <lb/>Rhinoceros</term> than with the
-<lb/><term type="animal">lion</term> - Though all are aware
+<lb/><term type="animal">lion</term> - <space extent="2" unit="chars"/>Though all are aware
 <lb/>of the cunning of the <term type="animal">buffalo</term>
 <lb/>when wounded - our<!-- possible letters beneath 'o' but they are illegible.JL --> young
 <lb/>men went on to him
-<lb/>quite carelessly - They never
+<lb/>quite carelessly - <space extent="1" unit="chars"/>They never
 <lb/>lose their presence of mind
 <lb/>but as he charges back 
 <lb/>in a forest dart dexterously
@@ -850,14 +850,14 @@ and
 <lb/>and wheeling round it stab
 <lb/>him as he passes</p>
 <lb/><space dim="vertical" extent="2" unit="lines"/>
-    <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0400">Mead</persName></hi></note></add> A tree in flower brought
+    <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0400">Mead</persName></note> <metamark function="placeMark"/></add> A tree in flower brought
 <lb/>the pleasant <add place="above">scent of</add> <del type="strikethrough">haw</del><term type="plant">thorn hedges</term>
 <lb/>back to memory for its
 <lb/><add place="marginleft">leaves</add> flowers <add place="below">˄</add> <add place="above">scent</add> and fruit resembled
 <lb/>those of the <term type="plant">hawthorn</term> - only
 <lb/>the flowers here were as large
 <lb/><choice><sic>a</sic><corr>as</corr></choice> <del type="strikethrough">a</del> <del type="cancelled">h</del> <term type="plant">dog roses</term> and the "<term type="plant">haws</term>"
-<lb/>were like <add place="below">˄</add> <add place="above"><choice><sic>boys</sic><corr>boys'</corr></choice></add> marbles - The
+<lb/>were like <add place="below">˄</add> <add place="above"><choice><sic>boys</sic><corr>boys'</corr></choice></add> marbles - <space extent="1" unit="chars"/>The
 <lb/>flowers smell sweetly <add place="marginleft"><metamark function="insertion"/>while few in
     <lb/>the South emit
     <lb/><del type="strikethrough">aught but
@@ -874,17 +874,17 @@ and
 <lb/>so rapidly to seed - and
 <lb/>then insects of every shape
 <lb/>spring into existence to
-<lb/>devour them - The climbing
+<lb/>devour them - <space extent="2" unit="chars"/>The climbing
 <lb/>plants display great vigour
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>91</note></add> of <del type="strikethrough">growth</del> growth being not
 <lb/>only thick in the trunk but
 <lb/>thick at the very point in
 <lb/>the manner of quickly
-<lb/>growing <term type="plant_foodstuff">asparagus</term> - The
-<lb/><add place="marginleft"><note><foreign xml:lang="und"><term type="plant_foodstuff">Maroro</term></foreign></note></add> <foreign xml:lang="und"><term type="plant_foodstuff">Maroro</term></foreign> or <foreign xml:lang="und"><term type="plant_foodstuff">Malolo</term></foreign> now
+<lb/>growing <term type="plant_foodstuff">asparagus</term> - <space extent="2" unit="chars"/>The
+<lb/><add place="marginleft"><note><foreign xml:lang="und"><term type="plant_foodstuff">Maroro</term></foreign></note></add> <foreign xml:lang="und"><term type="plant_foodstuff">Maro<subst><del>l</del><add place="over-text">r</add></subst>o</term></foreign> or <foreign xml:lang="und"><term type="plant_foodstuff">Malolo</term></foreign> now
 <lb/>appears and is abundant
 <lb/><del type="cancelled">all</del> in many parts between
-<lb/>this and <placeName><country>Angola</country></placeName> - It is a
+<lb/>this and <placeName><country>Angola</country></placeName> - <space extent="1" unit="chars"/>It is a
 <lb/>small bush with a yellow
 
 
@@ -908,13 +908,13 @@ and
     <lb/>forth</add>
 <lb/>the river sunning themselves
 <lb/>in company with the old
-<lb/>on sand banks - We made
+<lb/>on sand banks - <space extent="1" unit="chars"/>We made
 <lb/>our fire in <add place="below">˄</add> <add place="above">one of</add> the deserted nests
     <lb/><add place="marginleft" hand="#U2" rend="gray"><note><unclear cert="medium"><persName ref="people.xml#pers0517">Sedg</persName></unclear></note></add> <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>which <w>w<subst><del>as</del><add place="over-text">ere</add></subst></w> strewed all over
 <lb/>with the broken shells - - <del type="strikethrough">When</del>
 <lb/><choice><sic>at</sic><corr>At</corr></choice> the <placeName><geogName type="river">Zouga</geogName></placeName> we <del type="cancelled">ob</del> saw
 <lb/>sixty eggs taken out of one
-<lb/>such nest - They are
+<lb/>such nest - <space extent="1" unit="chars"/>They are
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>92</note></add> about the size of those
 <lb/>of a<del type="cancelled">l</del> <term type="animal">goose</term> only the eggs
 <lb/>of the <term type="animal">alligator</term> are of 
@@ -923,7 +923,7 @@ and
 <lb/>partially elastic from having 
 <lb/>a strong internal membrane
 <lb/>and but little lime in its 
-<lb/>composition - The distance
+<lb/>composition - <space extent="1" unit="chars"/>The distance
 <lb/>from the water was about
 <lb/><del type="cancelled">one</del> <measure>ten feet</measure> and there was
 <lb/>evidence of the same place
@@ -984,7 +984,7 @@ and
 <lb/>they act by stealth - sinking
 <lb/>beneath the surface
 <lb/>as soon as they see 
-<lb/>man - - They seldom
+<lb/>man - - <space extent="1" unit="chars"/>They seldom
 <lb/>leave the water
 <lb/>to catch prey
 <lb/>but enjoy
@@ -1027,13 +1027,13 @@ and
     <lb/>the surface</add> 
 <lb/><del type="cancelled">and</del> <choice><sic>when</sic><corr>When</corr></choice> employed in looking 
 <lb/><del type="strikethrough">out</del> for food <add place="below">˄</add> <add place="above">they</add> keep out 
-<lb/>of sight - <choice><sic>The</sic><corr>They</corr></choice> fish chiefly
-<lb/>by night - When eating
+<lb/>of sight - <space extent="1" unit="chars"/><choice><sic>The</sic><corr>They</corr></choice> fish chiefly
+<lb/>by night - <space extent="1" unit="chars"/>When eating
 <lb/>they make a loud champing
 <lb/>noise which when once 
 <lb/>heard is never forgotten - </p>
-    <lb/><p><add place="inline" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName></hi></note></add> 
-<lb/>The young in this instance
+    <lb/><p rend="no-indent"><add place="inline" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0517"><unclear cert="medium">Sedg</unclear></persName> <metamark function="placeMark"/></note></add>
+<lb/><space extent="3" unit="chars"/>The young in this instance
 <lb/>do not appear wary
 <lb/>They were about <subst><del type="cancelled">six</del><add place="above">ten</add></subst> inches
 <lb/>long - with yellow eyes and
@@ -1041,7 +1041,7 @@ and
 <lb/>They were all marked with 
 <lb/>transverse stripes of pale
 <lb/>green and brown half
-<lb/>an inch broad - When
+<lb/>an inch broad - <space extent="1" unit="chars"/>When
 <lb/>speared they bit the spear
 <lb/>savagely though their
 <lb/>teeth were but partially
@@ -1074,7 +1074,7 @@ and
 <lb/>nests will be oftener found
 <lb/><w>The<del type="strikethrough">ir</del></w> principal check on
 <lb/>their inordinate increase
-<lb/>seems to be man - They
+<lb/>seems to be man - <space extent="1" unit="chars"/>They
 <lb/>are more savage 
 <lb/>and commit more mischief
 <lb/>in the <del type="cancelled"><placeName><geogName type="river">Zambesi</geogName></placeName></del> <add place="below">^</add> <add place="marginleft"><placeName><geogName type="river">Leeambye</geogName></placeName></add> than in
@@ -1096,7 +1096,7 @@ and
 <lb/>afraid and laugh at the
 <lb/>circumstance afterwards
 <lb/>There is a want of calm
-<lb/>reflection - In many cases
+<lb/>reflection - <space extent="1" unit="chars"/>In many cases
 </p>
 
 

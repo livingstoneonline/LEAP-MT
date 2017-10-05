@@ -1083,6 +1083,9 @@
 			<xsl:when test="@rend='gray underline'">
 				<span style='color:gray;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
 			</xsl:when>
+			<xsl:when test="@rend='brown underline'">
+				<span style='color:#8e6352;text-decoration:underline'><span style='color:black'><xsl:apply-templates/></span></span>
+			</xsl:when>
 			<xsl:otherwise>
 				<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@n, '-', ''))}">
 					<xsl:apply-templates/>
