@@ -4,11 +4,11 @@
 <!--<?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-MT-complete.xsl" type="text/xsl"?>-->
 <?xml-stylesheet href="transcription-MT-complete.xsl" type="text/xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_015011">
-	<!-- This needs to be changed, ks -->
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
 				<title>Missionary Travels and Researches in South Africa</title>
+				<title type="alternative">Missionary Travels and Researches in South Africa</title>
 				<author>David Livingstone</author>
 				<principal>Justin Livingstone</principal>
 				<principal>Adrian S. Wisnicki</principal>
@@ -28,14 +28,6 @@
 					<resp>Editorial Decisions</resp>
 					<resp>Coding Review</resp>
 				</respStmt>
-				<respStmt xml:id="HB">
-					<name>Heather F. Ball</name>
-					<resp>Transcription</resp>
-					<resp>TEI Encoding</resp>
-					<resp>Editorial Decisions</resp>
-					<resp>Proofreading</resp>
-					<resp>Quality Control and Integration</resp>
-				</respStmt>
 				<respStmt xml:id="KS">
 					<name>Kate Simpson</name>
 					<resp>Transcription</resp>
@@ -45,18 +37,12 @@
 			</titleStmt>
 			<publicationStmt>
 				<authority>Livingstone Online</authority>
-				<publisher>UCLA Digital Library</publisher>
-				<pubPlace>Los Angeles, CA, USA</pubPlace>
-				<date>2016</date>
-				<availability>
-						<p>Public domain.</p>
-					<!-- We need to double check that this is the proper thing to write. AW -->
-					<!-- Was this checked, ks -->
-				</availability>
+				<publisher>University of Maryland Libraries</publisher>
+				<pubPlace>College Park, MD, USA</pubPlace>
+				<date>2017</date>
+				<idno type="LEAP-ID">liv_015011</idno>
 			</publicationStmt>
 			<sourceDesc>
-				<!-- James needs to confirm that I've done this properly. AW -->
-				<!-- was this confirmed, ks -->
 				<biblStruct type="book">
 					<monogr>
 						<title level="m">Missionary Travels and Researches in South Africa</title>
