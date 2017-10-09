@@ -12,28 +12,26 @@
 				<author>David Livingstone</author>
 				<principal>Justin Livingstone</principal>
 				<principal>Adrian S. Wisnicki</principal>
-				<respStmt xml:id="JL">
-					<name>Justin Livingstone</name>
-					<resp>Transcription</resp>
+				<respStmt xml:id="KS">
+					<name>Kate Simpson</name>
 					<resp>TEI Encoding</resp>
-					<resp>Proofreading</resp>
 					<resp>Editorial Decisions</resp>
-					<resp>Coding Review</resp>
+					<resp>Transcription</resp>
+					<resp>Proofreading</resp>
 				</respStmt>
 				<respStmt xml:id="AW">
 					<name>Adrian S. Wisnicki</name>
-					<resp>Transcription</resp>
 					<resp>TEI Encoding</resp>
 					<resp>Proofreading</resp>
-					<resp>Editorial Decisions</resp>
 					<resp>Coding Review</resp>
 				</respStmt>
-				<respStmt xml:id="KS">
-					<name>Kate Simpson</name>
-					<resp>Transcription</resp>
-					<resp>TEI Encoding</resp>
+				<respStmt xml:id="JL">
+					<name>Justin Livingstone</name>
+					<resp>Editorial Decisions</resp>
+					<resp>Coding Review</resp>
 					<resp>Proofreading</resp>
 				</respStmt>
+
 			</titleStmt>
 			<publicationStmt>
 				<authority>Livingstone Online</authority>
@@ -144,8 +142,8 @@
 
 
 	<pb facs="liv_015011_0012" n="0012"/>
-	<p><seg rend="center small caps"><lb/>LONDON: PRINTED BY W. CLOWES AND SONS, STAMFORD STREET, 
-<lb/><space extent="5" unit="words"></space>AND CHARING CROSS.</seg></p>
+	<p><seg rend="center small caps"><lb/><space extent="1" unit="words"/>LONDON: PRINTED BY W. CLOWES AND SONS, STAMFORD STREET, 
+<lb/><space extent="6" unit="words"/><space extent="2" unit="chars"/>AND CHARING CROSS.</seg></p>
 
 
 	<pb facs="liv_015011_0013" n="0013"/>
@@ -188,8 +186,8 @@
 <fw type="pageno" n="v" place="top"> <seg rend="center large caps">CONTENTS.
 <lb/>___∘___</seg></fw>
 	<p rend="right"><hi rend="small">PAGE</hi></p>
-	<ab rend="center">INTRODUCTION.</ab> 
-	<p rend="no-indent"><hi rend="small">PERSONAL SKETCH. VOYAGE TO THE CAPE AND ALGOA BAY</hi>  <hi rend="right">1</hi></p>
+	<ab rend="center"><space extent="5" unit="chars"/>INTRODUCTION.</ab> 
+	<p rend="no-indent"><hi rend="small">PERSONAL SKETCH. VOYAGE TO THE CAPE AND ALGOA BAY</hi> <space extent="2" unit="words"/><space extent="3" unit="chars"/> <hi rend="right">1</hi></p>
 	<ab rend="center">CHAPTER I.</ab>
 	<p rend="no-indent"><hi rend="small">RESIDENCE AT KURUMAN, LEPELOLE, AND KOLOBENG. SKETCH OF CAREER OF SECHELE, CHIEF OF THE BAKWAINS, AND NOTICES OF HIS TRIBE</hi> <hi rend="right">9</hi></p>
 	<ab rend="center">CHAPTER II.</ab>
@@ -207,20 +205,20 @@
 	<ab rend="center">CHAPTER VIII.</ab>
 	<p rend="no-indent"><hi rend="small">MISSIONARY LABOURS. TREES. BUSHMEN. THE SANSHUREH AND CHOBE</hi> <hi rend="right">157</hi></p>
 	<ab rend="center">CHAPTER IX.</ab>
-	<p rend="no-indent"><hi rend="small">LINYANTI. THE CHIEF SEKELETU. CUSTOMES OF THE MAKOLOLO</hi> <hi rend="right">178</hi></p>
+	<p rend="no-indent"><hi rend="small">LINYANTI. THE CHIEF SEKELETU. CUSTOMES OF THE MAKOLOLO</hi> <space extent="0" unit="words"/><space extent="4" unit="chars"/> <hi rend="right">178</hi></p>
 
 
 	<pb facs="liv_015011_0018" n="0018"/>
 	<fw type="pageno" n="VIII" place="top"><seg rend="left">viii</seg> <seg rend="center">CONTENTS.</seg></fw>
 	<p rend="right"><hi rend="small">PAGE</hi></p>
-	<ab rend="center">CHAPTER X.</ab>
+	<ab rend="center"><space extent="4" unit="chars"/>CHAPTER X.</ab>
 	<p rend="no-indent"><hi rend="small">AFRICAN FEVER. THE MAKALAKA. DIVISIONS OF SOUTH AFRICAN FAMILY</hi> <hi rend="right">104</hi></p>
 	<ab rend="center">CHAPTER XI.</ab>
-	<p rend="no-indent"><hi rend="small">LINYANTI TO SESHEKE. THE LEEAMBYE</hi> <hi rend="right">203</hi></p>
+	<p rend="no-indent"><hi rend="small">LINYANTI TO SESHEKE. THE LEEAMBYE</hi> <space extent="6" unit="words"/><space extent="2" unit="chars"/> <hi rend="right">203</hi></p>
 	<ab rend="center">CHAPTER XII.</ab>
 	<p rend="no-indent"><hi rend="small">ASCENT OF THE LEEAMBYE. BAROTSE VALLEY. BANYETI. NALIELE. MAMBARI. THE MARILE. SESHEKE</hi> <hi rend="right">211</hi></p>
 	<ab rend="center">CHAPTER XIII.</ab>
-	<p rend="no-indent"><hi rend="small">LINYANTI. DESCENT OF THE CHOBE. ASCENT OF THE LEEAMBYE</hi> <hi rend="right">227</hi></p>
+	<p rend="no-indent"><hi rend="small">LINYANTI. DESCENT OF THE CHOBE. ASCENT OF THE LEEAMBYE</hi> <space extent="1" unit="words"/><space extent="1" unit="chars"/> <hi rend="right">227</hi></p>
 	<ab rend="center">CHAPTER XIV.</ab>
 	<p rend="no-indent"><hi rend="small">ASCENT OF THE LEEAMBYE CONTINUED. GONYE FALLS. NALIELE. LIBONTA. ANIMAL LIFE</hi> <hi rend="right">243</hi></p>
 	<ab rend="center">CHAPTER XV.</ab>
@@ -258,12 +256,12 @@
 	<ab rend="center">CHAPTER XXIX.</ab>
 	<p rend="no-indent"><hi rend="small">CROSSING THE LOANGWA. ZUMBO. DIFFICULTIES WITH MPENDE. CROSSING THE ZAMBESI. GAME-LAWS. DISTRICTS OF CHICOVA</hi> <hi rend="right">584</hi></p>
 	<ab rend="center">CHAPTER XXX.</ab>
-	<p rend="no-indent"><hi rend="small">ANIMALS. THE UE. THE BANYAI. ORDEAL MUAVI. ARRIVAL AT TETE</hi> <hi rend="right">607</hi></p>
+	<p rend="no-indent"><hi rend="small">ANIMALS. THE UE. THE BANYAI. ORDEAL MUAVI. ARRIVAL AT TETE</hi> <space extent="2" unit="words"/><space extent="0" unit="chars"/> <hi rend="right">607</hi></p>
 	<ab rend="center">CHAPTER XXXI.</ab>
-	<p rend="no-indent"><hi rend="small">NOTICES OF TETE AND ITS VICINITY. PRODUCTIONS</hi> <hi rend="right">628</hi></p>
+	<p rend="no-indent"><hi rend="small">NOTICES OF TETE AND ITS VICINITY. PRODUCTIONS</hi> <space extent="3" unit="words"/><space extent="4" unit="chars"/> <hi rend="right">628</hi></p>
 	<ab rend="center">CHAPTER XXXII.</ab>
-	<p rend="no-indent"><hi rend="small">DESCENT OF THE ZAMBESI. SENNA. THE QUILIMANE AND ZAMBESI. THE MUTU. KILIMANE. VOYAGE TO MAURITIUS, AND THENCE TO ENGLAND</hi> <hi rend="right">654</hi></p>
-	<p rend="no-indent">APPENDIX. <hi rend="right">684</hi></p>
+	<p rend="no-indent"><hi rend="small">DESCENT OF THE ZAMBESI. SENNA. THE QUILIMANE AND ZAMBESI. THE MUTU. KILIMANE. VOYAGE TO MAURITIUS, AND THENCE TO ENGLAND</hi> <space extent="1" unit="words"/><space extent="0" unit="chars"/> <hi rend="right">654</hi></p>
+	<p rend="no-indent">APPENDIX.<space extent="11" unit="words"/> <space extent="5" unit="chars"/><hi rend="right">684</hi></p>
 
 
 	<pb facs="liv_015011_0020" n="0020"/>
