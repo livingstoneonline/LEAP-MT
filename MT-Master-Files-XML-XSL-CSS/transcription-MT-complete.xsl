@@ -90,7 +90,7 @@
 					<span class="authority"><strong>Project ID:</strong><xsl:text> </xsl:text> <xsl:value-of select="//idno[@type='LEAP-ID']"/></span><br/>
 					<span class="authority"><strong>Critical encoding</strong><xsl:text>: </xsl:text> <xsl:value-of select="$encoding"/></span><br/>
 					<span class="authority"><strong>Encoding dates</strong><xsl:text>: </xsl:text><xsl:value-of select="$sortedDates" separator=", "/></span><br/>
-					<span class="authority"><strong>Note:</strong> The <em>Livingstone Online</em> project team used the text of the <em>Last Journals</em> available from Project Gutenberg (<a href="http://www.gutenberg.org/ebooks/16672" target="_blank">Vol. 1</a> and <a href="http://www.gutenberg.org/ebooks/17024">Vol. 2</a>) as the basis of the present digital facsimile. The team then corrected, encoded, and formatted that version to correspond to the original published text and now publishes that revised version here.</span><br/>
+					<span class="authority"><strong>Note:</strong> The <em>Livingstone Online</em> project team used the text of the <em>Missionary Travels and Researches in South Africa</em> available from Project Gutenberg (found <a href="https://www.gutenberg.org/files/1039/1039-h/1039-h.htm">here</a>) as the basis of the present digital facsimile. The team then corrected, encoded, and formatted that version to correspond to the original published text and now publishes that revised version here.</span><br/>
 					<br/>
 					<hr class="title-section"/>
 				</div>
