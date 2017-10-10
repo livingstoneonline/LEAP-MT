@@ -316,35 +316,107 @@
 	<!-- For "abbr" see above -->
 
 	<xsl:template match="add">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@n, '-', ''))}"><xsl:apply-templates/></span><!-- Added @hand and @n for MT -->
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@n, '-', ''))}">
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'ition, ')"/>
+							<xsl:for-each select="@*">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					<xsl:apply-templates/></span><!-- Added @hand and @n for MT -->
 	</xsl:template>
 
 	<xsl:template match="add[@place='marginleft']|add[@place='marginright']|add[@place='marginbottom']|add[@place='margintop']" priority="9"><!-- Should 9 be 10? -->
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'addmargin')}"> [<xsl:apply-templates/>] </span><!-- Added @n for MT -->
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'addmargin')}">
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'ition, ')"/>
+							<xsl:for-each select="@*">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					 [<xsl:apply-templates/>] </span><!-- Added @n for MT -->
 	</xsl:template>
 
 	<xsl:template match="add[@place='over-text']">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''))}" title="Addition written over existing text">{<xsl:apply-templates/>}</span><!-- Added @n for MT -->
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''))}" title="Addition written over existing text">
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'ition, ')"/>
+							<xsl:for-each select="@*">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					{<xsl:apply-templates/>}</span><!-- Added @n for MT -->
 	</xsl:template>
 
 	<xsl:template match="opener/add">
 		<span
 			class="opener-add {concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''))}">
-			<xsl:apply-templates/>
+			
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'ition, ')"/>
+							<xsl:for-each select="@*">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					<xsl:apply-templates/>
 		</span><!-- Added @n for MT -->
 	</xsl:template>
 
 	<!-- The following template added for MT -->
 	<xsl:template match="add[@rend='gray right'][preceding-sibling::add[@rend='gray center']]" priority="9">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'add-right')}">
-			<xsl:apply-templates/>
+			
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'ition, ')"/>
+							<xsl:for-each select="@*">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					<xsl:apply-templates/>
 		</span>
 	</xsl:template>
 
 	<!-- The following template added for MT -->
 	<xsl:template match="add[@rend='gray right'][preceding-sibling::add[@rend='gray right']]" priority="10">
 		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@n, '-', ''), ' ', 'right-right')}">
-			<xsl:apply-templates/>
+			
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'ition, ')"/>
+							<xsl:for-each select="@*">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					<xsl:apply-templates/>
 		</span>
 	</xsl:template>
 
@@ -1636,7 +1708,19 @@
 
 	<xsl:template match="add[@place='marginleft'][descendant::note]" priority="10">
 		<span class="{concat(name(), ' ', translate(@type, '-', ''), ' ', translate(@anchored, '-', ''), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@n, '-', ''))}">
-			<xsl:apply-templates/>
+			
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'ition, ')"/>
+							<xsl:for-each select="@*">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					<xsl:apply-templates/>
 		</span><!-- @hand and @n added for MT-->
 	</xsl:template>
 
