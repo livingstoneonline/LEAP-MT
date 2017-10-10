@@ -1320,16 +1320,16 @@
 	<xsl:template match="milestone">
 		<xsl:choose>
 			<xsl:when test="contains(@rend,'double-line')">
-				<hr class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'line', ' ', 'first-double')}"/><br/>
-				<hr class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'second-line')}"/>
+				<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'line', ' ', 'first-double')}">&#160;</span><br/>
+				<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'second-line')}">&#160;</span>
 			</xsl:when>
 			<xsl:when test="contains(@rend,'triple-line')">
-				<hr class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'line')}"/>
-				<hr class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'third-line')}"/>
-				<hr class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'third-line')}"/>
+				<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'line')}">&#160;</span>
+				<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'third-line')}">&#160;</span>
+				<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', 'third-line')}">&#160;</span>
 			</xsl:when>
 			<xsl:otherwise>
-				<hr class="{concat(name(), ' ', translate(@rend, '-', ''))}"/>
+				<span class="{concat(name(), ' ', translate(@rend, '-', ''))}">&#160;</span>
 			</xsl:otherwise>
 		</xsl:choose>
 			<!--<xsl:if test="@*">
