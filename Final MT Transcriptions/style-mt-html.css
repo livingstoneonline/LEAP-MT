@@ -752,12 +752,14 @@ color:gray;
 
 /* 13. Multiple hands */ /*added for MT*/
 .CL{
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif; 
-	color:#746553; 
+    font-family:"source sans pro", calibri, arial, helvetica, sans-serif;
+	color:#746553;
+	font-style: italic;
 }
 .DL{
     font-family:"source sans pro", calibri, arial, helvetica, sans-serif;
 	color:black;
+	font-style: normal;
 }
 .U1{
     font-style: normal;
