@@ -207,7 +207,7 @@
 		<!--<br><xsl:if test="$class/text()"><xsl:attribute name="class"><xsl:value-of select="$class"/></xsl:attribute></xsl:if></br>-->
 		<br/>
 		<xsl:variable name="num">
-			<xsl:number level="any" from="pb"/>
+			<xsl:number level="any" from="pb" count="lb[not(ancestor::add[@place='marginleft'])]"/>
 		</xsl:variable>
 		<xsl:if test="number($num) mod 5 =0">
 			<span class="linenumber">

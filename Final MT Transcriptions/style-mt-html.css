@@ -213,6 +213,7 @@ p span.pb-title{
 }
 .add.marginleft .note .linenumber{
 	text-indent:56.2em !important;
+	display:none;
 }
 .seg.left .linenumber{
 	text-indent:42em;
