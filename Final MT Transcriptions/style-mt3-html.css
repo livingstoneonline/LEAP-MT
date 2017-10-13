@@ -26,6 +26,9 @@
 .seg.left .linenumber{
 	text-indent:50em;
 }
+.CL .linenumber{
+	font-style:normal;
+}
 /*p .linenumber{
 	text-indent:-1%;
 }
