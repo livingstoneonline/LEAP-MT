@@ -173,7 +173,6 @@
 				<xsl:apply-templates/>
 			</div>
 		</div>
-		<br/>
 	</xsl:template>
 
 
