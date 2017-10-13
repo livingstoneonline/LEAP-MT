@@ -769,9 +769,10 @@ color:gray;
     font-style: normal;
 }
 .U5{
-    font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+    font-family:"source sans pro", calibri, arial, helvetica, sans-serif;
 	font-size:1em; 
-	color:#936541; 
+	color:#936541;
+	font-style: italic;
 }
 
 
