@@ -205,14 +205,19 @@
 		</xsl:variable>
 		<!--<br><xsl:if test="$class/text()"><xsl:attribute name="class"><xsl:value-of select="$class"/></xsl:attribute></xsl:if></br>-->
 		<br/>
-		<xsl:variable name="num">
-			<xsl:number level="any" from="pb" count="lb[not(ancestor::add[@place='marginleft'])]"/>
-		</xsl:variable>
-		<xsl:if test="number($num) mod 5 =0">
-			<span class="linenumber">
-				<xsl:value-of select="$num"/>
-			</span>
-		</xsl:if>
+		<xsl:choose>
+			<xsl:when test="lb[(ancestor::add[@place='marginleft'])]"/>
+			<xsl:otherwise>
+				<xsl:variable name="num">
+					<xsl:number level="any" from="pb"/><!-- count="lb[not(ancestor::add[@place='marginleft'])]|lb[not(ancestor::add[@place='marginleft']/note)]" -->
+				</xsl:variable>
+				<xsl:if test="number($num) mod 1 =0">
+					<span class="linenumber">
+						<xsl:value-of select="$num"/>
+					</span>
+				</xsl:if>
+			</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
 
 	<xsl:template match="choice">
