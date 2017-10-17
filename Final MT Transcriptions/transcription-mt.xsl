@@ -209,7 +209,7 @@
 			<xsl:when test="lb[(ancestor::add[@place='marginleft'])]"/>
 			<xsl:otherwise>
 				<xsl:variable name="num">
-					<xsl:number level="any" from="pb"/><!-- count="lb[not(ancestor::add[@place='marginleft'])]|lb[not(ancestor::add[@place='marginleft']/note)]" -->
+					<xsl:number level="any" from="pb" count="lb[not(ancestor::add[@place='marginleft'])]|lb[not(ancestor::add[@place='marginleft']/note)]"/><!-- count="lb[not(ancestor::add[@place='marginleft'])]|lb[not(ancestor::add[@place='marginleft']/note)]" -->
 				</xsl:variable>
 				<xsl:if test="number($num) mod 1 =0">
 					<span class="linenumber">

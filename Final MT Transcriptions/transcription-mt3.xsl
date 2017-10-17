@@ -206,14 +206,19 @@
 		</xsl:variable>
 		<!--<br><xsl:if test="$class/text()"><xsl:attribute name="class"><xsl:value-of select="$class"/></xsl:attribute></xsl:if></br>-->
 		<br/>
-		<xsl:variable name="num">
-			<xsl:number level="any" from="pb"/>
-		</xsl:variable>
-		<xsl:if test="number($num) mod 5 =0">
-			<span class="linenumber">
-				<xsl:value-of select="$num"/>
-			</span>
-		</xsl:if>
+		<xsl:choose>
+			<xsl:when test="lb[(ancestor::add[@place='marginleft'])]"/>
+			<xsl:otherwise>
+				<xsl:variable name="num">
+					<xsl:number level="any" from="pb" count="lb[not(ancestor::add[@place='marginleft'])]|lb[not(ancestor::add[@place='marginleft']/note)]"/><!-- count="lb[not(ancestor::add[@place='marginleft'])]|lb[not(ancestor::add[@place='marginleft']/note)]" -->
+				</xsl:variable>
+				<xsl:if test="number($num) mod 1 =0">
+					<span class="linenumber">
+						<xsl:value-of select="$num"/>
+					</span>
+				</xsl:if>
+			</xsl:otherwise>
+		</xsl:choose>
 	</xsl:template>
 
 	<xsl:template match="choice">
@@ -595,6 +600,28 @@
 					</xsl:if>
 					<xsl:apply-templates/></span></span>
 			</xsl:when>
+			
+	<!-- effort to have a gray line through a black word, when the word is in an addition by DL and a div by Charles 
+			
+			<xsl:when test="@rend='gray' and parent::add[@n='DL'][ancestor::div[@n='CL']]/..">
+				<span style='color:gray;text-decoration:line-through'><span style='color:black'>
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'etion, ')"/>
+							<xsl:for-each select="@*">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					<xsl:apply-templates/></span></span>
+			</xsl:when>
+			
+			-->
+			
+			
 			<xsl:when test="@rend='red' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
 				<span style='color:#B33B24;text-decoration:line-through'><span style='color:#746553'>
 					<xsl:if test="@*">
