@@ -124,12 +124,12 @@
 <lb/>and baked or pounded into thin <term type="foodstuff">meal</term> or
 <lb/>rasped into <term type="foodstuff">meal</term> and cooked as "<term type="foodstuff">farina</term>" or
 <lb/>made into a <term type="foodstuff">confection<subst><del>a</del><add place="over-text">e</add></subst>ry</term> with <term type="foodstuff">butter</term> and <term type="foodstuff">sugar</term>
-<lb/><add place="marginleft" rend="gray" hand="#U1" n="U2"><seg rend="vertical"><note><space extent="6" unit="chars"/>248 21 <space extent="1" unit="chars"/>241
+    <lb/><seg rend="vertical"><add place="marginleft" rend="gray" hand="#U1" n="U2"><note><space extent="6" unit="chars"/>248 21 <space extent="1" unit="chars"/>241
     <lb/><space extent="10" unit="chars"/>C L <placeName><settlement type="city">London</settlement></placeName>
     <lb/><space extent="4" unit="chars"/>Hadley <unclear cert="low">joining 24</unclear> 
     <lb/><placeName><settlement type="village" ref="settlement.xml#sett0056">Hadley Green</settlement></placeName>
     <lb/><space extent="9" unit="chars"/><placeName><settlement type="borough">Barnet</settlement></placeName> <date when="1857-06">June</date>
-    <lb/><space extent="1" unit="chars"/><settlement type="borough">Barnet</settlement> <date when="1857-06-23">June <unclear cert="low">DS</unclear> 23<hi rend="sup">d</hi></date></note></seg></add>
+    <lb/><space extent="1" unit="chars"/><settlement type="borough">Barnet</settlement> <date when="1857-06-23">June <unclear cert="low">DS</unclear> 23<hi rend="sup">d</hi></date></note></add></seg>
 <del type="cancelled">they</del> it does not so soon pall upon their palates
 <lb/>as one might imagine when told that it <del type="cancelled" hand="#DL" n="DL">is</del>
 <lb/><add place="marginleft" hand="#DL" n="DL">constitutes</add> their principal food <space extent="6" unit="chars"/>The leaves, boiled
@@ -656,7 +656,7 @@ until I reached
 <lb/>letters from <choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation"><choice><abbr>Gov<hi rend="sup underline">r</hi></abbr><expan>Governor</expan></choice> of <placeName><country>Mozambique</country></placeName></term> in the
 <lb/>year <date when="1815">1815</date> proving as <subst><del type="cancelled" hand="#DL" n="DL">was</del><add place="above" hand="#DL" n="DL">is</add></subst> remarked <retrace hand="#DL" n="DL"><add place="inline" rend="gray" hand="#DL" n="DL">"</add></retrace>the possibility
 <lb/><del type="cancelled" hand="#DL" n="DL">of</del> <add place="below" hand="#DL" n="DL">^</add> <add place="marginleft" hand="#DL" n="DL">of so important a</add> communication between <placeName><country>Mozambique</country></placeName> and
-    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName><retrace hand="#DL" n="DL"><add place="inline" rend="gray" hand="#DL" n="DL">"</add></retrace> <add place="marginleft" hand="#DL" n="DL" rend="black"><metamark function="insertion"/>This is the only
+    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName><retrace hand="#DL" n="DL"><add place="inline" rend="gray" hand="#DL" n="DL">"</add></retrace> <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>This is the only
     <lb/>instance of
     <lb/><orgName ref="orgName.xml#org0033"><orgName>native</orgName> <term type="nationality">Portuguese</term></orgName>
     <lb/><add place="below">^</add> <add place="above">subjects</add> crossing the
