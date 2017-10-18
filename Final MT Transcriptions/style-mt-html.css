@@ -215,9 +215,6 @@ p span.pb-title{
 	text-indent:56.2em !important;
 	display:none;
 }
-.seg.left .linenumber{
-	text-indent:42em;
-}
 /*p .linenumber{
 	text-indent:-1%;
 }
@@ -545,9 +542,8 @@ p{
 	font-size:120%;
 }
 .seg.left{
-	display:inline-block;	
-	margin-left:-4em !important;
-	text-indent:0 !important;
+	position:relative;
+	right:4em;
 }
 .body.left{
 	text-indent:0;
