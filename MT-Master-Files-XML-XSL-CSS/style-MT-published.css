@@ -445,7 +445,8 @@ p{
 }
 .center/*LLJ*/{
 	text-align:center;
-	/*color:green;*//*Added for full LJ.*/
+	display:block;
+	height:0;
 }
 .doubleunderline{
 	border-bottom:3px double;
