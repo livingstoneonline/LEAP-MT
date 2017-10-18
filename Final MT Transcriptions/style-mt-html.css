@@ -665,7 +665,7 @@ p{
 	color:#8e6352;
 }
 .gray{
-	color:#706f6a;
+	color:#706f6a !important;
 }
 .green{
 	color:green;
