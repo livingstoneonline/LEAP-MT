@@ -460,10 +460,18 @@ p{
 .large{
 	font-size:120%;
 }
+.ab.center,
+.small.center,
+.large.center,
+.p.center{
+	height:auto;
+}
 .left/*LLJ*/{
 	float:left;
 }
-
+.other{
+	color:green;
+}
 .overline{
 	text-decoration: overline;
 }
