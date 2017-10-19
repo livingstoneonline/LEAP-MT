@@ -486,7 +486,8 @@ p{
 	font-size:85%;
 }
 .smallcaps{
-	font-variant:small-caps;
+    font-variant:small-caps;
+	text-transform:lowercase;
 }
 .underline{
 	text-decoration:underline;
