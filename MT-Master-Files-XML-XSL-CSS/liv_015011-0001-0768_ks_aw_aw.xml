@@ -267,7 +267,7 @@
 
 	<pb facs="liv_015011_0020" n="0020"/>
 <fw type="pageno" place="top"><seg rend="large caps center underline">LIST OF ILLUSTRATIONS.</seg></fw>
-	<p rend="no-indent other"><seg rend="small">1. The Victoria Falls of the Leeambye or Zambesi River</seg> <seg rend="right small italic">Frontispiece.</seg>
+	<p rend="no-indent"><seg rend="small">1. The Victoria Falls of the Leeambye or Zambesi River</seg> <seg rend="right small italic">Frontispiece.</seg>
 <lb/><seg rend="small">2. Author's Portrait</seg> <seg rend="right small"><seg rend="italic">To face page</seg> 1</seg>
 <lb/><seg rend="small">3. The Missionary's Escape from the Lion</seg> <seg rend="right small">— 13</seg>
 <lb/><seg rend="small">4. The Hopo, or Trap for driving Game</seg> <seg rend="right small">— 26</seg>
@@ -278,13 +278,15 @@
 <lb/><seg rend="small">9. New African Antelopes (Poku and Leche)</seg> <seg rend="right small">— 71</seg>
 <lb/><seg rend="small">10. Three Lions attempting to drag down a Buffalo</seg> <seg rend="right small">— 140</seg>
 <lb/><seg rend="small">11. Buffalo Cow defending her Calf</seg> <seg rend="right small">— 142</seg>
-<lb/><seg rend="small">12. Mopane or Bauhinia Leaves, with the Insect and its edible Secretions</seg> <seg rend="right small">164</seg>
+<lb/><seg rend="small">12. Mopane or Bauhinia Leaves, with the Insect and its edible Secretions</seg> 
+<lb/><seg rend="right small">164</seg>
 <lb/><seg rend="small">13. Presentation at Court (to Mosilikatse) of two successful young Lion-hunters</seg> <seg rend="right small">— 171</seg>
 <lb/><seg rend="small">14. Egyptian Pestle and Mortar, Sieves, Corn-vessels, and Kilt</seg> <seg rend="right small">195</seg>
 <lb/><seg rend="small">15. A Batoka Hoe</seg> <seg rend="right small">198</seg>
 <lb/><seg rend="small">16. A new or striped variety of Eland, found north of Sesheke</seg> <seg rend="right small">— 210</seg>
 <lb/><seg rend="small">17. Bechuana Reed-Dance by Moonlight</seg> <seg rend="right small">— 225</seg>
-<lb/><seg rend="small">18. Mode in which the female Hippopotamus carries her Calf while young</seg> <seg rend="right small">— 242</seg>
+<lb/><seg rend="small">18. Mode in which the female Hippopotamus carries her Calf while young</seg> 
+<lb/><seg rend="right small">— 242</seg>
 <lb/><seg rend="small">19. Reception of the Mission by Shinte</seg> <seg rend="right small">— 291</seg>
 <lb/><seg rend="small">20. The Marimba, or Musical Instrument of the Balonda</seg> <seg rend="right small">293</seg>
 <lb/><seg rend="small">21. Shell, and Ornament made of its end</seg> <seg rend="right small">300</seg>
@@ -310,8 +312,8 @@
 <lb/><seg rend="small">43. The Travelling Procession interrupted</seg> <seg rend="right small">— 588</seg>
 <lb/><seg rend="small">44. The Buaze</seg> <seg rend="right small">646</seg>
 <lb/><seg rend="small">45. The Kumbanzo Leaves, Pods, and Seeds</seg> <seg rend="right small">648</seg>
-<lb/><seg rend="small">46. Map of South Africa</seg>
-<lb/><seg rend="small">47. Map of Dr. Livingstone's Route</seg> <seg rend="small">John Arrowsmith <seg rend="right italic">At the end.</seg></seg></p>
+<lb/><seg rend="small">46. Map of South Africa</seg> <space extent="2" unit="words"/><space extent="1" unit="chars"/> } <space extent="3" unit="chars"/><seg rend="small">John Arrowsmith <seg rend="right italic">At the end.</seg></seg>
+<lb/><seg rend="small">47. Map of Dr. Livingstone's Route</seg><space extent="1" unit="chars"/>}</p>
 
 
 	<pb facs="liv_015011_0021" n="0021"/>
