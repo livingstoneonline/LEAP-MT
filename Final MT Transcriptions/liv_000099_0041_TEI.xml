@@ -332,12 +332,12 @@ and where in
 <lb/>as to suppose that only one could
 <lb/>make rain? Why there is first of
 <lb/>all the right out human feeling</del></del>
-<lb/><add place="marginleft" rend="gray" hand="#U2"><note><retrace hand="#DL"><metamark function="deletion"/></retrace><!-- the proof correction mark for deletion. JL -->
-    <lb/><choice><abbr>dele</abbr><expan>delete</expan></choice>
-    <lb/><persName ref="people.xml#pers0334">JM</persName></note></add>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note><retrace hand="#DL"><metamark function="deletion"/></retrace></note></add><!-- the proof correction mark for deletion. JL -->
 <del type="cancelled"><del type="cancelled" hand="#U2">on which the knowing ones at home
 <lb/>work when they explain the rationale
-    <lb/>of the operation of <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0423">Morrison</persName>'s</add> vegetable pills -
+    <lb/><add place="marginleft" rend="gray" hand="#U2"><note><metamark function="dele-abbr"><choice><abbr>dele</abbr><expan>delete</expan></choice></metamark>
+    <lb/><persName ref="people.xml#pers0334">JM</persName></note></add>
+of the operation of <add place="below">^</add> <add place="above"><persName ref="people.xml#pers0423">Morrison</persName>'s</add> vegetable pills -
 <lb/>It may be termed "the every man
 <lb/>his own doctor" feeling<del type="strikethrough">"</del> - The <orgName>natives</orgName>
 <lb/>like to do something - </del></del><anchor xml:id="meta-3"/><!-- the section is boxed by both DL and the editor to signal deletion. JL --> It is irksome
@@ -753,7 +753,6 @@ Well I always thought
 <lb/><space extent="15" unit="chars"/>(<hi rend="gray underline" resp="#U2">Turnover</hi>) 
 <lb/><space extent="17" unit="chars"/><metamark function="query" rend="gray" resp="#U2">?</metamark><!-- this question mark, signalling a query, is also contained within a circle.JL -->
         </p>
-<lb/>
             </div>
         </body>
     </text>

@@ -419,10 +419,9 @@ of <subst><del>of</del><add place="over-text">c</add></subst>ommerce ought to be
 <lb/>We have a very different tale to tell
     <lb/>of the <orgName ref="orgName.xml#org0042">Caffres</orgName> and the difference
 <lb/>has always been so patent to these
-    <lb/>border <orgName ref="orgName.xml#org0038"><choice><sic>boers</sic><corr>Boers</corr></choice></orgName> that ever since
-<lb/><add place="marginleft"><note>* <bibl>Union Service
-        <lb/>Gazette</bibl> so styles them</note></add>
-"those magnificent savages" <add place="below">*</add><!-- asterisk indicating additional text at side of document, corresponding asterisk at side of page,ks --> 	
+<lb/>border <orgName ref="orgName.xml#org0038"><choice><sic>boers</sic><corr>Boers</corr></choice></orgName> that ever since
+<lb/>"those magnificent savages" <add place="below">*</add><!-- asterisk indicating additional text at side of document, corresponding asterisk at side of page,ks --> <add place="marginleft">* <bibl>Union Service
+    <lb/>Gazette</bibl> so styles them</add>	
 obtained
 <lb/>possession of firearms not
 <lb/>one of them ever attempted to

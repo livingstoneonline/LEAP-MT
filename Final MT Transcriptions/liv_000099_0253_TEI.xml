@@ -78,7 +78,7 @@
         <profileDesc>
             <langUsage>
                 <language ident="en">English</language>
-                <language ident="und">Unknown</language>
+                <language ident="und">Undetermined</language>
                 <language ident="la">Latin</language>
             </langUsage>
         </profileDesc>
@@ -95,8 +95,8 @@
             <div>
     
 <pb facs="liv_000099_0253.jpg" n="0253"/>
-<lb/><p rend="no-indent"><note place="marginleft">XI</note> <fw><add place="inspace" hand="#U2" rend="gray center">206</add> <add place="inspace" rend="gray right" hand="#U1">246</add></fw>
-    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0497">Robinson</persName></note></add> It is not the <term type="animal">springbuck</term> alone
+<lb/><note place="marginleft">XI</note> <fw><add place="inspace" hand="#U2" rend="gray center">206</add> <add place="inspace" rend="gray right" hand="#U1">246</add></fw>
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0497">Robinson</persName></note></add> It is not the <term type="animal">springbuck</term> alone
 <lb/>that manifests this feeling - When
 <lb/><term type="animal">oxen</term> are taken into a country
 <lb/>of high grass they are much
@@ -184,13 +184,12 @@
 <lb/>and he actually drove back
 <lb/>singlehanded a formidable force
     <lb/>of marauding <orgName ref="orgName.xml#org0068">Mantatees</orgName> that
-<lb/>threatened to invade the Colony <add place="inline">*</add> <add place="marginleft"><note><add place="inline" hand="#U3" rend="red">Note</add> 
-    <lb/>For an account
+    <lb/>threatened to invade the Colony <add place="inline">*</add> <add place="marginleft" hand="#U3" rend="red"><note>Note</note></add> <add place="marginleft">For an account
     <lb/><supplied cert="high">of</supplied> this see
     <lb/><choice><sic><persName ref="people.xml#pers0411">Moffat</persName>s</sic><corr><persName ref="people.xml#pers0411">Moffat</persName>'s</corr></choice> <del type="cancelled"><bibl><term type="occupation">missionary</term>
     <lb/>enterprise</bibl></del> "<bibl>Scenes
     <lb/><supplied cert="high">&amp;</supplied> Labours
-    <lb/><supplied cert="high">in</supplied> <placeName><region>South Africa</region></placeName></bibl>"</note></add><!-- I've coded this as <region> rather than "country", since DL is really referring to southern Africa. The country doesn't come into being until 1910 with the Union of South Africa).JL -->
+    <lb/><supplied cert="high">in</supplied> <placeName><region>South Africa</region></placeName></bibl>"</add><!-- I've coded this as <region> rather than "country", since DL is really referring to southern Africa. The country doesn't come into being until 1910 with the Union of South Africa).JL -->
 <lb/>But for <del type="strikethrough" hand="#U3" rend="red">this</del> <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="U3" rend="red">that</add> brave <term type="religion">Christian</term>
     <lb/>man <add place="below">^</add> <add place="above" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><persName ref="people.xml#pers0411">Mr Moffat</persName></del></add> <add place="above"><persName ref="people.xml#pers0565">Waterboer</persName></add> there is every human
 <lb/>probability that the <choice><sic>North</sic><corr/></choice> <del type="cancelled">&amp;</del> -
@@ -976,7 +975,7 @@ It <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="#U3
 <lb/>task of any man living - Some
 <lb/>idea <add place="marginleft"><metamark function="insertion"/><supplied cert="high">of</supplied>the copiousness
     <lb/><supplied cert="high">of</supplied> the language</add>
-<add place="marginleft" hand="#U3" rend="red"><del type="cancelled" hand="#DL"><metamark function="insertion"/>of the extent of this task</del></add> may be formed <add place="marginleft"><del type="cancelled"><metamark function="insertion"/>of the <w>copious-
+<lb/><add place="marginleft" hand="#U3" rend="red"><del type="cancelled" hand="#DL"><metamark function="insertion"/>of the extent of this task</del></add> may be formed <add place="marginleft"><del type="cancelled"><metamark function="insertion"/>of the <w>copious-
     <lb break="no"/>ness</w></del></add>
 from the
 <lb/>fact that even he never spends

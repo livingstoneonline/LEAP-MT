@@ -13646,8 +13646,8 @@ When in
 <lb/>to have an instinctive feeling
 <lb/>against them - In making the
     <lb/>door for our <placeName><settlement type="village" ref="settlement.xml#sett0074">Mabotsa</settlement></placeName> <metamark function="ed-mark">[</metamark>house
-<lb/><add place="marginleft"><del type="cancelled"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-122"/><unclear cert="low">camouflage</unclear>
-    <lb/><add place="inline" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> this word.</note><anchor xml:id="meta-122"/></add></del></add>
+<lb/><add place="marginleft"><del type="cancelled"><note><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-122"/><unclear cert="low">camouflage</unclear>
+    <lb/><add place="inline" hand="#U3" rend="red"><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> this word.<anchor xml:id="meta-122"/></add></note></del></add>
 I happened to leave a small
 <lb/>hole at the corner below - One
 <lb/>morning early a man came

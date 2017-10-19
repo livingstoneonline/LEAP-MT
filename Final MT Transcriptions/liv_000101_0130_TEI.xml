@@ -107,7 +107,7 @@
 make sure to note DL’s hand in the addition. i.e. <add place=“marginleft" hand=“#DL"> -->
 
 <pb facs="liv_000101_0130.jpg" n="0130"/> <!-- p443, sh -->                
-<lb/><p><note place="marginleft" hand="#DL" n="DL">XLIV.</note> <note place="marginleft above" hand="#U1" n="U1" rend="gray">443-463 <add place="below">(Less 454-6)</add></note> <fw><add place="inspace" rend="gray right" hand="#U1" n="U1">125</add></fw></p>
+<lb/><p><note place="marginleft" hand="#DL" n="DL">XLIV.</note> <note place="marginleft above" hand="#U1" n="U1" rend="gray">443-463 <add place="below">(Less 454-6)</add></note> <space extent="10" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">125</add></fw></p>
 <lb/><p rend="no-indent">wonderful urbanity asking if we had seen
 <lb/><del type="strikethrough">Moenep</del> <foreign xml:lang="und">Moene Put</foreign> <term type="occupation">King</term> <choice><abbr>` '</abbr><expan>of the</expan></choice> white men (or <term type="people">Portuguese</term>
 <lb/>and added on parting that he would come to receive his
@@ -149,7 +149,7 @@ and the <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign
 
 
 <pb facs="liv_000101_0131.jpg" n="0131"/><!-- p444-445, sh -->  
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">126</add></fw>
+<lb/><space extent="15" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">126</add></fw>
 <lb/>many <orgName>slaves</orgName> and their <del type="strikethrough">burde</del> loads might be stolen
 <lb/>while passing through <choice><abbr>'</abbr><expan>the</expan></choice> forests. <space unit="chars" extent="3"/>It is thus a sort
 <lb/><choice><abbr>`</abbr><expan>of</expan></choice> black-mail these insignificant <term type="occupation">chiefs</term> levy and <choice><abbr>'</abbr><expan>the</expan></choice>
@@ -159,7 +159,7 @@ and the <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign
     <lb/>former ignorance <choice><abbr>`</abbr><expan>of</expan></choice> this
     <lb/>he plagued us a whole 
     <lb/>day in passing</add> 
-    - Finding <choice><abbr>'</abbr><expan>the</expan></choice> progress <choice><abbr>`</abbr><expan>of</expan></choice> <del type="strikethrough">it</del> <persName ref="people.xml#pers0528"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice> Pascoal</persName> and <choice><abbr>'</abbr><expan>the</expan></choice>
+<space extent="2" unit="chars"/>- Finding <choice><abbr>'</abbr><expan>the</expan></choice> progress <choice><abbr>`</abbr><expan>of</expan></choice> <del type="strikethrough">it</del> <persName ref="people.xml#pers0528"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice> Pascoal</persName> and <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/>other <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign> excessively slow I resolved to forgo his
     <lb/>company to <placeName><settlement type="village" ref="settlement.xml#sett0030">Cabango</settlement></placeName> after I had delivered to him some
     <lb/>letters to be sent back to <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName>, but on the
@@ -176,7 +176,7 @@ and the <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign
 <lb/>The <seg type="weather">heavy dew</seg> upon <choice><abbr>'</abbr><expan>the</expan></choice> high grass <subst><add place="above" hand="#DL" n="DL">was so cold as to</add><del type="strikethrough" hand="#DL" n="DL">made</del></subst> cause<del type="cancelled" hand="#DL" n="DL">d</del>
 <lb/>shivering and I was forced to lay by<del type="strikethrough">e</del> for eight days
 <lb/><add place="marginleft" hand="#DL" n="DL">tossing &amp; groaning with</add> <del type="strikethrough" hand="#DL" n="DL">in</del> <term type="ailment">violent pain <choice><abbr>` '</abbr><expan>of the</expan></choice> head</term> <space unit="chars" extent="4"/>This was <choice><abbr>'</abbr><expan>the</expan></choice> most severe
-<lb/>attack I had <subst><del type="strikethrough" hand="#DL" n="DL">had</del><add place="inline" hand="#DL" n="DL">endured -</add></subst> It made me quite unfit to
+<lb/>attack I had <subst><del type="strikethrough" hand="#DL" n="DL">had</del> <add place="inline" hand="#DL" n="DL">endured -</add></subst> It made me quite unfit to
 <lb/>move or <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">even</add> know what was passing outside my
     <lb/>little tent <space unit="chars" extent="3"/><persName ref="people.xml#pers0528"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice> Pascoal</persName> who had been detained
 <lb/>by <choice><abbr>'</abbr><expan>the</expan></choice> <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">same</add> <seg type="weather">rain</seg> <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">at a better spot</add> at last came up and knowing that <term type="insect">leeches</term>
@@ -196,11 +196,11 @@ and the <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign
 
 
 <pb facs="liv_000101_0132.jpg" n="0132"/><!-- p445-446, sh -->       
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">127</add></fw>
+<lb/><space extent="17" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">127</add></fw>
 <lb/>possible <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">and being himself a kindly disposed person</add> he sent back two <term type="occupation">messengers</term> to write me
 <lb/>to come on if practicable <space unit="chars" extent="3"/>It happened that <choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">head-
 <lb break="no"/>man</term> <choice><abbr>` '</abbr><expan>of the</expan></choice> village where I had lain <del type="strikethrough">upwards</del> 22 days
-    <lb/><del type="cancelled">had</del> in bargaining <add place="below" hand="#DL" n="DL">˄</add> <subst><add place="above" hand="#DL" n="DL">&amp; quarrelling in my camp</add> <del type="cancelled">with one <choice><abbr>`</abbr><expan>of</expan></choice> my men</del></subst> for a piece <choice><abbr>`</abbr><expan>of</expan></choice>
+    <lb/><del type="cancelled">had</del> in bargaining <add place="below" hand="#DL" n="DL">˄</add> <subst><add place="above" hand="#DL" n="DL">&amp; quarrelling in my camp</add> <del type="cancelled" hand="#DL" n="DL">with one <choice><abbr>`</abbr><expan>of</expan></choice> my men</del></subst> for a piece <choice><abbr>`</abbr><expan>of</expan></choice>
 <lb/><term type="foodstuff">meat</term> had been struck on <choice><abbr>'</abbr><expan>the</expan></choice> mouth <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>by one of my men</add> <space unit="chars" extent="2"/>My principle
 <lb/>men paid <del type="strikethrough">as an</del> 5 pieces <choice><abbr>`</abbr><expan>of</expan></choice> cloth and a gun as an
 <lb/>atonement but <choice><abbr>'</abbr><expan>the</expan></choice> more they yielded <choice><abbr>'</abbr><expan>the</expan></choice> more
@@ -212,14 +212,14 @@ and the <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign
 <lb/>success I resolved to yield no more and departed
 <lb/>In passing through a forest in <choice><abbr>'</abbr><expan>the</expan></choice> country beyond
 <lb/>we were startled by a body <choice><abbr>`</abbr><expan>of</expan></choice> men rushing after us
-<lb/>They began by knocking down <del type="strikethrough">some</del> <choice><abbr>` '</abbr><expan>of the</expan></choice> <del type="strikethrough">last</del> burden <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">the burdens of the</add> hindermost
+<lb/>They began by knocking down <del type="strikethrough" hand="#DL" n="DL">some</del> <choice><abbr>` '</abbr><expan>of the</expan></choice> <del type="strikethrough" hand="#DL" n="DL">last</del> burden <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">the burdens of the</add> hindermost
 <lb/><choice><abbr>`</abbr><expan>of</expan></choice> my party and <del type="strikethrough">firing</del> several shots were fired on
 <lb/>both sides, <del type="strikethrough" hand="#DL" n="DL">both</del> <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">each</add> part<subst><del hand="#DL" n="DL">ies</del><add place="over-text" hand="#DL" n="DL">y</add></subst> spreading out on <subst><del type="strikethrough" hand="#DL" n="DL">each</del><add place="above" hand="#DL" n="DL">both</add></subst> sides
 <lb/><choice><abbr>` '</abbr><expan>of the</expan></choice> path <space unit="chars" extent="3"/>I fortunately had a six <choice><sic>barreled</sic><corr>barrelled</corr></choice> revolver
     <lb/><choice><abbr>wh.</abbr><expan>which</expan></choice> my friend <persName ref="people.xml#pers0449"><term type="occupation"><choice><abbr>Capt</abbr><expan>Captain</expan></choice></term> Henry Need</persName> of <orgName><choice><abbr>H. M</abbr><expan>Her Majesty's</expan></choice> Brig
         <lb/>Linnet</orgName> had considerately sent <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">me</add> to <placeName><settlement type="town" ref="settlement.xml#sett0052">Golungo Alto</settlement></placeName> after
     <lb/>my departure from <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> <space unit="chars" extent="3"/>Taking this in my
-<lb/>hand I <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>staggered</add> <del type="strikethrough">went</del> <del type="strikethrough" hand="#DL" n="DL">rushed</del> <del type="strikethrough">ba along</del> back along <choice><abbr>'</abbr><expan>the</expan></choice> path
+    <lb/>hand I <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>staggered</add> <del type="strikethrough" hand="#DL" n="DL">went rushed ba along</del> back along <choice><abbr>'</abbr><expan>the</expan></choice> path
 <lb/>with two or three of my men and fortunately <add place="below">˄</add> <add place="marginleft">encountered</add> <del type="strikethrough">found</del>
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> <term type="occupation">chief</term> <del type="strikethrough"><choice><abbr>` '</abbr><expan>of the</expan></choice> village</del>. <space unit="chars" extent="2"/>The sight <choice><abbr>` '</abbr><expan>of the</expan></choice> six barrels <subst><del type="strikethrough" hand="#DL" n="DL">looking</del><add place="above" hand="#DL" n="DL">gaping</add></subst>
 <lb/>into his stomach <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-304"/>with my own
@@ -229,7 +229,7 @@ and the <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign
 seemed to produce an instant
 <lb/>revolution in his martial feelings for he <choice><sic>cryed</sic><corr>cried</corr></choice>
 <lb/>out "Oh I have only come to speak to you and
-<lb/><add place="marginleft" hand="#DL" n="DL">wish peace" <metamark function="let-stand" spanTo="#meta-305"/><del type="strikethrough">only</del><anchor xml:id="meta-305"/>"</add> 
+<lb/><add place="marginleft" hand="#DL" n="DL">wish peace "<metamark function="let-stand" spanTo="#meta-305"/><del type="strikethrough">only</del><anchor xml:id="meta-305"/>"</add> 
     <del type="strikethrough" hand="#DL" n="DL">to join the <orgName ref="orgName.xml#org0074">peace society</orgName></del> <space unit="chars" extent="4"/><persName ref="people.xml#pers0393">Mashauana</persName> had
 <lb/>hold of him by <choice><abbr>'</abbr><expan>the</expan></choice> hand and found him shaking. We
 <lb/>examined his gun and found that it had been
@@ -241,7 +241,7 @@ seemed to produce an instant
 
 
 <pb facs="liv_000101_0133.jpg" n="0133"/><!-- p446, sh -->   
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">128</add></fw>
+<lb/><space extent="11" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">128</add></fw>
 <lb/>down <add place="below">˄</add> <add place="above">as evidence <choice><abbr>`</abbr><expan>of</expan></choice> the contrary</add> <space extent="2" unit="chars"/><choice><sic>without</sic><corr>Without</corr></choice> waiting long I <subst><del type="strikethrough">invited</del><add place="above">requested</add></subst> all to sit
     <lb/>down and <del type="cancelled">Pi</del> my man <persName ref="people.xml#pers0479">Pitsane</persName> placing his hand
 <lb/>upon <choice><abbr>'</abbr><expan>the</expan></choice> revolver <add place="below">˄</add> <add place="above">somewhat</add> allayed their fears <space unit="chars" extent="3"/>I then said to the 
@@ -281,7 +281,7 @@ seemed to produce an instant
     
 
 <pb facs="liv_000101_0134.jpg" n="0134"/><!-- p446-447, sh -->
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">129</add></fw> 
+<lb/><space extent="16" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">129</add></fw> 
     <lb/>They are by no means equal to <choice><abbr>'</abbr><expan>the</expan></choice> <orgName ref="orgName.xml#org0042"><placeName><region ref="region.xml#region0024">Cape</region></placeName> Caffres</orgName> in any
 <lb/>respect whatever <space unit="chars" extent="3"/><metamark function="newParagraph">⎦</metamark>In <choice><abbr>'</abbr><expan>the</expan></choice> evening we came to
     <lb/><persName ref="people.xml#pers0445">Moena<del type="cancelled">ki</del> Kikanje</persName> and found him a sensible
@@ -293,7 +293,7 @@ seemed to produce an instant
 <lb/><choice><abbr>wh</abbr><expan>which</expan></choice></del> <placeName><geogName type="river">Quilo</geogName></placeName> <choice><abbr>wh</abbr><expan>which</expan></choice> is here 20 <choice><abbr>yds</abbr><expan>yards</expan></choice> wide and breast high
 <lb/>The country was generally covered with forest and
 <lb/>we slept every night at some village I was so 
-<lb/>weak and <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/><choice><sic>and</sic><corr/></choice> became so</add> <term type="ailment">deaf</term> <del type="strikethrough">fro</del> <supplied cert="high">from</supplied> <choice><abbr>'</abbr><expan>the</expan></choice> effects <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="ailment">fever</term> that I was
+<lb/>weak and <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/><choice><sic>and</sic><corr/></choice> became so</add> <term type="ailment">deaf</term> <del type="strikethrough">from</del> <supplied cert="high">from</supplied> <choice><abbr>'</abbr><expan>the</expan></choice> effects <choice><abbr>` '</abbr><expan>of the</expan></choice> <term type="ailment">fever</term> that I was
     <lb/>glad to avail myself <choice><abbr>` '</abbr><expan>of the</expan></choice> company <choice><abbr>`</abbr><expan>of</expan></choice> <persName ref="people.xml#pers0528"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice> Pascoal</persName> &amp;
 <lb/>the other <orgName><orgName>native</orgName> <term type="occupation">traders</term></orgName> <space unit="chars" extent="3"/>Our rate <choice><abbr>`</abbr><expan>of</expan></choice> travelling
 <lb/>was only <measure>2 geographical miles per hour</measure> and the
@@ -327,7 +327,7 @@ seemed to produce an instant
 
 
 <pb facs="liv_000101_0135.jpg" n="0135"/><!-- p447-448, sh -->             
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">130</add></fw> 
+<lb/><space extent="12" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">130</add></fw> 
 <lb/>curse them as <choice><abbr>'</abbr><expan>the</expan></choice> race <choice><abbr>`</abbr><expan>of</expan></choice> a <term type="animal">dog</term> <space unit="chars" extent="3"/>The most of the 
 <lb/><term type="occupation">carriers</term> <choice><abbr>`</abbr><expan>of</expan></choice> my travelling companions were hired <term type="tribe">Basongo</term>
 <lb/>and required constant vigilance to prevent theft <choice><abbr>` '</abbr><expan>of the</expan></choice> goods
@@ -340,12 +340,12 @@ seemed to produce an instant
     <lb/><persName ref="people.xml#pers0528"><choice><abbr>Sn</abbr><expan>Senhor</expan></choice> Pascoal</persName>'s own <orgName>slaves</orgName> <space unit="chars" extent="2"/>It was pitiable to observe
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> worrying life he led <space unit="chars" extent="2"/>There was <choice><abbr>'</abbr><expan>the</expan></choice> greatest contrast
 <lb/>possible between <choice><abbr>'</abbr><expan>the</expan></choice> conduct <choice><abbr>`</abbr><expan>of</expan></choice> his people and that of
-<lb/>my faithful <term type="tribe">Makololo</term> <del type="cancelled" hand="#DL" n="DL"><add place="below" hand="#DL" n="DL"></add></del></p>
+<lb/>my faithful <term type="tribe">Makololo</term> <del type="cancelled" hand="#DL" n="DL"><add place="below" hand="#DL" n="DL">^</add></del></p>
 <lb/><p rend="no-indent"><choice><sic>On</sic><corr/></choice> <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/><metamark function="newParagraph"><choice><abbr>Par -</abbr><expan>Paragraph</expan></choice></metamark> We crossed
     <lb/>the <placeName><geogName type="river">Loange</geogName></placeName> a
     <lb/>deep but narrow 
     <lb/>stream by a 
-    <lb/>bridge It
+    <lb/>bridge <space extent="2" unit="chars"/>It
     <lb/>becomes much 
     <lb/>larger &amp; contains
     <lb/><term type="animal">hippopotami</term>
@@ -365,7 +365,7 @@ seemed to produce an instant
     <lb/>irrigation
     <lb/>but on the
     <lb/><date when="1855-03-25">25<hi rend="sup">th</hi> March</date> <metamark function="flag" spanTo="#meta-307"/>as above<anchor xml:id="meta-307"/></add> 
-<add place="above">reaching <choice><abbr>'</abbr><expan>the</expan></choice> river <placeName><geogName type="river">Chikapa</geogName></placeName></add> <choice><sic><choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-03-25">25<hi rend="sup">th</hi> March</date></sic><corr/></choice><!-- duplicated text, sh --> we found it <measure>50 <add place="below">˄</add> <add place="above">or 60</add> <choice><abbr>yds</abbr><expan>yards</expan></choice> wide</measure> and flowing
+<lb/><add place="above">reaching <choice><abbr>'</abbr><expan>the</expan></choice> river <placeName><geogName type="river">Chikapa</geogName></placeName></add> <choice><sic><choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-03-25">25<hi rend="sup">th</hi> March</date></sic><corr/></choice><!-- duplicated text, sh --> we found it <measure>50 <add place="below">˄</add> <add place="above">or 60</add> <choice><abbr>yds</abbr><expan>yards</expan></choice> wide</measure> and flowing
 <lb/>to <del type="strikethrough"><choice><abbr>'</abbr><expan>the</expan></choice> east north east</del> <choice><abbr>E N. E</abbr><expan>East North East</expan></choice> into <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Casai</geogName></placeName>. <space unit="chars" extent="3"/>The 
 <lb/>adjacent country is <choice><abbr>` '</abbr><expan>of the</expan></choice> same level nature
     <lb/>as that part <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><region ref="region.xml#region0038">Londa</region></placeName> formerly described
@@ -389,10 +389,10 @@ seemed to produce an instant
 
 
 <pb facs="liv_000101_0136.jpg" n="0136"/><!-- p448-449, sh -->    
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">131</add></fw> 
+<lb/><space extent="15" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">131</add></fw> 
 <lb/>that all <choice><abbr>'</abbr><expan>the</expan></choice> western feeders <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Casai</geogName></placeName> except <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName>
 <lb/>flow first from <choice><abbr>'</abbr><expan>the</expan></choice> western side towards <choice><abbr>'</abbr><expan>the</expan></choice> centre <choice><abbr>` '</abbr><expan>of the</expan></choice>
-<lb/>country then gradually turn <add place="below" hand="#DL" n="DL">˄</add> <subst><add place="above" hand="#DL" n="DL">with the <placeName><geogName type="river">Casai</geogName></placeName> itself</add> <del type="strikethrough" hand="#DL" n="DL">round</del></subst> to <choice><abbr>'</abbr><expan>the</expan></choice> north <del type="cancelled">and</del>
+<lb/>country then gradually turn <add place="below" hand="#DL" n="DL">˄</add> <subst><add place="above" hand="#DL" n="DL">with the <placeName><geogName type="river">Casai</geogName></placeName> itself</add> <del type="strikethrough" hand="#DL" n="DL">round</del></subst> to <choice><abbr>'</abbr><expan>the</expan></choice> north <del type="cancelled" hand="#DL" n="DL">and</del>
 <lb/>after <choice><abbr>'</abbr><expan>the</expan></choice> confluence <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Casai</geogName></placeName> with <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> an immense
 <lb/>body <choice><abbr>`</abbr><expan>of</expan></choice> water collected for all these branches
 <lb/>finds its way out <choice><abbr>` '</abbr><expan>of the</expan></choice> country by means <choice><abbr>` '</abbr><expan>of the</expan></choice> river <placeName><geogName type="river">Congo</geogName></placeName>
@@ -406,7 +406,7 @@ seemed to produce an instant
 <lb/><choice><abbr>`</abbr><expan>of</expan></choice> a <term type="animal"><term type="foodstuff">fowl</term></term> and some <term type="foodstuff">meal</term> and after <subst><del type="strikethrough" hand="#DL" n="DL">some</del><add place="above" hand="#DL" n="DL">a short</add></subst> time
 <lb/>returned <del type="cancelled">when</del> I gave him a handsome present of
 <lb/>beads but these he declined and demanded a 
-<lb/>cloth instead <add place="below">˄</add> <add place="above"><choice><abbr>wh</abbr><expan>which</expan></choice> was far more than <choice><abbr>'</abbr><expan>the</expan></choice> value of his gift</add> <add place="marginleft"><metamark function="insertion"/>they did <choice><abbr>'</abbr><expan>the</expan></choice> same with
+<lb/>cloth instead <add place="below">˄</add> <add place="above"><choice><abbr>wh</abbr><expan>which</expan></choice> was far more than <choice><abbr>'</abbr><expan>the</expan></choice> value of his gift</add> <add place="marginleft"><metamark function="insertion"/>They did <choice><abbr>'</abbr><expan>the</expan></choice> same with
     <lb/>my men until we
     <lb/>had to refuse presents 
     <lb/>altogether</add>
@@ -429,12 +429,12 @@ seemed to produce an instant
     <lb/>of <persName ref="people.xml#pers0393"><choice><orig>Mashuana</orig><reg>Mashauana</reg></choice></persName> <space unit="chars" extent="3"/>The last <seg type="weather">rain <choice><abbr>`</abbr><expan>of</expan></choice> this season
 <lb/>had fallen on <choice><abbr>'</abbr><expan>the</expan></choice> <date when="1855-04-28">28<hi rend="sup">th</hi> <del type="strikethrough">April</del></date> and that had suddenly
 <lb/>been followed by a great decrease <choice><abbr>` '</abbr><expan>of the</expan></choice> temperature</seg>
-<lb/><space unit="words" extent="1"/> The people in these parts seemed more slender in<!-- the follow on page is n="0138, ks --></p>
+<lb/>The people in these parts seemed more slender in<!-- the follow on page is n="0138, ks --></p>
 
 
 
 <pb facs="liv_000101_0137.jpg" n="0137"/><!-- p452, sh -->             
-<lb/><p><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">132</add></fw> 
+<lb/><p><space extent="8" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">132</add></fw> 
 <lb/><note><choice><abbr>Chap</abbr><expan>Chapter</expan></choice> XXIII</note> <space unit="chars" extent="2"/>Make a detour southward 
 <lb/>Peculiarities of the inhabitants <space unit="chars" extent="3"/>Scarcity of
 <lb/>animals <space unit="chars" extent="3"/>Forests <space unit="chars" extent="3"/>Geological structure of the 
@@ -455,7 +455,7 @@ seemed to produce an instant
 <lb/>a village <space unit="chars" extent="3"/>Winters in the <placeName><region>interior</region></placeName> <space unit="chars" extent="3"/>Spring
     <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> <space unit="chars" extent="3"/><term type="insect">White ants</term> - "Never could
 <lb/>desire to eat anything better" <space unit="chars" extent="3"/>Young herbage
-<lb/>and animals <space unit="chars" extent="3"/>Valley of the <placeName><geogName type="river"><choice><sic>Loembu<add place="below">^</add><subst><del type="strikethrough">e</del><add place="above">we</add></subst></sic><corr>Loembwe</corr></choice></geogName></placeName>
+<lb/>and animals <space unit="chars" extent="3"/>Valley of the <placeName><geogName type="river"><choice><sic>Loembu<add place="below">^</add><subst><add place="above">we</add><del type="strikethrough">e</del></subst></sic><corr>Loembwe</corr></choice></geogName></placeName>
 <lb/>The white man a hobgoblin <space unit="chars" extent="3"/>Specimen of
 <lb/>quarrelling <space unit="chars" extent="4"/>Eager desire for calico 
     <lb/>Want of clothing at <persName ref="people.xml#pers0350">Kawawa</persName>'s <space unit="chars" extent="3"/>Funeral
@@ -493,7 +493,7 @@ seemed to produce an instant
 <lb/>The same olive colour prevail<subst><del hand="#DL" n="DL">s,</del><add place="over-text" hand="#DL" n="DL">ed</add></subst><add place="inline" hand="#DL" n="DL">;</add> they file their
 <lb/>teeth to a point <del type="strikethrough">and</del> <choice><abbr>wh.</abbr><expan>which</expan></choice> makes <choice><abbr>'</abbr><expan>the</expan></choice> smile <choice><abbr>` '</abbr><expan>of the</expan></choice> women
 <lb/>frightful as <del type="strikethrough">one is reminded <subst><del>of</del><add place="over-text">by</add></subst> them of</del> it reminds
-<lb/>one of <choice><abbr>'</abbr><expan>the</expan></choice> grin of an <term type="animal">alligator</term> <add place="inline" hand="#DL" n="DL">- The inhabitants
+<lb/>one of <choice><abbr>'</abbr><expan>the</expan></choice> grin of an <term type="animal">alligator</term> - <space extent="1" unit="chars"/><add place="inline" hand="#DL" n="DL">The inhabitants
 <lb/>throughout this country exhibit as
 <lb/>great a variety of tastes as 
 <lb/>appears on the surface of
@@ -529,7 +529,7 @@ seemed to produce an instant
 <lb/>a <term type="animal">canary</term> in a cage - Ladies
 <lb/>may be seen carefully tending
 <lb/>little <term type="animal">lapdogs</term> where are intended
-<lb/>to be eaten - Their villages
+<lb/>to be eaten - <space extent="1" unit="chars"/>Their villages
 <lb/>are generally in forests &amp; <w>com-
 <lb break="no"/>-posed</w> of <del type="strikethrough">numbers of</del> groups
 <lb/>of irregularly planted brown
@@ -567,7 +567,7 @@ seemed to produce an instant
 would
 <lb/>afford food for any amount <choice><abbr>`</abbr><expan>of</expan></choice> <term type="animal">fowls</term> or <term type="animal">swine</term>
 <lb/>but <del type="cancelled">these</del> the latter are seldom met with</p>
-<lb/><p><metamark function="query" place="marginleft" rend="gray" resp="#U2" n="U2">?</metamark> Passing on through forests abounding
+<lb/><p><metamark function="query" place="marginleft" rend="gray" resp="#U2" n="U2">?</metamark> <space extent="7" unit="chars"/>Passing on through forests abounding
 <lb/>in climbing plants many <choice><abbr>`</abbr><expan>of</expan></choice> <choice><abbr>wh.</abbr><expan>which</expan></choice> are so extremely
 <lb/>tough that a man is required to go in front
 <lb/>with a hatchet <add place="inline" hand="#DL" n="DL">and</add> when the burdens of the
@@ -584,7 +584,7 @@ would
 
 
 <pb facs="liv_000101_0141.jpg" n="0141"/><!-- p457, sh -->             
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">136</add></fw>
+<lb/><space extent="17" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">136</add></fw>
 <lb/>afterwards found that though he had offered a large
 <lb/>sum to any one who would return with an
 <lb/>assurance of having delivered the last packet he
@@ -614,7 +614,7 @@ I picked
     <lb/>a little to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>E</abbr><expan>East</expan></choice> of <choice><abbr>'</abbr><expan>the</expan></choice> town <add place="below" hand="#DL" n="DL">˄</add> <add place="above" hand="#DL" n="DL">of <persName ref="people.xml#pers0381">Mai</persName></add> <del type="cancelled" hand="#DL" n="DL">and near which</del>
 <lb/><add place="marginleft" hand="#DL" n="DL">and near <del type="cancelled">to</del> it</add> <add place="below" hand="#DL" n="DL">^</add> there is a long waterfall <space unit="chars" extent="4"/>They describe <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/><placeName><geogName type="river">Casai</geogName></placeName> as there of very great size and that it
-<lb/><add place="marginleft" hand="#DL" n="DL">thence</add> <add place="below" hand="#DL" n="DL">^</add> <del type="cancelled">then turns ro</del> bends round to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>W.</abbr><expan>West</expan></choice> <space unit="chars" extent="3"/>On asking
+<lb/><add place="marginleft" hand="#DL" n="DL">thence <add place="below">^</add></add> <del type="cancelled">then turns ro</del> bends round to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>W.</abbr><expan>West</expan></choice> <space unit="chars" extent="3"/>On asking
 <lb/>an old man who was about to return to his <term type="occupation">chief</term>,
     <lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2" n="U2">?</metamark> <persName ref="people.xml#pers0381">Mai</persName>, to imagine himself standing at his home
 <lb/>and point to <choice><abbr>'</abbr><expan>the</expan></choice> confluence <choice><abbr>`</abbr><expan>of</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> and <placeName><geogName type="river">Casai</geogName></placeName> 
@@ -624,12 +624,12 @@ I picked
 
 
 <pb facs="liv_000101_0142.jpg" n="0142"/><!-- p457-458, sh -->  
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">137</add></fw> 
+<lb/><space extent="13" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">137</add></fw> 
 <lb/>received another river named <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Lubilash</geogName></placeName>. <space unit="chars" extent="2"/>There
 <lb/>is but one opinion among <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Balonda</term> <del type="strikethrough">as to</del> respecting
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Casai</geogName></placeName> and <placeName><geogName type="river">Quango</geogName></placeName> <space unit="chars" extent="3"/>They invariably describe the 
 <lb/><placeName><geogName type="river">Casai</geogName></placeName> as receiving <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> and beyond <choice><abbr>'</abbr><expan>the</expan></choice> confluence
-<lb/>assuming <choice><abbr>'</abbr><expan>the</expan></choice> name <choice><abbr>`</abbr><expan>of</expan></choice>  <placeName><geogName type="river"><subst><del>z</del><add place="over-text">Z</add></subst>airé</geogName></placeName> or <placeName><geogName type="river">Zerézeré</geogName></placeName>. <del type="strikethrough">At <choice><abbr>'</abbr><expan>the</expan></choice></del>
+<lb/>assuming <choice><abbr>'</abbr><expan>the</expan></choice> name <choice><abbr>`</abbr><expan>of</expan></choice>  <placeName><geogName type="river"><subst><del>z</del><add place="over-text">Z</add></subst>airé</geogName></placeName> or <placeName><geogName type="river">Zerézeré</geogName></placeName>. <space extent="2" unit="chars"/><del type="strikethrough">At <choice><abbr>'</abbr><expan>the</expan></choice></del>
 <lb/><add place="marginleft">and <choice><abbr>'</abbr><expan>the</expan></choice></add> <placeName><geogName type="river">Casai</geogName></placeName> <add place="below">˄</add> <add place="above">even</add> previous to <choice><abbr>'</abbr><expan>the</expan></choice> junction is much larger
 <lb/>than <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quango</geogName></placeName> from <choice><abbr>'</abbr><expan>the</expan></choice> numerous branches it
 <lb/>receives <space unit="chars" extent="6"/>Besides those we have already
@@ -645,7 +645,7 @@ I picked
 <lb/>and <measure>32 days or 224 <choice><abbr>ms.</abbr><expan>miles</expan></choice></measure> distant or about
     <lb/><measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> South 5° 45'</measure> <space unit="chars" extent="4"/>The chief town of <placeName><region ref="region.xml#region0037">Luba</region></placeName>
 <lb/>another independent <term type="occupation">chief</term> is <measure>8 days</measure> <del type="strikethrough" hand="#DL" n="DL">distant</del>
-<lb/><add place="marginleft" hand="#DL" n="DL">farther</add> <add place="below" hand="#DL" n="DL">^</add> in <choice><abbr>'</abbr><expan>the</expan></choice> same direction or <measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> <choice><abbr>S</abbr><expan>South</expan></choice> 4° 50'</measure> <space unit="chars" extent="3"/>Judging
+<lb/><add place="marginleft" hand="#DL" n="DL">farther <add place="below">^</add></add> in <choice><abbr>'</abbr><expan>the</expan></choice> same direction or <measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> <choice><abbr>S</abbr><expan>South</expan></choice> 4° 50'</measure> <space unit="chars" extent="3"/>Judging
 <lb/>from <choice><abbr>'</abbr><expan>the</expan></choice> appearance <choice><abbr>` '</abbr><expan>of the</expan></choice> people who had come for the
     <lb/>purposes <choice><abbr>`</abbr><expan>of</expan></choice> trade from <persName ref="people.xml#pers0381">Mai</persName> the people in it are
 <lb/>in quite as uncivilized a condition as <choice><abbr>'</abbr><expan>the</expan></choice> <term type="tribe">Balonda</term>
@@ -663,9 +663,9 @@ I picked
 
 <!-- p458-459, sh -->
 <pb facs="liv_000101_0143.jpg" n="0143"/>             
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">138</add></fw> 
+<lb/><space extent="11" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">138</add></fw> 
 <lb/>coming from that country are heavier and of
-<lb/><metamark function="newParagraph" place="marginleft" resp="#DL" n="DL"><choice><abbr>Par -</abbr><expan>Paragraph</expan></choice></metamark> greater length than any other. <metamark function="newParagraph">/</metamark> It is evident
+<lb/><add place="marginleft" hand="#DL" n="DL"><note><metamark function="newParagraph"><choice><abbr>Par -</abbr><expan>Paragraph</expan></choice></metamark></note></add> greater length than any other. <metamark function="newParagraph" resp="#DL" n="DL">/</metamark> It is evident
 <lb/><add place="marginleft">from</add> <del type="cancelled">that</del> all <choice><abbr>'</abbr><expan>the</expan></choice> information I could collect that
 <lb/><add place="marginleft" hand="#DL" n="DL">both here and
     <lb/>elsewhere</add> 
@@ -679,8 +679,8 @@ I picked
 <lb/><add place="marginleft">that</add> <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Casai</geogName></placeName> was <add place="below">˄</add> <add place="above">not</add> navigable from <choice><abbr>'</abbr><expan>the</expan></choice> Coast owing to the
     <lb/>large waterfall near <choice><abbr>'</abbr><expan>the</expan></choice> town <choice><abbr>`</abbr><expan>of</expan></choice> <persName ref="people.xml#pers0381">Mai</persName> and that
 <lb/>no great Kingdom existed in <choice><abbr>'</abbr><expan>the</expan></choice> region beyond
-<lb/><add place="marginleft" hand="#DL" n="DL"><del type="cancelled">toward</del> between</add> <add place="below" hand="#DL" n="DL">˄</add> this and <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>equator</region></placeName> I would fain have visited
-    <lb/><del type="strikethrough"><choice><abbr>'</abbr><expan>the</expan></choice> greatest</del> <persName ref="people.xml#pers0444">Matiamvo</persName>. <space unit="chars" extent="4"/>This seemed a very
+<lb/><add place="marginleft" hand="#DL" n="DL"><del type="cancelled">toward</del> between <add place="below">˄</add></add> this and <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region>equator</region></placeName> I would fain have visited
+<lb/><del type="strikethrough"><choice><abbr>'</abbr><expan>the</expan></choice> greatest</del> <persName ref="people.xml#pers0444">Matiamvo</persName>. <space unit="chars" extent="4"/>This seemed a very
 <lb/>desirable step <add place="marginleft" hand="#DL" n="DL"><metamark function="insertion"/>as it is good
     <lb/>policy as well
     <lb/>as right
@@ -693,7 +693,7 @@ I picked
 <lb/>and flows away to <choice><abbr>'</abbr><expan>the</expan></choice> South <space unit="chars" extent="3"/>The people <choice><abbr>`</abbr><expan>of</expan></choice> that
 <lb/>part named <del type="strikethrough">Kanel</del> <term type="tribe">Kanyika</term> and <term type="tribe">Kanyoka</term>
 <lb/>living on its banks are represented to be both numerous
-    <lb/>and friendly but <persName ref="people.xml#pers0444">Matiamvo</persName> will on no account
+<lb/>and friendly but <persName ref="people.xml#pers0444">Matiamvo</persName> will on no account
 <lb/>permit any white person to visit them as his
 <lb/><choice><sic>principle</sic><corr>principal</corr></choice> supplies <choice><abbr>`</abbr><expan>of</expan></choice> ivory are drawn from them
 <lb/>Thinking that we might descend this branch <choice><abbr>` '</abbr><expan>of the</expan></choice>
@@ -709,8 +709,8 @@ I picked
 
 
 <pb facs="liv_000101_0144.jpg" n="0144"/><!-- p459, sh -->  
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">139</add></fw> 
-    <lb/>of <persName ref="people.xml#pers0444">Matiamvo</persName> there was no chance <choice><abbr>`</abbr><expan>of</expan></choice> my being
+<lb/><space extent="16" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">139</add></fw> 
+<lb/>of <persName ref="people.xml#pers0444">Matiamvo</persName> there was no chance <choice><abbr>`</abbr><expan>of</expan></choice> my being
 <lb/>allowed to proceed through his country to <choice><abbr>'</abbr><expan>the</expan></choice> southward
 <lb/>&amp; If I had gone merely to visit him all the
 <lb/>goods would have been expended by <choice><abbr>'</abbr><expan>the</expan></choice> time I returned to
@@ -785,8 +785,8 @@ I picked
 <lb/>talk funeral ceremonies &amp; marriages <space unit="chars" extent="3"/>This
 <lb/>flow <choice><abbr>`</abbr><expan>of</expan></choice> animal spirits <del type="striekthrough"><choice><abbr>wh</abbr><expan>which</expan></choice></del> must be one reason
 <lb/>why they are such an indestructible race - </p>
-<lb/><p>-- The habitual influence on their minds of
-<lb/><add place="marginleft" hand="#DL" n="DL"><choice><sic>of</sic><corr/></choice> the providence</add> <add place="below" hand="#DL" n="DL">^</add> <choice><sic><choice><abbr>'</abbr><expan>the</expan></choice></sic><corr><choice><abbr>`</abbr><expan>of</expan></choice></corr></choice> unseen spirits may have a tendency in <choice><abbr>'</abbr><expan>the</expan></choice>
+<lb/><p rend="no-indent">-- The habitual influence on their minds of
+<lb/><add place="marginleft" hand="#DL" n="DL"><choice><sic>of</sic><corr/></choice> the providence <add place="below">^</add></add> <choice><sic><choice><abbr>'</abbr><expan>the</expan></choice></sic><corr><choice><abbr>`</abbr><expan>of</expan></choice></corr></choice> unseen spirits may have a tendency in <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/>same direction by preserving <choice><abbr>'</abbr><expan>the</expan></choice> mental
 <lb/>quietude of a kind of fatalism</p>
 <lb/><p rend="no-indent">We were forced to prepay our <term type="occupation">guide</term> and his
@@ -800,7 +800,7 @@ I picked
 
 
 <pb facs="liv_000101_0146.jpg" n="0146"/><!-- p460-461, sh -->             
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">141</add></fw>   
+<lb/><space extent="12" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">141</add></fw>   
 <lb/>My men would have stripped him of <choice><abbr>'</abbr><expan>the</expan></choice> wages but
 <lb/>thought that as we had always gone on <choice><abbr>'</abbr><expan>the</expan></choice> least 
 <lb/>offensive principles they let him move off.</p>
@@ -840,7 +840,7 @@ I picked
 
 
 <pb facs="liv_000101_0147.jpg" n="0147"/>    <!-- p461, sh -->    
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">142</add></fw>  
+<lb/><space extent="12" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">142</add></fw>  
 <lb/><choice><abbr>wh</abbr><expan>which</expan></choice> in damp localities had attained a height of
 <lb/>forty feet <space unit="chars" extent="4"/>On crossing <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Chihombo</geogName></placeName> <choice><abbr>wh</abbr><expan>which</expan></choice>
     <lb/>we did about <measure>12 <choice><abbr>ms</abbr><expan>miles</expan></choice></measure> above <placeName><settlement type="village" ref="settlement.xml#sett0030">Cabango</settlement></placeName> we found
@@ -878,7 +878,7 @@ I picked
 
 
 <pb facs="liv_000101_0148.jpg" n="0148"/><!-- p461-462, sh -->             
-<lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">143</add></fw>
+<lb/><space extent="8" unit="chars"/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">143</add></fw>
 <lb/>meet with people possessing some civility
 <lb/>after <add place="below" hand="#DL" n="DL">^</add> <add place="marginleft" hand="#DL" n="DL">the hauteur</add> <del type="strikethrough">what</del> we had experienced on <choice><abbr>'</abbr><expan>the</expan></choice> <orgName>slave</orgName> path.
 <lb/>She sent her son to <choice><abbr>'</abbr><expan>the</expan></choice> next village without
@@ -899,7 +899,7 @@ I picked
     <lb/>We offered a leg of the <term type="animal"><term type="foodstuff">cow</term></term> to <persName  ref="people.xml#pers0258">Bango</persName> but
 <lb/>he informed us that neither he nor his people
 <lb/>ever partook <choice><abbr>`</abbr><expan>of</expan></choice> <term type="foodstuff">beef</term> as they looked upon <del type="cancelled" hand="#DL" n="DL">it</del>
-<lb/><subst><add place="marginleft" hand="#DL" n="DL"><term type="animal">cattle</term> as</add> <del type="strikethrough" hand="#DL" n="DL">in light <choice><abbr>`</abbr><expan>of</expan></choice></del></subst> being human and living at home
+<lb/><add place="marginleft" hand="#DL" n="DL"><term type="animal">cattle</term></add> as <del type="strikethrough" hand="#DL" n="DL">in light <choice><abbr>`</abbr><expan>of</expan></choice></del> being human and living at home
 <lb/><subst><del hand="#DL" n="DL">as</del><add place="over-text" hand="#DL" n="DL">like</add></subst> men <space extent="2" unit="chars"/><choice><sic>none</sic><corr>None</corr></choice> <choice><abbr>`</abbr><expan>of</expan></choice> his people purchased any <choice><abbr>`</abbr><expan>of</expan></choice>
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> <term type="foodstuff">meat</term> as was always eagerly done everywhere
 <lb/>else <space unit="chars" extent="2"/>There are several other tribes who
@@ -909,7 +909,7 @@ I picked
 <lb/>they have been refused as food</p>
 <lb/><p rend="no-indent">The fact <choice><abbr>`</abbr><expan>of</expan></choice> killing <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">pallahs</term> for food shows
 <lb/>that <choice><abbr>'</abbr><expan>the</expan></choice> objection does not extend to meat in
-<lb/><metamark function="newParagraph" place="marginleft" resp="#DL" n="DL"><choice><abbr>Par.</abbr><expan>Paragraph</expan></choice></metamark> general <space unit="chars" extent="3"/><metamark function="newParagraph" resp="#DL" n="DL">/</metamark> <del type="cancelled" hand="#DL" n="DL"><metamark function="newParagraph" resp="#DL" n="DL">/</metamark></del> The little streams in this
+<lb/><add place="marginleft" hand="#DL" n="DL"><note><metamark function="newParagraph"><choice><abbr>Par.</abbr><expan>Paragraph</expan></choice></metamark></note></add> general <space unit="chars" extent="3"/><metamark function="newParagraph" resp="#DL" n="DL">/</metamark> <del type="cancelled" hand="#DL" n="DL"><metamark function="newParagraph" resp="#DL" n="DL">/</metamark></del> The little streams in this
 <lb/>part <choice><abbr>`</abbr><expan>of</expan></choice> <supplied cert="high">the</supplied> country did not flow in deep dells
 <lb/>nor were we troubled with <choice><abbr>'</abbr><expan>the</expan></choice> gigantic grasses
 <lb/><choice><abbr>wh</abbr><expan>which</expan></choice> annoyed our eyes on <choice><abbr>'</abbr><expan>the</expan></choice> slopes <choice><abbr>` '</abbr><expan>of the</expan></choice> streams
@@ -917,7 +917,7 @@ I picked
 
 <pb facs="liv_000101_0149.jpg" n="0149"/><!-- p462-463, sh -->             
 <lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">144</add></fw>
-    <lb/>before we came to <placeName><settlement type="village" ref="settlement.xml#sett0030">Cabango</settlement></placeName> <space unit="chars" extent="3"/>The country
+<lb/>before we came to <placeName><settlement type="village" ref="settlement.xml#sett0030">Cabango</settlement></placeName> <space unit="chars" extent="3"/>The country
 <lb/>was quite flat <del type="strikethrough">and</del> The people cultivated <term type="plant_foodstuff">manioc</term>
 <lb/>very extensively <space unit="chars" extent="3"/>There is no large collection of <choice><abbr>'</abbr><expan>the</expan></choice> 
 <lb/>inhabitants on any one spot <space unit="chars" extent="2"/>The ambition
@@ -950,12 +950,12 @@ I picked
 <lb/>winter <add place="below">^</add> <add place="above"><choice><abbr>'</abbr><expan>the</expan></choice> cold</add> varying in intensity <del type="strikethrough">of cold</del> with <choice><abbr>'</abbr><expan>the</expan></choice> latitudes
     <lb/><seg type="weather">In <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region><placeName><region>interior</region></placeName> parts of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region ref="region.xml#region0024">Cape Colony</region></placeName></region></placeName> <choice><abbr>'</abbr><expan>the</expan></choice> cold in <choice><abbr>'</abbr><expan>the</expan></choice> 
 <lb/>winter is often <del type="strikethrough"><unclear cert="medium">intense</unclear></del> severe and <choice><abbr>'</abbr><expan>the</expan></choice> ground is
-        <lb/>covered with snow</seg> <space unit="chars" extent="3"/><seg type="weather">At <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> snow
+<lb/>covered with snow</seg> <space unit="chars" extent="3"/><seg type="weather">At <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> snow</seg>
 
 
 <pb facs="liv_000101_0150.jpg" n="0150"/><!-- p463, sh -->             
 <lb/><fw><add place="inspace" rend="gray right" hand="#U1" n="U1">145</add></fw>
-<lb/>seldom <del type="strikethrough">comes</del> falls but <choice><abbr>'</abbr><expan>the</expan></choice> frost is keen</seg> <space unit="chars" extent="2"/><del type="strikethrough">Frost</del>
+<lb/><seg type="weather">seldom <del type="strikethrough">comes</del> falls but <choice><abbr>'</abbr><expan>the</expan></choice> frost is keen</seg> <space unit="chars" extent="2"/><del type="strikethrough">Frost</del>
 <lb/><seg type="weather">There is frost even as far as <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Chobe</geogName></placeName> and a partial
 <lb/>winter in <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">Barotse valley</geogName></placeName> but beyond <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Orange
 <lb/>river</geogName></placeName> we never have cold and damp<del type="cancelled"><gap extent="1" unit="chars"/></del> combined</seg>
@@ -967,7 +967,7 @@ I picked
 <lb/>low as <measure><del type="strikethrough" hand="#DL" n="DL">32°</del><add place="marginleft" hand="#DL" n="DL">42°</add></measure> and conveys <choice><abbr>'</abbr><expan>the</expan></choice> impression <choice><abbr>`</abbr><expan>of</expan></choice> bitter cold</seg></p>
 <lb/><p><seg type="weather">Nothing can exceed <choice><abbr>'</abbr><expan>the</expan></choice> beauty <choice><abbr>` '</abbr><expan>of the</expan></choice> change from 
 <lb/>the wintery appearance to that <choice><abbr>`</abbr><expan>of</expan></choice> spring <add place="inline" hand="#DL" n="DL"><subst><del><unclear cert="medium">in</unclear></del><add place="over-text" hand="#DL" n="DL">a</add></subst>t</add>
-    <lb/><add place="marginleft" hand="#DL" n="DL"><placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName></add> <add place="below" hand="#DL" n="DL">^</add> Previous to <choice><abbr>'</abbr><expan>the</expan></choice> commencement <choice><abbr>` '</abbr><expan>of the</expan></choice> rains an
+<lb/><add place="marginleft" hand="#DL" n="DL"><placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName> <add place="below">^</add></add> Previous to <choice><abbr>'</abbr><expan>the</expan></choice> commencement <choice><abbr>` '</abbr><expan>of the</expan></choice> rains an
 <lb/>easterly wind blows <add place="below">˄</add> <subst><add place="above">strongly by day</add> <del type="strikethrough">daily</del></subst> but dies away at
 <lb/>night <space unit="chars" extent="3"/>The clouds collect in increasing
 <lb/>masses and <choice><sic>releive</sic><corr>relieve</corr></choice> in some measure the
@@ -984,14 +984,11 @@ I picked
 <lb/><add place="marginleft">sprouting</add> forth and <choice><abbr>'</abbr><expan>the</expan></choice> young grass shooting up give
 <lb/>an appearance <add place="below">˄</add> <add place="above">of spring</add> <choice><abbr>wh.</abbr><expan>which</expan></choice> it requires weeks of <del type="cancelled"><choice><abbr>'</abbr><expan>the</expan></choice></del>
 <lb/>colder climate to produce</seg></p>
-            
-            </div>
 
 
-<div hand="#DL" n="DL">
 <pb facs="liv_000101_0151.jpg" n="0151"/><!-- p478, sh -->             
-<lb/><p rend="no-indent"><fw><add place="inspace" rend="gray left" hand="#U2" n="U2">477</add> <add place="inspace" rend="gray right" hand="#U1" n="U1">146</add></fw>
-<lb/><!-- DL text to the left of page, sh --> <add place="marginleft">;</add> <subst><del><unclear cert="medium">reca</unclear></del><add place="over-text">obs</add></subst>erving also that there is no known
+<lb/><p rend="no-indent"><fw><add place="inspace" rend="gray left" hand="#U2" n="U2">477</add> <space extent="12" unit="chars"/><add place="inspace" rend="gray right" hand="#U1" n="U1">146</add></fw>
+<lb/><add place="inline" hand="#DL" n="DL"><add place="marginleft">;</add> <subst><del><unclear cert="medium">reca</unclear></del><add place="over-text">obs</add></subst>erving also that there is no known
 <lb/>abrupt lateral mountain range between 
 <lb/><measure>6° &amp; <choice><sic>12</sic><corr>12°</corr></choice>. <choice><abbr>S -</abbr><expan>South</expan></choice></measure> but that there is an elevated
 <lb/>partition there, and that the <seg type="weather">Southing and
@@ -1001,7 +998,7 @@ I picked
 <lb/><choice><sic>percieve</sic><corr>perceive</corr></choice> an accumulation of humidity
 <lb/>on the flanks &amp; crown of the partition,
 <lb/>instead of, as elsewhere, opposite the
-    <lb/><placeName><geogName type="desert">Kalahari</geogName></placeName> and <placeName><region ref="region.xml#region0029">Darfur</region></placeName> a deposition of 
+<lb/><placeName><geogName type="desert">Kalahari</geogName></placeName> and <placeName><region ref="region.xml#region0029">Darfur</region></placeName> a deposition of 
 <lb/>the atmospheric moisture on the Eastern 
 <lb/>slopes of the <subst><del>late</del><add place="over-text">s</add></subst>ubtending ridges -
 <lb/>This explanation is offered with all deference
@@ -1015,18 +1012,18 @@ I picked
 <lb/><w>ac<subst><del>or</del><add place="over-text">ro</add></subst>ss</w> the upper strata of the atmosphere in
 <lb/>the early morning, a <seg type="weather">copious discharge</seg>
 <lb/>came suddenly down from the accumulated 
-<lb/>clouds - It always reminded me of the
+<lb/>clouds - <space extent="1" unit="chars"/>It always reminded me of the
 <lb/>putting a rod into a saturated solution of
 <lb/>a certain salt causing instant <choice><orig>chrystallization</orig><reg>crystallization</reg></choice> -
 <lb/>This too was the period when I often observed
 <lb/>the greatest amount of cold
-<lb/><!-- DL text to the left of page, sh --><note place="marginbottom">* <space extent="2" unit="chars"/>Foot note, Since the <subst><del><unclear cert="low">another</unclear></del><add place="over-text">expl</add></subst>anation
+<lb/><note place="marginbottom"><metamark function="ed-mark">*</metamark> <space extent="2" unit="chars"/>Foot note, Since the <subst><del><unclear cert="low">another</unclear></del><add place="over-text">expl</add></subst>anation
 <lb/>in page 95 was printed I have been pleased to see
 <lb/>the same explanation given by the popular <term type="occupation">astronomer</term>
     <lb/>and <term type="occupation">natural philosopher</term> <persName ref="people.xml#pers0255"><choice><abbr>M</abbr><expan>Monsieur</expan></choice> Babinet</persName> in reference
 <lb/><del type="strikethrough">in reference</del> to the climate of <placeName><country>France</country></placeName> - It is quoted from 
 <lb/><add place="above">a letter</add> of a correspondent of the <hi rend="underline"><bibl>Times</bibl></hi> in <placeName><settlement type="city">Paris</settlement></placeName> - 
-<lb/><space extent="26" unit="chars"/><note>Insert the passage marked</note></note></p>
+<lb/><space extent="26" unit="chars"/><note>Insert the passage marked</note></note></add></p>
 
 </div>
 </body>

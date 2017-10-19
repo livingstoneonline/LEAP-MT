@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt3.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000101">
     <teiHeader>
         <fileDesc>
@@ -114,9 +114,9 @@
             <div>
 
     <pb facs="liv_000101_0023.jpg" n="0023"/>
-<lb/><p><fw n="heading_XXXVII">XXXVII- </fw>
-<lb/>The <placeName><geogName type="river">Quango</geogName></placeName> is said <add place="below">^</add> <add place="above">by the <orgName>natives</orgName></add> to <w>con-
-<lb break="no"/>-tain</w> many venomous <add place="marginright" hand="#U1" rend="gray"><note>22</note></add>
+<lb/><note place="marginleft">XXXVII- </note>
+<lb/><p rend="no-indent">The <placeName><geogName type="river">Quango</geogName></placeName> is said <add place="below">^</add> <add place="above">by the <orgName>natives</orgName></add> to <w>con-
+<lb break="no"/>-tain</w> many venomous <space extent="2" unit="chars"/><add place="marginright" hand="#U1" rend="gray"><note>22</note></add>
 <lb/><term type="animal">water snakes</term> which
 <lb/>congregate near the
 <lb/>carcase of any <term type="animal">hippopotamus</term>
@@ -125,7 +125,7 @@
 <lb/>will account for all
 <lb/>the villages we saw
 <lb/>being situated far from
-<lb/>its banks - We were
+<lb/>its banks - <space extent="2" unit="chars"/>We were
 <lb/>advised <del type="cancelled">to</del> not to sleep
 <lb/>near it but as we were
 <lb/>anxious to cross to
@@ -142,11 +142,11 @@
 <lb/>made the <add place="below">^</add><add place="above">usual</add> demand for a 
 <lb/>man, <add place="below" hand="#U2" rend="gray">^</add> <add place="above" hand="#U2" rend="gray">an</add> <term type="animal">ox</term>, or <add place="inline" hand="#U2" rend="gray">a</add> gun adding
 <lb/>that <del type="cancelled" hand="#DL"><del type="cancelled" rend="gray" hand="#U2">without</del></del> <add place="marginleft" rend="gray" hand="#U2"><metamark function="insertion"/><retrace hand="#DL">otherwise</retrace> 
-    <lb/><space extent="6" unit="chars"/><del type="cancelled" rend="gray" hand="#U2">one of</del></add> 
+<lb/><del type="cancelled" rend="gray" hand="#U2">one of</del></add> 
 <add place="below" rend="gray" hand="#U2">^</add> <del type="cancelled" hand="#DL"><del type="cancelled" rend="gray" hand="#U2">these</del></del> we
 <lb/>must return to the country
 <lb/>from which we had
-<lb/>come - As I did not believe
+<lb/>come - <space extent="1" unit="chars"/>As I did not believe
 <lb/>this man had any power
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>23</note></add> over the canoes of the
 <lb/>other side and suspected
@@ -169,7 +169,7 @@ and <del type="strikethrough">have</del> obtain
 <lb/>that <del type="strikethrough">he mig</del> this <term type="occupation">chief</term>
 <lb/>might attack us in
 <lb/>the act of crossing
-<lb/><retrace hand="#DL"><add place="marginleft" rend="gray" hand="#U2">should we do so</add></retrace> <del type="strikethrough">if we did so</del> - The <term type="occupation">chief</term>
+<lb/><retrace hand="#DL"><add place="marginleft" rend="gray" hand="#U2">should we do so</add></retrace> <del type="strikethrough">if we did so</del> - <space extent="2" unit="chars"/>The <term type="occupation">chief</term>
 <lb/>came himself to our
 <lb/>encampment and made
 <lb/>his demand again - My
@@ -179,18 +179,18 @@ and <del type="strikethrough">have</del> obtain
 <lb/>he was still intent on a
 <lb/>man - He thought as
 <lb/>others did that my
-<lb/>men were <orgName>slaves</orgName> - He
+<lb/>men were <orgName>slaves</orgName> - <space extent="1" unit="chars"/>He
 <lb/>was a young man with
 <lb/>his wooly hair elaborately
-<lb/>dressed - That behind was
+<lb/>dressed - <space extent="2" unit="chars"/>That behind was
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>24</note></add> made up into a cone about
 <lb/>eight inches in diameter
 <lb/>at the base - carefully <del type="strikethrough">wound</del>
 <lb/><add place="marginleft">swathed</add> round with red and black
-<lb/>thread - As I resisted the
+<lb/>thread - <space extent="1" unit="chars"/>As I resisted the
 <lb/>proposal to deliver up my
 <lb/>blanket <choice><sic>untill</sic><corr>until</corr></choice> <del type="strikethrough">I had</del> they had
-<lb/>placed us on the <del type="cancelled">W</del><add place="below">^</add><add place="marginleft">w<metamark function="subst">/.</metamark></add>estern
+<lb/>placed us on the <del type="cancelled">W</del><add place="below">^</add><add place="marginleft">w<metamark function="substitution">/.</metamark></add>estern
 <lb/>bank this <term type="occupation">chief</term> continued
 
 
@@ -206,7 +206,7 @@ and <del type="strikethrough">have</del> obtain
 <lb/>our persecutors - We
 <lb/>were on a reedy flat
 <lb/>and <del type="cancelled">I</del> could not follow
-<lb/><add place="marginleft">our<metamark function="subst">/.</metamark></add> <metamark function="let-stand" spanTo="#meta-215"/><del type="cancelled">our</del><anchor xml:id="meta-215"/> <del type="cancelled">my</del> usual plan of a 
+<lb/><add place="marginleft">our<metamark function="substitution">/.</metamark></add> <metamark function="let-stand" spanTo="#meta-215"/><del type="cancelled">our</del><anchor xml:id="meta-215"/> <del type="cancelled">my</del> usual plan of a 
 <lb/>small stockade <add place="marginleft" hand="#U2" rend="gray"><metamark function="insertion"/><retrace hand="#DL">in which</retrace></add> <del type="cancelled">where</del>
 <lb/>we had time to think
 <lb/>&amp; concoct our plans
@@ -230,13 +230,14 @@ and <del type="strikethrough">have</del> obtain
 <lb/>opened a fire <del type="cancelled">against</del>
 <lb/><add place="marginleft">from</add> <add type="below">^</add> our sheds and continued
 <lb/>to blaze away some time
-<lb/>in <add place="inline">the</add> <del type="cancelled">our</del> direction <add place="inline">we were <add place="below">going</add></add>
+<lb/>in <add place="inline">the</add> <del type="cancelled">our</del> direction <add place="inline">we were 
+<lb/><space extent="18" unit="chars"/>going</add>
 
 
     <pb facs="liv_000101_0026.jpg" n="0026"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">25</add></fw>
 <lb/>but none of the bullets reached
-<lb/>us - It is probable that they
+<lb/>us - <space extent="2" unit="chars"/>It is probable that they
 <lb/>expected the demonstration
 <lb/>of the abundance of ammunition
 <lb/>they possessed would
@@ -272,7 +273,7 @@ and happily
 <lb/>and many cleanly looking
 <lb/><del type="strikethrough">haf</del> cross <w>bre<subst><del>a</del><add place="over-text">e</add></subst>d</w>  <term type="people">Portuguese</term>
 <lb/>standing in front <add place="inline">of</add> <subst><del>to</del><add place="over-text">th</add></subst>em
-<lb/><add place="marginleft">to</add> salute us - They are all
+<lb/><add place="marginleft">to</add> salute us - <space extent="2" unit="chars"/>They are all
 
 
     <pb facs="liv_000101_0027.jpg" n="0027"/>
@@ -295,14 +296,13 @@ and happily
 <lb/>to their former abodes
 <lb/>The <orgName>militia</orgName> are settled
 <lb/>over them and engage
-<lb/>in trade and <del type="cancelled">cultivation</del> <add place="below">^</add> <add place="marginleft">agriculture/</add>
+<lb/>in trade and <del type="cancelled">cultivation</del> <add place="below">^</add> <add place="marginleft">agriculture<metamark function="substitution">/</metamark></add>
 <lb/>for their support as no
 <lb/>pay is given to this
 <lb/>branch of the service
 <lb/>by the <orgName>Government</orgName></p>
-<lb/>
 <lb/><p>We came to the dwelling
-    <lb/>of <persName ref="people.xml#pers0244">Cypriano</persName> after <del type="cancelled">it was</del>
+<lb/>of <persName ref="people.xml#pers0244">Cypriano</persName> after <del type="cancelled">it was</del>
 <lb/>dark and I pitched my
 <lb/>little tent in front of it
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>27</note></add> for the night - We had
@@ -311,7 +311,7 @@ and happily
 <lb/>We never found them
 <lb/>troublesome on the
 <lb/>banks of the pure streams
-    <lb/>of <placeName><region ref="region.xml#region0038"><choice><orig>Lŏnda</orig><reg>Londa</reg></choice></region></placeName> - On the morning
+<lb/>of <placeName><region ref="region.xml#region0038"><choice><orig>Lŏnda</orig><reg>Londa</reg></choice></region></placeName> - <space extent="1" unit="chars"/>On the morning
 
 
     <pb facs="liv_000101_0028.jpg" n="0028"/><!-- a page is missing here. Although the numbers in the top right hand corner continue sequentially, it is clear there is missing text, and the page numbers in the left hand margin jump from 27 to 29. -->
@@ -321,12 +321,12 @@ and happily
 <lb/>the definition of a "<term type="occupation">Priest</term>"
 <lb/><add place="marginleft">seemed</add> <add place="below">^</add> <del type="strikethrough">sounded</del> <del type="cancelled"><add place="below">^</add> <add place="above">rather</add></del> strange to a <orgName>Protestant</orgName>
 <lb/><choice><abbr>viz</abbr><expan>videlicet</expan></choice> - "one who takes care of the
-<lb/>conscience"- They had also
+<lb/>conscience" - <space extent="1" unit="chars"/>They had also
 <lb/>a few <bibl>tracts containing the
-    <lb/>lives of the saints</bibl> and <persName ref="people.xml#pers0244">Cypriano</persName>
+<lb/>lives of the saints</bibl> and <persName ref="people.xml#pers0244">Cypriano</persName>
 <lb/>had a few small images
 <lb/>of saints in wax in his room
-    <lb/>One of these was <persName ref="people.xml#pers0502"><choice><orig>St Ant<add place="below">^</add><add place="above">h</add>ony</orig><reg>St Anthony</reg></choice></persName>
+<lb/>One of these was <persName ref="people.xml#pers0502"><choice><orig>St Ant<add place="below">^</add><add place="above">h</add>ony</orig><reg>St Anthony</reg></choice></persName>
 <lb/><del type="cancelled">and a</del> who had he endured
 <lb/>the privations he did in
 <lb/>his cell in looking after
@@ -344,7 +344,7 @@ and happily
     <lb/>by water in the
     <lb/>same way the 
     <lb/>heathen have medicines<anchor xml:id="meta-217"/></add> 
-- It is
+- <space extent="1" unit="chars"/>It is
 <lb/>a pity that the Church to
 <lb/>which they belong when
 <lb/>unable to attend to the
@@ -372,7 +372,7 @@ than
 <lb/>to the flattering letters of
 <lb/>recommendation I carried
     <lb/>from the <persName ref="people.xml#pers0297">Chevalier Du Prat</persName>
-    <lb/>of <placeName><geogName type="city" ref="settlement.xml#sett0038"><choice><orig>Cape <del type="cancelled">t</del><add place="below">^</add><add place="marginleft">T<metamark function="subst">/</metamark></add>own</orig><reg>Cape Town</reg></choice></geogName></placeName> but I am
+    <lb/>of <placeName><geogName type="city" ref="settlement.xml#sett0038"><choice><orig>Cape <del type="cancelled">t</del><add place="below">^</add><add place="marginleft">T<metamark function="substitution">/</metamark></add>own</orig><reg>Cape Town</reg></choice></geogName></placeName> but I am
 <lb/>inclined to believe that <add place="inline">my</add>
     <lb/><add place="marginleft">friend</add> <persName ref="people.xml#pers0244">Cypriano</persName> was influenced
 <lb/>too by feelings of genuine
@@ -404,7 +404,7 @@ furnished
     <lb/>appearance must
     <lb/>have excited
     <lb/>his compassion<anchor xml:id="meta-218"/></add> 
-The <term type="foodstuff">farina</term>
+<space extent="2" unit="chars"/>The <term type="foodstuff">farina</term>
 <lb/>is prepared by washing the
 <lb/>roots well then rasping
 <lb/>them down to a pulp -
@@ -425,10 +425,10 @@ The <term type="foodstuff">farina</term>
 <lb/>have become accustomed
 <lb/>to it relish it even after
 <lb/>they have returned to <placeName><bloc>Europe</bloc></placeName></p>
-                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0290"><unclear cert="medium"><choice><abbr>Den.tt.</abbr><expan>Dennett</expan></choice></unclear></persName></hi></note></add> The <term type="plant_foodstuff">manioc</term> cultivated here 
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0290"><unclear cert="medium"><choice><abbr>Den.tt.</abbr><expan>Dennett</expan></choice></unclear></persName> <metamark function="placeMark"/></note></add> The <term type="plant_foodstuff">manioc</term> cultivated here 
 <lb/>is of the sweet variety 
 <lb/>The bitter with which <w>we<del type="cancelled">re</del></w>
-                    <lb/><add place="marginleft">were</add> <del type="cancelled">are</del> accustomed in <placeName><region ref="region.xml#region0038">Londa</region></placeName><add place="inline" rend="gray" hand="#U2">,</add>
+<lb/><add place="marginleft">were</add> <del type="cancelled">are</del> accustomed in <placeName><region ref="region.xml#region0038">Londa</region></placeName><add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>is not to be found very 
 <lb/>extensively in this fertile 
 <lb/>valley - <add place="marginleft"><metamark function="insertion"/><date when="--05">May</date> is</add> <del type="cancelled">This was</del> the beginning 
@@ -479,7 +479,7 @@ The <term type="foodstuff">farina</term>
 <lb/>by fire in a valley 
 <lb/>where the grass was 
 <lb/>only about three feet
-<lb/>high - We were roused
+<lb/>high - <space extent="1" unit="chars"/>We were roused
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>32</note></add> by the roar <add place="below">^</add> <add place="above">as</add> of <w>a<del type="cancelled">s</del></w> torrent
 <lb/>made by the fire
 <lb/>coming from the windward<add place="below" rend="gray" hand="#U2">,</add>
@@ -504,7 +504,7 @@ The <term type="foodstuff">farina</term>
     <lb/>Silva Rego</persName></note></add>
 him to the house of the
 <lb/><term type="occupation">Commandant</term> or <foreign xml:lang="pt"><term type="occupation">Chefe</term></foreign>
-    <lb/><persName ref="people.xml#pers0534"><add place="marginleft">Senhor de</add> Silva Rego</persName> - Having <choice><orig>shewn</orig><reg>shown</reg></choice>
+<lb/><persName ref="people.xml#pers0534"><add place="marginleft">Senhor de</add> Silva Rego</persName> - <space extent="1" unit="chars"/>Having <choice><orig>shewn</orig><reg>shown</reg></choice>
 <lb/>my passport to this gentlemen
 <lb/>he politely asked me to
 <lb/>supper<add place="inline" rend="gray" hand="#U2">,</add> <del type="cancelled">with him</del> and as
@@ -533,7 +533,7 @@ him to the house of the
 <lb/>Antonio Rodrigues Neves</persName>
 <lb/>then <add place= "below">˄</add> <add place="above">kindly</add> invited me to take
 <lb/>up my abode in his
-<lb/>house - Next morning
+<lb/>house - <space extent="1" unit="chars"/>Next morning
 <lb/>this generous man arrayed
 
 
@@ -551,19 +551,19 @@ him to the house of the
 <lb/>food for my famishing
 <lb/>party - free of charge - </p>
 <lb/>
-                <lb/><p>The village <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassangé</settlement></placeName>
+<lb/><p>The village <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassangé</settlement></placeName>
 <lb/>is composed of <del type="cancelled">a number</del>
 <lb/>thirty or forty <choice><sic><term type="occupation">traders</term></sic><corr><term type="occupation">traders</term>'</corr></choice>
 <lb/>houses<add place="inline" rend="gray" hand="#U2">,</add> <del type="cancelled">which are large</del>
 <lb/><del type="cancelled">and</del> <del type="cancelled" hand="#DL"><del type="cancelled" rend="gray" hand="#U2">and</del></del> scattered about <add place="marginleft"><metamark function="insertion"/>without any regularity</add>
 <lb/>on an elevated <del type="cancelled">spot</del> flat
 <lb/>spot in the great <placeName><geogName type="river">Quango</geogName></placeName>
-                    <lb/>or <placeName><region ref="region.xml#region0025"><placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> valley</region></placeName> <del type="cancelled">without</del>
-<lb/><del type="strikethrough">any regularity</del> - They
+<lb/>or <placeName><region ref="region.xml#region0025"><placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> valley</region></placeName> <del type="cancelled">without</del>
+<lb/><del type="strikethrough">any regularity</del> - <space extent="2" unit="chars"/>They
 <lb/>are built of wattle and
 <lb/>daub<add place="inline" rend="gray" hand="#U2">,</add> and surrounded
 <lb/>by plantations of <term type="plant_foodstuff">manioc</term><add place="inline" rend="gray" hand="#U2">,</add> 
-<lb/><term type="plant_foodstuff">maize</term> &amp;c - Behind
+<lb/><term type="plant_foodstuff">maize</term> &amp;c - <space extent="1" unit="chars"/>Behind
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>35</note></add> them there are usually
 <lb/><del type="cancelled">g</del> <w>k<subst><del>tc</del><add place="over-text">it</add></subst>chen</w> gardens<add place="inline" rend="gray" hand="#U2">,</add> in
 <lb/>which the common
@@ -584,7 +584,7 @@ him to the house of the
 <lb/><orgName>natives</orgName> - but <term type="plant_foodstuff">pine apples</term><add place="inline" hand="#U2" rend="gray">,</add>
 <lb/><term type="foodstuff">orange</term><add place="inline" hand="#U2" rend="gray">,</add> <del type="cancelled" rend="gray" hand="#U2">trees</del> - <term type="plant_foodstuff">fig</term> - <del type="cancelled" rend="gray" hand="#U2">trees</del> 
 <lb/>and <term type="plant_foodstuff">cashew</term> <subst><del>s</del><add place="over-text">t</add></subst>rees <subst><del>seem</del><add place="over-text">ha</add></subst>ve <del type="cancelled">been</del>
-<lb/>but lately been tried - There
+<lb/>but lately been tried - <space extent="1" unit="chars"/>There
 <lb/>are about forty <term type="people">Portuguese</term>
 <lb/><term type="occupation">traders</term> in this district<add place="inline" hand="#U2" rend="gray">,</add>
 <lb/>all of whom are <term type="occupation">officers</term> 
@@ -594,23 +594,23 @@ him to the house of the
 <lb/>the plan of sending out
 <lb/><foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign>, or <orgName>native</orgName> <term type="occupation">traders</term><add place="inline" hand="#U2" rend="gray">,</add>
 <lb/>with large quantities of
-<lb/>goods<add place="inline" hand="#U2" rend="gray">,</add> to trade in the
+<lb/>goods<add place="inline" hand="#U2" rend="gray">,</add> <space extent="1" unit="chars"/>to trade in the
 <lb/>more remote parts of
 <lb/>the country<add place="inline" rend="gray" hand="#U2">;</add> - <del type="cancelled">Several <term type="occupation">Governors</term></del>
 <lb/>of <add place="marginleft"><metamark function="insertion"/>some of the 
     <lb/><term type="occupation">Governors</term> of 
-    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><orig>Luanda</orig></choice></settlement></placeName><add place="inline" hand="#U2" rend="gray">,</add>
+    <lb/><placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName><add place="inline" hand="#U2" rend="gray">,</add>
     <lb/>the capital of this<add place="inline" hand="#U2" rend="gray">,</add> the 
     <lb/>Kingdom 
     <lb/>of <placeName><country>Angola</country></placeName><add place="inline" rend="gray" hand="#U2">,</add></add> 
 <del type="cancelled"><placeName><country>Angola</country></placeName></del> have insisted
 <lb/>on the observance of
 <lb/>a law which <metamark function="insertion"/><anchor xml:id="reorder-95"/> forbids <retrace hand="#DL"><metamark function="reorder" resp="#U2" rend="gray" spanTo="#meta-222"/></retrace><seg corresp="#reorder-95">from
-<lb/>motives of humanity</seg><anchor xml:id="meta-222"/>
+<lb/><add place="below">^</add> <add place="above">motives of humanity</add></seg><anchor xml:id="meta-222"/>
 <lb/>the <term type="people">Portuguese</term> themselves
 <lb/>from passing beyond
 <lb/>the boundary<add place="inline" hand="#U2" rend="gray">.</add> <del type="cancelled">of the</del>
-<lb/><del type="cancelled">kingdom</del> They seem to
+<lb/><del type="cancelled">kingdom</del> <space extent="2" unit="chars"/>They seem to
 <lb/>have taken it for granted<add place="inline" hand="#U2" rend="gray">,</add>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>36</note></add> that in cases where the
 <lb/>white <term type="occupation">trader</term> was killed<add place="inline" hand="#U2" rend="gray">,</add>
@@ -624,16 +624,16 @@ him to the house of the
     <pb facs="liv_000101_0035.jpg" n="0035"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">34</add></fw>   
 <lb/>provoked to shed <term type="nationality">Portuguese</term>
-<lb/>blood - This indicates
+<lb/>blood - <space extent="1" unit="chars"/>This indicates
 <lb/>a much greater liberality
 <lb/>of mind than has obtained
 <lb/>in our <add place="below">^</add> <add place="above">own</add> dealings with the
-    <lb/><orgName ref="orgName.xml#org0042">Caffres</orgName> for we have
+<lb/><orgName ref="orgName.xml#org0042">Caffres</orgName> for we have
 <lb/>engaged in most expensive
 <lb/>wars with them without
 <lb/>once enquiring whether any
 <lb/><add place="marginleft">or perhaps all</add> <del type="strikethrough">of</del> the fault lay with
-                    <lb/><del type="strikethrough" hand="#DL"><del type="strikethrough" rend="gray" hand="#U2">ourselves</del></del> <retrace hand="#DL"><add place="marginleft" rend="gray" hand="#U2"><metamark function="insertion"/>our frontier colonists</add></retrace> - The <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassangé</settlement></placeName>
+<lb/><del type="strikethrough" hand="#DL"><del type="strikethrough" rend="gray" hand="#U2">ourselves</del></del> <retrace hand="#DL"><add place="marginleft" rend="gray" hand="#U2"><metamark function="insertion"/>our frontier colonists</add></retrace> - <space extent="2" unit="chars"/>The <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassangé</settlement></placeName>
 <lb/><term type="occupation">traders</term> seem inclined to
 <lb/>spread along the <placeName><geogName type="river">Quango</geogName></placeName>
 <lb/>in spite of the desire of
@@ -646,7 +646,7 @@ him to the house of the
 <lb/>I passed among them
 <lb/>they <del type="strikethrough">seem</del> are generally
 <lb/>prosperous - </p>
-                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0568">Wheeler</persName></hi></note></add> As I always preferred
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0568">Wheeler</persName> <metamark function="placeMark"/></note></add> As I always preferred
 <lb/>to appear in my own
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>37</note></add> proper character I was
 <lb/>an object of <w>the<del type="strikethrough">ir</del></w> curiosity
@@ -677,7 +677,7 @@ him to the house of the
 <lb/>to <subst><del>take</del><add place="over-text">ca</add></subst>lculate the Longitude!
 <lb/>Come tell us at once what
 <lb/>rank you hold in the
-<lb/><orgName><term type="nationality">English</term> army</orgName>! <subst><del>They m</del><add place="over-text">They</add></subst> may
+<lb/><orgName><term type="nationality">English</term> army</orgName>! <space extent="1" unit="chars"/><subst><del>They m</del><add place="over-text">They</add></subst> may
 <lb/>have given credit to
 <lb/>my <del type="cancelled">explanation of the</del>
 <lb/><w>reason<del type="cancelled">s</del></w> for wearing
@@ -688,7 +688,7 @@ him to the house of the
     <lb/>have none</add> 
 but that
 <lb/>which puzzled many
-                    <lb/>besides my <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassangé</settlement></placeName>
+<lb/>besides my <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassangé</settlement></placeName>
 <lb/>friends was the anomaly
 <lb/>of my being a "<foreign xml:lang="pt"><term type="occupation">sacerdote</term></foreign>"
 <lb/>with a wife &amp; four
@@ -716,7 +716,7 @@ but that
 <lb/>as a day of rejoicing
 <lb/>though the <term type="people">Portuguese</term>
 <lb/>have no <term type="occupation">priests</term> at
-    <lb/><placeName><geogName type="village" ref="settlement.xml#sett0039">Cassangé</geogName></placeName> - The coloured 
+<lb/><placeName><geogName type="village" ref="settlement.xml#sett0039">Cassangé</geogName></placeName> - <space extent="1" unit="chars"/>The coloured 
 <lb/>population dressed up a
 <lb/>figure intended to represent
     <lb/><persName ref="people.xml#pers0336">Judas Iscariot</persName> and paraded
@@ -732,7 +732,7 @@ made visits
 <lb/>to all the principal <term type="occupation">merchants</term>
 <lb/>and wishing them "a good
 <lb/>feast" expected a present
-<lb/>in return - This <subst><del>wa</del><add place="over-text">t</add></subst>hough
+<lb/>in return - <space extent="1" unit="chars"/>This <subst><del>wa</del><add place="over-text">t</add></subst>hough
 <lb/>frequently <del type="cancelled">given</del> <subst><del><unclear cert="medium">in pi</unclear></del><add place="over-text">granted</add></subst>
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>39</note></add> in the shape of pieces of
 <lb/>calico to make new
@@ -743,7 +743,7 @@ made visits
     
     
     <pb facs="liv_000101_0038.jpg" n="0038"/> 
-<lb/><p><fw><add place="marginright" hand="#U1" rend="gray right">37</add></fw>
+<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">37</add></fw>
 <lb/>At ten we went to the residence
 <lb/>of the <term type="occupation">Commandant</term> and
 <lb/>on a signal being given
@@ -758,7 +758,7 @@ made visits
 <lb/>hoisted and trumpets
 <lb/>sounded as an expression 
 <lb/>of joy at the resurrection
-    <lb/>of our Lord - <persName ref="people.xml#pers0450">Captain
+<lb/>of our Lord - <space extent="1" unit="chars"/><persName ref="people.xml#pers0450">Captain
 <lb/>Neves</persName> invited all the
 <lb/><w>principal<del type="cancelled"><unclear cert="low">it</unclear></del></w> inhabitants
 <lb/>of the place, and <del type="cancelled">he</del>
@@ -783,14 +783,14 @@ were
 <lb/>to the common <subst><del><unclear cert="medium">ente</unclear></del><add place="over-text">am</add></subst>usement
 <lb/>of card-playing which
 <lb/>continued till eleven
-<lb/><choice><sic>oclock</sic><corr>o'clock</corr></choice> - As far as a 
+<lb/><choice><sic>oclock</sic><corr>o'clock</corr></choice> - <space extent="1" unit="chars"/>As far as a 
 <lb/>mere <term type="occupation">traveller</term> could judge
 <lb/>they seemed to be p<del type="cancelled"><unclear cert="medium">l</unclear></del>olite
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note>40</note></add> and willing to aid each other</p>
 
 
     <pb facs="liv_000101_0039.jpg" n="0039"/>
-<lb/><p><fw><add place="marginright" hand="#U1" rend="gray right">38</add></fw>
+<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">38</add></fw>
 <lb/>They live in a febrile district
 <lb/>and many of them had
 <lb/><term type="ailment">enlarged spleens</term> - they 
@@ -828,13 +828,13 @@ were
 <lb/>was particularly gratifying
 <lb/>to me who <subst><add place="above">had been</add><del type="strikethrough">am</del></subst> familiar
 <lb/>with the stupid prejudice
-<lb/><add place="marginbottom" hand="#U2" rend="gray"><note>41</note></add> against colour, entertained
+<lb/><add place="marginleft" hand="#U2" rend="gray"><note>41</note></add> against colour, entertained
 <lb/>only by those who are
 <lb/>themselves becoming tawny
 
 
     <pb facs="liv_000101_0040.jpg" n="0040"/>
-<lb/><fw><add place="marginright" hand="#U1" rend="gray right">39</add></fw>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">39</add></fw>
 <lb/>to view the liberality with 
 <lb/>which people of colour
 <lb/>were treated by the <term type="people">Portuguese</term>
@@ -851,7 +851,7 @@ were
 <lb/>the same table with 
 <lb/>their employers without 
 <lb/>any <choice><sic>embarassment</sic><corr>embarrassment</corr></choice> - The 
-<lb/><del type="cancellation">kind deport</del>civil manners 
+<lb/><del type="cancellation">kind deport</del> civil manners 
 <lb/>of superiors to inferiors 
 <lb/>is probably the result 
 <lb/>of the position they occupy 
@@ -861,7 +861,7 @@ were
 <lb/>is there so much good 
 <lb/>will between <orgName>Europeans</orgName>
 <lb/>and <orgName>natives</orgName> as here - 
-<lb/>If <add place="below"><del type="cancelled">certain border</del></add> <add place="below">^</add> <subst><add place="above">some border</add><del type="cancelled"><term type="nationality">English</term></del></subst> <term type="occupation">colonists</term> had 
+<lb/>If <add place="below"><del type="cancelled">certain border</del></add> <add place="below">^</add> <subst><add place="above">some border</add> <del type="cancelled"><term type="nationality">English</term></del></subst> <term type="occupation">colonists</term> had 
 <lb/><add place="marginleft">the absolute</add> <del type="cancelled">the</del> certainty of <add place="below">^</add> <add place="above">our</add> <orgName>Government</orgName>
 <lb/>declining to bear them 
 <lb/>out in their arrogance 
@@ -870,9 +870,9 @@ were
 <lb/>insolence <del type="cancelled">elsewhere</del> - It is
 <lb/>insolence which begets insolence</p>
 
-
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">40</add></fw></p>
-                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0400">Mead</persName></hi></note></add> From the village of <placeName><geogName type="village" ref="settlement.xml#sett0039">Cassangé</geogName></placeName>
+    <pb facs="liv_000101_0041.jpg" n="0041"/>
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">40</add></fw>
+<lb/><p rend="no-indent"><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0400">Mead</persName> <metamark function="placeMark"/></note></add> From the village of <placeName><geogName type="village" ref="settlement.xml#sett0039">Cassangé</geogName></placeName>
 <lb/>we have a good view
 <lb/>of the surrounding country -
 <lb/>It is a gently undulating
@@ -885,7 +885,7 @@ were
 <lb/>range of lofty mountains
 <lb/>and passes by the name
 <lb/>of <placeName><geogName type="mountain">Tala Mungongo</geogName></placeName> "behold
-<lb/>the range" - In <subst><del type="cancelled">my</del><add place="above">the</add></subst> old
+<lb/>the range" - <space extent="1" unit="chars"/>In <subst><del type="cancelled">my</del><add place="above">the</add></subst> old
 <lb/><add place="marginleft"><term type="nationality">Portuguese</term></add> map to which I had
 <lb/>been trusting in planning
 <lb/>my route it is indicated
@@ -925,7 +925,7 @@ were
 <lb/>crossed several <placeName><geogName type="river">Quangos</geogName></placeName>
 <lb/>but all insignificant except
 <lb/>that <del type="cancelled">to</del> which drains
-<lb/>this valley - The <choice><sic>repitition</sic><corr>repetition</corr></choice>
+<lb/>this valley - <space extent="1" unit="chars"/>The <choice><sic>repitition</sic><corr>repetition</corr></choice>
 <lb/>of the <add place="below">^</add> <add place="above">favourite</add> names of <term type="occupation">chiefs</term> <add place="below" rend="gray" hand="#U2">^</add> <add place="above" rend="gray" hand="#U2">as <persName ref="people.xml#pers0276">Catendé</persName></add> is
     <lb/>also perplexing one <persName ref="people.xml#pers0276">Catende</persName>
 <lb/><metamark function="unknown" place="marginleft" rend="gray" resp="#U2"/> <del type="strikethrough" rend="gray" hand="#U2">for instance</del> may be <add place="inline" rend="gray" hand="#U2">...</add>
@@ -934,7 +934,7 @@ were
     <lb/><add place="marginleft" rend="gray" hand="#U2"><subst><del type="cancelled" hand="#U2">one</del><add place="above" rend="gray" hand="#U2">20</add></subst> <persName ref="people.xml#pers0295">Donal MacDonald</persName> <unclear cert="medium">is</unclear>
     <lb/>the <add place="below">^</add> <add place="above"><unclear corresp="low">same</unclear></add> <term type="occupation">Highland <unclear cert="high">Regent</unclear></term></add>
     <del type="cancelled">our two <persName ref="person.xml#pers0447">Sir Charles Napier</persName><add place="below">s</add>
-<lb/>for each other - </del> To avoid
+<lb/>for each other</del> - To avoid
 <lb/>this confusion as much
 <lb/>as possible I have refrained
 <lb/>from introducing many names,
@@ -951,29 +951,29 @@ were
 
 
     <pb facs="liv_000101_0043.jpg" n="0043"/>
-<lb/><p><fw><add place="inspace" hand="#U1" rend="gray right">42</add></fw>
-<lb/>This valley as I have
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">42</add></fw>
+<lb/><p>This valley as I have
 <lb/>before remarked is all
 <lb/>fertile in the extreme - My
 <lb/>men could never cease
 <lb/>admiring its capability for
-<lb/><del type="strikethrough">yielding <unclear cert="medium"><term type="plant_foodstuff">corn</term></unclear></del> raising their
+<lb/><del type="strikethrough">yielding <term type="plant_foodstuff">corn</term></del> raising their
 <lb/><term type="plant_foodstuff">corn</term> (<foreign xml:lang="la"><term type="plant_foodstuff">holcus sorghum</term></foreign>) and 
 <lb/>despising the comparatively
 <lb/>limited cultivation of
-<lb/>the inhabitants - The <term type="people">Portuguese</term>
+<lb/>the inhabitants - <space extent="1" unit="chars"/>The <term type="people">Portuguese</term>
 <lb/>informed me that no
 <lb/>manure is ever needed
 <lb/>but that the more the ground
 <lb/>is tilled the better it
-<lb/>yields - Virgin soil does
+<lb/>yields - <space extent="1" unit="chars"/>Virgin soil does
 <lb/>not give such a heavy
 <lb/>crop as an old garden
 <lb/>and judging from the
 <lb/>size of the <term type="plant_foodstuff">maize</term> and
 <lb/><term type="plant_foodstuff">manioc</term> in the latter
 <lb/>I can readily believe the
-<lb/>statement - <term type="animal">Cattle</term> do well
+<lb/>statement - <space extent="1" unit="chars"/><term type="animal">Cattle</term> do well
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>R</note></add><!-- it is possible that the 'R' is intended as a substitution for the 'v' in 'viewing'. This would mean, however, that the editor misread the lower case 'v' as an 'r'.JL --> too <del type="cancelled" rend="gray" hand="#U2">But</del> <add place="below" rend="gray" hand="#U2">^</add>viewing the
 <lb/>valley as a whole it 
 <lb/>may be said that its
@@ -985,7 +985,8 @@ were
 <lb/>to trade in wax and ivory
 <lb/>and though this country
 <lb/>would <subst><del type="strikethrough">produce</del><add place="above">yield</add></subst> any
-<lb/>amount of <term type="plant_foodstuff">corn</term> and <term type="foodstuff">dairy-<add place="below">produce</add></term>
+<lb/>amount of <term type="plant_foodstuff">corn</term> and <term type="foodstuff">dairy-
+<lb/><space extent="15" unit="chars"/>produce</term>
 
 
     <pb facs="liv_000101_0044.jpg" n="0044"/>
@@ -996,7 +997,7 @@ were
 <lb/><term type="foodstuff">flour</term> <term type="foodstuff">bread</term> <term type="foodstuff">butter</term> &amp; <term type="foodstuff">cheese</term>
 <lb/>from the <term type="people">Americans</term></p>
 <lb/>
-                <lb/><p>As the <term type="occupation">traders</term> of <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName>
+<lb/><p>As the <term type="occupation">traders</term> of <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName>
 <lb/>were the first white
 <lb/>men we had come to
 <lb/>we sold the tusks belonging
@@ -1032,7 +1033,7 @@ were
 <lb/>quite delightful for those
 <lb/>who had been accustomed
 <lb/>to give two tusks for one 
-<lb/>gun - With <del type="cancelled">the other three</del>
+<lb/>gun - <space extent="2" unit="chars"/>With <del type="cancelled">the other three</del>
 <lb/><add place="marginleft">another</add> <w>tusk<del type="cancelled">s</del></w> we <subst><del type="strikethrough">purchased</del><add place="above">procured</add></subst> calico</p>
 
 

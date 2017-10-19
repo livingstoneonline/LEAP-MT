@@ -352,7 +352,7 @@ but when you travel
 <lb/>present to the man who <subst><del type="strikethrough" rend="red" hand="#U3">did</del><add place="above" rend="red" hand="#U3">does</add></subst> it -</p>
 
 
-<pb facs="liv_000099_0369.jpg" n="0369"/> <!-- up to here.JL -->
+<pb facs="liv_000099_0369.jpg" n="0369"/> 
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">347</add></fw>
 <lb/><p><space dim="vertical" extent="5" unit="lines"/>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>101</note></add>
@@ -460,7 +460,6 @@ but when you travel
 <lb/><del type="strikethrough">others</del> but the numbers of animals
 
 
-<!-- up to here.JL -->
 <pb facs="liv_000099_0372.jpg" n="0372"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">350</add></fw>
 <lb/>said to have been met with and
@@ -532,20 +531,19 @@ but when you travel
 <lb/>standing on the railways till the
 <lb/><add place="marginleft" hand="#U3" rend="red"><choice><sic>Engines</sic><corr>engines</corr></choice></add> <del type="strikethrough" rend="red" hand="#U3">tenders</del> were within <measure>150 yards</measure>
 <lb/>of them<add place="inline" rend="gray" hand="#U2">,</add> - Hunting <term type="animal">elephants</term>
-<lb/><add place="marginleft"><note><metamark function="insertion"/>(foot note) * since
-        <lb/>writing the above
-        <lb/>the statement has
-        <lb/><choice><sic>recieved</sic><corr>received</corr></choice> <w>con-
-            <lb break="no"/>formation</w> in the
-        <lb/>reported death of
-    <lb/><persName ref="people.xml#pers0560">M<hi rend="above">r</hi> <choice><sic>Walhberg</sic><corr>Wahlberg</corr></choice></persName> in
-        <lb/>hunting <term type="animal">elephants</term>
-        <lb/>on foot at <placeName><geogName type="lake">Lake Ngami</geogName></placeName></note></add>
-on foot would be not less
-<lb/>dangerous <add place="inline">*</add> unless the <placeName><geogName type="country"><choice><orig>Ceylon</orig><reg>Sri Lanka</reg></choice></geogName></placeName><!-- Ceylon should perhaps be coded as a colony or an island, but since I've provided the contemporary name, Sri Lanka, I've coded it as a country.JL --> 
+<lb/>on foot would be not less
+<lb/>dangerous <metamark function="ed-mark">*</metamark> unless the <placeName><geogName type="country"><choice><orig>Ceylon</orig><reg>Sri Lanka</reg></choice></geogName></placeName><!-- Ceylon should perhaps be coded as a colony or an island, but since I've provided the contemporary name, Sri Lanka, I've coded it as a country.JL --> 
 <lb/>mode of killing them by
 <lb/>one shot could be followed - 
-<lb/>It has never been tried in <placeName><bloc>Africa</bloc></placeName></p>
+<lb/>It has never been tried in <placeName><bloc>Africa</bloc></placeName>
+<lb/><add place="marginleft"><metamark function="insertion"/>(foot note) <metamark function="ed-mark" place="above">*</metamark> since
+    <lb/>writing the above
+    <lb/>the statement has
+    <lb/><choice><sic>recieved</sic><corr>received</corr></choice> <w>con-
+    <lb break="no"/>formation</w> in the
+    <lb/>reported death of
+    <lb/><persName ref="people.xml#pers0560">M<hi rend="above">r</hi> <choice><sic>Walhberg</sic><corr>Wahlberg</corr></choice></persName> in
+    <lb/>hunting <term type="animal">elephants</term> on foot at <placeName><geogName type="lake">Lake Ngami</geogName></placeName></add></p>
 
 
 <pb facs="liv_000099_0374.jpg" n="0374"/>
