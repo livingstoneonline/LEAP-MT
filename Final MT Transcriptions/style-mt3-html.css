@@ -3,28 +3,28 @@
 	float:left;
 	color:#8c8b85;
 	margin-left:-2em !important;/*Changed. AW*/
-	text-indent:45em;
+	text-indent:46.5em;
 	font-size:80%;
 	width:1em;
 }
 .p .linenumber{
-	text-indent:45em;
+	text-indent:46.5em;
 }
 .p.noindent .linenumber{
-	text-indent:45em !important;
+	text-indent:46.5em !important;
 }
 .p.noindent .marginleft.marginleft .linenumber{
-	text-indent:45.2em !important;
+	text-indent:46.7em !important;
 	font-size:80% !important;	
 }
 .note .linenumber{
-	text-indent:45.2em !important;	
+	text-indent:46.7em !important;	
 }
 .add.marginleft .note .linenumber{
-	text-indent:64.2em !important;
+	text-indent:65.7em !important;
 }
 .seg.left .linenumber{
-	text-indent:50em;
+	text-indent:51.5em;
 }
 .CL .linenumber{
 	font-style:normal;
