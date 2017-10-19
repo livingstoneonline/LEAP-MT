@@ -173,6 +173,7 @@
 				<xsl:apply-templates/>
 			</div>
 		</div>
+		<br/>
 	</xsl:template>
 
 
@@ -570,6 +571,21 @@
 					</xsl:if>
 					<xsl:apply-templates/></span></span>
 			</xsl:when>	
+			<xsl:when test="@rend='gray' and ancestor::add[@n='DL']"><!-- This is controlling the strikethrough in another color -->
+				<span style='color:gray;text-decoration:line-through'><span style='color:black'>
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'etion, ')"/>
+							<xsl:for-each select="@*[not(name()='n')]">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					<xsl:apply-templates/></span></span>
+			</xsl:when>	
 			<xsl:when test="@n='DL' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
 				<span style='color:black;text-decoration:line-through'><span style='color:#746553'>
 					<xsl:if test="@*">
@@ -585,16 +601,12 @@
 					</xsl:if>
 					<xsl:apply-templates/></span></span>
 			</xsl:when>	
-
-			
-	<!-- effort to have a gray line through a black word, when the word is in an addition by DL and a div by Charles 
-			
-			<xsl:when test="@rend='gray' and parent::add[@n='DL'][ancestor::div[@n='CL']]/..">
-				<span style='color:gray;text-decoration:line-through'><span style='color:black'>
+			<xsl:when test="@rend='gray' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
+				<span style='color:gray;text-decoration:line-through'><span style='color:#746553'>
 					<xsl:if test="@*">
 						<xsl:attribute name="title">
 							<xsl:value-of select="concat(name(), 'etion, ')"/>
-							<xsl:for-each select="@*">
+							<xsl:for-each select="@*[not(name()='n')]">
 								<xsl:sort/>
 								<xsl:if test="not(name()='status')">
 									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
@@ -603,11 +615,7 @@
 						</xsl:attribute>
 					</xsl:if>
 					<xsl:apply-templates/></span></span>
-			</xsl:when>
-			
-			-->
-			
-			
+			</xsl:when>			
 			<xsl:when test="@rend='red' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
 				<span style='color:#B33B24;text-decoration:line-through'><span style='color:#746553'>
 					<xsl:if test="@*">
@@ -835,21 +843,6 @@
 			</xsl:when>
 			<xsl:when test="@rend='gray'">
 				<span style='color:gray;text-decoration:line-through'><span style='color:black'>
-					<xsl:if test="@*">
-						<xsl:attribute name="title">
-							<xsl:value-of select="concat(name(), 'etion, ')"/>
-							<xsl:for-each select="@*[not(name()='n')]">
-								<xsl:sort/>
-								<xsl:if test="not(name()='status')">
-									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
-								</xsl:if>
-							</xsl:for-each>
-						</xsl:attribute>
-					</xsl:if>
-					<xsl:apply-templates/></span></span>
-			</xsl:when>
-			<xsl:when test="@rend='gray' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
-				<span style='color:gray;text-decoration:line-through'><span style='color:#746553'>
 					<xsl:if test="@*">
 						<xsl:attribute name="title">
 							<xsl:value-of select="concat(name(), 'etion, ')"/>
