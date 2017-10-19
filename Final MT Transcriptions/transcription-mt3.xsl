@@ -585,21 +585,7 @@
 					</xsl:if>
 					<xsl:apply-templates/></span></span>
 			</xsl:when>	
-			<xsl:when test="@rend='gray' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
-				<span style='color:gray;text-decoration:line-through'><span style='color:#746553'>
-					<xsl:if test="@*">
-						<xsl:attribute name="title">
-							<xsl:value-of select="concat(name(), 'etion, ')"/>
-							<xsl:for-each select="@*[not(name()='n')]">
-								<xsl:sort/>
-								<xsl:if test="not(name()='status')">
-									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
-								</xsl:if>
-							</xsl:for-each>
-						</xsl:attribute>
-					</xsl:if>
-					<xsl:apply-templates/></span></span>
-			</xsl:when>
+
 			
 	<!-- effort to have a gray line through a black word, when the word is in an addition by DL and a div by Charles 
 			
@@ -849,6 +835,21 @@
 			</xsl:when>
 			<xsl:when test="@rend='gray'">
 				<span style='color:gray;text-decoration:line-through'><span style='color:black'>
+					<xsl:if test="@*">
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'etion, ')"/>
+							<xsl:for-each select="@*[not(name()='n')]">
+								<xsl:sort/>
+								<xsl:if test="not(name()='status')">
+									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+								</xsl:if>
+							</xsl:for-each>
+						</xsl:attribute>
+					</xsl:if>
+					<xsl:apply-templates/></span></span>
+			</xsl:when>
+			<xsl:when test="@rend='gray' and ancestor::div[@n='CL']"><!-- This is controlling the strikethrough in another color -->
+				<span style='color:gray;text-decoration:line-through'><span style='color:#746553'>
 					<xsl:if test="@*">
 						<xsl:attribute name="title">
 							<xsl:value-of select="concat(name(), 'etion, ')"/>
