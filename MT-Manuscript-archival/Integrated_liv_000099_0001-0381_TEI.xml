@@ -6,7 +6,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+                <title>Missionary Travels and Researches in South Africa (Part I)</title>
+                <title type="alternative">Missionary Travels and Researches in South Africa (Part I), January-October 1857</title><!-- This will change with each volume of the MS. -->
                 <author>David Livingstone</author>
                 <principal>Justin Livingstone</principal>
                 <respStmt xml:id="JL">
@@ -37,20 +38,10 @@
             </titleStmt>
             <publicationStmt>
                 <authority>Livingstone Online</authority>
-                <publisher>UCLA Digital Library</publisher>
-                <pubPlace>Los Angeles, CA, USA</pubPlace>
-                <!-- Possible year update. -->
-                <date>2014</date>
-                <availability>
-                <!-- Possible license change. -->
-                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
-                        All materials are licensed for use under the 
-                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
-                            Creative Commons Attribution-Noncommercial 3.0 Unported License
-                        </ref>. 
-                        (c) Dr. Neil Imray Livingstone Wilson, 2014
-                    </licence>
-                </availability>
+                <publisher>University of Maryland Libraries</publisher>
+                <pubPlace>College Park, MD, USA</pubPlace>
+                <date>2017</date><!-- Change if necessary -->
+                <idno type="LEAP-ID">liv_000099</idno><!-- Change -->
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -60,7 +51,7 @@
                         <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
                         <idno type="shelfmark">MS.42428</idno><!-- This may change with each volume of the MS. -->
                         <altIdentifier>
-                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                            <idno type="ccnumber">Books, 01</idno><!-- This may change with each volume of the MS. -->
                         </altIdentifier>
                     </msIdentifier>
                     <physDesc>
@@ -73,7 +64,7 @@
                 </msDesc>
 
                 <bibl type="sourceMetadata">
-                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+                    <title>Missionary Travels and Researches in South Africa (Part I)</title><!-- This will change with each volume of the MS. -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
                 </bibl>
