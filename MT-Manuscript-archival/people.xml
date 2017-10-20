@@ -58,7 +58,7 @@
 				</person>
 
 				<person xml:id="pers0007">
-					<persName type="main">Abraham</persName>
+					<persName type="main">Abraham</persName><!-- Also see pers243 -->
 					<note type="editorial">One of three Biblical patriarchs.</note>
 				</person>
 
@@ -301,8 +301,8 @@
 					<note type="editorial">African chief.</note>
 				</person>
 
-				<person xml:id="pers0031">
-					<persName type="main">Clarendon, The Earl of</persName>
+				<person xml:id="pers0031"><!-- Also see pers0558 -->
+					<persName type="main">Clarendon, Earl of</persName>
 					<birth when="1800">1800</birth>
 					<death when="1870">1870</death>
 					<note type="editorial">George William Frederick Villiers. Foreign Secretary
@@ -455,7 +455,7 @@
 						responsible.</note>
 				</person>
 
-				<person xml:id="pers0049">
+				<person xml:id="pers0049"><!-- Also see pers0318 -->
 					<persName type="main">Herodotus</persName>
 					<birth when="-0484">c.484</birth>
 					<death when="-0425">c.425 BC</death>
@@ -478,7 +478,7 @@
 						accompanied Livingstone on his last journey.</note>
 				</person>
 
-				<person xml:id="pers0051">
+				<person xml:id="pers0051"><!-- Also see pers0330 -->
 					<persName type="main">Isaiah</persName>
 					<note type="editorial">Biblical prophet, documented in the Book of
 						Isaiah.</note>
@@ -509,7 +509,7 @@
 					<note type="editorial">Arab trader.</note>
 				</person>
 
-				<person xml:id="pers0055">
+				<person xml:id="pers0055"><!-- Also see pers0333 -->
 					<persName type="main">Jesus</persName>
 					<note type="editorial">Jesus Christ or Jesus of Nazareth. The central figure of
 						Christianity.</note>
@@ -659,8 +659,8 @@
 				</person>
 
 				<person xml:id="pers0072">
-					<persName type="main">Kurbelosi or Kurbelori</persName>
-					<note type="editorial">African chief.</note>
+					<persName type="main">Kurbelosi</persName>
+					<note type="editorial">Alternatively, Kurbelori. African chief.</note>
 				</person>
 
 				<person xml:id="pers0073">
@@ -705,7 +705,7 @@
 						David's assistant on the Zambesi Expedition.</note>
 				</person>
 
-				<person xml:id="pers0078">
+				<person xml:id="pers0078"><!-- Also see pers0372 -->
 					<persName type="main">Livingstone, David</persName>
 					<birth when="1813">1813</birth>
 					<death when="1873">1873</death>
@@ -861,7 +861,7 @@
 					<note type="editorial">One of Livingstone's porters.</note>
 				</person>
 
-				<person xml:id="pers0095">
+				<person xml:id="pers0095"><!-- Also see pers0395 -->
 					<persName type="main">Matiamvo</persName>
 					<note type="editorial">The paramount chief of the Lunda kingdom.</note>
 				</person>
@@ -885,7 +885,7 @@
 						botanical gardens in Mauritius and Queensland.</note>
 				</person>
 
-				<person xml:id="pers0098">
+				<person xml:id="pers0098"><!-- Also see pers0402[?] -->
 					<persName type="main">Merere</persName>
 					<note type="editorial">Also Mamerere. African chief who resisted Arab
 						encroachment into central Africa. Descendant of Charura.</note>
@@ -1248,7 +1248,7 @@
 						accompanied Livingstone on his last journey.</note>
 				</person>
 
-				<person xml:id="pers0147">
+				<person xml:id="pers0147"><!-- Also see pers0485 -->
 					<persName type="main">Ptolemy</persName>
 					<birth when="0100">c.100</birth>
 					<death when="0170">c.170</death>
@@ -1342,7 +1342,7 @@
 						height of its power.</note>
 				</person>
 
-				<person xml:id="pers0160">
+				<person xml:id="pers0160"><!-- Also see pers0516 -->
 					<persName type="main">Sechele</persName>
 					<birth when="1810">c.1810</birth>
 					<death when="1892">1892</death>
@@ -1361,7 +1361,7 @@
 						variety of geographical details related to the source of the Nile.</note>
 				</person>
 
-				<person xml:id="pers0162">
+				<person xml:id="pers0162"><!-- Also see pers0519 -->
 					<persName type="main">Sekeletu</persName>
 					<birth when="1835">c.1835</birth>
 					<death when="1863">1863</death>
@@ -1514,7 +1514,7 @@
 					<note type="editorial">Arab trader.</note>
 				</person>
 
-				<person xml:id="pers0181">
+				<person xml:id="pers0181"><!-- Also see persName0501 -->
 					<persName type="main">Syde bin Habib</persName>
 					<note type="editorial">Arab trader, who traveled widely in central Africa.
 						Livingstone first encountered him in 1855 during the former's famous
@@ -1666,7 +1666,7 @@
 
 				<!-- Missionary Travels Glossary List -->
 				<!-- MT glossary entry -->
-				<person xml:id="pers0243">
+				<person xml:id="pers0243"><!-- Also see pers0007 -->
 					<persName type="main">Abraham</persName>
 					<birth when="-2000">fl. c.2000 BCE</birth>
 					<note type="editorial">Hebrew Patriarch, who figures in the three major
@@ -2237,7 +2237,7 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0295">
-					<persName type="main">Donal MacDonald</persName>
+					<persName type="main">MacDonald, Donal</persName>
 					<note type="editorial">Not a reference to a specific person. Rather, it is cited
 						by the editor as a generic example of a common name in the Scottish
 						highlands.</note>
@@ -2503,8 +2503,8 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0317">
-					<persName type="main">Heracles or Hercules</persName>
-					<note type="editorial">Hero of classical mythology, appearing in Greek and Roman
+					<persName type="main">Hercules</persName>
+					<note type="editorial">Also Heracles. Hero of classical mythology, appearing in Greek and Roman
 						traditions. He is most famously associated with the twelve ‘Labours’
 						assigned to him by King Eurystheus. The ‘Pillars of Hercules’ refer to
 						promontories on either side of the Strait of Gibraltar, reputedly
@@ -2515,7 +2515,7 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0318">
+				<person xml:id="pers0318"><!-- Also see pers0049 -->
 					<persName type="main">Herodotus</persName>
 					<birth when="-0484">c.484</birth>
 					<death when="-0430">c.430 BCE</death>
@@ -2658,7 +2658,7 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0330">
+				<person xml:id="pers0330"><!-- Also see pers0051 -->
 					<persName type="main">Isaiah</persName>
 					<birth when="-0800">fl. 800</birth>
 					<death when="-0700">700 BCE</death>
@@ -2697,7 +2697,7 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0333">
+				<person xml:id="pers0333"><!-- Also see pers0055 -->
 					<persName type="main">Jesus</persName>
 					<birth from="-0008" to="-0004">c.8-4 BCE</birth>
 					<death when="0030">30 CE</death>
@@ -2726,7 +2726,7 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0336">
-					<persName type="main">Judas Iscariot</persName>
+					<persName type="main">Iscariot, Judas</persName>
 					<birth>?</birth>
 					<death when="0030">c.30 CE</death>
 					<note type="editorial">One of Jesus’ twelve disciples in the New Testament, who
@@ -2736,7 +2736,7 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0337">
-					<persName type="main">Julius Caesar</persName>
+					<persName type="main">Caesar, Julius</persName>
 					<birth when="-0100">c.100</birth>
 					<death when="-0044">44 BCE</death>
 					<note type="editorial">Roman statesman and general. Between 58 and 50 BCE, he
@@ -3063,7 +3063,7 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0372">
+				<person xml:id="pers0372"><!-- Also see pers0078 -->
 					<persName type="main">Livingstone, David</persName>
 					<birth when="1813">1813</birth>
 					<death when="1873">1873</death>
@@ -3269,10 +3269,10 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0392">
-					<persName type="main">Mary, Queen of Scots or Mary Stuart</persName>
+					<persName type="main">Mary, Queen of Scots</persName>
 					<birth when="1542">1542</birth>
 					<death when="1587">1587</death>
-					<note type="editorial">Queen of Scotland from 1542–67. Many Roman Catholics in
+					<note type="editorial">Also Mary Stuart. Queen of Scotland from 1542–67. Many Roman Catholics in
 						Britain, who did not recognise Henry VIII’s marriage to Anne Boleyn and
 						consequently held Queen Elizabeth to be illegitimate, viewed Mary as the
 						rightful claimant of the English throne. Regarded by Elizabeth as a threat
@@ -3304,7 +3304,7 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0395">
+				<person xml:id="pers0395"><!-- Also see pers0095 -->
 					<persName type="main">Matiamvo</persName>
 					<note type="editorial">Not to be confused with the paramount chief of the
 						central Lunda whose royal title was Mwant Yav. This individual was a Chokwe
@@ -3379,7 +3379,7 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0402">
+				<person xml:id="pers0402"><!-- Also see pers0098[?] -->
 					<persName type="main">Merere</persName>
 					<birth>?</birth>
 					<death when="1860">1860</death>
@@ -3557,8 +3557,8 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0420">
-					<persName type="main">Morantsiane or Mulanziane</persName>
-					<note type="editorial">Official Kololo title for the headman or viceroy of
+					<persName type="main">Morantsiane</persName>
+					<note type="editorial">Also Mulanziane. Official Kololo title for the headman or viceroy of
 						Sesheke. When Sekeletu contracted a degenerative skin around 1860, he put
 						Morantsiane to death on the charge of 'bewitching the Chief with leprosy'
 						(Kalusa 2009:75; Livingstone and Livingstone 1865: 270).</note>
@@ -3789,8 +3789,8 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0444">
-					<persName type="main">Mwant Yav or Mwata Yamvo</persName>
-					<note type="editorial">Official title of the paramount chief of the central
+					<persName type="main">Mwant Yav.</persName>
+					<note type="editorial">Also Mwata Yamvo. Official title of the paramount chief of the central
 						Lunda (also known as the Ruund). Other Lunda polities traced their origin to
 						the Ruund state and derived status from its royal title. During
 						Livingstone's cross-continental expedition, the long reign of Mwant Yav
@@ -3971,8 +3971,8 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0460">
-					<persName type="main">Ntlarie or Ntlaria</persName>
-					<note type="editorial">Identified by Livingstone as an important member of the
+					<persName type="main">Ntlarie</persName>
+					<note type="editorial">Also Ntlaria. Identified by Livingstone as an important member of the
 						Kololo, though he is seldom mentioned in his journals.</note>
 				</person>
 
@@ -4266,7 +4266,7 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0485">
+				<person xml:id="pers0485"><!-- Also see pers0147 -->
 					<persName type="main">Ptolemy</persName>
 					<birth when="0100">c.100</birth>
 					<death when="0170">c.170</death>
@@ -4393,7 +4393,7 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0498">
-					<persName type="main">Robinson Crusoe</persName>
+					<persName type="main">Crusoe, Robinson</persName>
 					<note type="editorial">Title character of Daniel Defoe's Robinson Crusoe (1719),
 						which follows the protagonist’s twenty-eight years as a castaway on a
 						Caribbean island.</note>
@@ -4420,8 +4420,8 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0501">
-					<persName type="main">Said Bin Habib</persName>
+				<person xml:id="pers0501"><!-- Also see persName0181 -->
+					<persName type="main">Said bin Habib</persName>
 					<note type="editorial">Arab merchant and leader of a Zanzibari trading caravan.
 						Livingstone first met him in December 1853 at Naliele, and learned that he
 						had previously crossed Africa from Mozambique to Angola. In September 1855,
@@ -4462,7 +4462,7 @@
 				<person xml:id="pers0504">
 					<persName type="main">Saint Paul</persName>
 					<birth when="-0004">c.4 BCE</birth>
-					<death from="0062" to="0064">c.62-64 CE</death>
+					<death when="0064">c.62-64 CE</death>
 					<note type="editorial">Apostle of Christianity and early church leader. His
 						letters, canonised in the New Testament, are central documents of the
 						Christian faith</note>
@@ -4581,7 +4581,7 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0516">
+				<person xml:id="pers0516"><!-- Also see pers0160 -->
 					<persName type="main">Sechele</persName>
 					<birth when="1810">c.1810</birth>
 					<death when="1892">1892</death>
@@ -4609,7 +4609,7 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0519">
+				<person xml:id="pers0519"><!-- Also see pers0162 -->
 					<persName type="main">Sekeletu</persName>
 					<birth when="1835">c.1835</birth>
 					<death when="1863">1863</death>
@@ -4712,7 +4712,7 @@
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0528">
-					<persName type="main">Senhor Pascoal</persName>
+					<persName type="main">Pascoal, Senhor</persName>
 					<note type="editorial">Afro-Portuguese trader. He was employed by Captain
 						Antonio Rodrigues, a merchant at Cassange in north-central Angola.
 						Livingstone travelled with him from Sansawe’s village to Cabango between
@@ -5034,8 +5034,8 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0558">
-					<persName type="main">Villiers, George William Frederick (fourth earl of
+				<person xml:id="pers0558"><!-- Also see pers0031 -->
+					<persName type="main">Villiers, George William Frederick (fourth Earl of
 						Clarendon)</persName>
 					<birth when="1800">1800</birth>
 					<death when="1870">1870</death>
