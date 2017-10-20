@@ -1057,9 +1057,9 @@ which have proved
 <lb/><add place="below">^</add> <add place="above">again</add> necessary and I for the first
 <lb/>time performed a distance of
 <lb/>some <measure>hundred miles</measure> on oxback</p>
-                <lb/><p><add place="marginleft"><note><metamark function="newParagraph" rend="gray" resp="#U2">Par</metamark> <metamark function="newParagraph" resp="#DL">//</metamark> <space extent="1" unit="chars"/><metamark function="newParagraph" rend="gray" resp="#U2">/</metamark></note></add> Returning <add place="below">^</add> <add place="above">towards <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> <del type="strikethrough">again</del></add> I selected the beautiful
+<lb/><p><add place="marginleft"><note><metamark function="newParagraph" rend="gray" resp="#U2">Par</metamark> <metamark function="newParagraph" resp="#DL">//</metamark> <space extent="1" unit="chars"/><metamark function="newParagraph" rend="gray" resp="#U2">/</metamark></note></add> Returning <add place="below">^</add> <add place="above">towards <placeName><settlement type="village" ref="settlement.xml#sett0007">Kuruman</settlement></placeName> <del type="strikethrough">again</del></add> I selected the beautiful
 <lb/><placeName><geogName type="valley">valley of Mabotsa</geogName></placeName> <add place="marginleft" hand="#U2" rend="gray"><subst><del hand="#DL"><metamark function="insertion"/><choice><abbr>Lat deg</abbr><expan>Latitude degree</expan></choice></del><add place="over-text" hand="#DL" rend="black"><metamark function="insertion"/><measure><choice><abbr>Lat</abbr><expan>Latitude</expan></choice> 25° 14' South 
-        <lb/><choice><abbr>Long</abbr><expan>Longitude</expan></choice> 26° 30'(?)</measure></add></subst></add> 
+<lb/><choice><abbr>Long</abbr><expan>Longitude</expan></choice> 26° 30'(?)</measure></add></subst></add> 
 to form a 
 <lb/><term type="occupation">missionary</term> station and thither
 <lb/>I remained <del type="cancelled">with another <term type="occupation">missionary</term></del>
@@ -1244,7 +1244,7 @@ to form a
 <lb/>personal pronoun they - <foreign xml:lang="und">Ba - Ma
 <lb/>Wa - Va</foreign> - or <foreign xml:lang="und">ova, Am. Ki</foreign> &amp;c. prevails
 <lb/>very extensively in the names of
-<lb/><metamark function="newParagraph" place="marginleft" resp="#U2" rend="gray">Par</metamark> tribes in <placeName><bloc>Africa</bloc></placeName> - <metamark function="newParagraph" resp="#U2" rend="gray">//</metamark> I attached
+<lb/><add place="marginleft" hand="#U2" rend="gray"><note><metamark function="newParagraph">Par</metamark></note></add> tribes in <placeName><bloc>Africa</bloc></placeName> - <metamark function="newParagraph" resp="#U2" rend="gray">//</metamark> I attached
 <lb/>myself to the tribe called <term type="tribe">Bakuena</term>
 <lb/>or <term type="tribe">Bakwains</term> the <term type="occupation">chief</term> of which
 <lb/><del type="cancelled">is</del> called <persName ref="people.xml#pers0516">Sechele</persName> <add place="below">˄</add> <add place="above">was</add> then living
@@ -3080,7 +3080,7 @@ obtained
 	
 	<pb facs="liv_000099_0077" n="0077"/> 
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">81</add> <add place="inspace" hand="#U1" rend="gray right">74</add></fw>	
-    <lb/><metamark function="query" place="marginleft" rend="gray" resp="#U2"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark> <metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-17"/><del type="cancelled" hand="#DL"><add place="inline" hand="#U2" rend="gray">"</add>rusé<add place="inline" hand="#U2" rend="gray">"</add></del><anchor xml:id="meta-17"/> by the <orgName ref="orgName.xml#org0038">Boer</orgName>ish <term type="occupation">commandant</term>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note><metamark function="query"><choice><abbr>Qy</abbr><expan>Query</expan></choice></metamark></note></add> <metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-17"/><del type="cancelled" hand="#DL"><add place="inline" hand="#U2" rend="gray">"</add>rusé<add place="inline" hand="#U2" rend="gray">"</add></del><anchor xml:id="meta-17"/> by the <orgName ref="orgName.xml#org0038">Boer</orgName>ish <term type="occupation">commandant</term>
 <lb/>whereby I was led by professions
 <lb/>of the greatest friendship to 
     <lb/>retire to <placeName><settlement type="village">Kolonbeng</settlement></placeName> and a <bibl>letter</bibl>
@@ -3912,8 +3912,8 @@ and many attempts
 <lb/>"<subst><del>was</del><add place="over-text">would</add></subst> be as determined as himself
 <lb/>to get through the Desert - "<!-- Kalahari Desert. JL --> Their objects
 <lb/>were <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-14"/> totally different <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-36"/><seg corresp="#reorder-14">however</seg><anchor xml:id="meta-36"/> - </p>
-				<lb/><p><add place="marginleft" rend="gray" hand="#U2"><hi rend="underline"><note><persName ref="people.xml#pers0572"><unclear cert="medium">Wilkes</unclear></persName></note></hi></add><!-- proofing editor's name on marginleft? ks --> While waiting at <placeName><settlement type="village">Kolobong</settlement></placeName> for
-					<lb/><del type="strikethrough" hand="#U3" rend="red">the company of</del> <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> I may
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0572"><unclear cert="medium">Wilkes</unclear></persName> <metamark function="placeMark"/></note></add><!-- proofing editor's name on marginleft? ks --> While waiting at <placeName><settlement type="village">Kolobong</settlement></placeName> for
+<lb/><del type="strikethrough" hand="#U3" rend="red">the company of</del> <persName ref="people.xml#pers0466">M<hi rend="sup">r</hi> <choice><sic>Oswel</sic><corr>Oswell</corr></choice></persName> I may
 <lb/>give some <subst><del type="strikethrough" hand="#U3" rend="red">notices</del><add place="above" hand="#U3" rend="red">account</add></subst> <add place="below" hand="#U3" rend="red">^</add>  of the great
 <lb/><placeName><geogName type="desert">Kalahari desert</geogName></placeName> that the reader
 <lb/>may understand <subst><del type="strikethrough" hand="#U3" rend="red">exactly</del><add place="above" hand="#U3" rend="red">in some degree</add></subst> the
@@ -4034,7 +4034,7 @@ and many attempts
 <lb/>tuber to be beneath - They
 <lb/>then dig down <measure>a foot or
 <lb/>so</measure> and find it - </p>
-				<lb/><p><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName ref="people.xml#pers0497"><unclear cert="medium">Robinson</unclear></persName></note></hi></add><!-- editors name? ks --> <add place="inline" hand="#U3" rend="red">But</add> <del type="strikethrough" hand="#U3" rend="red">Both</del> the most surprising
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0497"><unclear cert="medium">Robinson</unclear></persName> <metamark function="placeMark"/></note></add><!-- editors name? ks --> <add place="inline" hand="#U3" rend="red">But</add> <del type="strikethrough" hand="#U3" rend="red">Both</del> the most surprising
 <lb/>plant of the desert is the
 <lb/><term type="plant_foodstuff">bitter water melon</term> - In
 <lb/>years when <seg type="weather">more than the
@@ -4242,7 +4242,7 @@ The compact they enter into is
 <lb/>desert may settle the point
 <lb/>whether it is possessed or
 <lb/>not by a poisoned arrow - 
-	<lb/><add place="marginleft" hand="#U2" rend="gray"><note><hi rend=" underline"><persName ref="people.xml#pers0274"><unclear cert="low">Carp</unclear></persName></hi></note></add> <metamark function="newParagraph">#</metamark><!-- this is the proofcorrection mark for insert space, but here  signals a new paragraph. --> The dread of visits from <term type="tribe">Bechuanas</term>
+<lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0274"><unclear cert="low">Carp</unclear></persName> <metamark function="placeMark"/></note></add> <metamark function="newParagraph">#</metamark><!-- this is the proofcorrection mark for insert space, but here  signals a new paragraph. --> The dread of visits from <term type="tribe">Bechuanas</term>
 <lb/>of strange tribes causes the
 <lb/><term type="tribe">Bakalahari</term> to choose their
 <lb/>residences far from water - 
@@ -4506,8 +4506,8 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <pb facs="liv_000099_0114" n="0114"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">107</add> <add place="inspace" hand="#U1" rend="gray right">110</add></fw>
 <lb/>water which <retrace rend="red" hand="#U3"><metamark function="reorder" rend="gray" resp="#U2" spanTo="#meta-42"/></retrace><seg corresp="#reorder-17">had we not
-<lb/><metamark function="transposition" place="marginleft" rend="gray" resp="#U2"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> driven them away</seg><anchor xml:id="meta-42"/> would
-<lb/><metamark function="transposition" place="marginleft" rend="red" resp="#U3"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> have been quickly lapped
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note><metamark function="transposition"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark></note></add> driven them away</seg><anchor xml:id="meta-42"/> would
+<lb/><add place="marginleft" rend="red" resp="#U3"><note><metamark function="transposition"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark></note></add> have been quickly lapped
 <lb/>up by our <term type="animal">dogs</term> <metamark function="insertion" rend="red" resp="#U3"/><metamark function="insertion" rend="gray" resp="#U2"/><anchor xml:id="reorder-17"/> - And yet
 <lb/>this was all the apparent
 <lb/>supply for some <del type="cancelled">70 or</del> 80 <term type="animal">oxen</term>,
@@ -4609,7 +4609,7 @@ sufficient for <hi rend="red underline" resp="#U3"><term type="animal">oxen</ter
 <lb/><add place="marginleft" hand="#U3" rend="red">supplying</add> <del type="strikethrough" hand="#U3" rend="red">supplied</del> the river<add place="above" hand="#U3" rend="red">'</add>s flow<add place="inline" hand="#U3" rend="red">,</add>
 <lb/>now no longer run above
 <lb/>the surface - </p>
-				<lb/><p><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName ref="people.xml#pers0274"><unclear cert="low">Carp</unclear></persName></note></hi></add><!-- same name as on 0107.JL --> Here though the water was
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0274"><unclear cert="low">Carp</unclear></persName> <metamark function="placeMark"/></note></add><!-- same name as on 0107.JL --> Here though the water was
 <lb/>perfectly inaccessible to
 <lb/><term type="animal">Elands</term> large numbers
 <lb/>of these fine animals fed
@@ -4778,7 +4778,7 @@ succeeded in raising
 <lb/>he knew to be directly opposed
 <lb/>to the interests of his own <term type="occupation">chief</term>
 <lb/>and tribe - </p>
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><unclear cert="medium"><persName ref="people.xml#pers0281">Coultait</persName></unclear></note></hi></add><!-- another editing word that would be benefit from being seen on the original page, ks --> All around <placeName><geogName type="fountain">Serotli</geogName></placeName> the country
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><unclear cert="medium"><persName ref="people.xml#pers0281">Coultait</persName></unclear> <metamark function="placeMark"/></note></add><!-- another editing word that would be benefit from being seen on the original page, ks --> All around <placeName><geogName type="fountain">Serotli</geogName></placeName> the country
 <lb/>is perfectly flat &amp; composed
 <lb/>of soft white sand - There is
 <lb/>a <seg type="weather">peculiar glare of <w><subst><del>wh</del><add place="over-text">br</add></subst>ight</w> <w>sun<supplied>-</supplied>
@@ -4925,7 +4925,7 @@ But there is
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">117</add> <add place="inspace" hand="#U1" rend="gray right">120</add></fw>   
 <lb/><term type="occupation">itinerant butcher</term> to good account</p>
 <lb/>
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0497">Robinson</persName></hi></note></add> The water <retrace hand="#U3" rend="red"><add place="below" hand="#U2" rend="gray">^</add></retrace> <retrace hand="#U3" rend="red"><add place="above" hand="#U2" rend="gray">having</add></retrace> at last flowed
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0497">Robinson</persName> <metamark function="placeMark"/></note></add> The water <retrace hand="#U3" rend="red"><add place="below" hand="#U2" rend="gray">^</add></retrace> <retrace hand="#U3" rend="red"><add place="above" hand="#U2" rend="gray">having</add></retrace> at last flowed
 <lb/>into the wells we had dug in
 <lb/>sufficient quantity to allow
 <lb/>a good drink to all our
@@ -5021,7 +5021,7 @@ But there is
     <lb/>search of</add>
 <del type="cancelled">away back to <placeName><geogName type="fountain">Serotli</geogName></placeName>,</del>
 <lb/>viewed the operation of
-<lb/><add place="marginleft" hand="#U2" rend="gray"><seg rend="vertical"><note><hi rend="underline"><unclear cert="medium">obscure</unclear></hi></note></seg></add> <metamark function="query" place="marginleft" rend="red" resp="#U3"><hi rend="double-underline"><choice><abbr>Qu</abbr><expan>Query</expan></choice></hi></metamark> slaughtering <add place="below">^</add> <add place="above">skinning &amp; cutting up</add> the <del type="cancelled" hand="#DL"><del type="cancelled" hand="#U3" rend="red"><term type="animal">düiker</term></del></del> <del type="cancelled">and</del>
+<lb/><add place="marginleft" hand="#U2" rend="gray"><note><seg rend="vertical"><hi rend="underline">obscure</hi></seg> <space extent="2" unit="chars"/><metamark function="query" rend="red" resp="#U3"><hi rend="double-underline"><choice><abbr>Qu</abbr><expan>Query</expan></choice></hi></metamark></note></add>  slaughtering <add place="below">^</add> <add place="above">skinning &amp; cutting up</add> the <del type="cancelled" hand="#DL"><del type="cancelled" hand="#U3" rend="red"><term type="animal">düiker</term></del></del> <del type="cancelled">and</del>
 <lb/><add place="marginleft"><add place="below">˄</add> <add place="above"><term type="animal">antelope</term></add> then</add> after a hard day's toil found
 <lb/>himself close upon the waggons
 <lb/>The knowledge <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-24"/> of this trackless
@@ -5167,7 +5167,7 @@ But there is
 <lb/>sight of the latter she burst
 <lb/>into a merry laugh and
 <lb/>remained without suspicion</p>
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0274"><unclear cert="low">Carp</unclear></persName></hi></note></add> At <placeName><geogName type="pan">Nchokotsa</geogName></placeName> we came
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0274"><unclear cert="low">Carp</unclear></persName> <metamark function="placeMark"/></note></add> At <placeName><geogName type="pan">Nchokotsa</geogName></placeName> we came
 <lb/>upon the first of a great
 <lb/>number of salt pans
 <lb/>covered with an <w>eff<add place="inline" hand="#U3" rend="red">l</add>orescence</w>
@@ -5279,13 +5279,13 @@ But there is
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">126</add> <add place="inspace" hand="#U1" rend="gray right">129</add></fw>
 <lb/><del type="strikethrough" hand="#U3" rend="red">and by</del> following it we should
 <lb/>at last reach the broad water - </p>
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><unclear cert="high"><persName ref="people.xml#pers0572">Wilkes</persName></unclear></hi></note></add> Next day when we were
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><unclear cert="high"><persName ref="people.xml#pers0572">Wilkes</persName> <metamark function="placeMark"/></unclear></note></add> Next day when we were
 <lb/>quite disposed to be friendly
 <lb/>with every one, two of the
 <lb/><term type="tribe">Bamangwato</term>, who had
 <lb/>been sent on before us
-                    <lb/>by <persName ref="people.xml#pers0520">Sekomi</persName> to drive away
-                    <lb/>all the <orgName ref="orgName.xml#org0041">Bushmen</orgName> and
+<lb/>by <persName ref="people.xml#pers0520">Sekomi</persName> to drive away
+<lb/>all the <orgName ref="orgName.xml#org0041">Bushmen</orgName> and
 <lb/><term type="tribe">Bakalahari</term> from our path,
 <lb/>came and sat down by our
 <lb/>fire - We had seen their footsteps
@@ -5293,10 +5293,10 @@ But there is
 <lb/>watched our slow movements
 <lb/>forward, and wondered to
 <lb/>see how we, without any
-                    <lb/><orgName ref="orgName.xml#org0041">bushmen</orgName>, found our way
+<lb/><orgName ref="orgName.xml#org0041">bushmen</orgName>, found our way
 <lb/>to the waters - This was the
 <lb/>first time <hi rend="underline">they</hi> had seen
-                    <lb/><persName ref="people.xml#pers0489">Ramotobi</persName> - "You have reached
+<lb/><persName ref="people.xml#pers0489">Ramotobi</persName> - "You have reached
 <lb/>the river now", said they;
 <lb/>and we<add place="inline" hand="#U3" rend="red">,</add> quite disposed to laugh
 <lb/>as having won the game, felt
@@ -5371,7 +5371,7 @@ But there is
 <lb/>which they specially love to
     <lb/>dwell. <del type="strikethrough">-</del> <!--see note above, ks--><!-- see also my note above.JL --> They are thus the <orgName ref="orgName.xml#org0076">Quakers</orgName>
 <lb/>of the body politic in <placeName><bloc>Africa</bloc></placeName> - </p>
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><hi rend="underline"><note><persName ref="people.xml#pers0497">Robinson</persName></note></hi></add><!-- the underlining could also be a proofcorrection mark to mark the editor's place in the text.JL --> <add place="inline" hand="#U3" rend="red">A </add> <del type="cancelled" hand="#U3" rend="red">(</del> Long <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">time</add> after <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">the period of our visit</add> <del type="strikethrough" hand="#U3" rend="red">this</del> the
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0497">Robinson</persName> <metamark function="placeMark"/></note></add><!-- the underlining could also be a proofcorrection mark to mark the editor's place in the text.JL --> <add place="inline" hand="#U3" rend="red">A </add> <del type="cancelled" hand="#U3" rend="red">(</del> Long <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">time</add> after <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">the period of our visit</add> <del type="strikethrough" hand="#U3" rend="red">this</del> the
 <lb/><term type="occupation">chief</term> of the Lake, thinking to
 <lb/>make <term type="occupation">soldiers</term><!-- there is evidence of a word beneath soldiers, but it is illegible.JL --> of them, took
 <lb/>the trouble to furnish them
@@ -5381,7 +5381,7 @@ But there is
 <lb/>succumbed. <del type="strikethrough">-</del> <hi rend="double-underline">N</hi>ow we will
 <lb/>fight - " <hi rend="double-underline">B</hi>ut a marauding
 <lb/>party came from the <term type="tribe">Makololo</term>,
-<lb/><metamark function="transposition" place="marginleft" rend="red" resp="#U3"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark> and our <add place="below">^</add> <add place="above">"Friends"</add> <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-27"/> <choice><sic>scouried</sic><corr>scurried</corr></choice> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-53"/><seg corresp="#reorder-27">at once</seg><anchor xml:id="meta-53"/>
+<lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="transposition"><choice><abbr>tr</abbr><expan>transpose</expan></choice></metamark></note></add> and our <add place="below">^</add> <add place="above">"Friends"</add> <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-27"/> <choice><sic>scouried</sic><corr>scurried</corr></choice> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-53"/><seg corresp="#reorder-27">at once</seg><anchor xml:id="meta-53"/>
 <lb/>away down the <placeName><geogName type="river">Zouga</geogName></placeName>, <del type="strikethrough">-</del>  never
 <lb/><add place="marginleft">daring to</add> <del type="strikethrough">once</del> look<del type="strikethrough">ing</del> behind them
 <lb/>till they reached the end <del type="strikethrough">of it</del>
@@ -6486,7 +6486,7 @@ low scrub in deep sand  - <del type="cancelled">We</del>
 <lb/>the <term type="animal">oxen</term> and they apparently
 <lb/>knowing the sign rushed
 <lb/>along to find the water in
-<lb/><add place="marginleft" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> meaning</note></del></add> <del type="cancelled" hand="#DL"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-230"/></del>the <placeName><geogName type="river">River Mababe</geogName></placeName><anchor xml:id="meta-230"/> <add place="marginleft"><metamark function="insertion"/>which comes
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> meaning</note></del></add> <del type="cancelled" hand="#DL"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-230"/></del>the <placeName><geogName type="river">River Mababe</geogName></placeName><del type="cancelled" hand="#DL"><anchor xml:id="meta-230"/></del> <add place="marginleft"><metamark function="insertion"/>which comes
 	<lb/>from the
 	<lb/><placeName><geogName type="river">Tamunakle</geogName></placeName>
 	<lb/>and lay to 
@@ -7590,11 +7590,11 @@ The <term type="tribe">Makololo</term>
     <lb/>are so deleterious
     <lb/>to human life
     <lb/>that the original
-    <lb/><term type="tribe"><choice><orig>Basutus</orig><reg>Basutos</reg></choice></term></add>
+<lb/><term type="tribe"><choice><orig>Basutus</orig><reg>Basutos</reg></choice></term></add>
 <del type="cancelled" hand="#DL"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-73"/></del>had nearly all been cut off
 <lb/>by the <term type="ailment">fever</term> I <add place="below">^</add> <add place="above">therefore</add> feared to
 <lb/>subject my family to
-<lb/>the scourge - <anchor xml:id="meta-73"/></p>
+    <lb/>the scourge - <del type="cancelled" hand="#DL"><anchor xml:id="meta-73"/></del></p>
 <lb/><p>As we were the very first
 <lb/>white men the inhabitants
 <lb/>had ever seen<add place="inline" hand="#U3" rend="red">,</add> we were
@@ -10110,7 +10110,7 @@ for their
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">212</add> <add place="inspace" rend="gray right" hand="#U1">252</add></fw>
 <lb/>of our enemies but altogether
 <lb/>inappropriate for our
-<lb/><metamark function="ed-mark" place="marginleft" resp="#U2" rend="gray">X --</metamark> friends against whom
+<lb/><metamark function="ed-mark" place="marginleft" resp="#U2" rend="gray">X</metamark> friends against whom
 <lb/>it has been applied, Such
 <lb/>an error could not have
 <lb/>been committed by a man
@@ -10180,7 +10180,7 @@ for their
 
     <pb facs="liv_000099_0262" n="0262"/>    
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">214</add> <add place="inspace" rend="gray right" hand="#U1">254</add></fw>
-    <lb/><add place="marginleft"><seg rend="vertical"><note><hi rend="underline"><persName ref="people.xml#pers0284">Cross</persName></hi></note></seg></add> We can not fairly compare
+<lb/><add place="marginleft" rend="gray" hand="#U2"><seg rend="vertical"><note><persName ref="people.xml#pers0284">Cross</persName></note> <metamark function="placeMark"/></seg></add> We can not fairly compare
 <lb/>these poor people with <w>our-
 <lb break="no"/>-selves</w> who have an atmosphere
 <lb/>of <term type="faith">Christianity</term> and enlightened
@@ -10340,7 +10340,7 @@ for their
 <lb/>they are really <add place="above">true</add> believers" - This
 <lb/>testimony may be considered as
 <lb/>about correct - <del type="cancelled">The</del></p>
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><hi rend="underline"><persName ref="people.xml#pers0572">Wilkes</persName></hi></note></add> There is not much prospect 
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0572">Wilkes</persName> <metamark function="placeMark"/></note></add> There is not much prospect 
 <lb/>of this country ever producing
 <lb/>much of the materials of
 
@@ -10670,7 +10670,7 @@ It <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="#U3
 <lb/>along his nerves<add place="inline" rend="red" hand="#U3">,</add> as soon
 <lb/>as he had taken a <add place="below" hand="U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">single</add> glass<subst><del hand="#U3">,</del><add place="over-text" hand="#U3" rend="red">ful.</add></subst>
 <lb/>the cure was instantaneous
-<lb/><del type="strikethrough"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu.</abbr><expan>Query</expan></choice>)</metamark></del> and complete - I had always
+<lb/><del type="strikethrough"><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query" ><choice><abbr>Qu.</abbr><expan>Query</expan></choice>)</metamark></note></add></del> and complete - I had always
 <lb/>to regret want of opportunity
 <lb/><add place="marginleft" hand="#U3" rend="red">for</add> <del type="strikethrough" hand="#U3" rend="red">to</del> <choice><sic>investigate<add place="inline" hand="#U3" rend="red">ing</add></sic><corr>investigating</corr></choice> this remarkable
 <lb/>and yet <choice><orig>controullable</orig><reg>controllable</reg></choice> agent
@@ -11884,8 +11884,8 @@ become as strongly
 <lb/>I <subst><del type="cancelled">did not</del><add place="above">never</add></subst> <add place="below">˄</add> <add place="above"><choice><sic>never</sic><corr/></choice></add> enquired the name
 <lb/>but I have no doubt that 
 <lb/>it exists in the language,
-    <lb/><del type="cancelled" hand="DL"><metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-95"/></del><persName ref="people.xml#pers0312">Otto Von Guerrike</persName> is said by
-    <lb/><persName ref="people.xml#pers0326">Baron Humbolt</persName> to have
+<lb/><del type="cancelled" hand="DL"><metamark function="flag" rend="gray" resp="#U2" spanTo="#meta-95"/></del><persName ref="people.xml#pers0312">Otto Von Guerrike</persName> is said by
+<lb/><persName ref="people.xml#pers0326">Baron Humbolt</persName> to have
 <lb/>been th<supplied cert="high">e</supplied> first that ever
 <lb/>observed this effect in <add place="marginleft"><metamark function="insertion"/><placeName><bloc>Europe</bloc></placeName></add>
 <lb/>while the phenomenon had
@@ -11898,7 +11898,7 @@ become as strongly
 <lb/>in reference to the physical
 <lb/>operations of the Universe
 <lb/>as it <add place="below">˄</add> <add place="above">once</add> did in <placeName><country>England</country></placeName>
-    <lb/><add place="marginleft" hand="#U2" rend="gray"><metamark function="ed-mark" rend="red" resp="#U3">X.</metamark> <space extent="3" unit="chars"/><del type="cancelled" hand="#DL"><seg rend="vertical"><note><persName ref="people.xml#pers0334">JM</persName></note></seg></del></add><!-- initials added. Possibly John Murray.JL --> <del type="cancelled">before the time of</del> <add place="below" rend="red" hand="#U3">------------</add>
+<lb/><add place="marginleft" hand="#U2" rend="gray"><metamark function="ed-mark" rend="red" resp="#U3">X.</metamark> <space extent="3" unit="chars"/><del type="cancelled" hand="#DL"><seg rend="vertical"><note><persName ref="people.xml#pers0334">JM</persName></note></seg></del></add><!-- initials added. Possibly John Murray.JL --> <del type="cancelled">before the time of</del> <add place="below" rend="red" hand="#U3">------------</add>
 <lb/>No science was developed
 <lb/>and few questions were
 <lb/>ever discussed except
@@ -11921,7 +11921,8 @@ become as strongly
 <lb/><placeName><geogName type="cave">Lepelole</geogName></placeName>, It is an interesting evidence of the
 <lb/>former existence of a gushing fountain
 <lb/>No one dared <add place="above">to enter <del type="cancelled">into</del></add> <del type="cancelled">go near the <unclear cert="medium"><placeName><geogName type="cave"><choice><sic>Lohahen</sic><corr>Lohaheng</corr></choice></geogName></placeName></unclear> or the</del> 
-<lb/><add place="above">the <placeName><geogName type="cave">Lohaheng</geogName></placeName></add> or cave for <add place="below" rend="red" hand="#U3">^</add> <metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> <add place="margintop" hand="#U3" rend="red"><add place="below">^</add> <metamark function="ed-mark" place="above">x</metamark> it was the common belief that</add> God was there, As we never
+<lb/><add place="above">the <placeName><geogName type="cave">Lohaheng</geogName></placeName></add> or cave for <add place="below" rend="red" hand="#U3">^</add> <metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> <add place="margintop" hand="#U3" rend="red"><add place="below">^</add> <metamark function="ed-mark" place="above">x</metamark> it was the common belief that</add> 
+    <lb/>God was there, As we never
 <lb/>had a holiday from <date when="1852-01">January</date> to <del type="strikethrough"><date when="1852-09">September</date></del>
 <lb/><date when="1852-12">December</date> and our Sundays were 
 <lb/>the <del type="strikethrough">th</del> periods of our greatest exertions
@@ -12173,7 +12174,7 @@ no longer <subst><add place="above">necessary</add><del type="cancelled">desirab
 <lb/><del type="cancelled">that <term type="foodstuff">milk</term> could be brought back to</del> 
 <lb/>a breast which in consequence of
 <lb/><term type="ailment">inflammation</term> or <term type="ailment">sore nipples</term> had
-<lb/>been allowed to dry <del type="strikethrough">up</del><anchor xml:id="meta-101"/> Probably the
+<lb/>been allowed to dry <del type="strikethrough">up</del><del type="cancelled"><anchor xml:id="meta-101"/></del> Probably the
 <lb/>story in the "<bibl>Cloud of Witnesses</bibl>" of a man
 <lb/>during the time of persecution in <placeName><country>Scotland</country></placeName>
 <lb/>putting his child to his own breast
@@ -12612,7 +12613,7 @@ answer
 <lb/><add place="marginleft">lady an</add> <term type="animal">ox</term> or <del type="strikethrough">a</del> <term type="animal">goat</term> or <term type="animal">sheep</term> according
 <lb/>to his means - <del type="cancelled" hand="#DL"><del type="strikethrough" rend="red" hand="#U3">No further</del></del>
 <lb/><add place="marginleft" hand="#U3" rend="red"><del type="strikethrough" hand="#DL"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> omit</note></del></add> <del type="cancelled"><metamark function="flag" place="marginleft" rend="red" resp="#U3" spanTo="#meta-107"/></del><del type="cancelled" hand="#DL"><del type="strikethrough" rend="red" hand="#U3">intercourse is supposed to take
-<lb/>place till the child is weaned</del></del><anchor xml:id="meta-107"/></p>
+<lb/>place till the child is weaned</del></del><del type="cancelled"><anchor xml:id="meta-107"/></del></p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> My knowledge of
 <lb/>obstetrics procured for me
 <lb/><del type="cancelled">a</del> great fame in a line
@@ -12949,7 +12950,7 @@ make a very agreeable dish
 <lb/>covering up the eggs she
 <lb/>leaves them <del type="strikethrough" rend="red" hand="#U3">covered</del> <del type="cancelled">up</del> <w>unti<del type="cancelled">l</del>l</w>
 <lb/>the rains begin to fall and
-    <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName  ref="people.xml#pers0497"><hi rend="double-underline">Robinson</hi></persName></note></add> the fresh herbage <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>appears - 
+<lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName  ref="people.xml#pers0497">Robinson</persName> <metamark function="placeMark"/></note></add> the fresh herbage <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark>appears - 
 <lb/>The young ones then come
 <lb/>out - their shells still quite soft
 <lb/>and unattended by their dams
@@ -13198,7 +13199,7 @@ was bitten <del type="cancelled">by the</del>
 <lb/><add place="inline" corresp="#add-2"><metamark function="insertion"/>This seems characteristic of the
 <lb/>feline species - When a <term type="animal">goat</term> is
 <lb/><choice><sic>picketted</sic><corr>picketed</corr></choice> in <placeName><country>India</country></placeName> for the
-<lb/><del type="cancelled"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu</abbr><expan>Query</expan></choice>)</metamark></del> purpose of enabling the <term type="occupation">huntsman</term> to
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><note><metamark function="query" ><choice><abbr>Qu</abbr><expan>Query</expan></choice>)</metamark></note></del></add> purpose of enabling the <term type="occupation">huntsman</term> to
 <lb/>shoot <subst><del type="strikethrough" hand="#U3" rend="red">him</del><add place="above" hand="#U3" rend="red">a <term type="animal">tiger</term></add></subst> by night if on a plain he
 <lb/>would whip off the animal so quickly
 <lb/>by a stroke of the paw <add place="below" rend="red" hand="#U3">^</add> <add place="above" hand="#U3" rend="red">that</add> no one could
@@ -13252,8 +13253,8 @@ was bitten <del type="cancelled">by the</del>
 <lb/><add place="marginleft" hand="#U3" rend="red">He only escaped by</add> <w>spring<add place="inline" hand="#U3" rend="red">ing</add></w> up a tree like a
 <lb/><term type="animal">cat</term> - On <choice><sic>Another</sic><corr>another</corr></choice> occasion
 <lb/>a man on <term type="animal">horse</term>back
-<lb/><del type="cancelled" hand="#U2" rend="gray"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></del> found a <term type="animal">lion<add place="below">^</add><add place="above">ess</add></term> spring on the
-    <lb/>after quarter of <del type="strikethrough" hand="#U2" rend="gray">his</del> <add place="below" rend="gray" hand="#U2">^</add> <add place="marginleft"><hi rend="red underline" resp="#U3"><choice><sic><persName ref="people.xml#pers0466">Mr Oswel</persName>'s</sic><corr><persName>Mr Oswell</persName>'s</corr></choice></hi> <add place="below">^</add></add> <term type="animal">horse</term>
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="cancelled" hand="#U2" rend="gray"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></note></del></add> found a <term type="animal">lion<add place="below">^</add><add place="above">ess</add></term> spring on the
+<lb/>after quarter of <del type="strikethrough" hand="#U2" rend="gray">his</del> <add place="below" rend="gray" hand="#U2">^</add> <add place="marginleft"><hi rend="red underline" resp="#U3"><choice><sic><persName ref="people.xml#pers0466">Mr Oswel</persName>'s</sic><corr><persName>Mr Oswell</persName>'s</corr></choice></hi> <add place="below">^</add></add> <term type="animal">horse</term>
 <lb/><add place="marginleft">but</add> <del type="cancelled">and</del> turning round <add place="below">^</add> <add place="above">he</add> shot
 <lb/>him dead in the neck - 
 <lb/>By accident <del type="strikethrough" hand="#U3" rend="red">the</del> <add place="inline" hand="#U3" rend="red">a</add> <term type="animal">horse</term>
@@ -13832,11 +13833,11 @@ and others which appear
 <lb/>ought to be made for passage through
 <lb/>a country</p>
 <lb/><p rend="left">In this town I was once a spectator
-<lb/><del type="cancelled"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark></del> <del type="cancelled"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-125"/></del>of <metamark function="let-stand" spanTo="#meta-126"/><del type="strikethrough" hand="#U3" rend="red">the second part of</del><anchor xml:id="meta-126"/> the ceremony <metamark function="let-stand" spanTo="#meta-127"/><del type="strikethrough" hand="#U3" rend="red">of</del><anchor xml:id="meta-127"/> the
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><note><metamark function="query" ><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark></note></del></add> <del type="cancelled"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-125"/></del>of <metamark function="let-stand" spanTo="#meta-126"/><del type="strikethrough" hand="#U3" rend="red">the second part of</del><anchor xml:id="meta-126"/> the ceremony <metamark function="let-stand" spanTo="#meta-127"/><del type="strikethrough" hand="#U3" rend="red">of</del><anchor xml:id="meta-127"/> the
 <lb/><metamark function="let-stand" spanTo="#meta-128"/><del type="cancelled">circumcision</del><anchor xml:id="meta-128"/> <add place="below">^</add> <add place="above">(<foreign xml:lang="tn">Boguera</foreign>) <del type="cancelled"><unclear cert="medium">or ci</unclear></del></add> - called "<foreign xml:lang="tn">Sechu</foreign><add place="below">(</add>.<add place="below">)</add>"  Just at the
 <lb/>dawn of day a row of boys of <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">nearly</add> fourteen
-<lb/><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> years of age <add place="below">^</add> <add place="above"><del type="strikethrough" hand="#U3" rend="red">nearly</del></add> stood <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">naked</add> in the <foreign xml:lang="tn">Kotla</foreign>, each
-<lb/>having a pair of sandals as a shield on<anchor xml:id="meta-125"/>
+<lb/><add place="marginleft" rend="red" resp="#U3"><note><metamark function="query" ><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark></note></add> years of age <add place="below">^</add> <add place="above"><del type="strikethrough" hand="#U3" rend="red">nearly</del></add> stood <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">naked</add> in the <foreign xml:lang="tn">Kotla</foreign>, each
+<lb/>having a pair of sandals as a shield on<del type="cancelled"><anchor xml:id="meta-125"/></del>
 
     <pb facs="liv_000099_0358" n="0358"/>                           
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">91</add> <add place="inspace" hand="#U1" rend="gray right">337</add> <add place="inspace" hand="#U2" rend="gray right">19</add></fw>   
@@ -13890,7 +13891,7 @@ and others which appear
 <lb/>adopting that means of testing
 <lb/>superiority, like so many children - </p>
 <lb/><p>The <foreign xml:lang="tn">Sechu</foreign> is practised by
-<lb/><del type="cancelled"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></del> three tribes only - <add place="above"><metamark function="insertion"/><foreign xml:lang="tn">Boguera</foreign></add> <metamark function="let-stand" spanTo="#meta-129"/><del type="cancelled">(Circumcision)</del><anchor xml:id="meta-129"/> is
+<lb/><add place="marginleft" rend="red" resp="#U3"><del type="cancelled" hand="#DL"><note><metamark function="query" ><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></note></del></add> three tribes only - <add place="above"><metamark function="insertion"/><foreign xml:lang="tn">Boguera</foreign></add> <metamark function="let-stand" spanTo="#meta-129"/><del type="cancelled">(Circumcision)</del><anchor xml:id="meta-129"/> is
 <lb/>observed by all the <term type="tribe">Bechuanas</term> and
     <lb/><orgName ref="orgName.xml#org0042">Caffres</orgName>, but not by the negro tribes
 <lb/><measure>beyond 20˚ South</measure> <add place="inline">(</add>-<add place="inline">)</add> <w><hi rend="double-underline">I</hi>t</w> is named
@@ -13977,7 +13978,7 @@ act under the <term type="occupation">chief</term>'s
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">93</add> <add place="inspace" hand="#U1" rend="gray right">339</add></fw>
 <lb/> individual I ever met boasted
 <lb/>he had seen eleven sets of
-<lb/><del type="cancelled"><metamark function="query" place="marginleft" resp="#U3" rend="red"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark></del> <del type="cancelled"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-246"/></del> boys submit to the <add place="marginleft"><metamark function="insertion"/><foreign xml:lang="tn">Boguera</foreign> (circumcision),</add> <del type="cancelled">circumcision</del><anchor xml:id="meta-246"/>
+<lb/><add place="marginleft" hand="#U3" rend="red"><del type="cancelled" hand="#DL"><note><metamark function="query" ><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark></note></del></add> <del type="cancelled"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-246"/></del> boys submit to the <add place="marginleft"><metamark function="insertion"/><foreign xml:lang="tn">Boguera</foreign> (circumcision),</add> <del type="cancelled">circumcision</del><del type="cancelled"><anchor xml:id="meta-246"/></del>
 <lb/><choice><abbr>i-e</abbr><expan>id est</expan></choice> he must have been <del type="cancelled">fifty</del>
 <lb/><add place="marginleft">forty</add> when he saw the fifth <add place="inline">(</add>-<add place="inline">)</add> It is
 <lb/>an ingenious plan for <del type="cancelled">fixing</del>
@@ -13998,7 +13999,7 @@ act under the <term type="occupation">chief</term>'s
 <lb/>only <foreign xml:lang="tn">basimane pueri</foreign> - boys<add place="below">(</add>.<add place="below">)</add><!-- full stop is circled.JL -->
 <lb/>The first <term type="occupation">missionaries</term>
 <lb/>set their faces against
-            <lb/>the <foreign xml:lang="und">Boguera</foreign> on account
+<lb/>the <foreign xml:lang="und">Boguera</foreign> on account
 <lb/>of its connection with
 <lb/>heathenism, and the fact
 <lb/>that <choice><sic>they</sic><corr>the</corr></choice> youth learned
@@ -14096,7 +14097,7 @@ The <hi rend="red underline" resp="#U3">latter tribe</hi> <add place="below">^</
 <lb/>form of this formation
 <lb/><del type="cancelled"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-131"/></del> <add place="marginleft" rend="red" hand="#U3"><note><del type="cancelled" hand="#DL"><metamark function="ed-mark">X</metamark> <metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></del></note></add> The tops of the columns are
 <lb/>quite distinct<add place="inline" rend="red" hand="#U3">,</add> of the hexagonal
-<lb/>form like the <add place="marginleft"><metamark function="insertion"/>bottom of the</add> cells of a<anchor xml:id="meta-131"/>
+<lb/>form like the <add place="marginleft"><metamark function="insertion"/>bottom of the</add> cells of a<del type="cancelled"><anchor xml:id="meta-131"/></del>
 <lb/>
 <lb/>honeycomb - but they are
 <lb/>not parted from each
@@ -14148,7 +14149,7 @@ the <choice><sic>antient</sic><corr>ancient</corr></choice>
 <lb/>and like all the recent 
 <lb/>volcanic rocks have a
 <lb/>hot fountain in their
-<lb/><del type="cancelled" hand="#U3" rend="red"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark> <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-251"/></del>vicinity<add place="inline" rend="red" hand="#U3">;</add> <choice><abbr>viz</abbr><expan>videlicet</expan></choice> - <placeName><geogName type="fountain">Serinane</geogName></placeName><anchor xml:id="meta-251"/>
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="cancelled"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></note></del></add> <del type="cancelled" rend="red" hand="#U3"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-251"/></del>vicinity<add place="inline" rend="red" hand="#U3">;</add> <choice><abbr>viz</abbr><expan>videlicet</expan></choice> - <placeName><geogName type="fountain">Serinane</geogName></placeName><del type="cancelled" rend="red" hand="#U3"><anchor xml:id="meta-251"/></del>
 
     <pb facs="liv_000099_0366" n="0366"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right"><subst><del hand="#U1">6</del><add place="over-text" hand="#U1" rend="gray">344</add></subst></add></fw>
@@ -14158,8 +14159,8 @@ the <choice><sic>antient</sic><corr>ancient</corr></choice>
 <lb break="no"/>-loñwe</orig><reg>Manakalongwe</reg></choice></geogName></placeName> <del type="cancelled">pass</del> or <placeName><geogName type="pass">Unicorn<add place="above" rend="red" hand="#U3">'</add>s pass</geogName></placeName> <add place="inline" rend="red" hand="#U3">-</add>
 <lb/>The <term type="insect"><term type="foodstuff">Unicorn</term></term> here <add place="above" rend="red" hand="#U3">is</add> <del type="strikethrough">meaning</del>
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>98</note></add> a large edible <term type="insect"><term type="foodstuff">caterpillar</term></term>
-<lb/><del type="strikethrough"><metamark function="query" place="marginleft" rend="red" resp="#U3"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></del> with an erect horn like tail
-<lb/><metamark function="ed-mark" place="marginleft" rend="red" resp="#U3">X</metamark> <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-132"/>It was also called <placeName><geogName type="pass">Porapora</geogName></placeName>
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="strikethrough" hand="#DL"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></note></del></add> with an erect horn like tail
+<lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="ed-mark">X</metamark></note></add> <metamark function="flag" rend="red" resp="#U3" spanTo="#meta-132"/>It was also called <placeName><geogName type="pass">Porapora</geogName></placeName>
 <lb/>or gurgling (of water) from a
 <lb/>stream having run through it<anchor xml:id="meta-132"/>
 <lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark>
@@ -14245,7 +14246,7 @@ but when you travel
 <lb/>make the clothing and
 <lb/>in some respects resemble
 <lb/>a nation of <term type="occupation">tailors</term></p>
-                <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><hi rend="underline"><persName ref="people.xml#pers0290">Dennett</persName></hi></note></add> When at <persName ref="people.xml#pers0520">Sekomi</persName>'s we
+<lb/><p><add place="marginleft" rend="gray" hand="#U2"><note><persName ref="people.xml#pers0290">Dennett</persName> <metamark function="placeMark"/></note></add> When at <persName ref="people.xml#pers0520">Sekomi</persName>'s we
 <lb/> generally have heard his praises
 <lb/>sounded by a man who
 <lb/>rises at break of day and
@@ -14376,7 +14377,7 @@ but when you travel
 <lb/>now find an equal number
 <lb/>for <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-134"/><seg corresp="#reorder-51"><add place="below">^</add> all these fine animals
 <lb/>melt away</seg><anchor xml:id="meta-134"/> as guns are
-<lb/><metamark function="transposition" place="marginleft" rend="red" resp="#U3"><choice><abbr>tr:</abbr><expan>transpose</expan></choice></metamark> introduced <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-51"/> like snow in
+<lb/><add place="marginleft" rend="red" hand="#U3"><note><metamark function="transposition"><choice><abbr>tr:</abbr><expan>transpose</expan></choice></metamark></note></add> introduced <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-51"/> like snow in
 <lb/>spring - Where fire arms
 <lb/>have not yet been introduced
 <lb/>the game<add place="inline" hand="#U2" rend="gray">,</add> with the single
@@ -14448,8 +14449,8 @@ but when you travel
 
     <pb facs="liv_000099_0374" n="0374"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">352</add></fw>
-                <lb/><p><add place="marginleft" hand="#U2" rend="gray"><seg rend="vertical"><hi rend="underline"><note><persName ref="people.xml#pers0497">Robinson</persName></note></hi></seg></add> Some wells east beyond <del type="strikethrough">Kann</del>
-                    <lb/><placeName><settlement type="village" ref="settlement.xml#sett0067">Letloche</settlement></placeName> at a spot named <placeName><geogName type="well">Kanne</geogName></placeName>
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><seg rend="vertical"><note><persName ref="people.xml#pers0497">Robinson</persName> <metamark function="placeMark"/></note></seg></add> Some wells east beyond <del type="strikethrough">Kann</del>
+<lb/><placeName><settlement type="village" ref="settlement.xml#sett0067">Letloche</settlement></placeName> at a spot named <placeName><geogName type="well">Kanne</geogName></placeName>
 <lb/>we found them carefully hedged
 <lb/>round by the people of a
 <lb/><add place="marginleft" rend="gray" hand="#U2"><note>106</note></add> <term type="people"><term type="tribe">Bakalahari</term></term> village situated
@@ -14460,7 +14461,7 @@ but when you travel
 <lb/>sand - There is one sucking
 <lb/>place<add place="inline" rend="red" hand="#U3">,</add> around which was
 <lb/>congregated great numbers
-                    <lb/>of <orgName ref="orgName.xml#org0041">bushwomen</orgName> with their
+<lb/>of <orgName ref="orgName.xml#org0041">bushwomen</orgName> with their
 <lb/>eggshells and reeds - <placeName><geogName type="well">Mathuluane</geogName></placeName>
 <lb/>now contained no water
 <lb/>and <placeName><geogName type="well">Motlatsa</geogName></placeName> only a <subst><del><unclear cert="low">lit</unclear></del><add place="above">small</add></subst> supply
@@ -14713,7 +14714,7 @@ When caught they
 <lb/>is of dark brownish grey
 <lb/>colour and so are the
 <lb/>half grown <term type="animal">cocks</term> - </p>
-<lb/><p><add place="marginleft" hand="#U2" rend="gray"><seg rend="vertical"><hi rend="underline"><note><persName>Dennett</persName></note></hi></seg></add> <subst><del type="strikethrough" rend="red" hand="#U3">His</del><add place="above" rend="red" hand="#U3">The</add></subst> organs of vision
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><persName>Dennett</persName> <metamark function="placeMark"/></note></add> <subst><del type="strikethrough" rend="red" hand="#U3">His</del><add place="above" rend="red" hand="#U3">The</add></subst> organs of vision
 <lb/><add place="marginleft" rend="red" hand="#U3">in this bird</add> are placed so high <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">that</add> he can
 <lb/>detect an enemy at a
 <lb/>great distance but the

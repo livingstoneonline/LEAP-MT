@@ -74,7 +74,7 @@
                 </msDesc>
                 
                 <bibl type="sourceMetadata">
-                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part I).</title><!-- This will change with each volume of the MS. -->
+                    <title>Manuscript of "Missionary Travels and Researches in South Africa" (Part III).</title><!-- This will change with each volume of the MS. -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
                 </bibl>
@@ -552,7 +552,7 @@ there was no <add place="below">^</add> <add place="above">good</add> reason
 
 
 <pb facs="liv_000101_0093.jpg" n="0093"/>
-<lb/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">90</add></fw>
+<lb/><space extent="18" unit="chars"/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">90</add></fw>
 <lb/>locked our doors by night or day for months together
 <lb/>but there <orgName>slavery</orgName> is unknown. <space extent="4" unit="chars"/>The <term type="nationality">Portuguese</term> do
 <lb/>not seem at all <w>b<subst><del>g</del><add place="over-text">i</add></subst>goted</w> in their attachment to
@@ -1115,7 +1115,7 @@ at a <del type="strikethrough">time</del>
 <lb break="no"/>omitted</w> them though in the most imminent
 <lb/>danger had not shared a similar fate</p>
 <lb/><p>These papers being lost I availed myself of the
-<lb/><lb/>
+<lb/>
 
 
 
