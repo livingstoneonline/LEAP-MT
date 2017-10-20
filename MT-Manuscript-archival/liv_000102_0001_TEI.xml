@@ -6,10 +6,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fragment of Missionary Travels and Researches in South Africa (Part III)</title><!-- This will change with each volume of the MS. -->
+                <title>Fragment of Missionary Travels and Researches in South Africa (Part III)</title>
                 <title type="alternative">Fragment of Missionary Travels and Researches in South Africa (Part III), January-October 1857</title>
                 <author>David Livingstone</author>
-                <principal>Justin Livingstone</principal>
+                <principal>Justin Livingstone</principal><!-- TEI transcriptions -->
+                <principal>Adrian S. Wisnicki</principal><!-- XSL/CSS transformations -->
                 <respStmt xml:id="JL">
                     <name>Justin Livingstone</name>
                     <resp>Transcription and Encoding</resp>
