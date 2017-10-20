@@ -63,7 +63,6 @@
                         </handDesc>
                     </physDesc>
                 </msDesc>
-                
                 <bibl type="sourceMetadata">
                     <title>Missionary Travels and Researches in South Africa (Part II)</title><!-- This will change with each volume of the MS. -->
                     <author xml:id="DL">David Livingstone</author>
@@ -89,6 +88,9 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
+			<!-- File review -->
+			<change when="2017-10-20" who="#AW">File review</change>
+
             <!-- Integration 0455 - 0476 -->
             <change when="2017-10-12" who="#JL">Integration</change>
             <!-- 0455 - 0476 -->

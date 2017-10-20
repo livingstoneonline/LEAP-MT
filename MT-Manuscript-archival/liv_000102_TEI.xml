@@ -9,10 +9,10 @@
                 <title>Fragment of Missionary Travels and Researches in South Africa (Part III)</title>
                 <title type="alternative">Fragment of Missionary Travels and Researches in South Africa (Part III), January-October 1857</title>
                 <author>David Livingstone</author>
-                <principal>Justin Livingstone</principal><!-- TEI transcriptions -->
+                <principal>Justin D. Livingstone</principal><!-- TEI transcriptions -->
                 <principal>Adrian S. Wisnicki</principal><!-- XSL/CSS transformations -->
                 <respStmt xml:id="JL">
-                    <name>Justin Livingstone</name>
+                    <name>Justin D. Livingstone</name>
                     <resp>Transcription and Encoding</resp>
                     <resp>Editorial Decisions</resp>
                 </respStmt>
@@ -66,7 +66,6 @@
                         </handDesc>
                     </physDesc>
                 </msDesc>
-                
                 <bibl type="sourceMetadata">
                     <title>Fragment of Missionary Travels and Researches in South Africa (Part III)</title><!-- This will change with each volume of the MS. -->
                     <author xml:id="DL">David Livingstone</author>
@@ -83,7 +82,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+			<change when="2017-10-20" who="#AW">File review</change>
             <change when="2016-01-28" who="#JL">Further coding review</change>
             <change when="2016-01-12" who="#AW">Coding review</change>
             <change when="2016-01-11" who="#JL">Proofing</change>
