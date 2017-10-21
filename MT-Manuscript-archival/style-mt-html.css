@@ -205,11 +205,11 @@ p span.pb-title{
 	text-indent:37em !important;
 }
 .p.noindent .marginleft.marginleft .linenumber{
-	text-indent:37.2em !important;
+	text-indent:37em !important;
 	font-size:80% !important;	
 }
 .note .linenumber{
-	text-indent:37.2em !important;	
+	text-indent:37em !important;	
 }
 .add.marginleft .note .linenumber{
 	text-indent:56.2em !important;
