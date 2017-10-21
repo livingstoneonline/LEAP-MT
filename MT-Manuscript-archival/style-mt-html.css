@@ -215,6 +215,14 @@ p span.pb-title{
 	text-indent:56.2em !important;
 	display:none;
 }
+.U1 .linenumber,
+.U2 .linenumber,
+.U3 .linenumber,
+.U4 .linenumber,
+.U5 .linenumber,
+.CL .linenumber{
+	font-style:normal;
+}
 /*p .linenumber{
 	text-indent:-1%;
 }

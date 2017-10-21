@@ -14,7 +14,7 @@
 	text-indent:46.5em !important;
 }
 .p.noindent .marginleft.marginleft .linenumber{
-	text-indent:46.7em !important;
+	text-indent:46.5em !important;
 	font-size:80% !important;	
 }
 .note .linenumber{
@@ -22,13 +22,9 @@
 }
 .add.marginleft .note .linenumber{
 	text-indent:65.7em !important;
+	display:none;
 }
-.seg.left .linenumber{
-	text-indent:51.5em;
-}
-.CL .linenumber{
-	font-style:normal;
-}
+
 /*p .linenumber{
 	text-indent:-1%;
 }
