@@ -370,6 +370,7 @@ p{
 }
 .head{
 	font-weight:300;
+	line-height:0em;
 }
 .note{
 	display:inline;
