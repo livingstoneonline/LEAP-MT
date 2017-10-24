@@ -2074,8 +2074,12 @@
 			</xsl:when>
 			<xsl:when test="@dim='vertical'">
 				<span class="verticalSpace" title="{concat('vertical space: ',@extent, ' ', @unit)}">
-					[&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;]
-					<br class="verticalSpace"/></span>
+					<xsl:for-each select="1 to @extent">
+						<br class="verticalSpace"/>
+					</xsl:for-each>
+				</span>
+				<!--[&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;&#x00A0;]
+					<br class="verticalSpace"/>-->
 			</xsl:when>
 			<xsl:otherwise>
 				<span class="space-other">
