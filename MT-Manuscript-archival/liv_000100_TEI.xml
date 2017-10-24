@@ -4529,8 +4529,8 @@ in order
 <lb/>They are not <subst><del type="strikethrough" hand="#U3" rend="red">known</del><add place="above" hand="#U3" rend="red">known</add></subst> beyond
 <lb/>the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> river - This
 <lb/>was the limit of the <term type="tribe">Bechuana<del type="strikethrough">s</del></term>
-<lb/><add place="marginleft" hand="#U3" rend="red"><subst><del hand="#DL"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> this word?</note></del>
-    <lb/><add place="over-text" hand="#DL" rend="black">progress</add></subst></add> 
+<lb/><add place="marginleft" hand="#U3" rend="red"><note><subst><del hand="#DL"><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> this word?</del>
+    <lb/><add place="over-text" hand="#DL" rend="black">progress</add></subst></note></add> 
 <hi rend="red underline" resp="#U3"><w>North<del type="cancelled">ing</del></w></hi> too, <choice><sic>untill</sic><corr>until</corr></choice> <persName ref="people.xml#pers0515">Sebituane</persName>
 <lb/>pushed his conquests farther</p>
 <lb/>
