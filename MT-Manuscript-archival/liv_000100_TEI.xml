@@ -8141,6 +8141,7 @@ were <unclear cert="high">inveigled</unclear></del> were separated
 <lb/>stomach and throat <del type="cancelled">he</del> could
 <lb/><choice><sic>no</sic><corr>not</corr></choice> be disgorged</p>
 <lb/><p>This <term type="animal">fish-hawk</term> generally
+<lb/><!-- Fake line break to fix XSL issue -->
 
     <pb facs="liv_000100_0200" n="0200"/>                           
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">199</add></fw>
@@ -9370,7 +9371,8 @@ as they perched on <add place="below">^</add> <add place="above">its</add> pilla
 <lb/>become quite emaciated
 <lb/>and pine for a return to their
 <lb/>parents - </p>
-<lb/><space extent="2" unit="lines"/>
+<lb/>
+<lb/>
 <lb/><p>Part of our company
 <lb/>marched along the banks
 <lb/><del type="strikethrough">and p</del> with the <term type="animal">oxen</term> and
@@ -13240,7 +13242,7 @@ and explained that "this
 <lb/>The distracted parents could not
 <lb/>find a trace of them - <space extent="2" unit="chars"/>This
 <lb/>happened so close to the town<add place="inline" rend="gray" hand="#U2">,</add>
-<lb/><add place="above">where there are no beasts of prey<add place="inline" rend="gray" hand="#U2">,</add></add> 
+<lb/><add place="inspace" rend="small">where there are no beasts of prey<add place="inline" rend="gray" hand="#U2">,</add></add> 
 <lb/>that we <del type="cancelled"><unclear cert="medium">I</unclear></del> suspect some of the
     <lb/>high men of <persName ref="people.xml#pers0532">Shinte</persName>'s court
 
@@ -17541,7 +17543,7 @@ and some
 
     <pb facs="liv_000100_0439" n="0439"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">438</add></fw>  
-<lb/><add place="inspace"><seg rend="left">giving a gun would be helping <add place="below"><del type="strikethrough">do so</del></add> them to do so</seg></add> <add place="marginleft"><metamark function="insertion"/>This they denied
+<lb/><add place="inspace"><seg rend="left">giving a gun would be helping <add place="below"><del type="strikethrough">do so</del></add> them to do so</seg></add> 	<lb/><add place="marginleft"><metamark function="insertion"/>This they denied
     <lb/>saying they
     <lb/>wanted the
     <lb/>customary
