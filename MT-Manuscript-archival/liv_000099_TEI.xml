@@ -5871,7 +5871,8 @@ this part of the
 <lb/>the country <choice><sic><unclear cert="low">ajdacent</unclear></sic><corr>adjacent</corr></choice></del> - </p> 
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The trees which adorn the banks
 <lb/>are magnificent - Two enormous
-<lb/><term type="plant">Baobabs</term> (<foreign xml:lang="la"><term type="plant">Adansonia digitata</term></foreign>) or <term type="plant">Mo<add place="below">˄</add><add place="above">u</add>anas</term> <w>gro<add place="above" rend="gray" hand="#U2">E</add>w</w> at the spot where we
+<lb/><term type="plant">Baobabs</term> (<foreign xml:lang="la"><term type="plant">Adansonia digitata</term></foreign>) or 
+<lb/><term type="plant">Mo<add place="below">˄</add><add place="above">u</add>anas</term> <w>gro<add place="above" rend="gray" hand="#U2">E</add>w</w> at the spot where we
 <lb/>took the observations for the
 <lb/><measure>Latitude (20° 20' - <choice><abbr>S</abbr><expan>South</expan></choice><add place="inline" hand="#U3" rend="red">)</add></measure> - <add place="above" hand="#U3" rend="red">The</add> Longitude of the Lake<!-- evidence of text under 'of' but it is illegible.JL -->
 <lb/><add place="marginleft">has</add> <subst><del type="strikethrough">never</del><add place="above">not</add></subst> been ascertained as our watches
@@ -10492,7 +10493,7 @@ It was in vain
 <lb/><add place="marginleft">honour to</add> preserve in<add place="inline" hand="#U3" rend="red">,</add> though told by a
 <lb/><term type="occupation">missionary</term> that they can never
 <lb/>force water to run up hill - </p>
-                <lb/><p><add place="marginleft">It is interesting to observe</add> the industry of <subst><del type="cancelled">the</del><add place="above">many</add></subst> <orgName ref="orgName.xml#org0038">Boers</orgName> in this
+<lb/><p rend="no-indent"><add place="marginleft">It is interesting to observe</add> the industry of <subst><del type="cancelled">the</del><add place="above">many</add></subst> <orgName ref="orgName.xml#org0038">Boers</orgName> in this
 <lb/><add place="marginleft">region</add> in making long and deep canals
 
     <pb facs="liv_000099_0271" n="0271"/>    
@@ -11917,7 +11918,7 @@ become as strongly
 <lb/>former existence of a gushing fountain
 <lb/>No one dared <add place="above">to enter <del type="cancelled">into</del></add> <del type="cancelled">go near the <unclear cert="medium"><placeName><geogName type="cave"><choice><sic>Lohahen</sic><corr>Lohaheng</corr></choice></geogName></placeName></unclear> or the</del> 
 <lb/><add place="above">the <placeName><geogName type="cave">Lohaheng</geogName></placeName></add> or cave for <add place="below" rend="red" hand="#U3">^</add> <metamark function="ed-mark" place="above" rend="red" resp="#U3">x</metamark> <add place="margintop" hand="#U3" rend="red"><add place="below">^</add> <metamark function="ed-mark" place="above">x</metamark> it was the common belief that</add> 
-    <lb/>God was there, As we never
+God was there, As we never
 <lb/>had a holiday from <date when="1852-01">January</date> to <del type="strikethrough"><date when="1852-09">September</date></del>
 <lb/><date when="1852-12">December</date> and our Sundays were 
 <lb/>the <del type="strikethrough">th</del> periods of our greatest exertions
