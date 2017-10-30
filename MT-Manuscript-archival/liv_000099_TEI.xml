@@ -8889,7 +8889,7 @@ had in view</p>
 <lb/>will not be afraid of
     <lb/>meeting the <orgName ref="orgName.xml#org0042">Kaffirs</orgName> in
 <lb/>argument</p>
-<lb/>
+<lb/><space extent="1" unit="chars"/><!-- Fake space need to address XSLT issue -->
     </div>
 
     <div>
