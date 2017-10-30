@@ -876,19 +876,27 @@
 	</xsl:template>		
 	
 	<xsl:template match="del[following-sibling::add[@place='over-text']]" priority="10">
-		<span class="del-by-over-text" title="Text deleted by over-writing">
-					<xsl:if test="@*">
+		<span class="del-by-over-text" title="Text deleted by over-writing">					
+				<xsl:choose>
+					<xsl:when test="@hand and @type|@hand or @type">
 						<xsl:attribute name="title">
-							<xsl:value-of select="concat(name(), 'etion, ')"/>
+							<xsl:value-of select="concat(name(), 'etion')"/>
 							<xsl:for-each select="@*[not(name()='n')]">
 								<xsl:sort/>
 								<xsl:if test="not(name()='status')">
-									<xsl:value-of select="concat(name(),': ', ., '; ')"/>
+									<xsl:value-of select="concat(', ', name(),': ', ., '; ')"/>
 								</xsl:if>
 							</xsl:for-each>
 						</xsl:attribute>
-					</xsl:if>
-					<xsl:apply-templates/></span>
+					</xsl:when>
+					<xsl:otherwise>
+						<xsl:attribute name="title">
+							<xsl:value-of select="concat(name(), 'etion')"/>
+						</xsl:attribute>
+					</xsl:otherwise>
+				</xsl:choose>
+			<xsl:apply-templates/>
+		</span>
 	</xsl:template>
 
 	<!-- added for 1870 FD -->
