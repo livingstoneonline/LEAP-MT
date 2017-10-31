@@ -1,0 +1,30 @@
+1) <anchor xml:id="reorder-40"> is  used twice. Every other anchor xml:id is only used once.
+
+2) For <add>, you have a number of instances of place="marginbottom" (19 instances) and one of place="margintop". We don't use these values so please correct. You could probably get away with "inspace".
+
+3) You have only one <add hand="#U4> and one <add hand="#U5>. Double check that these are correct. 
+
+4) You have one <add hand="#U8>. This clearly needs to be fixed.
+
+5) You have the following: 
+<date when="--03">
+<date when="--04">
+<date when="--05">
+<date when="--06">
+<date when="--08">
+<date when="--09">
+What is this?
+
+6) You have one of each of these:
+<del cert="high">
+<del cert="medium">
+Is @cert necessary? I suggest remove.
+
+6) There is one instance of <metamark xml:id="meta-202">. Is this correct? You usually use @spanTo.
+
+7) You have one instace of <note place="marginbottom">. Is this correct? We don't use the "marginbottom" value, so try to use something else.
+
+8) You have "Fleet Street" as a <settlement>. That should really be just <placeName> without the <settlement> subtag. Plus a street isn't a settlement.
+
+
+
