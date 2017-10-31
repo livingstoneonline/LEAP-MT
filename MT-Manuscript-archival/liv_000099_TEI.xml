@@ -125,7 +125,7 @@
             <!-- 0253 - 0278 -->
             <change when="2015-06-25" who="#JL">Proofing and Encoding Review</change>
             <change when="2015-11-25" who="#KS">Proofreading</change>
-            <change when="2014-01-06" who="#JG">Initial transcription and XML encoding</change>
+            <change when="2015-01-06" who="#JG">Initial transcription and XML encoding</change>
             
             <!-- Integration 0229 - 0252 -->
             <change when="2017-10-10" who="#JL">Integration</change>
@@ -154,8 +154,8 @@
             <change when="2017-10-10" who="#JL">Integration</change>
             <!-- 0142 - 0165 -->
             <change when="2015-06-16" who="#JL">Proofing and encoding review</change>
-            <change when="2014-04-03" who="#AW">Encoding review</change>
-            <change when="2014-01-06" who="#JG">Proofreading</change>
+            <change when="2015-04-03" who="#AW">Encoding review</change>
+            <change when="2015-01-06" who="#JG">Proofreading</change>
             <change when="2014-09-05" who="#KS">Initial transcription and XML encoding</change>
             
             <!-- Integration 0117 - 0141 -->
@@ -193,7 +193,7 @@
             <change when="2016-02-04" who="#JL">Further encoding review</change>
             <change when="2014-10-27" who="#JL">Encoding Review</change>
             <change when="2014-08-04" who="#KS">Proofing</change>
-            <change when="2013-07-01" who="#JG">Initial transcription and XML encoding</change>
+            <change when="2014-07-01" who="#JG">Initial transcription and XML encoding</change>
             
             <!-- Intergration 0004 - 0029 -->
             <change when="2017-10-10" who="#JL">Integration</change>
@@ -14167,7 +14167,7 @@ the <choice><sic>antient</sic><corr>ancient</corr></choice>
 <lb/><placeName><geogName type="river">Mahalapi</geogName></placeName> <space extent="5" unit="chars"/> <hi rend="underline">which <add place="below">^</add> <add place="above">so called</add> rivers</hi>
 <lb/><add place="marginleft">scarcely merits <add place="below">^</add></add> <del type="cancelled">no more</del> <subst><del type="cancelled">deserve</del><add place="above"><del type="cancelled">merit</del></add></subst> the name
 <lb/><add place="marginleft">more <add place="below">^</add></add> than the <placeName><geogName type="park">meadows</geogName></placeName> of <placeName><settlement type="city">Edinburgh</settlement></placeName>
-<lb/>deserve the title of <placeName><geogName type="loch">North Loch</geogName></placeName>
+<lb/>deserve the title of <placeName><geogName type="lake">North Loch</geogName></placeName>
 <lb/>These <del type="cancelled"><subst><del>are</del><add place="over-text">hill</add></subst></del> hills are the last
 <lb/>we shall see for months
 <lb/>The country <w>be<subst><del type="cancelled" rend="red" hand="#U3">hind</del><add place="below" rend="red" hand="#U3">^</add><add place="above" rend="red" hand="#U3">yond</add></subst></w> consisted

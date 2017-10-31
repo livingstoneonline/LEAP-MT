@@ -92,12 +92,12 @@
         <profileDesc>
             <langUsage>
                 <language ident="en">English</language>
-                <language ident="in">Indian</language>
                 <language ident="la">Latin</language>
                 <language ident="loz">Lozi</language>
                 <language ident="fa">Persian</language>
                 <language ident="pt">Portuguese</language>
                 <language ident="en-scotland">Scottish Standard English</language>
+				<language ident="toi">Tonga (Zambia)</language>
                 <language ident="tn">Tswana</language>
                 <language ident="und">Undetermined</language>
             </langUsage>
@@ -6796,7 +6796,7 @@ I picked
 <lb/>the rivers in the <placeName><geogName type="valley">valley of the <placeName><geogName type="river">Leeambye</geogName></placeName></geogName></placeName>
 <lb/>have slopes down to their beds – Indeed
 <lb/>many parts are much like the <placeName><geogName type="river">Thames</geogName></placeName>
-<lb/>at the "<placeName><geogName type="isle">Isle of Dogs</geogName></placeName>" only the <placeName><geogName type="river">Leeambye</geogName></placeName>
+<lb/>at the "<placeName><geogName type="island">Isle of Dogs</geogName></placeName>" only the <placeName><geogName type="river">Leeambye</geogName></placeName>
 <lb/>has to rise <measure>twenty or thirty feet</measure> before
 <lb/>it can overflow its meadows - <space extent="1" unit="chars"/>The<del type="strikethrough">y</del> <add place="above">rivers</add>
 <lb/>have each a bed of low water which
@@ -9280,7 +9280,7 @@ that on <choice><abbr>'</abbr><expan>the</expan></choice> graves of <choice><abb
 <lb/>had embarked a cargo from
 <lb/>thence, but a short time before 
 <lb/>This river is fronted by a position
-<lb/>of the <placeName><geogName type="shoals">Elephant Shoals</geogName></placeName> at the
+<lb/>of the <placeName><geogName type="shoal">Elephant Shoals</geogName></placeName> at the
 <lb/>distance of <measure>3 or 4 miles</measure> outside 
 <lb/>The Eastern bank is formed by
 <lb/>level sea cliffs, (as seem from the
@@ -9706,7 +9706,7 @@ The <retrace hand="#DL" n="DL"><add place="inline" hand="#U2" n="U2">existence</
 <lb/>"<orgName><choice><sic>Canoraizo</sic><corr>Cauraigo</corr></choice></orgName>", a brig under <term type="nationality">American</term> colours,
 <lb/>had embarked a cargo from thence, but a
 <lb/>short time before. This river is fronted
-<lb/>by a portion of the <placeName><geogName type="shoals">Elephant Shoals</geogName></placeName>, at the
+<lb/>by a portion of the <placeName><geogName type="shoal">Elephant Shoals</geogName></placeName>, at the
 <lb/>distance of <measure>3 or 4 miles</measure> outside. The Eastern
 <lb/>bank is formed by level sea cliffs, (as seen
 <lb/>from the ship it has that appearance) high
