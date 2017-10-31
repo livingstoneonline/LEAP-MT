@@ -98,7 +98,7 @@
 <!-- From Justin: "There are some symbols that are used as shorthand. An apostrophe is used for ‘the’ and a grave accent is used for ‘of’." -->
 
     <pb facs="liv_000102_0001" n="0001"/><!-- Missionary Travels, foot of p366-367, sh -->                
-<lb/><p rend="no-indent"><add place="marginleft" hand="#U1" n="U1" rend="gray"><note>1 pp. 366-367</note></add><!-- the number '1' is within a circle, sh --> of the 5<hi rend="sup underline">th</hi> <persName ref="people.xml#pers0244">Cypriano</persName> <anchor corresp="reorder-3"/> supplied  
+<lb/><p rend="no-indent"><add place="marginleft" hand="#U1" n="U1" rend="gray"><note>1 pp. 366-367</note></add><!-- the number '1' is within a circle, sh --> of the 5<hi rend="sup underline">th</hi> <persName ref="people.xml#pers0244">Cypriano</persName> <anchor xml:id="reorder-3"/> supplied  
 <lb/>my men <metamark function="reorder" spanTo="#meta-10"/><seg corresp="#reorder-3">generously</seg><anchor xml:id="meta-10"/> with
 <lb/><term type="plant_foodstuff">pumpkin</term>s and <term type="plant_foodstuff">maize</term>
 <lb/>and then invited me to
@@ -235,7 +235,7 @@
 <lb/>something from their pay for what they had purloined</p></div>    
 	    
         <div>
-    <pb facs="liv_000102_0005" n="0006"/> 
+    <pb facs="liv_000102_0006" n="0006"/> 
 <!-- Text written perpendicular to the lines on page, between folds in the paper, sh  -->
 <!-- handwritting unidentified, sh -->
 <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/>
