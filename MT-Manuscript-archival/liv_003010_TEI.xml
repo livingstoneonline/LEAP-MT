@@ -65,7 +65,7 @@
         </profileDesc>
         <revisionDesc>
             <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
-			<change when="2016-01-12" who="#AW">Coding review</change>
+			<change when="2017-11-11" who="#AW">Coding review</change>
             <change when="2017-11-08" who="#JL">Proofing and encoding review</change>      
             <change when="2017-10-26" who="#KS">Initial transcription and XML encoding</change>
         </revisionDesc>
@@ -77,7 +77,7 @@
 
     <pb facs="liv_003010_0001" n="0001"/>             
 <lb/><p>to be read if you have leisure then <add place="below">destroyed</add> <fw><add place="inspace" hand="#U1" rend="gray">1</add></fw></p>
-<lb/><p><hi rend="center double-underline">Preface</hi></p>
+<lb/><p><seg rend="center"><hi rend="double-underline">Preface</hi></seg></p>
 <lb/>
 <lb/><p rend="no-indent">After spending some sixteen years <subst><del>of m</del><add place="over-text">in</add></subst> teaching
 <lb/>honesty to the <orgName>Africans</orgName>, it was rather mortifying

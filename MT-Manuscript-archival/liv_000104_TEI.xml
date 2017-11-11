@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-mt3.xsl"?>
+<?xml-stylesheet type="text/xsl" href="transcription-mt3.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000104">
     <teiHeader>
         <fileDesc>
@@ -66,9 +66,9 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
-			<change when="2017-11-11" who="AW">Coding reivew</change>
+			<change when="2017-11-11" who="#AW">Coding reivew</change>
             <change when="2017-11-07" who="#JL">Proofing and encoding review</change>      
-                  <change when="2017-11-02" who="#KS">Initial transcription and XML encoding</change>
+			<change when="2017-11-02" who="#KS">Initial transcription and XML encoding</change>
         </revisionDesc>
     </teiHeader>
 
