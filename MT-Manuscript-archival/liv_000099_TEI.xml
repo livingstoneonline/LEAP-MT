@@ -13,8 +13,8 @@
                 <principal>Adrian S. Wisnicki</principal><!-- XSL/CSS transformations -->
                 <respStmt xml:id="JL">
                     <name>Justin D. Livingstone</name>
-                    <resp>Editorial Decisions</resp>
                     <resp>Transcription and Encoding</resp>
+                    <resp>Editorial Decisions</resp>
                 </respStmt>
                 <respStmt xml:id="AW">
                     <name>Adrian S. Wisnicki</name>
@@ -50,7 +50,7 @@
                         <country>United Kingdom</country>
                         <settlement>Edinburgh</settlement>
                         <repository>National Library of Scotland</repository><!-- This may change with each volume of the MS. -->
-                        <idno type="shelfmark">MS.42428</idno><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">MS. 42428</idno><!-- This may change with each volume of the MS. -->
                         <altIdentifier>
                             <idno type="ccnumber">Books, 01</idno><!-- This may change with each volume of the MS. -->
                         </altIdentifier>
@@ -226,7 +226,7 @@
     <text>
         <body rend="right">
             <div>
-                <!-- Start each page with pagebreak -->
+
     <pb facs="liv_000099_0001" n="0001"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">1</add></fw>
                 <lb/><opener><salute><persName ref="people.xml#pers0365">The Right. Hon - Labouchere</persName>    

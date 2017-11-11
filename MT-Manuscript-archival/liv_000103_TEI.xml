@@ -6,12 +6,13 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fragment of "Missionary Travels and Researches in South Africa".</title><!-- This will change with each volume of the MS. -->
+                <title>Fragment of Missionary Travels and Researches in South Africa (Part XXX)</title>
+                <title type="alternative">Fragment of Missionary Travels and Researches in South Africa (Part XXX), January-October 1857</title>
                 <author>David Livingstone</author>
                 <principal>Justin D. Livingstone</principal><!-- TEI transcriptions/Glossary entries -->
                 <principal>Adrian S. Wisnicki</principal><!-- XSL/CSS transformations -->
                 <respStmt xml:id="JL">
-                    <name>Justin Livingstone</name>
+                    <name>Justin D. Livingstone</name>
                     <resp>Transcription and Encoding</resp>
                     <resp>Editorial Decisions</resp>
                 </respStmt>
@@ -28,18 +29,8 @@
                 <authority>Livingstone Online</authority>
                 <publisher>University of Maryland Libraries</publisher>
                 <pubPlace>College Park, MD, USA</pubPlace>
-                <!-- Possible year update. -->
-                <date>2017</date>
-                <availability>
-                <!-- Possible license change. -->
-                    <licence target="https://creativecommons.org/licenses/by-nc/3.0/">
-                        All materials are licensed for use under the 
-                        <ref target="https://creativecommons.org/licenses/by-nc/3.0/">
-                            Creative Commons Attribution-Noncommercial 3.0 Unported License
-                        </ref>. 
-                        (c) Dr. Neil Imray Livingstone Wilson, 2014
-                    </licence>
-                </availability>
+                <date>2017</date><!-- Change if necessary -->
+                <idno type="LEAP-ID">liv_000103</idno><!-- Change -->
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -47,9 +38,9 @@
                         <country>United Kingdom</country>
                         <settlement>Blantyre</settlement>
                         <repository>David Livingstone Centre</repository><!-- This may change with each volume of the MS. -->
-                        <idno type="shelfmark">K/3/2 834</idno><!-- This may change with each volume of the MS. -->
+                        <idno type="shelfmark">834</idno><!-- This may change with each volume of the MS. -->
                         <altIdentifier>
-                            <idno type="ccnumber">Books, 001</idno><!-- This may change with each volume of the MS. -->
+                            <idno type="ccnumber">Books, 01</idno><!-- This may change with each volume of the MS. -->
                         </altIdentifier>
                     </msIdentifier>
                     <physDesc>
@@ -65,7 +56,7 @@
                 </msDesc>
 
                 <bibl type="sourceMetadata">
-                    <title>Fragment of "Missionary Travels and Researches in South Africa".</title><!-- This will change with each volume of the MS. -->
+                    <title>Fragment of Missionary Travels and Researches in South Africa (Part XXX)</title><!-- This will change with each volume of the MS. -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
                 </bibl>
@@ -77,7 +68,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <!-- Most recent changes should be at the top; one per major stage of changes; below is just a sample; change/expand as appropriate -->
+			<change when="2017-11-11" who="AW">Coding reivew</change>
             <change when="2017-11-07" who="#JL">Proofing and encoding review</change>      
             <change when="2017-11-02" who="#KS">Initial transcription and XML encoding</change>
         </revisionDesc>
