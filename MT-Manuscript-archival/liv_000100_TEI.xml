@@ -59,7 +59,7 @@
                         <handDesc>
                             <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
                             <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
-                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand belongs to an editor making corrections and additions in red ink. It is probably the hand of the publisher's reader, John Milton.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -3838,8 +3838,8 @@ in order
 <lb/>be taken out - </p>
     
     <pb facs="liv_000100_0091" n="0091"/>    
-<lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">86</add> <add place="inspace" hand="#U1" rend="gray right">90</add></fw>
-<lb/><del type="cancelled">About the end</del> <add place="above" hand="#U3" rend="red">On the</add> <date when="1853-05-30"><add place="above">30<hi rend="sup">th</hi> of</add> of May</date> I was<!-- p194 Missionary, sh -->
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">86</add> <add place="inspace" hand="#U1" rend="gray right">90</add></fw>
+<lb/><p><del type="cancelled">About the end</del> <add place="above" hand="#U3" rend="red">On the</add> <date when="1853-05-30"><add place="above">30<hi rend="sup">th</hi> of</add> of May</date> I was<!-- p194 Missionary, sh -->
 <lb/>seized with <term type="ailment">fever</term> for the first
 <lb/>time. We reached the town
     <lb/><add place="marginleft" hand="#U2" rend="gray"><note>129</note></add><!-- number within a circle, sh --> of <placeName><settlement type="town" ref="settlement.xml#sett0071">Linyanti</settlement></placeName> on the <metamark function="ed-mark" rend="gray" resp="#U2">[</metamark><!-- gray bracket connects to marginal number.JL --><date when="1853-05-23">23<hi rend="sup underline">d</hi></date> and
@@ -3942,8 +3942,8 @@ in order
 <lb/>organ is in danger - </p>
 
     <pb facs="liv_000100_0094" n="0094"/> 
-<lb/><p><fw><add place="inspace" hand="#U2" rend="gray left">89</add> <add place="inspace" hand="#U1" rend="gray right">93</add></fw>
-<lb/><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The <term type="tribe">Makololo</term> had made
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">89</add> <add place="inspace" hand="#U1" rend="gray right">93</add></fw>
+<lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> The <term type="tribe">Makololo</term> had made
 <lb/>a garden and planted <term type="plant_foodstuff">maize</term>
 <lb/>for me that as they remarked
 <lb/>when <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">I was</add> parting with them
@@ -4519,7 +4519,7 @@ in order
 <lb/>of 100<add place="inline" rend="red" hand="#U3">,</add>000 <del type="cancelled">Ca</del> <term type="tribe">Zulus</term> <add place="inline" hand="#U3" rend="red">.</add></p>  
 
     <pb facs="liv_000100_0109" n="0109"/>     
-<lb/><fw><add place="inspace" hand="#U2" rend="gray left">104</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">12</add></del><add place="over-text" hand="#U1" rend="gray right">108</add></subst></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">104</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">12</add></del><add place="over-text" hand="#U1" rend="gray">108</add></subst></fw>
 <lb/><p>The <term type="tribe">Matibele</term> of <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName>
 <lb/>living a short distance <placeName><region>South
 <lb/>of the <placeName><geogName type="river">Zambesi</geogName></placeName></region></placeName>, and other
@@ -4687,7 +4687,7 @@ much to be wondered at
 <lb/>they have enjoyed through
 
         <pb facs="liv_000100_0113" n="0113"/>
-<lb/><fw><add place="inspace" hand="#U2" rend="gray left">108</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">16</add></del><add place="over-text" hand="#U1" rend="gray right">112</add></subst></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray left">108</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">16</add></del><add place="over-text" hand="#U1" rend="gray">112</add></subst></fw>
 <lb/>the influence of religious
 <lb/>teaching has enabled them
 <lb/>to amass great numbers

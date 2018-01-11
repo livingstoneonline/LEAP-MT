@@ -76,7 +76,7 @@
                             <handNote xml:id="CL"><label>Charles Livingstone</label> This hand belongs to Charles Livingstone.</handNote>
                             <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
                             <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
-                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote>
+                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand belongs to an editor making corrections and additions in red ink. It is probably the hand of the publisher's reader, John Milton.</handNote>
                             <handNote xml:id="U4"><label>Unknown Hand 4</label> This unknown hand is possibly Dr Keith of Hamilton</handNote>
                             <handNote xml:id="U5"><label>Unknown Hand 5</label> This hand belongs to a neighbour of Livingstone's during his residence in London, who copied portions of manuscript to produce clean copies. It is possibly the hand of Mr Wilbraham Taylor.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
                         </handDesc>
@@ -324,7 +324,7 @@ remark that they
 <lb/>coming to the conclusion<add place="inline" rend="gray" hand="#U2">,</add>
 <lb/>that<add place="inline" rend="gray" hand="#U2">,</add> as we were now in
 <lb/>parts visited by <term type="occupation">traders</term><add place="inline" rend="gray" hand="#U2">,</add> we
-<lb/><metamark function="unknown" place="marginleft" rend="gray" resp="#U2"/> did not require the <term type="occupation">guides</term><add place="inline" rend="gray" hand="#U2">;</add>
+<lb/><add place="marginleft" rend="gray" hand="#U2"><note>1</note></add> did not require the <term type="occupation">guides</term><add place="inline" rend="gray" hand="#U2">;</add>
 
     <pb facs="liv_000101_0005" n="0005"/>
 <lb/><fw><add place="inspace" hand="#U1"  rend="gray right">4</add></fw>
@@ -3130,7 +3130,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>the sea coast
 
     <pb facs="liv_000101_0074" n="0074"/>  
-<lb/><fw><add place="inspace" hand="#U2" rend="gray right">34</add><add place="inspace" hand="#U1" rend="gray right">72</add></fw><!-- inner number again jumps forward, ks; 16 lines of printed text missing, last para of p384, part of first para 385, sh -->
+<lb/><fw><add place="inspace" hand="#U2" rend="gray right">34</add> <add place="inspace" hand="#U1" rend="gray right">72</add></fw><!-- inner number again jumps forward, ks; 16 lines of printed text missing, last para of p384, part of first para 385, sh -->
 <lb/>keep their families out of the
 <lb/>reach of the <term type="ailment">malaria</term> which
 <lb/>is <choice><sic>suppose</sic><corr>supposed</corr></choice> to prevail most
@@ -6343,7 +6343,7 @@ I picked
 <lb/><space extent="26" unit="chars"/><note>Insert the passage marked</note></note></add></p>
                        
     <pb facs="liv_000101_0152" n="0152"/><!-- p.503, Missionary Travels, sh -->         
-<lb/><p rend="no-indent"><note place="inspace above" hand="#U1" n="U1" rend="gray">P. 503-532</note> <space extent="8" unit="chars"/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">147</add></fw>
+<lb/><p rend="no-indent"><add place="inspace above" hand="#U1" n="U1" rend="gray"><note>P. 503-532</note></add> <space extent="8" unit="chars"/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">147</add></fw>
 <lb/><note place="inline" hand="#DL" n="DL">XLVII</note> So <add place="below">^</add> <add place="above">in accordance with <choice><abbr>'</abbr><expan>the</expan></choice> advice <choice><abbr>`</abbr><expan>of</expan></choice> my <term type="tribe">Libonta</term> friends</add> 
 <lb/>I did not fail to reprove <add place="inline" hand="#DL" n="DL">"</add>my child <subst><del type="cancelled" hand="#DL" n="DL">on this <unclear cert="low">but</unclear></del><add place="above" hand="#DL" n="DL"><persName ref="people.xml#pers0519">Sekeletu</persName>"</add></subst>
 <lb/>for his marauding <del type="strikethrough" hand="#DL" n="DL">acts</del> <space extent="2" unit="chars"/>This was not done in an angry manner

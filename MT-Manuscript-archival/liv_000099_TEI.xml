@@ -59,7 +59,7 @@
                         <handDesc>
                            <handNote xml:id="U1"><label>Unknown Hand 1</label> This hand belongs to a later librarian or archivist, whose additions are normally limited to adding page numbers.</handNote>
                             <handNote xml:id="U2"><label>Unknown Hand 2</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in pencil.</handNote>
-							<handNote xml:id="U3"><label>Unknown Hand 3</label> This hand is unknown but is thought to be an editor or group of editors in the employment of the publisher, John Murray, making corrections and additions in red ink.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
+                            <handNote xml:id="U3"><label>Unknown Hand 3</label> This hand belongs to an editor making corrections and additions in red ink. It is probably the hand of the publisher's reader, John Milton.</handNote><!-- Change/expand as appropriate. See encoding manual #21. -->
                         </handDesc>
                     </physDesc>
                 </msDesc>
@@ -3578,8 +3578,8 @@ obtained
 <lb/>and I could fully appreciate
 	
 	<pb facs="liv_000099_0090" n="0090"/> 
-<lb/><fw><add place="inspace" hand="#U1" rend="gray right">87</add> <add place="inspace" hand="#U2" rend="gray right">(60</add> <add place="inspace" hand="#U2" rend="gray right"><del type="strikethrough" hand="#U2" rend="gray">144</del></add></fw>
-    <lb/>the sympathy of <persName ref="people.xml#pers0247">Aesop</persName><add place="inline" rend="gray" hand="#U2">,</add> himself
+<lb/><fw><add place="inspace" hand="#U1" rend="gray right">87</add> <add place="inspace" hand="#U2" rend="gray">(60</add> <del type="strikethrough" hand="#U2" rend="gray"><add place="inspace" hand="#U2" rend="gray">144</add></del></fw>
+<lb/>the sympathy of <persName ref="people.xml#pers0247">Aesop</persName><add place="inline" rend="gray" hand="#U2">,</add> himself
 <lb/>an <orgName>African</orgName><add place="inline" hand="#U2" rend="gray">,</add> in his <bibl>fable
 <lb/>of the "Boys &amp; the <term type="animal">Frogs</term></bibl><add place="inline" rend="red" hand="#U3">.</add>"</p>
 <lb/>
@@ -4577,7 +4577,7 @@ the <term type="animal">oxen</term>,
 <lb/>water had flowed faster
 
 <pb facs="liv_000099_0116" n="0116"/>
-<lb/><fw><add place="inspace" hand="#U2" rend="gray center">109</add> <add place="inspace" hand="#U1" rend="gray right">112</add> <add place="inspace" hand="#U2">24</add></fw>
+<lb/><fw><add place="inspace" hand="#U2" rend="gray center">109</add> <add place="inspace" hand="#U1" rend="gray right">112</add> <add place="inspace" hand="#U2" rend="gray right">24</add></fw>
 <lb/>as it invariably does in these
 <lb/>reservoirs as it<del type="cancelled">s</del> finds <choice><sic>it</sic><corr>its</corr></choice>
 <lb/>passages <metamark function="ed-mark" rend="gray" resp="#U2">/</metamark> <w>widen<subst><del>ed</del><add place="over-text">ing</add></subst></w> by the flow
@@ -10028,7 +10028,7 @@ for their
 <lb/>own defence by lawful <subst><del type="strikethrough">barter</del><add place="below">trade</add></subst></p>
 
     <pb facs="liv_000099_0258" n="0258"/>    
-<lb/><p><fw><add place="inspace" hand="#U2" rend="gray">210</add> <add place="inspace" rend="gray right" hand="#U1">250</add></fw>
+<lb/><p><fw><add place="inspace" hand="#U2" rend="gray center">210</add> <add place="inspace" rend="gray right" hand="#U1">250</add></fw>
     <lb/><add place="marginleft" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0572">Wilkes</persName></note></add> If it had been<add place="inline" hand="#U2" rend="gray">,</add> as it probably
 <lb/>was necessary to prevent
 <lb/>supplies of ammunition
@@ -13210,7 +13210,7 @@ was bitten <del type="cancelled">by the</del>
 <lb/>shot</add>
 
     <pb facs="liv_000099_0342" n="0342"/>                           
-<lb/><fw><subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">9</add></del><add place="over-text" hand="#U1" rend="gray right">327</add></subst></fw>
+<lb/><fw><subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">9</add></del><add place="over-text" hand="#U1" rend="gray">327</add></subst></fw>
 <lb/><add place="marginleft"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-114"/>and occasionally
     <lb/>a man on
     <lb/><term type="animal">horse</term>back
