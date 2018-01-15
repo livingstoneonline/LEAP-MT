@@ -41,8 +41,8 @@
 				<meta charset="UTF-8"/>
 				<link rel="stylesheet" type="text/css" href="http://livingstoneonline.github.io/LEAP-XSLT/normalize.css"/>
 				<link rel="stylesheet" type="text/css" href="http://livingstoneonline.github.io/LEAP-XSLT/common.css"/>
-				<link rel="stylesheet" type="text/css" href="style-mt-html.css"/><!-- http://livingstoneonline.github.io/LEAP-XSLT/ -->
-				<link rel="stylesheet" type="text/css" href="style-mt3-html.css"/><!-- http://livingstoneonline.github.io/LEAP-XSLT/ -->
+				<link rel="stylesheet" type="text/css" href="http://livingstoneonline.github.io/LEAP-XSLT/style-mt-html.css"/><!-- http://livingstoneonline.github.io/LEAP-XSLT/ -->
+				<link rel="stylesheet" type="text/css" href="http://livingstoneonline.github.io/LEAP-XSLT/style-mt3-html.css"/><!-- http://livingstoneonline.github.io/LEAP-XSLT/ -->
 				<title>
 					<xsl:value-of select="//teiHeader//title[1]"/>
 				</title>
@@ -1684,7 +1684,7 @@
 	</xsl:template>
 
 	<!-- anchor: to work with metamark using @spanTo, @function 'let-stand'. -->
-	<xsl:template match="anchor
+	<!--<xsl:template match="anchor
 		[@xml:id]
 		[preceding::metamark[@function='let-stand']/@spanTo = concat('#', @xml:id)]" priority="10">
 		<xsl:variable name="id" select="@xml:id"/>
@@ -1695,7 +1695,7 @@
 			</xsl:choose>
 		</xsl:variable>
 		<span class="metamark {$metamark/@rend} {$metamark/@n}" title="{$metamarkText}"></span><xsl:text disable-output-escaping="yes">&lt;/span&gt;</xsl:text><xsl:text disable-output-escaping="yes">&lt;/span&gt;</xsl:text>
-	</xsl:template>
+	</xsl:template>-->
 	
 	<!-- End of MT metamarks using @spanTo -->
 
@@ -1817,7 +1817,7 @@
 	<xsl:template match="jc:page">
 		<div class="page">
 			<span class="pb-title">
-				<xsl:value-of select="@facs"/>
+				<xsl:value-of select="@n"/>
 			</span>
 			<xsl:apply-templates/>
 		</div>
@@ -1829,9 +1829,10 @@
 		</span>
 	</xsl:template>
 
-	<xsl:template match="del/pb" priority="10">
-		<span class="pb-title del-pb">
-			[<xsl:value-of select="@n"/>]
+	<!-- Prevents page numbers from being struckthrough when nestled in one or two dels -->
+	<xsl:template match="pb[ancestor::del]|pb[ancestor::del[ancestor::del]]" priority="10">
+		<span class="pb-title pb-del">
+			<xsl:value-of select="@n"/>
 		</span>
 	</xsl:template>
 
