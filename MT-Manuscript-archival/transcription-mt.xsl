@@ -1967,7 +1967,7 @@
 	</xsl:template>
 
 	<xsl:template match="seg">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''))}"><xsl:apply-templates/></span>	
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', translate(@type, '-', ''))}"><xsl:apply-templates/></span>	
 	</xsl:template>
 
 	<xsl:variable name="settlement" select="doc('settlement.xml')"/>
