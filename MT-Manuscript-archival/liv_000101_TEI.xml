@@ -1172,7 +1172,7 @@ and <del type="strikethrough">have</del> obtain
 <lb/>our persecutors - We
 <lb/>were on a reedy flat
 <lb/>and <del type="cancelled">I</del> could not follow
-<lb/><add place="marginleft">our<metamark function="substitution">/.</metamark></add> <metamark function="let-stand" spanTo="#meta-215"/><seg type="dashed"><del type="cancelled">our</del></seg><anchor xml:id="meta-215"/> <del type="cancelled">my</del> usual plan of a 
+<lb/><add place="marginleft">our<metamark function="substitution">/.</metamark></add> <metamark function="let-stand" spanTo="#meta-215"/><seg n="let-stand" type="dashed"><del type="cancelled">our</del></seg><anchor xml:id="meta-215"/> <del type="cancelled">my</del> usual plan of a 
 <lb/>small stockade <add place="marginleft" hand="#U2" rend="gray"><metamark function="insertion"/><retrace hand="#DL">in which</retrace></add> <del type="cancelled">where</del>
 <lb/>we had time to think
 <lb/>&amp; concoct our plans
@@ -1880,7 +1880,7 @@ were
     <lb/>also perplexing one <persName ref="people.xml#pers0276">Catende</persName>
 <lb/><metamark function="unknown" place="marginleft" rend="gray" resp="#U2"/> <del type="strikethrough" rend="gray" hand="#U2">for instance</del> may be <add place="inline" rend="gray" hand="#U2">...</add>
 <lb/>mistaken <del type="cancelled">for another</del>
-<lb/><metamark function="let-stand" spanTo="#meta-226"/><seg type="dashed"><del type="cancelled">for another</del></seg><anchor xml:id="meta-226"/> <del type="cancelled">as readily as</del>
+<lb/><metamark function="let-stand" spanTo="#meta-226"/><seg n="let-stand" type="dashed"><del type="cancelled">for another</del></seg><anchor xml:id="meta-226"/> <del type="cancelled">as readily as</del>
     <lb/><add place="marginleft" rend="gray" hand="#U2"><subst><del type="cancelled" hand="#U2">one</del><add place="above" rend="gray" hand="#U2">20</add></subst> <persName ref="people.xml#pers0295">Donal MacDonald</persName> <unclear cert="medium">is</unclear>
     <lb/>the <add place="below">^</add> <add place="above"><unclear cert="low">same</unclear></add> <term type="occupation">Highland <unclear cert="high">Regent</unclear></term></add>
     <del type="cancelled">our two <persName ref="person.xml#pers0447">Sir Charles Napier</persName><add place="below">s</add>
@@ -2116,7 +2116,7 @@ in order to
 <lb/>they did not intend to leave
 <lb/>me - and would follow <w>where-
 <lb break="no"/>ever</w> I <del type="cancelled"><subst><del>went</del><add place="over-text">to</add></subst></del> should lead
-<lb/><metamark function="let-stand" spanTo="#meta-283"/><seg type="dashed"><del type="cancelled"><del type="cancelled" rend="gray" hand="#U2">the way</del></del></seg><anchor xml:id="meta-283"/> - <space extent="2" unit="chars"/>This affair being
+<lb/><metamark function="let-stand" spanTo="#meta-283"/><seg n="let-stand" type="dashed"><del type="cancelled"><del type="cancelled" rend="gray" hand="#U2">the way</del></del></seg><anchor xml:id="meta-283"/> - <space extent="2" unit="chars"/>This affair being
 <lb/>disposed of for the time
 <lb/>the <term type="occupation">Commandant</term> gave
 <lb/>them an <term type="animal">ox</term> and <del type="strikethrough">having</del>
@@ -2196,7 +2196,7 @@ as a <term type="occupation">guide</term> - <del type="cancelled">A</del> <retra
 <lb/>writing materials <del type="strikethrough">and</del>
 <lb/>dishes and clothing - He
 <lb/>was cleanly in all his ways
-<lb/><add place="marginleft">but quite black</add> <add place="below">^</add> <metamark function="let-stand" spanTo="#meta-284"/><seg type="dashed"><del type="cancelled">and</del></seg><anchor xml:id="meta-284"/> when he scolded any
+<lb/><add place="marginleft">but quite black</add> <add place="below">^</add> <metamark function="let-stand" spanTo="#meta-284"/><seg n="let-stand" type="dashed"><del type="cancelled">and</del></seg><anchor xml:id="meta-284"/> when he scolded any
 <lb/>one of his own <del type="cancelled">black</del>
 <lb/>colour abused him as a 
 <lb/>"negro" - <space extent="2" unit="chars"/>When he wanted
@@ -2685,7 +2685,7 @@ lowered the temperature
 
     <pb facs="liv_000101_0063" n="0063"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right">19</add> <add place="inspace" hand="#U1" rend="gray right">61a</add></fw>
-<lb/><add place="marginleft"><note><metamark function="stet">stet</metamark></note></add> <metamark function="let-stand" spanTo="#meta-287"/><seg type="dashed"><del type="strikethrough">between</del></seg><anchor xml:id="meta-287"/> five <del type="strikethrough"><add place="above">to</add></del> <metamark function="let-stand" spanTo="#meta-288"/><seg type="dashed">and</seg><anchor xml:id="meta-288"/> six feet <del type="cancelled"><add place="below">^</add></del> <del type="cancelled"><add place="above">in length</add></del> <metamark function="let-stand" spanTo="#meta-289"/><seg type="dashed"><del type="strikethrough">long</del></seg><anchor xml:id="meta-289"/>
+<lb/><add place="marginleft"><note><metamark function="stet">stet</metamark></note></add> <metamark function="let-stand" spanTo="#meta-287"/><seg n="let-stand" type="dashed"><del type="strikethrough">between</del></seg><anchor xml:id="meta-287"/> five <del type="strikethrough"><add place="above">to</add></del> <metamark function="let-stand" spanTo="#meta-288"/><seg n="let-stand" type="dashed">and</seg><anchor xml:id="meta-288"/> six feet <del type="cancelled"><add place="below">^</add></del> <del type="cancelled"><add place="above">in length</add></del> <metamark function="let-stand" spanTo="#meta-289"/><seg n="let-stand" type="dashed"><del type="strikethrough">long</del></seg><anchor xml:id="meta-289"/>
 <lb/><add place="marginleft">&amp; called <foreign xml:lang="und">Motete</foreign> - </add> When the basket is placed on
 <lb/>the head, the poles project
 <lb/>forwards horizontally and
@@ -4020,7 +4020,7 @@ there was no <add place="below">^</add> <add place="above">good</add> reason
 <lb/><add place="marginleft" hand="#DL" n="DL">shrubs</add> <add place="below" hand="#DL" n="DL">^</add> and trees with but few plants constitute the vegetation
 <lb/>of this region</p>
 <lb/><p><note place="marginleft"><date when="1854-11-20">20<hi rend="sup underline">th</hi> <choice><abbr>Nov</abbr><expan>November</expan></choice></date></note> <space extent="10" unit="chars"/><del type="strikethrough">Before leaving</del> we <del type="strikethrough">observed</del> <del type="strikethrough"><add place="above">had</add></del>
-<lb/><subst><del>an</del><add place="over-text">An</add></subst> eclipse of the Sun which I <metamark function="let-stand" spanTo="#meta-298"/><seg type="dashed"><del type="cancelled">had</del></seg><anchor xml:id="meta-298"/> <add place="above">had</add> anxiously hoped
+<lb/><subst><del>an</del><add place="over-text">An</add></subst> eclipse of the Sun which I <metamark function="let-stand" spanTo="#meta-298"/><seg n="let-stand" type="dashed"><del type="cancelled">had</del></seg><anchor xml:id="meta-298"/> <add place="above">had</add> anxiously hoped
 <lb/>to observe with a view of delivering the longitude
 <lb/>happened this morning and as often took place
 <lb/>in this cloudy climate the sun was covered 4
@@ -5569,7 +5569,7 @@ and the <foreign xml:lang="pt"><term type="occupation">Pombeiros</term></foreign
 seemed to produce an instant
 <lb/>revolution in his martial feelings for he <choice><sic>cryed</sic><corr>cried</corr></choice>
 <lb/>out "Oh I have only come to speak to you and
-<lb/><add place="marginleft" hand="#DL" n="DL">wish peace "<metamark function="let-stand" spanTo="#meta-305"/><seg type="dashed"><del type="strikethrough">only</del></seg><anchor xml:id="meta-305"/>"</add> 
+<lb/><add place="marginleft" hand="#DL" n="DL">wish peace "<metamark function="let-stand" spanTo="#meta-305"/><seg n="let-stand" type="dashed"><del type="strikethrough">only</del></seg><anchor xml:id="meta-305"/>"</add> 
     <del type="strikethrough" hand="#DL" n="DL">to join the <orgName ref="orgName.xml#org0074">peace society</orgName></del> <space unit="chars" extent="4"/><persName ref="people.xml#pers0393">Mashauana</persName> had
 <lb/>hold of him by <choice><abbr>'</abbr><expan>the</expan></choice> hand and found him shaking. We
 <lb/>examined his gun and found that it had been
@@ -8080,7 +8080,7 @@ that on <choice><abbr>'</abbr><expan>the</expan></choice> graves of <choice><abb
 <lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> year there would be no danger of loss of health during a long
 <lb/>stay on these highlands <add place="inline" hand="#DL" n="DL">afterwards.</add> It becomes an interesting <subst><del type="cancelled" hand="#DL" n="DL">enquiry</del><add place="above" hand="#DL" n="DL">question</add></subst>
 <lb/>how much farther these high ridges <del type="cancelled">do</del> extend <space extent="2" unit="chars"/>The eastern one
-<lb/>seems to bend in considerably towards <choice><abbr>'</abbr><expan>the</expan></choice> great falls <metamark function="let-stand" spanTo="#meta-318"/><seg type="dashed"><del type="strikethrough">and</del></seg><anchor xml:id="meta-318"/><add place="above"><del>but</del></add> the
+<lb/>seems to bend in considerably towards <choice><abbr>'</abbr><expan>the</expan></choice> great falls <metamark function="let-stand" spanTo="#meta-318"/><seg n="let-stand" type="dashed"><del type="strikethrough">and</del></seg><anchor xml:id="meta-318"/><add place="above"><del>but</del></add> the
 <lb/>strike of <choice><abbr>'</abbr><expan>the</expan></choice> rocks indicate, that at points farther to <choice><abbr>'</abbr><expan>the</expan></choice> <choice><abbr>N.</abbr><expan>North</expan></choice> than
 <lb/>my enquiries extend it may not be more than <measure>350 or <del type="cancelled">400</del>
 <lb/>miles</measure> from <choice><abbr>'</abbr><expan>the</expan></choice> coast. <space extent="4" unit="chars"/>They <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">at least</add> merit enquiry for they afford</p>
@@ -8170,7 +8170,7 @@ that on <choice><abbr>'</abbr><expan>the</expan></choice> graves of <choice><abb
 <lb/><add place="inline" hand="#DL" n="DL" corresp="#add-73">If I am right in believing the granite to
 <lb/>be the cause of the elevation on
 <lb/>this <subst><del>side</del><add place="over-text">ridge</add></subst> <choice><sic>The</sic><corr>the</corr></choice> direction in which the
-<lb/>strike of the rocks trends to the <metamark function="let-stand" spanTo="#meta-320"/><seg type="dashed"><del type="cancelled"><choice><abbr>N E - </abbr><expan>North East</expan></choice> &amp;</del></seg><anchor xml:id="meta-320"/>
+<lb/>strike of the rocks trends to the <metamark function="let-stand" spanTo="#meta-320"/><seg n="let-stand" type="dashed"><del type="cancelled"><choice><abbr>N E - </abbr><expan>North East</expan></choice> &amp;</del></seg><anchor xml:id="meta-320"/>
 <lb/><choice><abbr>N - N E</abbr><expan>North North East</expan></choice> <del type="cancelled">may indicate when taken
 <lb/>in connection with the explanation</del>
 <lb/>may indicate that the two or three lakes
@@ -8278,7 +8278,7 @@ that on <choice><abbr>'</abbr><expan>the</expan></choice> graves of <choice><abb
 <lb/>
 <lb/><p rend="no-indent"><date when="1855-12-02">2<hi rend="sup">d</hi> <choice><abbr>Dec</abbr><expan>December</expan></choice> 1855</date> We remained near a small hill called <placeName><geogName type="hill">Maundo</geogName></placeName>
 <lb/>where <del type="strikethrough">then</del> we began to be invited frequently by <choice><abbr>'</abbr><expan>the</expan></choice> <term type="animal">honey <subst><del type="strikethrough">bird</del><add place="above">guide</add></subst></term> <add place="above" hand="#DL" n="DL">^</add> <add place="below" hand="#DL" n="DL">(<foreign xml:lang="la"><hi rend="underline"><term type="animal">cuculus Indicator</term></hi></foreign>)</add>
-<lb/>I enquired if any of my men had ever been led by <metamark function="let-stand" spanTo="#meta-321"/><seg type="dashed">this friendly</seg><anchor xml:id="meta-321"/><!-- dotted underline, sh -->
+<lb/>I enquired if any of my men had ever been led by <metamark function="let-stand" spanTo="#meta-321"/><seg n="let-stand" type="dashed">this friendly</seg><anchor xml:id="meta-321"/><!-- dotted underline, sh -->
 <lb/>little bird to any thing else than what its name implies <space extent="2" unit="chars"/><choice><sic>only</sic><corr>Only</corr></choice>
 <lb/>one of the 113 could say he had been led to an <term type="animal">elephant</term> instead
 <lb/>instead of a hive like myself <subst><del hand="#DL" n="DL">to a</del><add place="over-text" hand="#DL" n="DL">with the</add></subst> <term type="animal">black rhinoceros</term> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">mentioned before</add> <space extent="1" unit="chars"/>I am quite
