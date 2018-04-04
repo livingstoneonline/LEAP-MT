@@ -782,10 +782,10 @@ div.transcription.style-mt-html .U5 {
 div.transcription.style-mt-html .dashed {
     border-bottom:2px dashed;
 }
-div.transcription.style-mt-html .dashedred {
+div.transcription.style-mt-html .dashed.red {
     border-bottom:2px #B33B24 dashed;
 }
-div.transcription.style-mt-html .dashedgray {
+div.transcription.style-mt-html .dashed.gray {
     border-bottom:2px gray dashed;
 }
 div.transcription.style-mt-html .metamark {
