@@ -783,7 +783,8 @@ div.transcription.style-mt-html .dashed {
     border-bottom:2px dashed;
 }
 div.transcription.style-mt-html .dashed.red {
-    border-bottom:2px #B33B24 dashed;
+    color:black;
+	border-bottom:2px #B33B24 dashed;
 }
 div.transcription.style-mt-html .metamark {
 	font-style:italic;
