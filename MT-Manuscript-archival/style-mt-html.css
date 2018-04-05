@@ -785,9 +785,6 @@ div.transcription.style-mt-html .dashed {
 div.transcription.style-mt-html .dashed.red {
     border-bottom:2px #B33B24 dashed;
 }
-div.transcription.style-mt-html .dashed.gray {
-    border-bottom:2px gray dashed;
-}
 div.transcription.style-mt-html .metamark {
 	font-style:italic;
 	border-bottom:1px gray dotted;
