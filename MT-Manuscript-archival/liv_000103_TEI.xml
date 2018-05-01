@@ -6,8 +6,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fragment of Missionary Travels and Researches in South Africa (Part XXX)</title>
-                <title type="alternative">Fragment of Missionary Travels and Researches in South Africa (Part XXX), January-October 1857</title>
+                <title>Fragment of Missionary Travels and Researches in South Africa (Part III)</title>
+                <title type="alternative">Fragment of Missionary Travels and Researches in South Africa (Part III), January-October 1857</title>
                 <author>David Livingstone</author>
                 <principal>Justin D. Livingstone</principal><!-- TEI transcriptions/Glossary entries -->
                 <principal>Adrian S. Wisnicki</principal><!-- XSL/CSS transformations -->
@@ -56,7 +56,7 @@
                 </msDesc>
 
                 <bibl type="sourceMetadata">
-                    <title>Fragment of Missionary Travels and Researches in South Africa (Part XXX)</title><!-- This will change with each volume of the MS. -->
+                    <title>Fragment of Missionary Travels and Researches in South Africa (Part III)</title><!-- This will change with each volume of the MS. -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
                 </bibl>

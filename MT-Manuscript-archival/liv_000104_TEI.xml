@@ -6,8 +6,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Fragment of Missionary Travels and Researches in South Africa (Part XXX)</title>
-                <title type="alternative">Fragment of Missionary Travels and Researches in South Africa (Part XXX), January-October 1857</title>
+                <title>Fragment of Missionary Travels and Researches in South Africa (Part III)</title>
+                <title type="alternative">Fragment of Missionary Travels and Researches in South Africa (Part III), January-October 1857</title>
                 <author>David Livingstone</author>
                 <principal>Justin D. Livingstone</principal><!-- TEI transcriptions/Glossary entries -->
                 <principal>Adrian S. Wisnicki</principal><!-- XSL/CSS transformations -->
@@ -53,7 +53,7 @@
                 </msDesc>
 
                 <bibl type="sourceMetadata">
-                    <title>Fragment of Missionary Travels and Researches in South Africa (Part XXX)</title><!-- This will change with each volume of the MS. -->
+                    <title>Fragment of Missionary Travels and Researches in South Africa (Part III)</title><!-- This will change with each volume of the MS. -->
                     <author xml:id="DL">David Livingstone</author>
                     <date type="composition" from="1857-01-01" to="1857-10-31">January-October 1857</date>
                 </bibl>
@@ -77,7 +77,7 @@
             <div hand="#CL" n="CL">
                 
     <pb facs="liv_000104_0001" n="0001"/>
-<lb/><space extent="12" unit="chars"/><fw><add place="inspace" hand="#U1" rend="gray right">196</add></fw>
+<lb/><space extent="12" unit="chars"/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">196</add></fw>
 <lb/><p rend="no-indent">We crossed it by means <choice><abbr>`</abbr><expan>of</expan></choice> canoes. <space extent="2" unit="chars"/>Here as on
 <lb/><choice><abbr>'</abbr><expan>the</expan></choice> slopes down to <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Quilo</geogName></placeName> and <placeName><geogName type="river">Chikapa</geogName></placeName> we had an
 <lb/>opportunity <choice><abbr>`</abbr><expan>of</expan></choice> viewing <choice><abbr>'</abbr><expan>the</expan></choice> geological structure <choice><abbr>`</abbr><expan>of</expan></choice> <choice><abbr>'</abbr><expan>the</expan></choice> country</p>
@@ -123,7 +123,7 @@
 <lb/>of birds only near <choice><abbr>'</abbr><expan>the</expan></choice> rivers and there they are <add place="below">˄<add place="below">neither</add></add> <del type="strikethrough">not</del> numerous
 
     <pb facs="liv_000104_0002" n="0002"/>
-<lb/><space extent="13" unit="chars"/><fw><add place="inspace" hand="#U1" rend="gray right">197</add></fw>
+<lb/><space extent="13" unit="chars"/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">197</add></fw>
     <lb/><add place="marginleft" hand="#DL" n="DL"><note><metamark function="newParagraph"><choice><abbr>Par.</abbr><expan>Paragraph</expan></choice></metamark></note></add> on <choice><abbr>'</abbr><expan>the</expan></choice> way. <space extent="2" unit="chars"/><metamark function="newParagraph">/</metamark><placeName> <settlement type="village" ref="settlement.xml#sett0030">Cabango</settlement></placeName> is <choice><abbr>'</abbr><expan>the</expan></choice> dwelling place of <persName ref="people.xml#pers0437"><w>Muan-
 <lb break="no"/>Zanza</w></persName> <add place="marginleft" hand="#DL" n="DL"><note><persName ref="people.xml#pers0437">Muanzanza</persName></note></add> one <choice><abbr>`</abbr><expan>of</expan></choice> <persName ref="people.xml#pers0444">Matiamvo</persName>'s subordinate <term type="occupation">chiefs</term> - his
 <lb/>village consists <choice><abbr>`</abbr><expan>of</expan></choice> about 200 huts and ten or twelve
@@ -168,7 +168,7 @@
 <div>
 
     <pb facs="liv_000104_0003" n="0003"/>
-<lb/><space extent="9" unit="chars"/><fw><add place="inspace" hand="#U1" rend="gray right">192</add></fw>
+<lb/><space extent="9" unit="chars"/><fw><add place="inspace" hand="#U1" n="U1" rend="gray right">192</add></fw>
 <lb/><p rend="no-indent"><note place="inline">X</note> <space extent="1" unit="chars"/>If the reader remembers the way in which
 <lb/><note place="inline">II</note> I was led when engaged teaching the <term type="tribe">Bakwains</term>
 <lb/>to <del type="cancelled">engage in</del><add place="above">commence</add> exploration, he will detect the
