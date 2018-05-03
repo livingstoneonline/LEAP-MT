@@ -1526,7 +1526,7 @@
 	</xsl:template>
 	
 	<xsl:template match="metamark[@function='newParagraph']" priority="8">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial symbol used to indicate a new paragraph">
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial instruction to begin a new paragraph">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
