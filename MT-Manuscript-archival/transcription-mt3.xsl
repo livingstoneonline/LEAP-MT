@@ -1952,17 +1952,17 @@
 	</xsl:template>
 	
 	<xsl:template match="retrace[@hand='#DL']">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'DL')}" title="Text added in another colour; retraced in black by Livingstone.">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'DL')}" title="Text retraced in black by David Livingstone.">
 			<xsl:apply-templates/></span>
 	</xsl:template>
 	
 	<xsl:template match="retrace[@hand='#CL']">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'CL')}" title="Text added in another colour; retraced by Charles Livingstone.">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', 'CL')}" title="Text retraced in dark gray by Charles Livingstone.">
 			<xsl:apply-templates/></span>
 	</xsl:template>
 	
 	<xsl:template match="retrace[@hand='#U5']">
-		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', 'U5')}" title="Text added in another colour; retraced in brown by Livingstone's amanuensis.">
+		<span class="{concat(name(), ' ', translate(@rend, '-', ''), ' ', translate(@place, '-', ''), ' ', translate(@hand, '-', ''), ' ', 'U5')}" title="Text retraced in brown by Livingstone's amanuensis.">
 			<xsl:apply-templates/></span>
 	</xsl:template>
 
