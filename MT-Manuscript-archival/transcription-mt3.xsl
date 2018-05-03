@@ -1510,7 +1510,7 @@
 	</xsl:template>
 
 <xsl:template match="metamark[@function='dele-abbr']" priority="8">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial notation instructing that a portion of text should be deleted">
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial annotation instructing that a portion of text should be deleted">
 			<xsl:apply-templates/>
 		</span>
 	</xsl:template>
@@ -1541,12 +1541,12 @@
 		</span>
 	</xsl:template>
 	
-	<xsl:template match="metamark[@function='query']" priority="8"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial notation querying a portion of text"><xsl:apply-templates/>
+	<xsl:template match="metamark[@function='query']" priority="8"><span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial annotation querying a portion of text"><xsl:apply-templates/>
 	</span>
 	</xsl:template>
 	
 	<xsl:template match="metamark[@function='stet']" priority="8">
-		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial notation instructing that a deleted portion of text should be retained"><xsl:apply-templates/>
+		<span class="{concat(name(), ' ', @place, ' ', @rend, ' ', @resp, ' ', @function, ' ', @n)}" title="Editorial annotation instructing that a deleted portion of text should be retained"><xsl:apply-templates/>
 		</span>
 	</xsl:template>
 	
