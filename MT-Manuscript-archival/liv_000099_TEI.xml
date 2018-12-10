@@ -3658,7 +3658,7 @@ obtained
 <lb/><p rend="no-indent"><note place="marginleft">V.</note> <fw><add place="inspace" hand="#U2" rend="gray">86</add> <add place="inspace" hand="#U1" rend="gray right">89</add></fw>
 <lb/><add place="inline" hand="#U2" rend="gray left"><note><unclear cert="low">Coultart</unclear></note></add><!-- possibly the name of the editor working on the manuscript.JL --> <space extent="2" unit="chars"/> =====</p>
 <lb/><p>In trying to benefit the tribes living
-	<lb/>under the <orgName ref="orgName.xml#org0038">Boers</orgName> of the <placeName><geogName type="mountain"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice>
+	<lb/>under the <orgName ref="orgName.xml#org0038">Boers</orgName> of the <placeName><geogName type="mountain">Cashan
 <lb/>mountains</geogName></placeName> I performed twice
 <lb/>a journey of about <measure><subst><del><unclear cert="medium">230</unclear></del><add place="over-text">300</add></subst> <add place="above">300</add> miles</measure>
 <lb/>to the Eastward of <placeName><settlement type="village">Kolobong</settlement></placeName> - <persName ref="people.xml#pers0516">Sechele</persName>
@@ -11476,7 +11476,7 @@ taught
 <lb/>never carried out - Two <term type="nationality">Dutch</term>
 <lb/><term type="occupation">clergymen</term> went on a <add place="below">^</add> <add place="above">hasty</add> tour of
 <lb/>baptizing marrying &amp;c - I happened
-<lb/>to be <metamark function="insertion" rend="red" resp="#U3"/><add place="marginleft"><metamark function="flag" spanTo="#meta-328" rend="red" resp="#U3"/>at the time<anchor xml:id="meta-328"/></add> in the part of the <placeName><geogName type="mountain"><choice><orig>Cashan</orig><reg>Magaliesberg</reg></choice>
+<lb/>to be <metamark function="insertion" rend="red" resp="#U3"/><add place="marginleft"><metamark function="flag" spanTo="#meta-328" rend="red" resp="#U3"/>at the time<anchor xml:id="meta-328"/></add> in the part of the <placeName><geogName type="mountain">Cashan
 <lb/>mountains</geogName></placeName> <metamark function="insertion"/> <add place="below" rend="red" hand="#U3">^</add> <add place="above" rend="red" hand="#U3">which</add> they were visiting
 <lb/>and found my brethren
     <lb/>residing in the house of <persName ref="people.xml#pers0364">M<hi rend="sup underline">r</hi>
