@@ -3127,7 +3127,7 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/><add place="marginleft">on <choice><sic>percieving</sic><corr>perceiving</corr></choice></add> <del type="cancelled">to see</del> the reasons why
 <lb/>the <term type="tribe">Mambari</term> would rather
 <lb/>have met them on the
-<lb/><placeName><geogName type="river">Zambesi</geogName></placeName> than so near
+<lb/><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> than so near
 <lb/>the sea coast
 
     <pb facs="liv_000101_0074" n="0074"/>  
@@ -7221,7 +7221,7 @@ There <add place="above" hand="#DL" n="DL"><metamark function="insertion"/>tower
 <lb/>time appeared</del> <add place="above">of</add> <measure>a thousand <choice><abbr>yds</abbr><expan>yards</expan></choice></measure> <del type="strikethrough">broad</del> leaped down <measure>a hundred feet</measure>
 <lb/>and became suddenly compressed in<del type="cancelled">to</del> a space of <measure>15 to 20 <choice><abbr>yds</abbr><expan>yards</expan></choice></measure>
 <lb/><metamark function="insertion" place="marginleft"/><anchor xml:id="add-61"/> <del type="cancelled">It is</del> a crack made in a hard basaltic rock from <choice><abbr>'</abbr><expan>the</expan></choice> right to
-<lb/><choice><abbr>'</abbr><expan>the</expan></choice> left bank <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river">Zambesi</geogName></placeName> and prolonged from <choice><abbr>'</abbr><expan>the</expan></choice> left bank
+<lb/><choice><abbr>'</abbr><expan>the</expan></choice> left bank <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> and prolonged from <choice><abbr>'</abbr><expan>the</expan></choice> left bank
 <lb/>away through <measure>30 or 40 <del type="cancelled">hills</del> miles</measure> of hills <space extent="3" unit="chars"/>If one
 <lb/>imagines <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Thames</geogName></placeName> filled with low tree covered hills immediately
     <lb/>beyond <choice><abbr>'</abbr><expan>the</expan></choice> tunnel<!-- could this be the tunnel near Strood, part of the Thames & Midway Canal, the 2nd largest tunnel in UK, converted to a railway tunnel in 1840s, sh --> <subst><add place="above">extending</add><del type="strikethrough">and</del></subst> as far as <placeName><settlement type="town" ref="settlement.xml#sett0054">Gravesend</settlement></placeName> <choice><sic>the</sic><corr>The</corr></choice> bed of black
@@ -9186,7 +9186,7 @@ that on <choice><abbr>'</abbr><expan>the</expan></choice> graves of <choice><abb
 <lb/>this spot.<!-- p670, sh --> <add place="above" hand="#DL" n="DL">It ought</add> <del type="cancelled" hand="#DL" n="DL">Let it</del> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">to</add> be remembered that <choice><abbr>'</abbr><expan>the</expan></choice> testimony of
 <lb/>these gentlemen is all <choice><abbr>'</abbr><expan>the</expan></choice> more valuable because they visited
 <lb/>the river when the water was at its lowest and <choice><abbr>'</abbr><expan>the</expan></choice> surface
-<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Zambesi</geogName></placeName> was not as it was now on a level with and
+<lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> was not as it was now on a level with and
 <lb/>flowing into <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="river">Mútue</geogName></placeName>  but <measure><subst><del type="cancelled" hand="#DL" n="DL">30</del><add place="above" hand="#DL" n="DL">16</add></subst> <choice><abbr>ft.</abbr><expan>feet</expan></choice></measure> beneath its bed <space extent="2" unit="chars"/>The
 <lb/><placeName><geogName type="river">Mutue</geogName></placeName> at <choice><abbr>'</abbr><expan>the</expan></choice> point of departure was only <measure><subst><del type="cancelled" hand="#DL" n="DL">4</del><add place="above" hand="#DL" n="DL">10</add></subst> or <subst><del type="cancelled" hand="#DL" n="DL">5</del><add place="above" hand="#DL" n="DL">12</add></subst> <choice><abbr>yds</abbr><expan>yards</expan></choice> broad</measure> 
 <lb/>shallow and filled with aquatic plants <space extent="3" unit="chars"/><del type="cancelled">The</del> <choice><sic>trees</sic><corr>Trees</corr></choice><!-- here.JL -->

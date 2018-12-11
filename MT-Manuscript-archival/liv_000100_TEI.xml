@@ -4524,7 +4524,7 @@ in order
 <lb/><fw><add place="inspace" hand="#U2" rend="gray left">104</add> <subst><del hand="#U1"><add place="inspace" hand="#U2" rend="gray right">12</add></del><add place="over-text" hand="#U1" rend="gray">108</add></subst></fw>
 <lb/><p>The <term type="tribe">Matibele</term> of <persName ref="people.xml#pers0446"><choice><orig>Mosilikatze</orig><reg>Mosilikatse</reg></choice></persName>
 <lb/>living a short distance <placeName><region>South
-<lb/>of the <placeName><geogName type="river">Zambesi</geogName></placeName></region></placeName>, and other
+<lb/>of the <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></region></placeName>, and other
 <lb/>tribes living a little South
     <lb/>of <metamark function="insertion"/><anchor xml:id="reorder-66"/> <placeName><settlement type="town" ref="settlement.xml#sett0085"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName> and <metamark function="reorder" spanTo="#meta-165"/><seg corresp="#reorder-66"><placeName><settlement type="town" ref="settlement.xml#sett0091">Tete</settlement></placeName></seg><anchor xml:id="meta-165"/> are
 <lb/>members of this same family
@@ -5225,7 +5225,7 @@ with their
 <lb/>means "the large river" or
 <lb/>the river <foreign xml:lang="fr"><hi rend="underline">par excellence</hi></foreign> - 
 <lb/><placeName><geogName type="river">Luambeji</geogName></placeName> <placeName><geogName type="river">Luambesi</geogName></placeName> -- 
-<lb/><placeName><geogName type="river">Ambezi</geogName></placeName> - <placeName><geogName type="river">Ojimbesi</geogName></placeName> <add place="above">&amp; <placeName><geogName type="river">Zambesi</geogName></placeName></add> &amp;c - all
+<lb/><placeName><geogName type="river">Ambezi</geogName></placeName> - <placeName><geogName type="river">Ojimbesi</geogName></placeName> <add place="above">&amp; <placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></add> &amp;c - all
 <lb/>possess a similar signification
 <lb/>and express the <orgName>native</orgName>
 <lb/>idea of this magnificent
@@ -10621,7 +10621,7 @@ and
 <lb/>seems to be man - <space extent="1" unit="chars"/>They
 <lb/>are more savage 
 <lb/>and commit more mischief
-<lb/>in the <del type="cancelled"><placeName><geogName type="river">Zambesi</geogName></placeName></del> <add place="below">^</add> <add place="marginleft"><placeName><geogName type="river">Leeambye</geogName></placeName></add> than in
+<lb/>in the <del type="cancelled"><placeName><geogName type="river"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName></del> <add place="below">^</add> <add place="marginleft"><placeName><geogName type="river">Leeambye</geogName></placeName></add> than in
 <lb/>any other river - After
 <lb/>dancing young men run
 <lb/>down to the water to wash
