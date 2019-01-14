@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>hi rend small not working in contents pages</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#13</span>
+        </p>
+        <h1>hi rend small not working in contents pages</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">kilmunbooks</a>
+            <time>9/27/2017</time>
+          </div>
+          <div class="body">
+            <p>hi rend small is not working in contents pages but is working elsewhere, 0017, 0018, 0019.</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/9/2017</time>
+          </div>
+          <div class="body"><p>Are you sure? See screen shot. This is clearly a contents page, as labeled at the top, and in looking at the page and in looking at the coding, I see that it&#39;s being rendered small.</p>
+<p><img src="https://user-images.githubusercontent.com/12518623/31364349-bc501e9c-ad29-11e7-98b8-89329b643658.png" alt="screen shot 2017-10-09 at 19 38 38"></p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

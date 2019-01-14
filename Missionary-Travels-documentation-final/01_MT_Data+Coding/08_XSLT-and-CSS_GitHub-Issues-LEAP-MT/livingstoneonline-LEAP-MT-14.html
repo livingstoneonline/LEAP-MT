@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Spacing between main text and notes</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#14</span>
+        </p>
+        <h1>Spacing between main text and notes</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">kilmunbooks</a>
+            <time>9/27/2017</time>
+          </div>
+          <div class="body">
+            <p>see example 0175 and 0176 of PDF. I think it is something to do with <code>&lt;p&gt;</code></p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/9/2017</time>
+          </div>
+          <div class="body"><p>I removed one <code>&lt;lb&gt;</code> on 0176. See screen shots. Otherwise it looks OK to me. The lines in the <code>&lt;note&gt;</code> look wonky because you&#39;re trying to put single quotes at the beginning of each line (and your method doesn&#39;t work evidently), but that&#39;s another ticket!</p>
+<p><img src="https://user-images.githubusercontent.com/12518623/31364617-a370e918-ad2b-11e7-96ba-3fd5da64fd2a.png" alt="screen shot 2017-10-09 at 19 53 33">
+<img src="https://user-images.githubusercontent.com/12518623/31364619-a554d2da-ad2b-11e7-945e-15b7eaf0e3fa.png" alt="screen shot 2017-10-09 at 19 53 36"></p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>hi rend right not righting</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#12</span>
+        </p>
+        <h1>hi rend right not righting</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">kilmunbooks</a>
+            <time>9/27/2017</time>
+          </div>
+          <div class="body">
+            <p><code>&lt;hi rend=&quot;right&quot;&gt;</code> is sometimes not working in contents pages. Lines 184, 202, 211, 215, 253, 255, 257, 258. 
+It is not working in Illustrations, 0020, either. It does if I swap the <code>&lt;hi&gt;</code> for a <code>&lt;p&gt;</code> but can&#39;t make it work with anything else.</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/9/2017</time>
+          </div>
+          <div class="body"><p>Can you take a look at my revised file and tell me where this is still an issue?</p>
+<p>I&#39;ve fixed pages 0017 to 0019 (please double-check). I see that it&#39;s an issue on 0020. Anywhere else?</p>
+<p>Note that you should not be using <code>&lt;hi rend=&quot;right&quot;&gt;</code> but rather <code>&lt;seg rend=&quot;right&quot;&gt;</code>. </p>
+<p>In any case, let&#39;s id where the issue is first and then we&#39;ll figure out what to do.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">
+              kilmunbooks
+            </a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body"><p>Hello,
+Still an issue at one point in n=0017 
+ <code>&lt;ab rend=&quot;center&quot;&gt;CHAPTER IX.&lt;/ab&gt;
+    &lt;p rend=&quot;no-indent&quot;&gt;&lt;hi rend=&quot;small&quot;&gt;LINYANTI. THE CHIEF SEKELETU. CUSTOMS OF THE MAKOLOLO&lt;/hi&gt;  &lt;hi rend=&quot;right&quot;&gt;178&lt;/hi&gt;&lt;/p&gt;</code>
+And as you note still an issue in n=0020</p>
+<p>I tried using <code>&lt;seg rend=&quot;right&quot;&gt;</code> but wouldn&#39;t work at all, whereas <code>&lt;hi&gt;</code> worked some of the time.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body"><p>This is now all fixed. I needed to redo the coding completely on the XML file (note that we use seg=&quot;right&quot; not hi=&quot;right&quot;) then twiddle with the CSS, but it all works now. Please scan over the rest of the HTML file to see that I didn&#39;t mess up anything else.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">
+              kilmunbooks
+            </a>
+            <time>10/20/2017</time>
+          </div>
+          <div class="body"><p>It looks lovely and picked up on a few Kate errors on the way. Thank you</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

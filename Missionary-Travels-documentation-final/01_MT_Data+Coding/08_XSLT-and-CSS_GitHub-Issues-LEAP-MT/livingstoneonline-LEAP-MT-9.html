@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Big space between paragraphs</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#9</span>
+        </p>
+        <h1>Big space between paragraphs</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">awisnicki</a>
+            <time>4/24/2017</time>
+          </div>
+          <div class="body">
+            <p>JL: &quot;Transform liv_000099_0229, and then look at 0244. The big space between paragraphs, just before the placeMark metamark and the words ‘The slow pace’ shouldn’t be there. I can’t spot the problem. This doesn’t occur elsewhere in the volume. The quick fix is to remove the paragraph break and indent using spaces.&quot;</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/9/2017</time>
+          </div>
+          <div class="body"><p>Closing this one because I&#39;ve combined it with #10 </p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

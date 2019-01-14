@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Dropdown menu on the multitext viewer</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#27</span>
+        </p>
+        <h1>Dropdown menu on the multitext viewer</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>11/14/2017</time>
+          </div>
+          <div class="body">
+            <p>In the multitext viewer for Missionary Travels, there&#39;s a bug in the right dropdown date menu, which is stopping navigation to the date selected. You mentioned that this is a bug that Nigel might be able to fix.</p>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

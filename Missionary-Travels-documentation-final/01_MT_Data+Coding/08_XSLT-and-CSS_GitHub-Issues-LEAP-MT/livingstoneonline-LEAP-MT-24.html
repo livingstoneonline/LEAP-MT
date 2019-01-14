@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Anchor following metamark with function let-stand</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#24</span>
+        </p>
+        <h1>Anchor following metamark with function let-stand</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>11/14/2017</time>
+          </div>
+          <div class="body">
+            <p>Anchor, following a metamark with the function let-stand is currently turned off (for the online transcriptions), having caused part of the site the crash. When working properly, text running between the opening metamark and the anchor tag should transform to appear with a dotted underline. Currently, since anchor is turned off, it&#39;s running to the end of the paragraph.</p>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

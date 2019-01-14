@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Marginal metamark deletions</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#8</span>
+        </p>
+        <h1>Marginal metamark deletions</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>3/24/2017</time>
+          </div>
+          <div class="body">
+            <p>Hi Adrian,</p>
+<p>As I proof the MT conversion, I&#39;ve come across one small recurring issue. When a metamark floating in the margin is deleted, the strikethrough is not showing.</p>
+<p>Resync github to see a test file I&#39;ve uploaded, &#39;Metamark deletion tests&#39;, which gives a number of examples. As you can see, when the metamark forms part of a note floating in the margin, the deletion works fine. Equally, when metamarks are not floating but are instead in the body of the text, the deletion also works. It&#39;s only an issue with metamarks floating in the margin on their own. Any ideas?</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>3/24/2017</time>
+          </div>
+          <div class="body"><p>Resync. Resolved for the latter two issues in the file, but not for that big slash. Is that slash also supposed to have a line through? I&#39;m not sure why the other two are working but not the big slash.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>3/25/2017</time>
+          </div>
+          <div class="body"><p>Thanks Adrian. The problem with this solution is that it doesn&#39;t recognise deletions in different colours. So when a value of <code>rend=&quot;red&quot;</code> is added to <code>del</code>, the deletion doesn&#39;t appear at all. It turns out this is the problem with the big slash. If you take away the <code>rend</code> value, the deletion will appear.</p>
+<p>The solution for this problem needs to accommodate the colour variations that we currently have for <code>del</code>, for which there are instructions in xsl (i.e. red line through black word; black line through red word; gray through red, and so on). I wonder if we need a template for <code>metamark</code> with a parent/ancestor of <code>del</code>? Or should we try to do it through css?</p>
+<p> It&#39;s strange that the problem only appears when the metamarks are in the margin.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>4/24/2017</time>
+          </div>
+          <div class="body"><p>Closing this since it appears resolved.</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

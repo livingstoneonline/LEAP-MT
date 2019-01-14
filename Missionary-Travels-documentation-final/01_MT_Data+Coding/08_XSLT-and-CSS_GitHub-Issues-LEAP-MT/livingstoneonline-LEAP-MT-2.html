@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Metamarks spanning to an anchor tag</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#2</span>
+        </p>
+        <h1>Metamarks spanning to an anchor tag</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>11/28/2016</time>
+          </div>
+          <div class="body">
+            <p>I’ve had a go at following James’s instructions for the metamark with a ‘flag’ function in combination with &lt;anchor&gt;. I want an opening bracket (often in red or gray) on the metamark and a closing bracket at the corresponding &lt;anchor&gt; tag. I was able to get an opening bracket appear easily (a triumph!), but can’t get one to appear in the anchor tag. I’m not sure where I’m going wrong. It’s possible that the issue is that there are lots of &lt;anchor&gt; tags, some of which are intended to connect to metamarks with different functions, but from James’s instructions I don’t think this should matter since I understand the XSL to mean that the anchor tag should match the xml:id of the spanTo on the anchor.</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>12/14/2016</time>
+          </div>
+          <div class="body"><p>OK, I think I resolved the last issue with the variable tooltip title on anchor. Sync the files and see what you think. If all looks good, then close this issue.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>12/15/2016</time>
+          </div>
+          <div class="body"><p>This looks resolved to me! Absolutely brilliant. Thanks for all your help. I&#39;ll close the thread!</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

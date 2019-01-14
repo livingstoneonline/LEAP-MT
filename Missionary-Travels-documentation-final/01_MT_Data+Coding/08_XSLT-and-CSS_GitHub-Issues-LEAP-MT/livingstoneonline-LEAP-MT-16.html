@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Justified text</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#16</span>
+        </p>
+        <h1>Justified text</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">kilmunbooks</a>
+            <time>9/27/2017</time>
+          </div>
+          <div class="body">
+            <p>Sometimes the final words in a paragraph are on either side of page, because of following note inside p. Can we use p and p rend=&quot;no-indent&quot; to correct, or is that too granular?</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/9/2017</time>
+          </div>
+          <div class="body"><p>The easiest way to fix this is to add an <code>&lt;lb/&gt;</code> before the &lt;note&gt; that follows right after this issue. See screen shot. As far as I can see, this doesn&#39;t actually add an extra line of empty space (that&#39;s good, i.e., it&#39;s not messing up formatting) but it does resolve the issue. I haven&#39;t implemented this (you&#39;ll need to in all cases), but it&#39;s an easy fix.
+<img src="https://user-images.githubusercontent.com/12518623/31364427-46f52812-ad2a-11e7-8e33-b52ef59c8b4c.png" alt="screen shot 2017-10-09 at 19 42 23">
+<img src="https://user-images.githubusercontent.com/12518623/31364475-84820c40-ad2a-11e7-9d2b-abedaa0ced01.png" alt="screen shot 2017-10-09 at 19 44 48">
+<img src="https://user-images.githubusercontent.com/12518623/31364476-849e044a-ad2a-11e7-8e4c-9555ed41a689.png" alt="screen shot 2017-10-09 at 19 44 52"></p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

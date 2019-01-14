@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Gap between paragraphs </title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#10</span>
+        </p>
+        <h1>Gap between paragraphs </h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>9/21/2017</time>
+          </div>
+          <div class="body">
+            <p>Hi Adrian,</p>
+<p>I&#39;m beginning to ticket remaining issues in the transcriptions. The good news is that I&#39;ve found very little; mostly it&#39;s just requiring a little xml tidy up. There&#39;s one issue I&#39;ve spotted a couple of times though. </p>
+<p>To have a look, go into the MT github where all my transcriptions are in a folder, Final MT Transcriptions. Sync github first because I just a big tidy up in there! </p>
+<p>The issue is that an unusual gap is appearing between paragraphs on page liv_000100_0071 (in file liv_000100_0053). I&#39;m not sure what&#39;s causing it, but I suspect it&#39;s to do with the milestone earlier in the page.</p>
+<p>We opened an issue back in April on a similar problem on a different page, liv_000099_0244 (in file iv_000099_0229). Initially, I thought this was to do with the marginal metamark, but I can see that there&#39;s a milestone on the previous page (0243).</p>
+<p>Thanks in advance for your help.</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/9/2017</time>
+          </div>
+          <div class="body"><p>Here&#39;s the text from #9 since this looks like the same thing:</p>
+<p>JL: &quot;Transform liv_000099_0229, and then look at 0244. The big space between paragraphs, just before the placeMark metamark and the words ‘The slow pace’ shouldn’t be there. I can’t spot the problem. This doesn’t occur elsewhere in the volume. The quick fix is to remove the paragraph break and indent using spaces.&quot;</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/9/2017</time>
+          </div>
+          <div class="body"><p>I&#39;ve fixed this. Resync and double-check. If fixed, then close this ticket.</p>
+<p>Nigel and I hit this same issue (although it might not seem like it from immediate context) some months ago: <a href="https://github.com/livingstoneonline/LEAP-XSLT/commit/ee4ea363e6279d5cdf7fd5ae26fc7c9a20636b29">https://github.com/livingstoneonline/LEAP-XSLT/commit/ee4ea363e6279d5cdf7fd5ae26fc7c9a20636b29</a></p>
+<p>Put simply, you can&#39;t have an <code>&lt;hr/&gt;</code> in a <code>&lt;p&gt;</code> because it violates HTML rules. There was an <code>&lt;hr/&gt;</code> higher up in each of the top paragraphs in the two cases. So I adjust the XSLT to render the <code>&lt;hr/&gt;</code> in a different way based on the solution Nigel previously implemented.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/10/2017</time>
+          </div>
+          <div class="body"><p>Perfect – that&#39;s fixed. Thanks Adrian. I&#39;ll close this issue now.</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

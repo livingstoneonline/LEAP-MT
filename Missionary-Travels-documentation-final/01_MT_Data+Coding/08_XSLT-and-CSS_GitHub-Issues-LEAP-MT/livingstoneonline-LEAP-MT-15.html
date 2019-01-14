@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Spacing between text and tables</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#15</span>
+        </p>
+        <h1>Spacing between text and tables</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">kilmunbooks</a>
+            <time>9/27/2017</time>
+          </div>
+          <div class="body">
+            <p>Large space between text and tables, but not a consistent amount of space. Only an issue with text about table, not with text below table. Pages 0458 line 3505, 0401 line 3520, 0497 line 3823, 0498 line 3852.</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/9/2017</time>
+          </div>
+          <div class="body"><p>Fixed all <code>&lt;table&gt;</code>s in file by removing <code>&lt;lb/&gt;</code> from tables.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">
+              kilmunbooks
+            </a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body"><p>Hello,
+Are you able to tranform document with the changes you have made? I am unable to transform document as it states<code>&lt;table&gt;</code> not allowed here in html. Yet the xml states that the transformation was successful. Please advise.  @awisnicki </p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body"><p>Works for me just fine. Are you transforming the version in the folder called &quot;MT-Master-Files-XML-XSL-CSS&quot;? The version in that folder is the correct one.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">
+              kilmunbooks
+            </a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body"><p>Yes that is the one. I synced beforehand could that have upset it?</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body"><p>Can you take a screen shot of the error you&#39;re getting. Also check the folder. If an HTML file is being produced, just double click to open that way. </p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">
+              kilmunbooks
+            </a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body"><p>How bizarre. Clicking on the html is working, the pub ver is opening in firefox. I must have done something to my Oxygen that the screen is not opening directly from the xml when I press ctrl shift T. I profusely apologise for my current bad tech juju. OK I&#39;ll get on these now. Thank you Adrian :-)</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

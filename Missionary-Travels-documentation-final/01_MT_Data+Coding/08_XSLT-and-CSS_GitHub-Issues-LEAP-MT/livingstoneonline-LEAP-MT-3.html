@@ -1,0 +1,77 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Retracing metamarks</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#3</span>
+        </p>
+        <h1>Retracing metamarks</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>11/29/2016</time>
+          </div>
+          <div class="body">
+            <p>I&#39;ve noticed that when &lt;retrace&gt; is used over an empty metamark (i.e. when an editor retraces the arrow for &#39;insertion&#39;), the metamark doesn&#39;t appear. For instance, in the line below, the arrow isn&#39;t appearing at all, even when I remove the code you added to the xsl to turn off empty metamarks:</p>
+<p>&lt;retrace hand=&quot;#U3&quot; rend=&quot;red&quot;&gt;&lt;metamark function=&quot;insertion&quot; rend=&quot;gray&quot; resp=&quot;#U2&quot;/&gt;&lt;/retrace&gt;
+
+</p>
+<p>A related issue is that in such cases, &lt;retrace&gt; is not being turned off by the closing tag. Instead, it is staying on until the end of the paragraph. For a particularly noticeable example, see 0114 (line 946 in the xml), where the retrace in red stays on for the rest of the paragraph (in this case, the next two pages).</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>11/29/2016</time>
+          </div>
+          <div class="body"><p>Try defining retrace in the XSLT with a child of metamark: xsl:template match=&quot;retrace[child::metamark]&quot;</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>11/29/2016</time>
+          </div>
+          <div class="body"><p>Managed to sort this out. When I turned empty metamarks back on and adjusted the priorities, &lt;retrace&gt; started to function properly again. I also tinkered with the css to ensure that the colours were working properly with &lt;retrace&gt;. </p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>11/29/2016</time>
+          </div>
+          <div class="body"><p>Also brilliant!</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>deletion colour issue in vol 3</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#18</span>
+        </p>
+        <h1>deletion colour issue in vol 3</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>10/17/2017</time>
+          </div>
+          <div class="body">
+            <p>I thought we&#39;d fixed every conceivable colour combination issue in the three volumes... but I&#39;ve come across one I can&#39;t seem to resolve in volume 3. Apologies!</p>
+<p>Transform liv_000101_0108.xml and go down to 0121. On line 13 you&#39;ll see that the word &#39;case&#39; has been struck out. The word should be black and struck through with a gray line, but instead it is appearing in Charles&#39; brown colour (thought correctly struck through in gray).</p>
+<p>The issue is that this gray deletion is inside an <code>add</code> in DL&#39;s hand, which is inside a <code>div</code> by CL. DL&#39;s words usually appear black when they&#39;re in a CL <code>div</code> without any issue. But there is a rule in the xslt file, saying that when a word is struck through in gray in a CL <code>div</code>, the word should appear as brown (CL&#39;s default colour) struck through in gray. This means that even though the word has been added by DL and you would think it would appear black, the specific rule is taking precedence. The relevant rule is on line 588 in the xslt vol 3 file (transcription-mt3.xsl): <code>&lt;xsl:when test=&quot;@rend=&#39;gray&#39; and ancestor::div[@n=&#39;CL&#39;]&quot;&gt;</code>.</p>
+<p>I think that the solution lies in creating a rule saying that where a word is struck through in gray, inside an <code>add</code> by DL, within a <code>div</code> by Charles, it should appear as black with a gray line through it. I think this requires a combination of parent and ancestor, but I can&#39;t get it to work...</p>
+<p>You can see my most recent attempt, commented out, beginning on line 604 in the volume 3 xslt file (using <code>parent::add[@n=&#39;DL&#39;]</code> and <code>ancestor::div[@n=&#39;CL&#39;]</code>). It might be necessary to do something like add <code>rend=&quot;black&quot;</code> to the xml (for the words added by DL) and make a rule for words rendered black and struck out in gray.</p>
+<p>Thanks for your help! </p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body"><p>The complexity of this one definitely makes my head spin!</p>
+<p>That said, I appear to have fixed this quite easily taking the problematic rule and putting it all the way at the end of the list of relevant rules.</p>
+<p>In short, I think the XSLT takes the rule that it comes to first and applies that as a first priority. So you should move the rule back from where I put it, but just be sure to put it <em>after</em> the rule you want to take precedence and then it should all work like you want it still.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/19/2017</time>
+          </div>
+          <div class="body"><p>Haha, I know, right! Even trying to describe the problem nearly sent me over the edge!</p>
+<p>But you&#39;ve hit on the solution. I&#39;d wondered if priorities might do it – but found you can&#39;t use them with <code>xsl:when</code>. I hadn&#39;t realised that the order of the rules was also the order of priority... Dumb of me. I should have thought of that!</p>
+<p>In the end, moving the problem rule wasn&#39;t enough since it had the effect of messing up colour combinations elsewhere. But adding a new rule: <code>&lt;xsl:when test=&quot;@rend=&#39;gray&#39; and ancestor::add[@n=&#39;DL&#39;]&quot;&gt;</code> and then putting it higher up the list of rules seems to have done the trick. </p>
+<p>I&#39;ve only added it to the vol 3 xslt file in case it is messing other stuff up that I haven&#39;t found yet (and I don&#39;t want to ruin anything in vols 1 and 2). </p>
+<p>Thanks Adrian!</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

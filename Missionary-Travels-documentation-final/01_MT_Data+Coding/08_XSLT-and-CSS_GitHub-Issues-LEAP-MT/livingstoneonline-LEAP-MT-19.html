@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Small caps in notes</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#19</span>
+        </p>
+        <h1>Small caps in notes</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">kilmunbooks</a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body">
+            <p>Is it possible to have small caps in notes? See example n=0714 <code>P&lt;hi rend=&quot;smallcaps&quot;&gt;YE&lt;/hi&gt;</code>
+I&#39;ve looked at the element and from how I read it 0.9em supercedes everything? Is this right?</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body"><p>This is now fixed. All instances of small caps throughout (including in all headers) now show as small caps.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">
+              kilmunbooks
+            </a>
+            <time>10/20/2017</time>
+          </div>
+          <div class="body"><p>Thank you </p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

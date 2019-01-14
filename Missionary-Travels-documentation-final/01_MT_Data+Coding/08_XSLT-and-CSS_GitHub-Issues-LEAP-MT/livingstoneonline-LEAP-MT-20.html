@@ -1,0 +1,69 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Single quotation marks at beginning of lines in notes</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#20</span>
+        </p>
+        <h1>Single quotation marks at beginning of lines in notes</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">kilmunbooks</a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body">
+            <p>Hello,
+I am trying to mimic DL&#39;s use of single quotation marks when he is quoting someone else in notes. Is it possible to make each line only ever be the width of the page it is viewed on. 
+Or should I delete the single quotation marks from the start of all lines but the first line in the two instances it occurs?
+See example 
+`&lt;lb/&gt;&lt;note xml:id=&quot;note_17&quot; rend=&quot;small&quot;&gt;* This singular encounter, in the words of an eye-witness, happened as follows:—</p>
+<p>&lt;lb/&gt;&quot;My South African Journal is now before me, and I have got hold of the account of the lion and buffalo affair; here it is: &#39;&lt;date when=&quot;1846-09-15&quot;&gt;15th Sept. 1846&lt;/date&gt;.  </p>
+<p>&lt;lb/&gt;&#39;Oswell and I were riding this afternoon along the banks of the Limpopo, when `</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/18/2017</time>
+          </div>
+          <div class="body"><p>This one, honestly, is one we should write off, especially if there are only two instances. Since you&#39;re using <code>&lt;lb/&gt;</code>, every time there is a new <code>&lt;lb/&gt;</code> there will be a line break. If you don&#39;t use <code>&lt;lb/&gt;</code>, it will always break arbitrarily based on screen width (which is want is actually preferable), but if so then I have no idea how to go about approaching <em>always</em> having a single quotation mark at the beginning of the line, i.e., it floats at the beginning of the given line. So in this case, I do think what you propose is best: &quot;delete the single quotation marks from the start of all lines but the first line in the two instances it occurs&quot; <em>plus</em> remove the <code>&lt;lb/&gt;</code>s</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/kilmunbooks">
+              kilmunbooks
+            </a>
+            <time>10/20/2017</time>
+          </div>
+          <div class="body"><p>Sorted</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

@@ -1,0 +1,144 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Turning on tootips for add and del</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#11</span>
+        </p>
+        <h1>Turning on tootips for add and del</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>9/21/2017</time>
+          </div>
+          <div class="body">
+            <p>Hi Adrian,</p>
+<p>We discussed this issue by email, so I&#39;m ticketing it here. I&#39;d like to turn on tooltips for all additions and deletions, so that when you hover over them you get the basic info (hand, colour, and perhaps even place).</p>
+<p>I notice that a tooltip currently appears for del, when it is made in the default hand. However, it doesn&#39;t seem to show up when there&#39;s additional info in the tag (i.e. another hand and another colour).</p>
+<p>It would be great if we could try this out - and we can see how the clashes with other tooltips work out. Thanks Adrian.</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/9/2017</time>
+          </div>
+          <div class="body"><p>Can you point me to a specific file and give me a few examples of additions and deletions to examine? Also an example of what you point out: &quot;I notice that a tooltip currently appears for del, when it is made in the default hand. However, it doesn&#39;t seem to show up when there&#39;s additional info in the tag (i.e. another hand and another colour).&quot;</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/10/2017</time>
+          </div>
+          <div class="body"><p>No problem! Let&#39;s go for file liv_000099_0092 (the first that has additions by unknown hand 3). The first page, 0092, provides enough examples I think</p>
+<p>For an example of the tooltip successfully working on del hover over any of the words scored out in black (line 35 &#39;commenced&#39;, line 47 &#39;became&#39;, and line 48 &#39;related&#39;). In all these cases, there&#39;s a tooltip noting &#39;deletion, type:cancelled&#39;.</p>
+<p>Then hover over any of the deletions in red (line 15 &#39;charge of that which, line 21 &#39;the crime is&#39;). In these cases, no tooltip appears.</p>
+<p>No tooltip currently appears for any additions:
+For a sample addition in DL&#39;s hand on 0092, see line 12 &#39;This did not arise&#39; and line 29 &#39;River&#39;. </p>
+<p>For a sample addition in U2&#39;s hand, see the page number &#39;86&#39; at the top of the page. See also the name &#39;Coultart&#39; in line 2 (though it already has a tooltip noting an uncertain reading).</p>
+<p>For a sample addition in U3 hand, see any of the words in red. For example line 15 &#39;that crime&#39;, line 18 &#39;charged&#39; and line 21 &#39;It is in fact&#39;.</p>
+<p>For all these cases, I&#39;d like something similar to the tooltip currently working on del (working for the default hand only). In other words, something like &#39;deletion, type:cancelled, hand:Unknown Hand 3, rend:red&#39; or &#39;addition, place:margin left, hand:Unknown Hand 2, rend:gray&#39;.</p>
+<p>Thanks for your help with this! It would be pretty cool to get this to work.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/10/2017</time>
+          </div>
+          <div class="body"><p>Ok, fixed. This was easy as it was just a matter of adding a specific code to all the examples of del or add in the xsl. </p>
+<p>All the examples you&#39;ve cited above now work, except &quot;Coultart&quot; which is also correctly working except that the add tag is trumped (yargh! that word again!) by the uncertain tag.</p>
+<p>Note: the add code adds &quot;ition&quot; to &quot;add&quot; to produce &quot;addition&quot;. The del code adds &quot;etion&quot; to &quot;del&quot; to produce &quot;deletion&quot;. (Just FYI if you end up using this code again.)</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/10/2017</time>
+          </div>
+          <div class="body"><p>That&#39;s fab! I&#39;ve checked it and it looks perfect. Really pleased to have that sorted out.</p>
+<p>In thanks, I&#39;ll promise not to use the word &#39;trumped&#39; for at least a week...!</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/12/2017</time>
+          </div>
+          <div class="body"><p>Hi Adrian,</p>
+<p>Sorry to open this again, but I have a follow up question. You might remember that in volume 3, we added an <code>&quot;n&quot;</code> attribute to additions and deletions, when we were working out a way of doing all the colour/hand variants. So there are lots of <code>n=&quot;CL&quot;</code> and <code>n=&quot;DL&quot;</code> etc. </p>
+<p>This means that the titles on add and del are also showing this. i.e. &quot;addition, hand: #DL; n: DL; place: above.&quot; For an example, you can see on the words &#39;hawked about&#39; in line 20 on liv_000101_0083.</p>
+<p>Is there are way to stop the tooltip title giving the &quot;n&quot; information? If not, I can live with it! I suspect it has something to do with this part of the code:
+<code>&lt;xsl:attribute name=&quot;title&quot;&gt;
+&lt;xsl:value-of select=&quot;concat(name(), &#39;etion, &#39;)&quot;/&gt;
+&lt;xsl:for-each select=&quot;@*&quot;&gt;
+&lt;xsl:sort/&gt;
+&lt;xsl:if test=&quot;not(name()=&#39;status&#39;)&quot;&gt;
+&lt;xsl:value-of select=&quot;concat(name(),&#39;: &#39;, ., &#39;; &#39;)&quot;/&gt;
+&lt;/xsl:if&gt;
+&lt;/xsl:for-each&gt;
+&lt;/xsl:attribute&gt;</code></p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/12/2017</time>
+          </div>
+          <div class="body"><p>This one turned out to be easy. </p>
+<p>Basically, you need to find all relevant instances of </p>
+<p><code>select=&quot;@*&quot;</code> </p>
+<p>then change them as follows: </p>
+<p><code>select=&quot;@*[not(name()=&#39;n&#39;)]&quot;</code> </p>
+<p>The fix I did fixed &quot;hawked about,&quot; so you need to do the others.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/13/2017</time>
+          </div>
+          <div class="body"><p>Perfect. I&#39;ve made the changes across the xsl file for vol 3. Thanks Adrian.</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

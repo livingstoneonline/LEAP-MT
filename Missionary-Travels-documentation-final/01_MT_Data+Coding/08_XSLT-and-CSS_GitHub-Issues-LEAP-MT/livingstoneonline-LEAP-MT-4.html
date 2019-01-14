@@ -1,0 +1,306 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Using hi and del around a note</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#4</span>
+        </p>
+        <h1>Using hi and del around a note</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>11/30/2016</time>
+          </div>
+          <div class="body">
+            <p>Currently, hi and del don&#39;t seem to be showing up when wrapped around a note. Is there a way of fixing this? I&#39;ve tried various options and had little success.</p>
+<p>Equally, it wouldn&#39;t be hard to make sure the hi and del tags are always inside note in the xml.</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>11/30/2016</time>
+          </div>
+          <div class="body"><p>I&#39;d say try something like template match=&quot;hi/del[child::note]&quot; or del/hi[child::note]&quot; which means, respectively, del within a hi, or hi within a del, and then on the span put the class so it has the variant with concat @rend etc. Finally, give it a high priority.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>11/30/2016</time>
+          </div>
+          <div class="body"><p>Unfortunately this didn&#39;t work for me (even when my code for colour variants of deletions and underling were removed). </p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>12/14/2016</time>
+          </div>
+          <div class="body"><p>I think we can close this?....</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>12/14/2016</time>
+          </div>
+          <div class="body"><p>Not yet – this one is still ongoing. I still can&#39;t get <code>&lt;hi&gt;</code> and <code>&lt;del&gt;</code> to work outside the <code>&lt;note&gt;</code> tag. Though, to be fair, this doesn&#39;t occur that often so I could probably catch any instances in the xml when I proof the conversions.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>12/14/2016</time>
+          </div>
+          <div class="body"><p>Just noticed that my use of xml tags has messed up the previous comment. I&#39;d meant to write that I still can&#39;t get hi and del tags to work outside the note tag. Apologies for the confusing looking message!</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>12/15/2016</time>
+          </div>
+          <div class="body"><p>I thought we sorted this out by email?... If not, send me an example, and I&#39;ll see what I can do. (Incidentally, you have to use the angle brackets from the WYSIWYG to make the XML appear properly -- see how I&#39;ve edited your note above. Also you can edit a comment once you&#39;ve put it up by hitting the little pencil icon.)</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>12/15/2016</time>
+          </div>
+          <div class="body"><p>I don&#39;t think so. I can&#39;t find any record of it. Here&#39;s an actual example – though the unclear tag isn&#39;t really relevant:</p>
+<p><code>&lt;add place=&quot;marginleft&quot; rend=&quot;gray&quot; hand=&quot;#U2&quot;&gt;&lt;hi rend=&quot;underline&quot;&gt;&lt;note&gt;&lt;persName&gt;&lt;unclear cert=&quot;medium&quot;&gt;Wilkes&lt;/unclear&gt;&lt;/persName&gt;&lt;/note&gt;&lt;/hi&gt;&lt;/add&gt;</code></p>
+<p>As you can see, I have the hi tag outside the note, which means that the note isn&#39;t being underlined.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>12/15/2016</time>
+          </div>
+          <div class="body"><p>Please resync. I appear to have fixed this, at least for the example you gave me. Just required one changed in the CSS. You might check various notes, both fitting the case above and others, just to see that all works properly.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>12/15/2016</time>
+          </div>
+          <div class="body"><p>Thanks for this! Almost there! It works when there is no place value on add, or where the place value is inline or below. But it doesn&#39;t work when the place value on add is &quot;marginleft&quot;. If you resync you there are a couple of examples in the TEI file so you can see what I mean. Not sure why that is. Another tweak in CSS?</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>12/16/2016</time>
+          </div>
+          <div class="body"><p>Resync. Two changes this time, one in XSL, one in CSS. See if that haven&#39;t messed up something else.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>12/18/2016</time>
+          </div>
+          <div class="body"><p>Hi Adrian. That definitely enables <code>&lt;del&gt;</code> and <code>&lt;hi&gt;</code> to work round note, but it ends up making everything within <code>&lt;add place=&quot;marginleft&quot;&gt;</code> float to the margin. i.e. your revisions mean that .add.marginleft behaves in the same way as .note.marginleft. I&#39;d rather just keep marginal additions in the body of the text for legibility, while allowing notes to float.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>12/18/2016</time>
+          </div>
+          <div class="body"><p>Try it now.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>12/20/2016</time>
+          </div>
+          <div class="body"><p>This enables the <code>del</code> and <code>hi</code> to work around note, but now it stops notes floating to the margin as they&#39;re supposed to. In xslt, in the lines shown below, if you reinsert <code>&#39; &#39;, &#39;margin left&#39;</code> (as we had before) it allows the notes to float, but it then stops <code>del</code> and <code>hi</code> working around them.
+<code>&lt;xsl:template match=&quot;note[ancestor::add[@place=&#39;marginleft&#39;]]&quot; priority=&quot;10&quot;&gt;
+        &lt;span class=&quot;{concat(name(), &#39; &#39;, @type, &#39; &#39;, @rend, &#39; &#39;, @place, &#39; &#39;, &#39;marginleft&#39;)}&quot;&gt;
+            &lt;xsl:apply-templates/&gt;
+        &lt;/span&gt;</code></p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>12/20/2016</time>
+          </div>
+          <div class="body"><p>I think I see the issue here. You want note, if it&#39;s ancestor is add place=&quot;marginleft,&quot; to be in the margin, but at the same time for anything else that&#39;s within add place=&quot;marginleft&quot; you don&#39;t want it to be in the margin. Is that right? So:</p>
+<p><code>&lt;add place=&quot;marginleft&quot;&gt;&lt;note&gt;Some text&lt;/note&gt;&lt;/add&gt;</code> will be in the left margin, whereas <code>&lt;add place=&quot;marginleft&quot;&gt;Some text&lt;/add&gt;</code> will NOT be in the left margin. </p>
+<p>Correct? In other words, please put all the specific cases you want in one XML file and tell me how each is supposed to work.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>1/3/2017</time>
+          </div>
+          <div class="body"><p>Hi Adrian. Yes, you&#39;re absolutely right. That&#39;s precisely what I want. I&#39;ve now put all the instances in the xml file in the metamark-anchor folder in github, with descriptions of how they should appear. </p>
+<p>As you&#39;ll see, hi and del are now working around note, but notes with an ancestor of add place=&quot;marginleft&quot; aren&#39;t floating to the margin as they should. With a previous coding change we were able to get them to float, but it also had the unintended affect of making regular marginal additions float too. As you say, I want normal marginal additions (i.e. those which don&#39;t include a note) to appear in the body of the text in square brackets. I&#39;ve included such &#39;normal&#39; cases in the xml file as well so we can be sure they&#39;re unaffected. </p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>1/9/2017</time>
+          </div>
+          <div class="body"><p>I appear to have fixed this via CSS. Take a look.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>1/10/2017</time>
+          </div>
+          <div class="body"><p>Thanks Adrian. Initially I thought this was fixed. I did a lot more testing and it was all working well. But when I opened up a regular file, it seems to be messing other stuff up. Regular additions from the margin left (which should appear in the body of the text in brackets) now end up appearing in two columns, with the succeeding text alongside the added portion of text.</p>
+<p>In the github folder I&#39;ve changed the name of the xml file we were working on to &#39;Tests_TEI&#39;. You can see that what you&#39;ve done works for my many test scenarios. But I&#39;ve also uploaded a new &#39;liv_00099_TEI&#39; file where you&#39;ll see the problem I&#39;m talking about on the first page, where it affects surrounding text. (In the github folder, it will also look like I&#39;ve uploaded new xsl and css files, but I&#39;ve just integrated some changes that I&#39;d made in other files before we started experimenting with hi/del).</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>1/10/2017</time>
+          </div>
+          <div class="body"><p>I made a small change that I think has fixed the issue as evident in the 99_TEI file. Can you take a look? When we meet next time, I can also show you a few ways to troubleshoot such issues.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>1/10/2017</time>
+          </div>
+          <div class="body"><p>Thanks Adrian. Closer, but not quite there. The last problem has gone (i.e. no crazy colums) but notes now aren&#39;t floating properly. They are floating but they&#39;re also bringing the rest of the line with them. You can see this on the first page, where the section heading V has brought the page number with it. You can also see it on 0098, 0101, 0107, 0109, 0110, 0111 and 0116. Half the note on 0105 is floating and the other half isn&#39;t, and the same thing occurs on 0116. A strange bit of overlap occurs on 0094 that wasn&#39;t previously issue (perhaps because the note is within two adds). </p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>1/10/2017</time>
+          </div>
+          <div class="body"><p>Take a look now.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>1/10/2017</time>
+          </div>
+          <div class="body"><p>Adrian, my friend, I think you&#39;ve done it! I&#39;ll do a bit more checking before closing this issue, but I think we&#39;re there. Thanks for solving it.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>1/10/2017</time>
+          </div>
+          <div class="body"><p>Of course. Happy to help and always delighted with a step forward for Livingstone Online!</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>3/23/2017</time>
+          </div>
+          <div class="body"><p>Hi Adrian,</p>
+<p>I&#39;m reopening this issue. I&#39;ve been checking the new xsl and css files, with your changes integrated, and an old problem has reemerged. <code>hi</code> and <code>del</code> are not working when outside <code>note</code>. You&#39;d managed to fix this before. I&#39;ve compared the new xsl and css files with my old ones, but can&#39;t spot where the issue might lie. Can you remember how you did this? </p>
+<p>I&#39;ve uploaded a file called &#39;tests&#39; into github, which we used before (it has all the variations). If you want my old xsl and css files to compare, so you can track down the problem, let me know.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>3/23/2017</time>
+          </div>
+          <div class="body"><p>Resync. I think I refixed this.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>3/23/2017</time>
+          </div>
+          <div class="body"><p>Well that was quick! Problem solved. Thanks.</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

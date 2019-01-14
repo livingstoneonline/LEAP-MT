@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Floating metamark and notes issues</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#1</span>
+        </p>
+        <h1>Floating metamark and notes issues</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>11/28/2016</time>
+          </div>
+          <div class="body">
+            <p>I&#39;m having problems with the second-metamark (i.e. having two metamarks side by side in the margin) and alternate-metamark xslt (i.e. having a note and a metamark side by side in the margin). For some reason, in liv_000099_0092_TEI, a couple of paragraphs are being identified as &#39;second-metamark&#39; and &#39;alternate-metamark&#39; when they shouldn&#39;t be, and the format is thus being scrambled. </p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>11/28/2016</time>
+          </div>
+          <div class="body"><p>I think I&#39;ve resolved this by using what I noted just before I left: adding [0] in the relevant place
+Pull down the new file from Github and let me know if this works. The one I fixed is on page 0097 and see lines 1029-1041 of the XSL file.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>11/28/2016</time>
+          </div>
+          <div class="body"><p>I had a look and what this has done is turned off the feature altogether. So the two &#39;tr&#39; metamarks on 0114 are now on top of each other again instead of side by side, and the note and metamark (&#39;Query collecting&#39; and &#39;Qy&#39;) on 0116 are also on top of each other. I tried various placements of [0] and couldn&#39;t get it to work.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>11/28/2016</time>
+          </div>
+          <div class="body"><p>Resync the files and look at the xsl file, line 1043. I think I&#39;ve fixed it. 0109 looks good as do 0114 and 0116. The issue appears to be that on 0109, near the end of the page, you had an empty metamark @flag with a forward slash at the end so every subsequent line was seen as having a metamark on it and this was making 0110 wonky. So, right now, the new xsl line takes metamarks that are empty and simply turns them off. Once you define things like metamark/@flag we can give that all of a higher priority and then this new line will only catch those that are not specifically addressed in the xsl. Hope that makes sense. I also commented out the lines in the xsl file with issue #2 for now.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>11/28/2016</time>
+          </div>
+          <div class="body"><p>That&#39;s terrific – thanks for fixing it. It looks perfect to me. I think I understand the &#39;priority&#39; issue, and in fact I gave it a quick try and was able to get my opening brackets appearing on &#39;flag&#39; when I gave it a priority of 10 without any problems materialising. Thanks for this. A great step forward.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>11/28/2016</time>
+          </div>
+          <div class="body"><p>Awesome. Closing this ticket. Incidentally, I&#39;d suggest you clean up the metamark text in the xsl file overall (and any other parts of the file you&#39;ve modified), just so it&#39;s easier to find things/implement things going forward.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>11/29/2016</time>
+          </div>
+          <div class="body"><p>Adrian, I&#39;ve reopened this issue. I noticed that all the empty metamarks had been turned off by the line of code you added (i.e. my arrows for &#39;insertion&#39;; the sign used for &#39;no-new-paragraph&#39; etc). This may well be dealt with later when we sort out the &#39;flag&#39; issue and set priorities accordingly. But I thought I&#39;d draw this to your attention in case you thought you&#39;d only turned off &#39;flag&#39;, the metamark that had been distorting several paragraphs. By the way, I&#39;ve tidied up the code I&#39;ve added to the xslt.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>11/29/2016</time>
+          </div>
+          <div class="body"><p>You need to rejig the priorities. Right now no metamark display is 10. That should be lower and the metamarks you want to display should get a higher number. The XSLT will process the higher numbers first then whatever is left will be processed next.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>11/29/2016</time>
+          </div>
+          <div class="body"><p>This worked. Thanks.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>11/29/2016</time>
+          </div>
+          <div class="body"><p>Brilliant!</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

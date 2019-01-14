@@ -1,0 +1,167 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>let-stand</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#5</span>
+        </p>
+        <h1>let-stand</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>2/25/2017</time>
+          </div>
+          <div class="body">
+            <p>I&#39;ve had some success with the &#39;let-stand&#39; metamark issue. Convert the file &#39;let-stand tests&#39; in the github folder to have a look. The first line is just for comparison (a &#39;flag&#39; metamark) so the second is the one to look at. </p>
+<p>As you can see, I&#39;ve gotten the dashed underline I wanted (success!), but it&#39;s currently outputting duplicate text. This is something that one commenter on stack overflow warned about. On the anchor tag, a bracket is also appearing, which is only supposed to appear for &#39;reorder&#39; and &#39;flag&#39; (i.e. as it does in the first line of xml). I suspect this will be easy to fix in the anchor template, though I didn&#39;t have any luck.</p>
+<p>You can see what I&#39;ve done in the xslt file from lines 1272-1289. I also introduced <code>&lt;xsl:text&gt;&amp;#xA;&lt;/xsl:text&gt;</code> in line 44 under <code>&lt;xsl:template match=&quot;/&quot;&gt;</code> as the instructions on stack overflow suggested. The relevant lines in css are 699-701. </p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>2/25/2017</time>
+          </div>
+          <div class="body"><p>think I&#39;ve solved the duplicate text issue. Hang on for further updates...</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>2/25/2017</time>
+          </div>
+          <div class="body"><p>Yes, managed to solve the duplicate issue. I&#39;ve also managed to get the let-stand metamark appearing in different colours, red and gray, though the appearance is a little off in my view. I imagine there&#39;s a more elegant way to do this in xslt than the way I have, but you can see what I&#39;ve done in lines 1274-1293. The relevant css lines are 699-707.</p>
+<p>I&#39;m still unable to remove the bracket on the anchor, without ruining the brackets for &#39;flag&#39; and &#39;reorder&#39;</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>2/25/2017</time>
+          </div>
+          <div class="body"><p>Well done! Very exciting step forward. I&#39;m happy to take a crack at the remaining issues with this, if you set up some specific examples in the test files and give me instructions on what you need.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>2/26/2017</time>
+          </div>
+          <div class="body"><p>Great. I&#39;ve set up a number of test cases in the file &#39;let-stand tests&#39;. At the start of the file are examples of &#39;flag&#39; and &#39;reorder&#39; metamark, which should remain unchanged with any coding updates.</p>
+<p>Here are the problems that are currently appearing with &#39;let-stand&#39;. </p>
+<p>1) A bracket is appearing on the anchor tag. This is because a bracket is supposed to appear for &#39;flag&#39; and &#39;reorder&#39;. I can&#39;t work out how to stop it for &#39;let-stand&#39; while retaining it for the other two.
+2) The dashed red and dashed gray underlines are mixed with black for some reason. This isn&#39;t a huge concern, but it would be better if this didn&#39;t happen.
+3) Ideally I&#39;d like a title on &#39;let-stand&#39;, since I have on the other metamarks. But the way this metamark is set up is a bit different to the others and I can&#39;t get it to accept a title.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>3/1/2017</time>
+          </div>
+          <div class="body"><p>Resync.
+For 1, I simply created a template that addresses this specific issue and removes the bracket. See if you can start with this, then do some more modifying to get it to work exactly how you want it. 
+For 3, This is now fixed and the pop up text is there for every instance. In some cases, it&#39;s trumped by other coding and so doesn&#39;t pop up, but if you look at the source code of the HTML file you&#39;ll see that it&#39;s there in every instance, so this is resolved.
+Note: I have no idea why the size of the font changes as one goes down the page, do you?
+Let&#39;s come back to 2 once 1 and 3 are fully resolved.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>3/1/2017</time>
+          </div>
+          <div class="body"><p>Great, thanks Adrian. I&#39;ve made some further changes, so resync.</p>
+<p>We can now consider 1 and 3 resolved. I think removing the bracket as you have done is enough, since &#39;flag&#39; and &#39;reorder&#39; are unaffected. And I&#39;ve changed the title to the one I want.</p>
+<p>As for the font size issue, it was being caused by the metamarks being set to 1.1em in css. I resolved this in section 12 of the file by creating specific cases for &#39;dashed&#39; beside a metamark i.e. <code>.dashed .metamark</code> which has done the trick. Does that look alright?</p>
+<p>Now for number 3!</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>3/1/2017</time>
+          </div>
+          <div class="body"><p>This appears to be coming, in part, from line 1300 of the xsl. That turns off the dashed-gray line, but I&#39;m sure messes up something else. However, there&#39;s also a dotted gray line. Resync and see what happens when I comment out 1300. Can you make out what is being enacted here, ie.., which templates are coming into play.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>3/1/2017</time>
+          </div>
+          <div class="body"><p>Resync and generate a new HTML file. I identified the issue. Basically, each preceding metamark is not being turned off (or maybe it&#39;s the anchor -- the point is that one of these two is not turning off) when a new one appears, so for subsequent ones the coding piles up. I&#39;ve put each separate instance of a metamark/anchor its own paragraph and now it appears fine (I think). I think we encountered this issue of a tag not being turned off before, but at this stage I can&#39;t remember how we fixed it. Do you?</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>3/1/2017</time>
+          </div>
+          <div class="body"><p>OK, I&#39;ve come up with a TOTAL hack to fix this. Basically, what I&#39;ve done is hard coded two closing tags (only) to appear for the two spans that are not closing (metamark and anchor). Sync and take a look. This is contraindicated and you&#39;ll need to test it across files, but it does do the trick here, so may be what we need. P.S. Ignore what I did to the XML file and all you need to look at is my most recent change to the xsl file.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>3/2/2017</time>
+          </div>
+          <div class="body"><p>Brilliant. I&#39;ve tested this on lots of files and it looks perfect. You&#39;ll need to explain to me exactly how this works when we speak, though I think I sort of grasp it. Really good to get this sorted. Thanks!!</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>3/2/2017</time>
+          </div>
+          <div class="body"><p>Awesome!</p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>

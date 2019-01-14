@@ -1,0 +1,197 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <script type="text/javascript" src="lib/jquery.emoji.js"></script>
+    <title>Line numbers in MT screwed up by long marginal notes</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <p>
+          <span class="badge closed">closed</span>
+          <span class="url">livingstoneonline/LEAP-MT#17</span>
+        </p>
+        <h1>Line numbers in MT screwed up by long marginal notes</h1>
+      </header>
+      <div class="comments">
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">justindlivingstone</a>
+            <time>10/12/2017</time>
+          </div>
+          <div class="body">
+            <p>Hi Adrian,</p>
+<p>This is probably close to the last xslt issue in MT. I&#39;ve noticed that when there&#39;s a long note in the margin, the line numbers (which we&#39;ve set to appear on the right hand side of the page in Missionary Travels) sometimes get messed up.</p>
+<p>Most of the time, the line number gets pushed to the right. This only seems to happen if the marginal note is of multiple lines. </p>
+<p>A related issue is that the line numbers seem to be including each line of the marginal note in their total count. That doesn&#39;t particularly bother me but on one occasion the result is that the line numbers end up in the wrong order and on another occasion two line numbers appear directly beside each other (liv_000100_0230 and liv_000099_0059).</p>
+<p>I&#39;ve spotted about a dozen messed up line numbers in vols 1 and 2 (which are now integrated), which I&#39;ll list below. You can look at these in the integrated xml files (Integrated_liv_000099_0001-00381_TEI and Integrated_liv_000100_0001-0476_TEI). The user would have to have to be paying close attention to catch some of these, but if fixable it would be great</p>
+<p>liv_000099_0059 – Line number 10 and 15 appear alongside each other. There is a long note in the margin that is throwing these off.</p>
+<p>liv_000099_0162 – Line no 35 has been pushed out to the right, presumably because of the long note in the margin.</p>
+<p>liv_000099_0344 – Line no 40 is being pushed out to the right, because of the long note in the margin.</p>
+<p>liv_000099_0355 – Line no 40 is being pushed to the right as a result of the marginal note</p>
+<p>liv_000099_0364 – Line no 5 is being pushed out as a result of the marginal addition.</p>
+<p>liv_000099_0369 – Line no 25 is being pushed out by the marginal addition</p>
+<p>liv_000100_0019 – Line no 5 is being pushed out by the marginal addition</p>
+<p>liv_000100_0101 –  Line no 20 is being pushed out by the marginal addition</p>
+<p>liv_000100_0217 – Line no 15 is being pushed out by the marginal addition</p>
+<p>liv_000100_0230 – Line no 15 is being pushed out by the marginal addition and the numbers 15 and 20 are in the wrong order</p>
+<p>liv_000100_0235 –  Line no 5 is being pushed out by the marginal addition</p>
+
+          </div>
+        </div>
+
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/12/2017</time>
+          </div>
+          <div class="body"><p>p.s. If this proves tricky, I&#39;m not against cutting the line numbers. They kind of box the transcription in a way that I like, but the Livingstone Online viewer provides that sort of effect anyway. </p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/12/2017</time>
+          </div>
+          <div class="body"><p>I&#39;ve come up with a kind of odd solution that appears to do the trick. See what you think. Basically, it excludes counting <code>&lt;lb/&gt;</code>s that are in an <code>&lt;add place=&quot;marginleft&quot;&gt;</code>. So it appears to count only new lines of text, not anything added in the left margin at least. </p>
+<p>What this also means is that the numbering, although correct in these parameters, will look like it&#39;s not counting lots of lines. Take a look at the instances you cite for liv_000099 above and you&#39;ll see what I mean. Also see screen shot:</p>
+<p><img src="https://user-images.githubusercontent.com/12518623/31524737-35f913bc-af81-11e7-9bb8-0cc492989342.png" alt="screen shot 2017-10-12 at 19 10 37"></p>
+<p>Another solutions is to show all line numbers. Then you can see that certain additions, no matter how many linebreaks they have, are all being counted as part of the same line. So if something is added to line 10, then the addition will each show line 10 in the margin. The issue is that sometimes you put an addition on its own line, see for instance the one on liv_000099_0355 that begins &quot;Dasy peltus.&quot; Also see screen shot:</p>
+<p><img src="https://user-images.githubusercontent.com/12518623/31524747-413cf0b8-af81-11e7-83b6-4e0c2399b413.png" alt="screen shot 2017-10-12 at 19 08 00"></p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/12/2017</time>
+          </div>
+          <div class="body"><p>With the coding as it is now, there are some instances where the same number shows up for multiple lines, but that&#39;s correct as the edition might break over several lines, but it&#39;s being added into one line of the manuscript. See screen shot for an example.</p>
+<p><img src="https://user-images.githubusercontent.com/12518623/31527561-d49af21c-af93-11e7-92f8-16fe985610f6.png" alt="screen shot 2017-10-12 at 21 23 37"></p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/13/2017</time>
+          </div>
+          <div class="body"><p>This is great progress. Thanks Adrian!</p>
+<p>I think having only certain line numbers repeated might look a bit odd. Having inspected it a little, it seems that multi-line additions will get the repeated line numbers if they begin on a multiple of 5 (i.e. on one of the numbers that currently appear).</p>
+<p>This makes me think that turning them on for every line, as you show above, might be better. Repeated line numbers would make a lot more sense to the user if they could see that every multi-line addition was being considered part of one line. It also gives a pretty nice granularity. Could you turn it on for me so I can have a look at it? </p>
+<p>p.s. you&#39;re absolutely right that the addition you flag up shouldn&#39;t be on its own line. Hopefully there won&#39;t be too many examples of this, since I&#39;ve tried to be consistent across the m.s. Thanks for drawing it to my attention.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/13/2017</time>
+          </div>
+          <div class="body"><p>To show every line number, see screen shot.
+<img src="https://user-images.githubusercontent.com/12518623/31551091-2bc4dbce-aff9-11e7-97b1-c7d22cf21d37.png" alt="screen shot 2017-10-13 at 09 29 19"></p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/13/2017</time>
+          </div>
+          <div class="body"><p>Hi Adrian. Great, I&#39;ll try them out with every line to see what it looks like.</p>
+<p>Thanks for the alternate solution, which sounds good. Have you committed this to github though, because it&#39;s not showing up for me when I sync?</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/13/2017</time>
+          </div>
+          <div class="body"><p>I spoke too soon. It&#39;s now showed up. Thanks!</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/13/2017</time>
+          </div>
+          <div class="body"><p>I&#39;ve also come up with three options for you for displaying line numbers for marginal comments. Here&#39;s a summary, but also see screen shots. It all has to do with changing one line in the XSL. We can do whichever one you like. Right now 1 is implemented.</p>
+<p><strong>ALL MARGINAL LINES SEPARATE AND COUNTED</strong>
+Option 1: Marginal addition in text counted as separate lines
+Marginal additions in margin counted but not displayed
+<code>&lt;xsl:number level=&quot;any&quot; from=&quot;pb&quot;/&gt;</code></p>
+<p><strong>HYBRID</strong>
+Options 2: Marginal addition in text counted as separate lines
+Marginal additions in margin not counted (because treated as part of one in-text line)
+<code>&lt;xsl:number level=&quot;any&quot; from=&quot;pb&quot; count=&quot;lb[not(ancestor::add[@place=&#39;marginleft&#39;])]|lb[not(ancestor::add[@place=&#39;marginleft&#39;]/note)]&quot;/&gt;</code></p>
+<p><strong>ALL MARGINAL LINES TREATED AS ONE LINE</strong>
+Option 3: Marginal additions in text counted as one line
+Marginal additions in margin not counted (because treated as part of one in-text line)
+<code>&lt;xsl:number level=&quot;any&quot; from=&quot;pb&quot; count=&quot;lb[not(ancestor::add[@place=&#39;marginleft&#39;])]&quot;/&gt;</code></p>
+<p><img src="https://user-images.githubusercontent.com/12518623/31556872-59bfaec4-b00c-11e7-9131-45dae4cf8e2b.png" alt="screen shot 2017-10-13 at 11 29 43">
+<img src="https://user-images.githubusercontent.com/12518623/31556874-59da21aa-b00c-11e7-8a8c-b2b9aa055f70.png" alt="screen shot 2017-10-13 at 11 29 47">
+<img src="https://user-images.githubusercontent.com/12518623/31556875-59f3b552-b00c-11e7-89e2-e267d5d26851.png" alt="screen shot 2017-10-13 at 11 34 45">
+<img src="https://user-images.githubusercontent.com/12518623/31556876-5a0a7788-b00c-11e7-8fec-c6d2a09016b9.png" alt="screen shot 2017-10-13 at 11 34 48">
+<img src="https://user-images.githubusercontent.com/12518623/31556877-5a26f4da-b00c-11e7-99b8-1eb98e1b96be.png" alt="screen shot 2017-10-13 at 11 38 46">
+<img src="https://user-images.githubusercontent.com/12518623/31556878-5a442474-b00c-11e7-8f0e-57a66b6f1583.png" alt="screen shot 2017-10-13 at 11 38 59"></p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/13/2017</time>
+          </div>
+          <div class="body"><p>Wow, thanks for your amazing work on this. These options are fabulous. I&#39;ll study them and will get back to you!</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/awisnicki">
+              awisnicki
+            </a>
+            <time>10/13/2017</time>
+          </div>
+          <div class="body"><p>Sure. And of course we can show every five line numbers of every single one.</p>
+</div>
+        </div>
+        <div class="comment">
+          <div class="meta">
+            <a class="person" href="https://github.com/justindlivingstone">
+              justindlivingstone
+            </a>
+            <time>10/17/2017</time>
+          </div>
+          <div class="body"><p>Thanks again for all these variations. I&#39;ve gone for option 2, which counts marginal additions in the body of the text but which doesn&#39;t count marginal additions floating in the margins. I think it&#39;s the tidiest looking system – and I think it would be the clearest for users. I&#39;m very happy with this, so thank you!</p>
+<p>For now, I&#39;ve kept line numbers appearing on every line. But I&#39;m happy to go with every 5 lines if you&#39;d prefer it had more consistency with the rest of Livingstone Online. </p>
+</div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      $(document).ready(function(){
+        $('.comment').each(function(i, d){
+          $(d).emoji()
+        })
+      })
+    </script>
+
+  </body>
+</html>
