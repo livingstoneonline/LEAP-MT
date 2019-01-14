@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="XYZ"><!-- Leave the xml:id blank for now. We need to sort out what this will be through LEAP. AW -->   
+    <teiHeader><fileDesc>
+            <titleStmt>
+                <title>Manuscript of Missionary Travels, Section 01</title><!-- James, is this the best way to handle identifying the section. Livingstone has just used Roman numerals but we've changed this to section 01, etc. AW -->
+                <author xml:id="DL">David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <editor>Adrian S. Wisnicki</editor><!-- We need to capture the role I'll play in this as co-director of LO and consultant on the creation of the transcription. This seems to me the best choice given the options in the TEI. Justin, see ei-c.org/release/doc/tei-p5-doc/en/html/ref-model.respLike.html. James, what say you? -->
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <pubPlace>Los Angeles, California, USA</pubPlace>
+                <publisher>Digital Library Program, University of California, Los Angeles</publisher>
+                <date>2015</date>
+                <availability><p>All materials are licensed for use under the <ref target="http://creativecommons.org/licenses/by-nc/2.5/scotland/">Attribution-NonCommercial 2.5 UK: Scotland</ref>. (c) National Library of Scotland</p></availability><!-- Justin, you need to confirm exact wording for copyright bit. AW -->
+            </publicationStmt>
+            <sourceDesc>
+<bibl xml:id="shelfmark">Ms.42428</bibl>
+<bibl xml:id="ccnumber">Sect. 3.1</bibl><!-- Note the CC number. AW -->
+<bibl xml:id="date">1857</bibl> <!-- I removed <bibl xml:id="recipient"> and <bibl xml:id="where"> line. AW -->
+            </sourceDesc>            
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2013-11-18</date><!-- are we going to maintain american sty;e numbering to ensure contiuity with LO? ks 18.11.13 --> <!-- Yes, I think so. Do you agree, Adrian? jl 12.09.13 --><!-- For now this is fine. AW -->
+                <name xml:id="KS">Kate Simpson</name> <!-- Remember to include a space after </name>. AW -->Initial transcription and XML encoding.
+            </change>
+            <change>
+                <date>2013-12-04</date>
+                <name xml:id="JL">Justin Livingstone</name> <!-- Remember to include a space after </name>. AW -->Proofreading
+            </change>
+            <change>
+                <date>2013-12-13</date>
+                <name xml:id="AW">Adrian S. Wisnicki</name> <!-- Remember to include a space after </name>. AW -->Review.
+            </change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+
+       <pb n="0004"/> <!-- James, note that this n value refers to the actual image file name. AW -->
+<lb n="1"/><fw><add place="marginleft">I.</add> <hi rend="double-underline; center">Introduction</hi> <add place="marginright" hand="U">3</add></fw> <!-- Kate, Justin, I've redone this. James, is this how you would suggest these header lines be done? AW -->
+
+<!-- James, could you advise us on how to handle the different numbering systems present on these pages as well as the general editorial interventions? By this I mean, we need a system to mark and distinguish the different hands editing the manuscript *and* the different writing materials where evident, such as red ink, pencil, etc.-->
+
+<lb n="2"/><p>My own inclination would
+<lb n="3"/>lead me to say as little as possible
+<lb n="4"/>about mysel<del>l</del><add place="inline">f</add>, but several
+<lb n="5"/>friends in whose judgement
+<lb n="6"/>I have confidence have suggested
+<lb n="7"/>that as the reader likes to
+<lb n="8"/>know something about the
+<lb n="9"/>author, a short account
+<lb n="10"/>of my origin and early life
+<lb n="11"/>would lend additional 
+<lb n="12"/>interest to this book. Such
+<lb n="13"/>is my excuse for the 
+<lb n="14"/>following egotism, and if an
+<lb n="15"/>apology be necessary for
+<lb n="16"/>giving my genealogy I find
+<lb n="17"/>it in the fact that it is
+<lb n="18"/>not very long and contains 
+<lb n="19"/>only one event of which 
+<lb n="20"/>I have reason to be proud.</p>
+<lb n="21"/><p>My great grandfather fell
+
+<!-- Above I am marking the paragraph, but not the <p rend="right">, do you want the indent at the start of each paragraph noted? ks 18.11.13  --> 
+<!-- Adrian, do you think this is necessary? jl 12.08.13 -->
+<!-- James, please advise. In the past we've done this using the space element <space dim="horizontal" extent="5" unit="char">. Whatever we do, we have to have a consistent approach for marking indented paragraphs. AW -->
+
+<lb n="22"/>at the battle of <placeName><settlement type="village">Culloden</settlement></placeName> fighting
+<lb n="23"/>for our old line of kings
+<lb n="24"/><add place="inline">and my</add> <add place="below">˄</add> <del type="strikethrough">My</del> grandfather was a
+<lb n="25"/>small farmer in <placeName><settlement type="island">Ulva</settlement></placeName>, where<!-- how do you wish to mark up areas in scotland? ks 18.11.13 --><!-- Yes, that's fine. AW-->
+<lb n="26"/>my father was born, <add place="below">˄</add> <add place="above">it is</add> one
+<lb n="27"/>of that cluster of the <placeName><region>Hebrides</region></placeName><!-- Let's call Hebrides a region. AW -->
+<lb n="28"/>thus described by <persName>Walter Scott</persName>
+<lb n="29"/>&quot;And <placeName><settlement type="island">Ulva</settlement></placeName> dark and <placeName><settlement type="island">Colonsay</settlement></placeName>&quot;
+<lb n="30"/>And all the groups of islets gay
+<lb n="31"/>&quot;that guard famed <placeName><settlement type="island">Staffa</settlement></placeName> round&quot; <add place="below">*</add></p>
+<lb n="32"/><p>My grandfather who was</p>
+<lb n="33"/><p><add place="inline">* Lord of the Isles, Canto IV.</add></p>
+    
+    <pb n="0005"/>
+<lb n="1"/><p rend="right"><add place="inline" hand="U">4</add></p><!-- I am marking up the UH numbers like this throughout, is this how you wish? ks 18.11.13 --> <!-- what do you think Adrian? Unless I can identify the hands eventually, this seems to be the way to do it. jl 12.09.13 --><!-- See the longer note from me above. Also, James, should this go on its own numbered line or rather be considered an addition to the preivous line? AW -->
+<lb n="2"/><p>intimately acquainted with all the
+<lb n="3"/>traditionary tales which that
+<lb n="4"/>great poet has since made 
+<lb n="5"/>use of in the &quot;tales of a grandfather&quot;
+<lb n="6"/>and other works, long before their
+<lb n="7"/>publications, I remember listening
+<lb n="8"/>to <add place="below">˄</add> <!-- Remember to always include a space between <add place="below">˄</add> and any other <add> elements. AW --><add place="above"><del type="striketrough">him</del></add> with delight as a boy<supplied cert="high">,</supplied> for his
+<lb n="9"/>memory was stored with a 
+<lb n="10"/>never ending stock of stories
+<lb n="11"/>many of which were <w>wonder<supplied>-</supplied>
+<lb n="12" break="no"/>-fully</w> like those I have since
+<lb n="13"/>heard while sitting by the
+<lb n="14"/><placeName><bloc>Africa</bloc></placeName>n <!-- James, note how I've revised the coding for this. Is this what you'd recommend? --> evening fires
+<lb n="15"/>While my grandmother sung
+<lb n="16"/>gaelic songs some of which,
+<lb n="17"/>as she believed, had been 
+<lb n="18"/>composed by captive islanders
+<lb n="19"/><del type="strikethrough">while</del> languishing hopelessly
+<lb n="20"/>among the <term type="people">Turks</term></p><!-- I have used the term type "people" here rather than "tribe" but i do not think it is appropriate for mark up, what would suggest we use, or should we not mark up nationalities? ks 18.11.13 --><!-- We definitely don't want to add new type values. James, please advise. AW -->                
+<lb n="21"/><p>My grandfather could give
+<lb n="22"/>particulars of the lives of our 
+<lb n="23"/>ancestors for six generations
+<lb n="24"/>of the family before him
+<lb n="25"/>and the only point of the tradition
+<lb n="26"/>I feel proud of is this - one of
+<lb n="27"/>these poor hardy islanders
+<lb n="28"/>was renowned in the district
+<lb n="29"/>for great wisdom and prudence
+<lb n="30"/>and when on his death-bed, it is
+<lb n="31"/>related that he called all his
+<lb n="32"/>children around him and said,
+<lb n="33"/>&quot;Now in my lifetime I have searched
+<lb n="34"/>most carefully through all the traditions
+<lb n="35"/>I could find of our family, and
+<lb n="36"/>I never could discover that there
+<lb n="37"/>was a th<del>ei</del><add place="inline">ie</add>f<!-- DL has obviously mixed up the "ei" before correcting it to "ie" in this word, do you want the XML mark up to show this? ks 18.11.13 --><!-- See how I've revised this. AW --> among our forefathers</p>
+                
+    <pb n="0006"/><!-- For ease of reading, please always insert a line break prior to beginning a new page. AW-->
+<lb n="1"/><p rend="right"><add place="inline" hand="U">5</add></p>
+<lb n="2"/><p><add place="below">˄</add> <add place="above">since</add> made use of in the <del type="strikethrough">interesting</del> &quot;tales
+<lb n="3"/>of a grandfather&quot; and other works
+<lb n="4"/><add place="inline" hand="U">L</add><del>l</del>ong before their publication, I
+<lb n="5"/>remember listening with delight as 
+<lb n="6"/>a boy to the never ending stock of
+<lb n="7"/>stories with which his memory
+<lb n="8"/>was stored - <add place="inline" hand="U">(</add> wonderfully like these
+<lb n="9"/>tales were to what I have <add place="below">˄</add> <add place="above">since</add> often
+<lb n="10"/>heard <del type="overwrite">while</del><add place="inline">when</add> sitting by the <placeName><bloc>Africa</bloc></placeName>n<!-- See above for the coding here. AW -->
+<lb n="11"/>evening fires <add place="inline" hand="U">)</add> -; while my grandmother
+<lb n="12"/>sung songs in gaelic some of 
+<lb n="13"/>which, she believed, had been 
+<lb n="14"/>composed by languishing captive
+<lb n="15"/>islanders <del type="cancelled">captives</del> among the
+
+<!--the large areas of secondary editing begin with the next line,it would be good if we had a mark up tag such as element <edit> attribute <pencil> or <ink> etc..., ks, 25.11.13--><!-- James and all, please see my note about this above. Also, it appears that the whole following section is cancelled and so, I believe, requires a <delSpan> or something like that? AW -->
+
+<lb n="16"/><term type="people">Turks</term>. To <del>them</del><!--I have marked up the <del> attribute as inline to identify that the word has been overwritten by another word but this is just a suggestion and not sure how it would link in with the subsequent code, ks, 25.11.13--><!-- I've removed the type="overwrite" attribute from <del>. I think that the inline value for <add> is enough. AW --><add place="inline">my</add> grandfather I look
+<lb n="17"/>as an authority for the authenticity
+<lb n="18"/>of the tradition for the sake of which
+<lb n="19"/>principally I refer to the genealogy
+<lb n="20"/>at all.- His father fell fighting
+<lb n="21"/>at <placeName><settlement type="village">Culloden</settlement></placeName> on the side of the Pretender<!-- Justin, Kate, what is the foregoing word? How should it be coded? AW -->
+<lb n="22"/>He had thus been guilty  of treason
+<lb n="23"/>which had it only been successful
+<lb n="24"/>would have been loyalty of the first
+<lb n="25"/>water. He was recognised while
+<lb n="26"/>still alive on the battle field by
+<lb n="27"/>a person of the same clan who
+<lb n="28"/>had fought on the opposite side
+<lb n="29"/>He had a handful of gold and
+<lb n="30"/>had placed the hand to the
+<lb n="31"/>wound from which his heart's
+<lb n="32"/>blood welled out in order to
+<lb n="33"/>glue the coin together and enable
+<lb n="34"/>him should his life be spared
+<lb n="35"/><del type="cancelled">to hide</del> to conceal it from the
+<lb n="36"/>observation of the plunderers</p>    
+                
+    <pb n="0007"/>
+<lb n="1"/><p><persName>Hecker</persName> <choice><sic>history</sic><corr>History</corr></choice> of
+<lb n="2"/>Epidemics of Middle ages<!-- should I mark up that this is a book? ks, 25.11.13 --><!-- No. AW --></p>
+
+    <pb n="0008"/>
+
+<!-- James, this page provides a good instance of the kind of margin additions we'll be seeing in this manuscript. I think Justin could use some guidance overall on how to handle these. AW -->
+
+<lb n="1"/><p><add place="above">If therefore any of you or any of your children should take to dishonest ways it will not be because it runs in our blood, it does not belong to you,</add> I leave this word with you. Be <add place="marginright" hand="U">6</add>
+
+<!-- Note how I've redone the lines above and below. Does this look correct to you, James? The following lines also need to be renumbered. AW -->
+
+<lb n="5"/>honest.&quot; <choice><sic>this</sic><corr>This</corr></choice> <add place="below">˄</add> <add place="above">event took place</add> <del type="strikethrough">was</del> at a time
+<lb n="6"/>when the Highlanders <add place="inline">˄</add><add place="margin">according to <persName>Macaulay</persName></add> were much
+<lb n="7"/>like the <placeName><region>Cape</region></placeName><!-- I am not certain how you wish to delineate Cape as it is a region but not in the context of current mark up, a region currently being a larger area, ks. 27.11.13 --><!-- Let's just make it region. AW --> Kaffirs and any
+<lb n="8"/>one <add place="below">˄</add> <add place="above">it was said</add> could escape punishment
+<lb n="9"/>for theft by presenting a share
+<lb n="10"/>of the plunder to his chieftain.
+<lb n="11"/><add place="margin">My ancestors</add> <del type="strikethrough">they</del> were Roman Catholics and 
+<lb n="12"/>long afterwards they were made
+<lb n="13"/>Protestants by the laird coming 
+<lb n="14"/>round with a man having a 
+<lb n="15"/>yellow staff. The  new religion
+<lb n="16"/>went long afterwards perhaps
+<lb n="17"/>it does so still by the name of 
+<lb n="18"/>&quot;the religion of the yellow stick.&quot;</p>
+<lb n="19"/><p>My grandfather finding 
+<lb n="20"/>his farm in <placeName><settlement type="island">Ulva</settlement></placeName> <del type="strikethrough">unable</del> <add place="above">insufficient</add> to
+<lb n="21"/>support a numerous family 
+<lb n="22"/>removed to <placeName><settlement type="village">Blantyre</settlement></placeName> works,
+<lb n="23"/>a large cotton manufactury on the 
+<lb n="24"/>beautiful <placeName><geogName type="river"><choice><sic>c</sic><corr>C</corr></choice>lyde</geogName></placeName> above <placeName><settlement type="city">Glasgow</settlement></placeName> 
+<lb n="25"/>and his sons having had the
+<lb n="26"/>best educations the <placeName><region>Hebrides</region></placeName><!--again would this be county or is Islands suitable?, ks,27.11.13--><!-- I think region is best. AW -->
+<lb n="27"/>afforded<add type="inline" hand="U">,</add><!--editing mark in pencil, ks, 28.11.13 --><!-- See above. AW --> were gladly recieved
+<lb n="28"/>as clerks by the proprietors,
+<lb n="29"/>Monteith<!-- would you like this kind of company marked up as a person or not tagged? ks. 27.11.13 --><!-- Don't mark up. AW --> and <choice><abbr>Co</abbr><expan>Company</expan></choice>. My grandfather
+<lb n="30"/>highly esteemed for his unflinching
+<lb n="31"/>honesty was employed in the
+<lb n="32"/>conveyance of large sums of 
+<lb n="33"/>money from <placeName><settlement type="city">Glasgow</settlement></placeName> to
+<lb n="34"/>the works and in old age was
+<lb n="35"/>according to the custom of that
+<lb n="36"/>company pensioned off so as</p>
+
+    <pb n="0009"/>
+<lb n="1"/><p><add place="marginright" hand="U">7</add><add type="inline" hand="U"><hi rend="ul">4</hi></add></p>
+<lb n="2"/><p>to spend his declining years in
+<lb n="3"/>ease and comfort<supplied cert="high">.</supplied></p>  
+<lb n="4"/><p><!-- The rest of this page still needs to be transcribe. AW --> </p>                
+            </div>
+        </body>
+    </text>
+
+</TEI>

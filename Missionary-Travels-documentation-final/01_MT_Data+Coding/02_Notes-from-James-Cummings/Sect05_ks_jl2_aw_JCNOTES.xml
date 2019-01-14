@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="XYZ">
+    <!-- Leave the xml:id blank for now. We need to sort out what this will be through LEAP. AW -->
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Manuscript of Missionary Travels, Section 05</title>
+                <!-- James, is this the best way to handle identifying the section? Livingstone has just used Roman numerals but we've changed this to section 01, etc. AW -->
+                <author xml:id="DL">David Livingstone</author>
+                <principal>Justin Livingstone</principal>
+                <editor>Adrian S. Wisnicki</editor>
+                <!-- We need to capture the role I'll play in this as co-director of LO and consultant on the creation of the transcription. 
+                    This seems to me the best choice given the options in the TEI. Justin, see ei-c.org/release/doc/tei-p5-doc/en/html/ref-model.respLike.html. 
+                    James, what say you? -->
+                <!-- JC: See respStmt example in Sect01 file -->
+            </titleStmt>
+            <publicationStmt>
+                <authority>Livingstone Online</authority>
+                <pubPlace>Los Angeles, California, USA</pubPlace>
+                <publisher>Digital Library Program, University of California, Los
+                    Angeles</publisher>
+                <date>2015</date>
+                <availability>
+                    <p>All materials are licensed for use under the <ref
+                            target="http://creativecommons.org/licenses/by-nc/2.5/scotland/"
+                            >Attribution-NonCommercial 2.5 UK: Scotland</ref>. (c) National Library
+                        of Scotland</p>
+                </availability>
+                <!-- Justin, you need to confirm exact wording for copyright bit. AW -->
+            </publicationStmt>
+            <sourceDesc>
+                <bibl xml:id="shelfmark">Ms.42428</bibl>
+                <bibl xml:id="ccnumber">Sect. 3.1</bibl>
+                <!-- Note the CC number. AW -->
+                <bibl xml:id="date">1857</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2013-11-27</date><!-- are we going to maintain american style numbering to ensure contiuity with LO? ks 18.11.13 --><!-- Yes. AW -->
+                <name xml:id="KS">Kate Simpson</name> Initial transcription and XML encoding. </change>
+            <change>
+                <date>2013-12-04</date>
+                <name xml:id="JL">Justin Livingstone</name> Proofreading </change>
+            <change>
+                <date>2013-12-13</date>
+                <name xml:id="AW">Adrian S. Wisnicki</name> Review. </change>
+        </revisionDesc>
+    </teiHeader>
+
+    <text>
+        <body>
+            <div>
+
+                <pb n="0092"/>
+                <lb n="1"/>
+                <fw><add place="marginleft">V.</add>
+                    <add place="inline" hand="U">86 <unclear cert="low"
+                                ><persName>Cowltait</persName></unclear></add>
+                    <hi rend="double-underline; center"><space dim="horizontal" extent="4"
+                            unit="chars"/></hi>
+                    <add place="marginright" hand="U">89</add></fw>
+
+                <!-- Note how I've redone the line above. James, is this the best way to do it? AW -->
+
+                <lb n="2"/>
+                <p>In trying to benefit the tribes living <lb n="3"/>under the <term type="people"
+                        >Boer</term><!-- I have used the term type "people" here rather than "tribe" but i do
+                            not think it is appropriate for mark up, what would suggest we use, 
+                            or should we not mark up nationalities? ks 18.11.13 -->
+                    <!-- James, we need a standardized tag for this and other such instances. AW -->
+                    <!--JC: I would have said:
+                    <name type="nationality">Boer</name>
+                    and in other cases if they are a band of people acting like tribe then
+                    <orgName type="tribe">Bakwena</orgName>
+                    
+                    You could use <term> for this as you have, but <name> or <orgName> gives you an additional annotation
+                    - this is a name / showing nationality / 'Boer'
+                    - this is a name / acting as a single organisation / of type 'tribe' / Bakwena
+                    
+                    -->
+                    of the <placeName><geogName type="feature">Cashan</geogName></placeName><!-- now know as the Magaliesberg, ks 27.11.13 -->
+                    <lb n="4"/>mountains I performed twice <lb n="5"/>a journey of about <del
+                        type="strikethrough">300</del>
+                    <!-- Remember to insert spaces when using add and del tags, between the add and del tags. AW --><add
+                        place="above">340</add> 
+                    <!-- JC: Or if a single editorial intervention wrap with <subst> -->
+                    miles <lb n="6"/>to the Eastward of
+                            <placeName><settlement type="village">Kolobeng</settlement></placeName>
+                    - <persName>Sechele</persName>
+                    <lb n="7"/>had become so obnoxious to the <lb n="8"/><term type="people"
+                        >Boers</term><!-- see comment above --> that though anxious to <lb n="9"
+                    />accompany me in my journey <lb n="10"/>he dared not trust himself <lb n="11"
+                    />among them -
+                        <!-- Do we need to encode the arrows that Livingstone draws to the margins? jl 12.9.13 -->
+                    <!-- James, please advise on this generally. It might be good, given that additions often run to several lines, as here, 
+                        to somehow separately number the lines of the addition. Adrian -->
+                    <!-- JC: Yes. I personally wouldn't record the arrow itself except perhaps by classifying with 
+                    @type or describing with @rend on <add> because my bias is to record the intended reading of the document whilst 
+                    noting the physical features which instantiate that. (e.g. deletions, etc.) So I wouldn't have the <add place="below">^</add>
+                    but would have <add place="margin" rend="arrowed">this did not...</add>
+                    -->
+                    <add
+                        place="below">˄</add><add place="margin">this did not arise from the crime
+                        of cattle stealing for <del type="strikethrough" hand="U">a change of that
+                            which</del>
+                        <add place="above" hand="U">that crime,</add>
+                        <del type="strikethrough" hand="U">is</del> so common among the Caffres <add
+                            place="inline" hand="U">,</add> was never <del type="strikethrough"
+                            hand="U">made</del>
+                        <add place="above" hand="U">charged</add> against his tribe or indeed
+                        against any <term type="tribe">Bechuana</term> tribe <del
+                            type="strikethrough" hand="U">the crime is</del>
+                        <add place="above" hand="U">It is in fact</add> unknown in the country
+                        except <del type="strikethrough" hand="U">in</del>
+                        <add place="above" hand="U">during</add> actual warfare. His independ<del
+                            type="strikethrough" hand="U">a</del><add place="above" hand="U"
+                        >e</add>nce &amp; love of the <term type="people">English</term> were his
+                        only faults</add>. On my last <lb n="12"/>journey there of about 200 miles
+                        <lb n="13"/>he on parting <del type="cancelled">with me</del> at the <lb
+                        n="14"/><placeName><geogName type="river"><add place="margin">River</add>
+                            Marikwe</geogName></placeName>
+                    <del type="cancelled">he</del> gave me two <lb n="15"/>servants &quot;to
+                    be&quot; as he said <lb n="16"/>&quot;his arms to serve me.&quot; and <lb n="17"
+                    />expressed regret that he could <lb n="18"/>not come himself. Suppose we <lb
+                        n="19"/>went South, would you come? <lb n="20"/>He <del type="strikethrough"
+                        >considered and</del>
+                    <add place="below">˄</add>
+                    <add place="above">then</add> gave <lb n="21"/>me the story of
+                        <persName>Sebituane</persName> saving <lb n="22"/>his life and expatiated
+                        <lb n="23"/>on the far famed generosity of <lb n="24"/>that really great
+                    man. This <lb n="25"/>was the first time I had <lb n="26"/>thought of crossing
+                    the Desert <lb n="27"/>to <placeName><geogName type="lake">Lake
+                        Ngami</geogName></placeName>. 
+                    <!-- JC: If you *want* you could also do this as:
+                    <placeName><geogFeat>Lake</geogFeat> <geogName type="lake">Ngami</geogName></placeName>
+                    
+                    or
+                    <placeName  type="lake"><geogFeat>Lake</geogFeat> <geogName>Ngami</geogName></placeName>
+                    -->
+                    The conduct <lb n="28"/>of the <term
+                        type="people">Boers</term> in sending a letter <lb n="29"/><add
+                        place="inline">˄</add>
+                    <add place="margin" >designed to <del type="strikethrough">produce</del>
+                        <add place="above" hand="U">procure</add> my removal out of the
+                        country</add> and their well known <lb n="30"/>settled policy, <del
+                        type="strikethrough">became</del>
+                    which<!--there is evidence of a word underneath here, would you want that marked up too? ks. 27.11.13--><!--Yes, use the <gap> element. See cheat seet. AW-->
+                    <!-- JC: If the same word has been rewritten overtop (to clarify, re-ink, etc.) then there is also the <retrace> element. -->
+                    I have <lb n="31"/>already <del type="strikethrough">related</del>
+                    <add place="above">described</add>, became <lb n="31"/>more fully developed on
+                        <lb n="32"/>this than on any former <lb n="33"/>occasion. When I spoke</p>
+
+                <pb n="0093"/>
+                <lb n="1"/>
+                <p><add place="inline" hand="U">87</add></p>
+                <p rend="right"><add place="inline" hand="U">90</add></p>
+                <!-- Again, I think these numbers should be marked with <add> but not get their own line. James, we need guidance on this. AW -->
+                <!-- JC: I would still say that these are not part of the letter text but meta-textual. As such
+                I would wrap the whole additions in the top margin into an <fw> (ignore that it is usually used by those recorded print 'forme' work) and 
+                <add> in the same way you have. (Though @hand is a pointer so needs # and to point to a handNote)
+                -->
+                
+                <lb n="2"/>
+                <p>to <persName>Mr Hendrick Potgeiter</persName> of the danger of <lb n="3"
+                    />hindering the gospel of <persName>Christ</persName> among <lb n="4"/>these
+                    poor savages he became <lb n="5"/><del type="strikethrough" hand="U"
+                        >excessively</del>
+                    <!-- JC: again @hand is a pointer so needs # and to point to a handNote -->
+                    <add place="above" >greatly</add> excited, <add place="inline">˄</add>
+                    <add place="margin">and called on one of his followers to answer me, <add
+                            place="inline" hand="U">He</add> threatened to attack any tribe that
+                        might <choice>
+                            <sic>recieve</sic>
+                            <corr>receive</corr>
+                        </choice> a native teacher <add place="inline" hand="U">but yet
+                        he</add></add>
+                    <del type="strikethrough" hand="U">yet</del> promised <lb n="6"/>to use his
+                    influence to prevent those <lb n="7"/>under him from throwing obstacles <lb
+                        n="8"/>in our way - I could <del type="cancelled">however</del>
+                    <lb n="9"/><choice>
+                        <sic>percieve</sic>
+                        <corr>perceive</corr>
+                    </choice> plainly that nothing more <lb n="10"/>could be done in that direction
+                        <lb n="11"/>so I commenced getting all <lb n="12"/>the information I could
+                    about <lb n="13"/>the Desert with the intention <lb n="14"/><del
+                        type="strikethrough" hand="U">to</del>
+                    <add place="above">of</add> cross<add place="inline" hand="U">ing</add> it if
+                    possible: <persName>Sekomi</persName>
+                    <lb n="15"/>the chief of the <term type="tribe">Bamangwato</term>
+                    <lb n="16"/><del type="strikethrough" hand="U">had</del>
+                    <add place="margin">was acquainted with</add> a <del type="cancelled">path</del>
+                    <add place="above">route</add> which he kept <lb n="17"/>carefully to himself
+                    because <lb n="18"/>the Lake country abounded <lb n="19"/>in ivory and he drew
+                    large <lb n="20"/>quantities <add place="above">thence</add>
+                    <del type="strikethrough">of it</del> periodically <lb n="21"/>at but small cost
+                    to himself. <lb n="22"/><persName>Sechele</persName> who valued highly <lb
+                        n="23"/>everything European and <lb n="24"/>was always <del
+                        type="strikethrough" hand="U">quite wide <lb n="25"/>awake</del>
+                    <add place="margin">fully alive</add> to his own interest <lb n="26"/>was
+                    naturally anxious to get <lb n="27"/>a share of that inviting field. <lb n="28"
+                    />He was most anxious to <lb n="29"/>visit <persName>Sebituane</persName> too,
+                    partly <lb n="30"/>perhaps from a wish to <lb n="31"/>show off his new
+                    acquirements <lb n="32"/>but chiefly I believe from <lb n="33"/>having very
+                    exalted ideas <lb n="34"/>of the benefits he would <lb n="35"/>derive from the
+                    liberality of <lb n="36"/>that reknowned chieftain</p>
+
+            </div>
+        </body>
+    </text>
+
+</TEI>
