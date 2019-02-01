@@ -1835,12 +1835,12 @@ were
 <lb/>off as if it were a
 <lb/>range of lofty mountains
 <lb/>and passes by the name
-<lb/>of <placeName><geogName type="mountain">Tala Mungongo</geogName></placeName> "behold
+<lb/>of <placeName><settlement type="village" ref="settlement.xml#sett0090">Tala Mungongo</settlement></placeName> "behold
 <lb/>the range" - <space extent="1" unit="chars"/>In <subst><del type="cancelled">my</del><add place="above">the</add></subst> old
 <lb/><add place="marginleft"><term type="nationality">Portuguese</term></add> map to which I had
 <lb/>been trusting in planning
 <lb/>my route it is indicated
-<lb/><metamark function="unknown" place="marginleft" rend="gray" resp="#U2"/> as <placeName><geogName type="mountain">Talla Mugongo</geogName></placeName> or "<hi rend="underline">Castle of 
+<lb/><metamark function="unknown" place="marginleft" rend="gray" resp="#U2"/> as <placeName><settlement type="village" ref="settlement.xml#sett0090">Talla Mugongo</settlement></placeName> or "<hi rend="underline">Castle of 
 <lb/>rocks</hi>"! and the <placeName><geogName type="river">Coanza</geogName></placeName>
 <lb/>is put down as rising
 <lb/>therefrom but here I was
@@ -2253,8 +2253,8 @@ as a <term type="occupation">guide</term> - <del type="cancelled">A</del> <retra
 <lb/>on the <date when="1854-04-21">21<hi rend="sup underline">st</hi></date> we passed
 <lb/>across the remaining portion
 <lb/>of this excessively fertile
-<lb/>valley to the foot of <placeName><geogName type="mountain">Tala
-<lb/><choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></geogName></placeName> - <space extent="1" unit="chars"/>We crossed a
+<lb/>valley to the foot of <placeName><settlement type="village" ref="settlement.xml#sett0090">Tala
+<lb/><choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></settlement></placeName> - <space extent="1" unit="chars"/>We crossed a
 <lb/>fine little stream called the
 <lb/><placeName><geogName type="river">Lui</geogName></placeName> on the <date when="1854-04-22">22 -</date> and another
 
@@ -2328,7 +2328,7 @@ as a <term type="occupation">guide</term> - <del type="cancelled">A</del> <retra
 <lb/>a clear idea of Tala</del></p> 
 <lb/><p>We had not yet got
 <lb/>a clear idea of the nature
-<lb/>of <placeName><geogName type="mountain">Tala <choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></geogName></placeName> - a gentleman
+<lb/>of <placeName><settlement type="village" ref="settlement.xml#sett0090">Tala <choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></settlement></placeName> - a gentleman
     <lb/>at <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> described it as
 <lb/>a range of very high
 <lb/>mountains which <add place="below">^</add> <add place="above">it</add> would
@@ -2639,7 +2639,7 @@ lowered the temperature
 
     <pb facs="liv_000101_0062" n="0062"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right">18</add> <add place="inspace" hand="#U1" rend="gray right">61</add></fw>
-<lb/>on the heights of <placeName><geogName type="mountain"><choice><sic>Tala Mungonga</sic><corr>Tala Mungongo</corr></choice></geogName></placeName>
+<lb/>on the heights of <placeName><settlement type="village" ref="settlement.xml#sett0090"><choice><sic>Tala Mungonga</sic><corr>Tala Mungongo</corr></choice></settlement></placeName>
 <lb/>or nearly <measure>300 miles</measure> from
 <lb/>the West coast where it was
 <lb/>first introduced by the
@@ -4775,7 +4775,7 @@ to furnish them with every article in
 <lb/>with his head close to my feet and never during
 <lb/>the <del type="strikethrough"><unclear cert="medium">whole jourl</unclear></del> entire journey did I have to call
 <lb/><add place="marginleft">him</add> twice for anything I needed <space extent="2" unit="chars"/>During <add place="above">our stay</add> <add place="below">^</add> <del type="cancelled">my While</del> at <del type="cancelled">this</del>
-<lb/><placeName><geogName type="mountain">Tala Mungongo</geogName></placeName> our attention was attracted to
+<lb/><placeName><settlement type="village" ref="settlement.xml#sett0090">Tala Mungongo</settlement></placeName> our attention was attracted to
 <lb/>a species <choice><abbr>`</abbr><expan>of</expan></choice> <term type="insect">red ant</term> which infests different parts
 <lb/><choice><abbr>`</abbr><expan>of</expan></choice> this country <choice><sic>it</sic><corr>It</corr></choice> is remarkably fond <choice><abbr>`</abbr><expan>of</expan></choice> animal
 <lb/>food <space extent="2" unit="chars"/>The <term type="occupation">commander</term> <choice><abbr>`</abbr><expan>of</expan></choice> this village having
@@ -4851,8 +4851,8 @@ to furnish them with every article in
 <lb/>cells of <choice><abbr>'</abbr><expan>the</expan></choice> <term type="insect">white ant</term> in order to secure themselves
 <lb/>from the heat <choice><abbr>` '</abbr><expan>of the</expan></choice> sun <del type="cancelled">in their</del> during their marauding
 <lb/>expeditions.</p>
-<lb/><p rend="no-indent"><note><date when="1855-01-15"><choice><abbr>Jan</abbr><expan>January</expan></choice> 15 <choice><abbr>/55</abbr><expan>1855</expan></choice></date></note> <space extent="1" unit="chars"/>We descended from <choice><abbr>'</abbr><expan>the</expan></choice> heights <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><geogName type="mountain">Tala 
-<lb/><choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></geogName></placeName> this <unclear cert="medium">mor</unclear>, <del type="cancelled" hand="#DL" n="DL">It</del> in one hour <space extent="3" unit="chars"/>I
+<lb/><p rend="no-indent"><note><date when="1855-01-15"><choice><abbr>Jan</abbr><expan>January</expan></choice> 15 <choice><abbr>/55</abbr><expan>1855</expan></choice></date></note> <space extent="1" unit="chars"/>We descended from <choice><abbr>'</abbr><expan>the</expan></choice> heights <choice><abbr>`</abbr><expan>of</expan></choice> <placeName><settlement type="village" ref="settlement.xml#sett0090">Tala 
+<lb/><choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></settlement></placeName> this <unclear cert="medium">mor</unclear>, <del type="cancelled" hand="#DL" n="DL">It</del> in one hour <space extent="3" unit="chars"/>I
 <lb/>counted <choice><abbr>'</abbr><expan>the</expan></choice> number <choice><abbr>`</abbr><expan>of</expan></choice> paces made on <choice><abbr>'</abbr><expan>the</expan></choice> slope downward
 
     <pb facs="liv_000101_0115" n="0115"/>
@@ -4860,7 +4860,7 @@ to furnish them with every article in
 <lb/><del type="cancelled">wh</del> and found them to be between sixteen hundred <choice><abbr>wh.</abbr><expan>which</expan></choice> may
 <lb/>give a perpendicular height <choice><abbr>`</abbr><expan>of</expan></choice> from <measure>twelve to fifteen
 <lb/>hundred <choice><abbr>ft.</abbr><expan>feet</expan></choice></measure> <space extent="2" unit="chars"/>Water boiled at 206° at
-<lb/><placeName><geogName type="mountain">Tala <choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></geogName></placeName> above and at 208° at <choice><abbr>'</abbr><expan>the</expan></choice> bottom
+<lb/><placeName><settlement type="village" ref="settlement.xml#sett0090">Tala <choice><sic>Mungonga</sic><corr>Mungongo</corr></choice></settlement></placeName> above and at 208° at <choice><abbr>'</abbr><expan>the</expan></choice> bottom
 <lb/>of <choice><abbr>'</abbr><expan>the</expan></choice> declivity. <space extent="2" unit="chars"/>The air being at 72° in <choice><abbr>'</abbr><expan>the</expan></choice> shade
 <lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> former case and 94° in <choice><abbr>'</abbr><expan>the</expan></choice> latter <space extent="3" unit="chars"/>The <w>temp-
 <lb break="no"/>erature</w> generally throughout <choice><abbr>'</abbr><expan>the</expan></choice> day was <del type="cancelled">9</del> from
@@ -5170,8 +5170,8 @@ until I reached
 <lb/>render the mines unhealthy 
 <lb/>The <w>gravitati<subst><del>ng</del><add place="over-text">on</add></subst></w> of the <term type="ailment">malaria</term>
 <lb/>from the more elevated
-<lb/>land of <placeName><geogName type="mountain">Tala Mungongo</geogName></placeName>
-    <lb/>towards <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> is
+<lb/>land of <placeName><settlement type="village" ref="settlement.xml#sett0090">Tala Mungongo</settlement></placeName>
+<lb/>towards <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName> is
 <lb/>the only way the unhealthiness
 <lb/>of this spot on<!-- letters beneath 'on' but they are illegible.JL --> the
 <lb/><seg type="weather">prevalence of the Westerly
@@ -5261,8 +5261,8 @@ until I reached
 <lb/><placeName><geogName type="source">source of the <placeName><geogName type="river">Quango</geogName></placeName></geogName></placeName> is <add place="below">^</add> <add place="above"><measure>8 days or one hundred miles</measure></add> to <choice><abbr>'</abbr><expan>the</expan></choice> south of this and in
 <lb/>a range called <placeName><geogName type="mountain">Mosamba</geogName></placeName> in the country of <choice><abbr>'</abbr><expan>the</expan></choice>
 <lb/><term type="tribe">Basongo</term>. <space extent="2" unit="chars"/>We can see from this a sort of break
-<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> highland <choice><abbr>wh.</abbr><expan>which</expan></choice> stretches away round to <placeName><geogName type="mountain">Tala
-<lb/>Mongongo</geogName></placeName> through <choice><abbr>wh.</abbr><expan>which</expan></choice> the river comes</p>
+<lb/>in <choice><abbr>'</abbr><expan>the</expan></choice> highland <choice><abbr>wh.</abbr><expan>which</expan></choice> stretches away round to <placeName><settlement type="village" ref="settlement.xml#sett0090">Tala
+<lb/>Mongongo</settlement></placeName> through <choice><abbr>wh.</abbr><expan>which</expan></choice> the river comes</p>
 <lb/><p rend="no-indent">A death had occurred in a village <measure>about a mile</measure>
 <lb/>off the people were busy beating drums &amp; firing
 <lb/><add place="marginleft" rend="gray" hand="#DL" n="DL">festive</add> guns - <subst><del type="strikethrough">a</del><add place="above">The</add></subst> funeral <subst><del>is</del><add place="over-text">ri</add></subst>tes are half feasting, half-
@@ -7750,7 +7750,7 @@ that on <choice><abbr>'</abbr><expan>the</expan></choice> graves of <choice><abb
 <lb/>meet with <choice><abbr>'</abbr><expan>the</expan></choice> same trees we saw in descending towards the
 <lb/><placeName><region>west coast</region></placeName>. <space extent="3" unit="chars"/>A kind <choice><abbr>`</abbr><expan>of</expan></choice> <term type="plant">sterculia</term><add place="above"><del type="cancelled">^</del></add> <choice><abbr>wh.</abbr><expan>which</expan></choice> is <choice><abbr>'</abbr><expan>the</expan></choice> most common
     <lb/>tree at <placeName><settlement type="city" ref="settlement.xml#sett0073"><choice><orig>Loanda</orig><reg>Luanda</reg></choice></settlement></placeName> and <choice><abbr>'</abbr><expan>the</expan></choice> <term type="plant">baobab</term> are met with here and <choice><abbr>'</abbr><expan>the</expan></choice> tree
-<lb/>called <term type="plant">moshuka</term> <choice><abbr>wh.</abbr><expan>which</expan></choice> we found near <placeName><geogName type="mountain">Tala <del type="strikethrough">Munga</del> Mungongo</geogName></placeName>
+<lb/>called <term type="plant">moshuka</term> <choice><abbr>wh.</abbr><expan>which</expan></choice> we found near <placeName><settlement type="village" ref="settlement.xml#sett0090">Tala <del type="strikethrough">Munga</del> Mungongo</settlement></placeName>
 <lb/>was now <del type="strikethrough">in</del> <add place="below">^</add> <add place="above">yielding its</add> fruit <add place="below">^</add> <add place="above">resembling small <term type="plant_foodstuff">apples</term></add><space extent="3" unit="chars"/>
 <lb/>The people brought it to us in large quantities
 <lb/>it tastes <del type="cancelled">somewhat</del> like <add place="below">^</add> <add place="above">a</add> <term type="plant_foodstuff">pear<del type="cancelled">s</del></term> <metamark function="insertion" resp="#DL" n="DL"/><anchor xml:id="add-71"/> <subst><add place="above">and</add><del type="cancelled">but</del></subst> has four <add place="below">^</add> <add place="above">large</add> seeds within
