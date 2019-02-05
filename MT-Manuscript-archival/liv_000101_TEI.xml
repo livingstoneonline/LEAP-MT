@@ -3054,8 +3054,8 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right">31</add> <add place="inspace" hand="#U1" rend="gray right">70</add></fw>
 <lb/>the farther we proceeded West
 <lb/>the ranges of lofty blue
-<lb/><placeName><geogName type="mountain">mountains <add place="marginleft"><metamark function="insertion"/>of Libollo</add></geogName></placeName> which in coming
-    <lb/>towards <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> we had
+<lb/><placeName><geogName type="mountain">mountains <add place="marginleft"><metamark function="insertion"/>of <term type="tribe">Libollo</term></add></geogName></placeName> which in coming
+<lb/>towards <placeName><settlement type="town" ref="settlement.xml#sett0019">Ambaca</settlement></placeName> we had
 <lb/>seen <measure>thirty or forty miles</measure>
 <lb/>to our South were now
 <lb/>shut out from our
@@ -3507,8 +3507,8 @@ on <placeName><region>Salisbury Plains</region></placeName> only
 <lb/>were soon obliged to retreat. <space extent="2" unit="chars"/>Their Country
     <lb/>near to <placeName><settlement type="town" ref="settlement.xml#sett0077">Massangano</settlement></placeName> is low <del type="cancelled">lying</del> and marshy
 <lb/>but becomes more elevated in the distance
-<lb/>and beyond them lie the <add place="below">^</add> <del type="cancelled"><add place="above">d</add></del> lofty dark <add place="below">^</add> <add place="above">mountain</add> ranges <del type="cancelled" hand="#DL" n="DL">of
-<lb/>mountains</del> of the <term type="tribe">Libollo</term> another powerful
+<lb/>and beyond them lie the <add place="below">^</add> <del type="cancelled"><add place="above">d</add></del> lofty dark <add place="below">^</add> <placeName><geogName type="mountain"><add place="above">mountain</add> ranges <del type="cancelled" hand="#DL" n="DL">of
+<lb/>mountains</del> of the <term type="tribe">Libollo</term></geogName></placeName> another powerful
     <lb/><add place="marginleft">&amp;</add> independent people <space extent="6" unit="chars"/>Near <placeName><settlement type="town" ref="settlement.xml#sett0077">Massangano</settlement></placeName>
 <lb/>I observed what seemed to be an effort of nature
 
@@ -4424,8 +4424,8 @@ at a <del type="strikethrough">time</del>
 <lb/>and undulating with a general slope down
 <lb/>towards the river <placeName><geogName type="river">Coanza</geogName></placeName> <measure>a few miles distant</measure>
 <lb/>That river is the <add place="above" hand="#DL" n="DL">S</add>southern boundary of the <term type="people">Portuguese</term>
-<lb/>and beyond <add place="above">to the <choice><abbr>S</abbr><expan>South</expan></choice> and <choice><abbr>S. W.</abbr><expan>South West</expan></choice></add> we see the high mountains of the
-<lb/><term type="tribe">Libollo</term> <del type="cancelled">and</del> on the <choice><abbr>S. E.</abbr><expan>South East</expan></choice> we have also mountainous
+<lb/>and beyond <add place="above">to the <choice><abbr>S</abbr><expan>South</expan></choice> and <choice><abbr>S. W.</abbr><expan>South West</expan></choice></add> we see the high <placeName><geogName type="mountain">mountains of the
+<lb/><term type="tribe">Libollo</term></geogName></placeName> <del type="cancelled">and</del> on the <choice><abbr>S. E.</abbr><expan>South East</expan></choice> we have also mountainous
 <lb/>country inhabited by the <term type="tribe">Kimbonda</term> or <term type="tribe">Ambonda</term>
 <lb/>who are said by <persName><term type="occupation"><choice><abbr>Col</abbr><expan>Colonel</expan></choice></term> Pire<subst><del hand="#DL" n="DL">z</del><add place="over-text" hand="#DL" n="DL">s</add></subst></persName> to be a very brave and independent
 <lb/>people but hospitable and fair in their dealings
