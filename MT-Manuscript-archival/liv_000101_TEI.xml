@@ -2817,7 +2817,7 @@ lowered the temperature
 <lb/>of <placeName><geogName type="stone-monument">Stonehenge</geogName></placeName></add></del>
 <add place="marginleft"><metamark function="insertion"/><metamark function="flag" spanTo="#meta-290"/>The <placeName><geogName type="stone-monument">Stonehenge</geogName></placeName>
     <lb/>group<anchor xml:id="meta-290"/></add> 
-on <placeName><region>Salisbury Plains</region></placeName> only
+on <placeName><region ref="region.xml#region0052">Salisbury Plains</region></placeName> only
 <lb/><del type="cancelled"><add place="marginleft">here</add> <unclear cert="medium">have</unclear></del> the stone pillars <add place="below">^</add> <add place="above">here</add> are of
 <lb/>gigantic size - <space extent="1" unit="chars"/>This <del type="cancelled">district</del>
 <lb/><subst><del>is</del><add place="over-text">re</add></subst>gion is all wonderfully fertile
@@ -5157,7 +5157,7 @@ until I reached
 <lb/><retrace hand="#DL" n="DL" rend="gray"><metamark function="ed-mark" place="inline">----</metamark></retrace> <del type="cancelled" rend="gray" hand="#DL">The season of</del> <choice><sic>the</sic><corr>The</corr></choice> unhealthiness of <choice><abbr>'</abbr><expan>the</expan></choice> <seg type="weather">westerly
 <lb/>winds</seg> probably results from <term type="ailment">malaria</term> <del type="cancelled" hand="#DL" n="DL">being</del>
 <lb/><add place="marginleft" hand="#DL" n="DL">appearing to be</add> heavier than common air out <del type="cancelled" hand="#DL" n="DL">is</del> <add place="above" hand="#DL" n="DL" rend="gray">sweeping</add> <w>roll<subst><del hand="#DL" n="DL">ed</del><add place="over-text" hand="#DL" n="DL">ing</add></subst></w> down
-    <lb/>into <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><geogName type="valley">valley of <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName></geogName></placeName> from <choice><abbr>'</abbr><expan>the</expan></choice> <w>west<add place="inline" hand="#DL" n="DL">ern</add></w> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">plateau</add> <del type="cancelled" hand="#DL" n="DL">and</del> <del type="cancelled" hand="#DL" rend="gray">acts</del>
+<lb/>into <choice><abbr>'</abbr><expan>the</expan></choice> <placeName><region ref="region.xml#region0025">valley of <placeName><settlement type="village" ref="settlement.xml#sett0039">Cassange</settlement></placeName></region></placeName> from <choice><abbr>'</abbr><expan>the</expan></choice> <w>west<add place="inline" hand="#DL" n="DL">ern</add></w> <add place="below" hand="#DL" n="DL">^</add> <add place="above" hand="#DL" n="DL">plateau</add> <del type="cancelled" hand="#DL" n="DL">and</del> <del type="cancelled" hand="#DL" rend="gray">acts</del>
 <lb/><del type="cancelled" hand="#DL" rend="gray"><add place="marginleft" hand="#DL" n="DL" rend="gray">flows</add></del> somewhat in <choice><abbr>'</abbr><expan>the</expan></choice> same way <add place="inline" hand="#DL" n="DL">as the carbonic
 <lb/>acid gas from <term type="plant">bean</term> fields
 <lb/>is supposed by <term type="occupation">colliers</term> to do -
