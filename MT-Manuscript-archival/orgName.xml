@@ -223,6 +223,15 @@
 
 				<!-- Missionary Travels Glossary List -->
 
+				<!-- MT glossary entry -->
+				<org xml:id="org0052">
+					<orgName type="main">27th (Inniskilling) Regiment of Foot</orgName>
+					<note type="editorial">Called Enniskillens by Livingstone. Irish infantry
+						regiment in the British army, dating from 1689, acclaimed for its role at
+						the Battle of Waterloo. In 1881, it merged with the 108th (Madras Infantry)
+						Regiment to form the Royal Inniskilling Fusiliers (Chant
+						2013:183-84).</note>
+				</org>
 
 				<!-- MT glossary entry -->
 				<org xml:id="org0031">
@@ -243,10 +252,10 @@
 				<!-- MT glossary entry -->
 				<org xml:id="org0033">
 					<orgName type="main">Afro-Portuguese</orgName>
-					<note type="editorial">Livingstone uses a variety of terms to refer to traders
+					<note type="editorial">Called African Portuguese, Native Portuguese, and
+						"half-caste" by Livingstone. These variety of terms are used to refer to traders
 						of Afro-Portuguese descent who had established routes and networks in
-						central Africa, including African Portuguese, Native Portuguese, and
-						half-caste.</note>
+						central Africa.</note>
 				</org>
 
 				<!-- MT glossary entry -->
@@ -282,6 +291,17 @@
 				</org>
 
 				<!-- MT glossary entry -->
+				<org xml:id="org0039">
+					<orgName type="main">Anglo-Portuguese Mixed Commission for the Suppression of
+						Slavery in Cape Town</orgName>
+					<note type="editorial">Mixed or Joint Commissions were judicial bodies created
+						as a means of enforcing anti-slavery treaties in international contexts.
+						Held between nation states, in this case between Britain and Portugal, they
+						delivered verdicts on vessels seized for suspected slave trafficking
+						(Niekerk 2004,2:196-97).</note>
+				</org>
+
+				<!-- MT glossary entry -->
 				<org xml:id="org0037">
 					<orgName type="main">Baptist</orgName>
 					<note type="editorial">Protestant movement, with origins in seventeenth-century
@@ -303,16 +323,18 @@
 						African Republic (or the Transvaal), the Natalia Republic, and the Orange
 						Free State (Raugh 2004:53-54, Editors 2014).</note>
 				</org>
-
+				
 				<!-- MT glossary entry -->
-				<org xml:id="org0039">
-					<orgName type="main">Anglo-Portuguese Mixed Commission for the Suppression of
-						Slavery in Cape Town</orgName>
-					<note type="editorial">Mixed or Joint Commissions were judicial bodies created
-						as a means of enforcing anti-slavery treaties in international contexts.
-						Held between nation states, in this case between Britain and Portugal, they
-						delivered verdicts on vessels seized for suspected slave trafficking
-						(Niekerk 2004,2:196-97).</note>
+				<org xml:id="org0055">
+					<orgName type="main">British German Legion</orgName>
+					<note type="editorial">German military unit, raised in 1854 to fight for the
+						British in the Crimean War. The war ended before the legion saw combat, and
+						in 1856 the majority were instead settled in British Kaffraria. Sir George
+						Grey, the Cape Governor, hoped they would provide increased protection
+						against the Xhosa on the eastern Cape and act as a civilising influence. The
+						scheme was unsuccessful. Half the legion left South Africa in 1858 to fight
+						against the Indian Mutiny, and in 1861 the remainder were decommissioned
+						(Laband 2009a:85-86, 101-03).</note>
 				</org>
 
 				<!-- MT glossary entry -->
@@ -331,26 +353,6 @@
 						historically adopted a hunter-gatherer lifestyle. The term Bushmen is still
 						in use, but it is contested and sometimes considered pejorative (Heath
 						2010a:222, Moran 2009:3-4).</note>
-				</org>
-
-				<!-- MT glossary entry -->
-				<org xml:id="org0042">
-					<orgName type="main">Kaffir</orgName>
-					<note type="editorial">Also called Caffre by Livingstone. Term referring to the
-						Xhosa people of southern Africa. During the early period of European
-						colonisation, it was applied to all Bantu-speaking Africans but in the
-						nineteenth century it came to have its more specific application to the
-						Xhosa. The term, however, continued to be used to generalise about Bantu
-						peoples and is now considered derogatory. It has its origin in the Arabic
-						word "kafir," which means "unbeliever" (Mills 1996:615).</note>
-				</org>
-
-				<!-- MT glossary entry -->
-				<org xml:id="org0043">
-					<orgName type="main">Royal Observatory, Cape of Good Hope</orgName>
-					<note type="editorial">Observatory founded in 1820. It is South Africa's oldest
-						scientific establishment and was the southern hemisphere's first major
-						observatory (Warner 1995:1-4).</note>
 				</org>
 
 				<!-- MT glossary entry -->
@@ -441,16 +443,6 @@
 				</org>
 
 				<!-- MT glossary entry -->
-				<org xml:id="org0052">
-					<orgName type="main">27th (Inniskilling) Regiment of Foot</orgName>
-					<note type="editorial">Called Enniskillens by Livingstone. Irish infantry
-						regiment in the British army, dating from 1689, acclaimed for its role at
-						the Battle of Waterloo. In 1881, it merged with the 108th (Madras Infantry)
-						Regiment to form the Royal Inniskilling Fusiliers (Chant
-						2013:183-84).</note>
-				</org>
-
-				<!-- MT glossary entry -->
 				<org xml:id="org0053">
 					<orgName type="main">Episcopalian</orgName>
 					<note type="editorial">Christian denominations that follow the episcopal form of
@@ -474,19 +466,6 @@
 				</org>
 
 				<!-- MT glossary entry -->
-				<org xml:id="org0055">
-					<orgName type="main">British German Legion</orgName>
-					<note type="editorial">German military unit, raised in 1854 to fight for the
-						British in the Crimean War. The war ended before the legion saw combat, and
-						in 1856 the majority were instead settled in British Kaffraria. Sir George
-						Grey, the Cape Governor, hoped they would provide increased protection
-						against the Xhosa on the eastern Cape and act as a civilising influence. The
-						scheme was unsuccessful. Half the legion left South Africa in 1858 to fight
-						against the Indian Mutiny, and in 1861 the remainder were decommissioned
-						(Laband 2009a:85-86, 101-03).</note>
-				</org>
-
-				<!-- MT glossary entry -->
 				<org xml:id="org0056">
 					<orgName type="main">Government House, Cape Town</orgName>
 					<note type="editorial">Colonial Governor's residence, built in the 1790s. It is
@@ -503,6 +482,14 @@
 						influential states on the borders of the Cape Colony in the nineteenth
 						century. European colonialism deprived them of most of their territory by
 						the 1880s (Schweitzer 2015:15, 18-19).</note>
+				</org>
+				
+				<!-- MT glossary entry -->
+				<org xml:id="org0070">
+					<orgName type="main">Henry Monteith &amp; Co.</orgName>
+					<note type="editorial">Textiles manufacturer, who owned the Blantyre cotton
+						works where Livingstone began employment in 1823 (Mullen 2012:18-19).
+					</note>
 				</org>
 
 				<!-- MT glossary entry -->
@@ -539,6 +526,18 @@
 						commitment to education and missionary activity. It first sent missionaries
 						to Africa in the 1550s and eventually commissioned more foreign mission
 						agents than any other order (Newitt 2005:139, Editors 2015).</note>
+				</org>
+				
+				<!-- MT glossary entry -->
+				<org xml:id="org0042">
+					<orgName type="main">Kaffir</orgName>
+					<note type="editorial">Also called Caffre by Livingstone. Term referring to the
+						Xhosa people of southern Africa. During the early period of European
+						colonisation, it was applied to all Bantu-speaking Africans but in the
+						nineteenth century it came to have its more specific application to the
+						Xhosa. The term, however, continued to be used to generalise about Bantu
+						peoples and is now considered derogatory. It has its origin in the Arabic
+						word "kafir," which means "unbeliever" (Mills 1996:615).</note>
 				</org>
 
 				<!-- MT glossary entry -->
@@ -640,14 +639,6 @@
 				</org>
 
 				<!-- MT glossary entry -->
-				<org xml:id="org0070">
-					<orgName type="main">Henry Monteith &amp; Co.</orgName>
-					<note type="editorial">Textiles manufacturer, who owned the Blantyre cotton
-						works where Livingstone began employment in 1823 (Mullen 2012:18-19).
-					</note>
-				</org>
-
-				<!-- MT glossary entry -->
 				<org xml:id="org0071">
 					<orgName type="main">Mephato (pl.) or mophato (sing.)</orgName>
 					<note type="editorial">Called mepato (pl.) and mopato (sing.) by Livingstone.
@@ -681,18 +672,6 @@
 						"legitimate commerce," ideas that Livingstone would develop in Missionary
 						Travels. The expedition ended in failure, with a large number of the party
 						dying of fever (Marotti 1996:229, Blouet 2010).</note>
-				</org>
-
-				<!-- MT glossary entry -->
-				<org xml:id="org0074">
-					<orgName type="main">Society for the Promotion of Permanent and Universal
-						Peace</orgName>
-					<note type="editorial">Also known as the Peace Society. Peace association,
-						founded in 1816 by Quakers and other Christian pacifists in the wake of the
-						Napoleonic Wars. The Society adopted an anti-war stance, opposing even
-						defensive conflicts, and established local branches across Britain. It was
-						generally known by the truncated title, the Peace Society (Laity
-						2001:13-14).</note>
 				</org>
 
 				<!-- MT glossary entry -->
@@ -738,6 +717,26 @@
 						with the aim of advancing geographical knowledge and promoting exploration.
 						The society awarded Livingstone the annual Founder's medal in 1855 and
 						became one of his sponsoring organisations (Roberts 2008).</note>
+				</org>
+				
+				<!-- MT glossary entry -->
+				<org xml:id="org0043">
+					<orgName type="main">Royal Observatory, Cape of Good Hope</orgName>
+					<note type="editorial">Observatory founded in 1820. It is South Africa's oldest
+						scientific establishment and was the southern hemisphere's first major
+						observatory (Warner 1995:1-4).</note>
+				</org>
+
+				<!-- MT glossary entry -->
+				<org xml:id="org0074">
+					<orgName type="main">Society for the Promotion of Permanent and Universal
+						Peace</orgName>
+					<note type="editorial">Also known as the Peace Society. Peace association,
+						founded in 1816 by Quakers and other Christian pacifists in the wake of the
+						Napoleonic Wars. The Society adopted an anti-war stance, opposing even
+						defensive conflicts, and established local branches across Britain. It was
+						generally known by the truncated title, the Peace Society (Laity
+						2001:13-14).</note>
 				</org>
 
 				<!-- MT glossary entry -->
