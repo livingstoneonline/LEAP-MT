@@ -172,8 +172,8 @@
 				<place xml:id="region0020" type="region">
 					<placeName type="main">Bechuanaland</placeName>
 					<note type="editorial">Called Bechuana country by Livingstone. Region in
-						south-western Africa, and homeland of the Tswana groups. It was annexed by
-						Britain in 1885, with the area south of the Molopo river becoming a crown
+						southern Africa, and homeland of the BaTswana groups. It was annexed by
+						Britain in 1885, with the area south of the Molopo River becoming a crown
 						colony and the northern area becoming the Bechuanaland Protectorate. It
 						became independent Botswana in 1966 (Curran 2003:52).</note>
 				</place>
@@ -193,7 +193,7 @@
 					<note type="editorial">Livingstone uses the term to mean the country of the
 						"Baroro," or the Sangu people (also historically known as the Rori). Their
 						historic homelands are in the Mbeya region, north of Lake Malawi in
-						south-west Tanganyika (Olson 1996:509).</note>
+						south-western Tanganyika (Olson 1996:509).</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -254,8 +254,8 @@
 				<!-- MT glossary entry -->
 				<place xml:id="region0028" type="region">
 					<placeName type="main">Dande</placeName>
-					<note type="editorial">Coastal region of north-western Angola, in present-day Bengo
-						Province.</note>
+					<note type="editorial">Coastal region of north-western Angola, in present-day
+						Bengo Province.</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -271,10 +271,10 @@
 				<place xml:id="region0030" type="region">
 					<placeName type="main">Eastern Province</placeName>
 					<note type="editorial">Eastern region of Cape Colony. The colony's eastern
-						frontier and the Xhosa territories beyond, known to contemporaries as
-						"Kaffraria" or "Kaffreland," were the site of the century-long series of
-						disputes between the Xhosa and the British known as the Cape-Xhosa Wars
-						(1779–1879). See also Kaffraria.</note>
+						frontier and the AmaXhosa territories beyond, known in the nineteenth
+						century as "Kaffraria" or "Kaffreland," were the site of the century-long
+						series of disputes between the AmaXhosa and the British known as the Cape
+						Frontier Wars (1779–1879). See also Kaffraria.</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -290,11 +290,12 @@
 					<placeName type="main">Kaffraria</placeName>
 					<note type="editorial">Called Caffraria and Caffreland by Livingstone. Region in
 						the Eastern Cape of present-day South Africa, and historically homeland of
-						the Xhosa people. It was the site of the century-long series of disputes
-						between the Xhosa and the British, known as the Cape-Xhosa Wars (1779–1879).
-						The region was annexed in 1835 as Queen Adelaide Province, but this was
-						annulled within the year. It was annexed again in 1847 as British Kaffraria
-						and was integrated into the Cape Colony in 1865 (Editors 2017).</note>
+						the AmaXhosa people. It was the site of the century-long series of disputes
+						between the AmaXhosa and the British, known as the Cape Frontier Wars
+						(1779–1879). The region was annexed in 1835 as Queen Adelaide Province, but
+						this was annulled within the year. It was annexed again in 1847 as British
+						Kaffraria and was integrated into the Cape Colony in 1865 (Editors
+						2017).</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -308,7 +309,7 @@
 				<!-- MT glossary entry -->
 				<place xml:id="region0034" type="region">
 					<placeName type="main">Katonga</placeName>
-					<note type="editorial">Area on the Zambezi in present-day Zambia's Western
+					<note type="editorial">Area on the Zambezi River in present-day Zambia's Western
 						Province, bordering Namibia's Caprivi Strip. According to Livingstone, it
 						was twenty-five miles west of where Sesheke was then located (Livingstone
 						1857aa:684).</note>
@@ -334,7 +335,7 @@
 				<place xml:id="region0037" type="region">
 					<placeName type="main">Luba</placeName>
 					<note type="editorial">Major central African state, which existed in the region
-						between the Lomami and Lualaba rivers in what is now the southern Democratic
+						between the Lomami and Lualaba rivers in what is now southern Democratic
 						Republic of the Congo. Luba had become a "dynastic kingdom" by 1700, and
 						expanded its sway throughout the eighteenth and nineteenth centuries as far
 						east as Lake Tanganyika, as far south as Lake Mweru, and as far north as
@@ -345,8 +346,8 @@
 					<placeName type="main">Lunda</placeName>
 					<note type="editorial">Also called Lui, Loi, and Londa by Livingstone.
 						Significant central African commonwealth of autonomous but interlinking
-						states, encompassing what is now the southern Democratic Republic of the
-						Congo, north-eastern Angola, and north-western Zambia. At the heart of the
+						states, encompassing what is now southern Democratic Republic of the Congo,
+						north-eastern Angola, and north-western Zambia. At the heart of the
 						commonwealth was the central Lunda state (known as the Ruund), situated
 						between the Kasai and Lubilash rivers. Other Lunda polities traced their
 						origin to the Ruund and derived their status from its royal title. The
@@ -359,7 +360,7 @@
 				<place xml:id="region0039" type="region">
 					<placeName type="main">Luvale</placeName>
 					<note type="editorial">Called Lobale by Livingstone. Region encompassing parts
-						of present-day north-western Zambia and south-eastern Angola, and
+						of present-day north-western Zambia and south-eastern Angola, that was
 						historically homeland of the Luvale people (Schapera 1963,1:38n2; Editors
 						2010).</note>
 				</place>
@@ -368,27 +369,26 @@
 				<place xml:id="region0040" type="region">
 					<placeName type="main">Makololo country</placeName>
 					<note type="editorial">Territory occupied by the Makololo in the 1830s and 40s,
-						predominantly in the Bulozi floodplain of present-day Zambia's Western
-						Province. Before the Lozi uprising of 1864, the Makololo empire extended from
-						the northern point of the plain as far south as the Linyanti swamps and
-						Victoria Falls (Kalusa 2009:62).</note>
+						predominantly in the Bulozi Plain of present-day Zambia's Western Province.
+						Before the Lozi uprising of 1864, the Makololo empire extended from the
+						northern point of the plain as far south as the Linyanti swamps and Victoria
+						Falls (Kalusa 2009:62).</note>
 				</place>
 
 				<!-- MT glossary entry -->
 				<place xml:id="region0041" type="region">
 					<placeName type="main">Mango</placeName>
-					<note type="editorial">Area around the confluence of the Lungwebungu river
-						(called "Loeti" by Livingstone) and the Zambezi, in the northern part of
-						present-day Zambia's Western Province. In the published Missionary Travels,
-						Livingstone adopts the spelling "Manga" (Livingstone 1857aa:261).</note>
+					<note type="editorial">Also called Manga by Livingstone. Area around the
+						confluence of the Lungwebungu and Zambezi rivers, in the northern part of
+						present-day Zambia's Western Province.</note>
 				</place>
 
 				<!-- MT glossary entry -->
 				<place xml:id="region0042" type="region">
 					<placeName type="main">Manica</placeName>
 					<note type="editorial">Also called Manoa and Manwa by Livingstone. Region
-						historically occupied by the Shona-speaking Manyika people, in the east of
-						present-day Zimbabwe (Manicaland Province) and the bordering area of
+						historically occupied by the Shona-speaking Manyika people, in the eastern
+						part of present-day Zimbabwe (Manicaland Province) and the bordering area of
 						Mozambique (Manica District). Its gold fields and gold trade date to at
 						least the seventeenth century (Editors 1998; Schapera 1963,2:426n3).</note>
 				</place>
@@ -397,7 +397,7 @@
 				<place xml:id="region0043" type="region">
 					<placeName type="main">Mashonaland</placeName>
 					<note type="editorial">Called Mashona hills by Livingstone. Historic homelands
-						of the Shona people, in the north-east of present-day Zimbabwe.</note>
+						of the Shona people, in present-day north-eastern Zimbabwe.</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -430,7 +430,7 @@
 				<!-- MT glossary entry -->
 				<place xml:id="region0047" type="region">
 					<placeName type="main">Orange Free State</placeName>
-					<note type="editorial">Boer Republic between the Orange and Vaal Rivers, in what
+					<note type="editorial">Boer Republic between the Orange and Vaal rivers, in what
 						is now east-central South Africa. The region was initially annexed by
 						Britain as the Orange River Sovereignty in 1848, but was granted status as
 						an independent Boer Republic in 1854. In the Second Anglo-Boer War
@@ -449,12 +449,12 @@
 				<!-- MT glossary entry -->
 				<place xml:id="region0049" type="region">
 					<placeName type="main">Pungo Andongo</placeName>
-					<note type="editorial">Portuguese settlement in north-west Angola, about fifty
+					<note type="editorial">Portuguese settlement in north-western Angola, about fifty
 						miles west of Malanje in present-day Malanje Province. Before it was
 						conquered by the Portuguese in 1671 and established as a military enclave,
 						it was a stronghold of the Ndongo Kingdom (Pungo-a-Ndongo). Pungo Andongo is
 						also the site of a celebrated formation of giant monoliths (Thompson
-						2017:51; Wheeler and Pélissier 1971:39).</note>
+						2017:51, Wheeler and Pélissier 1971:39).</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -468,15 +468,15 @@
 				<!-- MT glossary entry -->
 				<place xml:id="region0050" type="region">
 					<placeName type="main">South African Republic</placeName>
-					<note type="editorial">Also known as the Transvaal. Boer Republic between the Vaal and
-						Limpopo rivers, in what is now north-eastern South Africa. The state was
-						established with the Sand River Convention of 1852, which conceded the
-						independence of the Boer communities north of the Vaal. It was annexed in
-						1877 as the British Transvaal Territory, but this was revoked as a result of
-						the Boers' victory in the First Anglo-Boer War (1880-81). Defeated by the
+					<note type="editorial">Also known as the Transvaal. Boer Republic between the
+						Vaal and Limpopo rivers, in what is now north-eastern South Africa. The
+						state was established with the Sand River Convention of 1852, which conceded
+						the independence of the Boer communities north of the Vaal River. It was annexed
+						in 1877 as the British Transvaal Territory, but this was revoked as a result
+						of the Boers' victory in the First Anglo-Boer War (1880-81). Defeated by the
 						British in the Second Anglo-Boer War (1899-1902), it became the Crown Colony
 						of the Transvaal. In 1910, it was integrated into the newly formed Union of
-						South Africa as the Transvaal Province (Laband 2009b:264-65; Editors
+						South Africa as the Transvaal Province (Laband 2009b:264-65, Editors
 						2009).</note>
 				</place>
 
