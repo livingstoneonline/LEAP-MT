@@ -31,7 +31,7 @@
 
 			<listOrg>
 
-				<!-- Current higest number = org0089 -->
+				<!-- Current higest number = org0090 -->
 
 				<org xml:id="org0001">
 					<orgName type="main">2nd Egyptian expedition</orgName>
@@ -507,6 +507,16 @@
 						1187, they settled on the island of Rhodes where they battled with the Ottoman Empire.
 						Defeated in 1522, they relocated to Malta where they held a sovereign territory until
 						conquered by Napoleon Bonaparte in 1798 (Greene 2009:313).</note>
+				</org>
+
+				<!-- MT glossary entry -->
+				<org xml:id="org0090">
+						<orgName type="main">Korana</orgName>
+					<note type="editorial">Called Corrannas by Livingstone. One of the Oorlam groups that emerged in
+						the late eighteenth century around the Cape Colony’s northern frontier.
+						Oorlam communities were mixed race, with a combination of Khoesan,
+						Sotho-Tswana, slave, and European descent. The Korana were largely Khoekhoe
+						and Sotho-Tswana in ancestry (McDonald 2015, Legassick 2010:48).</note>
 				</org>
 
 				<!-- MT glossary entry -->
