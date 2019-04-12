@@ -1850,15 +1850,16 @@
 				<person xml:id="pers0257">
 					<persName type="main">Bango</persName>
 					<note type="editorial">Reference uncertain. Probably a Mbundu chief resident
-						near Golungo Alto in north-western Angola (Schapera 1963,1:183n1,
-						2:485).</note>
+						near Golungo Alto in north-western Angola. Not to be confused with the Lunda
+						chief of the same name (Schapera 1963,1:183n1, 2:485).</note>
 				</person>
 
 				<!-- MT glossary entry -->
 				<person xml:id="pers0258">
-					<persName type="main">Chief Bango</persName>
+					<persName type="main">Bango</persName>
 					<note type="editorial">Reference uncertain. Probably a Lunda chief resident in
-						north-eastern Angola (Schapera 1963,2:246n3).</note>
+						north-eastern Angola. Not to be confused with the Mbundu chief of the same
+						name (Schapera 1963,2:246n3).</note>
 				</person>
 
 				<!-- MT glossary entry -->
@@ -2158,6 +2159,14 @@
 				</person>
 
 				<!-- MT glossary entry -->
+				<person xml:id="pers0498">
+					<persName type="main">Crusoe, Robinson</persName>
+					<note type="editorial">Title character of Daniel Defoe's Robinson Crusoe (1719),
+						which follows the protagonist's twenty-eight years as a castaway on a
+						Caribbean island.</note>
+				</person>
+
+				<!-- MT glossary entry -->
 				<person xml:id="pers0285">
 					<persName type="main">Culpeper, Nicholas</persName>
 					<birth when="1616">1616</birth>
@@ -2247,8 +2256,8 @@
 					<persName type="main">Dingane</persName>
 					<birth when="1795">c.1795</birth>
 					<death when="1840">1840</death>
-					<note type="editorial">Called Dingaan by Livingstone. Second Zulu King
-						(r.1828–40). His brother, Shaka, presided over the Zulu kingdom from 1815,
+					<note type="editorial">Called Dingaan by Livingstone. Second AmaZulu King
+						(r.1828–40). His brother, Shaka, presided over the AmaZulu kingdom from 1815,
 						turning it into a major power. Dingane was one of Shaka's earliest
 						supporters, but overthrew him in 1828 and inherited his unstable regime.
 						Dingane's major problem was the increased European presence in Natal as a
@@ -3901,12 +3910,12 @@
 					<note type="editorial">Called Mosilikatze and Mosilikatse by Livingstone.
 						Founder and king of the AmaNdebele nation. His father was chief of a Khumalo
 						clan, but he spent his youth with the Ndwandwe led by his grandfather,
-						Zwide. When Zwide was defeated by Shaka in 1818, Mzilikazi joined the Zulu
+						Zwide. When Zwide was defeated by Shaka in 1818, Mzilikazi joined the AmaZulu
 						empire. Splitting with Shaka around 1820, he migrated north, conquering and
 						assimilating a range of groups. Following collisions with Afrikaners in the
 						Transvaal, he founded his kingdom, Matabeleland, in present-day Zimbabwe
 						around 1840. Mzilikazi consolidated his state using military and political
-						methods learned from the Ndwandwe and Zulu (Musemwa 2012:277-78, Lipschutz
+						methods learned from the Ndwandwe and AmaZulu (Musemwa 2012:277-78, Lipschutz
 						and Rasmussen 1986:167-68).</note>
 				</person>
 
@@ -4093,12 +4102,12 @@
 					<birth when="1583">1583</birth>
 					<death when="1663">1663</death>
 					<note type="editorial">Also known as Dona Ana de Sousa. Queen of Ndongo, a
-						Mbundu kingdom in Angola. In the early seventeenth century,
-						Ndongo became embroiled in conflict with the Portuguese who were extending
-						their territory. In 1622, Nzinga was sent to Luanda by her brother, Ngola
-						Mbandi, to broker an armistice. She was baptised there as Ana de Sousa.
-						Assuming the throne in 1624 following her brother's death, she began a reign
-						marked by political exile and collisions with the Portuguese (Pantoja
+						Mbundu kingdom in Angola. In the early seventeenth century, Ndongo became
+						embroiled in conflict with the Portuguese who were extending their
+						territory. In 1622, Nzinga was sent to Luanda by her brother, Ngola Mbandi,
+						to broker an armistice. She was baptised there as Ana de Sousa. Assuming the
+						throne in 1624 following her brother's death, she began a reign marked by
+						political exile and collisions with the Portuguese (Pantoja
 						2012:527-28).</note>
 				</person>
 
@@ -4484,14 +4493,6 @@
 				</person>
 
 				<!-- MT glossary entry -->
-				<person xml:id="pers0498">
-					<persName type="main">Crusoe, Robinson</persName>
-					<note type="editorial">Title character of Daniel Defoe's Robinson Crusoe (1719),
-						which follows the protagonist's twenty-eight years as a castaway on a
-						Caribbean island.</note>
-				</person>
-
-				<!-- MT glossary entry -->
 				<person xml:id="pers0499">
 					<persName type="main">Rramosinyi</persName>
 					<note type="editorial">Called Ramonsinini and Ramosini by Livingstone. Reference
@@ -4565,7 +4566,7 @@
 				<!-- MT glossary entry -->
 				<person xml:id="pers0505">
 					<persName type="main">Sakandala</persName>
-					<note type="editorial">Mbangala headman, resident on the Kwilu Tiver in
+					<note type="editorial">Mbangala headman, resident on the Kwilu River in
 						north-eastern Angola.</note>
 				</person>
 
@@ -4601,11 +4602,11 @@
 					<death when="1878">1878</death>
 					<note type="editorial">Called Sandillah by Livingstone. Paramount chief of the
 						Ngqika AmaXhosa. A dominant figure in AmaXhosa politics, he played a central
-						role in the Seventh Frontier War ("War of the Axe," 1846­–47) with the Cape
+						role in the Seventh Frontier War ("War of the Axe," 1846-47) with the Cape
 						Colony, following which he was imprisoned and forced to acknowledge British
 						sovereignty. He was also a leader in the Eighth Frontier War ("War of
-						Mlanjeni," 1850–53), which again ended in defeat. He was killed during the
-						Ninth Frontier War (1877–79), a conflict he had only supported reluctantly
+						Mlanjeni," 1850-53), which again ended in defeat. He was killed during the
+						Ninth Frontier War (1877-79), a conflict he had only supported reluctantly
 						(Lipschutz and Rasmussen 1986:204).</note>
 				</person>
 
@@ -4788,8 +4789,8 @@
 						was probably AmaNdebele, since he is described in Livingstone's journals as
 						"Letibele Mokololo." Sekwebu sailed to Mauritius with Livingstone, but
 						drowned himself towards the end of the crossing. Livingstone was deeply
-						affected by his death, experiencing "the sorrow of the loss of a very good
-						friend" (Schapera 1963,2:331; Livingstone 1856).</note>
+						affected by Sekwebu's death, experiencing "the sorrow of the loss of a very
+						good friend" (Schapera 1963,2:331; Livingstone 1856).</note>
 				</person>
 
 				<!-- MT glossary entry -->
@@ -4890,7 +4891,7 @@
 					<persName type="main">Sinamane</persName>
 					<note type="editorial">Batonga chief, resident on the Zambezi River downstream
 						from Victoria Falls. Livingstone heard reports about him in December 1855
-						while undertaking his transcontinental journey, but did not visit him until
+						while undertaking the transcontinental journey, but did not visit him until
 						October 1860 during the Zambezi Expedition (Livingstone and Livingstone
 						1865:315).</note>
 				</person>
@@ -5219,7 +5220,7 @@
 					<birth when="1800">1800</birth>
 					<death when="1863">1863</death>
 					<note type="editorial">Naval officer and hydrographer. He was a founding member
-						of the Royal Geographical Society, serving as Secretary from 1836–41.
+						of the Royal Geographical Society, serving as Secretary from 1836-41.
 						Following work surveying Britain's rivers and coastlines, he was elected to
 						the Royal Society in 1845. He became Assistant to the Admiralty's
 						Hydrographer in 1854, assumed the post of Hydrographer the following year,

@@ -726,8 +726,8 @@
 					<placeName type="main">Chobe River</placeName>
 					<note type="editorial">River that marks the border between present-day Botswana
 						and Namibia's Caprivi Strip, and that flows into the Zambezi River at
-						Kazungala (at the quadripoint boundary between Botswana, Namibia, Zambia and
-						Zimbabwe). The river rises in central Angola as the Cuando River before
+						Kazungala (at the quadripoint boundary between Botswana, Namibia, Zambia,
+						and Zimbabwe). The river rises in central Angola as the Cuando River before
 						becoming the Linyanti River and then, from Lake Liambezi (in Namibia), the
 						Chobe River (Augustyn et al. 1998a).</note>
 				</place>
@@ -1005,10 +1005,10 @@
 				<!-- MT glossary entry -->
 				<place xml:id="geog0117" type="geogName_river">
 					<placeName type="main">Kwango River</placeName>
-					<note type="editorial">Called Quango by Livingstone. Major river of central
-						Africa that rises in central Angola and flows into the Kasai River near the
-						present-day city of Bandundu in the western part of Democratic Republic of
-						the Congo (Kisangani 2016:365).</note>
+					<note type="editorial">Also known as Cuango River. Called Quango by Livingstone.
+						Major river of central Africa that rises in central Angola and flows into
+						the Kasai River near the present-day city of Bandundu in the western part of
+						Democratic Republic of the Congo (Kisangani 2016:365).</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -1016,9 +1016,9 @@
 					<placeName type="main">Kwilu River</placeName>
 					<note type="editorial">Called Quilo and Kweelo by Livingstone. Major river that
 						rises in Angola and flows north into the western part of present-day
-						Democratic Republic of the Congo. It joins the Kwango River near the city of
-						Bandundu, shortly before the Kwango flows into the Kasai River (Kisangani
-						2016:366).</note>
+						Democratic Republic of the Congo. It joins the Kwango (or Cuango) River near
+						the city of Bandundu, shortly before the Kwango flows into the Kasai River
+						(Kisangani 2016:366).</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -1085,7 +1085,7 @@
 				<place xml:id="geog0126" type="geogName_spring">
 					<placeName type="main">Lephephe</placeName>
 					<note type="editorial">Called Lopepe by Livingstone. Spring about fifteen miles
-						north of Boatlanama and about forty-five miles south-west of the Ngwato
+						north of Boatlanama and about forty-five miles south-west of the BaNgwato
 						capital, Shoshong, in present-day east-central Botswana (Schapera 1959,
 						2:64n22).</note>
 				</place>
@@ -1133,7 +1133,7 @@
 				<!-- MT glossary entry -->
 				<place xml:id="geog0132" type="geogName_spring">
 					<placeName type="main">Lobotani</placeName>
-					<note type="editorial">Spring about fifty miles west of the Ngwato capital,
+					<note type="editorial">Spring about fifty miles west of the BaNgwato capital,
 						Shoshong, in present-day east-central Botswana (Schapera 1960a:4n4)</note>
 				</place>
 
@@ -1250,8 +1250,8 @@
 				<place xml:id="geog0146" type="geogName_river">
 					<placeName type="main">Lui River</placeName>
 					<note type="editorial">River in northern Angola and a tributary of the Kwango
-						River, which it joins near present-day Milando in Lunda Norte Province
-						(Schapera 1963,1:131n3).</note>
+						(or Cuango) River, which it joins near present-day Milando in Lunda Norte
+						Province (Schapera 1963,1:131n3).</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -1262,20 +1262,12 @@
 				</place>
 
 				<!-- MT glossary entry -->
-				<place xml:id="geog0148" type="geogName_river">
-					<placeName type="main">Lulua River</placeName>
-					<note type="editorial">Called Lolua by Livingstone. River in the southern part
-						of present-day Democratic Republic of the Congo and a tributary of the Kasai
-						River, which it joins near Bena Makima.</note>
-				</place>
-
-				<!-- MT glossary entry -->
 				<place xml:id="geog0149" type="geogName_river">
 					<placeName type="main">Lulua River</placeName>
-					<note type="editorial">Also called Lolo by Livingstone. River in present-day
-						Democratic Republic of the Congo. While Livingstone says this river flows
-						southwards, it actually flows northwards to enter the Kasai River near Bena
-						Makima (Schapera 1963,1:87n2).</note>
+					<note type="editorial">Also called Lolo and Lolua by Livingstone. River in
+						present-day Democratic Republic of the Congo. While Livingstone says this
+						river flows southwards, it actually flows northwards to enter the Kasai
+						River near Bena Makima (Schapera 1963,1:87n1).</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -1370,7 +1362,7 @@
 					<placeName type="main">Makondo River</placeName>
 					<note type="editorial">River of present-day Angola and Zambia and tributary of
 						the Zambezi River, which it joins near present-day Chinyingi in Zambia's
-						Northwestern Province.</note>
+						North-Western Province.</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -1409,7 +1401,7 @@
 				<place xml:id="geog0165" type="geogName_spring">
 					<placeName type="main">Mashuwe</placeName>
 					<note type="editorial">Called Mashue by Livingstone. Spring about twenty-five
-						miles west of the Ngwato capital, Shoshong, in present day east-central
+						miles west of the BaNgwato capital, Shoshong, in present day east-central
 						Botswana (Ransford 1978:75, Schapera 1960a:4n2).</note>
 				</place>
 
@@ -1481,8 +1473,9 @@
 				<place xml:id="geog0174" type="geogName_mountain">
 					<placeName type="main">Mosamba</placeName>
 					<note type="editorial">Reference uncertain. Since Livingstone describes Mosamba
-						as the source of the Kwango River, he is possibly referring to the Alto
-						Chicapa highlands of north-central Angola where that river rises.</note>
+						as the source of the Kwango (or Cuango) River, he is possibly referring to
+						the Alto Chicapa highlands of north-central Angola where that river
+						rises.</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -1496,8 +1489,8 @@
 				<!-- MT glossary entry -->
 				<place xml:id="geog0176" type="geogName_mountain">
 					<placeName type="main">Mount Morrumbala</placeName>
-					<note type="editorial">Called Morumbala by Livingstone. Mountain in central
-						Mozambique.</note>
+					<note type="editorial">Called Morumbala by Livingstone. Mountain of central
+						Mozambique in present-day Zambezia Province.</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -1659,8 +1652,8 @@
 				<place xml:id="geog0196" type="geogName_fountain">
 					<placeName type="main">Otse</placeName>
 					<note type="editorial">Spring in the vicinity of Otse Hill in present-day
-						south-east Botswana, about twenty-five miles south-west of Gaborone. Otse is
-						also the name of the local village.</note>
+						south-eastern Botswana, about twenty-five miles south-west of Gaborone. Otse
+						is also the name of the local village.</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -1692,17 +1685,18 @@
 				<!-- MT glossary entry -->
 				<place xml:id="geog0200" type="geogName_spring">
 					<placeName type="main">Rapesh</placeName>
-					<note type="editorial">Spring to the north of Ntwetwe Pan, near present-day
-						Gweta in north-eastern Botswana. In his journals, Livingstone also uses the
-						name Kiadjara for the same place (Schapera 1960a:9, 10n1).</note>
+					<note type="editorial">Reference uncertain. According to Livingstone, a spring
+						to the north of Ntwetwe Pan, near present-day Gweta in north-eastern
+						Botswana. In his journals, Livingstone also uses the name Kiadjara for the
+						same place (Schapera 1960a:9, 10n1).</note>
 				</place>
 
 				<!-- MT glossary entry -->
 				<place xml:id="geog0201" type="geogName_river">
 					<placeName type="main">Rio Cataziana</placeName>
 					<note type="editorial">Called Catrina by Livingstone. Distributary of the
-						Zambezi River, that enters the sea about seven miles above the river's main
-						mouth on the Mozambique coast (Schapera 1963,2:473n3).</note>
+						Zambezi River, that enters the sea about seven miles above the
+						river's main mouth on the Mozambique coast (Schapera 1963,2:473n3).</note>
 				</place>
 
 				<!-- MT glossary entry -->
@@ -1710,7 +1704,7 @@
 					<placeName type="main">Rio Mucelo</placeName>
 					<note type="editorial">Called Maiudo by Livingstone. Distributary of the Zambezi
 						River, which branches off that river about twenty-five miles from the
-						Mozambique coast. It enters the Indian Ocean about ten miles down the coast
+						Mozambique coast. It enters the sea about ten miles down the coast
 						from the main mouth of the Zambezi River.</note>
 				</place>
 
@@ -1776,7 +1770,7 @@
 				<!-- MT glossary entry -->
 				<place xml:id="geog0210" type="geogName_fountain">
 					<placeName type="main">Serotli</placeName>
-					<note type="editorial">Spring about fifty miles north-west of the Ngwato
+					<note type="editorial">Spring about fifty miles north-west of the BaNgwato
 						capital, Shoshong, in present-day east-central Botswana (Schapera
 						1960a:304n7).</note>
 				</place>
