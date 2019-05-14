@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
-<!--http://livingstoneonline.github.io/LEAP-XSLT/-->
+<?xml-stylesheet type="text/xsl" href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-mt.xsl"?>
+<!--http://livingstoneonline.github.io/LEAP-XSLT/transcription-mt.xsl"-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000100">
     <teiHeader>
         <fileDesc>
@@ -6074,7 +6074,7 @@ except that of the
 <lb/>we departed</p>
 <lb/><p><metamark function="placeMark" place="marginleft" rend="gray" resp="#U2"/> Another incident which
 <lb/><add place="marginleft" hand="#U3" rend="red">occurred</add> <del type="strikethrough" hand="#U3" rend="red">took place</del> at the confluence
-<lb/>of the <geogName type="river" ref="geogName.xml#geog0232">Leeba</geogName> and <geogName type="river" ref="geogName.xml#geog0232">Leeambye</geogName>
+<lb/>of the <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeba</geogName></placeName> and <placeName><geogName type="river" ref="geogName.xml#geog0099">Leeambye</geogName></placeName>
 <lb/>may be quoted here as
 <lb/><choice><orig>shewing</orig><reg>showing</reg></choice> a <add place="marginleft"><metamark function="insertion"/><del type="strikethrough" hand="#U3" rend="red">more</del> vivid
     <lb/>perception of
@@ -6272,7 +6272,7 @@ I imagined
 <lb/>use to me on my return
 <lb/>from the <placeName><region>West coast</region></placeName> <add place="above" hand="#U3" rend="red">-</add> I still
 <lb/>pushed on to <measure>Latitude 14° 11' 3"
-<lb/>South</measure> - <space extent="1" unit="chars"/>There the <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeambye</geogName></placeName>
+<lb/>South</measure> - <space extent="1" unit="chars"/>There the <placeName><geogName type="river" ref="geogName.xml#geog0099">Leeambye</geogName></placeName>
 <lb/>assumes the name <placeName><geogName type="river" ref="geogName.xml#geog0099">Kabompo</geogName></placeName>
 <lb/>and seems to be coming from
 <lb/>the <del type="cancelled">N</del> East - It is a fine large
@@ -9764,7 +9764,7 @@ This
 <lb/><lb/></p>
 <lb/><p><add place="marginleft" hand="#U2" rend="gray"><note>74</note></add> We spent a Sunday in
 <lb/>our way up to the confluence
-<lb/>of the <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeba</geogName></placeName> and <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeambye</geogName></placeName>
+<lb/>of the <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeba</geogName></placeName> and <placeName><geogName type="river" ref="geogName.xml#geog0099">Leeambye</geogName></placeName>
 <lb/><seg type="weather">Rains <w>ha<subst><del>ve</del><add place="over-text">d</add></subst></w> fallen here</seg>
 <lb/>before we came and the
 <lb/>woods had put on their 
@@ -9959,7 +9959,7 @@ This
 <lb/>pleasant to eat - </p>
 <lb/><p>Before we came to 
 <lb/>the confluence of the <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeba</geogName></placeName>
-<lb/>and <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeambye</geogName></placeName> we find
+<lb/>and <placeName><geogName type="river" ref="geogName.xml#geog0099">Leeambye</geogName></placeName> we find
 <lb/>the banks <measure>twenty feet high</measure>
 <lb/>and composed of marly
 <lb/>sandstone - <space extent="1" unit="chars"/>They are covered
@@ -10087,7 +10087,7 @@ This
 <lb/>
 <lb/><p>On the <date when="1853-12-27">27<hi rend="sup underline">th</hi> December</date> we were<!-- start of MT ch 15.JL -->
 <lb/>at the confluence of the <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeba</geogName></placeName>
-<lb/><add place="marginleft"><note><persName ref="people.xml#pers0327">Masiko</persName></note></add> and <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeambye</geogName></placeName> - <space extent="1" unit="chars"/><persName ref="people.xml#pers0327">Masiko</persName> the
+<lb/><add place="marginleft"><note><persName ref="people.xml#pers0327">Masiko</persName></note></add> and <placeName><geogName type="river" ref="geogName.xml#geog0099">Leeambye</geogName></placeName> - <space extent="1" unit="chars"/><persName ref="people.xml#pers0327">Masiko</persName> the
 <lb/><term  type="tribe" ref="ethic-group.xml#ethnic0077">Barotse</term> <term type="occupation">chief</term> for whom
 <lb/>we had some <orgName>captives</orgName> lived
 <lb/>nearly due East of this
@@ -12021,7 +12021,7 @@ to keep one foot apart from
 
     <pb facs="liv_000100_0298" n="0298"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">297</add></fw>  
-<lb/>the <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeba</geogName></placeName> and <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeambye</geogName></placeName></p>
+<lb/>the <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeba</geogName></placeName> and <placeName><geogName type="river" ref="geogName.xml#geog0099">Leeambye</geogName></placeName></p>
 <lb/>
 <lb/><p><add place="marginleft" rend="gray" hand="#U2"><note>36</note></add> A species of <del type="strikethrough"><term type="plant"><choice><sic>Rododendron</sic><corr>Rhododendron</corr></choice></term>
 <lb/>tree closely resembling the</del>

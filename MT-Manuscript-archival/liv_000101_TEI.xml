@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="transcription-mt3.xsl"?>
-<!--http://livingstoneonline.github.io/LEAP-XSLT/-->
+<?xml-stylesheet type="text/xsl" href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-mt3.xsl"?>
+<!--http://livingstoneonline.github.io/LEAP-XSLT/transcription-mt3.xsl"-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000101">
     <teiHeader>
         <fileDesc>
@@ -4182,7 +4182,7 @@ another colony on a branch of the same tree gave
 <lb/><p><del type="cancelled">We were</del> Owing to the weakness of the men who had
 <lb/>been sick we were able to march but <del type="cancelled" hand="#DL" n="DL">small</del>
 <lb/><add place="marginleft" hand="#DL" n="DL">short</add> <add place="below" hand="#DL" n="DL">^</add> distances <space extent="4" unit="chars"/>Three and a half hours brought us to
-    <lb/>the banks of the <placeName><geogName type="stream" ref="geogName.xml#geog0076">Caloi</geogName></placeName> a small stream which flows
+    <lb/>the banks of the <placeName><geogName type="river" ref="geogName.xml#geog0076">Caloi</geogName></placeName> a small stream which flows
 <lb/>into the <placeName><geogName type="river" ref="geogName.xml#geog0070">Senza</geogName></placeName> <space extent="4" unit="chars"/>This is one of the parts of the
 <lb/>country reputed to <del type="strikethrough">contain</del> yield Petroleum
 <lb/>but the geological formation being mica schist
@@ -6379,7 +6379,7 @@ I picked
 <lb/> to dwell" <space extent="3" unit="chars"/>I had then no idea that any healthy spot
 <lb/>existed in <choice><abbr>'</abbr><expan>the</expan></choice> country and thought only <choice><abbr>`</abbr><expan>of</expan></choice> a convenient central
 <lb/>situation adapted for intercourse with <choice><abbr>'</abbr><expan>the</expan></choice> adjacent tribes and
-<lb/>with <choice><abbr>'</abbr><expan>the</expan></choice> coast such as that near to <choice><abbr>'</abbr><expan>the</expan></choice> confluence <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeba</geogName></placeName> &amp; <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeambye</geogName></placeName></p>
+<lb/>with <choice><abbr>'</abbr><expan>the</expan></choice> coast such as that near to <choice><abbr>'</abbr><expan>the</expan></choice> confluence <choice><abbr>` '</abbr><expan>of the</expan></choice> <placeName><geogName type="river" ref="geogName.xml#geog0232">Leeba</geogName></placeName> &amp; <placeName><geogName type="river" ref="geogName.xml#geog0099">Leeambye</geogName></placeName></p>
 <lb/><p>The <term type="ailment">fever</term> is certainly a drawback to this otherwise important
 <lb/><term type="occupation">missionary</term> field <space extent="2" unit="chars"/>The <seg type="weather">great humidity produced by heavy rains</seg>
 
@@ -8586,7 +8586,7 @@ that on <choice><abbr>'</abbr><expan>the</expan></choice> graves of <choice><abb
     <lb/><placeName><geogName type="river" ref="geogName.xml#geog0232"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> <space extent="2" unit="chars"/>The river is reported to be smooth above that as far as <persName ref="person.xml#pers0536">Sinamane</persName>
 <lb/>a <term type="tribe" ref="ethic-group.xml#ethnic0060">Batoka</term> chief who is said to <del type="cancelled">be</del> command <choice><abbr>'</abbr><expan>the</expan></choice> river after it emerges smooth
 <lb/>again below <choice><abbr>'</abbr><expan>the</expan></choice> falls <space extent="3" unit="chars"/><placeName><geogName type="rapids">Kansala</geogName></placeName> is <choice><abbr>'</abbr><expan>the</expan></choice> only rapid reported in <choice><abbr>'</abbr><expan>the</expan></choice> river until
-    <lb/>we came to <placeName><geogName type="rapids" ref="geogName.xml#geog0075">Kebrabasa</geogName></placeName> <measure>20 <choice><abbr>ms.</abbr><expan>miles</expan></choice></measure> above <placeName><settlement type="town" ref="settlement.xml#sett0091">Tete</settlement></placeName></add>
+    <lb/>we came to <placeName><geogName type="cataracts" ref="geogName.xml#geog0075">Kebrabasa</geogName></placeName> <measure>20 <choice><abbr>ms.</abbr><expan>miles</expan></choice></measure> above <placeName><settlement type="town" ref="settlement.xml#sett0091">Tete</settlement></placeName></add>
 <lb/><lb/><lb/><lb/><lb/>
 <lb/><space extent="20" unit="chars"/><add place="inline" corresp="#add-99" hand="#DL" n="DL">She would have been comely
 <lb/><space extent="17" unit="chars"/>if her teeth had been spared</add>
@@ -9353,7 +9353,7 @@ that on <choice><abbr>'</abbr><expan>the</expan></choice> graves of <choice><abb
 <lb/>"carry a child on the back". It is <measure>300 or 400
 <lb/>feet high</measure>, and on the top lie two dismounted
 <lb/>cannon which were used to frighten away
-<lb/>the <term type="tribe">Laudeens</term>, who in one attack upon <placeName><settlement type="town" ref="settlement.xml#sett0085"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>
+<lb/>the <term type="tribe" ref="ethic-group.xml#ethnic0074">Landeens</term>, who in one attack upon <placeName><settlement type="town" ref="settlement.xml#sett0085"><choice><orig>Senna</orig><reg>Sena</reg></choice></settlement></placeName>
 <lb/>killed 150 of the inhabitants. The prospect from 
 <lb/><placeName><geogName type="hill" ref="geogName.xml#geog0068">Baramua<subst><del type="cancelled" hand="#DL" n="DL">u</del><add place="below" hand="#DL" n="DL">^</add><add place="above" hand="#DL" n="DL">n</add></subst>a</geogName></placeName> is very fine, Below on the
 <lb/>eastward lies the <placeName><geogName type="river" ref="geogName.xml#geog0232"><choice><orig>Zambesi</orig><reg>Zambezi</reg></choice></geogName></placeName> with the village

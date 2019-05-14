@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet type="text/xsl" href="transcription-mt.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-mt.xsl"?>
 <!--http://livingstoneonline.github.io/LEAP-XSLT/-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_000099">
     <teiHeader>
@@ -4482,7 +4482,7 @@ to <placeName><settlement type="village">Shokuan</settlement></placeName> <metam
 <lb/>about <choice><abbr>N - W</abbr><expan>North West</expan></choice> of the <term type="tribe" ref="ethic-group.xml#ethnic0044">Bamangwato</term>
 <lb/>we next proceeded to a
 <lb/>real <placeName><geogName type="desert" ref="geogName.xml#geog0101">Kalahari</geogName></placeName> fountain
-<lb/><add place="marginleft" hand="#U3" rend="red">called</add> <del type="strikethrough" hand="#U3" rend="red">viz</del> - <placeName><geogName type="fountain" ref="geogName.xml#geog0210">Serotli</geogName></placeName> - The country
+<lb/><add place="marginleft" hand="#U3" rend="red">called</add> <del type="strikethrough" hand="#U3" rend="red">viz</del> - <placeName><geogName type="spring" ref="geogName.xml#geog0210">Serotli</geogName></placeName> - The country
 <lb/>around is covered with
 <lb/>bushes and tress of a kind
 <lb/>of <foreign xml:lang="la"><term type="plant">Leguminosae</term></foreign><add place="above" hand="#U2" rend="gray">a</add> <del type="strikethrough" hand="#U3" rend="red">covered</del>
@@ -4700,7 +4700,7 @@ by living on bulbs and
 <lb/>that before he had gone many
 <lb/>miles he would <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">certainly</add> reach water</p>
 <lb/><p>In the evening of our
-<lb/>second day at <placeName><geogName type="fountain" ref="geogName.xml#geog0210">Serotli</geogName></placeName> a
+<lb/>second day at <placeName><geogName type="spring" ref="geogName.xml#geog0210">Serotli</geogName></placeName> a
 <lb/><term type="animal"><choice><orig>hyaena</orig><reg>hyena</reg></choice></term> <add place="marginleft"><subst><del hand="#DL"><add place="inline" hand="#U2" rend="gray"><gap extent="4" unit="words" agent="illegible"/></add></del><add place="over-text" hand="#DL"><metamark function="insertion"/>by appearing
     <lb/>suddenly among</add></subst>
     <lb/>the grass</add><!-- there are some illegible words in pencil by #U2 underneath this portion of text.JL  -->
@@ -4774,7 +4774,7 @@ succeeded in raising
 <lb/>he knew to be directly opposed
 <lb/>to the interests of his own <term type="occupation">chief</term>
 <lb/>and tribe - </p>
-<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><unclear cert="medium"><persName ref="people.xml#pers0281">Coultait</persName></unclear> <metamark function="placeMark"/></note></add><!-- another editing word that would be benefit from being seen on the original page, ks --> All around <placeName><geogName type="fountain" ref="geogName.xml#geog0210">Serotli</geogName></placeName> the country
+<lb/><p><add place="marginleft" hand="#U2" rend="gray"><note><unclear cert="medium"><persName ref="people.xml#pers0281">Coultait</persName></unclear> <metamark function="placeMark"/></note></add><!-- another editing word that would be benefit from being seen on the original page, ks --> All around <placeName><geogName type="spring" ref="geogName.xml#geog0210">Serotli</geogName></placeName> the country
 <lb/>is perfectly flat &amp; composed
 <lb/>of soft white sand - There is
 <lb/>a <seg type="weather">peculiar glare of <w><subst><del>wh</del><add place="over-text">br</add></subst>ight</w> <w>sun<supplied>-</supplied>
@@ -4925,7 +4925,7 @@ But there is
 <lb/>into the wells we had dug in
 <lb/>sufficient quantity to allow
 <lb/>a good drink to all our
-<lb/><term type="animal">cattle</term> <del type="cancelled" hand="#U3" rend="red"><del type="cancelled" hand="#U2" rend="gray">&amp;</del></del> we departed from <placeName><geogName type="fountain" ref="geogName.xml#geog0210">Serotli</geogName></placeName>
+<lb/><term type="animal">cattle</term> <del type="cancelled" hand="#U3" rend="red"><del type="cancelled" hand="#U2" rend="gray">&amp;</del></del> we departed from <placeName><geogName type="spring" ref="geogName.xml#geog0210">Serotli</geogName></placeName>
 <lb/>in the afternoon but <seg type="weather">as the
 <lb/>sun even in winter as it now
 <lb/>was is always very powerful
@@ -4943,7 +4943,7 @@ But there is
 <lb/>stands but it was now dry
 <lb/>and at night our trocheamer
 <lb/><choice><orig>shewed</orig><reg>showed</reg></choice> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">that</add> we had made but
-<lb/><measure><subst><del>two</del><add place="over-text">25</add></subst> miles from <placeName><geogName type="fountain" ref="geogName.xml#geog0210">Serotli</geogName></placeName></measure> <persName ref="people.xml#pers0489"><w>Ra-
+<lb/><measure><subst><del>two</del><add place="over-text">25</add></subst> miles from <placeName><geogName type="spring" ref="geogName.xml#geog0210">Serotli</geogName></placeName></measure> <persName ref="people.xml#pers0489"><w>Ra-
 <lb break="no" />motobi</w></persName> was angry at the 
 <lb/>slowness of our progress
 <lb/>and told us that the <add place="below">^</add> <add place="above">next</add> water being
@@ -4959,7 +4959,7 @@ But there is
 <lb/>got only <measure>nineteen miles</measure> out of the
 <lb/>poor beasts - We had thus
 <lb/><del type="strikethrough">got</del> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">proceeded</add> <measure>44 miles</measure> <del type="strikethrough" rend="red">away</del> from
-<lb/><placeName><geogName type="fountain" ref="geogName.xml#geog0210">Serotli</geogName></placeName> and the <term type="animal">oxen</term> <add place="above" hand="#U3" rend="red">were</add> <del type="strikethrough" hand="#U3" rend="red"><subst><del hand="#DL">being</del><add place="over-text">were</add></subst></del> <del type="cancelled"><add place="above">were</add></del>
+<lb/><placeName><geogName type="spring" ref="geogName.xml#geog0210">Serotli</geogName></placeName> and the <term type="animal">oxen</term> <add place="above" hand="#U3" rend="red">were</add> <del type="strikethrough" hand="#U3" rend="red"><subst><del hand="#DL">being</del><add place="over-text">were</add></subst></del> <del type="cancelled"><add place="above">were</add></del>
 <lb/>more exhausted by the <add place="above" hand="#U3" rend="red">soft</add> <del type="cancelled">soft</del>
 <lb/>nature of the country than
 <lb/>if they had travelled double the
@@ -5015,7 +5015,7 @@ But there is
     <lb/>the water 
     <lb/>we were in
     <lb/>search of</add>
-<del type="cancelled">away back to <placeName><geogName type="fountain" ref="geogName.xml#geog0210">Serotli</geogName></placeName>,</del>
+<del type="cancelled">away back to <placeName><geogName type="spring" ref="geogName.xml#geog0210">Serotli</geogName></placeName>,</del>
 <lb/>viewed the operation of
 <lb/><add place="marginleft" hand="#U2" rend="gray"><note><seg rend="vertical"><hi rend="underline">obscure</hi></seg> <space extent="2" unit="chars"/><metamark function="query" rend="red" resp="#U3"><hi rend="double-underline"><choice><abbr>Qu</abbr><expan>Query</expan></choice></hi></metamark></note></add>  slaughtering <add place="below">^</add> <add place="above">skinning &amp; cutting up</add> the <del type="cancelled" hand="#DL"><del type="cancelled" hand="#U3" rend="red"><term type="animal">düiker</term></del></del> <del type="cancelled">and</del>
 <lb/><add place="marginleft"><add place="below">˄</add> <add place="above"><term type="animal">antelope</term></add> then</add> after a hard day's toil found
@@ -6091,7 +6091,7 @@ in order to go
     <lb/>to <persName ref="people.xml#pers0515">Sebituane</persName> in the North - <persName ref="people.xml#pers0520">Sekomi</persName>
 <lb/>had given orders to fill up the wells
 <lb/>which we had dug with so much 
-<lb/>labour at <placeName><settlement type="village" ref="geogName.xml#geog0210">Serotli</settlement></placeName>, So we took
+<lb/>labour at <placeName><geogName type="spring" ref="geogName.xml#geog0210">Serotli</geogName></placeName>, So we took
 <lb/>the more Eastern route through
 <lb/>the <term type="tribe" ref="ethic-group.xml#ethnic0044">Bamang<subst><del>w</del><add place="over-text">u</add></subst>ato</term> town <subst><del>by</del><add place="over-text">and</add></subst> by
 <lb/><placeName><settlement type="village" ref="settlement.xml#sett0067">Letloche</settlement></placeName> - That <term type="occupation">chief</term> asked why
@@ -7031,7 +7031,7 @@ only <measure>50 <choice><abbr>yds</abbr><expan>yards</expan></choice>
 <lb/>Many of his <term type="animal">cattle</term> burst away
 <lb/>from him in the frenzy 
 <lb/>of thirst and rushed back
-<lb/>to <placeName><geogName type="fountain" ref="geogName.xml#geog0210">Serotli</geogName></placeName> (then a large water)
+<lb/>to <placeName><geogName type="spring" ref="geogName.xml#geog0210">Serotli</geogName></placeName> (then a large water)
 <lb/>and to <placeName><geogName type="spring" ref="geogName.xml#geog0165">Mashüe</geogName></placeName> and <placeName><geogName type="spring" ref="geogName.xml#geog0126">Lopepe</geogName></placeName>
 <lb/>the habitations of their original
 <lb/>owners - He <w>re<subst><del type="strikethrough" rend="red" hand="#U3">furnished</del><add place="above" rend="red" resp="#U3">stocked</add></subst></w>
@@ -7607,7 +7607,7 @@ The <term type="tribe" ref="ethic-group.xml#ethnic0082">Makololo</term>
 <lb/>on enquiry we learned
 <lb/>that these had been purchased
 <lb/><del type="strikethrough" hand="#U3" rend="red">with boys</del> - from a tribe <metamark function="insertion" rend="red" resp="#U3"/><anchor xml:id="reorder-33"/> which
-<lb/>is situated near <placeName><geogName type="plateau">Bihé</geogName></placeName>
+<lb/>is situated near <placeName><geogName type="plateau" ref="geogname.xm#geog0071">Bihé</geogName></placeName>
 <lb/><add place="marginleft" hand="#U3" rend="red">in exchange for boys</add> <metamark function="reorder" rend="red" resp="#U3" spanTo="#meta-74"/><seg corresp="#reorder-33">called <term type="tribe" ref="ethic-group.xml#ethnic0083">Mambari</term></seg><anchor xml:id="meta-74"/> - <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">This tribe</add><del type="strikethrough" hand="#U3" rend="red">They came
 <lb/>and</del> began the <orgName>slave trade</orgName>
 <lb/>with <persName ref="people.xml#pers0515">Sebituane</persName> only in
@@ -9954,7 +9954,7 @@ The original
 <lb/>some of his principal men
 <lb/><del type="cancelled" hand="#U3" rend="red">went</del> in spite of this declaration
 <lb/><del type="cancelled" hand="#U3" rend="red">and</del> plundered some villages
-<lb/><add place="marginleft">of <term type="tribe">Corannas</term> <add place="below">^</add></add> living to the South of the
+<lb/><add place="marginleft">of <orgName ref="orgname.xml#org0090">Corannas</orgName> <add place="below">^</add></add> living to the South of the
 <lb/><placeName><geogName type="river" ref="geogName.xml#geog0196">Orange River</geogName></placeName> - He immediately
 <lb/>seized six of the ringleaders
 <lb/>and though the step put his 
@@ -12278,7 +12278,7 @@ no longer <subst><add place="above">necessary</add><del type="cancelled">desirab
 <lb/>proportion to the greater
 <lb/>or less amount of <orgName>European</orgName>
 <lb/>blood in the patient -
-<lb/>Among the <term type="tribe">Corannas</term> and
+<lb/>Among the <orgName ref="orgname.xml#org0090">Corannas</orgName> and
     <lb/><orgName ref="orgName.xml#org0057">Griquas</orgName> of mixed breed
 <lb/>it produces the same
 <lb/>ravages as in <placeName><bloc>Europe</bloc></placeName> -
@@ -12843,7 +12843,7 @@ they "<quote>Held <choice><sic>oer</sic><corr>o'er</corr></choice> the dead thei
 <lb/>Hence the disgust with which
 <lb/>they were viewed</p>
 <lb/><p>In proceeding from
-    <lb/><placeName><geogName type="stream" ref="geogName.xml#geog0114">Khopong</geogName></placeName> along the ancient
+<lb/><placeName><geogName type="river" ref="geogName.xml#geog0114">Khopong</geogName></placeName> along the ancient
 <lb/>river bed which forms the
 <lb/>pathway to <placeName><geogName type="spring" ref="geogName.xml#geog0072">Boatlanama</geogName></placeName>
 <lb/>we found another species
@@ -12876,7 +12876,7 @@ they "<quote>Held <choice><sic>oer</sic><corr>o'er</corr></choice> the dead thei
 <lb/>I had formerly seen a running
 <lb/>stream <del type="cancelled"><unclear cert="medium">was</unclear></del> <del type="cancelled">and a</del> <add place="above">from a</add> large
 <lb/><add place="marginleft">reedy</add> pool was also dry - The hot
-    <lb/>salt spring of <placeName><geogName type="fountain" ref="geogName.xml#geog0209">Serinane</geogName></placeName> East of
+<lb/>salt spring of <placeName><geogName type="spring" ref="geogName.xml#geog0209">Serinane</geogName></placeName> East of
 <lb/><placeName><geogName type="spring" ref="geogName.xml#geog0126">Lopepe</geogName></placeName> <subst><del><unclear cert="medium">was</unclear></del><add place="over-text">being</add></subst> undrinkable
 <lb/>we pushed on to <placeName><geogName type="spring" ref="geogName.xml#geog0165">Mashue</geogName></placeName>
 <lb/><add place="marginleft">for</add> <del type="strikethrough">with</del> its delicious waters
@@ -12987,7 +12987,7 @@ make a very agreeable dish
 <lb/>being identical - </p>
 <lb/><p>I once found a <term type="animal">buffalo</term>
 <lb/><term type="ailment">blind</term> from <term type="ailment">ophthalmia</term> standing
-<lb/>by the fountain <add place="above"><placeName><geogName type="fountain" ref="geogName.xml#geog0196">Otse</geogName></placeName></add> <del type="strikethrough">and</del> when
+<lb/>by the fountain <add place="above"><placeName><geogName type="spring" ref="geogName.xml#geog0196">Otse</geogName></placeName></add> <del type="strikethrough">and</del> when
 <lb/>he attempted to run he lifted
 <lb/>up his feet in the peculiar
 <lb/>manner <term type="ailment">blind</term> animals do,
@@ -14145,7 +14145,7 @@ the <choice><sic>antient</sic><corr>ancient</corr></choice>
 <lb/>and like all the recent 
 <lb/>volcanic rocks have a
 <lb/>hot fountain in their
-<lb/><add place="marginleft" rend="red" hand="#U3"><del type="cancelled"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></note></del></add> <del type="cancelled" rend="red" hand="#U3"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-251"/></del>vicinity<add place="inline" rend="red" hand="#U3">;</add> <choice><abbr>viz</abbr><expan>videlicet</expan></choice> - <placeName><geogName type="fountain" ref="geogName.xml#geog0209">Serinane</geogName></placeName><del type="cancelled" rend="red" hand="#U3"><anchor xml:id="meta-251"/></del>
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="cancelled"><note><metamark function="query"><choice><abbr>Qu:</abbr><expan>Query</expan></choice></metamark></note></del></add> <del type="cancelled" rend="red" hand="#U3"><metamark function="flag" rend="red" resp="#U3" spanTo="#meta-251"/></del>vicinity<add place="inline" rend="red" hand="#U3">;</add> <choice><abbr>viz</abbr><expan>videlicet</expan></choice> - <placeName><geogName type="spring" ref="geogName.xml#geog0209">Serinane</geogName></placeName><del type="cancelled" rend="red" hand="#U3"><anchor xml:id="meta-251"/></del>
 
     <pb facs="liv_000099_0366" n="0366"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray right"><subst><del hand="#U1">6</del><add place="over-text" hand="#U1" rend="gray">344</add></subst></add></fw>
