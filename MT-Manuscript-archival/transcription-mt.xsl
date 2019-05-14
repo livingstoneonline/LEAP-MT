@@ -19,6 +19,11 @@
 			<xd:p><xd:b>Author:</xd:b> Justin Livingstone</xd:p>
 			<xd:p>Revisions for Missionary Travles</xd:p>
 			<xd:p>Updated in Mar 2017.</xd:p>
+		<xd:desc>
+			<xd:p><xd:b>Author:</xd:b> Justin Livingstone</xd:p>
+			<xd:p>Revisions for Missionary Travels</xd:p>
+			<xd:p>Updated in May 2019.</xd:p>
+		</xd:desc>
 		</xd:desc>
 	</xd:doc>
 	
