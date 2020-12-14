@@ -7887,8 +7887,7 @@ with
 <lb/>man whose name it bears,
 <lb/>and incomparably the least
 <lb/>expensive to the mother country
-<lb/>This policy was put an
-<lb/><gap extent="6" unit="lines"/><!-- This is another example of the scanned MS having lines of the page blacked out. The text on the next page follows coherently though, so it may be a rip on the page. PS --> <!-- I think it's been cut out.JL -->
+<lb/>This policy was put an <!-- This is another example of the scanned MS having lines of the page blacked out. The text on the next page follows coherently though, so it may be a rip on the page. PS --> <!-- I think it's been cut out.JL -->
 
     <pb facs="liv_000099_0201" n="0201"/>             
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">12</add> <add place="inspace" hand="#U1" rend="gray right">196</add></fw>
@@ -8290,7 +8289,7 @@ with
 <lb/>have a "<bibl>Times</bibl> <term type="occupation">commissioner</term>"</p>
 
     <pb facs="liv_000099_0211" n="0211"/>
-<lb/><gap extent="4" unit="lines"/>
+<lb/><lb/><lb/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">206</add></fw>
 <lb/><p>Without supposing these
 <lb/>people to be <del type="strikethrough">either</del> worse than
@@ -8464,7 +8463,6 @@ with
 <lb/>offer a very brief sketch of this remarkable man who has <gap unit="chars" extent="2" agent="illegible"/>
 <lb/><gap unit="chars" extent="2" agent="illegible"/> embraced <term type="faith">Christianity</term> but expounds its doctrines
 <lb/>to his people <space extent="3" unit="chars"/>et c et c</add>
-<lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/>
 
     <pb facs="liv_000099_0217" n="0217"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">210</add></fw>
@@ -9458,9 +9456,7 @@ had in view</p>
 <lb/>except <del type="strikethrough" hand="#U3" rend="red">by</del> <add place="marginleft" hand="#U3" rend="red">at the cost of</add> an immense amount
 <lb/>of labour - The place <add place="below" rend="red" hand="#U3"><del type="strikethrough" rend="red" hand="#U3">^</del></add> <add place="above" rend="red" hand="#U3"><del type="strikethrough" rend="red" hand="#U3">thus</del></add> becomes
 <lb/>in the course of a few years
-<lb/><del type="strikethrough" hand="#U3" rend="red">as was intended</del> a <term type="animal">sheep</term> farm
-<lb/><gap extent="10" unit="lines"/>
-<!-- page cut, losing 10 lines, sh -->
+<lb/><del type="strikethrough" hand="#U3" rend="red">as was intended</del> a <term type="animal">sheep</term> farm <!-- page cut, losing 10 lines, sh -->
 
     <pb facs="liv_000099_0243" n="0243"/>
 <lb/><fw><add place="inspace" hand="#U2" rend="gray center">196</add> <add place="inspace" rend="gray right" hand="#U1">236</add></fw>
@@ -13634,7 +13630,6 @@ When in
 <lb/>have been seen to chase
 <lb/>a <term type="animal">lion</term> up the hills bellowing
 <lb/>as if they enjoyed the sport.</add>
-<lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/>
 
     <pb facs="liv_000099_0353" n="0353"/>                           
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">334</add></fw>
@@ -13671,7 +13666,7 @@ I happened to leave a small
 <lb/>near the head but did not
 <lb/>stop to examine - </p>
 <lb/><lb/><lb/>    
-                <lb/><p><add place="inline" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0572">Wilkes</persName></note></add> Some of the <term type="animal">serpents</term> are
+<lb/><p rend="no-indent"><add place="inline" hand="#U2" rend="gray"><note><persName ref="people.xml#pers0572">Wilkes</persName></note></add> Some of the <term type="animal">serpents</term> are
 <lb/>particularly venomous. 
                     <lb/><w><choice><sic><hi rend="double-underline">o</hi>ne</sic><corr>One</corr></choice></w> <add place="below" hand="#U3" rend="red">^</add> <add place="above" hand="#U3" rend="red">was</add> killed at <placeName><settlement type="village" ref="settlement.xml#sett0006">Kolobeng</settlement></placeName>
 <lb/>of a dark brown, nearly
@@ -14037,7 +14032,7 @@ that <del type="cancelled">bold young</del> innovators
 <lb/>as is often done to <del type="strikethrough">the</del> a
 <lb/><term type="faith">Mahometan</term><del type="cancelled">s</del> source - <del type="cancelled" hand="#DL"><del type="cancelled" rend="red" hand="#U3"><metamark function="flag" spanTo="#meta-130"/><del type="cancelled" hand="#DL">We</del></del></del>           
 <lb/><add place="marginleft">no more than we</add> <del type="cancelled" hand="#DL"><del type="cancelled" rend="red" hand="#U3"><del type="strikethrough" hand="#DL">never</del>, ascribe the custom of</del></del>
-<lb/><del type="strikethrough"><add place="marginleft" rend="red" hand="#U3"><note>Omit</note></add></del> <metamark function="query" place="marginleft" resp="#DL">?</metamark> <del type="cancelled" hand="#DL"><del type="cancelled" rend="red" hand="#U3">the <term type="people">scotch</term> in ascribing <del type="cancelled" hand="#DL">adultery</del></del></del>
+<lb/><add place="marginleft" rend="red" hand="#U3"><del type="cancelled" hand="#DL"><note>Omit</note></del></add> <metamark function="query" place="marginleft" resp="#DL">?</metamark> <del type="cancelled" hand="#DL"><del type="cancelled" rend="red" hand="#U3">the <term type="people">scotch</term> in ascribing <del type="cancelled" hand="#DL">adultery</del></del></del>
 <lb/><add place="marginleft">certain sins <add place="below">^</add></add> <del type="cancelled" hand="#DL"><del type="cancelled" rend="red" hand="#U3">to the divine decree as derived 
 <lb/>from <metamark function="let-stand" spanTo="#meta-250"/><seg type="let-stand" rend="dashed">the fatalism of the <term type="nationality">Turks</term></seg><anchor xml:id="meta-250"/><anchor xml:id="meta-130"/></del></del></p>
 <lb/>                
@@ -14067,7 +14062,6 @@ that <del type="cancelled">bold young</del> innovators
 <lb/>fore arm which must have
 <lb/>been done to test their power
 <lb/>of bearing pain - </p>
-<lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/>
 
     <pb facs="liv_000099_0364" n="0364"/>
 <lb/><fw><add place="inspace" hand="#U1" rend="gray right">342</add> <del type="cancelled" hand="#U1" rend="gray"><add place="inspace" hand="#U2" rend="gray">4</add></del></fw>
@@ -14134,7 +14128,7 @@ The <hi rend="red underline" resp="#U3">latter tribe</hi> <add place="below">^</
     <lb/><persName ref="people.xml#pers0389">Mankopane</persName> - </p>
 <lb/><p>This mass of basalt about
 <lb/><measure>six miles long</measure> has tilted
-<lb/><del type="strikethrough"><add place="marginleft" hand="#U3" rend="red"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> <unclear cert="low">say</unclear></note></add></del> up the rocks<add place="inline" rend="red" hand="#U3">,</add> on both the
+<lb/><add place="marginleft" hand="#U3" rend="red"><del type="cancelled" hand="#DL"><note><metamark function="query"><choice><abbr>Qu</abbr><expan>Query</expan></choice></metamark> <unclear cert="low">say</unclear></note></del></add> up the rocks<add place="inline" rend="red" hand="#U3">,</add> on both the
 <lb/>East &amp; West<add place="inline" rend="red" hand="#U3">;</add> <add place="below" rend="red" hand="#U3">^</add> <add place="marginleft" rend="red" hand="#U3"><del type="strikethrough" hand="#DL">These are <add place="below">^</add></del></add>
     <lb/><add place="marginleft" hand="#DL">The upheaved
     <lb/>rocks</add>
