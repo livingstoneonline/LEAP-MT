@@ -621,7 +621,9 @@ div.transcription.style-mt-published td {
 	width: auto;
 } */
 div.transcription.style-mt-published .table.liv_015011_0458,
-div.transcription.style-mt-published .table.liv_015011_0459{
+div.transcription.style-mt-published .table.liv_015011_0459,
+div.transcription.style-mt-published .table.liv_015011_0497,
+div.transcription.style-mt-published .table.liv_015011_0498{
 	font-size: .8em;
 	color:#46381e;
 	border-collapse: collapse;
@@ -656,7 +658,17 @@ div.transcription.style-mt-published table.table.liv_015011_0459.second:nth-chil
 div.transcription.style-mt-published table.table.liv_015011_0459.second:nth-child(57) > tbody:nth-child(1) > tr > td:nth-child(2){
 	padding-left: .5em;
 }
+div.transcription.style-mt-published .table.liv_015011_0497{
+	margin-left: 1em;
+}
 
+div.transcription.style-mt-published .table.liv_015011_0497 > tbody:nth-child(1) > tr > td{
+	width: 25%;
+}
+
+div.transcription.style-mt-published .table.liv_015011_0497.second > tbody:nth-child(1) > tr > td:nth-child(2){
+	padding-left: 3em;
+}
 
 /* 12. Misc */
 
