@@ -37,7 +37,7 @@
 				<meta name="viewport" content="width=device-width, initial-scale=1"/>
 				<link rel="stylesheet" type="text/css" href="http://livingstoneonline.github.io/LEAP-XSLT/normalize.css"/>
 				<link rel="stylesheet" type="text/css" href="http://livingstoneonline.github.io/LEAP-XSLT/common.css"/>
-				<link rel="stylesheet" type="text/css" href="http://livingstoneonline.github.io/LEAP-XSLT/style-mt-published.css"/><!-- http://livingstoneonline.github.io/LEAP-XSLT/ -->
+				<link rel="stylesheet" type="text/css" href="style-mt-published.css"/><!-- http://livingstoneonline.github.io/LEAP-XSLT/ -->
 				<title>
 					<xsl:value-of select="//teiHeader//title[1]"/>
 				</title>
@@ -1347,7 +1347,7 @@
 
 	<!-- Beginning of elements that go with table -->
 	<xsl:template match="table">
-		<table>
+		<table class="{concat(name(), ' ', @n)}">
 			<xsl:apply-templates/>
 			<!-- select="@*|node()" -->
 		</table>
