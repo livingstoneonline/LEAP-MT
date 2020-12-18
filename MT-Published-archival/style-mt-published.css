@@ -695,6 +695,9 @@ div.transcription.style-mt-published .table.liv_015011_0498 > tbody:nth-child(1)
 div.transcription.style-mt-published .table.liv_015011_0498 > tbody:nth-child(1) > tr > td:not(:last-child){
 	border-right: 1px #46381e solid;	
 }
+div.transcription.style-mt-published .table.liv_015011_0498.second > tbody:nth-child(1) > tr > td:last-child{
+	width: 16%;
+}
 div.transcription.style-mt-published .table.liv_015011_0498.first > tbody:nth-child(1) > tr > td:not(:last-child){
 	width: 12%;	
 }
