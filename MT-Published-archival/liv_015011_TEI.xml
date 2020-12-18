@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://livingstoneonline.github.io/LEAP-ODD/leap.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-stylesheet href="http://livingstoneonline.github.io/LEAP-XSLT/transcription-mt-published.xsl" type="text/xsl"?>
+<?xml-stylesheet href="transcription-mt-published.xsl" type="text/xsl"?>
 <!--<?xml-stylesheet href="transcription-mt-published.xsl" type="text/xsl"?>-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="liv_015011">
 	<teiHeader>
@@ -3546,7 +3546,7 @@ From Wilkinson’s ‘Ancient Egyptians,’ pp. 85, 86.
 	<p>Numbers of other articles are brought for sale to these sleeping-places. The native smiths there carry on their trade. I bought ten very good table-knives, made of country iron, for two pence each.</p>
 	<p>Labour is extremely cheap, for I was assured that even carpenters, masons, smiths, &amp;c., might be hired for four pence a day, and agriculturists would gladly work for half that sum.<ref target="note_33, note_34">*</ref></p>
 		<lb/><lb/><note xml:id="note_33">* In order that the reader may understand the social position of the people of this country, I here give the census of the district of Golungo Alto for the year 1854, though the numbers are evidently not all furnished:—</note>
-<note rend="no-indent"><table><row><cell>238 householders or yeomen.</cell><cell>300 shoemakers.</cell></row>
+<table n="liv_015011_0458"><row><cell>238 householders or yeomen.</cell><cell>300 shoemakers.</cell></row>
 <row><cell>4224 patrons, or head-men of 
 several hamlets.</cell><cell>181 potters.</cell></row>
 <row><cell></cell><cell>25 tailors.</cell></row>
@@ -3555,13 +3555,13 @@ several hamlets.</cell><cell>181 potters.</cell></row>
 <row><cell>5838 carriers.</cell><cell>486 bellows-blowers.</cell></row>
 <row> <cell>126 carpenters.</cell><cell>586 coke-makers.</cell></row>
 <row><cell>72 masons.</cell><cell>173 iron-miners.</cell></row>
-<row><cell></cell><cell></cell><cell>184 soldiers</cell></row></table></note>
+<row><cell></cell><cell></cell><cell>184 soldiers</cell></row></table>
 
 
 	<pb facs="liv_015011_0459" n="0459"/>
 <fw type="pageno" n="401" place="top"><seg rend="left smallcaps">CHAP. XX.</seg> <seg rend="center">COFFEE-PLANTATIONS.</seg> <seg rend="right">401</seg></fw> 
 	<p>Being anxious to obtain some more knowledge of this interesting country and its ancient missionary establishments than the line of route by which we had come afforded, I resolved to visit the town of Massangano, which is situated to the south of Golungo Alto, and at the confluence of the rivers Lucalla and Coanza. This led me to pass through the district of Cazengo, which is rather famous for the abundance and excellence of its coffee. Extensive coffee plantations were found to exist on the sides of the several lofty mountains that compose this district. They were not planted by the Portuguese. The Jesuit and other missionaries are known to have brought some of the fine old Mocha seed, and these have propagated themselves far and wide; hence the excellence of the Angola coffee. Some have asserted that, as new plantations were constantly discovered even during the period of our visit, the coffee-tree was indigenous; but the fact that pine-apples, bananas, yams, orange-trees, custard apple-trees, pitangas, guavas, and other South American trees, were found by me in the same localities with the recently-discovered coffee, would seem to indicate that all foreign trees must have been</p>
-		<note xml:id="note_34"><table><row><cell rend="left">184 soldiers of militia.</cell><cell rend="right">9578 free women.</cell></row>
+<table n="liv_015011_0459"><row><cell rend="left">184 soldiers of militia.</cell><cell rend="right">9578 free women.</cell></row>
 <row><cell rend="left">3603 privileged gentlemen, <hi rend="italic">i.e.</hi>, who may wear boots.</cell><cell rend="right">393 possessors of land.</cell></row>
 <row><cell></cell><cell>300 female gardeners</cell></row>
 <row><cell rend="left">18 vagabonds.</cell><cell rend="right">139 hunters of wild animals.</cell></row>
@@ -3569,13 +3569,13 @@ several hamlets.</cell><cell>181 potters.</cell></row>
 <row><cell rend="left">54 blind men and women.</cell><cell rend="right">314 mat-makers.</cell></row>
 <row><cell rend="left">81 lame men and women.</cell><cell rend="right">4065 males under 7 years of age.</cell></row>
 <row><cell rend="left">770 slave men.</cell><cell rend="right">6012 females under 7 years of age.</cell></row>
-<row><cell rend="left">807 slave women.</cell></row>
-</table></note>
+<row><cell rend="left">807 slave women.</cell></row></table>
+
 <note rend="no-indent">These people possess 300 idol-houses, 600 sheep, 5000 goats, 500 oxen, 398 gardens, 25,120 hearths. The authorities find great difficulty in getting the people to furnish a correct account of their numbers. This census is quoted merely for the purpose of giving a general idea of the employments of the inhabitants.</note> 
 <note>The following is taken from the census of Icollo i Bengo, and is added for a similar reason:—</note>
-<table><row><cell rend="left">3232 living without the marriage tie. (All those who have not been married by a priest are so distinguished.)</cell><cell rend="right">11 tailors.
-2 shoemakers
-3 barbers.</cell></row>
+<table n="liv_015011_0459 second"><row><cell rend="left">3232 living without the marriage tie. (All those who have not been married by a priest are so distinguished.)</cell><cell rend="right">11 tailors.
+<lb/><seg>2 shoemakers</seg>
+<lb/><seg>3 barbers</seg>.</cell></row>
 <row><cell rend="left">4 orphans—2 black and 2 white.</cell><cell rend="right">5 mat-makers.</cell></row>
 <row><cell rend="left">9 native chiefs.</cell><cell rend="right">12 sack-makers.</cell></row>
 <row><cell rend="left">2 carpenters.</cell><cell rend="right">21 basket-makers</cell></row>
