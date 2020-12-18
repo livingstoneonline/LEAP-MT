@@ -566,7 +566,7 @@ div.transcription.style-mt-html .large {
 	font-size:120%;
 }
 div.transcription.style-mt-html .seg.left {
-	position:relative;
+	/* position:relative; */
 	right:4em;
 }
 div.transcription.style-mt-html .body.left {
