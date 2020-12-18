@@ -661,11 +661,24 @@ div.transcription.style-mt-published table.table.liv_015011_0459.second:nth-chil
 div.transcription.style-mt-published .table.liv_015011_0497{
 	margin-left: 1em;
 }
-
 div.transcription.style-mt-published .table.liv_015011_0497 > tbody:nth-child(1) > tr > td{
 	width: 25%;
 }
-
+div.transcription.style-mt-published .table.liv_015011_0497.first{
+	margin-top: 1em;
+	border-top: 2px #46381e solid;
+	border-bottom: 2px #46381e solid;
+}
+div.transcription.style-mt-published .table.liv_015011_0497.first > tbody:nth-child(1) > tr:nth-child(3){
+	border-top: 1px #46381e solid;
+}
+div.transcription.style-mt-published .table.liv_015011_0497.first > tbody:nth-child(1) > tr:nth-child(2) > td:not(:first-child){
+	border-top: 1px #46381e solid;
+}
+div.transcription.style-mt-published .table.liv_015011_0497.first > tbody:nth-child(1) > tr > td:nth-child(2){
+	border-left: 1px #46381e solid;
+	border-right: 4px #46381e double;
+}
 div.transcription.style-mt-published .table.liv_015011_0497.second > tbody:nth-child(1) > tr > td:nth-child(2){
 	padding-left: 3em;
 }
