@@ -607,18 +607,54 @@ div.transcription.style-mt-published .list {
 	display:block;
 	margin-top:12px;
 }
-div.transcription.style-mt-published table {
-	padding-left:20px;
-	font-size:.9em; /*85%;*//*Changed for 1870 Field Diary*/
-	border-style:none; /*Needed so that the text doesn't run up against the right edge in the viewer.*/
-	color:#46381e; /*Added color for 1870 Field Diary*/
-}
-div.transcription.style-mt-published tr,
+/*div.transcription.style-mt-published table {*/
+	/*font-size:.9em;*/ /*85%;*//*Changed for 1870 Field Diary*/
+	/*color:#46381e;*/ /*Added color for 1870 Field Diary*/
+	/* padding-left:20px; */
+	/*border-style:none;*/ /*Needed so that the text doesn't run up against the right edge in the viewer.*/
+/*}*/
+/* div.transcription.style-mt-published tr,
 div.transcription.style-mt-published td {
 	border-style:none;
+} */
+/* div.transcription.style-mt-published td {
+	width: auto;
+} */
+div.transcription.style-mt-published .table.liv_015011_0458,
+div.transcription.style-mt-published .table.liv_015011_0459{
+	font-size: .8em;
+	color:#46381e;
+	border-collapse: collapse;
 }
-div.transcription.style-mt-published td {
-	width:auto;
+div.transcription.style-mt-published .table.liv_015011_0458{
+	margin-left: 2em;
+}
+div.transcription.style-mt-published .table.liv_015011_0459{
+	margin: 1em 0;
+}
+div.transcription.style-mt-published .table.liv_015011_0458 > tbody > tr > td:nth-child(1){
+	width: 47%;
+	border-right: 1px #46381e solid;
+	padding-right: 1em;
+	margin-right: 0;
+}
+div.transcription.style-mt-published .table.liv_015011_0458 > tbody > tr > td:nth-child(2){
+	padding-left: 1em;
+}
+div.transcription.style-mt-published .table.liv_015011_0459 > tbody > tr > td:nth-child(1){
+	width: 54%;
+	border-right: 1px #46381e solid;
+	padding-right: 0;
+	margin-right: 0;
+}
+div.transcription.style-mt-published table.table.liv_015011_0459.second{
+	margin-left: 3em;
+}
+div.transcription.style-mt-published table.table.liv_015011_0459.second:nth-child(57) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(2) > span{
+	padding-left: .2em;
+}
+div.transcription.style-mt-published table.table.liv_015011_0459.second:nth-child(57) > tbody:nth-child(1) > tr > td:nth-child(2){
+	padding-left: .5em;
 }
 
 
